@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Start Far Cry N6 on Your PC – No More Worry!
-date: 2024-08-05 13:23:25
-updated: 2024-08-07 11:57:58
+date: 2024-08-06T09:41:29.637Z
+updated: 2024-08-07T09:41:29.637Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
  Please make sure you’re running the latest version of the Windows system and avoid any kind of overclocking before heading to the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## How to fix Far Cry 6 not launching on PC?
 
  Below are some exact troubleshooting steps to fix the ‘Far Cry 6 not launching’ issue. You don’t have to try them all; just walk your way down until you find the one that works for you.
@@ -42,6 +46,9 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 5. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background applications](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ### Fix 1\. Make sure your gear meets the minimum requirements
 
  If your system does not meet the requirements, this will most likely be the cause of any performance issues you may be experiencing.
@@ -98,11 +105,17 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 | DirectX    | DirectX 12                                                                 |
 | Hard Drive | 60 GB available storage                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2\. Run your game as admin
 
  In case lacking administrative privileges cause your Far Cry 6 not to start, we recommend that you run the game executable file and game launcher (Ubisoft Connect / Epic Games Launcher) as an administrator.
 
 1. Close any game-related apps. Then Right-click your Ubisoft Connect and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/properties.jpg)
 2. Go to the **Compatibility**  tab and  
 ![run ubisoft as admin](https://images.drivereasy.com/wp-content/uploads/2021/10/run-as-admin.jpg)
@@ -111,6 +124,9 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
  Try restarting the game and see if it helps with the ‘Far Cry 6 not launching’ issue. If not, don’t worry since we have a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3\. Verify your games files
 
  Corrupted game files can cause your game not to launch, and it’s easily done by verifying your game files. Here’s how:
@@ -135,6 +151,14 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -150,6 +174,9 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 ![Enable in-game overlay for supported games](https://images.drivereasy.com/wp-content/uploads/2021/10/in-game-overlay.jpg)
 3. Try Far Cry 6 again to test the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Fix 6\. Disable background applications
 
  Some Microsoft services or third-party software may interfere with your Far Cry 6\. If that’s the case, you may need to close all background programs and reboot your system.
@@ -158,6 +185,9 @@ thumbnail: https://thmb.techidaily.com/74b19b5ea815c7a95f7dc9b836800198030132a31
 2. Type in _**msconfig**_ and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.jpg)
 3. Choose **Selective startup** , and uncheck **Load startup items** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Uncheck Load startup item](https://images.drivereasy.com/wp-content/uploads/2021/10/load-start-ups-no.jpg)
 4. Reboot your system.
 

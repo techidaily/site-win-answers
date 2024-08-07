@@ -1,7 +1,7 @@
 ---
 title: Valorant ‘Graphics Driver Crashed’ Error [Quick Fix]
-date: 2024-08-04 21:45:53
-updated: 2024-08-07 10:20:45
+date: 2024-08-06T09:41:23.818Z
+updated: 2024-08-07T09:41:23.818Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/47a95c239b7223a89568bec86e25318318c6bf5e0
 
 If you’re presented with the**Graphics Driver Crashed** error on Valorant and wonder how to fix it quickly, you’re in the right spot. No matter what graphics card (NVIDIA/AMD/Intel) you’re using, we’ve put together every possible fix for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Before you try any of the following fixes, please check the display settings and make sure you’re using the right GPU. If you’re using the dedicated GPU, you can start trying the following fixes:
@@ -31,6 +35,9 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 8. **[Turn VSync off](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Riot Vanguard](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
  You will get this error message**Graphics driver crashed** if the driver is outdated, corrupted, or incompatible, so you should try updating the graphics driver, especially when you haven’t done so for a while.
@@ -61,6 +68,9 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Roll back the graphics driver
 
  If the error**Graphics driver crashed** happens and your Volorant keeps crashing after a graphics driver update, you should roll back to its previous version.
@@ -74,6 +84,9 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3: Update DirectX
 
  This error might happen if you’re using an outdated version of DirectX, which causes problems when your Valorant is interacting with your graphics card. Here’s how to check if you’re using the latest DirectX:
@@ -94,6 +107,9 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 To fix this, you can try resetting the software to default:
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### NVIDIA Control Panel
 
 * Right-click on your **Desktop** and select **NVIDIA Control Panel** .
@@ -118,6 +134,9 @@ To fix this, you can try resetting the software to default:
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ## Fix 7: Close all background apps
 
  Another possible cause of the error is application interference. You can press**Ctrl** +**Shift** +**Esc** to open Task Manager and close all unnecessary applications.
@@ -126,6 +145,11 @@ To fix this, you can try resetting the software to default:
 
  Since the third-party antivirus application hooks very deep into your system, so disabling it may not always work.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ## Fix 8: Turn VSync off
 
  Some players find that disabling VSync perfectly fixes their Valorant crashing issue. Enabling VSync will force your game to run maximum at your monitor’s refresh rate (usually 60 Hz). In this case, you can try turning off VSync to unlock your FPS.
@@ -146,6 +170,9 @@ To fix this, you can try resetting the software to default:
 * Distortion: Off
 * First Person Shadows: Off
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.

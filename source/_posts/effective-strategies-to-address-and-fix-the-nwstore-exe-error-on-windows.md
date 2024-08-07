@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies to Address and Fix the NW_Store Exe Error on Windows
-date: 2024-08-04 23:53:24
-updated: 2024-08-07 12:29:59
+date: 2024-08-06T09:41:26.404Z
+updated: 2024-08-07T09:41:26.404Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 
  You’re not alone. Many users have reported the same issue recently. But no need to worry about it now for it’s quite easy to fix…
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Below are 5 fixes that have helped many DS4 Windows users to fix their DS4 Windows not working / DS4 driver install failed issues. You may not have to try them all; just walk your way down until you find the one that works for you.
@@ -29,6 +32,9 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 4. **[Uninstall the game controller driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Uninstall the latest Windows update](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Update your DS4 Windows
 
  Run the update tool called**DS4Updater** in your DS4 Windows installation folder to check for new updates. This update tool is the first thing you can check if you run into any DS4 Windows connection issues.
@@ -44,6 +50,9 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
  1) Uninstall your old DS4 Windows and extract the zip file that you’ve just downloaded.
 
  2) Launch**DS4Windows.exe**  in the extracted folder.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ds4 windows not installing driver](https://images.drivereasy.com/wp-content/uploads/2020/01/ds4-windows.jpg)
 
  3) You may be prompted to install the **[.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)**  if you haven’t installed it.  
@@ -53,15 +62,27 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 ![desktop](https://images.drivereasy.com/wp-content/uploads/2020/01/desktop-app.jpg)
 
  5) Select**Appdata** when you’re prompted to choose where to save the settings and files, for it will ensure you have full access.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/save.jpg)
 
  6) Follow the steps described in the**Welcome to DS4Windows** to install the driver and finish the setup.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![install windows ds4 driver](https://images.drivereasy.com/wp-content/uploads/2020/01/install-driver.jpg)
 
  7) Follow the on-screen instructions to finish installing.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![complete](https://images.drivereasy.com/wp-content/uploads/2020/01/complete.jpg)
 
  8) You can install optional drivers if you want other cool features. Once complete, you can click**Finished** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![finish ds4 windows driver installation](https://images.drivereasy.com/wp-content/uploads/2020/01/finished.jpg)
 
  9) Go to the**Settings** tab and select**Hide DS4 Controller** .  
@@ -116,6 +137,9 @@ If it’s already enabled, you can disable and enable it again.
 
  4) Go to the**Hardware** tab, and double-click the**HID-compliant game controller** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/hid-game.jpg)
 
  5) Go to the**Driver** tab, and select**Uninstall Device** .
@@ -124,6 +148,9 @@ If it’s already enabled, you can disable and enable it again.
 
  6) Once the driver is uninstalled, unplug your controller, and then restart your PC. Reconnect your Controller using DS4 Windows to see if it pops up in the**Controllers** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Fix 5: Uninstall the latest Windows Update
 
  If this problem occurred just after a Windows Update, then the new update may be the one to blame.
@@ -136,6 +163,9 @@ If it’s already enabled, you can disable and enable it again.
 
  3) Right-click the problematic update and select**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/unistall.jpg)
 
 4) Follow the on-screen instructions to finish the uninstall.
@@ -154,12 +184,18 @@ If it’s already enabled, you can disable and enable it again.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-4.png)
 
  3) Click the**Update** button next to your graphics card driver to automatically download the correct version of that driver, and then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click_Update All._ )
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-4.jpg)
 
 4) Restart your computer for the changes to take effect.

@@ -1,7 +1,7 @@
 ---
 title: Left 4 Dead ² Out of the Woods - No More Crashes
-date: 2024-08-06 19:26:55
-updated: 2024-08-07 10:49:37
+date: 2024-08-06T09:41:07.108Z
+updated: 2024-08-07T09:41:07.108Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/8dec14c118d7ee81f46eabd3dcf3a5188bbf56bf8
 
 Left 4 Dead 2 is an old game but there’re still gamers who love playing it. The game is quite steady but if you’re newbies and encounter crashing, don’t worry, this post is here to help.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -87,6 +90,9 @@ OR
 
 If it doesn’t work for you, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Fix 3\. Shut down background apps
 
  Shutting down background apps completely might fix your problem. The workshop items could be the culprit for crashing. The computer will have more power and resources for Left 4 Dead 2 when there are no other applications in the background.
@@ -105,8 +111,20 @@ If it doesn’t work for you, move to the next fix.
 2. Right-click on**Left 4 Dead 2** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2.png)
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
 
@@ -119,6 +137,9 @@ You can also disable Steam overlay in Left 4 Dead 2.
 
 If it doesn’t work for you, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5\. Disable add-ons
 
  If your game keeps crashing when you want to load into an addon map, it probably your addons are causing those crashes. When the addon map is attempting to load a texture or model that has already been loaded from another addon you’ve got installed, you’ll get a crash.
@@ -135,6 +156,9 @@ To check if your add-ons are the fault, here the following things to do:
 8. Add an add-on from the new folder to your original one by one.
 9. Find the exact add-on that causes the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6\. Change compatibility mode
 
  If the above fixes don’t help, you can consider rolling back drivers to your previous version to see if the problem is solved. If so, it might be a recent patch for L4D2 that made it incompatible with something in your system. If possible, you could check the Event Viewer to find out what happens.
@@ -144,6 +168,9 @@ To check if your add-ons are the fault, here the following things to do:
 1. Navigate to Left 4 Dead 2 saving folder.
 2. Right-click on the game and click **Properties** .
 3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
 

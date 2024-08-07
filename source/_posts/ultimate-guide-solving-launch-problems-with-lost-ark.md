@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Launch Problems with 'Lost Ark'"
-date: 2024-08-06 14:11:44
-updated: 2024-08-07 11:10:38
+date: 2024-08-06T09:41:27.957Z
+updated: 2024-08-07T09:41:27.957Z
 tags:
   - win11
   - win10
@@ -70,6 +70,9 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
  3) Right-click **Cyberpunk 2077** and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-4.jpg)
 
  4) Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES.**
@@ -90,6 +93,9 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
  3) Click **Verify** .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.png)
 
 4) Relaunch your game to test the issue.
@@ -104,6 +110,9 @@ If this doesn’t fix the issue, try the next solution below.
 
 If the game is still unplayable, move on to the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Run as administrator
 
  If Cyberpunk 2077 doesn’t have permission for certain game files on your system under a standard user mode, it may not run properly. Try this setting to give the program the administrator privileges:
@@ -114,10 +123,17 @@ If the game is still unplayable, move on to the fix below.
 
  3) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-08_14-34-51-1.jpg)
 
  If the game still won’t launch with admin privileges, then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Fix 4: Update the graphics driver
 
  Your graphics card driver is vital to the gaming experience. If the driver is out of date, it can cause a range of issues, even if your video hardware exceeds the game’s requirements.
@@ -140,6 +156,9 @@ If the game is still unplayable, move on to the fix below.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -149,6 +168,9 @@ If the game is still unplayable, move on to the fix below.
 
  If Cyberpunk 2077 still won’t launch, then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Update the game launcher
 
  Game issues could happen when you’re running an outdated game launcher. So if you haven’t updated the game launcher already, try updating it to see if that’s the core issue. If the issue persists, then try the next fix below.
@@ -194,12 +216,18 @@ If the game is still unplayable, move on to the fix below.
 
 If this didn’t resolve the issue, then try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Check for Window updates
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep your game running correctly. Here is how to do it:
 
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-37.jpg)
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.

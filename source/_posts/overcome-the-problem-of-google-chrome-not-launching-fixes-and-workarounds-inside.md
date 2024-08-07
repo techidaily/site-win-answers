@@ -1,7 +1,7 @@
 ---
 title: Overcome the Problem of Google Chrome Not Launching - Fixes & Workarounds Inside
-date: 2024-08-06 18:57:55
-updated: 2024-08-07 10:32:32
+date: 2024-08-06T09:41:39.652Z
+updated: 2024-08-07T09:41:39.652Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If you’re experiencing this frustrating issue now, take a deep breath and try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -37,6 +40,10 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If your browser still won’t open after the reboot, read on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Disable your antivirus temporarily
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and firewall and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -53,18 +60,31 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  Verify there is no**Chrome-related** process running in the background. If there is, right-click the process and select**End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-491.png)
 
 **3)** On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run dialog.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-61.png)
 
 **4)** Type**%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data** in the box and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-501.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-501.png)
 
 **5)** Copy the**Default** folder and place the copy in another location to back it up. Then, delete the original Default folder.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-493.png)
 
  Try opening Chrome to test your issue. If you still can’t launch Chrome properly, don’t worry. Move on to fix 4, below.
@@ -79,9 +99,15 @@ Reset Chrome in safe mode
  Boot your PC into safe mode. (Click to see **[how to enter safe mode in Windows 10, 7, 8, 8.1, XP, or Vista](https://tools.techidaily.com/drivereasy/download/)**  .)
 2. **Open Chrome, then click the menu button and select Settings.**  
  Open Chrome, then click the **menu button** and select **Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-28-36.jpg)
 3. **Click Advanced at the bottom.**  
  Click **Advanced** at the bottom.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-10.jpg)
 4. **Select Restore settings to their original defaults.**  
  Select **Restore settings to their original defaults** .  

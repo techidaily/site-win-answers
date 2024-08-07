@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Overcome Freezes in GTA 5 Playtime
-date: 2024-08-05 16:52:53
-updated: 2024-08-07 12:35:33
+date: 2024-08-06T09:40:55.271Z
+updated: 2024-08-07T09:40:55.271Z
 tags:
   - win11
   - win10
@@ -49,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update graphics card driver
 
  A missing or outdated graphics driver can cause GTA 5 crashing in your Windows, so you can update your graphics card driver to fix the crashing.
@@ -63,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will detect the problem drivers in your system.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** button next to the driver name to download the correct graphics card driver (you can do that with the**FREE** version), then install it on your computer.  
  Or click**Update All** to automatically download and install the correct version of all the problem drivers (you can do that with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you will be prompted to upgrade when you click**Update All** ).  
@@ -73,12 +79,18 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Set graphics settings to Normal
 
  The proper graphics settings in GTA 5 can optimize the performance and help run your game faster. To fix the crashing issues in your computer, you can try lowering the graphics settings in your game. Here’s what you need to do:
 
 1. Open GTA 5**Settings** .
 2. Click**Graphics** and scroll down.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba351a0e7086.jpg)
 3. Set these settings to**Normal** :  
 **Texture Quality**  
@@ -91,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Turn on VSync
 
  VSync stands for Vertical Sync, which is a display option in 3D PC games. It allows you to synchronize the frame rate with the monitor refresh rate for better stability. Having VSync on in GTA 5 has been reported by many players to be an effective way to fix the crashing issue.
@@ -99,6 +114,18 @@ To do so:
 
 1. Open GTA 5**Settings** .
 2. Click**Graphics** and scroll down. Find**VSync** and turn it**ON** .  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3522a38573.jpg)  
  If it’s already**ON** , try turning it**OFF** , then restart your game and**turn VSync** **on** again.
 3. Restart your PC and GTA 5 again to see if it works.

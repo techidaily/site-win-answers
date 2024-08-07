@@ -1,7 +1,7 @@
 ---
 title: Master the Art of Fixing FIFA 2E Crashes on Windows Machines - An Authoritative Repair Manual
-date: 2024-08-06 17:19:22
-updated: 2024-08-07 11:34:17
+date: 2024-08-06T09:41:00.892Z
+updated: 2024-08-07T09:41:00.892Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
 This fast-paced game is super fun for those who love the joy of movement. However, you’re not the only one who’s experiencing Ghostrunner Fatal Error. And luckily, it can be fixed easily with the following workarounds.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 * [Fix 1: Close all background apps](https://tools.techidaily.com/drivereasy/download/)
@@ -26,6 +29,10 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 * [Fix 5: Verify game files](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ### Fix 1: Close all background apps
 
  One thing that might cause your Ghostrunner Fatal Error is other conflicting applications, especially your antivirus software and any programs with overlays.
@@ -50,6 +57,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  2) Run Driver Easy and click the**Scan No** w button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -78,6 +88,9 @@ OR
 
 4) Scroll down the page and download the x86.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -94,10 +107,16 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.
@@ -118,10 +137,16 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  3) Select the**Local Files** tab, then click on**Verify Integrity of game files** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/VERIFY.jpg)
 
  Wait for the process and then restart the game to check whether the Ghostrunner fatal error has been fixed or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Lower your graphics settings
 
  Some gamers find decreasing the graphics settings helped fix this fatal error. Go to the graphics settings in the game, turn off anti-aliasing and try to lower other graphics settings.

@@ -1,7 +1,7 @@
 ---
 title: "How to Regain Access to Your Steam Friends: Connectivity Issues Resolved"
-date: 2024-08-04 20:17:52
-updated: 2024-08-07 10:22:44
+date: 2024-08-06T09:41:35.340Z
+updated: 2024-08-07T09:41:35.340Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
 **Cannot sign in or play any games (not even offline games) on Xbox Live** ? This is both frustrating and confusing. You may be wondering if the error is on your end or is everybody else is suffering the outage. So, is**Xbox Live Down or not** ? Read on and you’ll have your answer…
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Is Xbox Live Down?
 
  Here are 3 methods for you to determine if it’s an Xbox Live down problem. Just work your way down until you find it out.
@@ -25,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 2. [**Check Xbox Server Status**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Look up the error messages or codes**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Check if your other devices are able to connect to the same network
 
  When you have a connection issue on Xbox Live, it is important to check **whether your Xbox One console or PC (if you’re using Xbox app on your computer) is the only device with no Internet connection** .
@@ -34,6 +40,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 * **If these devices cannot connect to the Internet either** , then obviously the problem does not lie with your Xbox or PC. You can either do some basic troubleshooting on your modem by yourself (such as performing a reboot on your modem) or contact your ISP for assistance to fix the issues with your network.
 * **If these devices can access the Internet properl** y, then you should move on to**Method 2** , below to narrow down the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Check Xbox Server Status
 
  With home network issues ruled out, you might want to check if it’s a service server outage or not. To do so, simple go to the official[**Xbox Live Status**](https://support.xbox.com/en-US/xbox-live-status) . From there, you’ll see the status information of Xbox services, games, websites and apps.
@@ -49,10 +58,16 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  Now that you’ve confirmed neither your home network or the server is to blame, the error is probably on your end. You can start by checking your Xbox screen for error to see if there is any error message or code on the screen. If you see an error code or message, head to[**Xbox One Error & Status Code Search**](https://support.xbox.com/en-HK/error-code-lookup) and enter the exact same message or code as shown. Then follow the on-screen troubleshooting steps to work on the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-337-1024x569.png)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Bonus tip: Xbox Live still not working on my PC?
 
  If you’ve exhausted all the fixes lain out on Xbox Support, but the Xbox One not working issue is still not resolved, then it’s time to check if it’s a driver issue on your computer. As a wrong or outdated network driver may cause slow Internet connection, Internet keeps cutting out or even app not connecting to Internet problems. So you should**update your network drivers** to see if it fixes your problem.
@@ -71,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/2009bc3e2844a72a35aeb8da54c7e944a8b3e4812
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.

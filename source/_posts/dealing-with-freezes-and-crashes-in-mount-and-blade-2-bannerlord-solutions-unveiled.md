@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Freezes and Crashes in Mount & Blade 2: Bannerlord - Solutions Unveiled"
-date: 2024-08-04 21:34:13
-updated: 2024-08-07 11:28:47
+date: 2024-08-06T09:41:00.992Z
+updated: 2024-08-07T09:41:00.992Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/310914a9091489c802247fe59fe85918c611bccb8
 
 Are you seeing Warcraft 3 Reforged crashing constantly at startup or during gameplay, and making multiple attempts to relaunch but all to no avail? We know this can be totally annoying, but don’t worry, here are 6 fixes for you to solve the issue easily and quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not try them all; just work from the top down until you find the one that does the trick.
@@ -28,6 +32,9 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Lower the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Fix 1 – Check the minimum requirements to play Warcraft 3 Reforged
 
  Video games with stunning graphics usually require a high-end rig to run with. Before jumping into the further fixes, let’s check your computer specs first. If it doesn’t meet the system requirements for Warcraft 3 Reforged, crashes will occur.
@@ -54,6 +61,9 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  A smooth and pleasant gaming performance also depends on your graphics card driver. If it’s incompatible, corrupt or out-of-date, you’ll run into various issues including Warcraft 3 crashing. To keep your graphics driver up-to-date, you should update it **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,6 +89,9 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-3.jpg)
 
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -110,18 +123,27 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 **3)** Mouse over**Set priority** and then click**Above normal** or**High** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-5.jpg)
 
  Re-open Warcraft 3 Reforged and see if the crashing issue is fixed. If not, continue to troubleshoot with the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Close background applications
 
  Warcraft 3 Reforged sometimes fails to work when too many applications are running in the background. They may cause software conflicts or use up system resources. Make sure all unnecessary programs are closed before you start gaming. Here’s how:
 
 **1)** Right-click on any empty area on the taskbar and click**Task Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
 **2)** Right-click each resource-hogging application, and then click **End task**  to close them one by one.
@@ -134,6 +156,10 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5 – Stop overclocking
 
  To gain the best performance, many players attempted to overclock their GPUs. However, doing this is sometimes counterproductive and can render your game unstable. We suggest**lowering your GPU to the default settings** to stop Warcraft 3 Reforged from crashing. If the situation isn’t mitigated with this workaround, turn to the next fix below.
@@ -156,6 +182,9 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 **4)** Make sure**VSync** is turned off.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-3.jpg)
 
 **5)** Set each of the parameters under Graphical Quality to**Low** or**Medium** .

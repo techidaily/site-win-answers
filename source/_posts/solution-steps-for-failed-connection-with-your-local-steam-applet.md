@@ -1,7 +1,7 @@
 ---
 title: Solution Steps for 'Failed Connection' With Your Local Steam Applet
-date: 2024-08-06 20:50:49
-updated: 2024-08-07 11:54:25
+date: 2024-08-06T09:41:03.474Z
+updated: 2024-08-07T09:41:03.474Z
 tags:
   - win11
   - win10
@@ -15,6 +15,18 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
 ## Kodi Can't Connect? Here's Your Solution for the Directory Information Failure
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/kodi.png)
 
  When you try to install a Kodi add-on or Kodi build but fail, and you’re seeing this error message saying:
@@ -34,12 +46,18 @@ Follow the questions below to troubleshoot the issue step by step:
 
  Generally, the “Couldn’t retrieve directory information” error means**the source you’ve inputted can’t be found** . It could be simply because the source you’ve inputted is wrong, like there’s**typo** ,**extra space** in the URL.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
  So when Kodi tells you the Unable to connect error, firstly **check the URL you’ve type or paste, make sure it’s exactly typed correctly.** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/kodi2.png)
 
 Then add the source again.
 
  If you add the source successfully, so great. If you still see the error, don’t panic, you have something else to try…
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Q2: Does your Windows computer connect to Internet successfully?
 
  The**network connection error** on your computer can also probably cause the Kodi Unable to connect issue. So when you see the error message, you should**check the network connection on your computer** .
@@ -58,6 +76,9 @@ Then add the source again.
 
 [The default gateway is not available.](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2
 
  Many network connection problems could be due to the old, missing or corrupted network driver on your computer. You can solve it easily by**updating your network driver** . Whether you choose to update the network driver manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -70,6 +91,9 @@ Then add the source again.
 
  Have you fix the problem? If yes, great! If the error still exists, don’t give up hope, move onto the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Q3: Does the source you want to add run properly?
 
  If you’ve ensured that you enter the URL correctly and the network connection is great, time to check if the source you added runs properly.
@@ -78,6 +102,9 @@ Follow to check the status the source you want to add:
 
 1. Enter the source in your browser and press**Enter** .
 2. If the source runs properly, you would see a page**containing a zip file** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73caac7ec91.png)  
  If the source is down or offline, you would be prompted an error message saying:**This site can’t be reached.**
 

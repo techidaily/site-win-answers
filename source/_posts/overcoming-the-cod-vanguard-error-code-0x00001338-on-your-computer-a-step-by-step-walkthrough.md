@@ -1,7 +1,7 @@
 ---
 title: Overcoming the CoD Vanguard Error Code 0X00001338 on Your Computer – A Step-by-Step Walkthrough
-date: 2024-08-06 12:19:14
-updated: 2024-08-07 11:57:17
+date: 2024-08-06T09:41:38.450Z
+updated: 2024-08-07T09:41:38.450Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b5412951ba4c980abeddb9801e54de1f43b896bc3
 
 We have been receiving a lot of complaints about the[Vanguard Dev error 5573](https://tools.techidaily.com/drivereasy/download/) , and now the Vanguard error 0x00001338 N. It might be Error Code 0x00001338 (6328) N, 0x00001338 (5573) N, 0x00001338 (0) N, etc. No matter what code you’re getting, you will be able to find possible fixes for the 0x00001338 N series error codes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are a few fixes that have helped other users resolve their CoD Vanguard error code 0x00001338 N. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -50,6 +54,9 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  4) Delete every folder or file under the**Cache** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
@@ -75,6 +82,9 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 After updating your drivers, restart your PC and test the gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 5\. Revert to DX11
 
  One reason for the Call of Duty Vanguard in-game error code 0x00001338 N is DirectX 12\. The game uses DX12 by default and doesn’t have any option in-game to change it to DirectX 11\. Here’s how to force revert back to DX11 manually:
@@ -87,6 +97,9 @@ After updating your drivers, restart your PC and test the gameplay.
 
 Launch CoD Vanguard and test the gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6\. Disable in-game overlays
 
  Using in-game overlays like Geforce Experience overlay or third-party tools and software like MSI Afterburner or any RGB software can cause Cod Vanguard error codes issues.
@@ -102,6 +115,13 @@ Launch CoD Vanguard and test the gameplay.
 * Xbox Game DVR
 * Twitch
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Fix 7\. Repair your system files
 
  If none of these fixes above fixed your problem, you may need to check for any corrupt game files and restore them. Your game might be sharing the same system file (DLL), thus causing you the Vanguard error codes. There are mainly two ways for you to fix a corrupt/missing system file:
@@ -126,10 +146,17 @@ Launch CoD Vanguard and test the gameplay.
 
  2) Open Fortect and run a free scan. This might take 3\~5 minutes to fully analyze your PC. Once complete, you will be able to review the detailed scan report.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
@@ -142,6 +169,9 @@ Launch CoD Vanguard and test the gameplay.
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
  Click**Yes** when prompted for permission to make changes to your device.

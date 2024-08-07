@@ -1,7 +1,7 @@
 ---
 title: Navigating and Resolving Fatal Issues Within the Unreal Engine for 'Tales of Arise'
-date: 2024-08-05 14:47:26
-updated: 2024-08-07 11:23:35
+date: 2024-08-06T09:41:11.417Z
+updated: 2024-08-07T09:41:11.417Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/df17b0b8aa577c2bde2045014ca7106f6ac63b426
 
 Many Tales of Arise players have reported getting a fatal error, which leads the game to crash. It’s a known issue related to Unreal Engine 4, and luckily there are some fixes for it. Before the developers address this issue and release an official patch, you can try the workarounds in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down until you find the one that does the trick!
@@ -40,6 +43,9 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
  Incomplete or damaged local game files can trigger the fatal error and cause the game to crash. To verify and fix this issue, you can do it via the Steam client. Here’s how:
 
 1. Open your Steam library and find Tales of Arise. Right-click the game and click**Properties.**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. In the**Local files** tab, click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-2.jpg)
@@ -48,6 +54,9 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
 
  If you’ve verified your game files but still get the UE4 fatal error crash, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Install the latest Windows updates
 
  Keeping your system up-to-date may solve, or at least help prevent some compatibility issues that can trigger the fatal error. Here’s how to install the latest Windows updates:
@@ -65,6 +74,9 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
 
  If installing the Windows updates doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Check your antivirus software
 
  Antivirus software may interfere with games and cause a fatal error crash. Try temporarily disabling the antivirus software on your PC if you use any, then run the game and test the issue.
@@ -73,6 +85,9 @@ Many Tales of Arise players have reported getting a fatal error, which leads the
 
 If this doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Update your graphics driver
 
  An up-to-date graphics driver is essential for UE4-based games like Tales of Arise. If your graphics driver is outdated or faulty, it may cause fatal errors and game crashes. You may want to make sure yours is up-to-date and functioning properly.
@@ -91,6 +106,9 @@ If this doesn’t solve your problem, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -98,6 +116,9 @@ If this doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Reinstall Microsoft Visual C++ Redistributable
 
  Some players were able to solve the problem by reinstalling the Microsoft Visual C++ Redistributable files on their PC. These files are essential for games and if they are corrupt, it may interfere with UE4 and cause a fatal error crash. Here’s how to reinstall it:

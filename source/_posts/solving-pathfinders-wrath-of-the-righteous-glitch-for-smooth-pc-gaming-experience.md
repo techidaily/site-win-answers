@@ -1,7 +1,7 @@
 ---
 title: Solving Pathfinder's Wrath of the Righteous Glitch for Smooth PC Gaming Experience
-date: 2024-08-04 11:52:26
-updated: 2024-08-07 11:17:55
+date: 2024-08-06T09:41:13.930Z
+updated: 2024-08-07T09:41:13.930Z
 tags:
   - win11
   - win10
@@ -38,6 +38,9 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 5. [Change priority](https://tools.techidaily.com/drivereasy/download/)
 6. [Verify the game files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Switch programs & move the game to SSD
 
  This tip is from a player who figured out if his frames drop, he can use the**Alt+Tab** shortcut to switch out and back in. After that, the game starts running flawlessly.
@@ -63,6 +66,9 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 
 If this fix doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## Fix 3: Change NVIDIA settings
 
  If you have a NVIDIA graphic card, change the NVIDIA program settings would fix the issue.
@@ -75,6 +81,9 @@ If this fix doesn’t help, move to the next fix.
 
 If it doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Update your driver
 
  Graphic card and its driver are related to the FPS issue. The outdated or wrongly installed driver might be the culprit of the issue. Therefore, make sure you have the latest drivers installed on your computer is important. What’s more, updating your drivers would improve your computer performance.
@@ -93,10 +102,16 @@ If it doesn’t help, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Change priority
 
  Some players found changing the game priority would fix the FPS issue. Although some players said it’s a partial fix, it’s worth trying. Follow the steps below to get rid of the FPS drop issue.
@@ -112,6 +127,9 @@ If it doesn’t help, move to the next fix.
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 6: Verify the game files
 
  Sometimes there’re some missing files that cause the FPS drop issue. You can fix it by Verify the game files.

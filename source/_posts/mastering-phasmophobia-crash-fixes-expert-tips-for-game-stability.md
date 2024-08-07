@@ -1,7 +1,7 @@
 ---
 title: Mastering Phasmophobia Crash Fixes - Expert Tips for Game Stability
-date: 2024-08-05 20:49:57
-updated: 2024-08-07 11:51:38
+date: 2024-08-06T09:41:10.692Z
+updated: 2024-08-07T09:41:10.692Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ You pay for the game, but when you launch Frostpunk, it doesn’t start. The gam
 | HDD       | 8 GB                                                    |
 | GPU       | Nvidia GeForce GTX 970  AMD Radeon RX 580  4 GB of VRAM |
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,6 +59,9 @@ You pay for the game, but when you launch Frostpunk, it doesn’t start. The gam
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus software is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Fix 2: Reinstall the game
 
  Fully uninstalling and reinstalling the game is an old easy but effective method. The game profile can be crashed which cause the Frostpunk crash. So doing a clean reinstall can fix the issue.
@@ -70,9 +76,15 @@ If it doesn’t work, you can move to the next fix.
 2. Go to the**LIBRARY** .
 3. Right-click Frostpunk and choose**Properties** .
 4. Click the**LOCAL FILES** tab and choose**Verify Integrity of Game Files** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 5. Relaunch the game and check whether the issue will appear or not.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update your graphics card driver
 
  With outdated or wrong drivers, your game may encounter a crash. So it is very important to update your graphics card drivers. But Windows 10 doesn’t always give you the latest version automatically. Therefore, update your graphics card driver is always a good option.  
@@ -104,6 +116,9 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Run as the administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Frostpunk can make full use of its features, so run the game as an administrator to see if this fixes your issue.
@@ -111,6 +126,9 @@ OR
 1. Exit Frostpunk.
 2. Right-click on the Frostpunk icon and click **Properties** .
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/ad.jpg)
 4. Run Frostpunk and check whether the problem is solved or not.
 

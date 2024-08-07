@@ -1,7 +1,7 @@
 ---
 title: "Cure Your Gaming Woes: Fixing the 'Borderlands 3 Not Launching' Problem with These 11 Tips"
-date: 2024-08-06 22:48:49
-updated: 2024-08-07 12:44:33
+date: 2024-08-06T09:40:56.248Z
+updated: 2024-08-07T09:40:56.248Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/df697f662e95c563b4597a4012deaa405b51eade8
 
 ## Unlock Your Game: Overcoming Launch Hurdles with Dead Space Remake, Tips for 202 Grooping the Latest Trends in Gaming Troubleshooting
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Dead-Space-1200x675.jpg)
 
 _Image source: ea.com_
@@ -62,6 +65,9 @@ To check your PC hardware specifications, you can follow the steps below.
 1. On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box.
 2. Type **dxdiag**  and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to open DIrectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. Now you can check your system information under the **System**  tab.  
 
@@ -79,6 +85,13 @@ To check your PC hardware specifications, you can follow the steps below.
 6. **[Verify your game files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 1\. Temporarily disable firewall and antivirus software
 
  To protect our computer from malware, most of us will turn on Windows Firewall and install some antivirus software. However, there are some circumstances where they mistakenly block legitimate programs like Dead Space. To determine the cause of your problem, you can try**turning Windows Defender Firewall off** and disable your antivirus when launching Dead Space.
@@ -89,9 +102,15 @@ To check your PC hardware specifications, you can follow the steps below.
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
  You should also try disabling your antivirus if you’re using any. After you’ve done these, attempt to launch the game. If it still fails to launch or triggers any errors, proceed to the next fix. Prior to getting started with the troubleshooting steps below, remember to repeat the similar steps as listed above to turn on the Firewall and enable antivirus to protect your computer from the risk of malicious programs.
@@ -103,10 +122,25 @@ To check your PC hardware specifications, you can follow the steps below.
 1. On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run dialog box.
 2. Type **taskmgr**  and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unnecessary applications.  
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
  Then you can attempt to open your game. If your problem persists, proceed to the next fix.
@@ -134,12 +168,18 @@ To check your PC hardware specifications, you can follow the steps below.
 
  After the updates are installed, reboot your device and then try to launch your game. If you’re still having the issue, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ## 5\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. Unfortunately, it’s also susceptible to corruption. When that happens, your PC performance would suffer and your graphics-intensive game may fail to work properly. Therefore, it’s imperative to update your graphics driver. Additionally, when a new title comes out, some graphics card manufacturers would release game-ready drivers, which you should definitely download and install.
 
  There are mainly two ways you can update your drivers: manually and automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Option 1: Manually update your drivers
 
  If you have the time, patience and computer skills to update drivers on your own, you can visit your graphics card manufacturer’s website:
@@ -162,6 +202,9 @@ To check your PC hardware specifications, you can follow the steps below.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -188,10 +231,16 @@ To check your PC hardware specifications, you can follow the steps below.
 1. Open the EA desktop app.
 2. Click**My Collection** . Locate your game and click on the**three dots** . Then select**Repair** .  
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Dead-Space-Remake-repair-game-files-on-the-EA-app.png)
 
  Then all you have to do is wait until the repair process is complete. If this doesn’t do the trick, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### On Epic Games
 
 1. Navigate to the game in your Library. Then click on the**three dots** . Select**Manage** from the drop-down.  
@@ -199,16 +248,25 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-repair-game-files-on-the-Epic-Games-Launcher.png)
 2. Now click on the**VERIFY** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-how-to-repair-game-files-on-the-Epic-Games-Launcher-click-on-the-VERIFY-button.png)
 
  Depending on the size of your game, it may take a few minutes to verify all your files. Once it finishes, try to launch your game to check whether verifying game files works.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Repair corrupted system files
 
  If you’ve exhausted all the methods above but still haven’t managed to solve your problem, it’s time to identify whether it’s due to the corruption of your system files, which can cause a wide range of issues, ranging from minor glitches to critical performance issues. To make sure those files are intact, you can use the**System File Checker** (SFC), a utility in Windows that helps check any problematic files and repair them if there are any. Below is the simple step-by-step guide.
 
 1. In the search box on the taskbar, type **cmd** . Find Command Prompt from the list of results and right-click it. Then select **Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd.jpg)
 2. Click **Yes**  when you receive a prompt.
 3. Copy and paste the following commands in Command Prompt, then press Enter.  

@@ -1,7 +1,7 @@
 ---
 title: Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside
-date: 2024-08-06 18:47:39
-updated: 2024-08-07 12:15:39
+date: 2024-08-06T09:41:22.451Z
+updated: 2024-08-07T09:41:22.451Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212a
 
 Having**low FPS** in**Apex Legends** ? If the answer is yes, don’t panic – you’re not alone. This is a rather common problem, and it’s usually not very hard to solve. Also, if you wish to boost your PC performance in gaming, you’ll find this post helpful as well.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 6 Ways to boost FPS in Apex Legends
 
  Here’re 6 ways that have proved useful to many players. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -57,6 +60,9 @@ Listed below are the recommended graphics settings for Apex Legends:
 * **Ambient Occlusion Quality** : Disabled
 * **Sun Shadow Coverage** : Low
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-609.png)
 
 * **Sun Shadow Detail** : Low
@@ -68,6 +74,14 @@ Listed below are the recommended graphics settings for Apex Legends:
 * **Impact Marks** : High
 * **Ragdolls** : Low
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-611.png)
 
 **Note** that the above settings may not be most suitable for your computer specs. Now go on to check if your FPS has improved after the fine-tuning. If it hasn’t, please move on to Way 2, below.
@@ -94,6 +108,9 @@ In case your low FPS problem still remains, move on to the next method.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### **Way 3: Update graphics drivers**
 
  Low FPS in Apex Legends is sometimes caused by out-dated graphics drivers. If that’s indeed your problem, you should keep the drivers up-to-date in order to optimize your frame rate.
@@ -108,6 +125,9 @@ In case your low FPS problem still remains, move on to the next method.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
  3) Click the **Update**  button next to your graphics driver to automatically download its correct version, then you can manually install the driver (you can do this with the FREE version).
@@ -126,12 +146,21 @@ In case your low FPS problem still remains, move on to the next method.
 
  If you have too many CPU/memory hogging programs running in the background, that will definitely slow down the processing speed of your computer and lead to low FPS in Apex Legends. Therefore, make sure you close all the unnecessary programs before playing the game.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**S** to invoke the search box (you may also see it on the taskbar). Type in**game mode** and click**Game Mode settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
  2) In the pop-up window, toggle off**Game Mode** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-620.png)
 
  3) Move to the**Game bar** tab and turn off the toggle button below**Record game clips, screenshots, and broadcast using Game bar** .
@@ -148,6 +177,9 @@ In case your low FPS problem still remains, move on to the next method.
 
  1\. on your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**X** at the same time. Then select**Task Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-449.png](https://images.drivereasy.com/wp-content/uploads/2019/08/image-449.png)
 
  2\. On the **Processes**  tab, select the program that you want to shut down from the list in Task Manager and click **End task**  to force a close. (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
@@ -170,6 +202,14 @@ In case your low FPS problem still remains, move on to the next method.
 
  If you feel uncomfortable getting rid of computer cache manually, you can do it automatically with **[CCleaner](https://tools.techidaily.com/drivereasy/download/)**  – a powerful and reliable tool used to clean out your files.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and **R** at the same time to invoke the Run dialog box. Type in **%temp%** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-305.png)
@@ -180,10 +220,16 @@ In case your low FPS problem still remains, move on to the next method.
 
  3) Click **Skip** if you’re presented with a warning that reads “the folder or a file in it is open in another program.” Then wait till the deletion is complete.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-301.png)
 
  4) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **temp** and hit **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-302.png)
 
  5) Repeat **Step 2** through **Step 3** to delete all the files in your **temp** folder.
@@ -196,6 +242,11 @@ In case your low FPS problem still remains, move on to the next method.
 
  8) Don’t forget to empty your **Recycle Bin** after everything’s done.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-280.png)
 
  If you need to free up more space in your disks, you should do a disk cleanup. For more details, please refer to **[this post](https://support.microsoft.com/en-us/help/4026616/windows-10-disk-cleanup)**  from Windows Support.
@@ -204,6 +255,9 @@ In case your low FPS problem still remains, move on to the next method.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### **Way 6: Adjust Windows power settings**
 
  Some people said adjusting Window power settings gave them a boost in FPS. Under the**Adjust for best performance** power plan, Windows will allow your CPU to run at a higher speed (for demanding games however, this tweak may not make a big difference) but your computer will also generate more heat and noise. To change your Windows power plan, here’re the steps:
@@ -214,10 +268,17 @@ In case your low FPS problem still remains, move on to the next method.
 
  2) Expand **View by:** and select **Category** . Then click **System and Security** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-313.png)
 
  3) Select **System** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-314.png)
 
  4) In the left pane, click **Advanced system settings** .

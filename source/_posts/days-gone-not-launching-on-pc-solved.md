@@ -1,7 +1,7 @@
 ---
 title: Days Gone Not Launching On PC [SOLVED]
-date: 2024-08-05 23:33:40
-updated: 2024-08-07 10:18:20
+date: 2024-08-06T09:41:40.867Z
+updated: 2024-08-07T09:41:40.867Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/b1b8ad1f82349ebf2764ddbc134fc39036adf7776
 
 ## Steps to Resolve Frequent Disconnections of Nox Player While Running on a PC
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-37-33-1.jpg)
 
  Nox Player is one of the most popular Android emulators on the market, known for its powerful features and fast speed. However, some gamers have reported**Nox Player constantly crashes on PCs** . If you happen to be one of them, no worries! We have a few working fixes you can try.
@@ -39,32 +42,53 @@ thumbnail: https://thmb.techidaily.com/b1b8ad1f82349ebf2764ddbc134fc39036adf7776
 
 [8: Update/reinstall Nox Player](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Fix 1: Close background programs
 
  Usually we’d turn off unnecessary programs when we play games on PC for smoother performance. Same for Nox Player, it’s the best to run this emulator without background programs eating all the resources or causing interference. You can close the background programs completely in the Task Manager:
 
 1. Press**Ctrl** and**Shift** and**Esc** to open the Task Manager.
 2. Under the**Processes** tab, select the process(es) that you want to shut down, and click**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_10-37-24.jpg)
 
 If this doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Enable virtualization
 
  Virtualization technology allows multiple operating systems to run on one physical PC. Since we’re trying to run an Android emulator on a Windows PC, it’s essential to enable virtualization which could improve the performance of Nox Player.
 
  First you can check if virtualization is already enabled on your PC. If not, you’ll need to enable it in BIOS.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Check if virtualization is turned on
 
 1. Run Nox Player. On the top-right corner, click the**three-line icon** and select**System info** .  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nox-system-info.jpg)
 2. Look for**CPU VT** . If it’s already on, you can jump to[fix 3](https://tools.techidaily.com/drivereasy/download/) . If not, you’ll need to enter BIOS to enable it.  
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nox-cpu-vt.jpg)
 
 ### Enable virtualization in BIOS
 
 1. Click**Start** \>>**Power** . Hold down the**shift key** and click**Restart** at the same time. This will completely shut down your PC before it reboots.  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/shut-down-pc.jpg)
 2. When your PC restarts and shows the manufacturer logo,**hold down the BIOS hotkey** until you enter BIOS setup.  
  The hotkey is usually**F1, F2, F12, Del or Esc** depending on different models. If you’re not sure which one works on your PC, consult the manufacturer manual or search online.
@@ -89,6 +113,9 @@ If this doesn’t solve your problem, try the next fix.
 
  If your firewall and antivirus software (if you use any) have blocked Nox Player, it won’t run properly on your PC. You can add Nox Player to the whitelist, and configure your antivirus to stop the interference.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Allow Nox Player through the firewall
 
 **Check if your firewall is blocking Nox Player**
@@ -97,6 +124,9 @@ If this doesn’t solve your problem, try the next fix.
 2. Type**control panel** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to**View by: small icons** , then click**Windows Defender Firewall** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
@@ -107,6 +137,9 @@ If this doesn’t solve your problem, try the next fix.
 1. Click**Change settings** , then click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05.jpg)
 2. Click**Browse** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-11-21.jpg)
 3. Navigate to where you installed Nox Player and add**Nox.exe** .
 4. Click**Add** .  
@@ -136,12 +169,18 @@ If this doesn’t solve your problem, try the next fix.
 
  If your antivirus program does seem to cause the problem, contact the supplier for further assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## Fix 4: Disable overlays
 
  Many programs such as Twitch and Zoom have an overlay feature, which is quite handy. However, overlays could cause performance issues for other programs, including emulators and games. If your Nox Player keeps crashing while you have overlays turned on, make sure to disable them and test the issue.
 
 If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Update your graphics driver
 
  An outdated or faulty graphics driver can cause game performance issues and affect emulators. You may want to make sure yours is up-to-date and functioning properly.
@@ -183,6 +222,9 @@ If this doesn’t solve your problem, move on to the next fix.
 5. You’ll see your virtual memory (paging file) size.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-08-10_11-54-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Increase virtual memory size
 
  If you want to increase the virtual memory size to fix the Nox crashing issue, you can manually allocate the paging file size:
@@ -190,6 +232,9 @@ If this doesn’t solve your problem, move on to the next fix.
 1. Untick the checkbox of**Automatically manage paging file size for all drives** , then select**Custom size** . It’s suggested to set your paging file size between 1.5 times and 3 times your RAM.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-27-33.jpg)
 2. If you don’t know how much RAM you have, first, press the**Windows key** and**R** to invoke the Run box. Then, type in**msinfo32** and hit**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-msinfo32.jpg)
 3. In the pop-up window, look for**Installed Physical Memory (RAM)** .
 4. Once you know how much RAM you have, use the following formula to calculate the values you should fill in:  
@@ -207,19 +252,34 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
  If you’ve tried the fixes above but nothing worked, consider adjusting the settings of Nox Player. You may have to sacrifice a little graphics quality, but it should help improve the stability of the emulator and hopefully stop it from crashing. Here’s how:
 
 1. Launch Nox Player. Click the**gear icon** on the top-right corner to open system settings.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-55-49.jpg)
 2. In the**Performance settings** , you can try switching between the**graphics rendering modes** to see which brings better performance. Also**lower the resolution** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-58-25.jpg)
 3. Under**Game settings** ,**lower your FPS** . You can tweak around to see what FPS value can best balance stability and performance, but we don’t recommend going below 40 as the graphics quality might suffer.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-18-57.jpg)
 4. Save the changes and restart Nox Player.
 
  If this doesn’t fix your problem, we have one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 8: Update/reinstall Nox Player
 
  One last thing you can try is to update the Nox Player or reinstall the whole program. Using the new versions can fix known bugs and will likely reduce crashes. By clicking the**three-line icon** on the top-right corner, you’ll be able to**check for update** .
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-20-28.jpg)
 
  To do a clean reinstall, make sure you delete the Nox Player as well as all the local files and cache before you reinstall the app.

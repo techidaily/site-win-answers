@@ -1,7 +1,7 @@
 ---
 title: Warzone Game Crash with Error 0-1766 on Xbox/PC? Here's the Fix
-date: 2024-08-05 12:32:59
-updated: 2024-08-07 12:15:37
+date: 2024-08-06T09:41:11.943Z
+updated: 2024-08-07T09:41:11.943Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
 ## Warzone Game Crash with Error 0-1766 on Xbox/PC? Here's the Fix
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/48vLGyNkk4n6kXr8pXXpKk-2-1200x675.jpg)
 
  Many gamers have been reporting the**Memory Error 0-1766 on COD Warzone** lately, mostly on Xbox and PC. Players are experiencing**endless game crashes** or**being kicked out of the game** a couple of times a day. If you’re in the same boat, no worries. We’ve put together some working fixes and will walk you through the steps in this article.
@@ -41,6 +44,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  Before we dive into anything advanced, make sure you’ve tried to re-launch Warzone, and restart your Xbox/PC to see if the error is gone.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## Fix 1: Check your Internet connection (Xbox & PC)
 
  A quick fix you can try for both Xbox and PC is to check your Internet connection. Low latency issues seem to have caused the Memory Error 0-1766 for some players, so you should check your Internet connection first as well. Here’s a few things you can do:
@@ -52,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  If your Internet connection is solid but you still get the Memory Error 0-1766 on Warzone, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## Fix 2: Close running games and apps (Xbox & PC)
 
  If a few games and apps running in the background, your Xbox or PC won’t be able to let Warzone use all the resources and run smoother. Also background programs could interfere with Warzone, causing the Memory Error 0-1766\. Below is how to close the games and apps running in the background:
@@ -65,9 +74,15 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 ### On PC
 
 1. Right-click your taskbar, then click**Task Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, you’ll see all the programs/processes that are running in the background. You can look for the processes that are CPU, memory and/or network-hogging, which is most likely to conflict with Warzone.  
  Take Chrome here, for example, right-click it then click**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
  If this doesn’t resolve the Memory Error 0-1766 for you, try the fixes for Xbox below, or jump to the[fixes for PC players](https://tools.techidaily.com/drivereasy/download/) .
@@ -87,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  If you still get the Memory Error 0-1766 after adjusting the display settings on your Xbox console, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Fix 4: Clear Mac address (Xbox)
 
  Clearing your Mac address gives a fresh reboot on your Xbox, and it’s likely to resolve the Memory Error 0-1766 on Warzone. The steps are quite easy, below is how:
@@ -96,6 +114,14 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 3. Scroll down to find**Network Settings** , and select**Advanced Settings** \>>**Alternate Mac Address** .
 4. **Clear the Alternate Mac Address** . Your Xbox console should restart.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ## Fix 5: Verify and repair your game files (PC)
 
  If you’re getting the COD Warzone Memory Error 0-1766 on PC, a quick fix you can try is to verify your game files. Damaged game files could cause the error, but you can do a quick scan and repair within the Battle.net app. Here’s how:
@@ -109,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  If verifying and repairing your game files doesn’t solve your problem, try the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ## Fix 6: Perform a clean boot (PC)
 
  Memory Error 0-1766 could be caused by services and startup items running in the background. If you’ve tried the fixes above but nothing worked, you can try to perform a clean boot.
@@ -118,6 +147,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 **Here’s how to perform a clean boot:**
 
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
@@ -125,6 +157,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
  (Windows 7 users: right-click an empty area on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -147,6 +182,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Move to the**Startup** tab, and**enable the first five startup items** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Warzone to test if the error is resolved.
 4. Repeat until you find the startup item that’s conflicting with Warzone and causing Memory Error 0-1766.

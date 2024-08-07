@@ -1,7 +1,7 @@
 ---
 title: "Escape the Waiting Room: 7 Expert Tips to Fix Forza Horizon E's Stuck Sessions"
-date: 2024-08-04 13:57:21
-updated: 2024-08-07 10:25:17
+date: 2024-08-06T09:41:37.531Z
+updated: 2024-08-07T09:41:37.531Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Check your system specs
 
  If your game won’t launch at all, chances are that you’re running a game that stretches your PC beyond its abilities.
@@ -56,6 +59,9 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
  Make sure your PC is above the minimum system requirements to run the game, then move on and try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of the_Forza Horizon 4_ not launching problem is a faulty or outdated graphics driver. You should update your graphics driver to see if that’s the case for you.
@@ -74,6 +80,9 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-12.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -105,6 +114,9 @@ If your issue persists, then move on and try the fix below.
 
 **4)** Click**Apply > OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03-1.jpg)
 
 **5)** Disconnect**all USB devices** you don’t need from your PC.
@@ -113,6 +125,9 @@ If your issue persists, then move on and try the fix below.
 
 If your issue still exists, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Turn off unnecessary programs
 
  This issue might occur when you’re running multiple programs at the same time, and your PC gets overloaded. So you should turn off unnecessary programs during gameplay.
@@ -127,6 +142,10 @@ Here is how to check and close programs you’re running:
 
 **1)**  Right-click your taskbar and select **Task Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-29.jpg)
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -143,12 +162,18 @@ Here is how to check and close programs you’re running:
 
 If your issue continues to occur, move on and try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Fix 5: Check for Windows updates
 
  Windows releases regular updates to fix bugs. It’s possible that a recent update has stopped your game from running correctly, and a new update is needed to fix it. To ensure you have the latest updates, do the following:
 
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-53-37.jpg)
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
@@ -159,12 +184,18 @@ If your issue continues to occur, move on and try the fix below.
 
 If your issue persists, move on to the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Reinstalling your game
 
 _Forza Horizon 4_ launching issues could happen when the game is not properly installed on your PC, or certain game files are corrupted or missing. In this case, reinstalling your game is very likely the solution to your issue:
 
 **1)** On your keyboard, press the**Windows logo key** and type**Forza Horizon 4** . Then, right-click**Forza Horizon 4** and select**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-16.jpg)
 
 **2)** Click**Uninstall** .

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Fortnite Error: Step-by-Step Guide to Overcoming the 'Unable to Join a Party' Issue"
-date: 2024-08-06 14:55:35
-updated: 2024-08-07 10:37:34
+date: 2024-08-06T09:41:16.825Z
+updated: 2024-08-07T09:41:16.825Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 You bought the Vive for fun but when you start SteamVR, you received the error message “Error 308”. It’s not a pleasant experience. Don’t worry, you’re not alone. This post will show you how to fix the error and bring you back to the game.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -41,9 +44,16 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 
 1. Press**Ctrl + Shift + Esc** together to open the Task Manager.
 2. Choose a Steam task and click**End task** . Repeat this process until you end all Steam related processes.  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s2.jpg)
 3. Restart Steam and SteamVR to check.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ### Fix 3: Fix SteamVR installation path
 
  When Steam was installed in a non-default folder and your SteamVR configuration path may be related to a non-existent path. This will cause you meet the SteamVR error 308\. You can fix it by correcting the installation path.
@@ -54,6 +64,23 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
  Navigate to “…Steam/steamapps/common/SteamVR/bin/win64” and run**vrpathtreg** to fix the path.
 3. Reboot Steam and SteamVR.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The missing or outdated device drivers in your computer can result in issues. To rule it out as the cause for your problem, you should verify that your drivers are up to date, and update those that aren’t.
@@ -88,8 +115,14 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**appwiz.cpl** and press the Enter key.  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on**SteamVR** and click**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s3.jpg)
 4. Go to[Steam official website](https://store.steampowered.com/app/250820/SteamVR/) to download the latest version.
 5. Install and run the program to check.

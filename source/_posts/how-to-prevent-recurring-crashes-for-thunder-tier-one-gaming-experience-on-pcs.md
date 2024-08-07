@@ -1,7 +1,7 @@
 ---
 title: "How to Prevent Recurring Crashes for Thunder: Tier One Gaming Experience on PCs"
-date: 2024-08-06 15:40:17
-updated: 2024-08-07 10:25:45
+date: 2024-08-06T09:41:39.260Z
+updated: 2024-08-07T09:41:39.260Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/65adc82cc3ee9553a2913bedb3e5be45ee26dcc59
 
 You bought the Vive for fun but when you start SteamVR, you received the error message “Error 308”. It’s not a pleasant experience. Don’t worry, you’re not alone. This post will show you how to fix the error and bring you back to the game.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -33,8 +36,14 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 
 **HOW** : Right-click on Steam and choose**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: End Steam and SteamVR tasks
 
  End Steam and SteamVR tasks then reboot them sound cliche but quite effective. It’s no harm to try such a fix.
@@ -54,6 +63,9 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
  Navigate to “…Steam/steamapps/common/SteamVR/bin/win64” and run**vrpathtreg** to fix the path.
 3. Reboot Steam and SteamVR.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The missing or outdated device drivers in your computer can result in issues. To rule it out as the cause for your problem, you should verify that your drivers are up to date, and update those that aren’t.
@@ -74,6 +86,9 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -90,6 +105,9 @@ You bought the Vive for fun but when you start SteamVR, you received the error m
 2. Type**appwiz.cpl** and press the Enter key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on**SteamVR** and click**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s3.jpg)
 4. Go to[Steam official website](https://store.steampowered.com/app/250820/SteamVR/) to download the latest version.
 5. Install and run the program to check.

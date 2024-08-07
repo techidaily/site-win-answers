@@ -1,7 +1,7 @@
 ---
 title: Improving FPS Lag Issues for a Smoother Outriders Journey
-date: 2024-08-06 17:34:54
-updated: 2024-08-07 11:11:17
+date: 2024-08-06T09:41:18.472Z
+updated: 2024-08-07T09:41:18.472Z
 tags:
   - win11
   - win10
@@ -27,6 +27,9 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 | **Hard Drive**       | 40 GB free space                                                             |
 | **Additional Notes** | Laptop versions of graphics cards may work but are NOT officially supported. |
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -63,6 +66,9 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 
 If this fix doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3: Change NVIDIA settings
 
  If you have a NVIDIA graphic card, change the NVIDIA program settings would fix the issue.
@@ -75,6 +81,9 @@ If this fix doesn’t help, move to the next fix.
 
 If it doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ## Fix 4: Update your driver
 
  Graphic card and its driver are related to the FPS issue. The outdated or wrongly installed driver might be the culprit of the issue. Therefore, make sure you have the latest drivers installed on your computer is important. What’s more, updating your drivers would improve your computer performance.
@@ -97,6 +106,9 @@ If it doesn’t help, move to the next fix.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Change priority
 
  Some players found changing the game priority would fix the FPS issue. Although some players said it’s a partial fix, it’s worth trying. Follow the steps below to get rid of the FPS drop issue.
@@ -112,12 +124,18 @@ If it doesn’t help, move to the next fix.
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Fix 6: Verify the game files
 
  Sometimes there’re some missing files that cause the FPS drop issue. You can fix it by Verify the game files.
 
 1. Launch Steam.
 2. Right-click on Dying Light and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Click**LOCAL FILES** and click**Verify integrity of game files…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fixes: Eliminating Latency Issues in Street Fighter 6 for a Smoother PC Gaming Experience"
-date: 2024-08-06 17:57:17
-updated: 2024-08-07 11:55:27
+date: 2024-08-06T09:41:11.122Z
+updated: 2024-08-07T09:41:11.122Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
  So if you haven’t done this yet, give it a shot. A simple restart may be all you need to solve Roblox or Roblox Studio-related issues.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2 – Try an alternative browser
 
  Roblox is compatible with all leading browsers such as Chrome, Firefox, Opera, Safari, and more. To make sure Roblox works well on your device, make sure you’re using the latest version of the browser.
@@ -63,20 +66,32 @@ thumbnail: https://thmb.techidaily.com/c7997379262ae837ce8b40d29f0069413aec90a36
 
 **3)** Click the **Advanced tab** , and then click **Reset** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_10-48-24.jpg)
 
 **4)**  Click **Reset** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_10-48-32.jpg)
 
 **5)** Click **Close** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-12_10-48-38.jpg)
 
 **6)** Try launching your game.
 
 If Roblox still gets stuck when loading the game, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Disable your ad-blocker/extensions
 
  Browser extensions, especially ad-blockers that modify page content could also interfere with Roblox. So if you’re running any browser extensions, you may also want to try disabling them.
@@ -87,6 +102,9 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **2)** Click the **Menu** button.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-288.png)
 
 **3)**  Select **More tools** , and then select **Extensions** .
@@ -107,10 +125,16 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **1)** On your keyboard, press the **Windows logo key**  and **R** at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-40-1.jpg)
 
 **2)**  Type **control**  and then press the **Enter key** .
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
 **3)** Under **View by** , select **Small icons** , then click **Windows Defender Firewall** .
@@ -131,10 +155,16 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **7)** Click **Browse** , then locate the Roblox launcher file and click**Add** .
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-2.jpg)
 
 **8)** Check **Private** if you’re using a trustworthy network, then click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-3.jpg)
 
 **9)**  Firewall will prompt you to allow access to networks, click **Allow access** .
@@ -149,6 +179,9 @@ If you still can’t join the game, move on to the next fix.
 
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Fix 7 – Clear your browser cookies and cache
 
  The cache and cookies stored by your browser, if corrupted, can sometimes cause issues. Try clearing your browser cookies and cacher to see if this helped:
@@ -157,6 +190,9 @@ If you still can’t join the game, move on to the next fix.
 
 **2)**  On your keyboard, press the **Ctrl, Shift,**  and **Del**  keys at the same time. Then, click **Clear data** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-283.png)
 
 **3)**  Relaunch your browser and your Roblox game.
@@ -173,6 +209,9 @@ Follow the instructions below:
 
 **2)** Type **appwiz.cpl** and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
 
 **3)** Right-click the Roblox app and click **Uninstall** . If you see**Roblox Stuido** , uninstall it, too.
@@ -183,10 +222,17 @@ Follow the instructions below:
 
 **5)** Type**%localAppdate%** and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_10-59-43.jpg)
 
 **6)** Click the **Roblox folder**  and press the **Delete key**  on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_11-01-06.jpg)
 
 **7)** Download **[Roblox](https://www.roblox.com/)**  and install it.

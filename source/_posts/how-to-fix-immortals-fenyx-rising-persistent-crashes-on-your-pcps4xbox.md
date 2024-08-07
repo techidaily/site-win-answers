@@ -1,7 +1,7 @@
 ---
 title: How to Fix Immortal's Fenyx Rising Persistent Crashes on Your PC/PS4/Xbox
-date: 2024-08-04 19:18:29
-updated: 2024-08-07 10:57:10
+date: 2024-08-06T09:41:04.726Z
+updated: 2024-08-07T09:41:04.726Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 * [Fix 5: Verify game files](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Close all background apps
 
  One thing that might cause your Ghostrunner Fatal Error is other conflicting applications, especially your antivirus software and any programs with overlays.
@@ -50,6 +53,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  2) Run Driver Easy and click the**Scan No** w button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -58,6 +64,9 @@ OR
 
  Click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
 4) Restart your PC for the changes to take full effect.
@@ -70,10 +79,16 @@ OR
 
  2) Scroll down to the download section for**Visual Studio 2013** , and click **Microsoft Visual C++ Redistributable Packages for Visual Studio 2013** .
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 3) Download the x64.exe in the language you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-1.jpg)
 
 4) Scroll down the page and download the x86.exe.
@@ -86,6 +101,9 @@ OR
 
 Play Ghostrunner again to see if this fatal error reoccurs.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  Another reason that you get Ghostrunner fatal error is GPU overclocking. If you overclocked your GPU with some software such as Afterburner, we recommend stopping the overclock or suspending these programs including GeForce Experience before you play the game.
@@ -94,6 +112,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
@@ -106,6 +127,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  Start your game again to see if this helps you get your game back to work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Fix 5: Verify game files
 
  Many of the errors happen because of improper installation or corrupted game files. So please make sure you have all the correct game files.

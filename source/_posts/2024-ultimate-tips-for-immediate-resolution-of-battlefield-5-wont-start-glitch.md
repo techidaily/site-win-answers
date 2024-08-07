@@ -1,7 +1,7 @@
 ---
 title: 2024 Ultimate Tips for Immediate Resolution of Battlefield 5 Won't Start Glitch
-date: 2024-08-06 11:24:40
-updated: 2024-08-07 10:12:24
+date: 2024-08-06T09:41:35.152Z
+updated: 2024-08-07T09:41:35.152Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 4. **[Reset Chrome in safe mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Chrome](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Fix 1: Restart your PC
 
  Sometimes, certain applications running on your computer may conflict with Google Chrome, causing it to fail.
@@ -37,6 +40,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If your browser still won’t open after the reboot, read on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Disable your antivirus temporarily
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and firewall and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -53,10 +59,16 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  Verify there is no**Chrome-related** process running in the background. If there is, right-click the process and select**End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-491.png)
 
 **3)** On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run dialog.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-61.png)
 
 **4)** Type**%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data** in the box and click**OK** .
@@ -69,6 +81,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  Try opening Chrome to test your issue. If you still can’t launch Chrome properly, don’t worry. Move on to fix 4, below.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Reset Chrome in safe mode
 
  Your issue is also probably caused by improper Chrome settings. If that’s the problem for you, resetting Chrome can help fix it. Follow the instructions below:
@@ -79,12 +94,18 @@ Reset Chrome in safe mode
  Boot your PC into safe mode. (Click to see **[how to enter safe mode in Windows 10, 7, 8, 8.1, XP, or Vista](https://tools.techidaily.com/drivereasy/download/)**  .)
 2. **Open Chrome, then click the menu button and select Settings.**  
  Open Chrome, then click the **menu button** and select **Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-28-36.jpg)
 3. **Click Advanced at the bottom.**  
  Click **Advanced** at the bottom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-10.jpg)
 4. **Select Restore settings to their original defaults.**  
  Select **Restore settings to their original defaults** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-48.jpg)
 5. **Click Reset settings.**  
  Click **Reset settings** .  
@@ -104,6 +125,9 @@ Reset Chrome in safe mode
 
 **2)** Under**View by** , click**Category,** and then select**Uninstall a program** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-499.png)
 
 **3)** Right-click**Google Chrome** and click**Uninstall** .

@@ -1,7 +1,7 @@
 ---
 title: Overwatch Stuttering? Here's the Fix
-date: 2024-08-04 15:37:35
-updated: 2024-08-07 12:19:58
+date: 2024-08-06T09:41:10.264Z
+updated: 2024-08-07T09:41:10.264Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/b07f8aafe5ebbf14ba4a69b2b5bb7f9ec0a78d9ab
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Update your video driver
 
  The Overwatch stuttering issue could be caused by**an old or corrupted video driver** on your computer. You can update your video driver to the latest version to try to solve the issue.
@@ -42,6 +45,9 @@ You can update your video driver either manually or automatically.
 1. Download and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1b9f02530c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ba333061d.jpg)
 
  Restart your computer after updating your video driver. Then check if Overwatch runs smoothly.
@@ -54,6 +60,9 @@ You can update your video driver either manually or automatically.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Turn off fullscreen optimization
 
  If you enable**fullscreen optimization** on your computer while playing Overwatch, Overwatch may also stutters. You could simply turn off fullscreen optimization to fix your problem.
@@ -76,12 +85,18 @@ Here’s how to turn off Game Mode:
 
 1. On your keyboard, hold down**the Windows logo key** , then press**I** to bring up the**Settings** window.
 2. Click**Gaming.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 3. Select**Game Mode** in the left, then set**Use Game Mode** to**Off** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bdd00abb4.jpg)
 
 Check to see if Overwatch runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Turn off Game DVR
 
  On Windows 10,**Game DVR** controls how you capture your game through screenshots and game clips. But with it enabled, you might also have the game stuttering problem.
@@ -90,7 +105,13 @@ Here’s how you can turn Game DVR off.
 
 1. On your keyboard, hold down the**Windows logo key** , then press**I** to bring up the**Settings** window.
 2. Click**Gaming** .  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 3. Select**Game bar** in the left then toggle off **Record game clips, screenshots, and broadcast using Game bar** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1be60bd72d.jpg)
 4. Select**Game DVR** in the left, then**turn off each option** in this section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bee7c51a7.jpg)
 

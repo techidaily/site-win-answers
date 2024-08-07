@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Instructions for Installing Microsoft's Hyper-V in Windows 10
-date: 2024-08-06 10:25:24
-updated: 2024-08-07 12:40:29
+date: 2024-08-06T09:41:15.217Z
+updated: 2024-08-07T09:41:15.217Z
 tags:
   - win11
   - win10
@@ -36,6 +36,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The main reason why Ghostrunner’s fatal error happens is tied to the GPU driver. If your game crashes, won’t launch, or gives you any kinds of errors, be sure to update your graphics card driver and other drivers.
@@ -50,6 +53,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  2) Run Driver Easy and click the**Scan No** w button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -58,10 +64,16 @@ OR
 
  Click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
 4) Restart your PC for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 3: Install Microsoft Visual C++ 2013
 
  Especially when you get error codes when starting your game, try installing Microsoft Visual C++ 2013 (both b84bit and 64bit), which proved to be working for many Ghostrunner gamers. Here’s how to do it:
@@ -70,14 +82,23 @@ OR
 
  2) Scroll down to the download section for**Visual Studio 2013** , and click **Microsoft Visual C++ Redistributable Packages for Visual Studio 2013** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 3) Download the x64.exe in the language you prefer.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-1.jpg)
 
 4) Scroll down the page and download the x86.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -98,6 +119,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.

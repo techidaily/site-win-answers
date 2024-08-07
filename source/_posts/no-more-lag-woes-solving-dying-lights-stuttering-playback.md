@@ -1,7 +1,7 @@
 ---
 title: "No More Lag Woes: Solving Dying Light's Stuttering Playback"
-date: 2024-08-04 17:26:43
-updated: 2024-08-07 12:33:46
+date: 2024-08-06T09:41:38.682Z
+updated: 2024-08-07T09:41:38.682Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
 **If you’re running into Dying Light lag issue, don’t worry. You’ve come to the right place!** Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Dying Light players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/0c851aeff0505f93ab9210c28e47cf3dc2d613689
 
  If a patch is available, just download and install it to see if it can fix the game lag issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
 The outdated or broken graphics driver may also lag the game.
@@ -93,12 +99,21 @@ The outdated or broken graphics driver may also lag the game.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![run dialog control panel](https://images.drivereasy.com/wp-content/uploads/2019/09/run-dialog-control-panel.jpg)
 2. View Control Panel by**Large icons** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![view control panel bycategory](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel-category.jpg)
 3. Click**NVIDIA Control Panel** to open it.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Nvidia-control-panel](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvidia-control-panel.jpg)
 4. Click**3D Settings** and select**Adjust image settings with preview** . Then select**Use my preference emphasizing** and**drag the slider to the left** .  
 ![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Lower the in-game graphics settings
 
 1. Launch Dying Light and modify the following in-game video settings:  
@@ -124,14 +139,23 @@ The outdated or broken graphics driver may also lag the game.
 
 See if the game lag issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Use Steam launch options for Dying Light
 
  If your PC didn’t meet the recommended system requirements for Dying Light, and you’re suffering from the lag in-game, you can also try using Steam launch options for Dying Light. If you want a full FPS boost, you can follow the steps below to Launch the game:
 
 1. Launch the Steam client and go to Steam**Library** .
 2. **Right-click on Dying Light** and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-properties.jpg)
 3. In the window that pops up, click**SET LAUNCH OPTIONS…** under the**GENERAL** tab.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options.jpg)
 4. Copy and paste the commands below and click**OK** .  
 `-nologos -high -useallavailablecores`  
@@ -149,8 +173,14 @@ See if the game lag issue persists. If not, try the next fix, below.
 3. On your keyboard, press**Alt** and**Tab** at the same time and switch to**Task Manager** .
 4. Navigate to the**Details** tab and locate**DyingLightGame.exe** .
 5. **Right-click** on**DyingLightGame.exe** and select**Set affinity** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager.jpg)
 6. **Check CPU 0** and**uncheck the rest** . (The game will freeze in the background, but don’t worry)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager-1.jpg)
 7. If the Affinity window closes, right-click on**DyingLightGame.exe** and open it again, then re-enable. The game will start running again as before.
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Fallout 76 Stuttering"
-date: 2024-08-06 14:35:35
-updated: 2024-08-07 12:27:56
+date: 2024-08-06T09:41:14.601Z
+updated: 2024-08-07T09:41:14.601Z
 tags:
   - win11
   - win10
@@ -64,6 +64,9 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -81,8 +84,14 @@ You can update your video driver either manually or automatically.
  If you don’t have the time, patience or computer skills to update your video driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact graphics card, and your Windows version, and it will download and install them correctly:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
 Launch Fallout 4 to see if it runs smoothly.
@@ -99,6 +108,9 @@ Launch Fallout 4 to see if it runs smoothly.
   
  Usually your system is set to the recommend resolution, if it’s not, set it to be.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
@@ -112,6 +124,9 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Fix 4: Change your game mode and correct the resolutions by modifying your game file
 
  If the Fix 3 fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
@@ -134,6 +149,9 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will**slow down** .**58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.

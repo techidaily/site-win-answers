@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues: How to Update or Repair Compromised Oculus Graphics Drivers"
-date: 2024-08-05 23:47:51
-updated: 2024-08-07 10:35:52
+date: 2024-08-06T09:41:35.533Z
+updated: 2024-08-07T09:41:35.533Z
 tags:
   - win11
   - win10
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
  If**Metro Exodus crashes** on your computer, don’t worry. There are solutions to fix Metro Exodus crashing issues. Follow the instructions below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## How to fix Metro Exodus crashing
 
  Here are the fixes for Metro Exodus crashing. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -45,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/8c53194608f8a775260017278f44b51f37022a75b
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  If the device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the cause for Metro Exodus crashing, try updating your video driver to the latest version.
@@ -75,10 +85,17 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -91,6 +108,10 @@ If your problem still persists, don’t worry. There is another try.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 4: Switch to DX11 in your game settings
 
  This method works like a charm for many players who have the same crashing issue in Metro Exodus, so it’s worth a try when you’re using DirectX 12 for Metro Exodus.
@@ -117,6 +138,9 @@ To do so, follow these steps:
 
 2) Click**Library** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
  3) Right click on**Metro Exodus** , and click**Properties** .
@@ -129,6 +153,9 @@ To do so, follow these steps:
 
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
 6) Save your changes and restart your computer.

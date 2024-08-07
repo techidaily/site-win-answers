@@ -1,7 +1,7 @@
 ---
 title: "Busting the Myth: The Definitive Status on the Assassin's Creed Valhalla Game Launch Timeline"
-date: 2024-08-05 11:31:40
-updated: 2024-08-07 11:40:19
+date: 2024-08-06T09:41:39.697Z
+updated: 2024-08-07T09:41:39.697Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  However, some may get “low FPS” or “stuttering” issues and mistake it as a “lag” issue. So in this post, we’ll address the issues that make your Assassin’s Creed: Valhalla “laggy” altogether and help you improve the game performance on any PC.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 * [1 – Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
@@ -28,6 +31,9 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 * [5 – Change your DNS settings](https://tools.techidaily.com/drivereasy/download/)
 * [6 – Clean all your temp files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1 – Install the latest game patch
 
  It’s always recommended to check Assassin’s Creed: Valhalla game updates, and install the latest game patch to solve the issue. You can find more information about Assassin’s Creed: Valhalla[news & updates](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla/news-updates) on Ubisoft.
@@ -42,6 +48,9 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  2) Unplug the power cord from the back of the modem and router. Make sure all the lights on the modem/router are turned off (please don’t push the reset button).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/93354306_10157091808650060_3767062751000657920_n.png)
 
 3) Wait 1 minute, then plug the power cord back into the modem/router.
@@ -66,12 +75,20 @@ There are two ways for you to update the device drivers:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full suppor** t and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -79,6 +96,9 @@ There are two ways for you to update the device drivers:
 
  Play the game to check if Assassin’s Creed Valhalla lagging issue still persists with your new network driver. If the driver update doesn’t do the trick, you can go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ## 4 – Disable VRR and V-Sync/FreeSync
 
  Many players may turn on VRR (Variable Refresh Rate) or V-Sync (Vertical Synchronization) to reduce screen tearing. But this can introduce input lag. However, if you have terrible screen tearing when playing Assassin’s Creed Valhalla, you can skip this fix.
@@ -93,6 +113,9 @@ There are two ways for you to update the device drivers:
 
  3) Toggle off the button under**Variable refresh rate** .
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graohics.jpg)
 
  Note: If you’re using a gaming console, you can turn off VRR by going to**Settings** \>**Display & sound** \>**Video output** \>**Video modes** \> uncheck the**Allow** **Variable Refresh Rates** box.
@@ -113,12 +136,18 @@ There are two ways for you to update the device drivers:
 
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 5 – Change your DNS settings
 
  If you still find the game laggy, you can improve your network condition by switching to the Google Public DNS address. Here’s how:
 
  1) On your keyboard, press the**Windows logo** key and**R** at the same time to open the**Run** dialog box. Type**control** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
 
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
@@ -141,6 +170,9 @@ There are two ways for you to update the device drivers:
 
  For the Preferred DNS server, enter**8.8.8.8** ; for the Alternate DNS server, enter**8.8.4.4** . Then click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Version-4.jpg)
 
  7) Now you need to flush the DNS cache to let the changes take effect. Type cmd in the**Search** box, and run Command Prompt as administrator.
@@ -157,6 +189,9 @@ There are two ways for you to update the device drivers:
 
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## 6 – Clean all your temp files
 
  If you notice the game lagging lot but failed to reduce it with the fixes above, you should try clearing temporary and junk files on a regular basis. These files might slow down your PC. Here’s how:
@@ -171,6 +206,9 @@ There are two ways for you to update the device drivers:
 
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/continue.jpg)
 
  4) Once complete, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **prefetch** and hit **Enter** .

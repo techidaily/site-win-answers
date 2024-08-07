@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix List for When Steam Ignores Your Virtual Reality Gear
-date: 2024-08-04 14:12:53
-updated: 2024-08-07 10:13:30
+date: 2024-08-06T09:41:17.464Z
+updated: 2024-08-07T09:41:17.464Z
 tags:
   - win11
   - win10
@@ -25,6 +25,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 2. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Run Epic Games Launcher and Fortnite as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: **Update your device drivers**
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -53,6 +56,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -63,12 +69,19 @@ Here is how to verify the integrity of Fortnite:
 
  2) On the right pane, locate Fortnite, then click **the three dots icon next to Fortnite** and click **VERIFY** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
  3) Once completed, click to run Fortnite to see if it launches properly. If yes, then congrats! If the issue still remains, please try **Fix 3** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
  In some cases, Fortnite won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run **Epic Games Launcher** and **Fortnite** as administrator.
@@ -77,10 +90,16 @@ Here is how to run Epic Games Launcher as administrator:
 
  1) On your desktop, right-click on the **Epic Games Launcher icon** and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
 
  3) Run Fortnite to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run Fortnite**as administrator** , the steps are similar as those for Epic Games Launcher.

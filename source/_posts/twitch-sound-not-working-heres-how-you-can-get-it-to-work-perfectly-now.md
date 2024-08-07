@@ -1,7 +1,7 @@
 ---
 title: Twitch Sound Not Working? Here's How You Can Get It to Work Perfectly Now
-date: 2024-08-05 14:26:44
-updated: 2024-08-07 10:47:53
+date: 2024-08-06T09:41:30.911Z
+updated: 2024-08-07T09:41:30.911Z
 tags:
   - win11
   - win10
@@ -15,12 +15,18 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 
 ## Twitch Sound Not Working? Here's How You Can Get It to Work Perfectly Now
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/twitch-3384022_640.png)
 
  Not getting any sound from streams on Twitch? You’re not alone! Many Twitch users are reporting the audio missing issue. This problem can be frustrating, especially when all your other apps have sound.
 
  But don’t panic. You can fix it. In this post, we’ve put together 4 methods to resolve the Twitch audio issues.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Fix Twitch No Sound Issues
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 * [**Method 3: Update Your Audio Driver**](https://tools.techidaily.com/drivereasy/download/)
 * [**Method 4: Run Windows Audio Troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## First Things to Check
 
  Several different factors can affect the sound on your computer: your audio driver, the installed hardware, Windows sound settings. But before you begin troubleshooting Twitch sound problems, follow the instructions below to rule out the obvious.
@@ -55,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 
 **1)** Right-click the **Volume Control icon** on the taskbar and select **Sounds** .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-222.png)
 
 **2)** Click the **Playback tab** .
@@ -71,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/d8ea0db08299b418f8415fcdb55459d60a299aaea
 
 If the sound is still not available, try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 1: Restart Your PC
 
  Sometimes the audio missing problem is just a temporary error that you can fix by restarting your PC.
@@ -93,6 +108,9 @@ If your issue persists after the reboot, then go ahead with the next fix.
 
  2) Type**inetcpl.cpl** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_10-08-38.jpg)
 
  3) Click the**Advanced tab** . Then, under the**Multimedia section** , make sure the box next to**Play sounds in web pages** is checked.
@@ -111,6 +129,9 @@ If there’s still no sound, read on and try the next fix.
 
  2) Click**Clear data** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-55-06.jpg)
 
 3) Relaunch the browser to see if the sound comes back.
@@ -137,12 +158,18 @@ If the sound isn’t coming back, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-04-51.jpg)
 
  3) Click the **Update**  button next to the audio driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-02_17-05-55.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -152,6 +179,9 @@ If the sound isn’t coming back, try the next fix.
 
  If the sound issue isn’t resolved, then move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 4: Run Windows Audio Troubleshooter
 
  The audio troubleshooter is a Windows **built-in utility** that can detect and fix common audio problems automatically.

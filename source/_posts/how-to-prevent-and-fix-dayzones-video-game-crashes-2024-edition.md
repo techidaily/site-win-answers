@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Fix DayZones Video Game Crashes - 2024 Edition
-date: 2024-08-05 23:55:44
-updated: 2024-08-07 11:53:36
+date: 2024-08-06T09:41:20.660Z
+updated: 2024-08-07T09:41:20.660Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/3f687d67d9383763ba88f12d8075ae8aa6427188f
 
 If you are a football lover, you might have waited for FIFA 21 for long. The game has been out for a while but it seems not as flawless as expected. Many players are reporting the FIFA 21 crashing on PC issue. If you’re plagued by the same problem, follow this guide to get it fixed right away!
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  While the causes for FIFA 21 crashing may be varied, there are some general fixes proved to be effective. You don’t have to try them all. Simply work your way down the list until you find the one that works for you.
@@ -64,6 +67,9 @@ Recommended system requirements of FIFA 21
 
 **3)** Navigate to the**Display** tab and view your graphics card.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3.jpg)
 
  After confirming your PC can handle games like FIFA 21, you can move on to more fixes below.
@@ -80,16 +86,25 @@ Recommended system requirements of FIFA 21
 
 **2)** Double-click**Display adapters** to expand the list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-1.jpg)
 
 **3)** Right-click your graphics card and click**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3.jpg)
 
 **4)** Select the**Driver** tab, and click**Roll Back Driver** .
 
  If the**Roll Back Driver** option is grayed out, it means there’s no driver to roll back to, and you can directly skip to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-4.jpg)
 
 **5)** Choose one of the reasons according to your own situations and click**Yes** .
@@ -100,6 +115,9 @@ Recommended system requirements of FIFA 21
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3 – Update your device drivers
 
  If rolling back the graphics driver doesn’t help, it’s likely that your device drivers are faulty or outdated. To fix the constant FIFA 21 crashes and avoid other potential gaming issues, you should update your device drivers to the latest version.
@@ -129,6 +147,14 @@ Recommended system requirements of FIFA 21
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Fix 4 – Verify integrity of your game files
 
  As you may know, missing or damaged game files can cause a game to crash. So when your FIFA 21 gets stuck in crashing, one thing you should always do is to validate the game files. We’ll show you the steps both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -137,6 +163,9 @@ Recommended system requirements of FIFA 21
 
 **1)** Launch Steam and select the**Library** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 
 **2)** Right-click**FIFA 21** from the game list, and click**Properties** .
@@ -145,6 +174,9 @@ Recommended system requirements of FIFA 21
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3-1.jpg)
 
  Wait until the process completes and go back to your pitch to test the issue. If the crashing persists, check out **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  then.
@@ -153,6 +185,9 @@ Recommended system requirements of FIFA 21
 
 **1)** Launch Origin and select**My Game Library** from the left pane.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4.jpg)
 
 **2)** Right-click**FIFA 21** and click**Repair** .
@@ -177,6 +212,9 @@ C:\Users\<username>\Documents\FIFA 21
 
 **3)** On your keyboard, press**Ctrl** and**F** at the same time to open the Find box. Then, paste**DIRECTX\_SELECT** and click**Find Next** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_12-33-04.jpg)
 
 **4)** After locating the right text, set DIRECTX\_SELECT as below:
@@ -196,6 +234,9 @@ C:\Users\<username>\Documents\FIFA 21
 
 **1)** Launch FIFA 21 and click**Game Settings** from the menu.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_17-32-34.jpg)
 
 **2)** Set the settings as below:
@@ -216,6 +257,9 @@ C:\Users\<username>\Documents\FIFA 21
 
 **1)** Launch Steam and navigate to the**Library** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-2.jpg)
 
 **2)** Right-click**FIFA 21** from the list in the left pane and click**Properties** .
@@ -224,6 +268,9 @@ C:\Users\<username>\Documents\FIFA 21
 
 **3)** Untick the box next to**Enable the Steam Overlay while in-game** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-20-08.jpg)
 
  Play FIFA 21 and check if the crashes reappear. If yes, you can proceed to **[Fix 8](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -246,6 +293,9 @@ C:\Users\<username>\Documents\FIFA 21
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8 – Play the offline mode
 
  It’s indeed a lot of fun to team up with friends online in the FIFA 21 matches. However, if the game crashing reoccurs and you still hope to play the game, try**switching to the offline mode** and see if this works.

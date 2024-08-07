@@ -1,7 +1,7 @@
 ---
 title: "Mastering VR Gaming: A Resolve for SteamVR Error Code 308"
-date: 2024-08-04 11:50:26
-updated: 2024-08-07 12:50:44
+date: 2024-08-06T09:41:19.214Z
+updated: 2024-08-07T09:41:19.214Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 
  Before you proceed with the fixes below, please make sure your gear meets[the minimum requirements of Persona 5 Stri](https://gamesystemrequirements.com/game/persona-5-strikers) [kers](https://gamesystemrequirements.com/game/persona-5-strikers) .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Persona 5 Strikers crashing might be caused by**lack of administrative rights** ,**corrupted game files,** or**software interference** ,**outdated graphics drivers** , etc.
@@ -32,6 +35,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 5. [**Run your game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Tweak some settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Close all unnecessary applications
 
  Your Persona 5 Strikers may be crashed by interference from some programs running in the background.
@@ -48,12 +54,18 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 
 There are mainly two ways for you to update your graphics driver:
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Manually
 
  To manually update your graphics driver, you’ll need to visit the manufacturer’s official website ([**NVIDIA**](https://tools.techidaily.com/drivereasy/download/) ,[**AMD**](https://www.amd.com/en/support) , or **[Intel](https://downloadcenter.intel.com/)**  ) to download the latest driver for your operating system.
 
  Note that when installing a driver manually, you’ll need to perform a clean installation so that the new driver can be recognized correctly.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
 ### Option 2: Automatically
@@ -68,6 +80,14 @@ There are mainly two ways for you to update your graphics driver:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
 
@@ -80,6 +100,9 @@ There are mainly two ways for you to update your graphics driver:
 
 1. Launch Steam, and go to the**Library** .
 2. Right-click on Persona 5 Strikers, and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
@@ -91,6 +114,9 @@ There are mainly two ways for you to update your graphics driver:
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
 
 1. Go to your Steam Library, and right-click Persona 5 Strikers > select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
@@ -98,6 +124,9 @@ There are mainly two ways for you to update your graphics driver:
 
  Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## 5\. Run your game as an administrator
 
  Persona 5 Strikers may not work properly if it lacks administrative rights. To make sure your game has full access to the game files, you can run the game as an administrator and launch your game from the installation folder.
@@ -107,6 +136,9 @@ There are mainly two ways for you to update your graphics driver:
 2. Right-click the game.exe file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
 

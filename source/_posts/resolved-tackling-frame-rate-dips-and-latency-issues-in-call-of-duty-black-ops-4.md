@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Tackling Frame Rate Dips & Latency Issues in Call of Duty: Black Ops 4"
-date: 2024-08-05 14:22:16
-updated: 2024-08-07 10:36:38
+date: 2024-08-06T09:40:57.282Z
+updated: 2024-08-07T09:40:57.282Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbe
 
 ## Eliminating the Lag Issues of Deathloop on Next-Gen Consoles & Personal Computers
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-1.jpg)
 
  New games often come out with some bugs, and Deathloop is no exception. One of the issues plaguing many gamers is that**the game keeps freezing on their PC and PS5** . Although we are not sure what is causing the problem currently, there are still some workarounds you can try.
@@ -32,6 +35,9 @@ thumbnail: https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbe
 5. **[Switch to Performance Mode on PS5](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Power cycle your PS5](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  If you’re experiencing random freezes when playing Deathloop, you should first check to ensure that your PC meets the game’s minimum requirements.
@@ -44,13 +50,22 @@ thumbnail: https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbe
 
  Once you’ve confirmed that your device is good enough to run Deathloop, you can continue with the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Fix 2: Use your primary graphics card
 
  If your game does not perform as well as you expect with your AMD or Nvidia graphics card, it may be running with the wrong GPU. To fix it, you can switch the game to your primary graphics card. Here’s how:
 
 1. Launch Deathloop and navigate to**Options** .  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-options.jpg)
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
 Check if you still have the freezing issue in Deathloop.
@@ -80,6 +95,9 @@ If the game still keeps freezing, take a look at the next fix.
  Too many programs running in the background will take up more sources and slow down your PC. You can free up your system resources by closing all the additional programs in the background. Here’s how:
 
 1. Right-click your**taskbar** and select**Task Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager.jpg)
 2. Under the**Processes** tab,**right-click** the processes that are CPU and memory-hogging, and select**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/end-task.jpg)
@@ -95,12 +113,18 @@ If the game still keeps freezing, take a look at the next fix.
 2. Choose**Save Data and Game/App Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-saved-data.jpg)
 3. Select**Game Presets** , then make sure**Performance Mode** is selected.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
 
  Now you can enjoy your game with higher frame rates. Check if the freezing issue persists.
 
 If this method doesn’t do the trick, check out the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Fix 6: Power cycle your PS5
 
  If you’re experiencing the issue of Deathloop keeps freezing on your PlayStation 5, you can try to power cycle your console. Here’s how:

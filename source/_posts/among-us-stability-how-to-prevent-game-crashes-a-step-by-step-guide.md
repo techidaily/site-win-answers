@@ -1,7 +1,7 @@
 ---
 title: "'Among Us' Stability: How to Prevent Game Crashes - A Step-by-Step Guide"
-date: 2024-08-05 19:56:35
-updated: 2024-08-07 11:56:19
+date: 2024-08-06T09:41:28.915Z
+updated: 2024-08-07T09:41:28.915Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/2b507e99a3bf554781726874cc0f5a38265095ead
 
 Left 4 Dead 2 is an old game but there’re still gamers who love playing it. The game is quite steady but if you’re newbies and encounter crashing, don’t worry, this post is here to help.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Check your system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -52,6 +55,9 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 | Storage:    | 13 GB available space                                          |
 | Sound Card: | DirectX 9.0c compatible sound card                             |
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Left 4 Dead 2 crash issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -78,15 +84,24 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If it doesn’t work for you, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Fix 3\. Shut down background apps
 
  Shutting down background apps completely might fix your problem. The workshop items could be the culprit for crashing. The computer will have more power and resources for Left 4 Dead 2 when there are no other applications in the background.
@@ -119,6 +134,9 @@ You can also disable Steam overlay in Left 4 Dead 2.
 
 If it doesn’t work for you, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5\. Disable add-ons
 
  If your game keeps crashing when you want to load into an addon map, it probably your addons are causing those crashes. When the addon map is attempting to load a texture or model that has already been loaded from another addon you’ve got installed, you’ll get a crash.
@@ -135,6 +153,9 @@ To check if your add-ons are the fault, here the following things to do:
 8. Add an add-on from the new folder to your original one by one.
 9. Find the exact add-on that causes the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6\. Change compatibility mode
 
  If the above fixes don’t help, you can consider rolling back drivers to your previous version to see if the problem is solved. If so, it might be a recent patch for L4D2 that made it incompatible with something in your system. If possible, you could check the Event Viewer to find out what happens.

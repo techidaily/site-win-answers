@@ -1,7 +1,7 @@
 ---
 title: Overcome Multiplayer Malfunctions in Elden Ring with These Tips
-date: 2024-08-05 10:51:24
-updated: 2024-08-07 11:25:29
+date: 2024-08-06T09:41:07.660Z
+updated: 2024-08-07T09:41:07.660Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/a54e5c701c009258ccb5e3ebc68c482a0352d900b
 
 Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry not – you’re not alone. There may be quite a few causes behind this issue, but it’s usually not that hard to resolve.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Check your computer specs first
 
  If you’re unable to launch the game, please check your PC specs first; just make sure your computer is up for the task of running DOOM Eternal. In case you don’t know how to find your PC specs, here’s the guidance for you: **[ How to find computer specs Windows 10 \[Easily\]](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -105,6 +108,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
  1) Right-click an empty area of your desktop and select**NVIDIA Control Panel** from the context menu.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-13.png)
 
  2) In the left pane, click**3D Settings > Manage 3D Settings** .
@@ -113,6 +119,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
  4) If you have an alternative graphics card (say, the dedicated NVIDIA GPU), you’ll see another drop-down list below that enables you to choose your preferred graphics processor. Go on to select the**High-performance NVIDIA processor** option.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-14.png)
 
 **Note:** If you’re using the AMD GPU, please refer to **[https://www.amd.com/en/support/kb/faq/dh-017](https://www.amd.com/en/support/kb/faq/dh-017)**  .
@@ -133,6 +142,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Update your BIOS
 
  There’s a chance that your crash issue is caused by the out-dated Basic Input Output System (BIOS). Since BIOS plays a crucial role in your computer’s normal functioning, you must know that the process of updating BIOS could be risky and error-prone due to various reasons. For example, if you install a wrong BIOS version or your computer loses power during the update, major problems will come along – you might need to spend much to get your PC repaired. In short, perform a BIOS update at your own risk.
@@ -151,6 +163,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
 
 **Exercise caution with this step.** If you mistakenly end the important system processes, your computer may fail to work properly.
@@ -163,16 +178,25 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Verify the integrity of game files
 
  If you play DOOM Eternal on Steam, you can verify the integrity of your game files using the following procedure:
 
  1) Log in Steam and click **LIBRARY** .
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
  2) Right-click **DOOM Eternal** and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-22.png)
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
@@ -185,12 +209,18 @@ If this fix is to no avail, move on to Fix 8 below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Fix 8: Run the game as administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run DOOM Eternal, you should give this fix a try.
 
  1) Locate the **executable file** of DOOM Eternal on your PC. Right-click the file and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .

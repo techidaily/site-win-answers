@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Overcoming Frequent Baldur's Gate 3 Game-Crashing on Your Computer"
-date: 2024-08-05 18:51:26
-updated: 2024-08-07 12:24:59
+date: 2024-08-06T09:41:38.065Z
+updated: 2024-08-07T09:41:38.065Z
 tags:
   - win11
   - win10
@@ -26,10 +26,16 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1 – Stop overclocking
 
  A successful overclock is expected to bring better gaming performance, but when it’s unstable, the programs on your computer may be freezing and crashing. So if you keep running into Everspace 2 crashing, you should just**turn off overclocking utilities like MSI Afterburner** and**set the clock speed back to the default** . If this trick doesn’t help, move on to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  Missing or damaged game files is also a common cause of Everspace 2 crashing, but fortunately you can let the game launchers validate the game files automatically. Here’s how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and[**GOG**](https://tools.techidaily.com/drivereasy/download/) .
@@ -37,6 +43,9 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 #### If you’re on Steam
 
 1. Launch your Steam client and navigate to the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Everspace 2 from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
@@ -53,6 +62,9 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  A range of gaming issues like crashing, freezing and stuttering tends to be driver-related. To ensure a smooth experience with Everspace 2, you should keep your graphics driver up and running and update it to the latest version.
@@ -76,6 +88,9 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the **Update**  button next to the _flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -94,8 +109,14 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 Here are the steps:
 
 1. Open Steam and select the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)

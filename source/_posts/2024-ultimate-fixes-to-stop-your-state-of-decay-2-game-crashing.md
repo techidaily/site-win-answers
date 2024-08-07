@@ -1,7 +1,7 @@
 ---
 title: 2024 Ultimate Fixes to Stop Your State of Decay 2 Game Crashing
-date: 2024-08-04 20:58:25
-updated: 2024-08-07 10:34:13
+date: 2024-08-06T09:41:09.110Z
+updated: 2024-08-07T09:41:09.110Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Path of Exile is a popular game around the world, but it has an issue that annoy
 
  If you are frustrated and floundering alone, don’t worry, this post is here to help. We’ve collected the working fixes on the internet that would help.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +35,9 @@ Path of Exile is a popular game around the world, but it has an issue that annoy
 
 * [Bonus tip: Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Start a new instance
 
  This is the first and the easiest way to fix the issue which works for some gamers.
@@ -50,6 +56,9 @@ If it brings no luck, move to the next fix.
 
 1. Type**control panel** on your search bar and open it.
 2. Set Control Panel view by**Category** and click Uninstall a program.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/category.jpg)
 3. Locate Path Of Exile and right-click on it. Click**Uninstall** .
 4. Follow the on-screen instructions and finish the whole process.
@@ -83,6 +92,9 @@ If you don’t know how to ping, here’s how:
 
 1. Press the**Windows logo key + R** together on your keyboard.
 2. Type**cmd** and press the**Enter** key.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
 3. Select any of the locations that you’re willing to connect to and type the address in Command Prompt, then press the Enter key.  
  Here’s an example.
@@ -91,6 +103,9 @@ If you don’t know how to ping, here’s how:
 
 Then you’ll know whether this server is a good choice.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Use a VPN
 
  If the case is related to the unstable connection to servers, instead of changing a server, a VPN service would help. It’s a working fix that has been proved by many gamers even they say it’s ridiculous.
@@ -105,7 +120,14 @@ Here is the list of VPNs with money-back guarantees.
 | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Surfshark.png)                      | Over 3200 servers in 65 countries **30-day money-back guarantee**  Best deal: [$2.49/mo](https://tools.techidaily.com/drivereasy/download/) |
 | ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nord-logo-horizontal@1x.png)        | Over 5,500 servers worldwide **30-day money-back guarantee**  Connect 6 devices at the same time Best deal: [$3.67/mo](https://tools.techidaily.com/drivereasy/download/)                   |
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 | ![](https://images.drivereasy.com/wp-content/uploads/2021/07/purevpn-logo-flat.png)              | Over 2000 servers worldwide **31-day money-back guarantee**  Best deal: [$2.88/mo](https://tools.techidaily.com/drivereasy/download/)       |
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 | ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ExpressVPN_Horizontal_Logo_Red.png) | Over 3000 servers worldwide **30-day money-back guarantee**  Best deal: [$6.67/mo](https://tools.techidaily.com/drivereasy/download/)     |
 
  That’s all the working fix for Path Of Exile “failed to connect to instance” issue.
@@ -140,9 +162,15 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  

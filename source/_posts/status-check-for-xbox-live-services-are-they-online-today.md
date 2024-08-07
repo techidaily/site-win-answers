@@ -1,7 +1,7 @@
 ---
 title: Status Check for Xbox Live Services – Are They Online Today?
-date: 2024-08-06 19:53:19
-updated: 2024-08-07 11:16:54
+date: 2024-08-06T09:41:30.115Z
+updated: 2024-08-07T09:41:30.115Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Avatar: Frontiers of Pandora is an exciting and visually stunning new open-world
 
  If you’re in the same boat, no worries! This step-by-step troubleshooting guide will cover the most common fixes for getting Avatar: Frontiers of Pandora to run smoothly without crashes.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need them all; simply work your way down the list until you find the one that works.
@@ -34,6 +37,9 @@ Avatar: Frontiers of Pandora is an exciting and visually stunning new open-world
 9. **[Start your game in High Priority](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-crashing-on-PC-1-1200x675.jpg)
 
 ## 1\. Check the system requirements
@@ -62,6 +68,9 @@ _Recommended requirements_
 
  To check your PC specs, all you need to do is press the**Windows logo + R keys** simultaneously to open the Run box, then type**msinfo32** and hit Enter.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-System-Information-1200x699.jpg)
 
 If your PC perfectly meets the requirements, try the fixes below.
@@ -90,8 +99,14 @@ To make your game permanently run with admin rights for all users:
 
 1. On your keyboard, press the **Windows logo + R keys**  simultaneously to open the Run box.
 2. Type **taskmgr**  and hit Ener to open the Task Manager.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. Right-click the process that you don’t need to run while playing Avatar: Frontiers of Pandora and select **End task** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Discord-End-task.jpg)
 
 If your game still crashes, proceed to the next fix.
@@ -105,6 +120,9 @@ If your game still crashes, proceed to the next fix.
 1. On your keyboard, press the **Windows logo key** , then type **check for updates** . Open the settings **Check for updates**  from the list of results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Start-menu-Check-for-udpates.jpg)
 2. When the updates are available, simply click on the button **Download & install** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
 
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
@@ -131,6 +149,9 @@ If your issue persists, try the next fix below.
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
@@ -145,6 +166,9 @@ If your issue persists, try the next fix below.
 1. Open Ubisoft Connect PC.
 2. Go to the**Games** tab and choose your game.
 3. Select**Properties** in the menu. Under**Local files** , click**Verify files** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files-Ubisoft-Connect.jpg)
 4. If prompted, select**Repair** . Ubisoft Connect PC will then download and restore any missing or corrupted files.
 
@@ -153,6 +177,9 @@ If your issue persists, try the next fix below.
 1. Open the Epic Games Launcher.
 2. Find the game in your Epic Games**Library** .
 3. Click the**three dots** on the right side of the game line. Select**Manage** .  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files-Manage.jpg)
 4. Click on the**VERIFY** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files.jpg)
@@ -166,6 +193,9 @@ If your issue persists, try the next fix below.
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
@@ -176,6 +206,9 @@ When the process is completed, launch your game and see how things go.
  The overlay feature often requires additional processing power and memory, and disabling it may reduce the overall burden on your system during gameplay.
 
 1. On Ubisoft Connect PC, open the side menu by selecting the**three-lined icon** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-three-lines.jpg)
 2. Select **Settings** .
 3. In the**General** section,**uncheck** the box next to Enable in-game overlay for supported games.  
@@ -183,6 +216,9 @@ When the process is completed, launch your game and see how things go.
 
 Try to relaunch your game to see if it takes effect.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 8\. Try -dx11/-dx12 in launch arguments (Ubisoft Connect)
 
  Certain games may have compatibility issues or encounter errors related to specific DirectX versions. By forcing the game to use either DirectX 11 (“-dx11”) or DirectX 12 (“-dx12”) through launch arguments, you are providing a directive for the game to utilize a particular graphics API.
@@ -194,6 +230,9 @@ Try to relaunch your game to see if it takes effect.
 
 If this doesn’t work, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 9\. Start your game in High Priority
 
  Make Windows dedicate more resources to Avatar by setting the game process priority higher in Task Manager:
@@ -202,14 +241,24 @@ If this doesn’t work, proceed to the next fix.
 
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**taskmgr** and hit Enter.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 3. In the**Processes** tab, right-click your game and select**Go to details** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Go-to-details.jpg)
 4. Now the executable will be highlighted, right-click it and select**Set priority > High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Set-priority-High-1.jpg)
 
  After applying the changes, launch Avatar: Frontiers of Pandora. If your game still crashes frequently, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
 ## 10\. Check for corrupted system files
 
  Over time, critical Windows system files can become corrupted or damaged from normal PC use, software installations, updates, malware, bad shutdowns, and more. Corrupted files like DLLs, drivers, and registry keys can cause instability, crashes, and error messages.
@@ -218,6 +267,9 @@ If this doesn’t work, proceed to the next fix.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Launch Fortect and run a complete scan.  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. You’ll get a scan summary listing all the issues it detects. Click **Start Repair** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)

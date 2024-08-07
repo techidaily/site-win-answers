@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Persistent Game Freezes During XCOM 2 Playthroughs on Windows
-date: 2024-08-04 16:49:41
-updated: 2024-08-07 11:10:19
+date: 2024-08-06T09:41:35.671Z
+updated: 2024-08-07T09:41:35.671Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1e
 
 This fast-paced game is super fun for those who love the joy of movement. However, you’re not the only one who’s experiencing Ghostrunner Fatal Error. And luckily, it can be fixed easily with the following workarounds.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 * [Fix 1: Close all background apps](https://tools.techidaily.com/drivereasy/download/)
@@ -36,6 +39,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The main reason why Ghostrunner’s fatal error happens is tied to the GPU driver. If your game crashes, won’t launch, or gives you any kinds of errors, be sure to update your graphics card driver and other drivers.
@@ -50,6 +56,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  2) Run Driver Easy and click the**Scan No** w button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -78,6 +87,9 @@ OR
 
 4) Scroll down the page and download the x86.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -86,6 +98,9 @@ OR
 
 Play Ghostrunner again to see if this fatal error reoccurs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  Another reason that you get Ghostrunner fatal error is GPU overclocking. If you overclocked your GPU with some software such as Afterburner, we recommend stopping the overclock or suspending these programs including GeForce Experience before you play the game.
@@ -94,10 +109,18 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.
@@ -106,6 +129,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  Start your game again to see if this helps you get your game back to work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Verify game files
 
  Many of the errors happen because of improper installation or corrupted game files. So please make sure you have all the correct game files.

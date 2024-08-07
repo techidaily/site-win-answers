@@ -1,7 +1,7 @@
 ---
 title: "Assassin's Creed Valhalla: Rapid Remedies for Latency Issues and Improved Flow"
-date: 2024-08-05 16:50:23
-updated: 2024-08-07 10:31:10
+date: 2024-08-06T09:41:16.674Z
+updated: 2024-08-07T09:41:16.674Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  However, some may get “low FPS” or “stuttering” issues and mistake it as a “lag” issue. So in this post, we’ll address the issues that make your Assassin’s Creed: Valhalla “laggy” altogether and help you improve the game performance on any PC.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 * [1 – Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
@@ -66,6 +70,13 @@ There are two ways for you to update the device drivers:
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -79,16 +90,25 @@ There are two ways for you to update the device drivers:
 
  Play the game to check if Assassin’s Creed Valhalla lagging issue still persists with your new network driver. If the driver update doesn’t do the trick, you can go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 4 – Disable VRR and V-Sync/FreeSync
 
  Many players may turn on VRR (Variable Refresh Rate) or V-Sync (Vertical Synchronization) to reduce screen tearing. But this can introduce input lag. However, if you have terrible screen tearing when playing Assassin’s Creed Valhalla, you can skip this fix.
 
 1) Right-click the desktop, and select Display settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Display-1.jpg)
 
  2) Scroll down and select**Graphics settings** (in the**Multiple displays** section).
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics.jpg)
 
  3) Toggle off the button under**Variable refresh rate** .
@@ -105,6 +125,9 @@ There are two ways for you to update the device drivers:
 
  7) Scroll down until you see**Vertical Sync** , and choose**off** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
  8) Click**Apply** .
@@ -113,12 +136,19 @@ There are two ways for you to update the device drivers:
 
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## 5 – Change your DNS settings
 
  If you still find the game laggy, you can improve your network condition by switching to the Google Public DNS address. Here’s how:
 
  1) On your keyboard, press the**Windows logo** key and**R** at the same time to open the**Run** dialog box. Type**control** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
 
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
@@ -127,6 +157,9 @@ There are two ways for you to update the device drivers:
 
  3) On the left pane, click**Change adapter settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/change-adapter.jpg)
 
  4) Right-click on your network adapter and select**Properties** .
@@ -141,6 +174,9 @@ There are two ways for you to update the device drivers:
 
  For the Preferred DNS server, enter**8.8.8.8** ; for the Alternate DNS server, enter**8.8.4.4** . Then click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Version-4.jpg)
 
  7) Now you need to flush the DNS cache to let the changes take effect. Type cmd in the**Search** box, and run Command Prompt as administrator.
@@ -167,6 +203,9 @@ There are two ways for you to update the device drivers:
 
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
 
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
@@ -175,6 +214,9 @@ There are two ways for you to update the device drivers:
 
  4) Once complete, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **prefetch** and hit **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-306.png)
 
  Click**Continue** if prompted for permission.

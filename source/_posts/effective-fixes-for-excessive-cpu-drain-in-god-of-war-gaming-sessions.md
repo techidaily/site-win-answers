@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Excessive CPU Drain in God of War Gaming Sessions
-date: 2024-08-06 14:30:44
-updated: 2024-08-07 11:37:18
+date: 2024-08-06T09:41:22.499Z
+updated: 2024-08-07T09:41:22.499Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/1d52a784f1445afeffa363db79a58daa37aba7018
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### What you might concern…
 
  Before we go, check if your computer meets the requirements for running Fallout 4:
@@ -58,6 +61,9 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Stop your background running programs
 
  Fallout 4 requires Internet access when running. While playing Fallout 4, if you have any other **programs running in background and they’re eating up Internet usage or taking up a lot of your system space** , Fallout 4 may stutter. So check to stop any other unnecessary background programs while you’re playing Fallout 4\. Then check if Fallout 4 runs smoothly.
@@ -89,6 +95,9 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Change the resolutions back to your monitor size
 
  You probably run Fallout 4 in the borderless mode, it’s great. But there’s one thing you should check after setting the borderless mode — change the resolutions back to your monitor size:
@@ -106,6 +115,9 @@ Launch Fallout 4 to see if it runs smoothly.
 1. Launch Fallout 4 on your computer.
 2. On the launcher menu, click**Options** .
 3. Make sure the Resolutions is set to same as your monitor size, that is, the**recommended one** you check in Step 1.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
 
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
@@ -134,6 +146,13 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Fix 5: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will**slow down** .**58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
@@ -152,6 +171,9 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Disable the V-sync feature
 
 **V-sync** (vertical sync) is the synchronization of your frame rate with the maximum refresh rat of the display being used. So being enabled, V-sync would**limits the frame rate** of your game. If the frame rates is low, everything displaying on Fallout 4 will slowdown. In this case, we recommend disabling the V-sync feature.

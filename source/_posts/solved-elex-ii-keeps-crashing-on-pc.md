@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] ELEX II Keeps Crashing on PC"
-date: 2024-08-06 18:59:29
-updated: 2024-08-07 11:45:54
+date: 2024-08-06T09:41:29.140Z
+updated: 2024-08-07T09:41:29.140Z
 tags:
   - win11
   - win10
@@ -69,6 +69,9 @@ Below are the minimum and recommended system requirements for DayZ:
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your drivers
 
  Corrupted or outdated graphics / sound drivers usually trigger the DayZ crashing issue. To resolve this issue, you just need to update the drivers on your PC to the latest version.
@@ -79,12 +82,18 @@ Below are the minimum and recommended system requirements for DayZ:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-network-driver.png)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Verify the integrity of the game
 
  Corrupted game files may also crash the game. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -92,10 +101,20 @@ Below are the minimum and recommended system requirements for DayZ:
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**DayZ** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
  Launch DayZ after verifying the game file to see if this fix works. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ### Fix 5: Turn off Steam Overlay
 
  The Steam Overlay may interfere with DayZ, and sometimes it may even crash the game. Some DayZ players reported that after disabling Steam Overlay, the crashing issue disappears. You can follow the steps below to turn off Steam Overlay:
@@ -103,6 +122,11 @@ Below are the minimum and recommended system requirements for DayZ:
 1. In Steam, click the**Steam** tab on the upper left corner and select**Settings** to open the Settings page of the Steam client.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-settings.png)
 2. Navigate to the**In-Game** tab, then_**untick**_ **Enable the Steam Overlay while in-game** . Click**OK** to save the change.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-Settings2.png)
 
  Run DayZ again after you disabled Steam Overlay to see if you can play the game without crashes. If not, try the next fix, below.
@@ -117,6 +141,9 @@ Below are the minimum and recommended system requirements for DayZ:
 
  See if you can run DayZ without crashes. If not, try the next fix below to reinstall the game.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
 ### Fix 7: Reinstall DayZ
 
  If none of the fixes works, you may need to reinstall DayZ to fix this issue. To reinstall DayZ:

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Blue Screen Errors in Hell Divers Version 2
-date: 2024-08-05 19:34:17
-updated: 2024-08-07 11:35:36
+date: 2024-08-06T09:41:05.266Z
+updated: 2024-08-07T09:41:05.266Z
 tags:
   - win11
   - win10
@@ -34,6 +34,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You donâ€™t have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,6 +58,10 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
 3) Launch your Minecraft again.
@@ -100,6 +107,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-09-24_10-03-23-9.png)
 
  3) Click the**Update** button next to your graphics driver to download the correct version of its driver, then you can manually install it.
@@ -108,6 +118,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Click the**Update All** button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  â€” you will be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
  If you need assistance, please contact Driver Easyâ€™s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -126,10 +139,17 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  2) Right-click the executable file and select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
 4) Run Minecraft again to see if this works.
@@ -154,6 +174,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  2) Type**appwiz.cpl** and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
  3) Right-click**Minecraft** and select**Uninstall** .
@@ -164,6 +187,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.

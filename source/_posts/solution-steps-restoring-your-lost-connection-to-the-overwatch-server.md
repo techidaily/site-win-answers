@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Restoring Your Lost Connection to the Overwatch Server"
-date: 2024-08-05 17:22:43
-updated: 2024-08-07 12:36:54
+date: 2024-08-06T09:41:44.907Z
+updated: 2024-08-07T09:41:44.907Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/20c1b79c602928e68eb827f2805a2d6c02102230f
 
 ## Steps to Resolve Frequent Disconnections of Nox Player While Running on a PC
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-37-33-1.jpg)
 
  Nox Player is one of the most popular Android emulators on the market, known for its powerful features and fast speed. However, some gamers have reported**Nox Player constantly crashes on PCs** . If you happen to be one of them, no worries! We have a few working fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -58,6 +64,9 @@ If this doesn’t solve your problem, try the next fix.
 ### Check if virtualization is turned on
 
 1. Run Nox Player. On the top-right corner, click the**three-line icon** and select**System info** .  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nox-system-info.jpg)
 2. Look for**CPU VT** . If it’s already on, you can jump to[fix 3](https://tools.techidaily.com/drivereasy/download/) . If not, you’ll need to enter BIOS to enable it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nox-cpu-vt.jpg)
@@ -77,6 +86,9 @@ If this doesn’t solve your problem, try the next fix.
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
 2. Type**appwiz.cpl** , then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-appwiz-cpl.jpg)
 3. On the left panel, click**Turn Windows features on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_12-09-45.jpg)
@@ -85,6 +97,9 @@ If this doesn’t solve your problem, try the next fix.
 
  If you’ve enabled virtualization but Nox Player still crashes, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Fix 3: Check your security software
 
  If your firewall and antivirus software (if you use any) have blocked Nox Player, it won’t run properly on your PC. You can add Nox Player to the whitelist, and configure your antivirus to stop the interference.
@@ -95,18 +110,33 @@ If this doesn’t solve your problem, try the next fix.
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
 2. Type**control panel** , then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to**View by: small icons** , then click**Windows Defender Firewall** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click**Allow an app or feature through Windows Defender Firewall** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Nox Player is already on the exception list. If so, jump to[antivirus configuration](https://tools.techidaily.com/drivereasy/download/) . If not, follow the steps below to unblock Nox Player.
 
 **Add Nox Player to the exception list**
 
 1. Click**Change settings** , then click**Allow another app** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/3342021-09-14_13-11-05.jpg)
 2. Click**Browse** .  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-11-21.jpg)
 3. Navigate to where you installed Nox Player and add**Nox.exe** .
 4. Click**Add** .  
@@ -117,6 +147,9 @@ If this doesn’t solve your problem, try the next fix.
 
  You can test if the crashing issue returns. If it persists and you’re not using any antivirus tools, jump to[fix 4](https://tools.techidaily.com/drivereasy/download/) . If you have installed antivirus on your PC, follow the steps below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ### Configure your antivirus software
 
  For antivirus, you also need to make sure it’s not blocking Nox. You can**add Nox Player to the whitelist** and then test the issue again.
@@ -142,6 +175,9 @@ If this doesn’t solve your problem, try the next fix.
 
 If this doesn’t solve your problem, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Update your graphics driver
 
  An outdated or faulty graphics driver can cause game performance issues and affect emulators. You may want to make sure yours is up-to-date and functioning properly.
@@ -167,16 +203,29 @@ If this doesn’t solve your problem, move on to the next fix.
 
  Restart your PC for the new driver to take effect. If your graphics card driver is up-to-date but Nox still crashes, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ## Fix 6: Increase virtual memory size on your PC
 
  Insufficient virtual memory (paging file) size can be a reason that Nox Player keeps crashing. Increasing virtual memory on your PC may help with the problem, so you can configure as needed. Here’s how:
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Check the paging file size on your PC
 
 1. Press the**Window key** and**R** to invoke the Run box.
 2. Type in**sysdm.cpl** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab. Under the Performance option, click**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-18-37.jpg)
 4. Switch to the**Advance** d tab and click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-19-32.jpg)
@@ -198,6 +247,9 @@ _**1GB = 1024 MB**_
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
 _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 5. For example, I have 8 GB RAM, so I should set the initial size as 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB. Click**Set** and**OK** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/custom-size.jpg)
 
  If you’ve customized the paging size to create more virtual memory, but the problem persists, try the next fix.
@@ -209,8 +261,15 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 1. Launch Nox Player. Click the**gear icon** on the top-right corner to open system settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-55-49.jpg)
 2. In the**Performance settings** , you can try switching between the**graphics rendering modes** to see which brings better performance. Also**lower the resolution** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_15-58-25.jpg)
 3. Under**Game settings** ,**lower your FPS** . You can tweak around to see what FPS value can best balance stability and performance, but we don’t recommend going below 40 as the graphics quality might suffer.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-18-57.jpg)
 4. Save the changes and restart Nox Player.
 
@@ -220,6 +279,9 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
  One last thing you can try is to update the Nox Player or reinstall the whole program. Using the new versions can fix known bugs and will likely reduce crashes. By clicking the**three-line icon** on the top-right corner, you’ll be able to**check for update** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_16-20-28.jpg)
 
  To do a clean reinstall, make sure you delete the Nox Player as well as all the local files and cache before you reinstall the app.

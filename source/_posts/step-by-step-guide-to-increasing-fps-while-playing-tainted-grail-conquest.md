@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Increasing FPS While Playing Tainted Grail: Conquest"
-date: 2024-08-05 15:25:25
-updated: 2024-08-07 10:13:44
+date: 2024-08-06T09:41:29.312Z
+updated: 2024-08-07T09:41:29.312Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Battle.net is your destination for playing Blizzard & Activision games. However,
 5. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-fix-Battle.net-not-opening.jpg)
 
 _Image source: battle.net_
@@ -42,10 +46,16 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/run-Battle.net-as-an-administrator-and-in-compatibility-mode-properties.jpg)
 2. Select the**Compatibility** tab. Check the box next to**Run this program in compatibility mode for:** and**Run this program as an administrator** . Then click**Apply > OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/run-Battle.net-as-an-administrator-and-in-compatibility-mode.jpg)
 
  After applying the changes, open Battle.net. When the UAC prompt shows up, simply click**Yes** . If it isn’t opening, don’t fret! Below are some other methods you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Allow Battle.net through Windows Firewall
 
  Windows Firewall is an important part of a layered security model that helps protect your computer from malicious attacks by blocking unauthorized network traffic flowing into or out of the local device. However, sometimes it may mistakenly identify your legitimate programs such as Battle.net as security threats and prevent them from launching. To verify if that’s your case, you should perform the steps as follows to manually add Battle.net to your Windows Firewall whitelist.
@@ -53,9 +63,15 @@ _Image source: battle.net_
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**control firewall.cpl** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-1.jpg)
 3. From the left navigation pane, click**Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
 5. Click on the**Change settings** button.  
@@ -70,12 +86,21 @@ _Image source: battle.net_
 
  If you have no idea of where the installation folder is, simply right-click on the shortcut and select**Open file location** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-find-out-where-Battle.net-is-installed.jpg)
 8. Find**Battle.net.exe** and click on it. Then click**Open** .  
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-6.jpg)
 9. When it’s located, click**Add** .  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-7.jpg)
 10. Now make sure Battle.net is added to the list and tick**Domain** ,**Private** , and**Public** . Once you’re done, click**OK** .  
 
@@ -103,19 +128,40 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 
 1. In the search box on the taskbar, type**check for updates** . Then click **Check for updates**  from the list of results.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click**Check for updates** . Then it will start checking for updates. When updates are available, follow the on-screen instructions to download and install them for your system.  
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
  After you’ve finished the process, restart your PC and try to launch the agent. If it still fails to open properly, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 5\. Update your drivers
 
  Each piece of hardware on your system, be it your video card, sound card or others, has its own specific driver, which ensures that different hardware components can work smoothly on your system. However, these hardware drivers are susceptible to corruption. When that happens, your PC performance would suffer and some programs may fail to work properly as expected. In this situation, you should attempt to update your drivers.
 
  There are mainly two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Manually update your drivers
 
 You can update your drivers via the Device Manager:
@@ -123,9 +169,15 @@ You can update your drivers via the Device Manager:
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**devmgmt.msc** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/how-to-open-the-Device-Manager-Run-Command）.png)
 3. Click on the**arrow >** to expand the section. Then right-click on the device that you’re going to update the driver for and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
 
 Then follow the on-screen instructions to get the updates.
@@ -166,6 +218,10 @@ Then follow the on-screen instructions to get the updates.
 
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
  However, if that fails to fix an underlying problem, you’ll need a more advanced tool to help you with that. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is such a tool that specializes in Windows repair. It’ll help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. And it’s more than that. Fortect can protect and remove malware from your PC, as well as detect threatening apps before it’s too late!
@@ -185,6 +241,9 @@ Then follow the on-screen instructions to get the updates.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**appwiz.cpl** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to uninstall an app](https://images.drivereasy.com/wp-content/uploads/2021/06/control-appwiz.cpl_.png)
 3. Locate**Battle.net** . Right-click it and click**Uninstall/Change** .  
 

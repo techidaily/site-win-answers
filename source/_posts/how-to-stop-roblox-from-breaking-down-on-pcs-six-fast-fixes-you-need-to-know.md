@@ -1,7 +1,7 @@
 ---
 title: How to Stop Roblox From Breaking Down on PCs - Six Fast Fixes You Need to Know
-date: 2024-08-06 15:54:20
-updated: 2024-08-07 10:43:53
+date: 2024-08-06T09:41:29.500Z
+updated: 2024-08-07T09:41:29.500Z
 tags:
   - win11
   - win10
@@ -31,6 +31,14 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 4. [**Change in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Cap the framerate to 60](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Fix 1:**Use a controller instead**
 
  Given that we all have different PC setups, the reasons for the stuttering could be different. Some players discover a temporary fix to the stuttering issue, which is to**use a controller** instead of a set of keyboard and mouse. If available, you can try the same and see how it goes.
@@ -39,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
  If you don’t have a controller at hand, or it doesn’t work for your case, simply move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The stuttering and FPS issues could indicate that you’re using a**buggy or outdated graphics driver** . Developers of Deathloop stressed that players should use the latest GPU driver for the best performance. So if you don’t know whether you’re on the latest driver, definitely check it now.
@@ -62,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
  If the latest drivers don’t seem to work for you, take a look at the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Check for system updates
 
  To make the most out of your hardware, it’s also important to keep your system up to date. Normally Windows updates automatically, but you can also check if you’re missing the latest feature update.
@@ -69,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -77,6 +94,9 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
 
  If this method doesn’t give you luck, simply check out the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Change in-game graphics settings
 
  If your rig isn’t top of the line, you can tune the in-game settings a bit to work around the stuttering. Before the optimization patches come out, here’re some settings you can try:
@@ -86,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/e8f77332596b06d80be10b009546d9afcd6b6620d
    * **Low Latency** : On  
    * **V-Sync** : Off  
    * **AMD FSR Mode** : Ultra Quality  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
    * **Upscaling** : AMD FidelityFX Super Resolution 1.0![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-graphics-settings-1.jpg)
 3. Set**FPS Limiter** to**120** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-graphics-settings-2.jpg)
@@ -94,6 +117,9 @@ Now you can start a game and test the performance.
 
  If these settings couldn’t help you, take a look at the next solution.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Fix 5: Cap the framerate to 60
 
  There’re also players saying that they manage to stop the stuttering by capping the FPS. You can do the same and see if it works for you too. Instead of setting in-game FPS Limiter, you need to cap the framerate in the graphics card control panel.
@@ -103,6 +129,9 @@ Here’s how to do it with NVIDIA GPU:
 1. At the empty area of your Desktop, right click and select NVIDIA control panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D** settings. In the Global Settings section, turn on**Max Frame Rate** and set the value to**60** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-control-panel-cap-60.jpg)
 
 Now you can restart the game and check if the stuttering is gone.

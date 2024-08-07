@@ -1,7 +1,7 @@
 ---
 title: "Outriders Resolution Update: Say Goodbye to Fuzzy Visuals!"
-date: 2024-08-05 15:38:29
-updated: 2024-08-07 10:27:34
+date: 2024-08-06T09:41:30.756Z
+updated: 2024-08-07T09:41:30.756Z
 tags:
   - win11
   - win10
@@ -50,6 +50,9 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Close CPU / memory-hogging applications
 
  Another common cause of Blender crashes is insufficient memory. If you’re running lots of applications at the same time in the background, your computer may run out of RAM and Blender may crash.
@@ -58,12 +61,18 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
  If Blender works well after you close those CPU / memory-hogging applications, congratulations!
 
  To prevent Blender from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Install the latest Windows update
 
  Microsoft constantly releases Windows updates to fix bugs and improve performance in Windows OS. If your PC is running on Windows 10 and you haven’t installed Windows update for a long time, try performing a Windows update and see if Blender crashes on the latest Windows OS.
@@ -71,8 +80,14 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 To install the latest Windows update:
 
 1. On your keyboard, press **the Windows logo key** and the **I key** at the same time to open **Windows Settings** . Then click **Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Windows 10 settings Update & Security](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap635.png)
 2. Click **Check for updates** to download and install the updates available for your PC.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![Check for updates Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/05/Check-for-updates-Windows-10.jpg)
 
  Restart your computer after you installed the latest Windows updates. Launch Blender and see if it crashes.
@@ -83,6 +98,9 @@ If this issue persists, try the next fix, below.
 
  If none of the fixes works, try updating / reinstalling Blender. Normally, after updating Blender to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  Normally, keeping Blender, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes in this article didn’t help you fix the Blender crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article: [How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .

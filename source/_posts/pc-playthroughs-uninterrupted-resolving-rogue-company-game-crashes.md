@@ -1,7 +1,7 @@
 ---
 title: "PC Playthroughs Uninterrupted: Resolving Rogue Company Game Crashes"
-date: 2024-08-05 10:31:25
-updated: 2024-08-07 10:32:39
+date: 2024-08-06T09:41:18.510Z
+updated: 2024-08-07T09:41:18.510Z
 tags:
   - win11
   - win10
@@ -23,6 +23,9 @@ thumbnail: https://thmb.techidaily.com/d99a4b3b2b8d3190ba094d8de8dbb1d047477a589
 
  When you’re troubleshooting, be careful NOT to download third-party “patches” unless you know what you’re doing.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that gives you luck.
@@ -42,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/d99a4b3b2b8d3190ba094d8de8dbb1d047477a589
 Here’s how to verify game files on Steam:
 
 1. Open your Steam client and go to**LIBRARY** . Right click**God of War** and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** … and wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-verify-2.jpg)
@@ -50,6 +56,9 @@ Once done, start God of War and check if the game crashes again.
 
 If this doesn’t give you luck, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2:**Disable in-game overlays**
 
  In-game overlay is a feature that allows you to read stats and record achievements during gameplay. But according to some gamers it sometimes brings performance issues. So if you’re constantly crashing with God of War, make sure to disable in-game overlays by**Steam** ,**Discord** or**NVIDIA GeForce Experience** .
@@ -81,6 +90,9 @@ If this doesn’t fix the issue, check out the next fix below.
 
  If the latest graphics driver doesn’t stop the crash, simply try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4:**Make sure Windows is up to date**
 
  Windows could run into issues if it’s missing some important updates. Normally it’s an automated process, but you can also check for updates manually, especially when you’re on the buggy Windows 11.
@@ -96,6 +108,9 @@ Here’s how:
 
  If this trick doesn’t do the trick for you, take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Increase the virtual memory of your PC
 
  There’re also players who fixed the issue by**increasing the virtual memory** of their systems. You can try the same and see how it goes. But still, consider an upgrade if you’re using 8GB for AAA titles — 16GB RAM has already become the minimum for decent gaming in 2022.
@@ -103,10 +118,20 @@ Here’s how:
 Here’s how to increase the virtual memory of Windows:
 
 1. On your keyboard, press the**Windows logo key** and type**advanced system settings** . Click**View advanced system settings** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the**Performance** section, click**Settings…** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the**Advanced** tab. Under the**Virtual memory** section, click**Change…** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select**Customize size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
@@ -118,6 +143,9 @@ Now you can check if you can make it through the crash location.
 
 If God of War crashes at the same spot, you can try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Change in-game display settings
 
  Though optimized, God of War still shows glitches at specific scenes. Some gamers found that the glitch disappeared after adjusting some graphics settings. You can do the same and see if that works for you.
@@ -126,6 +154,9 @@ If God of War crashes at the same spot, you can try the next method.
 2. Set VSync to**Off** . If you’re on an AMD GPU, set**FidelityFX Super Resolution** to**Balanced** or**Performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-1.jpg)
 3. You can also lower the graphics settings according to your specs. Remember the point here is to check if the crash is graphics related.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-2.jpg)
 
  If these tunings don’t seem to help, take a look at the next solution.
@@ -138,6 +169,9 @@ If God of War crashes at the same spot, you can try the next method.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)

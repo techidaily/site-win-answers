@@ -1,7 +1,7 @@
 ---
 title: How To Accelerate Downloads in uTorrent – Expert Advice for Faster Torrenting
-date: 2024-08-04 23:47:55
-updated: 2024-08-07 12:15:22
+date: 2024-08-06T09:41:33.896Z
+updated: 2024-08-07T09:41:33.896Z
 tags:
   - win11
   - win10
@@ -17,8 +17,15 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 Players have been reporting an issue of extremely slow download speed in Origin. If you happened to be one of them, don’t worry. We’ve got some fixes for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Origin slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/EA-image-1-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works.
@@ -60,12 +67,18 @@ OR
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any outdated drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
   
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -86,6 +99,9 @@ OR
 
  3) Under the**Compatibility** tab, check**Run this program as an administrator** . Click**Apply** then**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ![run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-Origin-as-an-administrator-2-1.png)
 
  After the changes are applied, the program always runs with administrator permissions. If you want to disable this option, just uncheck it and follow the same steps.
@@ -100,10 +116,16 @@ OR
 
  2) Type**msconfig** and click**OK** to open the**System Configuration** window.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to bring up system configuration](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.png)
 
  3) Click on the**Services** tab. Check the box to**Hide all Microsoft services** , then click**Disable all** .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.png)
 
  4) Click on the**Startup** tab and click**Open Task Manager** .
@@ -112,6 +134,9 @@ OR
 
  5) Under the**Startup** tab, right-click on the programs**one by one** and click**Disable** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/prevent-programs-from-starting-automatically.jpg)
 
  6) Close the**Task Manager** window and go back to the**System Configuration** window.
@@ -144,14 +169,24 @@ OR
  **\[Feature\]**
  **CdnOverride=akamai**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ![slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/RD-mode.png)
 
  4) Click**File** \>**Save As** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-2-1.png)
 
  5) Type**EACore.ini** in the**File name** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-3.png)
 
 After that, you’ll see an icon on your desktop like the picture.
@@ -160,12 +195,18 @@ After that, you’ll see an icon on your desktop like the picture.
 
  6) Now start Origin, and click Yes when the USE CONFIGURATION FILE ON DESKTOP window pops up. This will overwrite your old config file. After that, log into Origin.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-4.png)
 
  The**EACore.ini** file is deleted from your desktop once you import it. If you want to leave R&D mode, you can navigate to the file by typing**%ProgramData%/Origin** in the Run box.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Fix 6: Clean the Origin cache file
 
  When things don’t work right with your Origin download, clearing your cache can help fix the issue. But before you clear the cache, make sure the Origin app is fully closed.
@@ -195,6 +236,9 @@ After that, you’ll see an icon on your desktop like the picture.
 
  2) Type**%ProgramData%/Origin** and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![open the cache files](https://images.drivereasy.com/wp-content/uploads/2020/09/open-the-cache-files.png)
 
  3) Delete all the files and folders inside Origin**except for LocalContent** . Do not delete this folder.
@@ -217,12 +261,18 @@ After that, you’ll see an icon on your desktop like the picture.
 
  8) Delete the**Origin** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete the Origin cache](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-Origin-cache-3-2.png)
 
 After that, restart your computer and log into Origin.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 7: Reinstall Origin
 
  If none of the fixes listed above work for you, then you might consider uninstalling and reinstalling the app. To do so, you can:
@@ -235,6 +285,18 @@ After that, restart your computer and log into Origin.
 
  3) From the list, click**Origin** and right-click to**Uninstall** it.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to  uninstall Origin; slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/how-to-uninstall-an-app-2-3.png)
 
  After you finish uninstalling the app, navigate to[EA Origin](https://www.origin.com/hkg/en-us/store/download) to download the latest version. Till then, follow the on-screen instructions to install it.

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Reducing Chrome's Heavy Load on Your CPU"
-date: 2024-08-06 10:59:15
-updated: 2024-08-07 11:37:25
+date: 2024-08-06T09:41:28.924Z
+updated: 2024-08-07T09:41:28.924Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ Keep getting the content file locked error while updating your game?
 
 * **[Bonus tip: Improve your gaming performance](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1:**Restart your computer**
 
  Some programs running on your computer may conflict with Steam or your game, resulting in the content file locked error. In this case, try**restarting your computer** to turn off unwanted programs. After your computer reboots, update your game again to test your issue.
@@ -47,12 +50,18 @@ If you still get the error message, read on and try the fix below.
 
 If your problem persists, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Run the Command Prompt
 
  Another quick fix that works for many Steam users is running the**netsh winsock reset** command. To see if that can fix your issue, follow the instructions below:
 
 **1)** On your keyboard, press the **Windows logo** key and type **command** .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-421.png)
 
 **2)** On your keyboard, press the **Enter, Shift**  and **Ctrl**  keys at the same time to run Command Prompt as an administrator.
@@ -61,16 +70,25 @@ If your problem persists, read on and check the fix below.
 
 **3)**  Click **Yes** .
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-403.png)
 
 **4)**  Type**netsh winsock reset,** and then press the **Enter**  key on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-374.png)
 
 **5)** Restart your computer and your game to check your issue.
 
  Steam should be able to work properly now. Enjoy your game! If you have any questions and suggestions, please feel free to leave a comment below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Bonus tip: Improve your gaming performance
 
  Game issues like crashes, freezes or lags occur when you’re using a faulty or outdated graphics driver. It’s essential that you have the latest correct graphics driver to keep your game running smoothly.

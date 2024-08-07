@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Evil Genius 2 No Sound"
-date: 2024-08-05 12:24:32
-updated: 2024-08-07 12:32:17
+date: 2024-08-06T09:41:30.582Z
+updated: 2024-08-07T09:41:30.582Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/3b3746640fe26afab367eb3d6989fbedd82bfd022
 
 Evil Genius 2: World Domination is a new game that was released on 30 March 2021 on Steam. It would be frustrating when you couldn’t launch the game, don’t worry, you’re not alone. This post would help you resolve it.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,6 +33,9 @@ Evil Genius 2: World Domination is a new game that was released on 30 March 2021
 
  I believe you would be familiar with this warning message after a couple of hours of playing. Some players won’t be affected, but for others, this warning message points out the reason for the game not launching or crashing issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/evil-2.jpg)
 
 Tips: You can disable the alert in the launcher settings.
@@ -63,6 +69,9 @@ Tips: You can disable the alert in the launcher settings.
 
 If this fix doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Launch with Vulkan
 
  There’s an easy fix that would help you run the game —**Launching the game with Vulkan instead of DX12** .
@@ -80,17 +89,26 @@ If you’re launching from Steam, move to the next fix.
 2. Right-click on the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Go to the**LOCAL FILES** tab and click**Verify integrity of game files…**  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. Reboot the game when the process is finished.
 
 If this fix is not working, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Replace the launcher file
 
  Except for not launching, some players reported they can’t start the game when running on Proton and Manjaro. Replacing the launcher file may work for you.
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**%appdata%** and press the**Enter** key.  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and double-click the Evil Genius 2 folder.
 4. Go to the Launcher folder to find the**Evil Genius 2.exe** file. Move the executable file into the**Bin folder** with evilgenius\_vulkan.exe.

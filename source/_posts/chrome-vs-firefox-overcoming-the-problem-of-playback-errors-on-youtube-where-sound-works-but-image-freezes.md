@@ -1,7 +1,7 @@
 ---
 title: "Chrome vs Firefox: Overcoming the Problem of Playback Errors on YouTube Where Sound Works But Image Freezes"
-date: 2024-08-04 20:26:20
-updated: 2024-08-07 11:31:37
+date: 2024-08-06T09:41:13.315Z
+updated: 2024-08-07T09:41:13.315Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If you’re experiencing this frustrating issue now, take a deep breath and try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -29,6 +32,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 4. **[Reset Chrome in safe mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Chrome](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Fix 1: Restart your PC
 
  Sometimes, certain applications running on your computer may conflict with Google Chrome, causing it to fail.
@@ -53,6 +59,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  Verify there is no**Chrome-related** process running in the background. If there is, right-click the process and select**End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-491.png)
 
 **3)** On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run dialog.
@@ -69,6 +78,9 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  Try opening Chrome to test your issue. If you still can’t launch Chrome properly, don’t worry. Move on to fix 4, below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Reset Chrome in safe mode
 
  Your issue is also probably caused by improper Chrome settings. If that’s the problem for you, resetting Chrome can help fix it. Follow the instructions below:
@@ -79,15 +91,28 @@ Reset Chrome in safe mode
  Boot your PC into safe mode. (Click to see **[how to enter safe mode in Windows 10, 7, 8, 8.1, XP, or Vista](https://tools.techidaily.com/drivereasy/download/)**  .)
 2. **Open Chrome, then click the menu button and select Settings.**  
  Open Chrome, then click the **menu button** and select **Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-28-36.jpg)
 3. **Click Advanced at the bottom.**  
  Click **Advanced** at the bottom.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-10.jpg)
 4. **Select Restore settings to their original defaults.**  
  Select **Restore settings to their original defaults** .  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-48.jpg)
 5. **Click Reset settings.**  
  Click **Reset settings** .  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-30-13.jpg)
 
  This should fix your issue. If your issue persists, then go ahead with the next fix.

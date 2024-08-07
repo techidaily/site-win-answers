@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the Skyward Plunge Issue in COD: Warzone - Pacific Edition"
-date: 2024-08-05 10:28:13
-updated: 2024-08-07 10:42:23
+date: 2024-08-06T09:40:55.746Z
+updated: 2024-08-07T09:40:55.746Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/8e153531bfb1cc2249d2aa88119afd6c59e7a577b
 
 Call of Duty is a free-to-play first-person shooter game for everyone. It was relaunched as_Warzone: Pacific_ that has a brand new map for players to explore. However, players are facing all sorts of issues, consistently crashing has ruined patience and enthusiasm for the game. The Caldera map is fun for varied and interesting design, but it was tarnished with a bad launch.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -71,6 +74,9 @@ OR
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Rename the file folder
 
  A few gamers indicate renaming the modern warfare files would fix the Warzone Pacific crashing issue. Also, check MW file location and check the data folder for any corrupted files making the game unstable. You’d better back up data before trying this method. Because it will wipe all your in-game settings.
@@ -94,6 +100,9 @@ OR
 
 If it fixes the issue then slowly increase your graphics settings.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Fix 5: Reinstall Warzone Pacific
 
  If none of the fixes work for you, you may reinstall Warzone Pacific to see the result. Some gamers have reported doing a clean reinstall of Warzone Pacific would help.
@@ -102,6 +111,9 @@ If it fixes the issue then slowly increase your graphics settings.
 2. Type**control panel** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
@@ -110,6 +122,9 @@ If it fixes the issue then slowly increase your graphics settings.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Repair system files
 
  In some situations, corrupted or missing system files would cause the game crashing issue. Therefore, you can use a system repair tool to determine the cause of your PC.
@@ -118,8 +133,14 @@ If it fixes the issue then slowly increase your graphics settings.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)

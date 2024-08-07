@@ -1,7 +1,7 @@
 ---
 title: "Overcome PlayStation Pixelation: Resolving Resident Evil Village's PC Display Issues"
-date: 2024-08-05 10:15:34
-updated: 2024-08-07 10:11:55
+date: 2024-08-06T09:41:20.610Z
+updated: 2024-08-07T09:41:20.610Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Download an invisible cursor theme file
 
  To solve the mouse cursor that appears on the black bars in-game issue, download an invisible cursor theme file would do the job.
@@ -39,10 +42,16 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
 5. Click**Apply** . Your mouse cursor will disappear.  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Change resolution
 
  Many players have found out the best resolution to solve this cursor issue is**16:9** . That means if you have 1680: 1050, select 1600 x 900 instead. If you run the game with a 16: 10 monitor, the black bar would appear on the bottom of your screen and the desktop mouse becomes visible. The game would be unplayable because of sensitivity and aiming issues.
@@ -55,16 +64,25 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 **Note** : This fix might let the image lose a lot of quality.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Change mouse settings
 
  Change the in-game mouse settings might help. Players have proved that the max sensitivity is not 10 and you can set the number go beyond 10.
 
  Maxing your**Mouse Sensitivity** ,**Movement Camera Sensitivity with Mouse** and**DPI of mouse** in game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 If this fix brings no luck, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update device driver
 
  Keeping your drivers updated is important to your PC. If driver on your PC is outdated or corrupted, you may encounter crashes or other issues that won’t let you enjoy the game. To prevent potential risks, you need to update your device driver regularly.

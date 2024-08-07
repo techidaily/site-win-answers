@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating and Setting Up Hyper-V on Windows 11"
-date: 2024-08-06 15:54:52
-updated: 2024-08-07 10:45:43
+date: 2024-08-06T09:41:12.683Z
+updated: 2024-08-07T09:41:12.683Z
 tags:
   - win11
   - win10
@@ -29,6 +29,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 4. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for damaged system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Make sure your Windows 10 is up-to-date
 
  It requires a latest Windows 10 system to ensure everything work properly on your computer. This problem could be happened when there is available update for your Windows 10 and you don’t install yet.
@@ -36,6 +39,9 @@ thumbnail: https://thmb.techidaily.com/73ae25c121bd260f5b90372df78e3a41ba1034188
 Check for Windows update on your Windows 10:
 
 1. Type **update**  in your search box from Start. Then click **Check for updates**  from the result.  
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e460326b771.png)
 2. Click **Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e46083007b4.png)
@@ -44,6 +50,9 @@ Check for Windows update on your Windows 10:
 
 **Note:**  If Windows tells you **Your device is up to date**  after checking, please try our next method.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Update your video card driver
 
  This problem could be also due to an old or corrupted driver, particularly your video card driver. You could solve it through updating your device driver.
@@ -54,12 +63,19 @@ Check for Windows update on your Windows 10:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**   and install Driver Easy. Then run it on your Windows.
 2. Click **Scan Now** . It will quickly detect all drivers problems of your computer. Your video card driver is no exception.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/driver-easy-scan.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 **Note** : You can do it for free if you like, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/driver-easy-update.jpg)
 4. Reboot your Windows and try to run your game on Steam to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ### Method 3: Verify your game cache files
 
  An corrupted game cache file can also prevent your games from launching properly.
@@ -68,10 +84,19 @@ Follow these to verify your game cache files:
 
 1. Reboot your Windows and run Steam.
 2. Right-click on your game in the**LIBRARY**  section. Then click **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e46fdf19866.jpg)
 3. Click **VERIFY INTEGRITY OF GAME FILES…**  in **LOCAL FILES** .  
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e47001401be.png)
 4. It should then begin validating your Steam files and you will see this small window after several minutes:  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e4712ae8e78.png)
 5. Reboot your Windows and try to run your game on Steam to see if it works.
 

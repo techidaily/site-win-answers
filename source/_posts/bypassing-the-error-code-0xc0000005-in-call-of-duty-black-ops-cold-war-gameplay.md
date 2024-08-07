@@ -1,7 +1,7 @@
 ---
 title: Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay
-date: 2024-08-04 19:58:15
-updated: 2024-08-07 10:19:51
+date: 2024-08-06T09:41:21.876Z
+updated: 2024-08-07T09:41:21.876Z
 tags:
   - win11
   - win10
@@ -35,6 +35,9 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2\. Clear the game cache
 
  If you’re still running into Vanguard error codes, it might be caused by your game cache. A quick fix is to delete the “Players” folder. Here’s how:
@@ -43,6 +46,10 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 2) On your keyboard, press the Windows + R key at the same time and enter**%programdata%** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
@@ -50,12 +57,18 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  4) Delete every folder or file under the**Cache** folder.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
 
  If you are experiencing the error on a non-RTX GPU, then try reducing the GPU clock by 50 MHz using MSI Afterburner to fix the error.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Fix 4\. Update device drivers
 
  For any avid gamers, we can’t emphasize the importance of keeping your graphics driver and audio driver up to date more. Manufacturers deliver new drivers to optimize your gaming experience and fix known bugs, especially for new games such as CoD Vanguard.
@@ -83,6 +96,9 @@ After updating your drivers, restart your PC and test the gameplay.
 
  2) Click Game Settings, and tick additional command-line arguments. Then add**\-d3d11** and click done.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![set lauch options](https://images.drivereasy.com/wp-content/uploads/2021/11/image-11-1200x639.png)
 
 Launch CoD Vanguard and test the gameplay.
@@ -102,6 +118,9 @@ Launch CoD Vanguard and test the gameplay.
 * Xbox Game DVR
 * Twitch
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 7\. Repair your system files
 
  If none of these fixes above fixed your problem, you may need to check for any corrupt game files and restore them. Your game might be sharing the same system file (DLL), thus causing you the Vanguard error codes. There are mainly two ways for you to fix a corrupt/missing system file:
@@ -126,10 +145,16 @@ Launch CoD Vanguard and test the gameplay.
 
  2) Open Fortect and run a free scan. This might take 3\~5 minutes to fully analyze your PC. Once complete, you will be able to review the detailed scan report.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually

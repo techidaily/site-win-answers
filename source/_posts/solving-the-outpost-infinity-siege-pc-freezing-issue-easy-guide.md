@@ -1,7 +1,7 @@
 ---
 title: "Solving the Outpost: Infinity Siege PC Freezing Issue - Easy Guide"
-date: 2024-08-05 20:10:27
-updated: 2024-08-07 10:21:46
+date: 2024-08-06T09:41:17.609Z
+updated: 2024-08-07T09:41:17.609Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
 How disappointed are you when you’re about to immerse in Old Detroit in the iconic RoboCop: Rogue City, but only to find that it refuses to launch on your computer? If this is also you, don’t worry, you’re not alone, and there are some effective fixes that have worked for many other gamers. Try them and get the RoboCop: Rogue City not launching problem fixed for you.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes for the RoboCop: Rogue City not launching problem
 
  You don’t have to try all the following fixes for the RoboCop: Rogue City not launching problem: just work your way down the list until you find the one that does the trick to fix the problem for you.
@@ -57,12 +60,18 @@ Here are the requirements for RoboCop: Rogue City for your reference:
 
 1. On your keyboard, press the **Windows**  key and the **I** key at the same time to open Settings.
 2. Select **Gaming** , and make sure that the toggle for **Game Mode** is set to **On** . Then click the **Graphics** tab.  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-57.png)
 3. Select **RoboCop: Rogue City** or **Steam** from the list of apps, and select **High performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
 4. Then click **Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-59.png)
 5. Make sure that the toggles for **Hardware-accelerated GPU scheduling**  and **Optimizations for windowed games** are both set to **On** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-60.png)
 
  Run RoboCop: Rogue City now to see if it launches well. Some also mentioned that turning off Hardware-accelerated GPU scheduling helps RoboCop: Rogue City to launch. So you can try this too to see if it works for you.
@@ -71,6 +80,9 @@ Here are the requirements for RoboCop: Rogue City for your reference:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to your RoboCop: Rogue City not launching problem, so if the above two methods don’t help RoboCop: Rogue City to launch, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
@@ -115,9 +127,15 @@ To do so, first visit the website of your GPU manufacturer:
 1. Launch Steam.
 2. In**LIBRARY** , right-click on RoboCop: Rogue City and select**Properties** from the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will then verify the game’s files – this process may take several minutes.
 
@@ -125,6 +143,13 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ## 5\. Add Steam and RoboCop to the antivirus exception list
 
  Given that third-party antivirus applications usually hook very deep into your system, they may interfere with Steam and its related services, and therefore stop RoboCop: Rogue City from launching properly.
@@ -142,6 +167,9 @@ To do so, first visit the website of your GPU manufacturer:
  It’s also possible that lacking certain system permissions is stopping Steam and RoboCop: Rogue City from running properly. To make sure that this is not why your RoboCop: Rogue City doesn’t launch, you can run Steam and RoboCop: Rogue City as administrator so as to give them all the privileges they may need to run. To do so:
 
 1. Right-click your **Steam** icon and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
@@ -153,6 +181,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 7\. Modify the TDR value in the Registry Editor
 
  If RoboCop: Rogue City still doesn’t launch after all the above, you can try to modify the TDR value in the Registry Editor.
@@ -161,10 +192,19 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. Firstly, create a system restore point as instructed here: [How to enable and create restore points in Windows 10](https://tools.techidaily.com/drivereasy/download/) (the screenshots here are from Windows 10, but the instructions work on Windows 11 as well).
 2. On your keyboard, press the **Windows** key and the **R** key together. Type **regedit** and hit **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: ``**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\`GraphicsDrivers`**``  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-87.png)
 4. On the right side, right-click the empty area and select **New > DWORD (32-bit) Value** .  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-88.png)
 5. Name the new entry **TdrLevel** , then double-click it and make sure that its **Value data** is**0** . Click OK to save.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-89.png)

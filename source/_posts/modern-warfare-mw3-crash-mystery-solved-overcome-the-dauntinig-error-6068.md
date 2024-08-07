@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068"
-date: 2024-08-04 14:40:28
-updated: 2024-08-07 10:16:33
+date: 2024-08-06T09:41:12.673Z
+updated: 2024-08-07T09:41:12.673Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/f2d53ebba5315caabb937b6a02076182259db722e
 
 Fortnite is not launching because of LS-0013 error? You’re certainly not the only one. Hundreds of Fortnite players are reporting it. The good news is, you can fix it…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Fixes For Fortnite LS-0013 Launching Error
 
  Here are 3 fixes that have helped other users resolve the LS-0013 launching error on Fortnite. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,6 +46,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
  You can also do it for free if you like, but it’s partly manual.
@@ -53,6 +59,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -63,12 +72,18 @@ Here is how to verify the integrity of Fortnite:
 
  2) On the right pane, locate Fortnite, then click **the three dots icon next to Fortnite** and click **VERIFY** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
  3) Once completed, click to run Fortnite to see if it launches properly. If yes, then congrats! If the issue still remains, please try **Fix 3** , below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
  In some cases, Fortnite won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run **Epic Games Launcher** and **Fortnite** as administrator.
@@ -77,6 +92,9 @@ Here is how to run Epic Games Launcher as administrator:
 
  1) On your desktop, right-click on the **Epic Games Launcher icon** and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .

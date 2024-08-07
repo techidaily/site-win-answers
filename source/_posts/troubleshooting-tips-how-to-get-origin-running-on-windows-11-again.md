@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Get Origin Running on Windows 11 Again"
-date: 2024-08-04 17:46:19
-updated: 2024-08-07 11:53:59
+date: 2024-08-06T09:41:31.905Z
+updated: 2024-08-07T09:41:31.905Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/3a57b1ddb74892f92e7ea8db98be1fa90b1375e9f
 
 This fast-paced game is super fun for those who love the joy of movement. However, you’re not the only one who’s experiencing Ghostrunner Fatal Error. And luckily, it can be fixed easily with the following workarounds.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 * [Fix 1: Close all background apps](https://tools.techidaily.com/drivereasy/download/)
@@ -36,6 +39,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The main reason why Ghostrunner’s fatal error happens is tied to the GPU driver. If your game crashes, won’t launch, or gives you any kinds of errors, be sure to update your graphics card driver and other drivers.
@@ -58,6 +64,9 @@ OR
 
  Click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
 4) Restart your PC for the changes to take full effect.
@@ -78,6 +87,9 @@ OR
 
 4) Scroll down the page and download the x86.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -86,6 +98,9 @@ OR
 
 Play Ghostrunner again to see if this fatal error reoccurs.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  Another reason that you get Ghostrunner fatal error is GPU overclocking. If you overclocked your GPU with some software such as Afterburner, we recommend stopping the overclock or suspending these programs including GeForce Experience before you play the game.
@@ -94,6 +109,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
@@ -114,6 +132,23 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
 2) You can find the Ghostrunner game there, right-click on the game and click on**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Ghostrunner.png)
 
  3) Select the**Local Files** tab, then click on**Verify Integrity of game files** .
@@ -122,6 +157,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  Wait for the process and then restart the game to check whether the Ghostrunner fatal error has been fixed or not.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Lower your graphics settings
 
  Some gamers find decreasing the graphics settings helped fix this fatal error. Go to the graphics settings in the game, turn off anti-aliasing and try to lower other graphics settings.

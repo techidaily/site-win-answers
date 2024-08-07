@@ -1,7 +1,7 @@
 ---
 title: How To Resolve Increased Resource Consumption in Wsappx – A Comprehensive Guide
-date: 2024-08-06 14:47:19
-updated: 2024-08-07 10:51:38
+date: 2024-08-06T09:41:08.301Z
+updated: 2024-08-07T09:41:08.301Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 1\. Close unnecessary background apps
 
  The most possible cause of your Warzone DirectX error is interference from your third-party applications. If you’re using the following software, you can try closing them to check if the error disappears.
@@ -58,12 +62,18 @@ There are mainly two ways of updating your device drivers:
 
  2\. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 4\. Once complete, restart your computer for the changes to take effect.
@@ -81,12 +91,18 @@ There are mainly two ways of updating your device drivers:
 
  3\. Click **Options** and select **Scan and Repair** from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
 
  4\. Click**Begin Scan** , and wait for the process to complete.
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4\. Play the game in DirectX 11 mode
 
  If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
@@ -99,6 +115,9 @@ There are mainly two ways of updating your device drivers:
 
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
 
  4\. Click **Done** .

@@ -1,7 +1,7 @@
 ---
 title: Fixing Frequent Freezes - Solutions for Recurrent 'Tribes of Midgard' Software Breakdowns
-date: 2024-08-05 18:47:52
-updated: 2024-08-07 10:41:17
+date: 2024-08-06T09:40:56.111Z
+updated: 2024-08-07T09:40:56.111Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/2d6ac4daab03782e87bc719b2db632da8a61451d4
 
 Beat Saber is a great VR title, but many players are reporting game crashing issues. If you’re also experiencing Beat Saber crashes, we’ve put together every possible solution that proved helpful to other players.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -29,6 +32,9 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 6. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Update your headset firmware](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 1: Install the latest game patch
 
  Game developers keep releasing new game patches to fix known issues, so be sure to install the latest updates.
@@ -43,12 +49,18 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 2. Right-click Beat Saber and select**Properties** .  
 ![Properties-BeatSaber](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties-BeatSaber.jpg)
 3. Select the **Local files** tab and click the **Verify integrity of game files…** button.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Verify integrity of game files...](https://images.drivereasy.com/wp-content/uploads/2020/12/localfiles.jpg)
 4. Steam will verify the game files. It may take about 3-5 minutes.
 5. Once complete, launch the game again to test the issue.
 
  If Beat Saber keeps crashing rather randomly, don’t be upset, for we have a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
 ## Fix 3: Remove all the mods
 
  If you’re running mods and having this crashing issue, we strongly recommend you to try the game without any modes. Since all the current Beat Saber mods are not official so they can bump into problems.
@@ -63,6 +75,9 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 
 If Beat Saber still crashes without any mods, you can try the fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Update your graphics drivers
 
  Another cause of Beat Saber crashing (or any game crashing) is your graphics driver. A Graphics card (GPU) is the most important component to determine your gaming performance. Therefore, if the graphics driver is outdated or corrupted, it’s very likely that you will get enormous game crashes. To fix it, you should update your graphics driver.
@@ -86,6 +101,9 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
@@ -95,6 +113,9 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Run as administrator
 
  Some gamers mentioned that they manage to solve the crash as well as the black screen error by running the game as administrator. You can try this workaround to see if it helps:
@@ -121,6 +142,9 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 
 Download Beat Saber again and see if a clean reinstall solves this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ## Fix 7: Update your headset firmware
 
  If you’re using the Oculus VR headset, the issue might be triggered by your VR headset. To make sure your Oculus Rift works to its best performance, you need to make sure[the graphics card driver and USB drivers are already up to date](https://support.oculus.com/1802104516741690/) (you can update them all easily and free with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  ).

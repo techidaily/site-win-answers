@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Issues with Armored Core VI - Fires of Rubicon Startup Problems"
-date: 2024-08-04 20:59:44
-updated: 2024-08-07 12:54:39
+date: 2024-08-06T09:41:42.926Z
+updated: 2024-08-07T09:41:42.926Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/1919114fb5091365649e72fceac45a6999826335a
 
 For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occurrence. The error pops up when Riot’s anti-cheat program Vanguard fails to start for some reason, causing Valorant to crash. If you, too, are being shut out of the game by the error, don’t worry. This post may help…
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to fix Vanguard Not Initialized
 
  Here are five fixes that have helped other players resolve the**Vanguard Not Initialized** game crash on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -39,6 +42,9 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
@@ -52,6 +58,9 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 
  If the problem still persists, please try**Fix 3** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Reinstall Riot Vanguard
 
  The Vanguard Not Initialized issue could point to a bug with Vanguard. So you could try reinstalling Vanguard to see if it helps with the situation.
@@ -61,6 +70,9 @@ To do so:
 1. On your keyboard, press the Windows logo key and type**Add or Remove Programs** , then click on**Add or Remove Programs** as it pops up as a result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Add-or-Remove-Programs.png)
 2. In the list of apps and features, locate Riot Vanguard. Then click on it and choose**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/RV.png)
 3. Launch the VALORANT client to prompt Vanguard to reinstall.
 4. Check to see if the Vanguard anti-cheat has not been initialized issue has been resolved. If yes, congrats! If it’s still no joy, please move on to**Fix 4** , below.
@@ -73,11 +85,21 @@ To do so:
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/services.msc_.png)
 3. Scroll down to**Virtual Disk** and double-click on it.  
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/VD.png)
 4. In Startup type, choose**Automatic** . Then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AUT.png)
 5. Open Valorant and check to see if the game crash has been fixed. If the error still throws up, please head on to**Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Install all Windows updates
 
  Your current copy of Windows could be containing conflicts, incompatibilities or loopholes that could potentially cause the Riot Vanguard not initialized error. To rule out this as a cause, you should make sure to install all available Windows updates, then check to see if your can play your games without disruptions.

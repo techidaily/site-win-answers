@@ -1,7 +1,7 @@
 ---
 title: Fallout 3 Starting Problems? Latest Solutions and Hacks !
-date: 2024-08-04 11:27:54
-updated: 2024-08-07 10:38:10
+date: 2024-08-06T09:40:55.675Z
+updated: 2024-08-07T09:40:55.675Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b744c16caf8d91ab5e04778eef04ae38bd5e09c87
 
 For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occurrence. The error pops up when Riot’s anti-cheat program Vanguard fails to start for some reason, causing Valorant to crash. If you, too, are being shut out of the game by the error, don’t worry. This post may help…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## How to fix Vanguard Not Initialized
 
  Here are five fixes that have helped other players resolve the**Vanguard Not Initialized** game crash on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -27,6 +30,9 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 4. [Set Virtual Disk Service to automatic](https://tools.techidaily.com/drivereasy/download/)
 5. [Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 1\. Update your graphics driver
 
  The graphics card is the heart and soul for games like Valorant. If the game constantly crashes on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the crashing issue.
@@ -39,6 +45,9 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
@@ -46,6 +55,9 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 4. Restart your PC for the changes to take effect.
 5. Launch Valorant, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix 2** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ## Fix 2: Re-launch Riot Vanguard
 
  Sometimes a simple restart could help fix lots of hiccups. So as an empirical method, you can force quit the program and give Riot Vanguard a re-launch. Then restart your computer and check to see if the game still crashes.
@@ -71,10 +83,16 @@ To do so:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to bring up Run Command.
 2. Type**services.msc** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/services.msc_.png)
 3. Scroll down to**Virtual Disk** and double-click on it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/VD.png)
 4. In Startup type, choose**Automatic** . Then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AUT.png)
 5. Open Valorant and check to see if the game crash has been fixed. If the error still throws up, please head on to**Fix 5** , below.
 
@@ -85,6 +103,9 @@ To do so:
 The steps are pretty easy:
 
 1. On your keyboard, press**the Windows logo key** and type**check for updates** , then click on**Check for updates** as it pops up as a matching result.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1.png)
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Hurdles: What to Do When Monster Hunter S2 WoRLD Doesn’t Open"
-date: 2024-08-04 12:42:33
-updated: 2024-08-07 10:44:38
+date: 2024-08-06T09:41:17.660Z
+updated: 2024-08-07T09:41:17.660Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 7. [**Turn off SteamVR Beta**](https://tools.techidaily.com/drivereasy/download/)
 8. [**Use VPN**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Reset your avatar to fix VRChat crashing
 
  If you can still access the game, you can press**Ctrl** + (the slash under Backspace) to reset your avatar to default. In most cases, the VRChat crashing issue can be simply caused by avatar issues.
@@ -40,10 +43,16 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 
 1. Go to **Library** .
 2. Right-click VRChat and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/VRChat-Properties.jpg)
 3. Select the **Installed Files** tab and click **Verify integrity of game files** .  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3: Update your GPU drivers
 
  For game players, the GPU driver plays a significant role in improving your game performance and ensuring a wonderful gaming experience. If the graphics card driver is outdated or corrupt, you will bump into various game issues such as the game crashing or not launching, and in your particular case – VRChat crashing.
@@ -56,6 +65,9 @@ There are two ways for you to update your drivers:
 
  Option 2 – **[Automatically (Recommended](https://www.drivereasy.com/knowledge/fix-vrchat-crashing/#o2)**  ) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  Graphics card manufacturers like NVIDIA and AMD keep releasing new drivers to fix bugs and improve performance, so you can always get the latest driver on their official website.
@@ -67,6 +79,10 @@ There are two ways for you to update your drivers:
 
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver. After that, don’t forget to restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically
 
  If you don’t have the time, patience, or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -77,6 +93,9 @@ There are two ways for you to update your drivers:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
@@ -94,11 +113,17 @@ There are two ways for you to update your drivers:
 
 1. On your keyboard, press the **Windows** key and the**R** key simultaneously to open the Run box.
 2. Type **control firewall.cpl**  and hit**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **VRChat** is on the list.
 5. If not, click the **Change settings** button.  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
 
@@ -109,6 +134,9 @@ There are two ways for you to update your drivers:
  If you don’t know what the installation folder is for your VRChat, simply right-click on its shortcut and select **Open file location** .
 8. Find **VRChat.exe** and follow the on-screen instructions to make sure VRChat is added to the list and tick **Domain** , and **Public** . Once you’re done, click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Add VRChat as an exception in the Antivirus application
 
  If you’ve ever installed an antivirus program, you should follow the links below to exclude your VRChat in your antivirus app.
@@ -121,11 +149,17 @@ There are two ways for you to update your drivers:
 * **[Avast](https://support.avast.com/en-eu/article/Antivirus-scan-exclusions)**
 * **[AVG Antivirus](https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions)**
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Delete VRChat files
 
  VRChat official has provided an automatic method for users who are experiencing VRChat crashing or VRChat not launching issues. All you need is to run Command Prompt as administrator and run a few commands:
 
 1. On your Windows search bar, type **cmd** . Right-click Command Prompt from the results and select **Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)  
 
  You’ll be prompted for permission. Click **Yes** to open the Command Prompt.
@@ -154,6 +188,9 @@ To merge your Steam account with your VRChat account:
 2. Open your quick menu, then select**Settings** .
 3. Click**Upgrade Account** near the bottom of that menu, then follow the instructions on the screen to merge your accounts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Fix 7: Turn off SteamVR Beta
 
  SteamVR is the ultimate tool for experiencing VR content on the hardware of your choice. However, many users reported that SteamVR Beta has caused their VRChat to crash.

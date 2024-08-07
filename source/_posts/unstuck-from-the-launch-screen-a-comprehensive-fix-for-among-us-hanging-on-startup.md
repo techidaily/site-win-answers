@@ -1,7 +1,7 @@
 ---
 title: "Unstuck From the Launch Screen: A Comprehensive Fix for Among Us Hanging on Startup"
-date: 2024-08-05 21:11:28
-updated: 2024-08-07 10:41:59
+date: 2024-08-06T09:41:03.465Z
+updated: 2024-08-07T09:41:03.465Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 5. **[Join friends using the](https://tools.techidaily.com/drivereasy/download/)** [Epic Games list](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1\. Check the status of Epic Games server
 
  Sometimes you run into error codes because the servers are down. This can be a temporary situation so you can check the status of servers before you try any of these workarounds below.
@@ -52,6 +55,10 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Fix 3\. Change the skin
 
  Though it seems absurd to you, changing the skin has indeed fixed the error code 84 for some players when they can’t join their friends’ party.
@@ -63,22 +70,35 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  You can join a game and wait until you are in the lobby. Accept the invite to join the party and test if the error code 84 persists.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4\. Change the lobby to Public
 
  Another workaround you can try is to set your lobby to Public and then you can join without an invite.
 
  Simply head over to the lobby setting, and click the hamburger icon in the top-right, and set your**Party Privacy** to**Public** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
 
 You can always kick unwanted guests from your lobby.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 5\. Join friends using the Epic Games list
 
  If the invite system is down, you can bypass it by adding them to your friends’ list. This will help you get around this issue.
 
  But if the host of the lobby you’re trying to join is already on your friends’ list, you can skip this fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6\. Reinstall the game
 
  No matter where you play the game, reinstalling the game always does the trick for a few players. Consoles and mobile devices are closed systems, meaning there aren’t many troubleshooting options to fix issues you’re having. The most common fix is to reinstall Fortnite.

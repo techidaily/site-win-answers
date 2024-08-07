@@ -1,7 +1,7 @@
 ---
 title: The Definitive Guide to Fixing a Frozen Firefox Browser, Updated
-date: 2024-08-06 23:42:38
-updated: 2024-08-07 12:23:40
+date: 2024-08-06T09:40:59.233Z
+updated: 2024-08-07T09:40:59.233Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
 ## Fortnite Boot-Up Blues? Here’s How to Fix a Frozen Loading Screen
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9593219518-1024x627.jpg)
 
  Recently, many Fortnite PC players have been reporting that**Fortnite gets stuck on the loading screen** . For some, they can’t get past the Fortnite screen in the beginning after clicking**Launch** with the Epic Launcher. For others, after they select a game mode, Fortnite finds a game but gets stuck on the loading screen into the match.
@@ -33,6 +36,9 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7fe50b1fe.jpg)
 2. Scroll through and end each**NVIDIA** task.  
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
@@ -51,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
  Overlay applications like**GeForce Experience** are also known to cause Fortnite to get stuck on the loading screen. You can follow these steps to turn off the GeForce Experience share in-game overlay:
 
 1. From the GeForce Experience app, click the**Settings** icon in the upper right corner.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
@@ -58,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/77abbad2412c75bf2d155c822e86669e88f9a5dd8
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  If fixes 1 and 2 above didn’t work for you, the most likely cause is a graphics card driver problem.
@@ -74,6 +89,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4c9c13ba1.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
@@ -87,6 +105,9 @@ OR
 
 1. Make sure Fortnite is closed.
 2. Right-click the Epic Games Launcher icon, and select**Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
 4. Test if the problem is resolved. If not, try the next fix.

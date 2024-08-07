@@ -1,7 +1,7 @@
 ---
 title: "Fixing Persistent Cramch in Path of Exile: A Step-by-Step Solution"
-date: 2024-08-05 15:27:42
-updated: 2024-08-07 10:35:16
+date: 2024-08-06T09:41:45.531Z
+updated: 2024-08-07T09:41:45.531Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/c7faa06295ae09ceb9c04771af8ef4a70065bcb58
 
 In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enjoy conquering fearsome monsters. But many players have been reporting that Nioh 2 keeps crashing on startup, or in the middle of a game. If you’re experiencing the same problem, you’re able to fix it with the following solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just walk your way down until you find the one works for you.
@@ -29,12 +32,18 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 * [Disable all overlays](https://tools.techidaily.com/drivereasy/download/)
 * [Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Run the game as administrator
 
  It’s very likely that Nioh 2 crashing is caused by a lack of administrative rights. Running your game/ game launcher as admin is the first method you should try when your game crashes or not fails to launch. Here’s how:
 
  1) Navigate to the folder where you installed Nioh 2 (usually This PC/Local Disk (C)/SteamLibrary/steamapps/common/Nioh 2).
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-local-files.jpg)
 
  Or you can right-click Nioh 2, and select Manage > Browse local files.
@@ -45,6 +54,9 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  3) Go to the **Compatibility** tab. Then, tick the box next to Run this program as an administrator and click **Apply** \> **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-admin.jpg)
 
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
@@ -81,6 +93,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
@@ -104,10 +120,16 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  3) Go to**LOCAL FILES** \>**Verify integrity of game files…**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/local-files-verify.jpg)
 
  It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Install/repair Visual C++ files
 
  If the Nioh 2 keeps crashing even when you start it from the executable, try installing/repairing all the Visual C++ redistributable (both 86bit and 64bit).
@@ -124,12 +146,18 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 4) Also download the Microsoft Visual C++ 2013 (both the x86 and x64) and complete the installation/repair.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 5) Once complete, restart your PC for it to take full effect.
 
 Play your game again and see if Nioh 2 not launching is resolved by now.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 6: Disable all overlays
 
  Many players find that disabling all overlays, such as Steam overlay, Discord overlays hele solve the Nioh 2 crashing issue. Here’s how:
@@ -160,6 +188,9 @@ Now launch your game, and see if it crashes again.
 
  4) Select the **Startup** tab and click **Open Task Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
@@ -168,6 +199,9 @@ Now launch your game, and see if it crashes again.
 
  6) Go back to **System Configuration** , then click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.

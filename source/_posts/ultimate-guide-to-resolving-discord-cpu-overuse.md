@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Resolving Discord CPU Overuse
-date: 2024-08-06 15:48:22
-updated: 2024-08-07 12:47:57
+date: 2024-08-06T09:40:55.052Z
+updated: 2024-08-07T09:40:55.052Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/0ab25ce0bb8d4ab2078e845cda986fa9a30d3de55
 
 Looking for a cure for your[Spellbreak](https://www.epicgames.com/store/en-US/p/spellbreak?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=newt) crashing issue? You’re in the right place! Here we put together some useful tips for you, check ’em out and get your problem fixed right away!
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ## Basic troubleshooting
 
  But before you try any advanced solutions, make sure you’ve gone through these basic steps:
@@ -37,6 +41,10 @@ Looking for a cure for your[Spellbreak](https://www.epicgames.com/store/en-US/p/
 | **Memory:**    | 8 GB RAM                               |
 | **Graphics:**  | NVIDIA GeForce GT 640/Radeon R7 Series |
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are some advanced solutions for your Spellbreak crashing issue. You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -49,6 +57,9 @@ Looking for a cure for your[Spellbreak](https://www.epicgames.com/store/en-US/p/
 6. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Disable VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Install all Windows updates
 
  Windows 10 introduces two types of updates, one tackles security issues and the other offers new features on a regular basis. If the last time you check for system updates feels like a long time ago, definitely do it now as it might fix your crashing issue.
@@ -58,6 +69,9 @@ Here’s how to install all system updates:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** and wait for the checking and installation to complete. This might take up to an hour.  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the available updates, restart your computer and check if Spellbreak crashes again.
 
@@ -65,6 +79,9 @@ Here’s how to install all system updates:
 
  If updating your system doesn’t give you any luck, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Verify your game files
 
  The crash might indicate**an integrity issue with your game files** . If that’s the case, Spellbreak will crash constantly in some situations.
@@ -107,6 +124,9 @@ You can follow these steps to check your game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -115,6 +135,9 @@ You can follow these steps to check your game files:
 
 If the problem persists, simply continue to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Disable in-game overlays
 
  While in-game overlays make it convenient to share, communicate and purchase, it might also be the culprit of your crashing issue with Spellbreak. If you’re using in-game overlays such as**GeForce Experience** ,**Discord** or**Radeon™ Overlay** , try disabling them and check if it fixes your problem.
@@ -134,8 +157,14 @@ If this method doesn’t work out for you, simply try the next one.
 Here’s how:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type**msconfig** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-run-box.jpg)
 2. Navigate to the**Services** tab, then check the box next to**Hide all Microsoft services** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. Find services that**DO NOT** belong to your graphics card or sound card manufacturers such as NVIDIA, AMD, Realtek, Intel.**Uncheck** the boxes next to these services and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
@@ -144,6 +173,9 @@ Here’s how:
 
 If the crash reappears, you can check out the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 7: Disable VSync
 
 **VSync** refers to**Vertical Sync** , a graphics technology that synchronizes the in-game FPS with the refresh rate of your monitor. While it repairs the screen tearing issue in some games, it cloud also trigger instability according to some feedback. So you can try to turn it off and see how it goes.
@@ -151,6 +183,9 @@ If the crash reappears, you can check out the next solution.
  You can disable VSync in the control panel of your graphics card. And here’s an example of NVIDIA:
 
 1. Right-click the empty area of your desktop and select**NVIDIA Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. From the left menu, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text next to **Vertical sync** and select **off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)

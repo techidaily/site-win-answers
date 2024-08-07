@@ -1,7 +1,7 @@
 ---
 title: Banish Dev Error 6328 From Call of Duty Warzone – Expert Advice for Gamers
-date: 2024-08-04 22:56:45
-updated: 2024-08-07 12:31:28
+date: 2024-08-06T09:41:49.801Z
+updated: 2024-08-07T09:41:49.801Z
 tags:
   - win11
   - win10
@@ -28,12 +28,18 @@ Recently, a large number of Warzone players started reporting a**Dev error 6634*
 5. [**Change your loadouts, skins and operators**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change to another account](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Scan and repair your game files
 
  The dev error might indicate**an integrity issue** with your game files. So instead of reinstalling the whole game, you can start from doing a scan and repair. If you don’t know how, simply follow these instructions：
 
 1. Open your **Battle.net** client.
 2. From the left menu, select **Call of Duty: MW** . Click **Options**  and select **Scan and Repair** .  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 3. Click **Begin Scan** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-2.jpg)
@@ -41,6 +47,9 @@ Recently, a large number of Warzone players started reporting a**Dev error 6634*
 
  If the issue reoccurs after a scan and repair, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2:**Update your graphics driver**
 
  Crashes in COD series are usually graphics-related — It could mean your game encountered a compatibility issue triggered by a**broken or outdated graphics driver** . That’s why we always recommend gamers to keep their drivers up to date: new drivers improve your gaming experience and most importantly, they would also fix compatibility issues like lagging and constant crashing.
@@ -65,6 +74,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -82,8 +94,14 @@ To do so, first visit the website of your GPU manufacturer:
 Here’s how you can check for updates manually:
 
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
@@ -96,6 +114,9 @@ Here’s how you can check for updates manually:
 
  If Warzone crashes with the same error again, you can try the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Reinstall all shaders
 
  Shaders refer to a type of program used largely for rendering of different pixels. Some players reported that**reinstalling shaders** could be a potential fix for the dev error, so you can try the same and see if it helps.
@@ -106,11 +127,17 @@ To do this, simply follow these steps:
 2. Navigate to the**GRAPHICS** tab. Click**Restart Shaders Installation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone-reinstall-shaders-1.jpg)
 3. Click**RESTART** to proceed.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone-reinstall-shaders-2.jpg)
 4. Wait for the process to complete. Then restart your game and test the gameplay
 
  If reinstalling shaders doesn’t give you luck, simply move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Change your loadouts, skins and operators
 
  The dev error could also be a glitch inside the game. According to some players, changing to Modern Warfare loadouts seemed to have stopped the error from appearing. So if you’re using**loadouts or operators** from Black Ops Cold War, change them to the Modern Warfare ones and check the outcome. In the meantime,**remove all your skins** .

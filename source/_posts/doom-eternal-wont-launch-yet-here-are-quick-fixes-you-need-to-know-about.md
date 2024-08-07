@@ -1,7 +1,7 @@
 ---
 title: DOOM Eternal Won't Launch Yet? Here Are Quick Fixes You Need to Know About
-date: 2024-08-06 11:28:50
-updated: 2024-08-07 10:31:56
+date: 2024-08-06T09:41:48.819Z
+updated: 2024-08-07T09:41:48.819Z
 tags:
   - win11
   - win10
@@ -47,6 +47,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
  If unfortunately, your PC cannot handle this game, then you should replace the hardware components that are out of date; but if you’re pretty sure that your computer is up to scratch, read on and check out the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ## 9 Fixes for DOOM Eternal not launching
 
  The following are 9 fixes that have proved useful to many players. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -71,6 +74,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Update your device drivers
 
  The crashing issue on launch may be triggered by an outdated device driver (especially the graphics card driver). Usually, you can get the latest graphics driver from its manufacturer’s website (such as [NVIDIA](https://www.nvidia.com/Download/index.aspx?lang=en-us) , [AMD](https://www.amd.com/en/support) , [Intel](https://downloadcenter.intel.com/) ); you just need to find exactly the right driver online, download it and install it step by step.
@@ -113,6 +119,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
  4) If you have an alternative graphics card (say, the dedicated NVIDIA GPU), you’ll see another drop-down list below that enables you to choose your preferred graphics processor. Go on to select the**High-performance NVIDIA processor** option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-14.png)
 
 **Note:** If you’re using the AMD GPU, please refer to **[https://www.amd.com/en/support/kb/faq/dh-017](https://www.amd.com/en/support/kb/faq/dh-017)**  .
@@ -127,6 +136,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Install DirectX End-User Runtimes
 
  If you were presented with an error message reading “xinput1\_3.dll not found” when launching DOOM Eternal, then you should try downloading and installing **[DirectX End-User Runtimes](https://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)**  on your computer. After the software pack is downloaded, extract it somewhere on your PC and run**DXSETUP** to install that software. Once complete, check to see if DOOM Eternal is able to run normally.
@@ -147,6 +159,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
  1) On your keyboard, press the **Windows logo key** and **X** at the same time, then click **Task Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
@@ -173,6 +188,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
  2) Right-click **DOOM Eternal** and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-22.png)
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
@@ -185,22 +203,34 @@ If this fix is to no avail, move on to Fix 8 below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8: Run the game as administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run DOOM Eternal, you should give this fix a try.
 
  1) Locate the **executable file** of DOOM Eternal on your PC. Right-click the file and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
 
  Now you should be able to run DOOM Eternal under administrator privileges permanently. Next up, check to see if you’re able to run DOOM Eternal.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9: Wait for new game patches
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else rather than sit tight, you can also forward your problem to the developer or look for other solutions on related forums.

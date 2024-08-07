@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Black Screen' Issue at Elden Ring Boot Up - Solutions Guide
-date: 2024-08-04 21:40:45
-updated: 2024-08-07 12:44:49
+date: 2024-08-06T09:40:56.879Z
+updated: 2024-08-07T09:40:56.879Z
 tags:
   - win11
   - win10
@@ -75,6 +75,9 @@ If these simple solutions don’t help, move to the fixes below.
 
 10) Relaunch the app then download and install Age of Empires VI.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your network adapter driver
 
  If the game is stuck in 0 and never gets up while downloading, there might be some issue with your wireless adapter driver. A missing or corrupted driver may be the root of this issue.   **Try updating the driver for your wireless network adapter**  to see if you can resolve it.
@@ -89,6 +92,9 @@ If these simple solutions don’t help, move to the fixes below.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 
  3) Click **Update** next to your wireless network adapter to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -102,6 +108,9 @@ If these simple solutions don’t help, move to the fixes below.
 
 If you can’t install the game, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Fix 3: Disable antivirus software
 
  Though the download appears to be complete, your antivirus or firewall program may block game files during the installation process for safety purposes. Disabling your antivirus program would address the issue.  
@@ -117,14 +126,25 @@ If you can’t install the game, move to the next fix.
 
  If it’s not working, you can move to the next fix. Remember to enable your antivirus to protect your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your Windows system
 
  If you haven’t updated your Windows system to the latest version, you can give it a try. Some gamers have proved that installing updates for the Windows system is a working fix.
 
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to open the **Windows Settings** . Then select **Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 
  2) Under Windows Update, click **Check for updates** . Then Windows will automatically download and install the available updates.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
 
  3) Once you’ve installed all the updates, restart your computer and try to launch the game.

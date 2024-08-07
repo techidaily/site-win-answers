@@ -1,7 +1,7 @@
 ---
 title: "How to Optimize Your PC Settings for Smooth Bless Unleashed Play: Fix Lag Spikes & High Latency"
-date: 2024-08-05 21:45:27
-updated: 2024-08-07 10:30:36
+date: 2024-08-06T09:41:28.495Z
+updated: 2024-08-07T09:41:28.495Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f04df6c23b871cbbd0c17b0eb3921c505712d724d
 
 PlayerUnknown’s Battlegrounds (PUBG) is a famous online multiplayer battle royale game. Despite the fact that it has been out for a long time, issues like game freezing are still common. If you happened to be one of them and you’re done with restarting your computer, then you’ve come to the right place! We’ve put together some fixes for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Just walk your way down the list until you find the one that works for you.
@@ -52,10 +56,16 @@ Recommended requirements for PUBG
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Install the latest patch
 
  PUBG keeps releasing its patches in order to fix some bugs. So you can install the new patches to keep your game up to date on the[Patch Note](https://lite.pubg.com/category/patch-note/) page.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  If you’re using an outdated or faulty graphics driver, your game would probably be freezing. To enjoy your game to the fullest, you should update your graphics driver. This can make a great difference especially if you can’t remember when was the last time you updated your drivers.
@@ -68,6 +78,9 @@ Recommended requirements for PUBG
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your drivers (recommended)
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,6 +99,9 @@ OR
 
  Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) with **full support**  and 30-day **money** –**back guarantee** – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -100,6 +116,9 @@ OR
 
  Also, it’s very important to remove all those overlays, Steam, Discord, or whatever overlay you’re using. It’s usually causing some issues like freezing.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Change Power Options
 
  Windows 10 offers a number of power plans including the new one**Ultimate Performance** for you to switch to. The plan,**Ultimate Performance** can let you fully exploit the potential of your computer. So it might resolve your PUBG freezing issue.
@@ -130,6 +149,9 @@ The steps are as follows:
 
  **powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61**
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-4.png)
 
  After you successfully add the Ultimate Performance plan, go to the[settings](https://tools.techidaily.com/drivereasy/download/) to enable it.
@@ -142,10 +164,16 @@ The steps are as follows:
 
  2) Type**%temp%** and hit**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-2.png)
 
 3) Select all the files in the folder and delete them.
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-3-1.png)
 
  After that, relaunch PUBG and hopefully, the freezing issue should be resolved.
@@ -164,6 +192,9 @@ The steps are as follows:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Turn off VSync
 
  When VSync is enabled, your game might be less responsive. So you can turn it off to boost your game performance. Take NVIDIA as an example:

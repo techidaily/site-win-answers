@@ -1,7 +1,7 @@
 ---
 title: "Banish the Darkness: Fixing the Star Wars Battlefront II Black Screen Malfunction Once & For All"
-date: 2024-08-04 12:49:48
-updated: 2024-08-07 10:30:44
+date: 2024-08-06T09:41:49.089Z
+updated: 2024-08-07T09:41:49.089Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Star Wars Battlefront 2 is a classic game which released in 2017, but the error 
 
  That’s definitely upset for gamers, but don’t worry, there’re ways to fix this problem. The cause of the problem varies from person to person, we’ve gathered working fixes that have been proved by others. Read on and have a try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -28,6 +31,9 @@ Star Wars Battlefront 2 is a classic game which released in 2017, but the error 
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Renew the IP address](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Check the server status
 
  Error code 327, error code 721 are quite the same. They often appear when attempting to join the game. The first thing to do is restarting the game and try to connect to the server again. When it’s not working, check Star Wars Battlefront 2 server status, if it’s a server problem, you need to wait for the developer team to do the work, there is not much you can do.
@@ -47,6 +53,9 @@ You can also play at another time when the servers are a little lighter.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  NordVPN on your device.
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Relaunch Star War Battlefront 2.
 
@@ -66,15 +75,24 @@ You can also play at another time when the servers are a little lighter.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Renew the IP address
 
  If update your driver doesn’t help, renew the IP address would be the next step. Renew your IP address will let your PC get rid of its IP address and ask DHCP server for a new one which may fix the issue.

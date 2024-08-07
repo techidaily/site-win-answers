@@ -1,7 +1,7 @@
 ---
 title: "Master the Fix: Overcoming FIFA 20 PC Stability Problems - Comprehensive Instructions"
-date: 2024-08-05 13:17:31
-updated: 2024-08-07 10:26:41
+date: 2024-08-06T09:41:10.837Z
+updated: 2024-08-07T09:41:10.837Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 
  Before you proceed with the fixes below, please make sure your gear meets[the minimum requirements of Persona 5 Stri](https://gamesystemrequirements.com/game/persona-5-strikers) [kers](https://gamesystemrequirements.com/game/persona-5-strikers) .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Persona 5 Strikers crashing might be caused by**lack of administrative rights** ,**corrupted game files,** or**software interference** ,**outdated graphics drivers** , etc.
@@ -32,6 +35,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 5. [**Run your game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Tweak some settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Close all unnecessary applications
 
  Your Persona 5 Strikers may be crashed by interference from some programs running in the background.
@@ -42,6 +48,9 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 
  Note that some antivirus software will still keep running even when disabled. You can add your game to its exclusion list or uninstall it temporarily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Update your graphics drivers
 
  It’s very important to keep your graphics drivers updated to the latest version, whether for Persona 5 Strikers or other games. Graphics manufacturers keep releasing new drivers to fix known bugs and make minor improvements.
@@ -56,6 +65,10 @@ There are mainly two ways for you to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -66,6 +79,9 @@ There are mainly two ways for you to update your graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -74,6 +90,9 @@ There are mainly two ways for you to update your graphics driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Verify the game files
 
  To make sure there are no corrupted or missing files, you can check the integrity of the game files. Here’s how to do it:
@@ -86,11 +105,17 @@ There are mainly two ways for you to update your graphics driver:
 
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ## 4\. Play the game in windowed mode
 
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
 
 1. Go to your Steam Library, and right-click Persona 5 Strikers > select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
@@ -105,6 +130,9 @@ There are mainly two ways for you to update your graphics driver:
 1. Navigate to your game installation folder (usually**C:/Steam Library/ steamapps/common/P5S/game.exe** ).  
  Or you can right-click the game and select**Manage** \>**Browse local files** .
 2. Right-click the game.exe file, and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)

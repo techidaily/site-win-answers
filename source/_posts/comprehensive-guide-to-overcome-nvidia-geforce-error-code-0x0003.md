@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Overcome Nvidia GeForce Error Code 0X0003
-date: 2024-08-06 10:40:25
-updated: 2024-08-07 10:16:12
+date: 2024-08-06T09:41:46.873Z
+updated: 2024-08-07T09:41:46.873Z
 tags:
   - win11
   - win10
@@ -44,6 +44,9 @@ When you’re entering this complicated fantasy world, nothing upsets you more t
 
  2) Select the**Compatibility** tab, and tick the**Run this program as an administrator** box. Then click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-2.jpg)
 
  This will ensure you have administrative privileges every time you open Steam/GOG.
@@ -63,10 +66,17 @@ The executable for the game is located in:
 
  2) Right-click your Witcher 3 application and select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.jpg)
 
  3) Select the Compatibility tab and tick the box next to**Run this program in compatibility mode for:** and select your previous operating system. Then tick**Run this program as an administrator** . Click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 
  Now you have full access to the game files. Relaunch it to see if your Witcher 3 not launching issue still persists.
@@ -77,6 +87,9 @@ The executable for the game is located in:
 
  Just delete the mods subfolder within the Witcher 3 folder and it should work. After that, you can launch the game to test the issue. If you can launch the game normally, then great! If not, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ### Fix 3: Update device drivers
 
  Witcher 3 not launching is probably caused by driver issues. If your device drivers (especially your graphics driver) are outdated or corrupt, you may bump into Witcher 3 not launching or crashing issues. To improve your gaming experience and fix bugs, you should always have the latest graphics driver installed.
@@ -94,6 +107,9 @@ There are two ways for you to update your drivers:
  NVIDIA and AMD keep updating drivers. To get them, you need to go to their official website, download the driver corresponding with your specific flavor of Windows version (for example, Windows 10 64-bit) and install the driver manually.
 
 * For NVIDIA: Go to[**NVIDIA Driver Downloads**](https://www.nvidia.com/Download/index.aspx?lang=en-us) .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-driver-1.jpg)
 * For AMD: Go to **[AMD Drivers & Support](https://www.amd.com/en/support)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/AMD-driver-downloads-1.jpg)
@@ -154,6 +170,9 @@ There are two ways for you to update your drivers:
 
  1) Type cmd in the Search box. Then right-click**Command Prompt** and select**Run as administrator** .
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-5.jpg)
 
  2) Type the command:**sfc /scannow** in the window and hit**Enter** .
@@ -171,6 +190,13 @@ sfc /scannow
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with File Checker Tool.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Monthly Membership</a>
+<!-- affiliate ads end -->
 ### Fix 6: Disable in-game overlay
 
  Sometimes in-game overlay can screw over your game and your Witcher 3 not launching issue may be caused by this feature. The game simply takes a lot of time to react when the overlay is on.
@@ -186,6 +212,10 @@ sfc /scannow
 
  After disabling the in-game overlay, you can launch your Witcher 3 again. If Witcher 3 launches successfully, then great! But if it doesn’t, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ### Fix 7: Disable Antivirus
 
  Witcher 3 not launching problem is sometimes caused by interference from your antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists.
@@ -214,6 +244,9 @@ Try launching your game again to see if Witcher 3 works normally again.
 
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Click**OK** to apply the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable-all-services-1.png)
 
  3) On your keyboard, press**Ctrl + Shift + Esc** at the same time to open**Task Manager** and click the**Startup** tab.
@@ -232,10 +265,16 @@ Try launching your game again to see if Witcher 3 works normally again.
 
  Once you find out the problematic software, you may need to uninstall or disable it to avoid running into the same issue in the future .
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9: Delete the GoG.dll
 
  If you ever transferred your Witcher 3 from GOG to Steam, there might be two .dll files in your**Steam > steamapps > common > The Witcher 3 > bin** folder. One of them is Steam.dll and the other is GoG.dll. You may delete the**GoG.dl** l file and try running Witcher 3 again to test your issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 10: Perform a reinstall
 
  If the methods above fail to solve your problem, you can reinstall Witcher 3 to see if the issue persists.

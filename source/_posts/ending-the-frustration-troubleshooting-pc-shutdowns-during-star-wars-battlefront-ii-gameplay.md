@@ -1,7 +1,7 @@
 ---
 title: "Ending the Frustration: Troubleshooting PC Shutdowns During Star Wars Battlefront II Gameplay"
-date: 2024-08-05 11:38:59
-updated: 2024-08-07 10:17:56
+date: 2024-08-06T09:41:25.487Z
+updated: 2024-08-07T09:41:25.487Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 * [Fix 5: Verify game files](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Fix 1: Close all background apps
 
  One thing that might cause your Ghostrunner Fatal Error is other conflicting applications, especially your antivirus software and any programs with overlays.
@@ -36,6 +39,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The main reason why Ghostrunner’s fatal error happens is tied to the GPU driver. If your game crashes, won’t launch, or gives you any kinds of errors, be sure to update your graphics card driver and other drivers.
@@ -50,6 +56,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  2) Run Driver Easy and click the**Scan No** w button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -58,10 +67,16 @@ OR
 
  Click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
 4) Restart your PC for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
 ### Fix 3: Install Microsoft Visual C++ 2013
 
  Especially when you get error codes when starting your game, try installing Microsoft Visual C++ 2013 (both b84bit and 64bit), which proved to be working for many Ghostrunner gamers. Here’s how to do it:
@@ -70,6 +85,9 @@ OR
 
  2) Scroll down to the download section for**Visual Studio 2013** , and click **Microsoft Visual C++ Redistributable Packages for Visual Studio 2013** .
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 3) Download the x64.exe in the language you prefer.
@@ -78,6 +96,9 @@ OR
 
 4) Scroll down the page and download the x86.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -86,6 +107,9 @@ OR
 
 Play Ghostrunner again to see if this fatal error reoccurs.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  Another reason that you get Ghostrunner fatal error is GPU overclocking. If you overclocked your GPU with some software such as Afterburner, we recommend stopping the overclock or suspending these programs including GeForce Experience before you play the game.

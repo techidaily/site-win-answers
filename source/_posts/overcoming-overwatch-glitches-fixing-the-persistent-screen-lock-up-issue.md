@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Overwatch Glitches: Fixing the Persistent Screen Lock-Up Issue"
-date: 2024-08-06 12:47:35
-updated: 2024-08-07 12:25:48
+date: 2024-08-06T09:41:49.406Z
+updated: 2024-08-07T09:41:49.406Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
  If**Overwatch stutters** on your computer, you would be very annoying. But there’s no need to panic; you’re certainly not the only one. We’ve seen many users are reporting this issue. More importantly, you Can fix it with the solutions below. Read on and see how…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Update your video driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -29,6 +32,9 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Update your video driver
 
  The Overwatch stuttering issue could be caused by**an old or corrupted video driver** on your computer. You can update your video driver to the latest version to try to solve the issue.
@@ -40,6 +46,9 @@ You can update your video driver either manually or automatically.
 **Automatic driver update –** If you don’t have the time, patience or computer skills to update your video driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact video card, and your variant of Windows system, and it will download and install it correctly:
 
 1. Download and install Driver Easy.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1b9f02530c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ba333061d.jpg)
@@ -48,12 +57,24 @@ You can update your video driver either manually or automatically.
 
 ---
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Fix 2: Stop other background programs
 
  Overwatch needs internet when running. If other programs running background on your computer and eats up a lot network usage, that may cause Overwatch to stutter. So **stop any other unnecessary programs especially those are using a lot of network usage and system space** . Once you do, check if OverWatch runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Fix 3: Turn off fullscreen optimization
 
  If you enable**fullscreen optimization** on your computer while playing Overwatch, Overwatch may also stutters. You could simply turn off fullscreen optimization to fix your problem.
@@ -82,6 +103,9 @@ Check to see if Overwatch runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Turn off Game DVR
 
  On Windows 10,**Game DVR** controls how you capture your game through screenshots and game clips. But with it enabled, you might also have the game stuttering problem.
@@ -92,6 +116,9 @@ Here’s how you can turn Game DVR off.
 2. Click**Gaming** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
 3. Select**Game bar** in the left then toggle off **Record game clips, screenshots, and broadcast using Game bar** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1be60bd72d.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 4. Select**Game DVR** in the left, then**turn off each option** in this section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bee7c51a7.jpg)
 
 Re-run your Overwatch game and check to see if it runs smoothly.

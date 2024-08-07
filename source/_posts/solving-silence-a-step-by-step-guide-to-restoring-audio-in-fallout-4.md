@@ -1,7 +1,7 @@
 ---
 title: "Solving Silence: A Step-by-Step Guide to Restoring Audio in Fallout 4"
-date: 2024-08-05 17:30:34
-updated: 2024-08-07 11:30:35
+date: 2024-08-06T09:41:33.744Z
+updated: 2024-08-07T09:41:33.744Z
 tags:
   - win11
   - win10
@@ -29,16 +29,25 @@ Battle.net is your destination for playing Blizzard & Activision games. However,
 5. **[Update your drivers](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-fix-Battle.net-not-opening.jpg)
 
 _Image source: battle.net_
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Run Battle.net as an administrator and in compatibility mode
 
  When a program fails to launch, it may due to the lack of administrative rights. All you have to do is try to open your Battle.net as an administrator. In addition, running it in compatibility mode is aslo one way to fix common issues. Simply follow the steps below.
 
 1. Right-click on the Battle.net shortcut and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/run-Battle.net-as-an-administrator-and-in-compatibility-mode-properties.jpg)
 2. Select the**Compatibility** tab. Check the box next to**Run this program in compatibility mode for:** and**Run this program as an administrator** . Then click**Apply > OK** .  
 
@@ -53,9 +62,15 @@ _Image source: battle.net_
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**control firewall.cpl** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-1.jpg)
 3. From the left navigation pane, click**Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
 5. Click on the**Change settings** button.  
@@ -66,6 +81,9 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click**Browse…** and go to the installation folder.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
  If you have no idea of where the installation folder is, simply right-click on the shortcut and select**Open file location** .  
@@ -76,6 +94,9 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-6.jpg)
 9. When it’s located, click**Add** .  
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-7.jpg)
 10. Now make sure Battle.net is added to the list and tick**Domain** ,**Private** , and**Public** . Once you’re done, click**OK** .  
 
@@ -83,6 +104,9 @@ _Image source: battle.net_
 
 Now open Battle.net. If it isn’t opening, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ## 3\. Close conflicting programs running in the background
 
  Failure to launch a program may occur when there are software conflicts. In addition, at times, Batte.net may require significant system resources in order to function properly. If there are too many programs running in the background, they can eat up your system resources and thus make your resources insufficient for other programs. Therefore, we suggest you disable them while you’re using Battle.net. Below are the steps you can take to do this.
@@ -93,6 +117,9 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, right-click the programs that are most likely to cause interference, such as Razer Synapse and those that are eating up your resources. Then select **End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
  When you’re done, open the agent and check if your problem has been resolved. If it persists, move on to the next fix.
@@ -126,10 +153,16 @@ You can update your drivers via the Device Manager:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/how-to-open-the-Device-Manager-Run-Command）.png)
 3. Click on the**arrow >** to expand the section. Then right-click on the device that you’re going to update the driver for and select**Update driver** .  
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
 
 Then follow the on-screen instructions to get the updates.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your drivers (recommended)
 
  If updating drivers on your own seems like a tedious task for you, you can use a dedicated driver updater **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you do the work without hassle. It’s a useful and legitimate tool that scans for any missing or outdated drivers, then downloads and installs the latest ones for your system, direct from the device manufacturers. With Driver Easy, updating drivers is just a matter of a few mouse clicks.
@@ -154,6 +187,9 @@ Then follow the on-screen instructions to get the updates.
 
 1. In the search box on the taskbar, type**cmd** . Find Command Prompt from the list of results and right-click it. Then select**Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-open-the-Command-Prompt-as-an-administrator.jpg)
 2. Click**Yes** when you receive a prompt.
 3. Now copy and paste the following command, and then press**Enter** .  
@@ -161,11 +197,18 @@ Then follow the on-screen instructions to get the updates.
 `DISM.exe /Online /Cleanup-image /Restorehealth`
 4. Wait until you see a message saying “The operation completed successfully.”  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-run-the-system-file-checker.jpg)
 5. Now type**sfc /scannow** and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
 
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
  However, if that fails to fix an underlying problem, you’ll need a more advanced tool to help you with that. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is such a tool that specializes in Windows repair. It’ll help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. And it’s more than that. Fortect can protect and remove malware from your PC, as well as detect threatening apps before it’s too late!
@@ -185,9 +228,15 @@ Then follow the on-screen instructions to get the updates.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Type**appwiz.cpl** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to uninstall an app](https://images.drivereasy.com/wp-content/uploads/2021/06/control-appwiz.cpl_.png)
 3. Locate**Battle.net** . Right-click it and click**Uninstall/Change** .  
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/reinstall-Battle.net_.jpg)
 
  When you’re prompted for further confirmation, simply click Yes and proceed. After it’s successfully uninstalled. Go to the place where the Battle.net-Setup.exe file was installed and delete it. Then download and install it from the[official website](https://www.blizzard.com/en-us/download/confirmation?product=bnetdesk) .

@@ -1,7 +1,7 @@
 ---
 title: "Solving 'Hogwarts Legacy' Won't Start Problem : Essential Troubleshooting Guide"
-date: 2024-08-04 12:29:21
-updated: 2024-08-07 11:14:21
+date: 2024-08-06T09:41:01.661Z
+updated: 2024-08-07T09:41:01.661Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/e20731976346abc5e9e51e32ccd4741e92a00f139
 
  Looking for a solution to the**DaVinci Resolve won’t open** problem? No matter if your Resolve is not responding at all or gets stuck at the loading screen, you can try the following methods to fix the problem immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[End the Resolve process](https://tools.techidaily.com/drivereasy/download/)**
@@ -56,13 +59,22 @@ No luck? Don’t worry. We have a few more fixes for you.
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
 
 1. Right-click on the Resolve shortcut or the executable file in the installation folder, and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
 3. Click**Apply** \>**OK** to save the changes.
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4\. Update the graphics driver
 
  Editing videos with this DaVinci Resolve is very GPU-extensive, so it is mandatory to keep the GPU drivers updated (and sometimes your audio drivers, too).
@@ -82,6 +94,9 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ### Fix 5\. Increase the Virtual Memory
 
  If your system is low on virtual memory, Windows increases the size of your virtual memory paging file. During this process, memory requests for some applications may be denied, e.g your DaVinci Resolve. To alleviate this, you can manually increase the size of your paging file.
@@ -89,8 +104,14 @@ No luck? Don’t worry. We have a few more fixes for you.
 1. On your keyboard, press the**Windows** logo key +**R** key at the same time, and enter**sysdm.cpl** to open system settings.  
 ![command line](https://images.drivereasy.com/wp-content/uploads/2021/11/system-run-commands.jpg)
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
@@ -99,6 +120,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
 
  It’s reported by many users that the IGPU Multi-Monitor feature can affect the use of DaVinci Resolve, thus causing Resolve to not open. To enable this feature, you should restart your PC and enter BIOS.
@@ -127,6 +152,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Fix 8\. Allow TCP Network Port Access
 
  Another reason why your DaVinci Resolve is not responding is that it lacks access to your TCP ports, which is necessary for your DaVinci Resolve to launch successfully.
@@ -142,6 +171,9 @@ Here’s how to troubleshoot this issue quickly:
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 9\. Reinstall DaVinci Resolve
 
  If none of the fixes above solved your Resolve not opening issue, you can clean reinstall your program and delete all files ( **C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** ) left behind.

@@ -1,7 +1,7 @@
 ---
 title: "NieR: Shadow Complexes Stuttering Problems - Now Fixed"
-date: 2024-08-06 15:57:43
-updated: 2024-08-07 12:59:15
+date: 2024-08-06T09:41:34.898Z
+updated: 2024-08-07T09:41:34.898Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Valheim is an enjoyable survival/ open-world exploration sandbox. But players st
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ## 1\. Verify integrity of game files
 
  Whenever you run into performance issues with a certain game, you should consider utilizing the built-in tool of verifying the game files. This will help you check if any of your game files are missing or corrupted:
@@ -44,6 +48,10 @@ Valheim is an enjoyable survival/ open-world exploration sandbox. But players st
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ## 2\. Update your game
 
  Devs keep rolling out updates to fix the known game bugs and bring further optimization tweaks to make sure that players can enjoy the most from playing Valheim. Therefore, it’s always a good idea to keep your game updated to have the best gaming experience.
@@ -56,6 +64,9 @@ Here’s how you can check if your game version is up-to-date:
 
  2) Select the **UPDATES** tab. Then click on the down arrow in the **AUTOMATIC UPDATES**  section. Then select **Always keep this game updated**  from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![how to keep Valheim always updated](https://images.drivereasy.com/wp-content/uploads/2021/03/always-keep-your-game-updated.png)
 
  3) Click on the **DOWNLOADING**  tab located at the bottom of the screen to see if you have any update pending. If not, click **Steam** in the top left and then click **Exit** .
@@ -66,12 +77,18 @@ Here’s how you can check if your game version is up-to-date:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Graphical glitches or other performance issues such as freezing and stuttering may be caused by an outdated or corrupted graphics driver. Therefore, if you can’t remember when was the last time you updated your drivers, definitely do it right now as it would fix your issue with no hassle.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by going to the manufacturer’s official website:
@@ -89,6 +106,9 @@ Here’s how you can check if your game version is up-to-date:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
@@ -102,6 +122,9 @@ Here’s how you can check if your game version is up-to-date:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ## 4\. Run your game as administrator
 
  Sometimes, programs might not function properly just because they lack the administrative rights. The same could apply to your Valheim. To check if that’s your case, you should run Valheim as an administrator:
@@ -116,6 +139,9 @@ Here’s how you can check if your game version is up-to-date:
 
  3) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/apply-okay.png)
 
  After applying the changes, launch Vaheim to see if this helps you get rid of stutters and freezes during the gameplay. If running as an administrator didn’t do the trick, try the next fix below.
@@ -136,10 +162,16 @@ Here’s how you can check if your game version is up-to-date:
 
  2) Type **taskmgr** , then press **Enter**  on your keyboard.  
   
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Valheim and select **End task** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  After you’ve done these, try to play Valheim to check if your game still stutters or freezes.

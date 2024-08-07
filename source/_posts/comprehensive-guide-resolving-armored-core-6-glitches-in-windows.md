@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Resolving Armored Core 6 Glitches in Windows"
-date: 2024-08-04 16:38:42
-updated: 2024-08-07 10:48:54
+date: 2024-08-06T09:41:31.803Z
+updated: 2024-08-07T09:41:31.803Z
 tags:
   - win11
   - win10
@@ -30,13 +30,22 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
  Make sure that the in-game volume isn’t disabled or too low. Then check your computer’s sound configuration and output settings. If everything is working properly, you can move to the next fix.
 
 1. Check the in-game volume by hitting the**Esc** button to open the**Setting** menu. Then select**Audio** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/settings.jpg)
 2. Confirm the volume sliders are not set to 0, then you can set it to your personal preference.
 3. Right-click on the sound icon in your taskbar.
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
@@ -47,6 +56,9 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 #### On Windows 10
 
 1. Press the**Windows logo key + I** together to open**Settings** , then click**Apps** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 2. Click**Apps and Features > Optional features > Add a feature** .
 3. Search or select**Media Feature Pack** in the list of available optional features.
@@ -61,6 +73,10 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 3. Select the**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the audio.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  Hardware problems can be caused by outdated or malfunctioning drivers. If the driver is outdated or wrong, it could cause problems like no sound and audio issues. So make sure your audio driver is up to date.
@@ -87,6 +103,9 @@ Then, reboot your PC and relaunch the game to check.
 1. On your desktop, right-click on Lost Ark and click**Properties** .
 2. Select the**Compatibility** tab.
 3. Check**Run This Program As An Administrator** and**Disable full-screen optimisations** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click the**Apply** \>**OK** button.
 5. Relaunch the game and check you have sound or not.
@@ -96,8 +115,14 @@ Then, reboot your PC and relaunch the game to check.
  Verify your game files would scan and repair the game files to make sure the game won’t crash or cause trouble. It’s a quick and easy fix when you encounter game issues.
 
 1. Launch Steam and find Lost Ark in your library. Right-click the game then click **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under **Local files** , click **Verify integrity of game files** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
 

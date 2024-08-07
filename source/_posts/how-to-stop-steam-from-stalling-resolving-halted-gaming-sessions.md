@@ -1,7 +1,7 @@
 ---
 title: How to Stop Steam From Stalling - Resolving Halted Gaming Sessions
-date: 2024-08-06 12:21:21
-updated: 2024-08-07 12:23:59
+date: 2024-08-06T09:40:59.244Z
+updated: 2024-08-07T09:40:59.244Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Civilization VI is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -45,6 +48,9 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Update your graphics card driver
 
  If device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the culprit for CIV 6 crashing, try updating your video card driver to the latest version.
@@ -75,6 +81,9 @@ OR
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-238.png)
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
@@ -89,6 +98,11 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ### Method 4: Use Medium or Low settings for your game
 
  Settings a high graphics effect for your game may crash your computer, so it’s always a go-to option to set the graphics options to Medium or Low.
@@ -123,6 +137,9 @@ Still no luck? Okay, there is one more thing to try.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 7: Reinstall CIV 6
 
  If your problem still persists after troubleshooting the methods above, try reinstalling your game.
@@ -133,6 +150,9 @@ Here’s what you need to do:
 
  2) Click**Library** \>**Games** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-241.png)
 
  3) Right click on**Civilization VI** and click**Properties** .
@@ -145,6 +165,10 @@ Here’s what you need to do:
 
  5) Click**Uninstall Game** , then follow the on-screen instructions to uninstall CIV 6.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-243.png)
 
  6) Open**File Explorer** that you just open via Steam, and ensure to delete all the files in that game folder.

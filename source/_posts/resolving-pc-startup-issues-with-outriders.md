@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Startup Issues with Outriders
-date: 2024-08-04 17:44:55
-updated: 2024-08-07 10:36:38
+date: 2024-08-06T09:41:16.222Z
+updated: 2024-08-07T09:41:16.222Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b0ea6d61080761dc873cfd8c694bea1246e45e087
 
 The Outriders “blurry visuals” issue has to do with the full game and hurt players’ gaming experience. Don’t worry, you’re not alone. This post helps you properly fix the issue of the blurry visual.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,6 +29,9 @@ The Outriders “blurry visuals” issue has to do with the full game and hurt p
 3. [Update your graphic driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Delete the settings folder](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Disable the FPS Limit and Vsync
 
  This easy fix has solved the blurry visuals for many players, we recommend you try this fix before other complicated ones.
@@ -38,12 +44,25 @@ The Outriders “blurry visuals” issue has to do with the full game and hurt p
 
 If it’s not working, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Fix 2: Run on DX11
 
  In some cases, DX12 doesn’t work well with Outriders and causes blurry visuals, stuttering or freezing. Switching Outriders to DX11 has been proved as one of the solutions for blurry visuals.
 
 1. Open Steam, go to LIBRARY. Right-click Outriders and click **Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 2. In **GENERAL**  tab, type**\-force -dx11** in the text field that under the **LAUNCH OPTIONS** section.![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)  
  This command line will allow you to run your game in DX11 mode.
@@ -71,6 +90,9 @@ If this fix brings no luck, the next one may help.
 
 If this fix not suit you, try the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Delete the settings folder
 
  This fix would reset the whole visual settings to solve the issue. You need to be aware the settings would be completely reset including your keybind settings. This fix works for many players so I recommend you to have a go.
@@ -79,8 +101,14 @@ If this fix not suit you, try the next one.
 2. Copy and paste**%LocalAppData%** into the search bar and press the Enter key to open the folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_17-43-56.jpg)
 3. Scroll down to find the**Madness** folder and delete it.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_17-46-38.jpg)
 4. Back to Steam, right-click on Outriders and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_17-50-40.jpg)
 5. In the**LOCAL FILES** tab, click**Verify integrity of game files…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)

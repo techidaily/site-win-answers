@@ -1,7 +1,7 @@
 ---
 title: Fixing Darkest Dungeon 2'S Constant PC Freezes & Crashes - Expert Tips
-date: 2024-08-06 11:28:51
-updated: 2024-08-07 12:12:23
+date: 2024-08-06T09:41:25.970Z
+updated: 2024-08-07T09:41:25.970Z
 tags:
   - win11
   - win10
@@ -36,6 +36,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  The main reason why Ghostrunner’s fatal error happens is tied to the GPU driver. If your game crashes, won’t launch, or gives you any kinds of errors, be sure to update your graphics card driver and other drivers.
@@ -58,10 +61,16 @@ OR
 
  Click the**Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
 4) Restart your PC for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Install Microsoft Visual C++ 2013
 
  Especially when you get error codes when starting your game, try installing Microsoft Visual C++ 2013 (both b84bit and 64bit), which proved to be working for many Ghostrunner gamers. Here’s how to do it:
@@ -78,6 +87,9 @@ OR
 
 4) Scroll down the page and download the x86.exe.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
@@ -94,10 +106,16 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.
@@ -106,6 +124,10 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
  Start your game again to see if this helps you get your game back to work.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
 ### Fix 5: Verify game files
 
  Many of the errors happen because of improper installation or corrupted game files. So please make sure you have all the correct game files.
@@ -114,6 +136,9 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
 2) You can find the Ghostrunner game there, right-click on the game and click on**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Ghostrunner.png)
 
  3) Select the**Local Files** tab, then click on**Verify Integrity of game files** .

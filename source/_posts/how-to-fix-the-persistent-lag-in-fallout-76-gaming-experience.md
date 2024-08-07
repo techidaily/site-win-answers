@@ -1,7 +1,7 @@
 ---
 title: How To Fix The Persistent Lag in Fallout 76 Gaming Experience
-date: 2024-08-05 14:27:43
-updated: 2024-08-07 12:58:43
+date: 2024-08-06T09:41:03.103Z
+updated: 2024-08-07T09:41:03.103Z
 tags:
   - win11
   - win10
@@ -40,10 +40,19 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 
 1. Go to **Library** .
 2. Right-click VRChat and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/VRChat-Properties.jpg)
 3. Select the **Installed Files** tab and click **Verify integrity of game files** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 3: Update your GPU drivers
 
  For game players, the GPU driver plays a significant role in improving your game performance and ensuring a wonderful gaming experience. If the graphics card driver is outdated or corrupt, you will bump into various game issues such as the game crashing or not launching, and in your particular case – VRChat crashing.
@@ -56,6 +65,9 @@ There are two ways for you to update your drivers:
 
  Option 2 – **[Automatically (Recommended](https://www.drivereasy.com/knowledge/fix-vrchat-crashing/#o2)**  ) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  Graphics card manufacturers like NVIDIA and AMD keep releasing new drivers to fix bugs and improve performance, so you can always get the latest driver on their official website.
@@ -63,10 +75,17 @@ There are two ways for you to update your drivers:
 * [NVIDIA Driver Downloads](https://www.nvidia.com/Download/index.aspx?lang=en-us)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-driver-1.jpg)
 * [AMD Driver Downloads](https://www.amd.com/en/support)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/AMD-driver-downloads-1.jpg)
 
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver. After that, don’t forget to restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically
 
  If you don’t have the time, patience, or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -90,6 +109,9 @@ There are two ways for you to update your drivers:
 
  VRChat crashing issue can also be caused by firewall blocking, so you need to allow your VRChat through Windows Firewall and any installed third-party antivirus applications.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Add your VRChat through the firewall
 
 1. On your keyboard, press the **Windows** key and the**R** key simultaneously to open the Run box.
@@ -99,9 +121,15 @@ There are two ways for you to update your drivers:
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **VRChat** is on the list.
 5. If not, click the **Change settings** button.  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**VRChat** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
@@ -126,6 +154,9 @@ There are two ways for you to update your drivers:
  VRChat official has provided an automatic method for users who are experiencing VRChat crashing or VRChat not launching issues. All you need is to run Command Prompt as administrator and run a few commands:
 
 1. On your Windows search bar, type **cmd** . Right-click Command Prompt from the results and select **Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)  
 
  You’ll be prompted for permission. Click **Yes** to open the Command Prompt.
@@ -144,6 +175,9 @@ There are two ways for you to update your drivers:
 
  You can also check its **[support article](https://help.vrchat.com/kb/article/17-i-crashedcant-launch-vrchatother-issues/)**  to learn how to do it manually if the command doesn’t work for you.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Create a VRChat account
 
  If the methods above failed to help, then you can try creating a new VRChat account then link your Steam/Oculus account with your VRChat account on[VRChat official website](https://www.vrchat.com/) .
@@ -154,6 +188,9 @@ To merge your Steam account with your VRChat account:
 2. Open your quick menu, then select**Settings** .
 3. Click**Upgrade Account** near the bottom of that menu, then follow the instructions on the screen to merge your accounts.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 7: Turn off SteamVR Beta
 
  SteamVR is the ultimate tool for experiencing VR content on the hardware of your choice. However, many users reported that SteamVR Beta has caused their VRChat to crash.
