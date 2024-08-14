@@ -1,0 +1,209 @@
+---
+title: Football Manager 2019 Stability Restored - No More Unexpected Game Closures
+date: 2024-08-13T12:19:56.909Z
+updated: 2024-08-14T12:19:56.909Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Football Manager 2019 Stability Restored - No More Unexpected Game Closures
+excerpt: This Article Describes Football Manager 2019 Stability Restored - No More Unexpected Game Closures
+thumbnail: https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb092918116ea6d8f331f8e83e6.jpg
+---
+
+## Diablo 2: Resurrected Game Stability Improved, No More Crashes
+
+![diablo 2 resurrected crashing pc](https://images.drivereasy.com/wp-content/uploads/2021/08/diablo-2-resurrected-featured-image-1200x675.jpg)
+
+ Got your Diablo 2 Resurrected but can’t play the game because it crashes with an unexpected error? You’re not alone. A lot of players who are facing the same issue have worked out some effective solutions. In this post, we’ll show you all the fixes you can try!
+
+## Try these fixes
+
+ Here are 6 methods that have helped other players solve Diablo 2 Resurrected crashing on PC. You may not try them all. Just work your way down the list until you find the one that does the trick.
+
+1. **[Check the Diablo 2 Resurrected minimum system requirement](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
+6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
+
+ If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
+
+| **Minimum**   | **Recommended**                   |                                       |
+| ------------- | --------------------------------- | ------------------------------------- |
+| **OS**        | Windows 10                        | Windows 10                            |
+| **Processor** | Intel Core i3-3250 AMD FX-4350    | Intel Core i5-9600k AMD Ryzen 5 2600  |
+| **Video**     | Nvidia GTX 660 AMD Radeon HD 7850 | Nvidia GTX 1060 AMD Radeon RX 5500 XT |
+| **Memory**    | 8 GB RAM                          | 16 GB RAM                             |
+
+ If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
+
+### Fix 2 – Stop overclocking
+
+ By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
+
+If this method doesn’t help, check out your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+### Fix 3 – Update your graphics driver
+
+ The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
+
+ You can search for the newest graphics driver that corresponds with your operating system from the GPU manufacturer’s website such as[AMD](https://www.amd.com/en/support) or[NVIDIA](https://www.nvidia.com/Download/index.aspx) , and then download and install it manually. But if you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4 – Run the game as an administrator
+
+ Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
+
+1. Go to the game’s installation folder.
+2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. Click**OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+### Fix 5 – Scan and repair corrupt game files
+
+ It’s possible that there are corrupted or missing game files stopping your Diablo 2 Resurrected from functioning correctly, which therefore triggers the crashes. To repair the corrupt files, follow the steps below:
+
+1. Open the Battle.net launcher and select**Diablo 2 Resurrected** from the top pane.
+2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+3. Click**Begin Scan** to process.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
+ Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5 – Turn off overlays
+
+ As many players reported, programs with an overlay like Discord or GeForce Experience can cause the Blizzard games to crash or get a black screen. To avoid an incompatibility issue like this, simply disable or uninstall it as follows:
+
+**On Discord**
+
+1. Run Discord and click the**cogwheel icon** at the bottom of the left pane.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
+2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
+
+**On GeForce Experience**
+
+1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+2. Toggle off**In-game overlay** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+ After all the overlay feature is disabled, your game should return to normal.
+
+---
+
+ So this is how you can solve the Diablo 2 Resurrected crashing easily and quickly. If you have any questions or suggestions, feel free to leave a comment below and we’ll get back to you soon.
+
+* [Blizzard](https://tools.techidaily.com/drivereasy/download/)
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-restoring-functionality-in-obs-capture-device/"><u>[New] 2024 Approved  Restoring Functionality in OBS Capture Device</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-avoiding-blur-on-instagram-with-smart-zooms-for-2024/"><u>[New] Avoiding Blur on Instagram with Smart Zooms for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-critical-channels-for-asmr-lovers-for-2024/"><u>[New] Critical Channels for ASMR Lovers for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-digital-directors-diary-an-in-depth-look-at-capturing-live-tv-on-windows-pc-for-2024/"><u>[New] Digital Director's Diary  An In-Depth Look at Capturing Live TV on Windows PC for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-pro-screen-recorder-battle-top-selections-unveiled/"><u>[Updated] 2024 Approved  Pro Screen Recorder Battle  Top Selections Unveiled</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-transform-your-vids-for-social-scenes-with-tunes-for-2024/"><u>[Updated] Transform Your Vids for Social Scenes With Tunes for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-misinterpretation-phenomena-recognizing-and-handling-digital-illusions/"><u>AI Misinterpretation Phenomena: Recognizing and Handling Digital Illusions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000054758-battlefield-2042-performance-optimized-no-more-fps-dips-or-hitches-on-your-computer/"><u>Battlefield 2042 Performance Optimized: No More FPS Dips or Hitches on Your Computer!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-chronic-black-screen-glitch-when-playing-fortnite-on-pcs-with-windows-os/"><u>Effective Solutions for the Chronic Black Screen Glitch When Playing Fortnite on PCs with Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-restore-lost-connections-with-escape-from-tarkov-servers/"><u>Effective Solutions to Restore Lost Connections with Escape From Tarkov Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-groovy-76-optimization-tips-eliminating-gameplay-hitches-and-hiccups/"><u>Fallout Groovy 76 Optimization Tips: Eliminating Gameplay Hitches and Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-why-doesnt-resident-evil-5-start-up-on-my-pc/"><u>Fixes and Solutions: Why Doesn't Resident Evil 5 Start Up on My PC?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixes-for-window-11-eliminating-bluetooth-sound-interruptions/"><u>Fixes for Window 11: Eliminating Bluetooth Sound Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-discord-stream-issues-how-to-stop-app-crashes-during-live-broadcasts/"><u>Fixing Discord Stream Issues: How to Stop App Crashes During Live Broadcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-crashing-problems-within-naraka-bladepoint-gaming-experience/"><u>Fixing the Crashing Problems Within Naraka: Bladepoint Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-frequent-outlook-crashes-and-boost-productivity/"><u>How to Fix Frequent Outlook Crashes and Boost Productivity</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-get-gratis-safe-vlc-media-player-on-mac-os-x-devices/"><u>How to Get Gratis, Safe VLC Media Player on Mac OS X Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-anthems-never-ending-launch-sequence-challenge/"><u>How to Overcome Anthem's Never-Ending Launch Sequence Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-war-thunder-game-crashes-with-proven-fixes/"><u>How to Prevent War Thunder Game Crashes with Proven Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-itel-p55-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Itel P55 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-apex-legends-leaf-glitch-of-202-cuisines-the-ultimate-hack/"><u>How to Resolve Apex Legends Leaf Glitch of 202 Cuisines- The Ultimate Hack</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-severe-developer-bugs-in-cods-modern-warfare-and-warzone/"><u>How to Resolve Severe Developer Bugs in CoD's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-video-game-from-freezing-or-crashing-on-windows-11-and-10-systems/"><u>How to Stop Your Video Game From Freezing or Crashing on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-play-in-grand-theft-auto-v-strategies-to-fix-persistent-freezing-and-jittering-issues/"><u>Improving Play in Grand Theft Auto V - Strategies to Fix Persistent Freezing and Jittering Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-amusing-tones-bestringeonsite-roundup/"><u>In 2024, Amusing Tones  Bestringeonsite Roundup</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-oppo-find-x7-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Oppo Find X7 Screen | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-tricks-for-speedy-vimeo-streams/"><u>In 2024, Tricks for Speedy Vimeo Streams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-in-gaming-solutions-for-recurrent-arcadegeddon-pc-breakdowns/"><u>Mastering Stability in Gaming: Solutions for Recurrent Arcadegeddon PC Breakdowns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-enhancing-frame-rate-performance-in-outriders-gaming-experience/"><u>Resolved: Enhancing Frame Rate Performance in Outrider's Gaming Experience</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/transforming-tweets-into-audio-based-archives/"><u>Transforming Tweets Into Audio-Based Archives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-issues-within-dying-light-game/"><u>Troubleshooting and Resolving Frame Rate Issues Within Dying Light Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-no-output-from-camera-on-your-snap-device/"><u>Troubleshooting: Fixing 'No Output From Camera' On Your Snap Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-discord-cpu-overuse/"><u>Ultimate Guide to Resolving Discord CPU Overuse</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wrc-10-successful-pc-installation-and-fix-for-fifas-official-fia-world-rally-championship-game/"><u>WRC 10: Successful PC Installation & Fix for FIFA's Official FIA World Rally Championship Game</u></a></li>
+</ul></div>

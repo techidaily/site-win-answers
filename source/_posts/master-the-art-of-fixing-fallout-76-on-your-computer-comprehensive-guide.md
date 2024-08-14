@@ -1,0 +1,219 @@
+---
+title: "Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide"
+date: 2024-08-13T12:15:46.459Z
+updated: 2024-08-14T12:15:46.459Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide"
+excerpt: "This Article Describes Master the Art of Fixing Fallout 76 on Your Computer: Comprehensive Guide"
+thumbnail: https://thmb.techidaily.com/acc116e7f31959c80ee46ff620abee605b240216ab77712435cda97b5c53cabd.jpg
+---
+
+## Mastering the Court and Your Computer: Solve NBA 2K21 PC Glitches Easily
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/2k21-feature-img.jpg)
+
+ The[new 2K](https://www.epicgames.com/store/en-US/p/nba-2k21?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=6b3b9698082c43cd9dcd7f68e3365e79) is finally here, but the fans don’t seem so happy about it. Except from the same old content, one disappointment is the crashing issue. If you’re experiencing crashes in 2K21 constantly, here’re some fixes for you to salvage your basketball dream.
+
+ But before you start troubleshooting the crashing issue,**make sure your specs meet the game requirement** . Though NBA 2K21 is by no means a graphically demanding title, your game is likely to crash if you’re using an old computer.
+
+#### Minimum system requirements for NBA 2K21
+
+| **OS** :       | Windows 7 64-bit / Windows 10 64-bit |
+| -------------- | ------------------------------------ |
+| **Processor:** | Intel Core i3-530 / AMD FX-4100      |
+| **Memory:**    | 4 GB RAM                             |
+| **Graphics:**  | NVIDIA GTS 450; ATI HD 7770          |
+| **DirectX** :  | Version 11                           |
+
+#### Recommended system requirements for NBA 2K21
+
+| **OS:**        | Windows 7 64-bit / Windows 10 64-bit |
+| -------------- | ------------------------------------ |
+| **Processor:** | Intel Core i5-4430 / AMD FX-8370     |
+| **Memory:**    | 8 GB RAM                             |
+| **Graphics:**  | NVIDIA GTX 770; ATI R9 270           |
+| **DirectX:**   | Version 11                           |
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Try these fixes
+
+1. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Close in-game overlay**](https://tools.techidaily.com/drivereasy/download/)
+5. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Verify the integrity of game files
+
+ At some point, 2K21 will crash if you have important game files missing or corrupted. To verify the integrity of your game files, simply follow these steps:
+
+1. Open your Steam client. Navigate to the**LIBRARY** tab. Right-click**NBA 2K21** and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles.jpg)
+2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+3. Launch NBA 2K21 and check if it crashes again.
+
+ If this method doesn’t give you any luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+### Fix 2: Install all Windows updates
+
+ Microsoft releases Windows updates from time to time. They usually**tackle stability issues** and sometimes offer a**performance boost** . Also, updating your system could**address software conflicts** , making it a potential fix to your 2K21 crashing issue.
+
+You can follow these steps to install all Windows updates:
+
+1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Select**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
+2. Click**Check for updates** . It’s going to take a while for Windows to search and install available updates. Once completed, restart your computer.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+ To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
+
+After updating your system, you can open NBA 2K21 and test your gameplay.
+
+If 2K21 crashes again, simply move on to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 3: Update your graphics driver
+
+ One of the most common causes of crashing is**a corrupted or outdated graphics driver** . So you should definitely try updating your graphics drivers before testing anything more complicated.
+
+ You can update manually if you like: You need to visit the manufacturer’s website ([NVIDIA](https://www.nvidia.com/Download/index.aspx) /[AMD](https://www.amd.com/en/support) ), search your graphics card and find the latest correct installer step by step. But if you don’t have the time, patience or computer skills to update your graphics driver manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for your exact GPU, and your Windows version, and it will download and install them correctly:
+
+1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
+3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Once you’ve updated your graphics driver, restart your computer and check if the crash with 2K21 has been fixed.
+
+ If this fix doesn’t solve your problem, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Close in-game overlay
+
+ Some players reported that 2K21 stopped crashing after they disabled some overlay features. So you can check if you’re using the**overlay** feature in**Steam** ,**Discord** or**NVIDIA GeForce Experience** . If you do, try turning off this feature and see if it fixes the crash.
+
+For example, you can use these steps to disable Steam overlay:
+
+1. Open your Steam client. On the top left corner, click**Steam** and select**Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
+2. Select**In-Game** from the left menu. Under the**Steam Overlay** section,**uncheck** these three boxes and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
+3. Launch NBA 2K21 and see if the issue persists.
+
+ If turning off in-game overlay doesn’t do the trick for you, simply move on to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5: Turn off VSync
+
+ In simpler terms, VSync, or Vertical Sync, refers to a graphics technology that synchronizes the game FPS to the refresh rate of your monitor. Though this feature fixes the screen tearing issue, there’re also reports that VSync might cause instability in games. You can therefore try**disabling VSync** as it might be the culprit of the crash.
+
+1. First you need to turn off VSync in your **graphics control panel** . To do so, right-click a blank area on desktop, then select**NVIDIA Control Panel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
+2. From the menu on the left, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text to the right of **Vertical sync** and select **off** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+3. Second, you need to disable VSync in NBA 2K21\. Launch 2K21 and go to FEATURES > VIDEO SETTINGS. Then set**Vertical Sync** to**off** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+4. Restart NBA 2K21 and check if your problem has gone.
+
+---
+
+ So these are the solutions to your NBA 2K21 crashing issue. Hopefully, one of the fixes above helped you fix the crash. If you have any questions or suggestions, feel free to drop a comment down below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-a-glimpse-at-the-best-curating-a-list-of-5-exceptional-book-tts/"><u>[New] 2024 Approved  A Glimpse at the Best  Curating a List of 5 Exceptional Book TTs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oost-viewers-interaction-via-youtube-cards/"><u>[New] Boost Viewers Interaction via YouTube Cards</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-charting-the-course-to-earnings-with-youtube-videos/"><u>[New] Charting the Course to Earnings with YouTube Videos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-captivating-music-reaction-videos-top-10-tips-for-2024/"><u>[New] How to Create Captivating Music Reaction Videos - Top 10 Tips for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-virtual-reality-therapy-breakthroughs/"><u>[New] In 2024, Virtual Reality Therapy Breakthroughs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-music-device-innovations-spotlighted/"><u>[New] Music Device Innovations Spotlighted</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>[New] Silent Scribes  Unveiling the Best Speech-to-Text Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-snap-in-hours-stars-quick-hit-video-winners-for-2024/"><u>[Updated] Snap-in-Hours Stars  Quick Hit Video Winners for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-rapid-remedies-for-latency-issues-and-improved-flow/"><u>Assassin's Creed Valhalla: Rapid Remedies for Latency Issues and Improved Flow</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-error-pitfalls-with-anydesk-on-windows-platforms/"><u>Avoiding Error Pitfalls with AnyDesk on Windows Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-phasmophobia-hurdle-get-past-that-frustrating-90-loader-screen/"><u>Beat the Phasmophobia Hurdle: Get Past That Frustrating 90%% Loader Screen!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bioshock-2-remastered-updated-fixes-and-enhanced-gameplay-performance/"><u>BioShock 2 Remastered: Updated Fixes and Enhanced Gameplay Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-chill-effective-fixes-for-cod-black-ops-cold-war-bug/"><u>Bypassing the Chill: Effective Fixes for CoD: Black Ops Cold War Bug</u></a></li>
+<li><a href="https://extra-information.techidaily.com/client-visionaries-shaping-brand-narratives-through-video/"><u>Client Visionaries  Shaping Brand Narratives Through Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragon-age-origins-crashing-woes-overcome-game-malfunctions-in-windows-10-easily/"><u>Dragon Age: Origins Crashing Woes? Overcome Game Malfunctions in Windows 10 Easily</u></a></li>
+<li><a href="https://fox-links.techidaily.com/easier-than-ever-simplified-hdr-photography-insights-for-2024/"><u>Easier Than Ever  Simplified HDR Photography Insights for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elden-ring-initial-boot-problem-solutions-for-clearing-the-darkness/"><u>Elden Ring Initial Boot Problem? Solutions for Clearing the Darkness</u></a></li>
+<li><a href="https://win-answers.techidaily.com/final-fantasy-xiv-pc-stability-enhancement-preventing-unexpected-shutdowns-and-crashes/"><u>Final Fantasy XIV PC Stability Enhancement: Preventing Unexpected Shutdowns and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/firefox-freezing-no-more-the-comprehensive-2024-guide-to-smooth-browsing/"><u>Firefox Freezing No More: The Comprehensive 2024 Guide to Smooth Browsing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-common-issues-why-minecraft-fails-to-install-on-windows-11/"><u>Fix Common Issues: Why Minecraft Fails to Install on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-error-code-0xc0000022-how-to-resolve-issues-with-adobe-software/"><u>Fixing Error Code 0xC0000022 - How to Resolve Issues with Adobe Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-errors-how-to-successfully-upgrade-your-minecraft-launcher/"><u>Fixing Errors: How to Successfully Upgrade Your Minecraft Launcher</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-unexpected-shutdown-of-call-of-duty-modern-warfare-3-app/"><u>Guide to Overcoming Unexpected Shutdown of Call of Duty Modern Warfare 3 App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-problems-when-your-logitech-c920-camera-fails-to-function/"><u>How to Resolve Problems When Your Logitech C920 Camera Fails to Function</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printer-offline-status-on-windows-117-solved/"><u>HP Printer Offline Status on Windows 11/7 [Solved]</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-nokia-c32-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Nokia C32 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-xcover-7-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy XCover 7 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-t2x-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo T2x 5GFRP Lock</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unlocking-full-potential-in-depth-review-of-lgs-monitor-tech/"><u>In 2024, Unlocking Full Potential  In-Depth Review of LG's Monitor Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-efficient-gameplay-cutting-down-high-cpu-usage-in-cyberpunk-2077/"><u>Mastering Efficient Gameplay: Cutting Down High CPU Usage in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k24-players-companion-overcoming-the-hurdle-of-error-code-727e66ac-with-pro-tips/"><u>NBA 2K24 Player's Companion: Overcoming the Hurdle of Error Code 727E66AC with Pro Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/new-horizons-with-windows-11-rebuild/"><u>New Horizons with Windows 11 Rebuild</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-geforce-gtx-1nvidias-gtx-1080-ti-unmatched-graphics-card-for-elite-gamers-and-streamers-alike/"><u>NVIDIA GeForce GTX 1nVidia's GTX 1080 Ti: Unmatched Graphics Card for Elite Gamers and Streamers Alike</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-fallout-4-performance-for-lightning-fast-loads/"><u>Optimizing Fallout 4 Performance for Lightning-Fast Loads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-a-disconnected-steam-social-circle/"><u>Overcoming the Challenge of a Disconnected Steam Social Circle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-far-cry-5s-perpetual-boot-loop-a-step-by-step-guide/"><u>Resolving Far Cry 5'S Perpetual Boot Loop - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-fortnite-error-step-by-step-guide-to-overcoming-the-unable-to-join-a-party-issue/"><u>Resolving Fortnite Error: Step-by-Step Guide to Overcoming the 'Unable to Join a Party' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-legal-hurdles-in-202n4-insights-on-managing-civil-action-number-sixs-exception-to-access-issues/"><u>Resolving Legal Hurdles in 202N4: Insights on Managing Civil Action Number Six's Exception to Access Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-entry-point-not-found-error-in-fortnite-a-step-by-step-guide/"><u>Resolving the 'Entry Point Not Found' Error in Fortnite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/strategies-for-addressing-consistent-dips-in-fps-performance/"><u>Strategies for Addressing Consistent Dips in FPS Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-strategies-for-overcoming-the-common-steam-error-code-130-issue/"><u>Successful Strategies for Overcoming the Common Steam Error Code 130 Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/taming-technical-glitches-a-guide-to-resolving-continuous-collapses-of-pcs-fuser-feature/"><u>Taming Technical Glitches: A Guide to Resolving Continuous Collapses of PC's Fuser Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-resolve-modern-warfare-3-mw3-startup-issues/"><u>Troubleshooting Steps: How to Resolve Modern Warfare 3 (MW3) Startup Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-launch-resident-evil-7-biohazard-in-202cd-top-tips-and-solutions/"><u>Unlock the Secrets to Launch Resident Evil 7 Biohazard in 202CD: Top Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unsilencing-the-wasteland-fixing-sound-problems-for-fallout-4-on-pc/"><u>Unsilencing the Wasteland: Fixing Sound Problems for Fallout 4 on PC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/updated-realtek-bluetooth-driver-for-windows-11-and-10-get-it-here-now/"><u>Updated Realtek Bluetooth Driver for Windows 11 and 10 - Get It Here Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-pc-stability-issues-ultimate-guide-to-resolving-game-crashes/"><u>Valorant PC Stability Issues - Ultimate Guide to Resolving Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-my-game-of-crusader-kings-ii-not-loading-and-how-to-fix-it/"><u>Why Is My Game of Crusader Kings II Not Loading and How to Fix It?</u></a></li>
+</ul></div>
