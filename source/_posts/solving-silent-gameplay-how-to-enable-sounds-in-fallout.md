@@ -1,0 +1,215 @@
+---
+title: "Solving Silent Gameplay: How to Enable Sounds in Fallout"
+date: 2024-08-19T02:04:41.182Z
+updated: 2024-08-20T02:04:41.182Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Solving Silent Gameplay: How to Enable Sounds in Fallout"
+excerpt: "This Article Describes Solving Silent Gameplay: How to Enable Sounds in Fallout"
+thumbnail: https://thmb.techidaily.com/4cc1197e18d9544b2124a65bfec1efb521b06ec232353dd58129a9184ba8b76a.jpg
+---
+
+## How to Quickly Solve the Persistent Engine Problem in Apex Legends
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-380.png)
+
+ Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
+
+### Fixes for Apex Legends Engine Error
+
+ Here are 4 fixes that have helped other users resolve the Apex Legends Engine error. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Update the graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Update the graphics driver
+
+ This Engine error may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
+
+ 3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
+
+ You can also click Update to do it for free if you like, but it’s partly manual.
+
+4) Restart your computer for the changes to take effect.
+
+5) Check to see if the Engine Error on Apex Legends has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
+
+---
+
+### Fix 2: Run Apex Legends as an administrator
+
+ This engine error may happen if the game does not have administrative privileges. So you should make sure to run Apex Legends as an administrator to see if it fixes the issue.
+
+Here is how to grant administrative privileges to Apex Legends:
+
+ 1) On your keyboard, press the Windows logo key and type Apex Legends. Once the game shows up as a result, right-click on**Apex Legends** and select **Open file location** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
+
+ 3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
+
+ 3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
+
+---
+
+### Fix 3: Verify game files
+
+ You should also check the integrity of the game files to see if any of them are corrupt or missing.
+
+Here is how to verify game files:
+
+ 1) Open Origin and click**My Game Library** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+ 2) Right-click on**Apex Legends** and click**Repair** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+3) Wait until the repair process finishes.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
+### Fix 4: Edit Registry
+
+ A missing command line from Registry may also lead to the engine error in Apex Legends. So you can add a command line to see if it solves the error.
+
+Here are the steps to add the command line:
+
+**Warning** : Editing registry incorrectly can incur system failures or even render the computer inoperable. So please proceed at your discretion.
+
+ 1) Right-click on**the empty area** on your desktop, and click**New** \>**Text Document** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
+
+2) Add the following command to the text document.
+
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers] "TdrDelay"=hex(b):08,00,00,00,00,00,00,00
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+ 3) Click**File** \>**Save as…**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
+
+ 4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
+
+ 5) Click**Yes** once you’re prompted about the message.
+
+ 6) Run Apex Legends again to see if the Engine error has been fixed.
+
+---
+
+ Hopefully you have successfully resolved the Engine error on Apex Legends by now. If you have any questions, ideas or suggestions, please let me know in the comments. Thanks for reading!
+
+* [Apex Legends](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-video-to-music-selecting-the-cheapest-online-converters/"><u>[New] 2024 Approved  From Video to Music  Selecting the Cheapest Online Converters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-cyclings-apex-titles-for-gamers/"><u>[New] Cycling's Apex Titles for Gamers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-beginners-pathway-to-leveraging-facebook-statistics/"><u>[New] In 2024, The Beginner's Pathway to Leveraging Facebook Statistics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-resident-evil-4-remake-crashing/"><u>[Solved] How to Fix Resident Evil 4 Remake Crashing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-reels-rhythm-mixing-in-musical-elements-for-2024/"><u>[Updated] Instagram Reels Rhythm  Mixing in Musical Elements for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-list-elite-quality-4k-displays/"><u>[Updated] TOP 10 List  Elite Quality 4K Displays</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-investigating-dji-raptor-vr-headset-effectiveness/"><u>2024 Approved  Investigating DJi Raptor VR Headset Effectiveness</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-making-your-favorite-tiktok-beats-your-personal-mobile-alarm-signal/"><u>2024 Approved  Making Your Favorite TikTok Beats Your Personal Mobile Alarm Signal</u></a></li>
+<li><a href="https://facebook.techidaily.com/5-ways-to-regain-sanity-by-unfollowing-not-undergoing/"><u>5 Ways to Regain Sanity by Unfollowing, Not Undergoing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-error-no-success-in-starting-modern-warfare-2/"><u>Addressing the Error: No Success in Starting Modern Warfare 2</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/blade-chroma-with-4k-camera-review/"><u>Blade Chroma with 4K Camera Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-gameplay-performance-in-warzone-with-these-simple-steps-to-enable-gpu-in-windows-groovy-10-systems/"><u>Boost Gameplay Performance in Warzone with These Simple Steps to Enable GPU in Windows Groovy 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-pc-instability-with-these-simple-fixes-for-rainbow-six-extraction-crashes/"><u>Conquer PC Instability with These Simple Fixes for Rainbow Six Extraction Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-sbepk-tn-tu-how-to-overcome-the-games-infamous-black-screen-problem/"><u>Cyberpunk ˈsɪbəˌpʌŋk Tɛn Tuː - How to Overcome the Game's Infamous Black Screen Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deathloop-freezes-no-more-optimizing-your-pc-setup-for-smooth-playback/"><u>Deathloop Freezes No More - Optimizing Your PC Setup for Smooth Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/directdraw-problem-solved-in-depth-guide-on-rectifying-graphics-errors-in-software-applications/"><u>DirectDraw Problem Solved? In-Depth Guide on Rectifying Graphics Errors in Software Applications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/diy-instagram-videos-simple-steps-to-success/"><u>DIY Instagram Videos  Simple Steps to Success</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-lags-and-stutter-in-dragons-dogma-ii-with-these-tweaks/"><u>Eliminate Lags and Stutter in Dragon's Dogma II with These Tweaks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-crash-problem-in-mount-and-blade-2-bannerlord-game/"><u>Fixing the Crash Problem in Mount & Blade 2: Bannerlord Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-discard-camera-up-and-running-a-step-by-step-guide-to-fix-connection-issues/"><u>Get Your Discard Camera Up & Running - A Step-by-Step Guide to Fix Connection Issues</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V29 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-f14-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy F14 5G PC | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-chuckle-chamber-fast-track-to-funny-memes/"><u>In 2024, Chuckle Chamber  Fast Track to Funny Memes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-7-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 7 without Apple ID?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/international-collaboration-is-crucial-for-biosecurity-policy-effectiveness-due-to-the-global-nature-of-health-risks/"><u>International Collaboration Is Crucial for Biosecurity Policy Effectiveness Due to the Global Nature of Health Risks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/north-korea-dprk/"><u>North Korea (DPRK)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-online-match-finding-hurdles-for-cod-warzone-players-using-pc-platform/"><u>Overcoming Online Match-Finding Hurdles for CoD: Warzone Players Using PC Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-swtor-startup-failures-a-comprehensive-guide/"><u>Overcoming SWTOR Startup Failures - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-fifa-21-launch-issues-cleared-game-now-functional/"><u>Overcoming the Hurdle: FIFA 21 Launch Issues Cleared - Game Now Functional</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-bliss-restored-stop-god-of-war-from-continuously-crashing-on-your-system/"><u>PC Gaming Bliss Restored: Stop God of War From Continuously Crashing on Your System</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-11-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Realme 11 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-red-dead-redemption-2-load-screen-issues-a-comprehensive-guide/"><u>Resolving Red Dead Redemption 2 Load Screen Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-nvidia-geforce-issue-understanding-error-code-0x0003/"><u>Resolving the Nvidia Geforce Issue: Understanding Error Code 0X0003</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-to-improve-slow-utorrent-download-performance-for-seamless-torrents/"><u>Solution Steps to Improve Slow uTorrent Download Performance for Seamless Torrents</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-cs-go-failure-to-start/"><u>Solving the Problem of CS: GO Failure to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-nox-player-from-crashing-effective-fixes-and-tips-for-a-smooth-gaming-experience/"><u>Stop Nox Player From Crashing: Effective Fixes and Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-steam-from-freezing-and-crashing-in-no-time/"><u>Stop Steam From Freezing and Crashing in No Time!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-for-smoothing-out-cyberpunk-2077s-performance-issues-fixing-lag-and-stutter/"><u>Tips for Smoothing Out Cyberpunk 2077'S Performance Issues: Fixing Lag and Stutter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-last-epoch-failures-on-windows-systems-top-fixes/"><u>Troubleshooting Last Epoch Failures on Windows Systems - Top Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-city-skylines-game-crashes-expert-advice/"><u>Ultimate Guide: Solving City Skylines Game Crashes - Expert Advice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-sfpr-levels-in-slow-motion-content/"><u>Ultimate SFPR Levels in Slow-Motion Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-this-years-most-engaging-storytelling-youtubers/"><u>Unveiling This Year's Most Engaging Storytelling YouTubers</u></a></li>
+</ul></div>

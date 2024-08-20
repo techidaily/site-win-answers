@@ -1,0 +1,182 @@
+---
+title: "Conquer Game Glitches: Optimizing Performance for Total War Saga: Troy on PC"
+date: 2024-08-19T02:12:09.762Z
+updated: 2024-08-20T02:12:09.762Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Conquer Game Glitches: Optimizing Performance for Total War Saga: Troy on PC"
+excerpt: "This Article Describes Conquer Game Glitches: Optimizing Performance for Total War Saga: Troy on PC"
+thumbnail: https://thmb.techidaily.com/988ac228735021a2a318d189208507463b5f10c1a98a89b26fe93dda14604b1a.jpg
+---
+
+## Optimizing Performance for R-Type Final 2 on PC: No More Crashes
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/R-Type-Final-2-keeps-crashing.jpg)
+
+**R-Type Final 2** is now available on PC. Although most players are already enjoying R-Type Final 2, some gamers are reporting that**R-Type Final 2 keeps crashing** on their PC. If you’re on the same boat, don’t worry. Whether it crashes on startup or crashes in the middle of the game, you’ll find a fix to solve this issue in the article.
+
+## Try these fixes
+
+ Here we’ve gathered the latest fixes that helped other gamers resolve the R-Type Final 2 crashing issue. You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
+
+## Fix 1: Verify the integrity of game files
+
+ If there is an integrity issue with the game files, R-Type Final 2 may keeps crashing. To fix the crashing issue triggerd by corrupted game files, you need to verify the integrity of game files.
+
+ Here I’ll take Steam as an example to show you how to verify and repair the game files. If you’re playing the game in Epic Games Launcher, the steps are similar.
+
+1. Launch**Steam** and go to your **LIBRARY** .**Right-click** on **R-Type Final 2** and select **Properties** .  
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files.  
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+ Launch the game after the verifying process finished to see if this fix works. If not, try the next fix, below.
+
+## Fix 2: Update your graphics driver
+
+ Graphics driver is essential to the functioning of video games. If R-Type Final 2 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+**Note** : You can do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
+4. Restart your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Launch R-Type Final 2 and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 3: Install the latest game patch
+
+ Granzella Inc., the creator of R-Type Final 2, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Run R-Type Final 2 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+## Fix 4: Disable Steam Overlay
+
+ The Steam Overylay feature is convinient. However, according to the feedback from some gamers, the Steam Overlay may interfere with R-Type Final 2.
+
+ If you’re using the Steam Overlay, just try disabling it for R-Type Final 2 to see if the game crashes again.
+
+1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on **R-Type Final 2** . Then select **Properties** .  
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+2. Uncheck**Enable Steam Overlay while in-game** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+ Restart R-Type Final 2 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+## Fix 5: Stop overclocking
+
+ By overclocking the CPU or turbo-boosting the graphics card, players would gain a better FPS. However, it increase the chance of game crashing issues.
+
+ You should reset the CPU or the graphics card to the manufacturer specifications if you’re experiencing game crashes after overclocking.
+
+ Run the game to see if it crashes after you stopped overclocking. If this fix still didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 6: Add the game as an exception to your 3rd party antivirus software
+
+ 3rd party antivirus software may block the game files, which would lead to the game crashing issues.
+
+ You can try adding both the game folder and Steam as an exception to your third-party antivirus application. If necessary, try temporarily disabling your 3rd party antivirus software before playing the game.
+
+ Launch R-Type Final 2 and see if it crashes after you added it as an exception to your antivirus software.
+
+ If none of the fixes above works, try reinstalling the game. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
+
+---
+
+ Hopefully, one of the fixes above helped you fix R-Type Final 2 crashing issue. If you have any questions or suggestions, feel free to leave us a comment below. Thanks for reading!
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-list-of-mac-screen-capture-tools/"><u>[New] In 2024, The Ultimate List of Mac Screen Capture Tools</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unlocking-youtube-live-potential-a-step-by-step-guide/"><u>[New] Unlocking YouTube Live Potential  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-essential-strategies-successful-webcam-and-gaming-recordings/"><u>[Updated] 2024 Approved  Essential Strategies  Successful Webcam & Gaming Recordings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-dividing-devices-top-cam-rating-review/"><u>[Updated] Dividing Devices  Top Cam Rating Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-exclusive-selection-of-the-top-4k-capture-apps-for-2024/"><u>[Updated] Exclusive Selection of the Top 4K Capture Apps for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-from-simple-images-to-creative-stickers-complete-tutorial-for-chat-app-enthusiasts-for-2024/"><u>[Updated] From Simple Images to Creative Stickers  Complete Tutorial for Chat App Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-top-grid-software-to-elevate-your-photography/"><u>[Updated] In 2024, Top Grid Software to Elevate Your Photography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-itel-p40plus-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Itel P40+ Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-boosting-joy-in-packet-opening-top-tips/"><u>2024 Approved  Boosting Joy in Packet Opening  Top Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bright-ideas-for-fixing-resident-evil-villages-computer-display-glitches/"><u>Bright Ideas for Fixing Resident Evil Village's Computer Display Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cutting-edge-fixes-for-dota-2-stutter-and-lag/"><u>Cutting Edge Fixes for Dota 2 Stutter and Lag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-pc-game-crash-in-assassins-creed-odyssey/"><u>Easy Fixes for PC Game Crash in Assassin's Creed: Odyssey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-dirt-5-from-crashing-on-your-windows-computer/"><u>Fixes and Solutions: How to Stop Dirt 5 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-msi-afterburners-failed-gpu-recognition-in-windows-11/"><u>Fixes for MSI Afterburner's Failed GPU Recognition in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-gta-5-online-up-and-running-fixes-for-common-errors/"><u>Get Your 'GTA 5 Online' Up and Running – Fixes for Common Errors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y100A? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-unstuck-from-qbittorrent-slowdowns-and-stalls-effective-solutions/"><u>How to Get Unstuck From qBittorrent Slowdowns and Stalls - Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-logitech-g-hub-malfunction-on-your-pc/"><u>How to Repair Logitech G Hub Malfunction on Your PC</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-a-personalized-approach-developing-an-individualistic-tiktok-keyword/"><u>In 2024, A Personalized Approach  Developing an Individualistic TikTok Keyword</u></a></li>
+<li><a href="https://win-answers.techidaily.com/key-factors-affecting-esp-performance-such-as-particle-size-distribution-electrical-properties-gas-flow-rates-temperature-and-humidity/"><u>Key Factors Affecting ESP Performance, Such as Particle Size Distribution, Electrical Properties, Gas Flow Rates, Temperature, and Humidity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-geforce-troubleshooting-demystifying-the-infamous-error-code-0x003-success-stories/"><u>Nvidia Geforce Troubleshooting: Demystifying the Infamous Error Code 0X00^3 Success Stories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-indivisible-stability-issues-expert-fixes-for-constant-application-failures/"><u>Overcome Indivisible Stability Issues: Expert Fixes for Constant Application Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-trouble-heres-the-solution-for-payday-2-not-starting-correctly/"><u>PC Trouble? Here's the Solution for Payday 2 Not Starting Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revive-roblox-on-your-pc-6-swift-solutions-for-crashing-problems-fresh-insights/"><u>Revive Roblox on Your PC: 6 Swift Solutions for Crashing Problems - Fresh Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-launching-woes-here-are-5-ways-to-resume-gameplay-swiftly/"><u>Roblox Launching Woes? Here Are 5 Ways to Resume Gameplay Swiftly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-console-crashes-the-ultimate-guide-to-resolve-call-of-duty-warzones-disc-read-error-versions-50-and-31-for-your-computer/"><u>Solving Console Crashes: The Ultimate Guide to Resolve Call of Duty: Warzone's Disc Read Error (Versions 5.0 and 3.1) for Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-launch-problems-with-simcity-skylines-2-edition/"><u>Solving Launch Problems with SimCity Skylines 2 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-silent-watchers-best-instagram-apps-for-2024/"><u>The Silent Watchers' Best Instagram Apps for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-moto-g-play-unpacking-its-powerful-battery-capacity-and-competent-system-speed/"><u>The Ultimate Guide to the Moto G Play: Unpacking Its Powerful Battery Capacity and Competent System Speed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-when-davinci-resolve-fails-to-launch-on-windows/"><u>Troubleshooting Guide: Fixing Issues When DaVinci Resolve Fails to Launch on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-cortana-when-it-stops-responding/"><u>Troubleshooting Tips: How To Fix Cortana When It Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-reducing-cs2-latency-and-ping-issues-on-your-gaming-pc/"><u>Ultimate Guide: Reducing CS2 Latency & Ping Issues on Your Gaming PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-limitations-of-zerogpt-in-detecting-ai/"><u>Unveiling Limitations of ZeroGPT in Detecting AI</u></a></li>
+</ul></div>

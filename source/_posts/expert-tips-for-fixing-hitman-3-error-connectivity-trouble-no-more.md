@@ -1,0 +1,214 @@
+---
+title: "Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More"
+date: 2024-08-19T02:04:24.668Z
+updated: 2024-08-20T02:04:24.668Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More"
+excerpt: "This Article Describes Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More"
+thumbnail: https://thmb.techidaily.com/8dc1e121faf37e853cf5b4a2c9e429100f4acf86a44ca231431cd5b1e8fdd239.jpg
+---
+
+## Troubleshooting Your Apex Legends Connections - Expert Fixes
+
+It’s annoying when you can’t connect to the EA server or receive the error message saying**Connection to server timed out** . Is Apex Legends down again? Or it’s something wrong with your PC? Don’t worry, you’re not the only one, the methods below would help you fix the connection issue.
+
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [Check the server status](https://tools.techidaily.com/drivereasy/download/)
+2. [Change DNS to Google](https://tools.techidaily.com/drivereasy/download/)
+3. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
+4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
+5. [Clear game cache](https://tools.techidaily.com/drivereasy/download/)
+
+### Method 1: Check the server status
+
+ The best way to check the server status is through the official channels. The[Apex Legends Twitter](https://twitter.com/PlayApex) account and the[EA Help](https://twitter.com/EAHelp?lang=en) account offer support for Apex Legends. Also, there’re third-party sites that keeping updating server status.
+
+ If the servers are showing as down, it could be for maintenance or other issues on their end.  
+**Tips** : Steam server maintenance happens every Tuesday around 7:30 EST.
+
+ When it’s a server issue, the solution is apparently just to wait. There’s nothing you can do, avoid server maintenance time and play the game another time would be the solution.
+
+**For Steam users** , if you still have this problem outside Steam’s maintenance period, try to eject all USB devices in the system and restart the game.  
+ If you don’t have USB devices on but still have this issue, try to insert one such as a flash driver, then eject it and restart the game.
+
+ If you’re a**Origin user** , use the Origin Launcher, it would help.
+
+If it’s not the server, please move to the next method.
+
+### Method 2: Change DNS to Google
+
+ Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
+ If you don’t know how to do it, this step-by-step guide will show you how to change it.
+
+| Provider | Primary DNS (IPv4) | Secondary DNS |
+| -------- | ------------------ | ------------- |
+| Google   | 8.8.8.8            | 8.8.4.4       |
+
+1. Type**Control Panel** on the search bar and click to open.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
+2. Set Control Panel**View by Category** , then click**Network and Internet** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
+3. Click**Network and Sharing Center >** **Change adapter settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
+4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
+6. Click Use the following DNS server addresses and enter the Google DNS server address.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
+7. Click**OK** to save the change.
+8. Reboot the game and check.
+
+### Method 3: Run as administrator
+
+Some players suggest Run as administrator could fix this issue.
+
+1. Right-click the Apex Legends shortcut icon and click**Properties** .
+2. Click the**Compatibility** tab and check**Run this program as administrator** .
+3. Click**Apply > OK** to save changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
+4. Reboot the game and check.
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+
+If this method doesn’t help, please move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 4: Update your drivers
+
+ Check your PC network adapter driver is also important. This driver would affect your internet connection when it’s outdated or broken. Updating the driver would simply fix this issue and improve your PC performance.
+
+ You can manually update these drivers by going to the manufacturer’s official websites, but there’s an easier way — use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to automatically update your drivers.
+
+**[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  will automatically recognize your system and find the correct drivers for your exact network adapter/ graphic card, and your Windows version, and it will download and install them correctly:
+
+1. ****[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+ If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+### Method 5: Clear game cache
+
+ Many players have reported their issues were solved after clearing the game cache. If you’re playing Apex Legends on PC with Origin or EA Desktop, follow the steps below to clear the cache.
+
+#### For Origin
+
+1. Exit Origin completely.
+2. Press the**Windows key** +**R** together to open the Run box.
+3. Type**%ProgramData%/Origin** and click**OK** .
+4. Delete all the files and folders inside it **except for LocalContent** . Do not delete this folder.
+5. Hold the **Windows key + R** again.
+6. Type **%AppData%** then click **OK** .
+7. In the Roaming folder that opens, delete the **Origin**  folder.
+8. Click on **AppData**  in the address bar.
+9. Open the **Local**  folder and delete the**Origin** folder in there.
+10. Restart your PC and launch Origin again.
+
+#### For EA Desktop
+
+1. Exit EA Desktop completely.
+1. Press the**Windows key** +**R** together to open the Run box.
+2. Type**%ProgramData%/Electronic Arts/EA Desktop** and click**OK** .
+3. Delete all the files and folders inside it.
+4. Open the Run box again.
+5. Type **%AppData%** then click **OK** .
+6. Click on **AppData**  in the address bar.
+7. Open the **Local**  folder.
+8. Delete the **EADesktop** and **EALauncher**  folder in there.
+9. Restart your PC and launch EA Desktop again.
+
+---
+
+ That’s it, hope it helps. If you have any questions or comments, you’re welcome to drop them below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-digital-classrooms-prime-ed-tutorials-online/"><u>[New] Digital Classrooms  Prime Ed Tutorials Online</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-photo-perfection-applying-stylish-borders/"><u>[New] In 2024, Instagram Photo Perfection  Applying Stylish Borders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-time-savers-screen-recording-on-instagrams-story/"><u>[New] Time Savers  Screen Recording on Instagram's Story</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/urning-hair-videos-into-income-streams/"><u>[New] Turning Hair Videos Into Income Streams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-2023s-ios-leading-psp-emulators-ranked-the-creme-de-la-creme/"><u>[Updated] 2024 Approved  2023'S iOS Leading PSP Emulators Ranked  The Crème De La Crème</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-how-to-use-phantom-slow-motion-camera/"><u>[Updated] How to Use Phantom Slow Motion Camera</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-tactical-video-takedown-a-guide-to-judging-ownership-and-opposition-for-2024/"><u>[Updated] Tactical Video Takedown  A Guide to Judging Ownership and Opposition for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-detailed-video-capture-using-videoleap-tools/"><u>2024 Approved  Detailed Video Capture Using Videoleap Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bright-ideas-for-fixing-resident-evil-villages-computer-display-glitches/"><u>Bright Ideas for Fixing Resident Evil Village's Computer Display Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cutting-edge-fixes-for-dota-2-stutter-and-lag/"><u>Cutting Edge Fixes for Dota 2 Stutter and Lag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-pc-game-crash-in-assassins-creed-odyssey/"><u>Easy Fixes for PC Game Crash in Assassin's Creed: Odyssey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gameplay-stability-and-performance-on-naraka-bladepoint/"><u>Enhancing Gameplay Stability and Performance on Naraka: Bladepoint</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-steps-for-elevating-wmm-content-on-vimeo-platform/"><u>Essential Steps for Elevating WMM Content on Vimeo Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-dirt-5-from-crashing-on-your-windows-computer/"><u>Fixes and Solutions: How to Stop Dirt 5 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-msi-afterburners-failed-gpu-recognition-in-windows-11/"><u>Fixes for MSI Afterburner's Failed GPU Recognition in Windows 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-moto-e13-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Moto E13 Face Lock?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/get-official-passport-photo-online-download-and-print-your-portraits-for-free/"><u>Get Official Passport Photo Online – Download & Print Your Portraits for FREE</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-gta-5-online-up-and-running-fixes-for-common-errors/"><u>Get Your 'GTA 5 Online' Up and Running – Fixes for Common Errors</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/gfxui-has-stopped-working-on-windows-solved/"><u>GfxUI Has Stopped Working on Windows [Solved]</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-honor-100-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Honor 100 Pro Phone | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-unstuck-from-qbittorrent-slowdowns-and-stalls-effective-solutions/"><u>How to Get Unstuck From qBittorrent Slowdowns and Stalls - Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-easy-anti-cheat-missing-when-starting-games-solutions-unveiled/"><u>How to Overcome 'Easy Anti-Cheat Missing' When Starting Games - Solutions Unveiled!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-logitech-g-hub-malfunction-on-your-pc/"><u>How to Repair Logitech G Hub Malfunction on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-fixes-to-accelerate-assassins-creed-valhalla-lag-problems/"><u>Immediate Fixes to Accelerate Assassin's Creed: Valhalla Lag Problems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-14-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-realme-c33-2023-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Realme C33 2023 Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tune-video-playback-pace-in-instagram-stories/"><u>In 2024, Fine-Tune Video Playback Pace in Instagram Stories</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-vr-to-shape-modern-business-practices/"><u>In 2024, Leveraging VR to Shape Modern Business Practices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-top-5-budget-friendly-camcorders-with-hd-quality/"><u>In 2024, Top 5 Budget-Friendly Camcorders with HD Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/key-factors-affecting-esp-performance-such-as-particle-size-distribution-electrical-properties-gas-flow-rates-temperature-and-humidity/"><u>Key Factors Affecting ESP Performance, Such as Particle Size Distribution, Electrical Properties, Gas Flow Rates, Temperature, and Humidity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-geforce-troubleshooting-demystifying-the-infamous-error-code-0x003-success-stories/"><u>Nvidia Geforce Troubleshooting: Demystifying the Infamous Error Code 0X00^3 Success Stories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-indivisible-stability-issues-expert-fixes-for-constant-application-failures/"><u>Overcome Indivisible Stability Issues: Expert Fixes for Constant Application Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-trouble-heres-the-solution-for-payday-2-not-starting-correctly/"><u>PC Trouble? Here's the Solution for Payday 2 Not Starting Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-dark-display-issue-on-discord-during-screen-share-sessions/"><u>Resolved: Fixing the Dark Display Issue on Discord During Screen Share Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revive-roblox-on-your-pc-6-swift-solutions-for-crashing-problems-fresh-insights/"><u>Revive Roblox on Your PC: 6 Swift Solutions for Crashing Problems - Fresh Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-launching-woes-here-are-5-ways-to-resume-gameplay-swiftly/"><u>Roblox Launching Woes? Here Are 5 Ways to Resume Gameplay Swiftly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-console-crashes-the-ultimate-guide-to-resolve-call-of-duty-warzones-disc-read-error-versions-50-and-31-for-your-computer/"><u>Solving Console Crashes: The Ultimate Guide to Resolve Call of Duty: Warzone's Disc Read Error (Versions 5.0 and 3.1) for Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-launch-problems-with-simcity-skylines-2-edition/"><u>Solving Launch Problems with SimCity Skylines 2 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stardew-valley-crash-woes-here-are-5-proven-strategies-to-stabilize-your-game-on-pc/"><u>Stardew Valley Crash Woes? Here Are 5 Proven Strategies to Stabilize Your Game on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-when-davinci-resolve-fails-to-launch-on-windows/"><u>Troubleshooting Guide: Fixing Issues When DaVinci Resolve Fails to Launch on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-cortana-when-it-stops-responding/"><u>Troubleshooting Tips: How To Fix Cortana When It Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-reducing-cs2-latency-and-ping-issues-on-your-gaming-pc/"><u>Ultimate Guide: Reducing CS2 Latency & Ping Issues on Your Gaming PC</u></a></li>
+<li><a href="https://driver-error.techidaily.com/w11-mastered-solving-common-elan-touchpad-errors/"><u>W11 Mastered: Solving Common Elan Touchpad Errors</u></a></li>
+</ul></div>

@@ -1,0 +1,240 @@
+---
+title: Resolving Codec Error 6034 on Modern Warfare - Tips for PS4, Xbox One, and PC
+date: 2024-08-19T02:12:26.765Z
+updated: 2024-08-20T02:12:26.765Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Resolving Codec Error 6034 on Modern Warfare - Tips for PS4, Xbox One, and PC
+excerpt: This Article Describes Resolving Codec Error 6034 on Modern Warfare - Tips for PS4, Xbox One, and PC
+thumbnail: https://thmb.techidaily.com/c56c87173dfda8b9c9894c8b4a0ea04c4e7b1abbd0c150ddc024f76a0e2e4518.jpg
+---
+
+## Overcome the Roblox Error 277 on Windows - Expert Tips for 2N24
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-11.png)
+
+ Error code 277 Lost connection to the game server in Roblox
+
+ Roblox is a fun game, but it’s not without problems: error code 277 is one of the most frequently seen problems, according to its many players. If you’re also seeing error code 277 in Roblox, indicating that you’ve lost connection to its server, don’t worry, you’re not alone. We have here some effective fixes that have helped many other gamers with the same error, and you should try them as well to see if they can fix the error code 277 in Roblox for you.
+
+## Try these fixes for the error code 277 in Roblox
+
+ You don’t have to try all the following fixes: simply work your way down the list until you find the one that does the trick to fix the error code 277 in Roblox for you.
+
+1. **[Check the Roblox server](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Revisit your network settings](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Delete Roblox logs](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Run Roblox as admin](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Try a different DNS server](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Repair corrupted or damaged system files](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+## 1\. Check the Roblox server
+
+ When you see error code 277 in Roblox, you should first check the game server status to make sure that this is not a problem on your end: more often than not, error code 277 is a problem with the game server, and there’s nothing more for you to do other than wait for the devs to get their server fixed.
+
+ To check Roblox’s server status, you can visit this page:[https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d](https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d)
+
+ If there’s indeed a problem with Roblox’s server, you’ll see a notification like this:
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-12.png)
+
+ If you’re seeing**All Systems Operational** , but you’re still getting error code 277 on your side in Roblox, please move on to other fixes, as it could be a problem with your network.
+
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-13.png)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
+## 2\. Revisit your network settings
+
+ If you’ve made sure that Roblox’s server is running just fine, but you’re still getting the error code 277 on your side, it’s probably an issue with your network settings.
+
+ There are some tweaks that you can do with your router to improve your network connectivity, and thus reduce the chance of getting error code 277 in Roblox. Check the following to see if you’ve done them all:
+
+* **Don’t use any VPN or proxy services** : this is by far the most mentioned reason why error code 277 is seen in Roblox.
+* **Reduce the number of devices connected to the same router** to ensure your main computer gets the most speed.
+* **Use a wired network connection** (with an Ethernet cable) instead of Wi-Fi. If this is not an option, move your computer closer to the router.
+* **Play on your local server** . If that’s not an option, choose one that is closest to you.
+* **Update your router firmware** if you haven’t already.
+* In your router settings, try to **enable QoS to prioritize gaming traffic** . If you’re not sure where to find it, please visit your router’s official website to find the manual or seek help from your ISP.
+* **Update the game** , if you haven’t already.
+
+ If none of the above helps, and you’re still seeing the error code 277 in Roblox, please move on.
+
+---
+
+## 3\. Delete Roblox logs
+
+ Many users reported that deleting the Roblox logs on their computers helps to fix the error 277 for them. To see if this also works for you:
+
+1. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste**%LocalAppData%/Roblox** and hit**Enter** .  
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-15.png)
+2. Press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all the log files here.
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste **%USERPROFILE%AppDataLocalLowRbxLogs** and hit**Enter** .  
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-16.png)
+4. Also, press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all files here.
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Then try to launch your Roblox again to see if the error code 277 remains. If the problem remains, please move on.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 4\. Run Roblox as admin
+
+ Lacking certain system permissions or privileges could also be the reason why Roblox has error code 277\. To see if this is your case:
+
+1. Right-click your **Roblox** **Player** icon and select **Properties** .  
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-17.png)
+2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
+![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-18.png)
+
+ Now open Roblox again (it should be opened with administrative permission), to see if error code 277 is st. If the problem remains, please move on to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 5\. Try a different DNS server
+
+ If you use your ISP’s (Internet Service Provider) default DNS server, you might encounter issues like a crowded cache, which could cause problems like error code 277 in Roblox. To see if this is an issue for you, you can first flush the DNS, and then switch to a public DNS server. To do so:
+
+1. Press the**Windows logo key** and**R** on your keyboard to invoke the Run box.
+2. Type**cmd** , then press**Shift** and**Enter** at the same time. If prompted for permission, click**Yes** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
+3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
+4. Your DNS cache is successfully cleared.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Then switch to a public DNS server, and we recommend the Google DNS server as it’s fast and secure. Here’s how you can change the DNS server:
+
+1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
+2. Click**Change adapter options** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
+3. Right-click**the network you’re using** , then click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
+4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
+5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+ **Preferred DNS server: 8.8.8.8**  
+ **Alternate DNS server: 8.8.4.4**  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+ Then see if the error code 277 is still seen in your Roblox. If the problem remains, please move on.
+
+---
+
+## 6\. Repair corrupted or damaged system files
+
+ If you are facing persistent issues and none of the previous solutions have proven effective, it’s possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that   **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
+
+ In situations where the SFC tool falls short, a more powerful and specialized Windows repair tool is recommended. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is an automated Windows repair tool that excels in identifying problematic files and replacing malfunctioning ones. By scanning your PC comprehensively, Fortect can provide a more comprehensive and effective solution for repairing your Windows system.
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
+2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+ The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
+
+ (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
+
+---
+
+ Thanks for reading the post. If you have other suggestions for the error code 277 in Roblox, please feel free to share. We’re all ears.
+
+* [game error](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>[New] 2024 Approved  Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-gloves-transforming-vr-playtime/"><u>[New] Leading Gloves Transforming VR Playtime</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-conquering-challenges-expert-gopro-tips/"><u>[Updated] 2024 Approved  Conquering Challenges  Expert GoPro Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-deep-dive-into-windows-pc-hdr-capabilities/"><u>[Updated] 2024 Approved  Deep Dive Into Windows PC HDR Capabilities</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/20-hit-tiktok-rhymes-you-cant-miss/"><u>20 Hit TikTok Rhymes You Can't Miss</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-palette-tweaks-by-professionals-for-2024/"><u>Advanced Palette Tweaks by Professionals for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002123272-battlefield-5-no-longer-crashes-after-these-simple-steps-fixed/"><u>Battlefield 5 No Longer Crashes After These Simple Steps - Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-leaf-hurdle-in-apex-legends-comprehensive-fixes-users/"><u>Beat the 'Leaf' Hurdle in Apex Legends – Comprehensive Fixes Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-expert-tips-to-reduce-high-ping-while-playing-street-fighter-6-on-pc/"><u>Beat the Lag! Expert Tips to Reduce High Ping While Playing Street Fighter 6 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-persistent-launch-hurdle-in-far-cry-5/"><u>Bypassing the Persistent Launch Hurdle in Far Cry 5</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/concealed-viewing-of-instagrams-private-content-on-devices/"><u>Concealed Viewing of Instagram's Private Content on Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-launch-failures-in-armored-core-vi-effective-solutions-for-gamers/"><u>Dealing with Launch Failures in Armored Core VI: Effective Solutions for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-your-new-world-server-connection-woes/"><u>Easy Fixes for Your New World Server Connection Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-remedies-to-stop-persistent-crashing-issues-with-pcs-thunder-tier-one-version/"><u>Effective Remedies to Stop Persistent Crashing Issues with PC's Thunder Tier One Version</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-gaming-expert-tips-to-overcome-low-fps-in-fallout-76-updated/"><u>Elevate Your Gaming: Expert Tips to Overcome Low FPS in Fallout 76 – Updated</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-overcoming-nba-2k21-pc-game-crash-issues/"><u>Fixes and Solutions: Overcoming NBA 2K21 PC Game Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-game-crashes-tackling-frame-rate-drops-and-stutters/"><u>How to Overcome Game Crashes: Tackling Frame Rate Drops & Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-fifa-22-from-crashing-during-playtime-on-pcs/"><u>How to Stop FIFA 22 From Crashing During Playtime on PCs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-easy-peasy-guide-to-crafting-and-tweaking-multiple-snaps-in-snapchat/"><u>In 2024, Easy-Peasy Guide to Crafting and Tweaking Multiple Snaps in Snapchat</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-camon-20-pro-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Camon 20 Pro 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-stay-ahead-in-the-metaverse-with-this-list-of-must-haves/"><u>In 2024, Stay Ahead in the Metaverse with This List of Must-Haves</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-hyper-v-in-windows-10-enable-and-install-instructions-for-tech-enthusiasts/"><u>Mastering Hyper-V in Windows 10: Enable & Install Instructions for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-gameplay-performance-for-codmw2-fixing-fps-issues-and-frame-rate-fluctuations/"><u>Optimizing Gameplay Performance for COD:MW2 – Fixing FPS Issues and Frame Rate Fluctuations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-offline-hurdles-restoring-access-to-origin-service/"><u>Overcoming Offline Hurdles: Restoring Access to Origin Service</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-cult-of-the-lamb-pc-freezing-issues-step-by-step-guide/"><u>Resolving Cult of The Lamb PC Freezing Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-helldivers-ii-collapsing-in-pc-effective-solutions/"><u>Resolving Issues with Helldivers II Collapsing in PC - Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stability-issues-in-rainbow-six-extraction-on-your-computer/"><u>Resolving Stability Issues in Rainbow Six Extraction on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-website-access-issues-in-google-chrome-tips-and-tricks/"><u>Resolving Website Access Issues in Google Chrome – Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamped-graphics-how-fixing-blurry-visuals-enhanced-the-gameplay-of-outriders/"><u>Revamped Graphics: How Fixing Blurry Visuals Enhanced the Gameplay of Outriders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-continuous-freezing-and-crashing-on-pc-of-total-war-black-hearts/"><u>Solution Steps for Continuous Freezing & Crashing on PC of TOTAL WAR: BLACK HEARTS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-tips-and-fixes-for-persistent-halo-3-crashes-on-pcs/"><u>Solved! Tips and Fixes for Persistent Halo 3 Crashes on PCs</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/strategies-for-smooth-running-hp-screens/"><u>Strategies for Smooth-Running HP Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-guide-to-understanding-the-destiny-2-veggie-collision-update-broccoli-crash-2024-version/"><u>The Complete Guide to Understanding the Destiny 2 Veggie Collision Update (Broccoli Crash) - 2024 Version</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-common-crash-problems-in-the-persona-nova-franchises-latest-release/"><u>Troubleshooting Common Crash Problems in the Persona Nova Franchise's Latest Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-common-issues-fixes-for-serious-sam-4-lag-and-freezing/"><u>Troubleshooting Common Issues: Fixes for Serious Sam 4 Lag and Freezing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-resolve-discord-not-responding-issues/"><u>Troubleshooting Steps: How to Resolve 'Discord Not Responding' Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-unstable-outlook-performance-and-crashes/"><u>Troubleshooting Techniques for Unstable Outlook Performance and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-delayed-launch-of-alan-wake-2/"><u>Troubleshooting the Delayed Launch of Alan Wake 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-jurassnack-world-evolution-crashes-step-by-step-solutions-revealed/"><u>Ultimate Fix for Jurassnack World Evolution Crashes: Step-by-Step Solutions Revealed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-the-finest-steam-deck-titles-of-2023/"><u>Ultimate Selection: The Finest Steam Deck Titles of 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-20-ping-optimization-top-techniques-and-advice-to-reduce-lag-as-of-2024/"><u>Warzone 2.0 Ping Optimization: Top Techniques and Advice to Reduce Lag as of 2024</u></a></li>
+</ul></div>

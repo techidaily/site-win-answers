@@ -1,0 +1,144 @@
+---
+title: Newly Fixed 'Broccoli Impact' Error in Destiny 2 [Update Guide, 2024]
+date: 2024-08-19T02:04:53.573Z
+updated: 2024-08-20T02:04:53.573Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Newly Fixed 'Broccoli Impact' Error in Destiny 2 [Update Guide, 2024]
+excerpt: This Article Describes Newly Fixed 'Broccoli Impact' Error in Destiny 2 [Update Guide, 2024]
+thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb64c488e57f8a46fc7ba58f0.jpg
+---
+
+## Update Error in Discord? Problem Solved with Latest Fix
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-812.png)
+
+ Recently there have been a lot of Discord users are having issues when updating their program. What they usually experience is they are stuck in the update process or the update totally failed.
+
+ If you’re also one of them, you’re no doubt very frustrated. But don’t worry. This issue is fixable. The following are the fixes you can try.
+
+## Try these fixes…
+
+ You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Run Discord as administrator](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Completely reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Run Discord as administrator
+
+ This is the first thing you should try when your Discord update has failed. To run discord as administrator, simply right click the Discord icon, then select**Run as administrator** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-802.png)
+
+ Now check to see if this fixed your Discord update issue. Hopefully it did, but if not there are still other fixes you can try.
+
+### Fix 2: Temporarily disable your antivirus
+
+ Your firewall or antivirus software can sometimes cause interference to your Discord update connection. To see if that’s the case for you, temporarily disable your firewall and see if the problem remains. (You may need to consult your firewall documentation for instructions on disabling it.)
+
+ If this resolves your problem, You can contact the vendor of your firewall and ask them for advice. Or you can install a different antivirus solution.
+
+**IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when you have disabled your firewall.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+### Fix 3: Completely reinstall Discord
+
+ If none of the fixes above worked for you, then you should completely reinstall your Discord program. Here is how to do it, completely:
+
+1. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
+2. Type “appwiz.cpl” and press**Enter** on your keyboard.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-806.png)
+3. Right click**Discord** and click**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-807.png)
+4. Follow the on-screen instructions to complete the uninstall process.
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. On your keyboard, press the**Windows logo key** and**R** on your keyboard at the same time to invoke the Run box.
+6. Type “%appdata%” and press**Enter** on your keyboard.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-808.png)
+7. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
+8. Type “%localappdata%” and press**Enter** on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-809.png)
+9. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
+10. Go to the **[Discord website](https://discordapp.com/)**  , then download the latest version of Discord.
+11. Run the downloaded file, then follow the on-screen instructions to install Discord.
+
+ Hopefully one of the fixes above worked for you. If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
+
+* [discord](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-understanding-the-rules-behind-sharing-online-content-on-social-media/"><u>[New] 2024 Approved  Understanding the Rules Behind Sharing Online Content on Social Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-fusing-live-streams-combining-cameras-plus-monitors/"><u>[Updated] 2024 Approved  Fusing Live Streams  Combining Cameras + Monitors</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-documenting-xbox-gaming-tips-and-tricks/"><u>[Updated] In 2024, Documenting Xbox Gaming  Tips & Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-unleash-your-creative-spirit-from-images-to-videos-using-pixiz/"><u>[Updated] In 2024, Unleash Your Creative Spirit  From Images to Videos Using Pixiz</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-quick-routines-for-disorganized-youtube-playlists/"><u>[Updated] Quick Routines for Disorganized YouTube Playlists</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/acclaimed-websites-for-google-pixel-tonal-sounds/"><u>Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-pc-stability-issues-heres-how-you-can-fix-them/"><u>Baldur's Gate 3 PC Stability Issues? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bust-the-quietness-in-evil-genius-2-troubleshooting-sound-problems/"><u>Bust the Quietness in Evil Genius 2 - Troubleshooting Sound Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/darkest-dungeon-2-stability-issues-fixes-for-continuous-crashes-on-pc/"><u>Darkest Dungeon 2 Stability Issues: Fixes for Continuous Crashes on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-logitech-momo-steering-wheel-game-drivers-pc-compatible/"><u>Download Logitech Momo Steering Wheel Game Drivers - PC Compatible</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-keep-your-nioh/"><u>How to Keep Your Nioh</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-your-obs-mic-issues-expert-tips-and-tricks/"><u>How To Repair Your OBS Mic Issues: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-bioshock-2-remaster-advanced-graphics-smoother-gameplay-and-fixed-bugs-for-an-immersive-adventure/"><u>Improved BioShock 2 Remaster - Advanced Graphics, Smoother Gameplay, and Fixed Bugs for an Immersive Adventure</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-orchestrating-peak-canon-temporal-scenes/"><u>In 2024, Orchestrating Peak Canon Temporal Scenes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/iphone-wont-pair-with-itunes-heres-what-you-need-to-know-about-windows-nx/"><u>IPhone Won't Pair with iTunes? Here's What You Need to Know About Windows nX</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-solution-overcoming-a-catastrophic-fatal-ark-error/"><u>Mastering the Solution: Overcoming a Catastrophic Fatal ARK Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-trouble-free-play-effective-tips-and-hacks-to-fix-persona-5-strikers-crashing-on-pc/"><u>Mastering Trouble-Free Play: Effective Tips and Hacks to Fix Persona 5 Strikers Crashing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-gamestream-overlay-problems-how-to-resolve-them/"><u>NVIDIA GameStream Overlay Problems – How to Resolve Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-slow-framerate-challenges-for-a-smoother-experience-in-outriders/"><u>Overcoming Slow Framerate Challenges for a Smoother Experience in Outriders</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/popularize-with-pizzazz-infuse-instagram-reels-with-tiktok-energy/"><u>Popularize with Pizzazz  Infuse Instagram Reels With TikTok Energy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rainbow-six-siege-lag-solutions-enhance-performance-and-play-smoother/"><u>Rainbow Six Siege Lag Solutions: Enhance Performance and Play Smoother</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-cod-warzone-dev-issue-code-6328-with-easy-tips-and-tricks/"><u>Resolve Cod: Warzone Dev Issue Code 6328 with Easy Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010171379-resolved-issues-with-launching-civilization-vi-on-windows-10-fixed/"><u>Resolved: Issues with Launching Civilization VI on Windows 10 – Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-gaming-experience-solving-assassins-creed-odyssey-pc-crashes/"><u>Seamless Gaming Experience: Solving Assassin's Creed Odyssey PC Crashes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/snap-and-save-life-on-mi-11-with-unmatched-screen-quality/"><u>Snap and Save Life on Mi 11 with Unmatched Screen Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-manor-lords-game-crash-issues-in-windows/"><u>Solving the Manor Lords Game Crash Issues in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-getting-your-crusader-kings-ii-up-and-running-again/"><u>Step-by-Step Solutions: Getting Your Crusader Kings II Up and Running Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-the-critical-error-in-ark-file-management-system-a-step-by-step-guide/"><u>Tackling the Critical Error in ARK File Management System - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-heroics-defeating-arises-crashing-foes-once-and-for-all/"><u>Troubleshooting Heroics: Defeating Arise's Crashing Foes Once and For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steady-frame-drops-and-errors-state-of-decay-grove-2-solutions/"><u>Troubleshooting Steady Frame Drops and Errors: State of Decay Grove 2 Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-seamless-playability-and-elevated-fps-in-the-ascent/"><u>Troubleshooting Techniques for Seamless Playability & Elevated FPS in 'The Ascent'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-atomic-heart-starts-with-errors-a-guide/"><u>Troubleshooting the 'Atomic Heart' Starts with Errors - A Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-work-smarter-not-harder-top-adobe-premiere-shortcuts-and-tricks/"><u>Updated 2024 Approved Work Smarter, Not Harder Top Adobe Premiere Shortcuts and Tricks</u></a></li>
+</ul></div>

@@ -1,0 +1,208 @@
+---
+title: "Troubleshooting Tips: Stop Starfield From Crashing on Your Computer"
+date: 2024-08-19T02:14:23.273Z
+updated: 2024-08-20T02:14:23.273Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Troubleshooting Tips: Stop Starfield From Crashing on Your Computer"
+excerpt: "This Article Describes Troubleshooting Tips: Stop Starfield From Crashing on Your Computer"
+thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594810dac12c910c9d9ffd0bfb.jpg
+---
+
+## Cracking the Code: Stop Dauntless From Crashing on Your Computer Now
+
+**Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
+
+## How to fix Dauntless Crash On PC
+
+ Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Underlock your GPU](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Verify game integrity
+
+ You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
+
+Here is how to verify the integrity of Dauntless:
+
+ 1) In Epic Game Launcher, click **Library** .
+
+ 2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
+
+ 3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
+
+---
+
+### Fix 2: Underlock your GPU
+
+ Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
+
+ If you ever overlocked you GPU and encounter the game crashing issue,  
+ you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### Fix 3: Update your graphics driver
+
+ This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+ 3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+ You can also do it for free if you like, but it’s partly manual.
+
+4) Restart your computer for the changes to take effect.
+
+5) Launch the game again to see if runs smoothly without the error. If yes, then great and enjoy the game! If Dauntless still crashes, please try**Fix 4** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4: Close the background programs
+
+ Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
+
+ Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Disable your antivirus program
+
+ Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
+
+ If the antivirus program is the cause of the problem, you can add Dauntless to the program’s list of exclusions to bypass the issue.
+
+ Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+ Dauntless still crashes? Don’t worry, you have one more fix to try.
+
+---
+
+### Fix 6: Run Dauntless on the dedicated graphics card
+
+ Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
+
+ Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
+
+ 1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
+
+ 2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+ 3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+ 4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
+
+ 5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+6) Launch Dauntless and check to see if the crashing issue is fixed.
+
+---
+
+ Hopefully the article has pointed you in the right direction in resolving the Dauntless crashing on PC issue. If you have any questions, ideas or suggestions, please let me know in the comments. Thanks for reading!
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-precision-in-screenshots-a-detailed-guide/"><u>[New] 2024 Approved  Precision in Screenshots  A Detailed Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-clearview-recorder-xtreme-win10/"><u>[Updated] 2024 Approved  ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets/"><u>[Updated] In 2024, Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-guide-to-youtube-video-splitting/"><u>[Updated] The Ultimate Guide to YouTube Video Splitting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram-for-2024/"><u>[Updated] Transform Your Footage  Effective Strategies for Cropping & Export on Instagram for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Without a Passcode</u></a></li>
+<li><a href="https://win-answers.techidaily.com/are-services-disrupted-on-xbox-live-discover-the-current-status-of-xbox-live-servers/"><u>Are Services Disrupted on Xbox Live? Discover the Current Status of Xbox Live Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-discord-connection-lag-a-step-by-step-guide-to-fixing-packet-loss/"><u>Conquer Discord Connection Lag: A Step-by-Step Guide to Fixing Packet Loss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crack-solved-how-to-release-your-steam-games-blocked-data/"><u>Crack Solved: How to Release Your Steam Game's Blocked Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-excessive-cpu-drain-in-god-of-war-gaming-sessions/"><u>Effective Fixes for Excessive CPU Drain in God of War Gaming Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-resolving-pc-gameplay-disruptions-in-wolcen-lords-of-mayhem/"><u>Effective Fixes for Resolving PC Gameplay Disruptions in Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-your-workflow-choosing-the-best-6-to-do-list-apps-on-windows-11/"><u>Elevate Your Workflow: Choosing the Best 6 To-Do List Apps on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/epic-games-age-of-empires-iv-installation-woes-solutions-and-tips-for-ms-users/"><u>Epic Games' Age of Empires IV Installation Woes: Solutions and Tips for MS Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-no-more-blank-screens-ultimate-fix-guide/"><u>Far Cry 6 No More Blank Screens: Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-frame-rate-and-freezing-solutions-to-red-dead-redemption-2-performance-problems/"><u>Fixing Frame Rate & Freezing: Solutions to Red Dead Redemption 2 Performance Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-subnautica-below-zero-from-failing-at-launch-on-your-desktop-computer/"><u>How to Stop Subnautica: Below Zero From Failing at Launch on Your Desktop Computer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-lullaby-vids-a-critical-look-at-bedtime-narrative-videos/"><u>In 2024, Lullaby Vids  A Critical Look at Bedtime Narrative Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-galaxy-s8-setting-new-standards-for-4k-video/"><u>In 2024, Samsung Galaxy S8  Setting New Standards for 4K Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005151497-master-the-art-of-fixing-super-person-errors-and-stabilize-your-pc-performance/"><u>Master the Art of Fixing ‘Super Person’ Errors & Stabilize Your PC Performance!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-quick-solution-to-your-battlefield-n5-wont-start-dilemma/"><u>Mastering the Quick Solution to Your Battlefield N5 Won't Start Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-stability-fixes-resolve-pc-performance-hiccups/"><u>Modern Warfare 2 Stability Fixes - Resolve PC Performance Hiccups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-on-your-mac-heres-how-you-can-resolve-this-common-issue/"><u>No Sound on Your Mac? Here's How You Can Resolve This Common Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-in-game-security-threat-warnings-a-comprehensive-guide/"><u>Overcoming 'In-Game Security Threat' Warnings: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-achieving-higher-fps-on-apex-legends-top-6-strategies-inside/"><u>Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-common-issues-with-winwordexe/"><u>Quick Solutions: Resolving Common Issues with Winword.exe</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-problems-experienced-when-attempting-to-start-star-wars-jedi-fallen-order/"><u>Resolved: Problems Experienced When Attempting to Start Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-dead-by-daylight-fixing-error-code-8014/"><u>Resolved: Troubleshooting Guide for 'Dead By Daylight' - Fixing Error Code 8014</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roller-champs-multiplayer-mastery-2024-pc-adventure-top-tactics-and-insider-secrets-revealed/"><u>Roller Champs Multiplayer Mastery: 2024 PC Adventure - Top Tactics and Insider Secrets Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-effective-methods-to-enhance-elden-rings-fps/"><u>Smooth Gaming Experience: Effective Methods to Enhance Elden Ring's FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-get-past-the-persistent-loading-screen-in-madden-22/"><u>Solution Found! Get Past the Persistent Loading Screen in Madden 22</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-diablo-immortal-troubles-no-more-pc-freezes/"><u>Solving Your Diablo Immortal Troubles – No More PC Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-developer-error-5573-in-call-of-duty-warzone-across-platforms/"><u>Step-by-Step Guide to Fixing 'Developer Error 5573' In Call of Duty Warzone Across Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-king-of-fighters-xv-from-crashing-effective-fixes-to-enjoy-the-fighting-game-on-your-pc/"><u>Stop 'King of Fighters XV' From Crashing: Effective Fixes to Enjoy the Fighting Game on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-to-prevent-robocop-rogue-city-from-crashing-during-gameplay-on-a-pc/"><u>Tips to Prevent 'Robocop: Rogue City' From Crashing During Gameplay on a PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-overcoming-the-challenge-of-non-opening-league-of-legends-updated-for-2n24/"><u>Top Strategies: Overcoming the Challenge of Non-Opening League of Legends - Updated for 2N24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-repair-a-failed-load-of-steamuidll-in-steam-platform/"><u>Troubleshooting Guide: How to Repair a Failed Load of 'steamui.dll' In Steam Platform</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-8-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 8? 5 Tips You Must Know</u></a></li>
+</ul></div>
