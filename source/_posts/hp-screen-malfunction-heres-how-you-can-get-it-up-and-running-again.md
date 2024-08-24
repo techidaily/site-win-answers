@@ -1,0 +1,128 @@
+---
+title: HP Screen Malfunction? Here's How You Can Get It Up and Running Again
+date: 2024-08-23T13:25:55.474Z
+updated: 2024-08-24T13:25:55.474Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes HP Screen Malfunction? Here's How You Can Get It Up and Running Again
+excerpt: This Article Describes HP Screen Malfunction? Here's How You Can Get It Up and Running Again
+thumbnail: https://thmb.techidaily.com/1f2923f64e4d04f1252f20b82bfb98586fbf55cfa582bc360a8483bf8c37d216.jpg
+---
+
+## How To Get Your HP Screen Up And Running Again – Solutions Inside
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890090b92ec.png)
+
+Are your getting the ‘**HP My Display has stopped working**‘ error on your Windows computer? This is very annoying. But there’s nothing scarier, you’re certainly not the only one. Luckily, we’ve found the answer for you.
+
+## Here’s how
+
+Step 1: **[Uninstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)** Step 2: **[Update your graphics card driver and HP monitor driver](https://tools.techidaily.com/drivereasy/download/)** Step 3: **[Reinstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)**
+
+### Firstly, uninstall HP My Display on your computer
+
+To do so:
+
+1. On your keyboard, hold down th**e Windows logo key** then press**R** to bring up the**Run** box.
+2. Type**control** and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b89010276b4b.png)
+3. Select**Programs and Features** when selected to**View by Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890184befeb.jpg)
+4. Right-click**HP My Display** to select**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8901cc8a421.jpg)
+5. Click **Yes**  when prompted by User Account Control.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Then, update your graphics card driver and HP monitor driver
+
+You can choose to update your device drivers through**Device Manager**to let Windows detect and install the updates automatically. But Microsoft can’t not always detect the update for your device drivers. Instead, you can **manually download the latest drivers from the manufacturer’s website**.**Alternatively**, if you don’t have the time, patience or computer skills to update your graphics card driver and monitor driver manually, you can do it **automatically with[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. See how:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b874f241989c.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the**Pro version** which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)**Note:** You can also do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890b1f40fe3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Last, download the latest version of HP My Display to install it on your computer
+
+1. Go to the[official HP website](https://support.hp.com/us-en/drivers/selfservice/swdetails/hp-value-24-inch-displays/7274745/model/10402860/swItemId/vc-161857-1) .
+2. Click**Download Now** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890786273c9.jpg)
+3. **Double-click** the downloaded file and follow the on-screen instructions to install HP My Display on your computer.
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+HP My Display should then be running without problem after the installation. Do you fix the HP My Display has stopped working error? Feel free to comment below with your own experiences.
+
+* [HP](https://tools.techidaily.com/drivereasy/download/)
+* [monitor](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-17-best-apps-to-remove-image-background/"><u>[New] 17 Best Apps to Remove Image Background</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-share-enjoy-in-2024/"><u>[New] Capture, Share, Enjoy, In 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-high-definition-horizons-the-intricacies-of-dell-p2715q-screening/"><u>[New] High-Definition Horizons  The Intricacies of Dell P2715Q Screening</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-inexpensive-pc-playback-solutions/"><u>[New] In 2024, Inexpensive PC Playback Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-maximizing-facebook-fame-8-premier-apps-for-like-boosting-for-2024/"><u>[New] Maximizing Facebook Fame  8 Premier Apps for Like Boosting for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-commercial-cloud-vaulting-services/"><u>[New] Premium Commercial Cloud Vaulting Services</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-video-potential-the-art-of-youtube-live-360-streaming/"><u>[New] Unlocking Video Potential  The Art of YouTube Live 360 Streaming</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-comedy-in-catchy-notes-best-parody-songs-list-for-2024/"><u>[Updated] Comedy in Catchy Notes  Best Parody Songs List for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-iphone-expertise-crafting-time-lapse-photos-for-2024/"><u>[Updated] IPhone Expertise  Crafting Time-Lapse Photos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bringing-out-the-best-advanced-color-correction-in-gopro/"><u>2024 Approved  Bringing Out the Best  Advanced Color Correction in GoPro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-zte-axon-40-lite-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From ZTE Axon 40 Lite to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-comprehensive-fix-for-when-chatgpt-fails-to-preserve-your-conversation-records/"><u>A Comprehensive Fix for When ChatGPT Fails to Preserve Your Conversation Records</u></a></li>
+<li><a href="https://article-files.techidaily.com/bright-ideas-for-android-video-mastery-for-2024/"><u>Bright Ideas for Android Video Mastery for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-shadows-overcome-mouse-troubles-in-resident-evil-village-with-these-proven-techniques/"><u>Conquer the Shadows: Overcome Mouse Troubles in Resident Evil Village with These Proven Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-darkness-top-7-fixes-for-steam-not-loading-or-blackout-problem/"><u>Defeat the Darkness: Top 7 Fixes for Steam Not Loading or Blackout Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-0x887a0006-dissected-your-blueprint-to-a-rapid-and-straightforward-repair/"><u>Error 0X887A0006 Dissected - Your Blueprint to a Rapid and Straightforward Repair!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-elimination-guide-how-to-successfully-address-the-tarkov-103003-glitch/"><u>Error Elimination Guide: How to Successfully Address the Tarkov 103003 Glitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985549742-expert-advice-on-how-to-fix-and-eliminate-puzzling-crashes-on-your-pc-top-6-tactics/"><u>Expert Advice on How to Fix and Eliminate Puzzling Crashes on Your PC – Top 6 Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-constant-system-errors-resolving-pc-issues-with-fuser/"><u>How to Fix Constant System Errors: Resolving PC Issues with Fuser</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-origin-application-failing-to-launch-in-windows-11/"><u>How to Fix the 'Origin' Application Failing to Launch in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-your-intel-graphics-drivers-working-again-on-windows-1011/"><u>How to Get Your Intel Graphics Drivers Working Again on Windows 10/11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-se-2020-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone SE (2020) SIM Lock?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-apex-legends-error-code-leaf-step-by-step-guide/"><u>How to Solve Apex Legends Error Code LEAF : Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Life360 from Tracking You On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keep-collapsing-comprehensive-solutions-and-fixes/"><u>How to Stop Remnant: From the Ashes From Keep Collapsing - Comprehensive Solutions & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-unresponsive-elden-ring-cooperative-gameplay/"><u>How to Troubleshoot Unresponsive Elden Ring Cooperative Gameplay</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-keeping-your-virtual-circle-true-not-tainted-by-tricks/"><u>In 2024, Keeping Your Virtual Circle True, Not Tainted by Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-highest-rated-pixel-soundtracks-online/"><u>In 2024, Navigating the Highest-Rated Pixel Soundtracks Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-review-experience-the-samsung-galaxy-budsplus/"><u>In-Depth Review: Experience the Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-online-play-no-more-server-disconnects-after-latest-update/"><u>MLB The Show 21 Online Play: No More Server Disconnects After Latest Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-persistent-ghostrunner-malfunction-when-playing-on-windows-10/"><u>Overcoming the Persistent Ghostrunner Malfunction When Playing on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-unexpected-shutdowns-in-the-ark-database-best-practices/"><u>Overcoming Unexpected Shutdowns in the ARK Database: Best Practices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-guide-to-fixing-stutter-and-lag-techniques-to-improve-in-game-fps/"><u>PC Gamers' Guide to Fixing Stutter and Lag: Techniques to Improve In-Game FPS</u></a></li>
+<li><a href="https://article-tips.techidaily.com/pushing-boundaries-exploring-iphone-xs-unique-lens-tech-for-2024/"><u>Pushing Boundaries  Exploring iPhone X's Unique Lens Tech for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984361776-re7s-sequel-plagued-by-black-pixels-heres-how-to-solve-the-re-village-visual-glitch/"><u>RE7's Sequel Plagued by Black Pixels? Here's How to Solve the RE Village Visual Glitch!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-failure-in-counter-strike-global-offensive/"><u>Resolving Microphone Failure in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-origin-service-restored-online-seamlessly/"><u>Troubleshooting Complete: Origin Service Restored Online Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-heartstone-game-crashes-on-windows/"><u>Troubleshooting Guide: Resolving HeartStone Game Crashes on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-call-of-duty-warzone-dev-error-6634/"><u>Troubleshooting Steps to Resolve Call of Duty: Warzone Dev Error 6634</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-20-troubleshooting-guide-for-pcs-fix-the-launch-issues-with-these-7-tips/"><u>Warzone 2.0 Troubleshooting Guide for PCs - Fix the Launch Issues with These 7 Tips</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/windows-10-mastery-guide-for-latest-features-for-2024/"><u>Windows 10 Mastery Guide for Latest Features for 2024</u></a></li>
+</ul></div>
