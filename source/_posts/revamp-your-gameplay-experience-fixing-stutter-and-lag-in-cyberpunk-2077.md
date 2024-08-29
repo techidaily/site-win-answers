@@ -1,0 +1,215 @@
+---
+title: "Revamp Your Gameplay Experience: Fixing Stutter and Lag in Cyberpunk 2077"
+date: 2024-08-28T00:04:57.861Z
+updated: 2024-08-29T00:04:57.861Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Revamp Your Gameplay Experience: Fixing Stutter and Lag in Cyberpunk 2077"
+excerpt: "This Article Describes Revamp Your Gameplay Experience: Fixing Stutter and Lag in Cyberpunk 2077"
+thumbnail: https://thmb.techidaily.com/8e945962e22da7cc13548b0273df3ba622849bedca30e5d0f04cb4a458929e39.jpg
+---
+
+## Expert Tips for Seamless Play: How to Fix Your Elden Ring's Lag and Stutter in Just 6 Steps
+
+As one of the most awaited games in 2022, Elden Ring is finally here. However many players are not that happy with their gameplay. Various types of performance issues and technical bugs have been reported since the release. If you’re also experiencing**insufferable Elden Ring FPS drops and constant stuttering** , don’t worry. In this post, we’ve put together all the simple and quick fixes for you.
+
+## Fixes to try
+
+ Here are 6 proven fixes for Elden Ring FPS drops and stuttering. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
+
+1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+2. [**Optimize graphics settings**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Verify integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Disable Steam overlay**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Disable Microsoft Device Association Root Enumerator**](https://tools.techidaily.com/drivereasy/download/)
+6. **[Adjust the NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1 – Update your graphics driver
+
+ A broken or outdated graphics driver can trigger a variety of gaming issues such as constant stuttering or massive FPS drops. If you’re playing AAA titles like Elden Ring with high system requirements, you should definitely update your graphics driver to gain the best in-game experience.
+
+To keep your graphics driver up-to-date, here are two options for you:
+
+**Option 1 – Manually** : Major GPU manufacturers release new drivers regularly. You can go to their websites such as **[AMD](https://www.amd.com/en/support)**  or **[NVIDIA](https://www.nvidia.com/download/index.aspx)**  , find the latest driver corresponding with your operating system, and download it manually.
+
+**Option 2 – Automatically** : If you don’t have the time, patience or computer skills to update your video and monitor drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact GPU, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
+3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2 – Optimize graphics settings
+
+ If you’re using a laptop or multi-GPU system, make sure the dedicated GPU is properly utilized. If not, you’ll see huge FPS drops and it’s better to tweak the settings for maximum performance
+
+1. In the Windows search box, type**graphics settings** and select**Graphics settings** from the result.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
+2. Click**Desktop app** from the drop-down list and click**Browse** .  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
+3. Go to the game’s installation folder and add the**eldenring.exe file** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+4. Once it’s added, click it and select**Options** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
+5. Select**High performance** and click**Save** .
+
+If this method doesn’t work, try the next solution.
+
+### Fix 3 – Verify integrity of game files
+
+ Missing or corrupted game files could also lead to annoying issues like Elden Ring FPS drops. Before moving on to the more advanced steps, you could check if there’s something wrong with your game files and repair it automatically in Steam. Here are the steps:
+
+1. Launch your Steam client and select the**Library** tab.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
+2. Right-click**Elden Ring** from the game list and click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
+3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
+
+ It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4 – Disable Steam overlay
+
+ The in-game overlay is another common cause of FPS-related issues. You could simply turn it off and see if this helps improve the performance.
+
+1. Open Steam and click**Library** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
+2. From the game list, right-click Elden Ring and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
+3. Untick**Enable the Steam Overlay while in-game** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
+
+Restart the game and test. Still no luck? Continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5 – Disable Microsoft Device Association Root Enumerator
+
+ Some players also reported that disabling Microsoft Device Association Root Enumerator resolves the stuttering dramatically. Disabling this device may stop some part of the device driver from installing, but your computer will work normally for the most part.
+
+1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**devmgmt.msc** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
+2. Double-click**Software devices** to open the category.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
+3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
+4. Click**Yes** to confirm.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
+### Fix 6 – Adjust the NVIDIA settings
+
+ If all the methods above don’t help and you’re using an NVIDIA graphics card, adjusting specific graphical settings may increase your FPS in Elden Ring.
+
+1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
+2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
+3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+ Apply the changes and see if you’re able to play the game as expected.
+
+---
+
+ So these are all the fixes for Elden Ring FPS drops and stutters. Hopefully they helped. If you have any questions or suggestions, please feel free to leave your comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-search-for-cool-photos-on-pexelscom/"><u>[New] 2024 Approved  How to Search for Cool Photos on Pexels.com?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capturing-the-moment-a-practical-guide-to-google-meetings-screen-recordings-for-2024/"><u>[New] Capturing the Moment  A Practical Guide to GooGle Meetings' Screen Recordings for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagrams-most-reliable-grid-creation-tools-countdown-to-top-ten/"><u>[New] In 2024, Instagram's Most Reliable Grid Creation Tools, Countdown to Top Ten</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-2023-streamline-post-tweeted-videos-to-whatsapp/"><u>[Updated] 2024 Approved  2023 Streamline  Post Tweeted Videos to WhatsApp</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-deep-dive-into-du-recorders-design-and-functionality-for-2024/"><u>[Updated] Deep Dive Into Du Recorder's Design and Functionality for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-unlock-mac-with-apple-watch-sierra/"><u>[Updated] In 2024, How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-maximizing-streaming-experience-with-two-screen-viewing-on-netflix-for-2024/"><u>[Updated] Maximizing Streaming Experience with Two-Screen Viewing on Netflix for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-anonymous-advantage-in-instagram-viewing-for-2024/"><u>[Updated] The Anonymous Advantage in Instagram Viewing for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-video-analytics-a-guide-to-youtube-statistics-with-social-blade/"><u>2024 Approved  Streamline Video Analytics  A Guide to YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-step-by-step-solution-correcting-crashes-in-armored-core-6-fires-of-rubicon-for-windows-pcs/"><u>A Step-by-Step Solution: Correcting Crashes in Armored Core 6: Fires of Rubicon for Windows PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/adjust-desktop-presence-embedding-this-pc-icons/"><u>Adjust Desktop Presence: Embedding 'This PC' Icons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-the-darkness-solving-minecrafts-persistent-screen-troubles/"><u>Banish the Darkness: Solving Minecraft's Persistent Screen Troubles</u></a></li>
+<li><a href="https://win11.techidaily.com/building-a-lifelayer-trashbin-on-the-windows-1011-environment/"><u>Building a Lifelayer Trashbin on the Windows 10/11 Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/distinguishing-chatgpt-in-commercial-settings/"><u>Distinguishing ChatGPT in Commercial Settings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elder-scrolls-online-update-fixes-previous-blackwood-server-delays/"><u>Elder Scrolls Online Update Fixes Previous Blackwood Server Delays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exclusive-insights-into-why-maf/"><u>Exclusive Insights Into Why Maf</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-how-to-overcome-gameplay-interruptions-caused-by-black-screens/"><u>Far Cry 6 - How to Overcome Gameplay Interruptions Caused by Black Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-master-shader-adjustments-for-star-wars-battlefront-ii/"><u>Fast Track: Master Shader Adjustments for Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-and-preventing-blackout-glitches-in-far-cry-6/"><u>Guide to Fixing and Preventing Blackout Glitches in Far Cry 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-3-connectivity-issues-resolved-fixing-the-connection-failed-error/"><u>Hitman 3 Connectivity Issues Resolved: Fixing the 'Connection Failed' Error</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-honor-x9b-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Honor X9b Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a18-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A18 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-x-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone X To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996875267-mastering-the-field-again-mlb-the-show-21-server-problems-solved/"><u>Mastering the Field Again: MLB The Show 21 Server Problems Solved.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-follow-the-steps-we-are-about-to-outline-and-you-will-have-no-issues-with-your-3gp-video-cutting-experience/"><u>New Follow the Steps We Are About to Outline and You Will Have No Issues with Your 3GP Video Cutting Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezing-solving-praey-for-the-gods-pc-game-crash-problems/"><u>No More Freezing! Solving Praey for the Gods PC Game Crash Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/on-the-go-driver-management-using-the-compact-driver-easy-application/"><u>On-the-Go Driver Management: Using the Compact Driver Easy Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-freezing-during-minecraft-play-expert-advice-for-a-smooth-experience/"><u>Overcome PC Freezing During Minecraft Play - Expert Advice for a Smooth Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-camera-unavailable-problem-with-easy-fixes-for-snap-users/"><u>Overcoming the Camera Unavailable Problem with Easy Fixes for Snap Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prevent-and-solve-your-pcs-counter-strike-2-game-crashing-woes-latest-tricks/"><u>Prevent and Solve Your PC's Counter-Strike 2 Game Crashing Woes - Latest Tricks</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-ensure-your-processor-matches-vanguards-minimum-requirements/"><u>Resolved: Ensure Your Processor Matches Vanguard's Minimum Requirements</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-comprehensive-guide-to-finding-a-stable-patch-for-the-ring-of-elysium-freeze/"><u>Solved: Comprehensive Guide to Finding a Stable Patch for the Ring of Elysium Freeze</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-challenge-of-stuck-discord-live-streams/"><u>Solved! Overcoming the Challenge of Stuck Discord Live Streams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-elite-list-of-online-marketplaces-for-surprise-gift-containers/"><u>The Elite List of Online Marketplaces for Surprise Gift Containers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-problems-steps-to-enhance-your-street-fighter-eb-experience/"><u>Troubleshooting Lag Problems - Steps to Enhance Your Street Fighter Eb Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-why-is-my-discord-camera-not-responding/"><u>Troubleshooting Tips: Why Is My Discord Camera Not Responding?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-stability-issues-and-crashes-with-castlevania-symphony-of-the-night-on-windows/"><u>Ultimate Fix: Stability Issues & Crashes with Castlevania: Symphony of the Night on Windows</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Effective Guide: Turning Off Promotional Content & Suggestions on Your Windows 11 PC"
-date: 2024-08-27 20:31:15
-updated: 2024-08-29 12:33:16
+date: 2024-08-27T23:54:02.177Z
+updated: 2024-08-28T23:54:02.177Z
 tags:
   - windows
 categories:
@@ -30,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  Have you recently upgraded to Windows 11 and been bothered by unwanted ads and suggestions? Despite Microsoft's claim that these ads improve the user experience, they can become overwhelming. Fortunately, you can easily disable them. Let's take a look at how you can do that.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Why Do You See So Many Ads in Windows 11?
 
  Microsoft is known to show advertisements in specific areas of its operating systems, like the Start menu, lock screen, File Explorer, or within certain apps. With Windows 11, the frequency of these ads has increased, aligning with the [addition of more personalized features](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) by Microsoft. But why does the company show these ads?
@@ -46,6 +49,9 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![Uninstalling a pinned app from the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-uninstalling-a-pinned-app-from-the-start-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Repeat these steps to remove all suggested apps in the Start menu that you don't plan to install or use.
 
  You may find some installed apps pinned here, so be sure not to uninstall them. The context menu of installed apps displays options such as app settings, uninstall, and more. This is how you can distinguish them from suggested ones.
@@ -58,10 +64,20 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
  In the Folder Options window, go to the "View" tab and uncheck the box beside "Show Sync Provider Notifications." After that, click "Apply" and then click "OK."
 
 ![Disabling the sync provider notifications in the Folder Options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-disabling-the-sync-provider-notifications-in-the-folder-options.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Tweak Diagnostic Data Settings
 
  To enhance the stability and performance of your computer, Microsoft collects diagnostic data about the issues you face and your interactions with the operating system. The company uses this information to fix the problems in upcoming Windows updates. This ensures your system operates securely and smoothly.
@@ -76,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![Disabling ads recommendations for tailored experiences in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-ads-recommendations-for-tailored-experiences-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Tweak Device Usage Permissions
 
  Microsoft allows you to specify how you intend to use your device, with use cases spanning business, entertainment, creativity, gaming, and more. Depending on your preferences, it tailors ads and recommendations to improve your overall experience. 
@@ -96,16 +115,28 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![Disabling Windows spotlight and lock screen recommendations in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-disabling-windows-spotlight-and-lock-screen-recommendations-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Remove Recommendations From Windows Search
 
  If you frequently use Windows Search to look for apps and files, you've likely encountered recommended games, recipes, popular videos, and more in the left sidebar of the Search menu. These content suggestions can be bothersome. To disable them, open the Settings app and navigate to Privacy and Security > Search Permissions.
 
 ![Opening the search permissions settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-opening-the-search-permissions-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Scroll down and uncheck the box below "Show Search Highlights." Then, close the Settings app to allow the changes to take effect, and the search box will now be clutter-free.
 
 ![Disabling the search highlights in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-disabling-the-search-highlights-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Disable General Windows Permissions
 
  Several default Windows permissions favor more advertising. Disable them to stop seeing ads you encounter from other apps and within the Settings app. To do so, open the Settings app and navigate to Privacy and Security > General.
@@ -134,3 +165,60 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/back-nblood-troubleshooting-the-persistent-pc-crash-issue-tips-and-fixes/"><u>'Back nBlood': Troubleshooting the Persistent PC Crash Issue - Tips and Fixes</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-top-20-cheerful-facebook-incarceration-gems-for-a-happy-mood-enhancement/"><u>[New] In 2024, Top 20 Cheerful Facebook Incarceration Gems for a Happy Mood Enhancement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-metaverse-metaphors-discovering-6-detailed-instances/"><u>[New] Metaverse Metaphors  Discovering 6 Detailed Instances</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-comprehensive-guide-to-using-chrome-pip-across-devices-for-2024/"><u>[Updated] A Comprehensive Guide to Using Chrome PIP Across Devices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[Updated] Beam Breakthroughs  Lighting Know-How for Video Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dynamic-design-tips-after-effects-best-1-written-on-type-for-2024/"><u>[Updated] Dynamic Design Tips  After Effects' Best 1 Written on Type for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-flash-photography-to-sustained-videography-your-pixiz-adventure/"><u>[Updated] From Flash Photography to Sustained Videography  Your Pixiz Adventure</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-mistake-reversed-quick-steps-for-a-stolen-tiktok-refresh/"><u>[Updated] In 2024, Mistake Reversed  Quick Steps for a Stolen TikTok Refresh</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-mac-to-snapchat-creating-compact-shareable-content-for-2024/"><u>[Updated] Mac to Snapchat  Creating Compact, Shareable Content for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-speed-change-audio-utilities-list/"><u>2024 Approved  Leading Speed-Change Audio Utilities List</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skilled-pilots-choice-selecting-top-5-pro-drones/"><u>2024 Approved  Skilled Pilots' Choice - Selecting Top 5 Pro Drones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/vjav/"><u>全効力！スマホでVJAV動画を見る上級テクニック - ダウンロード・保存がうまくいかない時の対策</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-self-shutting-windows-11-units/"><u>Addressing Self-Shutting Windows 11 Units</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-the-blackout-effective-remedies-for-mtg-arena-display-issues/"><u>Banishing the Blackout: Effective Remedies for MTG Arena Display Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chromatic-confluence-music-and-photography-online-for-2024/"><u>Chromatic Confluence  Music & Photography Online for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solution-for-boosting-speed-on-the-2amd-spotify-web-player/"><u>Comprehensive Solution for Boosting Speed on the 2Amd Spotify Web Player</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dark-souls-iii-crash-fixes-solutions-and-tips/"><u>Dark Souls III Crash Fixes: Solutions and Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-to-overcome-the-palworld-eos-login-error-step-by-step-guide/"><u>Easy Fixes to Overcome the Palworld EOS Login Error - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eight-powerful-workarounds-to-ensure-marvels-guardians-of-the-galaxy-runs-without-error-on-pc-systems/"><u>Eight Powerful Workarounds to Ensure Marvel's Guardians of the Galaxy Runs Without Error on PC Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-graphics-hiccups-in-activisions-battle-royale-game/"><u>Eliminating Graphics Hiccups in Activision's Battle Royale Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-steams-misbehavior-rapid-solutions-to-cease-game-interruptions/"><u>End Steam's Misbehavior: Rapid Solutions to Cease Game Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990700670-enhance-gameplay-in-gta-5-by-resolving-fps-drops-fast-and-efficiently/"><u>Enhance Gameplay in GTA 5 by Resolving FPS Drops Fast & Efficiently!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-playing-the-ultimate-guide-to-updating-gtx-nvidia-1660ti-gpu-drivers/"><u>Enhance Your Playing: The Ultimate Guide to Updating GTX Nvidia 1660Ti GPU Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/farewell-to-frames-dropping-deathloops-pc-version-finally-seamless-after-fixes/"><u>Farewell to Frames Dropping - Deathloop's PC Version Finally Seamless After Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-steam-game-crashes-and-startup-problems-in-windows-10-easily/"><u>Fix Your Steam Game Crashes and Startup Problems in Windows 10 Easily!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-x9b-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from X9b</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-overcome-launch-problems-with-tekken-8-on-your-computer/"><u>How To Successfully Overcome Launch Problems With Tekken 8 on Your Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-lava-agni-2-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Lava Agni 2 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-story-the-reasons-for-assassins-creed-valhallas-delayed-release-explained/"><u>Inside Story: The Reasons for Assassin's Creed Valhalla's Delayed Release Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/life-is-strange-resolving-the-true-colors-glitch-a-step-by-step-tutorial/"><u>Life Is Strange: Resolving the True Colors Glitch - A Step by Step Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mafia-ultimate-collection-release-delayed-resolution-inside/"><u>Mafia: Ultimate Collection Release Delayed - Resolution Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-stable-gaming-top-8-fixes-to-stop-hogwarts-legacy-crash-on-pc-startup/"><u>Master the Art of Stable Gaming: Top 8 Fixes to Stop Hogwarts Legacy Crash on PC Startup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-low-cpu-play-in-phasmophobia-a-step-by-step-guide/"><u>Mastering Low-CPU Play in Phasmophobia: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-pre-launch-fixing-division-2-errors-and-maximizing-performance-for-game-enthusiasts-advice/"><u>Mastering the Pre-Launch: Fixing Division 2 Errors and Maximizing Performance for Game Enthusiasts ( Advice)</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-mastering-color-in-final-cut-pro-a-step-by-step-guide/"><u>New Mastering Color in Final Cut Pro A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-freezes-solve-praey-for-the-gods-pc-stability-issues/"><u>No More Freezes! Solve Praey for the Gods PC Stability Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-playback-issues-a-guide-to-successfully-boot-red-dead-redemption-2/"><u>Overcoming Playback Issues – A Guide to Successfully Boot Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-fix-updated-fnaf-security-breach-eliminates-previous-errors-and-crashes/"><u>PC Gaming Fix - Updated FNAF Security Breach Eliminates Previous Errors & Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-playstation-game-errors-successful-startup-of-payday-2-on-pc/"><u>Resolving PlayStation Game Errors: Successful Startup of Payday 2 on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-the-realtek-pci-express-gbe-family-device-drivers-on-windows-7/"><u>Resolving the Realtek PCI Express GBE Family Device Drivers on Windows 7</u></a></li>
+<li><a href="https://os-tips.techidaily.com/retrieve-accidentally-removed-messages-in-itunes-with-these-proven-techniques/"><u>Retrieve Accidentally Removed Messages in iTunes with These Proven Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/saving-strategy-watching-taping-and-tweaking-sports-for-2024/"><u>Saving Strategy  Watching, Taping, and Tweaking Sports for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/social-networking-essentials-mastering-facebook-twitter-instagram-and-youtube/"><u>Social Networking Essentials: Mastering Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-video-game-stutter-essential-2024-guidance-for-pc-users/"><u>Solving Your Video Game Stutter: Essential 2024 Guidance for PC Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/tips-for-finding-genuine-chatgpt-utilities-within-the-iphones-marketplace/"><u>Tips for Finding Genuine ChatGPT Utilities Within the iPhone's Marketplace</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-motorola-moto-g34-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Motorola Moto G34 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-for-preventing-elex-ii-game-crashes-on-pc-solved/"><u>Top Tips for Preventing Elex II Game Crashes on PC – Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-directx-glitches-in-call-of-duty-moa-2/"><u>Troubleshooting and Fixing DirectX Glitches in Call of Duty MOA 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-football-manager-2021-pc-crashes-easy-fix-guide/"><u>Troubleshooting Football Manager 2021 PC Crashes: Easy Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-forza-horizon-4-on-windows-computers/"><u>Troubleshooting Guide: Resolving Continuous Crashes in Forza Horizon 4 on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-pc-issues-with-minecraft-dungeons-continuous-crashes/"><u>Troubleshooting Guide: Solving PC Issues with Minecraft Dungeons Continuous Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-enhancing-ark-survival-evolved-gameplay-with-pc-fps-boost/"><u>Ultimate Guide to Enhancing ARK Survival Evolved Gameplay with PC FPS Boost</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wow-no-more-permanent-solution-for-screen-flickering-problems/"><u>Wow No More: Permanent Solution for Screen Flickering Problems</u></a></li>
+</ul></div>

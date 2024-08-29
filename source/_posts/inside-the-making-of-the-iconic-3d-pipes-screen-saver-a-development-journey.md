@@ -1,7 +1,7 @@
 ---
 title: "Inside the Making of the Iconic 3D Pipes Screen Saver: A Development Journey"
-date: 2024-08-26 11:45:23
-updated: 2024-08-29 12:44:21
+date: 2024-08-27T23:55:09.426Z
+updated: 2024-08-28T23:55:09.426Z
 tags:
   - windows
 categories:
@@ -39,3 +39,50 @@ Windows used to include a screensaver called “3D Pipes,” which drew overlapp
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-first-step-into-furnishings-simplest-mc-houses-unveiled/"><u>[New] First Step Into Furnishings  Simplest MC Houses Unveiled</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-modify-comment-accessibility-on-youtube/"><u>[New] In 2024, Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-innovative-recording-solutions-for-igadgets-for-2024/"><u>[New] Innovative Recording Solutions for iGadgets for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>[New] Mac Video Excellence  The Crème De La Liste for Sierra Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-speedy-fixes-for-slow-mo-videos-in-a-flash/"><u>[Updated] Speedy Fixes for Slow-Mo Videos in a Flash</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-boosting-your-voices-impact-free-user-friendly-changes-available/"><u>2024 Approved  Boosting Your Voice's Impact – Free, User-Friendly Changes Available</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-easy-ways-to-transfer-contacts-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Easy Ways to Transfer Contacts from Apple iPhone 6 to Android | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-practices-to-prevent-and-fix-zoom-from-crashing-on-windows-pcs-windows-11-and-10-in-202n4/"><u>Best Practices to Prevent and Fix Zoom From Crashing on Windows PCs (Windows 11 & 10) in 202N4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-adobe-premiere-crashes-on-windows-11-and-10-systems/"><u>Effective Solutions for Preventing Adobe Premiere Crashes on Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-by-improving-splitgates-stutter-and-resolving-lag-issues/"><u>Enhance Your Gaming by Improving Splitgate’s Stutter and Resolving Lag Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guidelines-overcoming-error-code-6-challenges-for-call-of-duty-warzonemodern-warfare-on-desktops/"><u>Expert Guidelines: Overcoming Error Code 6 Challenges for Call of Duty Warzone/Modern Warfare on Desktops</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-hp-deskjet-ink-advantage-3050a-printer-software-upgrade-and-installation-guide-for-windows/"><u>Free HP Deskjet Ink Advantage 3050A Printer Software Upgrade and Installation Guide for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997419516-guilty-gear-strive-trouble-heres-how-to-stop-pc-game-crashes-in-5-easy-steps/"><u>Guilty Gear Strive Trouble? Here's How to Stop PC Game Crashes in 5 Easy Steps</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007065050-how-to-stop-frostpunk-crashes-expert-tips-and-solutions-inside/"><u>How To Stop Frostpunk Crashes: Expert Tips and Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immortals-of-fenyx-rising-crash-woes-heres-how-to-keep-your-game-running-smoothly/"><u>Immortals of Fenyx Rising Crash Woes? Here's How to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-meizu-21-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/insight-into-ai-its-uses-and-dangers-revealed/"><u>Insight Into AI: Its Uses and Dangers Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-decreasing-latency-a-detailed-guide-to-fixing-bless-unleasheds-bandwidth-problems-and-lowering-your-ping-time/"><u>Master the Art of Decreasing Latency: A Detailed Guide to Fixing Bless Unleashed's Bandwidth Problems and Lowering Your Ping Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-technique-of-dealing-with-mir4-crashes-on-desktop-computers/"><u>Master the Technique of Dealing with MIR4 Crashes on Desktop Computers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mythos-mazes-decades-best-adventure-games/"><u>Mythos Mazes  Decade’s Best Adventure Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-world-fixed-version-with-enhanced-stability-no-more-freezing-issues/"><u>New World - Fixed Version with Enhanced Stability: No More Freezing Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-code-4-spotify-error-on-w10w11-systems/"><u>Overcoming the Code 4 Spotify Error on W10/W11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-and-solutions-getting-farming-simulator-groove-back-when-it-wont-start/"><u>Quick Fixes & Solutions: Getting Farming Simulator Groove Back when It Won't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-bluestacks-instability-quickly-with-these-5-tips/"><u>Resolve BlueStacks Instability Quickly With These 5 Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-code-red-fixing-the-error-in-call-of-duty-modern-warfare-3-app-crash/"><u>Resolved: Code Red - Fixing the Error in Call of Duty Modern Warfare 3 App Crash</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-fixing-disconnection-issues-from-blizzard-game-servers/"><u>Solution Found: Fixing Disconnection Issues From Blizzard Game Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-ultimate-guide-on-fixing-phoenix-point-game-crashes/"><u>Solved: Ultimate Guide on Fixing Phoenix Point Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-frame-rate-drops-in-age-of-empires-iv-a-step-by-step-guide/"><u>Solving Frame Rate Drops in Age of Empires IV: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-reducing-high-cpu-demands-on-your-god-of-war-gaming-experience/"><u>Step-by-Step Guide: Reducing High CPU Demands on Your God of War Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-navigating-facebooks-advanced-image-search-features/"><u>Step-by-Step Tutorial: Navigating Facebook's Advanced Image Search Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-alan-wake-2-release-problems-a-comprehensive-guide/"><u>Troubleshooting Alan Wake 2 Release Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-intel-realsense-services-on-microsofts-latest-os/"><u>Troubleshooting Failed Intel Realsense Services on Microsoft's Latest OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-cult-of-the-lamb-pc-crashes/"><u>Troubleshooting Steps: Resolving Cult of the Lamb PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-when-outlook-refuses-to-start-up/"><u>Troubleshooting Tips for When Outlook Refuses to Start Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-starfield-from-crashing-or-hanging-in-your-pc/"><u>Troubleshooting Tips: Stop Starfield From Crashing or Hanging in Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/world-of-warcraft-performance-boost-top-fixes-for-lagging-frame-rates/"><u>World of Warcraft Performance Boost: Top Fixes for Lagging Frame Rates</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->

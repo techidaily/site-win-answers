@@ -1,7 +1,7 @@
 ---
 title: How Does Microsoft Office Vary Across Windows and Mac Operating Systems?
-date: 2024-08-26 14:30:15
-updated: 2024-08-29 12:48:54
+date: 2024-08-27T23:56:18.135Z
+updated: 2024-08-28T23:56:18.135Z
 tags:
   - excel
 categories:
@@ -48,6 +48,9 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  So what about the core Office apps that are available on the Mac? While there are a number of very small features missing (stuff that affects very few people), most of the features you find in the Windows versions are present in the macOS versions. Here are the main things you'll miss out on, though.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Suite-Wide
 
  There are a couple of fairly big features that, while not missing entirely from the Office suite for Mac, are not quite up to their Windows counterparts:
@@ -57,10 +60,16 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  There are, of course, some other missing suite-wide features, but they really pertain to installations that are part of a company network. For example, roaming (the ability to use Office on different computers and have your configuration follow you) is not available for macOS. However, if your system is part of a company network, these things have likely been thought out in advance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Word
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_2.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
  Key features of Word that are missing from the macOS version include:
 
 * **Open and Repair:** While the Mac version of Word can attempt to[automatically repair a corrupted document](https://instagram-video-files.techidaily.com/new-engagement-mastery-how-to-craft-instagrams-best-puzzles/), it doesn't have the specific Open and Repair command featured in the Windows version. This makes it harder to recover files that Word might not recognize as Word documents.
@@ -91,6 +100,9 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_5.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
  Most of the Outlook features missing from the Mac version have to do with advanced features you see when connected to an Exchange server. These include things like access to public calendars, distribution lists, retention and compliance features, receipt tracking, and various social features like voting buttons.
 
  There are also a few other missing features worth noting:
@@ -101,10 +113,25 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  That isn't a lot of missing features (unless you're part of an Exchange-based organization), but how important they are depends on you. And, as we mentioned before, the newest update to Office 2016 for macOS now brings support for Google Calendar and Contacts---a pretty big missing feature for lots of people.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  OneNote
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_6.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
  The basic functionality of OneNote is present in both the Windows and Mac versions (and, in the mobile versions, for that matter), but there are still a few differences:
 
 * **Extensible:** The Windows version is extensible, providing an API that allows for add-ins and some advanced features. The Mac version does not include this extensibility.
@@ -132,3 +159,53 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-livestream-quality-decision-opt-for-streamlabs-or-obs/"><u>[New] 2024 Approved  Livestream Quality Decision  Opt for Streamlabs or OBS?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-evaluating-video-performance-vlc-versus-mx/"><u>[New] Evaluating Video Performance  VLC Versus MX</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-harnessing-windows-11-for-high-impact-visually-striking-videos/"><u>[New] In 2024, Harnessing Windows 11 for High-Impact, Visually Striking Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-instagrams-complex-world-of-data-a-beginner-to-pro-guide-for-2024/"><u>[New] Unraveling Instagram's Complex World of Data  A Beginner to Pro Guide for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-visual-perfection-with-obs-studio-and-its-comprehensive-lut-support-for-2024/"><u>[New] Visual Perfection with OBS Studio and Its Comprehensive LUT Support for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-brief-cinematic-chronicle/"><u>[Updated] Brief Cinematic Chronicle</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-free-screen-capture-tools/"><u>[Updated] Exploring Free Screen Capture Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pros-picks-premium-10-windows-11-webcam-recorders/"><u>[Updated] In 2024, Pro's Picks  Premium 10 Windows 11 Webcam Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-transform-personal-experiences-through-direct-webcam-capture-using-vlc/"><u>[Updated] In 2024, Transform Personal Experiences Through Direct Webcam Capture Using VLC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-snap-the-truth-your-manual-to-authenticity-on-instagram-for-2024/"><u>[Updated] Snap the Truth  Your Manual to Authenticity on Instagram for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamline-your-content-twitter-video-integration-for-2024/"><u>[Updated] Streamline Your Content  Twitter Video Integration for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-standing-out-in-a-crowd-the-finest-thumbnail-font-options/"><u>2024 Approved  Standing Out in a Crowd  The Finest Thumbnail Font Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-cod-vanguard-lag-and-freezes-effective-fixes-for-gaming-rig/"><u>Banish CoD Vanguard Lag & Freezes: Effective Fixes for Gaming Rig</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-game-crashes-corrective-measures-for-disc-read-errors-in-cod-warzone-versions-50-and-3nepoch-with-ease/"><u>Banish Game Crashes - Corrective Measures for Disc Read Errors in COD Warzone Versions 5.0 and 3.n_epoch with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-void-how-to-tackle-elden-rings-daunting-start-up-screen-trouble/"><u>Conquer the Void: How to Tackle Elden Ring's Daunting Start-Up Screen Trouble</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dayz-performance-boost-quick-fix-for-low-frames-per-second/"><u>DayZ Performance Boost: Quick Fix for Low Frames per Second!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013199964-destiny-2-pc-version-fixed-now-running-smoothly/"><u>Destiny 2 PC Version Fixed - Now Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-erratic-visuals-a-players-guide-to-fixing-errgfxstate-on-red-dead-redemption-2/"><u>Eliminating Erratic Visuals: A Player's Guide to Fixing ERR_GFX_STATE on Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensure-a-seamless-experience-fixes-for-launching-stardew-valley-successfully/"><u>Ensure a Seamless Experience: Fixes for Launching Stardew Valley Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-implemented-successfully-getting-sea-of-thieves-running-smoothly/"><u>Fixes Implemented: Successfully Getting Sea of Thieves Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-stop-halo-infinite-from-crashing-on-your-pc/"><u>Fixing Issues: How To Stop Halo Infinite From Crashing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-microsoft-edge-unresponsiveness-and-frequent-clashes-in-windows-11/"><u>Fixing Microsoft Edge Unresponsiveness & Frequent Clashes in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003987060-fortnite-login-issues-resolve-them-fast-and-effortlessly/"><u>Fortnite Login Issues? Resolve Them Fast and Effortlessly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/from-darkness-to-detail-overcoming-black-screens-in-fallout-4-gaming/"><u>From Darkness to Detail: Overcoming Black Screens in Fallout 4 Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-into-the-game-overcoming-pc-compatibility-problems-with-fifa-19-issues-resolved/"><u>Get Back Into the Game: Overcoming PC Compatibility Problems with FIFA 19 [Issues Resolved]</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-mdm-on-iphone-11-pro-with-ease-via-third-tools-by-drfone-ios-unlock-ios-unlock/"><u>How to Bypass MDM on iPhone 11 Pro with Ease Via third Tools?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-motorola-moto-g-stylus-5g-2023-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Motorola Moto G Stylus 5G (2023) to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-cyberpunk-2077-from-freezing-on-your-system/"><u>How To Prevent Cyberpunk 2077 From Freezing on Your System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-madden-nfl-22-persistent-loading-screen-issue/"><u>How to Resolve Madden NFL 22 Persistent Loading Screen Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-unfreeze-your-chrome-window-in-windows-10-a-step-by-step-guide/"><u>How to Unfreeze Your Chrome Window in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-itunes-masterclass-maximizing-video-outputs/"><u>In 2024, ITunes Masterclass  Maximizing Video Outputs</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-mastering-google-meet-setup-and-scheduling-guide/"><u>In 2024, Mastering Google Meet  Setup and Scheduling Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-effective-fixes-for-football-manager-2019-runtime-errors/"><u>Mastering Stability: Effective Fixes for Football Manager 2019 Runtime Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-connectivity-problems-with-rockstar-services-on-your-desktop-computer/"><u>Overcoming Connectivity Problems with Rockstar Services on Your Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-destiny-2s-beyond-light-crashing-issues-now-solved/"><u>PC Gamers Rejoice: Destiny 2'S Beyond Light Crashing Issues Now Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-correct-the-easy-anti-cheat-not-installed-error-on-your-pc/"><u>Quick Guide: Correct the Easy Anti-Cheat Not Installed Error on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-scavengers-crashing-on-your-pc/"><u>Resolved: How To Fix Scavengers Crashing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-compatibility-issues-with-call-of-duty-modern-warfare-updates/"><u>Resolving Compatibility Issues with Call of Duty: Modern Warfare Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-compatibility-problems-with-metro-exodus/"><u>Resolving PC Compatibility Problems with Metro Exodus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-technical-difficulties-during-helldivers-2-playthroughs-on-pc/"><u>Resolving Technical Difficulties During Helldivers 2 Playthroughs on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-mass-effect-legendary-edition-not-launching-correctly/"><u>Solving the Issue of Mass Effect Legendary Edition Not Launching Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-tarkov-error-code-103003/"><u>Troubleshooting Guide: Resolving Tarkov Error Code 103003</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-anticheat-failed-to-connect-errors-in-escape-from-tarkov/"><u>Troubleshooting Steps for 'Anticheat Failed to Connect' Errors in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-phasmophobia-glitches-and-bugs/"><u>Ultimate Guide: Solving Phasmophobia Glitches & Bugs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-for-battlenet-connectivity-problems/"><u>Ultimate Troubleshooting for Battle.net Connectivity Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-the-impact-of-facebook-giving-full-control-to-oculus-go-users/"><u>Unraveling the Impact of Facebook Giving Full Control to Oculus Go Users</u></a></li>
+</ul></div>

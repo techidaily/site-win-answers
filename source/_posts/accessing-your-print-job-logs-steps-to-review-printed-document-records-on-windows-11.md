@@ -1,7 +1,7 @@
 ---
 title: "Accessing Your Print Job Logs: Steps to Review Printed Document Records on Windows 11"
-date: 2024-08-28 19:38:20
-updated: 2024-08-29 10:29:27
+date: 2024-08-27T23:53:51.233Z
+updated: 2024-08-28T23:53:51.233Z
 tags:
   - windows
 categories:
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
 ![Access your Windows printer settings by right-clicking your Start Menu button, clicking Settings, then Devices &gt; Printers &amp; Scanners](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Printer-Settings-Menu.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Find your printer in the "Printers & Scanners" list, click on it, and then click "Open Queue" to open the print queue.
 
 ![Click on your printer and click Open Queue to open the printer queue](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Printer-Settings-Queue-Button.png) 
@@ -49,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
 ![Click the advanced tab in your printer settings and enable the keep printed documents checkbox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Printer-Enable-History.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once your document history is enabled, your documents will no longer disappear from your print queue after the printing process has completed.
 
 ##  Enable Printer History Logging for Recently Printed Documents on Windows 11
@@ -67,6 +73,9 @@ Close
 
  Whenever you want to review your print history, all you need to do is open to Settings > Bluetooth & Devices > Printers & Scanners, select your Printer, then click "Open Print Queue." 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Enable Long-Term Print History in Event Viewer.
 
  The print queue will provide a short-term overview of your previously printed documents. If you want to view a long-term list, you'll need to use the Windows Event Viewer.
@@ -75,6 +84,10 @@ Close
 
 ![Open the Event Viewer through the Power User Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/open-event-viewer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
  The Event Viewer will allow you to view a list of previously printed files, but you'll need to set Windows to begin logging your long-term printer history first. In the Windows Event Viewer, click Applications and Services Logs > Microsoft > Windows in the "Event Viewer (Local)" menu on the left.
 
 ![In Event Viewer, click Applications and Services Logs &gt; Microsoft &gt; Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/print-services-event-viewer-1.png) 
@@ -85,6 +98,9 @@ Close
 
 ![properties](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/properties.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click to enable the "Enable Logging" checkbox and then set a maximum size for the log. The larger the size, the longer Windows will record your printed document history.
 
  Click the "Apply" button to save the setting.
@@ -93,22 +109,34 @@ Close
 
  Windows will now automatically save the printer history for all of your installed printers to a log file that you can access within Event Viewer.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  View Print History in Event Viewer
 
  Once your printer history is enabled, you can access it at any time from the Event Viewer. To do so, find and open the "PrintService" category and then click on the "Operational" log.
 
 ![In Event Viewer, click 'PrintService', then click Operational](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/operational.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
  A history of all Windows printer events will be listed, from initial printer spooling to completed or failed prints.
 
  Under the "Task Category" section, items listed as "Printing a Document" are documents that have been successfully printed. Failed prints will also appear in this category.
 
 ![The PrintService Operational log will list your printed document history](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Event-Viewer-Printed-History.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To make it easier to sort, you can group your print log by categories, making it easy to separate the "Printing a Document" events into their own section. To do so, right-click the "Task Category" heading and then click the "Group Events by This Column" button.
 
 ![In the Event Viewer logs list, right-click Task Category, then click Group Events by This Category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Event-Viewer-Group-List-by-Categories.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Your items will now be separated by category.
 
  You can minimize the other categories, leaving the "Printing a Document" category to display only a list of your previously printed documents.
@@ -123,12 +151,18 @@ Close
 
 ![An example of a print log within the PaperCut Print Logger admin page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/PaperCut-Admin-Log.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
  The admin page can be accessed from the default PaperCut Print Logger directory.
 
  On Windows 10, this is usually `C:\Program Files (x86)\PaperCut Print Logger` . Double-click the "ViewLogs" shortcut to open the admin panel, where a list of your printed documents will be available, separated by date.
 
 ![In the PaperCut installation directory, double-click the ViewLogs shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/PaperCut-Directory.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you've opened the PaperCut Print Logger admin page, under the "View" category, click the "HTML" button to access your print history for that date within the panel.
 
  You can also click the "CSV/Excel" button under the "Date (Day)" or "Date (Month)" categories to export your daily or monthly print history as a Microsoft Excel XLS file.
@@ -151,3 +185,45 @@ Close
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-rank-the-best-fb-video-downloaders-heres-how-for-2024/"><u>[New] Rank the Best FB Video Downloaders - Here's How for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010468510-solved-outriders-wont-start-on-pc-2022/"><u>[SOLVED] Outriders Won’t Start on PC 2022</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-camcraze-evaluation-excellence-beyond-one-brand/"><u>[Updated] 2024 Approved  CamCraze Evaluation  Excellence Beyond One Brand</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-mastering-the-art-of-play-navigating-switch-pro-and-steam-games-for-2024/"><u>[Updated] Mastering the Art of Play  Navigating Switch Pro and Steam Games for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-burst-to-blast-android-apps-transform-slow-motion/"><u>2024 Approved  Burst to Blast  Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-from-footage-to-narrative-the-essential-guide-to-instagram-descriptive-texts/"><u>2024 Approved  From Footage to Narrative  The Essential Guide to Instagram Descriptive Texts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-full-screen-fix-for-obs-enthusiasts/"><u>2024 Approved  Full-Screen Fix for OBS Enthusiasts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mastering-voice-to-text-conversion-in-ms-word-a-step-by-step-guide/"><u>2024 Approved  Mastering Voice-to-Text Conversion in MS Word  A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-motorola-edge-2023-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Motorola Edge 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-fix-a-deadly-ark-error-tips-and-tricks/"><u>Effective Strategies to Fix a Deadly Ark Error - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-tricks-to-overcome-alan-wake-2s-persistent-crashes-a-2024-how-to-guide/"><u>Expert Tips and Tricks to Overcome Alan Wake 2'S Persistent Crashes - A 2024 How-To Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-msedgeexe-crashes-troubleshooting-steps-for-stable-edge-browser-experience/"><u>Fixing MsEdge.exe Crashes: Troubleshooting Steps for Stable Edge Browser Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-an-ultimate-solution/"><u>Fixing the Frame Rate Drop in Dying Light: An Ultimate Solution</u></a></li>
+<li><a href="https://facebook.techidaily.com/fostering-connections-advanced-tips-for-facebook-post-impact/"><u>Fostering Connections: Advanced Tips for Facebook Post Impact</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-fixing-the-issue-of-unresponsive-amd-radeon-graphic-drivers/"><u>Guide: Fixing the Issue of Unresponsive AMD Radeon Graphic Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-dota-2-launching-problems-and-bypass-the-endless-loading-screen/"><u>How to Fix Dota 2 Launching Problems and Bypass the Endless Loading Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-lava-blaze-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Lava Blaze Pro 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-105-classic-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia 105 Classic to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-azure-speech-recognition-efficiently/"><u>In 2024, Navigating Azure Speech Recognition Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-smartwatch-anticipated-cost-and-launch-timeline-revealed/"><u>Inside Scoop on the Upcoming Google Pixel Smartwatch - Anticipated Cost & Launch Timeline Revealed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-world-of-garmin-venu-an-in-depth-look-at-your-247-partner-for-fitness-and-health-insights/"><u>Inside the World of Garmin Venu: An In-Depth Look at Your 24/7 Partner for Fitness and Health Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nier-gestalt-and-replicant-collection-boot-up-fixes-achieved/"><u>NieR Gestalt & Replicant Collection Boot-Up Fixes Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-solutions-for-stability-issues-in-robocop-rupture/"><u>PC Gaming Made Easy: Solutions for Stability Issues in 'Robocop: Rupture'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-your-game-from-crashing-a-guide-for-doom-eternal-players/"><u>Preventing Your Game From Crashing - A Guide for DOOM Eternal Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-issues-with-missing-textures-in-call-of-duty-warzone/"><u>Resolved: Fixing Issues with Missing Textures in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-connection-refused-by-anticheat-issue-in-escape-from-tarkov/"><u>Resolving the 'Connection Refused by Anticheat' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Solutions for Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-tarkov-glitch-steps-to-resolve-the-e-103003-error/"><u>Solving Tarkov Glitch: Steps to Resolve the E-103003 Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-the-frustration-solving-constant-crashes-in-the-ascent-for-windows-users/"><u>Stop the Frustration: Solving Constant Crashes in 'The Ascent' For Windows Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-tutorial-on-winning-spotify-advertising/"><u>The Ultimate Tutorial on Winning Spotify Advertising</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/tp-link-archer-c9-reviewed-best-value-for-money-wireless-router-today/"><u>TP-Link Archer C9 Reviewed: Best Value for Money Wireless Router Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-drops-in-ac-valhalla-for-windows-gamers/"><u>Troubleshooting and Resolving Frame Rate Drops in AC Valhalla for Windows Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-your-logiten-c920-webcam-issues/"><u>Troubleshooting Guide: Fixing Your Logiten C920 Webcam Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-hell-divers-the-twin-heroes-ii-bsod-issue-a-comprehensive-guide/"><u>Troubleshooting Hell Divers The Twin Heroes II BSoD Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-bloodhunt-game-lag-and-freezing-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve Bloodhunt Game Lag and Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-kodis-full-potential-address-and-fix-couldnt-retrieve-directory-info-issues-today/"><u>Unlock Kodi's Full Potential: Address and Fix 'Couldn't Retrieve Directory Info' Issues Today</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+</ul></div>

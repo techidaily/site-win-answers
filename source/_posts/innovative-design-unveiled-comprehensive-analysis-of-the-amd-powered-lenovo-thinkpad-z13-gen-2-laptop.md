@@ -1,7 +1,7 @@
 ---
 title: "Innovative Design Unveiled: Comprehensive Analysis of the AMD Powered Lenovo ThinkPad Z13 Gen 2 Laptop"
-date: 2024-08-28 15:58:22
-updated: 2024-08-29 11:23:14
+date: 2024-08-27T23:55:08.294Z
+updated: 2024-08-28T23:55:08.294Z
 tags:
   - windows
 categories:
@@ -138,6 +138,9 @@ Close
 
  The laptop's base houses the large 10keyless chiclet keyboard, which also includes a customizable TrackPoint button. The keyboard takes up about 60% of the surface area, and right below it is a 2.79 by 4.72-inch glass-surface touchpad.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Ports: Two Good Ones... and Nothing Else
 
  By way of ports, this Z13 doesn't offer much to write home about. However, the two ports included are USB4 with a 40Gbps speed. (In case you're unaware of [what USB4 is](https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/), it's basically an upgraded version of a standard USB-C port, comparable to Thunderbolt 4, though in some arguments, USB-4 isn't _quite_ as good as this counterpart due to specific limitations).
@@ -166,6 +169,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo ThinkPad Z13 Gen2 laptop playing a nature video of a puffin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/graphics-hero-image-youtube-screenshot.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Cianna Garrison / How-To Geek
 
 _BBC Earth_
@@ -180,6 +186,9 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Performance: Solid and Trustworthy, but Not Lightning Speed
 
 ![AMD Ryzen Pro 7 processor sticker on the Lenovo Z13 Gen 2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/amd-ryzen-pro-7-processor-sticker-on-the-lenovo-z13-gen-2jpg_53480774764_o.jpg) 
@@ -198,6 +207,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-4jpg_53480466146_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  I enjoyed listening to music as I worked via the two AI-powered 2W Dolby Atmos speakers, but I had to turn the volume up to about 80 to 100% for it to be a good volume. That said, I didn't notice much distortion, even when listening to crunchy guitar-laden music like the blues or hard rock. But I found the speakers sounded the best when recordings were more simplistic, focusing on one to three instruments and vocals more than a complex, noisy blend, such as some vocal-heavy jazz tracks from Chet Baker and Etta James. The speakers do have a sort of condensed quality to them, but this is nothing I wouldn't expect from most laptop speaker systems, which are still sorely behind in audio quality compared to external speakers and even [some smartphone speakers](https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-honor-magic5-ultimate-to-your-pcmac-drfone-by-drfone-android/). Of course, you can always [improve the sound of the laptop's speakers](https://extra-guidance.techidaily.com/revolutionize-note-taking-with-mematic-app-for-2024/) by investing in some [desktop speaker systems](https://some-approaches.techidaily.com/new-synergizing-visual-cues-with-the-right-musical-choices/) or using [good-quality wired headphones](https://mondly-stories.techidaily.com/perfezionamento-dei-numeri-italiani-per-la-comunicazione-da-1-1000/).
@@ -208,10 +220,16 @@ Close
 
  The dual microphone system captures the human voice well, and it has noise-canceling features that work well to cut out background noise. In a noisy environment, I was still audible to the people on the other end of the call, and the recordings also came through crystal clear. It does cut out noises at higher volumes, which I discovered in singing tests.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 
 
 ### 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 
 
 ##  Battery and Charging: Long-Lasting Battery Life
@@ -224,10 +242,16 @@ Sergio Rodriguez / How-To Geek
 
  My experience with the battery makes the up to 16.5-hour MobileMark score seem a bit high, but I kept it consistently at 300 to 400 nits, while the benchmark measured performance at 250 nits.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 ##  Should You Buy the Lenovo ThinkPad Z13 Gen 2 (AMD) Laptop?
 
 ![The closed Lenovo Z13 Gen 2 laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/the-closed-lenovo-z13-gen-2-laptop-2jpg_53480775254_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  The [ThinkPad Z13 Gen 2](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkpad%2Fthinkpadz%2Fthinkpad-z13-gen-2-%2813-inch-amd%29%2Flen101t0073) is a premium offering that's a good choice for anyone who travels a lot or wants a portable laptop with decent processing power. However, it has some weaknesses in terms of its speaker system, an occasional lag when heavily multitasking, and a lack of port options that might make this a poor choice for you. If you're looking for something different, the [ThinkPad Z16 Gen 2](https://digital-screen-recording.techidaily.com/updated-in-2024-experts-guide-to-the-best-ipad-voice-recording-tools-3/) performed better in some of these categories, as did the [ThinkPad X1 Carbon Gen 10](https://extra-hints.techidaily.com/cinematographic-cuisine-expert-tips-on-filming-edibles/).
@@ -236,6 +260,9 @@ Sergio Rodriguez / How-To Geek
 
 ![The Lenovo Z13 Gen 2 open.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3hkubxx903po29y50bbq45fk4feyo0833940.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 #####  Lenovo ThinkPad Z13 Gen 2
 
 7/ 10 
@@ -258,3 +285,40 @@ The Lenovo ThinkPad Z13 Gen 2 laptop is a premium portable option that suits stu
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-art-of-xbox-playback-tips-for-clear-video/"><u>[New] 2024 Approved  The Art of Xbox Playback  Tips for Clear Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-tips-to-enhance-your-adobe-presentation-videos-for-2024/"><u>[New] Expert Tips to Enhance Your Adobe Presentation Videos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-videos-in-complete-silence/"><u>[New] How to Record Videos in Complete Silence</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-zany-tiktok-trials-the-ultimate-unusual-game-list/"><u>[New] In 2024, Zany TikTok Trials  The Ultimate Unusual Game List</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-in-videos-with-quick-trims-on-windows-11/"><u>[New] Unleash Creativity in Videos with Quick Trims on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-tower-of-fantasy-keeps-crashing-on-pc/"><u>[SOLVED] Tower of Fantasy Keeps Crashing on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-unraveling-the-mysteries-of-smooth-audioshifts/"><u>2024 Approved  Unraveling the Mysteries of Smooth Audioshifts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-nord-n30-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-smooth-gameplay-tips-to-improve-fps-in-mass-effect-legendary-edition/"><u>Achieving Smooth Gameplay: Tips to Improve FPS in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/commemorating-1500-no-cost-everyday-learning-sessions/"><u>Commemorating 1,500 No-Cost Everyday Learning Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-fix-reducing-excessive-cpu-usage-effectively/"><u>Cyberpunk 2077 Performance Fix: Reducing Excessive CPU Usage Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-recurring-stardee-valley-issues-on-personal-computers/"><u>Diagnosing and Repairing Recurring Stardee Valley Issues on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-fluidity-in-age-of-empires-iv-tips-to-stop-game-stutters/"><u>Enhancing Fluidity in Age of Empires IV: Tips to Stop Game Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-frame-rates-in-tainted-grail-conquest-a-comprehensive-guide/"><u>Enhancing Frame Rates in Tainted Grail: Conquest - A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ex3700-wireless-range-extender-by-netgear-ac750-a-full-review-for-potential-buyers-with-tips-and-comparisons/"><u>EX3700 Wireless Range Extender by Netgear AC750: A Full Review for Potential Buyers with Tips & Comparisons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-dealing-with-origin-not-starting-properly-under-windows-11-environment/"><u>Expert Advice: Dealing With 'Origin' Not Starting Properly Under Windows 11 Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-battlefield-2042-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Battlefield 2042 PC Game Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-why-does-your-discord-app-keep-crashing-during-streams/"><u>Fixes and Solutions: Why Does Your Discord App Keep Crashing During Streams?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ds4-controller-issues-resolving-windows-not-recognizing-problems/"><u>Fixing DS4 Controller Issues: Resolving 'Windows Not Recognizing' Problems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062544447-get-your-usb-tools-instantly-no-complications-just-downloads/"><u>Get Your USB Tools Instantly – No Complications, Just Downloads!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-the-persistent-stuttering-problem-in-deathloop-was-finally-solved-for-pc-users/"><u>How the Persistent Stuttering Problem in Deathloop Was Finally Solved for PC Users</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-network-issues-fixing-and-preventive-measures-for-smooth-gaming/"><u>League of Legends Network Issues - Fixing and Preventive Measures for Smooth Gaming!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/robocop-rogue-city-not-working-discover-how-to-launch-it-successfully-on-pc/"><u>RoboCop: Rogue City Not Working? Discover How to Launch It Successfully on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006649024-smooth-gaming-awaits-discover-the-ultimate-fix-for-diablo-iv-crashing-across-all-platforms/"><u>Smooth Gaming Awaits! Discover the Ultimate Fix for Diablo IV Crashing Across All Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009247593-solution-tips-for-updating-outdated-drivers-in-minecraft-get-back-to-playing/"><u>Solution Tips for Updating Outdated Drivers in Minecraft – Get Back to Playing!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-2022-apex-legends-glitch-decoding-the-mystery-of-error-code-leaf/"><u>Solving the 2022 Apex Legends Glitch: Decoding the Mystery of Error Code 'Leaf'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995701230-tackle-steams-error-code-130-head-on-with-proven-fixes-get-back-to-gaming-now/"><u>Tackle Steam's Error Code 130 Head-On with Proven Fixes - Get Back to Gaming Now</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-step-by-step-approach-to-twitter-archive-usage-for-2024/"><u>The Step-by-Step Approach to Twitter Archive Usage for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-alan-wake-2-stability-issues-top-tips-for-gamers/"><u>Troubleshooting Alan Wake 2 Stability Issues: Top Tips for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-fixing-windows-grounded-issues-on-pc/"><u>Troubleshooting Guide for Fixing Windows 'Grounded' Issues on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fix-issues-when-back-4-blood-wont-start-on-pcs-win11-win10-win7/"><u>Troubleshooting Guide: Fix Issues When 'Back 4 Blood' Won't Start on PCs (Win11, Win10, Win7)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-solving-the-relink-feature-failure-in-granblue-fantasy/"><u>Troubleshooting Tips: Solving the 'Relink' Feature Failure in Granblue Fantasy</u></a></li>
+</ul></div>

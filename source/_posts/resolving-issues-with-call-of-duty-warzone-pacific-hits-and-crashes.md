@@ -1,0 +1,234 @@
+---
+title: "Resolving Issues with Call of Duty: Warzone Pacific Hits and Crashes"
+date: 2024-08-28T00:02:38.179Z
+updated: 2024-08-29T00:02:38.179Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Resolving Issues with Call of Duty: Warzone Pacific Hits and Crashes"
+excerpt: "This Article Describes Resolving Issues with Call of Duty: Warzone Pacific Hits and Crashes"
+thumbnail: https://thmb.techidaily.com/f8ea6bc64575a4f059dff23c3d5a8452f8167601d5f2b8cf93b8214a89c17a78.jpg
+---
+
+## Resolve Microsoft Edge Stability Issues in Windows 11 with These Tips
+
+Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
+
+### Common methods
+
+* Restart your PC
+* Install the latest updates
+
+## Try these methods
+
+ If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [**Run the troubleshooter**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Repair & reset Microsoft Edge**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Clear cache and history**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Uninstall Trusteer Rapport or Endpoint**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Run a System File Checker**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### Method 1: Run the troubleshooter
+
+ Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
+
+1. Press the**Windows logo key + I** together to open the**Windows Settings** .
+2. Click**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
+3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+4. Click**Run the troubleshooter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
+5. Follow the on-screen instructions to finish the process.
+6. Run Microsoft Edge to check the problem is resolved or not.
+
+---
+
+### Method 2: Repair & reset Microsoft Edge
+
+ If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
+
+**Note** :**Repairing** the app won’t affect anything, but**Reset** will remove all your data from the brower. Think before you click**Reset** .
+
+1. Press the**Windows logo key + I** together to open the**Windows Settings** .
+2. Click**Apps** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
+3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
+4. Click**Repair** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
+6. Run Microsoft Edge to check the problem is resolved or not.
+
+ If this method can’t fix your problem, don’t upset, you can try the next method.
+
+---
+
+### Method 3: Clear cache and history
+
+ If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
+
+1. Run Microsoft Edge. Click the three dots button in the upper right corner.
+2. Click History.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
+3. Click**Clear history** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
+4. Select all boxes and click**Clear** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
+5. Reboot the browser to check the problem is solved or not.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+### Method 4: Uninstall Trusteer Rapport or Endpoint
+
+ If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
+
+ It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
+
+---
+
+### Method 5: Run a System File Checker
+
+ The corrupted system file may cause Microsoft Edge to crash. To solve it, you can use the 2 ways to repair the broken system files.
+
+* [Option 1- Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-microsoft-edge-crashing-problem-on-windows-10/#reimage)  
+ Use a repair tool to check various areas in your computer to determine the cause of Windows common issues. It will deal with issues related to system errors, and critical system files and find the right fix for you.
+* Option 2 – Manually  
+ System File Checker is a built-in tool to check for corrupt, damaged system files and manage to restore them if there are any. However, this tool can only diagnose major system files, and won’t deal with damaged DLL, Windows Registry key, etc.
+
+#### Option 1 – Automatically (Recommended)
+
+**[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a computer repair software that can diagnose problems on your computer and fix them immediately.
+
+ It is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues, and finally it detects programs that crash, and missing system files. Once complete, it will find a solution to your specific problem.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and click**Yes** to run a free scan of your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+ The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
+ Email: **<support@fortect.com>**
+
+#### Option 2 – Manually
+
+1. On your keyboard, press the **Windows logo key** and **R** key at the same time to invoke the Run box.
+2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
+**Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
+4. Reboot your computer to check the changes.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+
+ If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
+ Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
+
+---
+
+ That’s it! We’ll be glad if any of the fixes above helped you resolve the Microsoft Edge crashing issue. Please feel free to leave a comment below if you have further questions or ideas.
+
+* [browser](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-cease-non-filtered-youtube-video-trail-for-2024/"><u>[New] Cease Non-Filtered YouTube Video Trail for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-step-by-step-hp-laptop-screen-recording-explained/"><u>[New] In 2024, Step-by-Step  HP Laptop Screen Recording Explained</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-pixelpilot-screen-recorder-critique-plus-backups/"><u>[New] PixelPilot Screen Recorder Critique + Backups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-dayz-keeps-crashing-quickly-and-easily/"><u>[Solved] DayZ Keeps Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010468510-solved-outriders-wont-start-on-pc-2022/"><u>[SOLVED] Outriders Won’t Start on PC 2022</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-little-gamers-treasure-trove-of-joy-for-2024/"><u>[Updated] Little Gamers' Treasure Trove of Joy for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essence-of-depth-crafting-3d-text-art/"><u>[Updated] The Essence of Depth  Crafting 3D Text Art</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-camon-20-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Camon 20 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/apex-legends-troubleshooting-how-to-resolve-error-code-23-quickly/"><u>Apex Legends Troubleshooting: How to Resolve Error Code 23 Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-no-user-found-in-csgo-with-these-5-essential-troubleshooting-tips/"><u>Beat 'No User Found' In CSGO with These 5 Essential Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/best-gopro-tools-for-deep-sea-cinematography-for-2024/"><u>Best Gopro Tools for Deep-Sea Cinematography for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-fix-a-deadly-ark-error-tips-and-tricks/"><u>Effective Strategies to Fix a Deadly Ark Error - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-tricks-to-overcome-alan-wake-2s-persistent-crashes-a-2024-how-to-guide/"><u>Expert Tips and Tricks to Overcome Alan Wake 2'S Persistent Crashes - A 2024 How-To Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-msedgeexe-crashes-troubleshooting-steps-for-stable-edge-browser-experience/"><u>Fixing MsEdge.exe Crashes: Troubleshooting Steps for Stable Edge Browser Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-corsair-icue-dilemma-in-windows-11-a-complete-guide/"><u>Fixing the Corsair iCUE Dilemma in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-an-ultimate-solution/"><u>Fixing the Frame Rate Drop in Dying Light: An Ultimate Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004857007-football-manager-2020-stability-improvements-no-more-crashes/"><u>Football Manager 2020 Stability Improvements – No More Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-changer-alert-solving-the-dark-souls-iii-unwanted-reboots-challenge/"><u>Game-Changer Alert: Solving the Dark Souls III Unwanted Reboots Challenge</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/goovision-promax-high-res-os-capturer-for-2024/"><u>GooVision ProMax  High-Res OS Capturer for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-fixing-the-issue-of-unresponsive-amd-radeon-graphic-drivers/"><u>Guide: Fixing the Issue of Unresponsive AMD Radeon Graphic Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-discord-crashing/"><u>How To Fix Discord Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-dota-2-launching-problems-and-bypass-the-endless-loading-screen/"><u>How to Fix Dota 2 Launching Problems and Bypass the Endless Loading Screen</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-ssl-compatibility-errors-for-windows-users/"><u>How to Fix SSL Compatibility Errors for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-issues-when-using-the-clownfish-audio-alteration-device/"><u>How to Repair Issues When Using the Clownfish Audio Alteration Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-v29-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo V29 Pro Lock Screen Password?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-to-sub-guide-practical-conversion-methods/"><u>In 2024, SRT to SUB Guide  Practical Conversion Methods</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-essential-movie-trailer-apps-for-ios-devices-this-year/"><u>New In 2024, 10 Essential Movie Trailer Apps for iOS Devices This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nier-gestalt-and-replicant-collection-boot-up-fixes-achieved/"><u>NieR Gestalt & Replicant Collection Boot-Up Fixes Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-visual-hitches-fixing-the-dark-display-fault-in-world-war-ii-call-of-duty-game-on-pc/"><u>Overcoming Visual Hitches: Fixing the Dark Display Fault in World War II - Call of Duty Game on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-solutions-for-stability-issues-in-robocop-rupture/"><u>PC Gaming Made Easy: Solutions for Stability Issues in 'Robocop: Rupture'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-your-game-from-crashing-a-guide-for-doom-eternal-players/"><u>Preventing Your Game From Crashing - A Guide for DOOM Eternal Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-issues-with-missing-textures-in-call-of-duty-warzone/"><u>Resolved: Fixing Issues with Missing Textures in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-connection-refused-by-anticheat-issue-in-escape-from-tarkov/"><u>Resolving the 'Connection Refused by Anticheat' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Solutions for Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-tarkov-glitch-steps-to-resolve-the-e-103003-error/"><u>Solving Tarkov Glitch: Steps to Resolve the E-103003 Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-rainbow-six-siege-not-loading-issue-a-comprehensive-guide/"><u>Solving the 'Rainbow Six Siege Not Loading' Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-the-frustration-solving-constant-crashes-in-the-ascent-for-windows-users/"><u>Stop the Frustration: Solving Constant Crashes in 'The Ascent' For Windows Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-roadmap-to-irresistible-podcast-intros-and-exits/"><u>The Roadmap to Irresistible Podcast Intros and Exits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-drops-in-ac-valhalla-for-windows-gamers/"><u>Troubleshooting and Resolving Frame Rate Drops in AC Valhalla for Windows Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-your-logiten-c920-webcam-issues/"><u>Troubleshooting Guide: Fixing Your Logiten C920 Webcam Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-hell-divers-the-twin-heroes-ii-bsod-issue-a-comprehensive-guide/"><u>Troubleshooting Hell Divers The Twin Heroes II BSoD Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-bloodhunt-game-lag-and-freezing-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve Bloodhunt Game Lag and Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fix-disconnects-and-crashes-in-granblue-fantasy-for-pc-players/"><u>Ultimate Guide to Fix Disconnects and Crashes in Granblue Fantasy for PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-issues-with-game-finals-release/"><u>Ultimate Guide: Resolving Issues with Game Finals Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-pc-crashes-in-minecraft-dungeon/"><u>Ultimate Guide: Troubleshooting PC Crashes in Minecraft Dungeon</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unleash-luxury-top-10-accessories-for-the-sj4000/"><u>Unleash Luxury  Top 10 Accessories for the SJ4000</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-kodis-full-potential-address-and-fix-couldnt-retrieve-directory-info-issues-today/"><u>Unlock Kodi's Full Potential: Address and Fix 'Couldn't Retrieve Directory Info' Issues Today</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Image Tool: A Step-by-Step Guide to Images in Microsoft Excel"
-date: 2024-08-27 11:55:56
-updated: 2024-08-29 10:49:37
+date: 2024-08-27T23:56:58.232Z
+updated: 2024-08-28T23:56:58.232Z
 tags:
   - excel
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
  You can insert BMP, GIF, ICO, JPG, PNG, TIFF, and WEBP image formats.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use the IMAGE Function in Excel
 
  Now that you know how to build the formula and understand the supported image file formats, let's look at some examples using the IMAGE function with the picture below.
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
 ![Image example for the IMAGE function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Image-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this first example, we'll insert the image without alt text or optional sizing using this formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png")
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
 ![IMAGE function in Excel with no optional arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Default-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, we'll include the alt text "dog" and use the sizing option 1 to keep the image in the cell but ignore the aspect ratio with this formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","dog",1)
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
 ![IMAGE function with alt text and sizing option 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing1AltText-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now, we'll use the following formula with the alt text and sizing option 2 to keep the image's original size:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","dog",2)
@@ -69,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
 ![IMAGE function with alt text and sizing option 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing2AltText-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Finally, we'll remove the alt text leaving empty quotation marks for the argument. And we'll use a custom size for our image with 3 for the sizing, 280 pixels for the height, and 500 pixels for the width. Here's the formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","",3,280,500)
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
 ![IMAGE function without alt text and sizing option 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing3NoAltText-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
  Adding an image in Excel was never difficult; however, the [introduction of the IMAGE function](https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-se-2020-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/) means you can place a picture within a cell and keep it there in whatever size you want.
 
  For more on images in Excel, check out how to [quickly remove all pictures](https://fox-helps.techidaily.com/2024-approved-your-guide-to-the-top-8-tablets-for-next-level-photo-enhancements/) in your sheet or how to [get rid of the background in a picture](https://win-dash.techidaily.com/efficient-printing-with-toshiba-free-driver-downloads-for-windows-users/).
@@ -101,3 +119,68 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-candids-canvas-transforming-photos-with-editing-tips/"><u>[New] Candid's Canvas  Transforming Photos with Editing Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-your-companion-in-choosing-high-grade-hdr-cameras/"><u>[New] Your Companion in Choosing High-Grade HDR Cameras</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-league-of-legends-crashing-quickly-and-easily/"><u>[SOLVED] | League of Legends Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastery-in-multichannel-instagram-to-tiktok-connector/"><u>[Updated] 2024 Approved  Mastery in Multichannel  Instagram to TikTok Connector</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-efficient-zooming-strategies-for-youtube-videos/"><u>[Updated] Efficient Zooming Strategies for YouTube Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-efficient-setup-ps4-streaming-and-recording-via-obs/"><u>[Updated] In 2024, Efficient Setup  PS4 Streaming and Recording via OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-optimizing-video-content-for-igtv-uploading-strategies-revealed/"><u>[Updated] In 2024, Optimizing Video Content for IGTV  Uploading Strategies Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-preferred-speech-to-text-ipad-apps-3/"><u>[Updated] Preferred Speech-to-Text iPad Apps #3</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-15-activities-for-podcast-enthusiasts-for-2024/"><u>[Updated] Top 15 Activities for Podcast Enthusiasts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlocking-instagrams-hidden-qanda-features/"><u>2024 Approved  Unlocking Instagram’s Hidden Q&A Features</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016744164-audacity-sound-device-malfunction-here-are-5-reliable-fixes/"><u>Audacity Sound Device Malfunction? Here Are 5 Reliable Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007455861-beat-game-bugs-once-and-for-all-learn-about-the-eight-best-solutions-to-fix-multiversus-crashes-today/"><u>Beat Game Bugs Once & For All: Learn About the Eight Best Solutions to Fix MultiVersus Crashes Today</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/becoming-an-exclusive-guest-on-tiktok-live/"><u>Becoming an Exclusive Guest on TikTok Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-dayz-gameplay-with-a-swift-and-easy-fps-solutions/"><u>Boost Your DayZ Gameplay with a Swift & Easy FPS Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-freezing-issues-comprehensive-troubleshooting-guide/"><u>Call of Duty: Warzone Freezing Issues - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cashing-in-on-creativity-the-vimeo-income-playbook/"><u>Cashing in on Creativity  The Vimeo Income Playbook</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-xs-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone XS with a Broken Screen?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/crafting-a-legacy-youtubers-playbook-for-success-for-2024/"><u>Crafting a Legacy  YouTuber’s Playbook for Success for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cross-cultural-welcome-words/"><u>Cross-Cultural Welcome Words</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722982394923-dayz-frame-rate-booster-rapid-results-for-smoother-gameplay/"><u>DayZ Frame Rate Booster - Rapid Results for Smoother Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-repair-tips-resolving-msi-mystic-light-malfunction-on-windows-systems/"><u>DIY Repair Tips - Resolving MSI Mystic Light Malfunction on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/double-impact-understanding-the-two-crash-scenario-on-your-computer/"><u>Double Impact: Understanding the Two-Crash Scenario on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-launching-problems-with-granblue-fantasys-relink-functionality/"><u>Effective Fixes for Launching Problems with Granblue Fantasy’s Relink Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-solve-input-lag-and-freezing-problems-in-csgo/"><u>Effortless Ways to Solve Input Lag & Freezing Problems in CS:GO</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elden-rings-launch-put-on-hold-uncovering-the-causes-and-new-timeline/"><u>Elden Ring's Launch Put on Hold — Uncovering the Causes and New Timeline</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-solutions-overcoming-apex-legends-load-errors-effectively/"><u>Fast Track Solutions: Overcoming Apex Legends Load Errors Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-no-available-camera-error-on-snapchat-troubleshooting-steps/"><u>Fixing 'No Available Camera' Error on Snapchat: Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-remnant-from-the-ashes-no-more-crashing-problems/"><u>Fixing 'Remnant: From the Ashes' - No More Crashing Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-itunes-how-to-get-your-iphone-recognized-on-windows-11/"><u>Fixing Itunes: How to Get Your iPhone Recognized on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-startup-failures-your-comprehensive-solution-to-error-code-0xc000007b-on-application-launch/"><u>Fixing Startup Failures: Your Comprehensive Solution to Error Code 0xC000007B on Application Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-missing-drivershardware-errors-in-rainbow-six-mobile-adventure/"><u>Fixing the Missing Drivers/Hardware Errors in Rainbow Six Mobile Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-tower-of-fantasy-game-crashes-on-your-windows-computer/"><u>How to Fix the 'Tower of Fantasy' Game Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-14-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oppo-find-x7-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Oppo Find X7 FRP Bypass Instantly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-apple-iphone-se-2020-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Apple iPhone SE (2020) Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004250438-indivisible-app-keep-crashing-heres-how-to-get-it-working-smoothly-again/"><u>Indivisible App Keep Crashing? Here's How to Get It Working Smoothly Again!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-12-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 12 mini iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-chatgpt-plus-a-wise-choice-here-are-five-reasons-to-subscribe-today/"><u>Is ChatGPT Plus a Wise Choice? Here Are Five Reasons to Subscribe Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/logitech-c920-camera-malfunction-heres-how-to-restore-functionality/"><u>Logitech C920 Camera Malfunction? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-flight-simulator-2020-update-issue-resolved-no-more-endless-loading/"><u>Microsoft Flight Simulator 2020 Update Issue Resolved - No More Endless Loading</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/next-phase-in-machine-learning-the-advent-of-gpt-5/"><u>Next Phase in Machine Learning: The Advent of GPT-5?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-and-correcting-high-cpu-consumption-in-newly-installed-os-versions/"><u>Optimizing and Correcting High CPU Consumption in Newly Installed OS Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-fixing-gpu-usage-issues-in-warzone-for-windows-etitan-10-users/"><u>Optimizing Performance: Fixing GPU Usage Issues in Warzone for Windows eTitan 10 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992004876-overcome-fallout-4s-black-screen-glitch-with-easy-fixes/"><u>Overcome Fallout 4'S Black Screen Glitch with Easy Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-vanguards-launch-problem-in-valorant-expert-advice-and-solutions/"><u>Overcoming Vanguard's Launch Problem in Valorant: Expert Advice and Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-tecno-spark-20-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Tecno Spark 20.</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-meizu-21-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Meizu 21 Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-fixing-malfunctions-in-phasmophobia-virtual-reality-experience/"><u>Solutions for Fixing Malfunctions in Phasmophobia Virtual Reality Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-persistent-usb-mouse-connection-issues-a-comprehensive-guide/"><u>Solving Persistent USB Mouse Connection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-superman-character-glitch-in-pc-games/"><u>Solving the 'Superman' Character Glitch in PC Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speed-boosting-hacks-for-faster-download-rates-on-utorrent-software/"><u>Speed Boosting Hacks for Faster Download Rates on uTorrent Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-professionals-guide-to-innovative-360-cams-2023/"><u>The Professionals’ Guide to Innovative 360° Cams, 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-reliable-fixes-to-stop-nba-2k23-from-crashing-on-your-pc/"><u>Top 7 Reliable Fixes to Stop NBA 2K23 From Crashing on Your PC!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-when-call-of-duty-modern-warfare-3-stops-running/"><u>Troubleshooting Guide for When Call of Duty Modern Warfare 3 Stops Running</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-smooth-fifa-22-experience-on-windows-and-mac/"><u>Troubleshooting Tips for a Smooth FIFA 22 Experience on Windows and Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-stable-sea-of-thieves-gaming-experience/"><u>Troubleshooting Tips for a Stable Sea of Thieves Gaming Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-realme-v30-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Realme V30 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-overcome-cod-warzone-error-6328-tips-and-tricks-for-gamers-in-202e/"><u>Ultimate Fixes to Overcome Cod: Warzone Error 6328 - Tips & Tricks for Gamers in 202E</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-continuous-play-diablo-immortals-top-anti-crashing-hacks-for-gamers/"><u>Unlock Continuous Play: Diablo Immortal's Top Anti-Crashing Hacks for Gamers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-convert-webm-to-mp4-with-ease-the-best-10-converters/"><u>Updated Convert WebM to MP4 with Ease The Best 10 Converters</u></a></li>
+</ul></div>

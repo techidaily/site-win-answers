@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Conditional Formulas with ISXL Functions in Excel
-date: 2024-08-26 12:19:28
-updated: 2024-08-29 11:22:15
+date: 2024-08-27T23:57:48.193Z
+updated: 2024-08-28T23:57:48.193Z
 tags:
   - excel
 categories:
@@ -26,6 +26,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  When you use these functions in conjunction with others, like [the IF function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), you can put parameters around your true/false statements. But, you can also use the IS functions on their own if it's beneficial. Let's take a look at how they work.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  The IS Functions in Excel
 
  The syntax for each function's formula is the same with just one argument: 
@@ -62,6 +65,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  As you review the above list, you can see where some of the IS functions can come in handy. At the same time, you may see a couple that you'll probably rarely use. So, let's look at common uses for a few of the functions.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  ISBLANK
 
 [The ISBLANK function](https://tech-savvy.techidaily.com/1723808302722-effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/) is one you can use to [locate empty cells](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/) where you expect data. You can use this with the IF function to display a particular value for blank and non-blank cells.
@@ -74,6 +80,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now we'll include the IF function to display a question mark (?) for a blank cell and a hyphen (-) for a cell containing data.
 
 =IF(ISBLANK(A1),"?","-")
@@ -82,6 +91,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ###  ISERROR
 
  The ISERROR function is ideal if you want to locate [errors in your sheet](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) for constantly changing data. It works well with the IF function in the same way that IFERROR works on its own.
@@ -120,6 +132,9 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
 
 ![ISNUMBER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISNUMBER-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
  Now, we'll add the IF function to display nothing if the cell contains a number but "Please enter a number" if the cell doesn't contain a number.
 
 =IF(ISNUMBER(A1)," ","Please enter a number")
@@ -140,6 +155,10 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
 
 ![ISTEXT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISTEXT-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
  These are basic examples of how to use the IS functions in Excel. They are available for simple checks of data on their own or more complex tests when combined with other functions.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -162,3 +181,46 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-dominate-the-digital-arena-audience-expansion-on-youtube-for-2024/"><u>[New] Dominate the Digital Arena  Audience Expansion on Youtube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leading-list-of-16-youtube-openers-for-audience-expansion/"><u>[New] Leading List of 16 YouTube Openers for Audience Expansion</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mac-and-pcs-top-10-supercharged-srt-systems-unveiled/"><u>[New] Mac & PC's Top 10 Supercharged SRT Systems Unveiled</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-optimal-screen-capture-techniques-tunefab-style-for-2024/"><u>[New] Optimal Screen Capture Techniques - Tunefab Style for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-discovering-uncharted-territory-on-instagram/"><u>[Updated] 2024 Approved  Discovering Uncharted Territory on Instagram</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-easy-way-to-screen-record-your-ultimate-guide-on-mi-11/"><u>[Updated] The Easy Way to Screen Record - Your Ultimate Guide on Mi 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-twilight-tones-adobe-premiere-blackouts/"><u>2024 Approved  Twilight Tones  Adobe Premiere Blackouts</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-reno-10-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo Reno 10 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-smart-8-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Infinix Smart 8 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-league-of-legends-visual-glitch-the-ultimate-guide/"><u>Conquering League of Legends Visual Glitch: The Ultimate Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-addresses-player-input-lags-for-smoother-gameplay/"><u>Cyberpunk 2077 Update Addresses Player Input Lags for Smoother Gameplay</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-15-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 15 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elder-scrolls-online-update-fixes-previous-blackwood-server-delays/"><u>Elder Scrolls Online Update Fixes Previous Blackwood Server Delays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722983156436-fast-track-solutions-skyrocket-your-dayz-frames-per-second-with-no-hassle/"><u>Fast Track Solutions: Skyrocket Your DayZ Frames Per Second with No Hassle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compatibility-problems-between-your-astro-a50-and-command-center-interface/"><u>Fixing Compatibility Problems Between Your Astro A50 and Command Center Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cult-of-the-lamb-game-crashes-in-windows-tips-and-tricks-for-smooth-play/"><u>Fixing Cult of The Lamb Game Crashes in Windows: Tips & Tricks for Smooth Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-eliminate-cyberpunk-2077s-notorious-input-delay/"><u>Fixing the Issue: How to Eliminate Cyberpunk 2077'S Notorious Input Delay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-windows-11-7-or-8-device-ready-zexmtes-ultimate-bluetooth-adapter-drivers-download/"><u>Get Your Windows 11, 7 or 8 Device Ready: Zexmte's Ultimate Bluetooth Adapter Drivers Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-3-connectivity-issues-resolved-fixing-the-connection-failed-error/"><u>Hitman 3 Connectivity Issues Resolved: Fixing the 'Connection Failed' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-s-triumph-over-connection-failed-problem-a-step-by-step-solution/"><u>Hitman S Triumph Over 'Connection Failed' Problem - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-and-boost-fps-in-valorant/"><u>How to Fix Stuttering and Boost FPS in Valorant</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-instantaneously-enhance-your-facebook-page-with-songs/"><u>In 2024, Instantaneously Enhance Your Facebook Page with Songs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-progopro-series-camera-comparison/"><u>In 2024, ProGoPro Series Camera Comparison</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unleash-professional-quality-facebook-profile-pictures-with-these-tools/"><u>In 2024, Unleash Professional Quality Facebook Profile Pictures with These Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-troubleshooting-guide-resolving-the-unreal-engine-4-process-crash-error/"><u>Outriders Troubleshooting Guide: Resolving the Unreal Engine 4 'Process Crash' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-camera-unavailable-problem-with-easy-fixes-for-snap-users/"><u>Overcoming the Camera Unavailable Problem with Easy Fixes for Snap Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-graphics-driver-issues-on-your-oculus-headset/"><u>Resolved: Fixing Graphics Driver Issues on Your Oculus Headset</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-for-silent-screens-bring-the-audio-alive-to-roblox-on-your-win11win10-pcs/"><u>Solution for Silent Screens: Bring the Audio Alive to Roblox on Your Win11/Win10 PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-challenge-of-stuck-discord-live-streams/"><u>Solved! Overcoming the Challenge of Stuck Discord Live Streams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-stuck-or-non-responsive-minecraft-crashes-pc-edition-tips-and-tricks/"><u>Solving Stuck or Non-Responsive Minecraft Crashes: PC Edition Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/synthesize-shots-the-photo-montage-methodology-for-2024/"><u>Synthesize Shots  The Photo Montage Methodology for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-evolution-samsung-ubd-k8500-2023-edition/"><u>The Evolution  Samsung UBD-K8500 2023 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-5-solutions-to-resolve-zoom-cant-start-video-issues/"><u>Top 5 Solutions to Resolve 'Zoom Can't Start Video' Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-completed-geforce-software-now-accurately-fetches-user-setup-information/"><u>Troubleshooting Completed: GeForce Software Now Accurately Fetches User Setup Information</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-problems-steps-to-enhance-your-street-fighter-eb-experience/"><u>Troubleshooting Lag Problems - Steps to Enhance Your Street Fighter Eb Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-why-is-my-discord-camera-not-responding/"><u>Troubleshooting Tips: Why Is My Discord Camera Not Responding?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtube-videos-sound-but-dont-load-fix-it-now-tips-for-mozilla-and-google-users/"><u>YouTube Videos Sound But Don't Load? Fix It Now | Tips for Mozilla and Google Users</u></a></li>
+</ul></div>

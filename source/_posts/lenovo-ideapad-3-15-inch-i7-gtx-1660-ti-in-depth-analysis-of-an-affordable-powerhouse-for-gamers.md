@@ -1,7 +1,7 @@
 ---
 title: Lenovo IdeaPad 3 15-Inch (I7, GTX 1660 Ti) - In-Depth Analysis of an Affordable Powerhouse for Gamers
-date: 2024-08-26 16:47:59
-updated: 2024-08-29 12:17:49
+date: 2024-08-27T23:55:14.165Z
+updated: 2024-08-28T23:55:14.165Z
 tags:
   - windows
 categories:
@@ -108,6 +108,9 @@ Expand
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For a gaming laptop, the LOQ 15IAX9I has surprisingly conservative looks. Outside of some dramatic angles on the rear edges of the unit, it could easily pass for your average business laptop.
@@ -128,6 +131,9 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the right side of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-loq-15iax9i_53589683994_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The right side of the laptop features a multi-purpose USB Type-C connector, a camera switch that can physically disable the built-in webcam, a combo 3.5mm audio jack, and another USB 3.2 Gen 1 Type-A connector. Overall, there are not a lot of ports in comparison to some other laptops of this size, but it does feature just about everything most users would typically need.
@@ -142,10 +148,16 @@ Jerome Thomas / How-To Geek
 
  The power button turns on or puts the laptop to sleep, but it also has an LED ring to indicate operating mode. Blue is a low-performance quiet mode, red is performance mode, white is a balance between the two, and purple is for a custom mode should you want to set your own parameters. Naturally, the Red performance mode uses the most power, has the most fan noise, and drains the battery the fastest, so it's best to leave the laptop plugged in when using this more game-centric setting.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Sights and Sounds: Optimized for Gaming** 
 
 ![Direct view of the Lenovo LOQ 15IAX9I display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-homescreen-of-the-lenovo-loq-15iax9i-2_53589365651_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The 15.6-inch 1,920 x 1,080 resolution IPS display has good clarity, brightness (350 nits), and color, with only slight dimming when viewed off-angle. The fast 144Hz refresh rate is a nice bonus for smoother gaming. HDR video streaming is supported, but there's no HDR support for anything else.
@@ -162,6 +174,9 @@ Jerome Thomas / How-To Geek
 
 ![Angled view of the opened and powered on Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-powered-on-2_53589684004_o.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  While 1,920 x 1,080 is merely adequate for productivity purposes, it's actually a good resolution for gaming. It's a common gaming resolution that allows for solid frame rates on even modest hardware. Thanks to its reliance on Intel ARC A530M graphics, this "modest hardware" tag also applies to the LOQ 15IAX9I and its relatively pedestrian gaming capabilities.
@@ -178,6 +193,9 @@ Jerome Thomas / How-To Geek
 
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
 
  The [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop is not going to win any awards for its build quality or performance, but considering its sub-$750 retail price, often on sale, it has surprisingly few notable concessions in its overall design. It has a good keyboard, a nice display, and, if you stick to its native HD resolution, enjoyable gaming performance. If you have a limited budget and are looking for a gaming laptop that gets the basics right, it's hard to go wrong with the LOQ 15IAX9I.
@@ -208,3 +226,48 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-merging-youtube-soundtracks-to-cinematic-scenes/"><u>[New] Merging YouTube Soundtracks to Cinematic Scenes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features-for-2024/"><u>[New] Transcription Mastery for Office Productivity  Using Microsoft Word's Voice Recognition Features for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-vice-versa-top-10-alternative-crime-games/"><u>[New] Virtual Vice Versa  Top 10 Alternative Crime Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-league-of-legends-crashing-quickly-and-easily/"><u>[SOLVED] | League of Legends Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-superior-supplements-to-enhance-gopro/"><u>[Updated] 2024 Approved  Superior Supplements to Enhance GoPro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-5-innovative-youtube-thumbnail-designers-for-aspiring-filmmakers/"><u>2024 Approved  5 Innovative YouTube Thumbnail Designers for Aspiring Filmmakers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-extended-appraisal-hero4-black-performance/"><u>2024 Approved  Extended Appraisal  Hero4 Black Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-note-13-proplus-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Xiaomi Redmi Note 13 Pro+ 5G Phone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accent-enhancement-through-challenging-twisters-100/"><u>Accent Enhancement Through Challenging Twisters (100)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007455861-beat-game-bugs-once-and-for-all-learn-about-the-eight-best-solutions-to-fix-multiversus-crashes-today/"><u>Beat Game Bugs Once & For All: Learn About the Eight Best Solutions to Fix MultiVersus Crashes Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-freezing-issues-comprehensive-troubleshooting-guide/"><u>Call of Duty: Warzone Freezing Issues - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722982394923-dayz-frame-rate-booster-rapid-results-for-smoother-gameplay/"><u>DayZ Frame Rate Booster - Rapid Results for Smoother Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-repair-tips-resolving-msi-mystic-light-malfunction-on-windows-systems/"><u>DIY Repair Tips - Resolving MSI Mystic Light Malfunction on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/double-impact-understanding-the-two-crash-scenario-on-your-computer/"><u>Double Impact: Understanding the Two-Crash Scenario on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-solve-input-lag-and-freezing-problems-in-csgo/"><u>Effortless Ways to Solve Input Lag & Freezing Problems in CS:GO</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elden-rings-launch-put-on-hold-uncovering-the-causes-and-new-timeline/"><u>Elden Ring's Launch Put on Hold — Uncovering the Causes and New Timeline</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-solutions-overcoming-apex-legends-load-errors-effectively/"><u>Fast Track Solutions: Overcoming Apex Legends Load Errors Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-remnant-from-the-ashes-no-more-crashing-problems/"><u>Fixing 'Remnant: From the Ashes' - No More Crashing Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-itunes-how-to-get-your-iphone-recognized-on-windows-11/"><u>Fixing Itunes: How to Get Your iPhone Recognized on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-missing-drivershardware-errors-in-rainbow-six-mobile-adventure/"><u>Fixing the Missing Drivers/Hardware Errors in Rainbow Six Mobile Adventure</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-the-most-from-your-budget-with-eyoys-em105-a-must-read-for-fans-of-portable-105-monitors/"><u>Get the Most From Your Budget with EYOY's EM105 - A Must-Read for Fans of Portable 10.5 Monitors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-combat-high-latency-issues-during-multiplayer-sessions-of-left-4-dead-origins/"><u>How to Combat High Latency Issues During Multiplayer Sessions of Left 4 Dead Origins</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40i-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 40i Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-engaging-audiences-the-path-to-instagram-video-fame/"><u>In 2024, Engaging Audiences  The Path to Instagram Video Fame</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-quick-and-easy-the-5-best-tools-for-facebook-live-videos/"><u>In 2024, Quick & Easy  The 5 Best Tools for Facebook Live Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/introducing-the-future-of-ai-assistance-7-stunning-features-of-bard-showcased-at-google-io-2023/"><u>Introducing the Future of AI Assistance: 7 Stunning Features of BARD Showcased at Google I/O #2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/logitech-c920-camera-malfunction-heres-how-to-restore-functionality/"><u>Logitech C920 Camera Malfunction? Here's How to Restore Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-flight-simulator-2020-update-issue-resolved-no-more-endless-loading/"><u>Microsoft Flight Simulator 2020 Update Issue Resolved - No More Endless Loading</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-movie-editor-complete-guide-on-how-to-edit-movies-or-video/"><u>New Movie Editor Complete Guide on How to Edit Movies or Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-and-correcting-high-cpu-consumption-in-newly-installed-os-versions/"><u>Optimizing and Correcting High CPU Consumption in Newly Installed OS Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-fixing-gpu-usage-issues-in-warzone-for-windows-etitan-10-users/"><u>Optimizing Performance: Fixing GPU Usage Issues in Warzone for Windows eTitan 10 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-pc-version-freezing-issue-resolved/"><u>Pathfinder: Wrath of the Righteous PC Version - Freezing Issue Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-fixing-malfunctions-in-phasmophobia-virtual-reality-experience/"><u>Solutions for Fixing Malfunctions in Phasmophobia Virtual Reality Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-superman-character-glitch-in-pc-games/"><u>Solving the 'Superman' Character Glitch in PC Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speed-boosting-hacks-for-faster-download-rates-on-utorrent-software/"><u>Speed Boosting Hacks for Faster Download Rates on uTorrent Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-reliable-fixes-to-stop-nba-2k23-from-crashing-on-your-pc/"><u>Top 7 Reliable Fixes to Stop NBA 2K23 From Crashing on Your PC!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-stable-sea-of-thieves-gaming-experience/"><u>Troubleshooting Tips for a Stable Sea of Thieves Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-continuous-play-diablo-immortals-top-anti-crashing-hacks-for-gamers/"><u>Unlock Continuous Play: Diablo Immortal's Top Anti-Crashing Hacks for Gamers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-hardware-secrets-with-toms-analytical-guidance/"><u>Unveiling Hardware Secrets with Tom’s Analytical Guidance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xbox-live-outage-how-to-verify-the-current-status-of-xbox-services/"><u>Xbox Live Outage: How to Verify the Current Status of Xbox Services</u></a></li>
+</ul></div>

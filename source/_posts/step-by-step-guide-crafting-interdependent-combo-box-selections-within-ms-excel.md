@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting Interdependent Combo Box Selections Within MS Excel"
-date: 2024-08-27 13:43:29
-updated: 2024-08-29 11:22:27
+date: 2024-08-27T23:56:24.014Z
+updated: 2024-08-28T23:56:24.014Z
 tags:
   - excel
 categories:
@@ -39,6 +39,9 @@ Related: [How to Add a Drop-Down List to a Cell in Excel](https://hardware-updat
 
 ![Name a cell group in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/NameCellGroupDependentList-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
  The names for each group should match the list items in your first dropdown.
 
  Using our example, we'll name our groups with the departments in our first list: Marketing, Finance, and HR.
@@ -47,6 +50,9 @@ Related: [How to Add a Drop-Down List to a Cell in Excel](https://hardware-updat
 
  You can add the items for your dependent list on the same sheet where the list will reside or on a different one. For the purposes of this how-to, you'll notice that we have everything on the same sheet.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ##  Creating the Dependent Drop-Down List
 
  Once all of your list items are in a sheet and named, it's time to create the second drop-down list. You'll use [the Data Validation feature in Excel](https://extra-lessons.techidaily.com/mastering-iphone-saving-and-utilizing-gifs-effectively/), just like when creating your first list.
@@ -55,16 +61,38 @@ Related: [How to Add a Drop-Down List to a Cell in Excel](https://hardware-updat
 
 ![Click Data Validation on the Data tab in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/DataTabValidationDependentList-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
  Choose the Settings tab in the pop-up window. Under Allow, pick "List," and to the right, check the box for In-Cell Dropdown. Optionally, you can check the box to Ignore Blank cells if you like.
 
 ![Select List and In-Cell Dropdown](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/DataValidationDependentList-Excel.png) 
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the Source box, enter the formula below. Be sure to replace the cell reference in parentheses with the cell containing your first drop-down list.
 
 =INDIRECT($B$6)
 
 ![Add INDIRECT as the Source](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/IndirectSourceDependentList-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The INDIRECT function "returns the reference specified by a text string." For additional details on this function, check out the [Microsoft Support](https://support.microsoft.com/en-us/office/indirect-function-474b3a3a-8a26-4f44-b491-92b6306fa261) page.
 
  If you'd like to include an Input Message or Error Alert, select those tabs in the pop-up window and enter the details. When you finish, click "OK" to add the drop-down list to the cell.
@@ -73,6 +101,9 @@ Related: [How to Add a Drop-Down List to a Cell in Excel](https://hardware-updat
 
 ![Dependent drop-down list in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/DependentDropdownList-Excel.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  For quicker data entry for yourself or your collaborators, try a dependent drop-down list in Excel!
 
 <ins class="adsbygoogle"
@@ -89,3 +120,46 @@ Related: [How to Add a Drop-Down List to a Cell in Excel](https://hardware-updat
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-crafting-the-ideal-voice-over-soundtrack/"><u>[New] Crafting the Ideal Voice Over Soundtrack</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>[New] How To Upload Videos to YouTube  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-whimsical-worlds-kids-fun-game-selection/"><u>[New] In 2024, Whimsical Worlds - Kids' Fun Game Selection</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-the-viral-potential-of-your-instagram-unboxing-content/"><u>[New] Unleash the Viral Potential of Your Instagram Unboxing Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-grasping-youtube-seo-a-guide-to-keyword-discovery/"><u>[Updated] In 2024, Grasping YouTube SEO  A Guide to Keyword Discovery</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-mycam-recorder-review/"><u>[Updated] MyCam Recorder Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-5-pc-issues-discover-the-top-tips-to-eliminate-in-game-crashes-and-enjoy-seamless-play/"><u>Battlefield 5 PC Issues? Discover the Top Tips to Eliminate In-Game Crashes and Enjoy Seamless Play!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-hack-resolving-download-problems-with-cyberpunk-2077-on-steam-platform/"><u>Complete Hack: Resolving Download Problems with Cyberpunk 2077 on Steam Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-error-code-23-in-apex-legends-pro-tips-and-guides-to-get-you-back-on-track/"><u>Conquering Error Code 23 in Apex Legends: Pro Tips and Guides to Get You Back on Track</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crimson-update-kit-for-2024/"><u>Crimson Update Kit for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/enhancing-combat-efficiency-in-god-of-war/"><u>Enhancing Combat Efficiency in 'God of War'</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-acurite-pro-01036m-meter-uncomplicated-setup-sturdy-construction-reviewed/"><u>Expert Analysis of the AcuRite Pro 01036M Meter: Uncomplicated Setup, Sturdy Construction Reviewed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-to-overcoming-back-4-bloods-unreal-engine-4-gobi-error-for-enhanced-gameplay/"><u>Expert Guide to Overcoming Back 4 Blood's Unreal Engine 4 Gobi Error for Enhanced Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-address-frame-rate-drops-while-playing-f1-2n21-on-a-desktop-system/"><u>Expert Tips to Address Frame Rate Drops While Playing F1 2N21 on a Desktop System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-a-broken-steam-game-disk-without-hassle-tips-and-tricks-to-get-gaming-again/"><u>Fix a Broken Steam Game Disk Without Hassle: Tips and Tricks to Get Gaming Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-fortnite-load-failures-fast-expert-solutions/"><u>Fix Fortnite Load Failures Fast: Expert Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-red-dead-redemption-2-troubleshooting-pc-game-crashes/"><u>Fixing Red Dead Redemption 2: Troubleshooting PC Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-stagnation-expert-advice-on-starting-your-witcher-3-journey-without-glitches/"><u>Fixing Stagnation: Expert Advice on Starting Your Witcher 3 Journey Without Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-ls-0013-troubleshooting-a-step-by-step-solution/"><u>Fortnite LS-0013 Troubleshooting: A Step by Step Solution</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10-visionary-flicks-that-empower-you/"><u>In 2024, 10 Visionary Flicks That Empower You</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-igtv-creation-insider-techniques-for-maximum-impact/"><u>In 2024, Mastering IGTV Creation  Insider Techniques for Maximum Impact</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-quick-and-easy-video-edits-a-gopro-quik-tutorial-for-macbook-users-for-2024/"><u>New Quick and Easy Video Edits A GoPro Quik Tutorial for MacBook Users for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persistent-crashing-woes-heres-how-to-optimize-your-gameplay-experience-with-state-of-decay-2/"><u>Persistent Crashing Woes? Here's How to Optimize Your Gameplay Experience with State of Decay 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-steam-content-file-blocked-issue/"><u>Resolved: Fixing the 'Steam Content File Blocked' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-startup-issues-with-the-enchanter-program-on-desktop-computers/"><u>Resolving Startup Issues with the Enchanter Program on Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-expert-troubleshooting-tips-for-when-minecraft-wont-start/"><u>Revamp Your Gaming: Expert Troubleshooting Tips for When Minecraft Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-frustrating-image-quivers-fix-your-screen-flicker-today/"><u>Say Goodbye to Frustrating Image Quivers: Fix Your Screen Flicker Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-when-fallout-76-fails-on-pc/"><u>Solution Steps for When Fallout 76 Fails on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-ls-0013-issue-in-borderlands-3-a-step-by-step-guide/"><u>Solving the LS-0013 Issue in Borderlands 3: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-restoring-your-paradox-launchers-functionality/"><u>The Ultimate Guide to Restoring Your Paradox Launcher's Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-saga-troy-playable-again-after-fixing-pc-compatibility-issues/"><u>Total War Saga: Troy Playable Again After Fixing PC Compatibility Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-playing-assassins-creed-mirage-essential-launch-issues-and-solutions/"><u>Trouble Playing Assassin's Creed: Mirage ? Essential Launch Issues and Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-apex-legends-loading-problems-in-minutes/"><u>Troubleshoot Apex Legends Loading Problems in Minutes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-guide-for-stable-play-of-horizon-zero-dawn-on-desktops/"><u>Troubleshooting Complete Guide for Stable Play of Horizon Zero Dawn on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tip-fixed-lacking-available-space-error-in-god-of-war-gameplay/"><u>Troubleshooting Tip: Fixed 'Lacking Available Space' Error in God of War Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-the-crossbow-error-in-minecraft/"><u>Troubleshooting Tips: Resolving the 'Crossbow' Error in Minecraft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-fix-incessant-load-screen-in-red-dead-redemption-cuh/"><u>Troubleshooting: How to Fix Incessant Load Screen in Red Dead Redemption Cuh</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-persistent-crash-issues-in-rust-programs/"><u>Understanding and Fixing Persistent Crash Issues in Rust Programs</u></a></li>
+</ul></div>

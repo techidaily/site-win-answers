@@ -1,7 +1,7 @@
 ---
 title: "Creating Your First Basic Financial Plan with Microsoft Excel: A Step-by-Step Guide"
-date: 2024-08-26 10:14:42
-updated: 2024-08-29 12:54:48
+date: 2024-08-27T23:57:21.857Z
+updated: 2024-08-28T23:57:21.857Z
 tags:
   - excel
 categories:
@@ -41,6 +41,10 @@ Related: [How To Create Custom Templates in Excel](https://iphone-unlock.techida
 
 ![Office budget templates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/OfficeTemplates-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ##  Use a Third-Party Budget Template
 
  If you've browsed Microsoft's budget templates and don't see one you like, you can choose a third-party template. Sites like [Vertext42](https://www.vertex42.com/) and [Spreadsheet123](https://www.spreadsheet123.com/) offer nice collections of budget templates.
@@ -65,14 +69,23 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![Title and labels for a budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Titles-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
  If you have more than one source of income such as more than one earner, multiple jobs, or dividends from investments, you can list those separately in your income section.
 
 ![Income in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Income-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then, list all of your expenses. Be sure to include all bills, loans, and miscellaneous expenses.
 
 ![Expenses in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Expenses-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
  Next, head back to the top and enter the months across the second row, starting in the second column. If you prefer a weekly budget, you can enter the week numbers or for a daily budget, enter the days of the week.
 
 ![Months in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Months-ExcelCreateBudget.png) 
@@ -91,6 +104,9 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![Income in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Income-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can then copy both total formulas across the rows for the remaining months. Select the cell with the formula, use the fill handle to drag to the remaining columns, and release. Although some months display $0, you'll have the formulas ready to go when you add the amounts later.
 
 ![Use Fill for the SUM formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FillSum-ExcelCreateBudget.png) 
@@ -103,10 +119,16 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![Subtraction formula for remaining money](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormulaRemaining-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
  Press Enter or Return and you'll see your remaining money at the end of the month. Remember, you can use the fill feature to copy the formula to the rest of the months. Optionally, you can label this amount in the first column as well as the income and expense totals if you like.
 
 ![Labels for totals and remaining money](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/TotalRemainingLabels-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Once you have this basic budget built, you can use Excel's formatting features to spruce up the sheet if you like. Here, we simply increased the font size for the title and added font colors and bold for income expenses, totals, and months. Visit the Font section of the Home tab for options like these.
 
 ![Font formatted in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormattedFont-ExcelCreateBudget.png) 
@@ -137,3 +159,56 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-ultimate-guide-to-the-top-8-discreet-content-collectors/"><u>[New] Ultimate Guide to the Top 8 Discreet Content Collectors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-dayz-keeps-crashing-quickly-and-easily/"><u>[Solved] DayZ Keeps Crashing | Quickly & Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010468510-solved-outriders-wont-start-on-pc-2022/"><u>[SOLVED] Outriders Won’t Start on PC 2022</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-step-by-step-guide-to-autoplaying-youtube-in-facebook-groups-and-pages-for-2024/"><u>[Updated] A Step-by-Step Guide to Autoplaying Youtube in Facebook Groups and Pages for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[Updated] In 2024, 'VidVault'  Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-your-ultimate-guide-best-mac-screen-recorders/"><u>[Updated] Your Ultimate Guide  Best Mac Screen Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-5-high-quality-displays-for-unparalleled-games/"><u>2024 Approved  5 High-Quality Displays for Unparalleled Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-tiny-videos-deciphered-crucial-elements/"><u>2024 Approved  Tiny Videos Deciphered  Crucial Elements!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/apex-legends-troubleshooting-how-to-resolve-error-code-23-quickly/"><u>Apex Legends Troubleshooting: How to Resolve Error Code 23 Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007756131-battle-ready-solve-your-lol-connection-woes-once-and-for-all/"><u>Battle-Ready: Solve Your LoL Connection Woes Once and For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-no-user-found-in-csgo-with-these-5-essential-troubleshooting-tips/"><u>Beat 'No User Found' In CSGO with These 5 Essential Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-rainbow-six-siege-error-detailed-strategies-for-resolving-code-e3-0x0001000b/"><u>Conquer Rainbow Six Siege Error: Detailed Strategies for Resolving Code E3-0X0001000b</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-fix-a-deadly-ark-error-tips-and-tricks/"><u>Effective Strategies to Fix a Deadly Ark Error - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-and-tricks-to-overcome-alan-wake-2s-persistent-crashes-a-2024-how-to-guide/"><u>Expert Tips and Tricks to Overcome Alan Wake 2'S Persistent Crashes - A 2024 How-To Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-msedgeexe-crashes-troubleshooting-steps-for-stable-edge-browser-experience/"><u>Fixing MsEdge.exe Crashes: Troubleshooting Steps for Stable Edge Browser Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-how-gamers-overcame-fps-problems/"><u>Fixing the Frame Rate Drop in Dying Light - How Gamers Overcame FPS Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-an-ultimate-solution/"><u>Fixing the Frame Rate Drop in Dying Light: An Ultimate Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004857007-football-manager-2020-stability-improvements-no-more-crashes/"><u>Football Manager 2020 Stability Improvements – No More Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-changer-alert-solving-the-dark-souls-iii-unwanted-reboots-challenge/"><u>Game-Changer Alert: Solving the Dark Souls III Unwanted Reboots Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-fixing-the-issue-of-unresponsive-amd-radeon-graphic-drivers/"><u>Guide: Fixing the Issue of Unresponsive AMD Radeon Graphic Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-dota-2-launching-problems-and-bypass-the-endless-loading-screen/"><u>How to Fix Dota 2 Launching Problems and Bypass the Endless Loading Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-issues-when-using-the-clownfish-audio-alteration-device/"><u>How to Repair Issues When Using the Clownfish Audio Alteration Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-your-pc-from-falling-asleep-automatically-simple-fixes/"><u>How to Stop Your PC From Falling Asleep Automatically - Simple Fixes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-samsung-galaxy-xcover-7-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Samsung Galaxy XCover 7 Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-solution-no-more-crashing-in-dayzones-guide/"><u>Master the Solution: No More Crashing in DayZones (Guide )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nier-gestalt-and-replicant-collection-boot-up-fixes-achieved/"><u>NieR Gestalt & Replicant Collection Boot-Up Fixes Achieved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008775294-no-more-crashes-in-nier-gestaltic-reverie-optimized-gameplay-tips-inside/"><u>No More Crashes in NieR: Gestaltic Reverie – Optimized Gameplay Tips Inside!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/non-retweeting-video-tweets-from-your-phone-for-2024/"><u>Non-Retweeting Video Tweets From Your Phone for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-visual-hitches-fixing-the-dark-display-fault-in-world-war-ii-call-of-duty-game-on-pc/"><u>Overcoming Visual Hitches: Fixing the Dark Display Fault in World War II - Call of Duty Game on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-solutions-for-stability-issues-in-robocop-rupture/"><u>PC Gaming Made Easy: Solutions for Stability Issues in 'Robocop: Rupture'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-your-game-from-crashing-a-guide-for-doom-eternal-players/"><u>Preventing Your Game From Crashing - A Guide for DOOM Eternal Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-issues-with-missing-textures-in-call-of-duty-warzone/"><u>Resolved: Fixing Issues with Missing Textures in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-connection-refused-by-anticheat-issue-in-escape-from-tarkov/"><u>Resolving the 'Connection Refused by Anticheat' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/revolutionizing-supply-chain-management-with-cutting-edge-tech-insights-from-an-abbyy-authority/"><u>Revolutionizing Supply Chain Management with Cutting-Edge Tech: Insights From an ABBYY Authority</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-up-for-success-on-youtube-from-newbie-to-noteworthy-net-gain-for-2024/"><u>Setting Up for Success on Youtube  From Newbie to Noteworthy Net Gain for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Solutions for Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-tarkov-glitch-steps-to-resolve-the-e-103003-error/"><u>Solving Tarkov Glitch: Steps to Resolve the E-103003 Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-rainbow-six-siege-not-loading-issue-a-comprehensive-guide/"><u>Solving the 'Rainbow Six Siege Not Loading' Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-the-frustration-solving-constant-crashes-in-the-ascent-for-windows-users/"><u>Stop the Frustration: Solving Constant Crashes in 'The Ascent' For Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/terraria-troubleshooting-101-fixing-the-disconnect-dilemma-with-these-proven-techniques/"><u>Terraria Troubleshooting 101: Fixing the Disconnect Dilemma with These Proven Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-sons-of-the-forest-crashes-on-your-computer/"><u>Troubleshooting and Repairing Sons of the Forest Crashes on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-drops-in-ac-valhalla-for-windows-gamers/"><u>Troubleshooting and Resolving Frame Rate Drops in AC Valhalla for Windows Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-your-logiten-c920-webcam-issues/"><u>Troubleshooting Guide: Fixing Your Logiten C920 Webcam Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-hell-divers-the-twin-heroes-ii-bsod-issue-a-comprehensive-guide/"><u>Troubleshooting Hell Divers The Twin Heroes II BSoD Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-bloodhunt-game-lag-and-freezing-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve Bloodhunt Game Lag and Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fix-disconnects-and-crashes-in-granblue-fantasy-for-pc-players/"><u>Ultimate Guide to Fix Disconnects and Crashes in Granblue Fantasy for PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-issues-with-game-finals-release/"><u>Ultimate Guide: Resolving Issues with Game Finals Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-skyrocketing-your-frame-rate-and-reducing-lag-on-watch-dogs-legion/"><u>Ultimate Guide: Skyrocketing Your Frame Rate & Reducing Lag on Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-kodis-full-potential-address-and-fix-couldnt-retrieve-directory-info-issues-today/"><u>Unlock Kodi's Full Potential: Address and Fix 'Couldn't Retrieve Directory Info' Issues Today</u></a></li>
+</ul></div>

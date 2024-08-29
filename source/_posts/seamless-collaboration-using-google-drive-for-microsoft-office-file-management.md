@@ -1,7 +1,7 @@
 ---
 title: "Seamless Collaboration: Using Google Drive for Microsoft Office File Management"
-date: 2024-08-27 13:11:26
-updated: 2024-08-29 11:21:51
+date: 2024-08-27T23:57:49.334Z
+updated: 2024-08-28T23:57:49.334Z
 tags:
   - excel
 categories:
@@ -66,6 +66,9 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
 
  At this point, the file is still a Word file and you're working in Office Compatibility Mode (OCM). To convert it to a Google Docs file, select “Save as Google Docs” from the "File" menu, just like you did after dragging the Word file onto the Chrome window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  How to Work with Microsoft Office Files on Google Drive on a Mobile Device
 
  You can also open and edit Office files using the [Google Docs app for iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-docs/id842842640?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en) (for Word files), the [Google Sheets app for iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=en) (for Excel files), or the [Google Slides app for iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&hl=en) (for PowerPoint files). However, you also need to install the [Google Drive app on iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en). When you select an Office file to open in the Google Drive app, it's automatically opened in the appropriate Google document app.
@@ -74,6 +77,10 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
 
 ![18_google_drive_on_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/18_google_drive_on_ios.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
  Your Word file is automatically opened in Google Docs. You can edit the Word file as it is by tapping in the document (1) and adding content or changing existing content and formatting the text (2). Additional text and paragraph formatting options are available by clicking the text/paragraph icon on the toolbar at the top (3). When you're done editing the document, tap the check mark in the upper-left corner of the screen (4).
 
 ![18a_tapping_text_formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/18a_tapping_text_formatting.png) 
@@ -86,20 +93,33 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
 
 ![20_ocm_on_menu_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/20_ocm_on_menu_ios.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Notice in the image above that there is a Share & Export option on the menu, but when you tap on the "Share & Export" option, you'll find that there is no Share option available (on the left in the image below). Just like in a browser on the PC, you cannot share Word files in your Google Drive account. You must save a Word file as a Google Docs file if you want to share the file. Conveniently, the Share & Export submenu also allows you to "Save as Google Docs file".
 
  Once you've saved the file as a Google Docs file (which we will do next), the "Share & export" submenu includes a Share option (on the right in the image below), allowing you to share the current document with others. This submenu also includes the Save as Word (.docx) option, allowing you to convert the document back to a Word file.
 
 ![20a_share_and_export_menu_comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/20a_share_and_export_menu_comparison.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
  When you tap the "Save as Google Docs file" option on the Share & Export submenu in the Word document, a dialog box displays while the document is being saved as a Google Docs file.
 
 ![22_saving_as_google_docs_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/22_saving_as_google_docs_ios.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
  Once the document has been converted, “Office Compatibility Mode” is no longer on the main menu and some of the options are different, such as the Share & Export submenu we discussed above. Now you can edit and share your Google Docs document, and convert it back to a Word document, if you so choose.
 
 ![23_document_in_google_docs_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/23_document_in_google_docs_ios.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Back in the Google Drive app, the Google Docs version of my Word file is now available.
 
 ![24_google_docs_document_in_drive_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/24_google_docs_document_in_drive_ios.png) 
@@ -124,3 +144,44 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-top-15-latest-innovations-in-tiktok-world/"><u>[New] 2024 Approved  Top 15 Latest Innovations in TikTok World</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigating-the-pathway-to-royalty-free-images/"><u>[New] Navigating the Pathway to Royalty-Free Images</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-vrchat-not-loading-not-working-at-all/"><u>[SOLVED] VRChat Not Loading / Not Working at All</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-downloading-luts-a-compreited-resource-for-ar-experts/"><u>2024 Approved  Downloading LUTs  A Compreited Resource for AR Experts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-step-by-step-solution-correcting-crashes-in-armored-core-6-fires-of-rubicon-for-windows-pcs/"><u>A Step-by-Step Solution: Correcting Crashes in Armored Core 6: Fires of Rubicon for Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-the-darkness-solving-minecrafts-persistent-screen-troubles/"><u>Banish the Darkness: Solving Minecraft's Persistent Screen Troubles</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/broadcasting-your-favorite-fb-videos-on-big-screen/"><u>Broadcasting Your Favorite FB Videos on Big Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/closing-the-loop-on-metro-exodus-pc-enhanced-crash-issues-a-step-by-step-guide/"><u>Closing the Loop on Metro Exodus PC Enhanced Crash Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cult-of-the-lamb-malfunction-solutions-for-a-seamless-pc-gaming-experience/"><u>Cult of the Lamb Malfunction Solutions for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-mystery-in-detroit-become-human-the-ultimate-pc-gaming-journey/"><u>Decode the Mystery in 'Detroit: Become Human': The Ultimate PC Gaming Journey</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-greatest-free-online-movie-repositories-top-picks/"><u>Discover the Greatest Free Online Movie Repositories: Top Picks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epsons-confounding-error-0x97-explained/"><u>Epson's Confounding Error 0X97 Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exclusive-insights-into-why-maf/"><u>Exclusive Insights Into Why Maf</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-how-to-overcome-gameplay-interruptions-caused-by-black-screens/"><u>Far Cry 6 - How to Overcome Gameplay Interruptions Caused by Black Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-master-shader-adjustments-for-star-wars-battlefront-ii/"><u>Fast Track: Master Shader Adjustments for Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999484112-fixed-pc-release-no-more-crashes-in-five-nights-at-freddys-game/"><u>Fixed PC Release: No More Crashes in Five Nights At Freddy's Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-and-preventing-blackout-glitches-in-far-cry-6/"><u>Guide to Fixing and Preventing Blackout Glitches in Far Cry 6</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-helldiver-ii-starting-issue-eliminating-the-black-screen-problem/"><u>How to Solve Helldiver II Starting Issue - Eliminating the Black Screen Problem</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unlock-content-creation-uploading-videos/"><u>In 2024, Unlock Content Creation  Uploading Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996875267-mastering-the-field-again-mlb-the-show-21-server-problems-solved/"><u>Mastering the Field Again: MLB The Show 21 Server Problems Solved.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/on-the-go-driver-management-using-the-compact-driver-easy-application/"><u>On-the-Go Driver Management: Using the Compact Driver Easy Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-freezing-during-minecraft-play-expert-advice-for-a-smooth-experience/"><u>Overcome PC Freezing During Minecraft Play - Expert Advice for a Smooth Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-obstacle-steams-cloud-sync-error-corrected/"><u>Overcoming the Obstacle: Steam's Cloud Sync Error Corrected</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pop-culture-with-a-click-using-kinemaster-for-2024/"><u>Pop Culture with a Click  Using KineMaster for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prevent-and-solve-your-pcs-counter-strike-2-game-crashing-woes-latest-tricks/"><u>Prevent and Solve Your PC's Counter-Strike 2 Game Crashing Woes - Latest Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-ensure-your-processor-matches-vanguards-minimum-requirements/"><u>Resolved: Ensure Your Processor Matches Vanguard's Minimum Requirements</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-eliminate-lag-during-a-game-of-league-of-legends/"><u>Resolved: How to Eliminate Lag During a Game of League of Legends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-new-world-connection-issue-step-by-step-guide/"><u>Resolving the 'New World Connection Issue': Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-comprehensive-guide-to-finding-a-stable-patch-for-the-ring-of-elysium-freeze/"><u>Solved: Comprehensive Guide to Finding a Stable Patch for the Ring of Elysium Freeze</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-essential-guide-to-testing-your-hard-drives-for-free-updated-july-2024/"><u>The Essential Guide to Testing Your Hard Drives for Free (Updated July 2024)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-stability-issues-and-crashes-with-castlevania-symphony-of-the-night-on-windows/"><u>Ultimate Fix: Stability Issues & Crashes with Castlevania: Symphony of the Night on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-ping-problems-lags-and-fps-drops-in-call-of-duty-black-ops-2015/"><u>Understanding Ping Problems, Lags & FPS Drops in Call of Duty: Black Ops 2015</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-solutions-for-persistent-gray-zone-warfare-gzw-crashes-during-pc-gaming-sessions/"><u>Unraveling Solutions for Persistent Gray Zone Warfare (GZW) Crashes During PC Gaming Sessions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/weve-selected-the-five-best-free-video-compressor-apps-for-iphones-and-ipads-that-will-enable-you-to-shrink-your-videos-in-minutes-and-post-them-on-social-n/"><u>Weve Selected the Five Best Free Video Compressor Apps for iPhones and iPads that Will Enable You to Shrink Your Videos in Minutes and Post Them on Social Networks or Send Them Through Email and Mess</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-arent-my-skype-messages-sending-find-out-how-to-rectify-this-common-issue/"><u>Why Aren't My Skype Messages Sending? Find Out How to Rectify This Common Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-my-gpu-ignored-by-warzone-troubleshooting-for-players-on-windows-10-systems/"><u>Why Is My GPU Ignored by Warzone? Troubleshooting for Players on Windows 10 Systems</u></a></li>
+</ul></div>

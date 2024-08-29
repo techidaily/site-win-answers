@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating Effective Bar Charts with Microsoft Excel"
-date: 2024-08-27 15:37:42
-updated: 2024-08-29 12:26:24
+date: 2024-08-27T23:57:55.233Z
+updated: 2024-08-28T23:57:55.233Z
 tags:
   - excel
 categories:
@@ -44,6 +44,9 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 
  For this set of data, mice were bought the least with 9 sales, while headphones were bought the most with 55 sales. This comparison is visually obvious from the chart as presented.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ##  Formatting Bar Charts in Microsoft Excel
 
  By default, a bar chart in Excel is created using a set style, with a title for the chart extrapolated from one of the column labels (if available).
@@ -54,6 +57,10 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 
 Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-screen-capture.techidaily.com/2024-approved-udemy-alternatives-10-best-online-learning-sites-like-udemy/) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ###  Changing Chart Title Text
 
  To change the title text for a bar chart, double-click the title text box above the chart itself. You'll then be able to edit or format the text as required.
@@ -82,6 +89,9 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![Axis labels shown on an example Excel bar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Editing-Chart-Axis-Labels.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
  If you want to remove the labels, follow the same steps to remove the checkbox from the "Chart Elements" menu by pressing the green, "+” icon. Removing the checkbox next to the "Axis Titles" option will immediately remove the labels from view.
 
 ###  Changing Chart Style and Colors
@@ -90,18 +100,27 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![To change the chart styles for an Excel bar chart, select the chart, then press the "Chart Styles" icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Styles-Icon.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
  A list of style options will become visible in a drop-down menu under the "Style" section.
 
  Select one of these styles to change the visual appearance of your chart, including changing the bar layout and background.
 
 ![Under the &quot;Style&quot; section of the &quot;Chart Styles&quot; menu, select one of the visual chart style options to apply it to your chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Style-Options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can access the same chart styles by clicking the "Design" tab, under the "Chart Tools" section on the ribbon bar.
 
  The same chart styles will be visible under the "Chart Styles" section---clicking any of the options shown will change your chart style in the same way as the method above.
 
 ![Excel chart styles are also visible by clicking the &quot;Design&quot; tab on the ribbon bar, with styles visible under the &quot;Chart Styles&quot; section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Design-Ribbon-Tab.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also make changes to the colors used in your chart in the "Color" section of the Chart Styles menu.
 
  Color options are grouped, so select one of the color palette groupings to apply those colors to your chart.
@@ -110,6 +129,9 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
  You can test each color style by hovering over them with your mouse first. Your chart will change to show how the chart will look with those colors applied.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Further Bar Chart Formatting Options
 
  You can make further formatting changes to your bar chart by right-clicking the chart and selecting the "Format Chart Area" option.
@@ -124,6 +146,9 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![The &quot;Text Options&quot; section of the &quot;Format Chart Area&quot; menu, allowing you to make further text formatting changes to an Excel chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Text-Options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
  If you want to make further text formatting changes, you can do this using the standard text formatting options under the "Home" tab while you're editing a label.
 
 ![The &quot;Home&quot; tab on the Excel ribbon bar, with various text formatting options available](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Home-Ribbon-Tab.png) 
@@ -132,6 +157,9 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![The pop-up text box formatting menu in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Text-Box-Formatting-Options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -146,3 +174,45 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/back-nblood-troubleshooting-the-persistent-pc-crash-issue-tips-and-fixes/"><u>'Back nBlood': Troubleshooting the Persistent PC Crash Issue - Tips and Fixes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-saving-powerpoint-presentation-to-video/"><u>[New] Saving PowerPoint Presentation to Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-how-to-record-teams-video-meeting-on-desktop-and-mobile/"><u>[Updated] In 2024, How to Record Teams Video Meeting on Desktop and Mobile</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-motorola-moto-g24-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Motorola Moto G24 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-navigating-snapchat-a-commerce-strategy/"><u>2024 Approved  Navigating Snapchat  A Commerce Strategy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solution-for-boosting-speed-on-the-2amd-spotify-web-player/"><u>Comprehensive Solution for Boosting Speed on the 2Amd Spotify Web Player</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dark-souls-iii-crash-fixes-solutions-and-tips/"><u>Dark Souls III Crash Fixes: Solutions and Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-itel-a70-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Itel A70 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-to-overcome-the-palworld-eos-login-error-step-by-step-guide/"><u>Easy Fixes to Overcome the Palworld EOS Login Error - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eight-powerful-workarounds-to-ensure-marvels-guardians-of-the-galaxy-runs-without-error-on-pc-systems/"><u>Eight Powerful Workarounds to Ensure Marvel's Guardians of the Galaxy Runs Without Error on PC Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-steams-misbehavior-rapid-solutions-to-cease-game-interruptions/"><u>End Steam's Misbehavior: Rapid Solutions to Cease Game Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990700670-enhance-gameplay-in-gta-5-by-resolving-fps-drops-fast-and-efficiently/"><u>Enhance Gameplay in GTA 5 by Resolving FPS Drops Fast & Efficiently!</u></a></li>
+<li><a href="https://article-files.techidaily.com/essential-vr-adventures-on-oculus-devices/"><u>Essential VR Adventures on Oculus Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-advice-the-ultimate-method-for-refreshing-cpu-drivers-on-windows-systems/"><u>Expert Advice: The Ultimate Method for Refreshing CPU Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-steam-game-crashes-and-startup-problems-in-windows-10-easily/"><u>Fix Your Steam Game Crashes and Startup Problems in Windows 10 Easily!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/hdr-photoshop-how-to-create-hdr-images-in-photoshop-like-a-pro/"><u>HDR Photoshop  How to Create HDR Images in Photoshop Like a Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-overcome-launch-problems-with-tekken-8-on-your-computer/"><u>How To Successfully Overcome Launch Problems With Tekken 8 on Your Computer</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-plus-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Plus Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a1x-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo A1x 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-podcast-promotion-unlocked-the-seo-guide-to-top-spotings/"><u>In 2024, Podcast Promotion Unlocked  The SEO Guide to Top Spotings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-transform-your-snaps-the-complete-guide-to-snapchat-editing/"><u>In 2024, Transform Your Snaps  The Complete Guide to Snapchat Editing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-story-the-reasons-for-assassins-creed-valhallas-delayed-release-explained/"><u>Inside Story: The Reasons for Assassin's Creed Valhalla's Delayed Release Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/life-is-strange-resolving-the-true-colors-glitch-a-step-by-step-tutorial/"><u>Life Is Strange: Resolving the True Colors Glitch - A Step by Step Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mafia-ultimate-collection-release-delayed-resolution-inside/"><u>Mafia: Ultimate Collection Release Delayed - Resolution Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-low-cpu-play-in-phasmophobia-a-step-by-step-guide/"><u>Mastering Low-CPU Play in Phasmophobia: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-freezes-solve-praey-for-the-gods-pc-stability-issues/"><u>No More Freezes! Solve Praey for the Gods PC Stability Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-fix-updated-fnaf-security-breach-eliminates-previous-errors-and-crashes/"><u>PC Gaming Fix - Updated FNAF Security Breach Eliminates Previous Errors & Crashes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pinnacle-windows-instant-image-viewer-for-2024/"><u>Pinnacle Window's Instant Image Viewer for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-playstation-game-errors-successful-startup-of-payday-2-on-pc/"><u>Resolving PlayStation Game Errors: Successful Startup of Payday 2 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-video-game-stutter-essential-2024-guidance-for-pc-users/"><u>Solving Your Video Game Stutter: Essential 2024 Guidance for PC Users</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/strategic-instagram-video-marketing-secrets-to-captivating-audiences/"><u>Strategic Instagram Video Marketing  Secrets to Captivating Audiences</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-directx-glitches-in-call-of-duty-moa-2/"><u>Troubleshooting and Fixing DirectX Glitches in Call of Duty MOA 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-forza-horizon-4-on-windows-computers/"><u>Troubleshooting Guide: Resolving Continuous Crashes in Forza Horizon 4 on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-pc-issues-with-minecraft-dungeons-continuous-crashes/"><u>Troubleshooting Guide: Solving PC Issues with Minecraft Dungeons Continuous Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-enhancing-ark-survival-evolved-gameplay-with-pc-fps-boost/"><u>Ultimate Guide to Enhancing ARK Survival Evolved Gameplay with PC FPS Boost</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wow-no-more-permanent-solution-for-screen-flickering-problems/"><u>Wow No More: Permanent Solution for Screen Flickering Problems</u></a></li>
+<li><a href="https://techidaily.com/z50-ultra-music-recovery-recover-deleted-music-from-z50-ultra-by-fonelab-android-recover-music/"><u>Z50 Ultra Music Recovery - Recover Deleted Music from Z50 Ultra</u></a></li>
+</ul></div>

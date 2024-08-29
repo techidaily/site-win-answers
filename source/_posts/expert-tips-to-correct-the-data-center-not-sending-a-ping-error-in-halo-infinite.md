@@ -1,0 +1,167 @@
+---
+title: Expert Tips to Correct the Data Center Not Sending a Ping Error in Halo Infinite
+date: 2024-08-28T00:00:21.790Z
+updated: 2024-08-29T00:00:21.790Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Expert Tips to Correct the Data Center Not Sending a Ping Error in Halo Infinite
+excerpt: This Article Describes Expert Tips to Correct the Data Center Not Sending a Ping Error in Halo Infinite
+thumbnail: https://thmb.techidaily.com/7cbb37a561d23a9200d8d1b515569d43214c3157eaf7507ac4a1589610732acc.jpg
+---
+
+## Dive Into the Epic World of Tiny Tina - Now Running Smoothly for an Uninterrupted PC Gaming Experience
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/tiny-tinas-wonderlands.jpg)
+
+ Tiny Tina’s Wonderlands is an exciting Borderland game of this year. While many players are enjoying the fun and engaging gameplay, there are quite a lot of complaints about the game crashes. If you’re also experiencing Tiny Tina’s Wonderlands crashing on your Windows PC, don’t worry. We’ve got some simple fixes for you.
+
+## Try these fixes
+
+ Here are 5 methods for you to fix the Tiny Tina’s Wonderlands crashes. You don’t have to try them all. Just work from the top down until you find the one that solves your problem.
+
+1. **[Disable peripherals](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run the game on DX11](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1 – Disable peripherals
+
+ According to some players, Tiny Tina’s Wonderlands crashes when they have a controller connected. While peripherals can add more fun to games, they might trigger compatibility issues with new titles. So if you’re using any peripherals like   **a wheel, controller, other USB devices or even the second monitor** , simply unplug them and see how thing goes. If the problem persists, check out more solutions below.
+
+### Fix 2 – Run the game on DX11
+
+ The game launches in DX12 by default. But if you receive a specific error saying DX12 is not supported, you should force the DX11 mode. This may eliminate the crashes and make your game more stable at a lower performance.
+
+1. Launch Epic Games launcher and navigate to the**Settings** tab.
+2. Scroll down to the bottom and expand Tiny Tina’s Wonderlands under Manage Games.
+3. Check**Additional Command Line Arguments** and enter**\-dx11** in the field.
+
+ Now see if you can play the game smoothly. If not, move forward to the next fix below.
+
+### Fix 3 – Update your graphics driver
+
+ A faulty or outdated graphics driver is one of the most common causes of game crashes. Although Tiny Tina’s Wonderlands doesn’t require demanding hardware, you still need to make sure your device drivers, especially the GPU driver, are already up-to-date for the best game performance.
+
+ Major GPU manufacturers constantly roll out new drivers to provide performance improvements. You can visit their websites, **[AMD](https://www.amd.com/en/support)**  or **[NVIDIA](https://www.nvidia.com/download/index.aspx)**  , to download the latest graphics driver and install them manually.
+
+ If you don’t have the time or patience to update the graphics driver manually, **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  will do this automatically for you. Driver Easy will recognize your system and find all the most recent and correct drivers for it. You don’t need to risk downloading and installing the wrong driver or worry about making a mistake when installing.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-1.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If you’re not ready to pay, you can click the**Update** button next to the flagged GPU driver to download the correct version of that driver, then you’ll need to install it manually.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ See if a driver update gives you luck. If the game is still crashing, try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4 – Verify integrity of game files
+
+ Missing or damaged game file is another known culprit of game issues or errors. To see if that’s the reason for Tiny Tina’s Wonderlands crashing, you could use the built-in tool of your game launcher to identify and repair the faulty files easily.
+
+1. Open the Epic Games Launcher and navigate to the**Library** tab.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files-2.jpg)
+2. Locate Tiny Tina’s Wonderlands. Click the**three-dot icon** and select**Verify** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ It will take a while for the process to complete. Once done, restart the game to see how it works. If it keeps crashing, there’s the last fix to try.
+
+### Fix 5 – Stop overclocking
+
+ Overclocking your CPU and GPU can give you a significant performance boost, but it can possibly lead to instability issues like a game crash. To rule out this cause, you should just**turn off all the overclocking utilities** and**reset your processor to the default** . If doing this alone doesn’t stop the crashes, try deleting certain game files. This is an effective workaround for Tiny Tina’s Wonderlands not launching or crashing at startup. Here are the steps:
+
+1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command.
+2. Type**%localappdata%\\Tiny Tina’s Wonderlands\\Saved** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/03/delete-saved-files.jpg)
+3. Delete all the files.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Restart Tiny Tina’s Wonderlands and see if it runs as normal. If this method helps, you may repeat the steps every time you launch the game.
+
+---
+
+ Hopefully this post helps you with the Tiny Tina’s crashing issue. If you have any questions or suggestions, please feel free to leave a comment below.
+
+* [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-crafting-memes-via-adobe-software-for-2024/"><u>[New] Crafting Memes via Adobe Software for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-leveraging-camera-roll-for-social-media-step-by-step-guide/"><u>[New] Leveraging Camera Roll for Social Media - Step-by-Step Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-loop-lovers-guide-instagrams-best-for-repeat-viewers/"><u>2024 Approved  Loop Lovers Guide  Instagram's Best for Repeat Viewers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tailoring-your-videos-for-impact-on-instagram-feed/"><u>2024 Approved  Tailoring Your Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-cod-vanguard-lag-and-freezes-effective-fixes-for-gaming-rig/"><u>Banish CoD Vanguard Lag & Freezes: Effective Fixes for Gaming Rig</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-game-crashes-corrective-measures-for-disc-read-errors-in-cod-warzone-versions-50-and-3nepoch-with-ease/"><u>Banish Game Crashes - Corrective Measures for Disc Read Errors in COD Warzone Versions 5.0 and 3.n_epoch with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bioshock-2-enhanced-remaster-update-fixing-glitches-and-improving-experience/"><u>Bioshock 2: Enhanced Remaster Update - Fixing Glitches & Improving Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-high-latency-in-bless-unleashed-techniques-for-a-seamless-pc-gaming-experience/"><u>Conquer High Latency in Bless Unleashed: Techniques for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-void-how-to-tackle-elden-rings-daunting-start-up-screen-trouble/"><u>Conquer the Void: How to Tackle Elden Ring's Daunting Start-Up Screen Trouble</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-realme-gt-5-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme GT 5 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-erratic-visuals-a-players-guide-to-fixing-errgfxstate-on-red-dead-redemption-2/"><u>Eliminating Erratic Visuals: A Player's Guide to Fixing ERR_GFX_STATE on Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensure-a-seamless-experience-fixes-for-launching-stardew-valley-successfully/"><u>Ensure a Seamless Experience: Fixes for Launching Stardew Valley Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-correct-the-errgfxstate-problem-in-red-dead-redemption-2/"><u>Expert Tips to Correct the ERR_GFX_STATE Problem in Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003987060-fortnite-login-issues-resolve-them-fast-and-effortlessly/"><u>Fortnite Login Issues? Resolve Them Fast and Effortlessly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/from-darkness-to-detail-overcoming-black-screens-in-fallout-4-gaming/"><u>From Darkness to Detail: Overcoming Black Screens in Fallout 4 Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-into-the-game-overcoming-pc-compatibility-problems-with-fifa-19-issues-resolved/"><u>Get Back Into the Game: Overcoming PC Compatibility Problems with FIFA 19 [Issues Resolved]</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/harmonizing-snaps-integrating-tunes-seamlessly/"><u>Harmonizing Snaps  Integrating Tunes Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-madden-nfl-22-persistent-loading-screen-issue/"><u>How to Resolve Madden NFL 22 Persistent Loading Screen Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-unfreeze-your-chrome-window-in-windows-10-a-step-by-step-guide/"><u>How to Unfreeze Your Chrome Window in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-xiaomi-14-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Xiaomi 14 Pro Through Google Earth?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-effective-fixes-for-football-manager-2019-runtime-errors/"><u>Mastering Stability: Effective Fixes for Football Manager 2019 Runtime Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mw3-not-starting-heres-your-guide-to-overcoming-boot-errors-in-modern-warfare-3/"><u>MW3 Not Starting? Here's Your Guide to Overcoming Boot Errors in Modern Warfare 3</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-unlock-your-creativity-top-movie-making-software-for-home-dvds/"><u>New In 2024, Unlock Your Creativity Top Movie Making Software for Home DVDs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/precision-in-proportion-finding-aspect-ratio-perfection-for-2024/"><u>Precision in Proportion  Finding Aspect Ratio Perfection for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/recovering-a-broken-link-how-to-reestablish-connectivity-in-diablo-iii/"><u>Recovering a Broken Link: How to Reestablish Connectivity in Diablo III</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-scavengers-crashing-on-your-pc/"><u>Resolved: How To Fix Scavengers Crashing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-compatibility-issues-with-call-of-duty-modern-warfare-updates/"><u>Resolving Compatibility Issues with Call of Duty: Modern Warfare Updates</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sharpening-chatgpt-skills-without-redundant-tools/"><u>Sharpening ChatGPT Skills without Redundant Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-mass-effect-legendary-edition-not-launching-correctly/"><u>Solving the Issue of Mass Effect Legendary Edition Not Launching Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-discord-stream-crashes-a-step-by-step-guide-for-smooth-broadcasting/"><u>Troubleshooting Discord Stream Crashes - A Step-by-Step Guide for Smooth Broadcasting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-freezes-while-playing-fortnite-on-pc-updated/"><u>Troubleshooting Guide: Overcoming Freezes While Playing Fortnite on PC (Updated )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-tarkov-error-code-103003/"><u>Troubleshooting Guide: Resolving Tarkov Error Code 103003</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-anticheat-failed-to-connect-errors-in-escape-from-tarkov/"><u>Troubleshooting Steps for 'Anticheat Failed to Connect' Errors in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-fix-issues-when-cortana-is-unresponsive/"><u>Troubleshooting: How to Fix Issues When Cortana Is Unresponsive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-phasmophobia-glitches-and-bugs/"><u>Ultimate Guide: Solving Phasmophobia Glitches & Bugs</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 7</u></a></li>
+</ul></div>

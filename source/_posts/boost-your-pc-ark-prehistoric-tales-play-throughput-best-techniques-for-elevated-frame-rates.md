@@ -1,0 +1,225 @@
+---
+title: "Boost Your PC ARK: Prehistoric Tales Play Throughput - Best Techniques for Elevated Frame Rates"
+date: 2024-08-28T00:01:30.966Z
+updated: 2024-08-29T00:01:30.966Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Boost Your PC ARK: Prehistoric Tales Play Throughput - Best Techniques for Elevated Frame Rates"
+excerpt: "This Article Describes Boost Your PC ARK: Prehistoric Tales Play Throughput - Best Techniques for Elevated Frame Rates"
+thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a50ab2ad1ac5bcf151b169014.jpg
+---
+
+## Troubleshoot and Restore Your Discord Overlay in Minutes - Learn How Today
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap1-300x146.jpg)
+
+ If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
+
+## **Fixes to try:**
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Check if you enabled in-game overlay in Discord](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run Discord as administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Add Discord to the whitelist of your third-party antivirus application](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Check for software interruption](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Disable hardware acceleration in Discord](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
+7. [**Bonus tip: How to fix Discord connection errors?**](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### Fix 1: Check if you enabled in-game overlay in Discord
+
+ Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
+
+ 1) Click**the gear button** to open**User Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
+
+ 2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
+
+ Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+### Fix 2: Run Discord as administrator
+
+ If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
+
+ 1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+ 2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+ 3) On your desktop, double-click the shortcut of**Discord** to open it.
+
+ 4) Run your game again.
+
+See if this issue reappears. If not, you have fixed this issue.
+
+### Fix 3: Add Discord to the whitelist of your third-party antivirus application
+
+ If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
+
+ Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Fix 4: Check for software interruption
+
+ Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
+
+**Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+### Fix 5: Disable hardware acceleration in Discord
+
+ Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
+
+ If you turned on the hardware acceleration feature in**Discord** and the**Discord overlay** does not work issue occurs, try**disabling hardware acceleration in Discord** . Follow the instructions below to check whether you turned on the hardware acceleration feature or not:
+
+ 1) Open your**Discord** , Click **the gear button** to open **User Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+ 2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
+ Run your game again to see if this issue persists. If not, you have resolved this problem!
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Reinstall Discord
+
+ If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
+
+ 1) Uninstall**Discord** first:
+
+ i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control** and press **Enter** to open the Control Panel.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
+
+ ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+ iii.**Double-click** **Discord** to uninstall it.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+iv. Restart your PC.
+
+ 2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
+
+ 3) Open**Discord** . Run your game and add it to your **Discord** .
+
+ 4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
+
+See if this issue reappears. If not, you have fixed this issue!
+
+### Bonus tip: How to fix Discord connection errors?
+
+ It’s very frustrating to run into the voice connection issue when playing the game. But don’t worry, most voice connection errors can be fixed by configuring a VPN connection.
+
+ Please note that **Discord only works on VPNs that have UDP (User Datagram Protocol)** . If you’re not sure which VPN service you should choose, here we recommend**NordVPN** to you.
+
+ NordVPN helps you set up a fast, stable, and secure Internet connection anywhere. And it helps you do this with just a few clicks or taps! What’s more, with one NordVPN account, you can set up a VPN connection on all devices. NordVPN allows you to connect up to 6 devices at the same time!
+
+#### To Set up a VPN connection on your Windows PC
+
+ 1) Before visiting the official website of NordVPN, **get a[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/) first!** Then head to[the official website of NordVPN](https://tools.techidaily.com/drivereasy/download/) . Follow the steps on its web page to**select your plan** and**create your NordVPN account** .
+
+ 2) On your Windows PC, visit **[the NordVPN download page](https://nordvpn.com/download/windows/)**  to download and install it.
+
+ 3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
+
+ 4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
+
+![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+ Normally, after configuring the VPN, the voice connection issues should be fixed.
+
+ Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-captivating-creations-the-process-of-making-popular-video-memes/"><u>[Updated] 2024 Approved  Captivating Creations  The Process of Making Popular Video Memes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-crafting-perfect-instagram-story-cover-pages-for-2024/"><u>[Updated] Crafting Perfect Instagram Story Cover Pages for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-novice-to-expert-your-pathway-in-instagram-reels-for-2024/"><u>[Updated] From Novice to Expert  Your Pathway in Instagram Reels for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-league-of-legends-visual-glitch-the-ultimate-guide/"><u>Conquering League of Legends Visual Glitch: The Ultimate Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-addresses-player-input-lags-for-smoother-gameplay/"><u>Cyberpunk 2077 Update Addresses Player Input Lags for Smoother Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-mouse-acceleration-in-macos-a-step-by-step-guide/"><u>Disabling Mouse Acceleration in macOS: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elder-scrolls-online-update-fixes-previous-blackwood-server-delays/"><u>Elder Scrolls Online Update Fixes Previous Blackwood Server Delays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722983156436-fast-track-solutions-skyrocket-your-dayz-frames-per-second-with-no-hassle/"><u>Fast Track Solutions: Skyrocket Your DayZ Frames Per Second with No Hassle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compatibility-problems-between-your-astro-a50-and-command-center-interface/"><u>Fixing Compatibility Problems Between Your Astro A50 and Command Center Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cult-of-the-lamb-game-crashes-in-windows-tips-and-tricks-for-smooth-play/"><u>Fixing Cult of The Lamb Game Crashes in Windows: Tips & Tricks for Smooth Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-eliminate-cyberpunk-2077s-notorious-input-delay/"><u>Fixing the Issue: How to Eliminate Cyberpunk 2077'S Notorious Input Delay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-3-connectivity-issues-resolved-fixing-the-connection-failed-error/"><u>Hitman 3 Connectivity Issues Resolved: Fixing the 'Connection Failed' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-s-triumph-over-connection-failed-problem-a-step-by-step-solution/"><u>Hitman S Triumph Over 'Connection Failed' Problem - A Step-by-Step Solution</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-motorola-moto-g04-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Motorola Moto G04 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-nokia-c12-plus-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Nokia C12 Plus Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-and-boost-fps-in-valorant/"><u>How to Fix Stuttering and Boost FPS in Valorant</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-nubia-z50s-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Nubia Z50S Pro</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-x-fold-2-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Vivo X Fold 2 Phone Without Password?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-messaging-sounds-a-guide-to-downloading-and-personalizing-whatsapp-ringtones/"><u>In 2024, Innovating Messaging Sounds  A Guide to Downloading & Personalizing WhatsApp Ringtones</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/izing-money-a-complete-guide-to-youtubes-revenue-features-for-2024/"><u>Mobilizing Money  A Complete Guide to YouTube's Revenue Features for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-troubleshooting-guide-resolving-the-unreal-engine-4-process-crash-error/"><u>Outriders Troubleshooting Guide: Resolving the Unreal Engine 4 'Process Crash' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-camera-unavailable-problem-with-easy-fixes-for-snap-users/"><u>Overcoming the Camera Unavailable Problem with Easy Fixes for Snap Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-graphics-driver-issues-on-your-oculus-headset/"><u>Resolved: Fixing Graphics Driver Issues on Your Oculus Headset</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-for-silent-screens-bring-the-audio-alive-to-roblox-on-your-win11win10-pcs/"><u>Solution for Silent Screens: Bring the Audio Alive to Roblox on Your Win11/Win10 PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-challenge-of-stuck-discord-live-streams/"><u>Solved! Overcoming the Challenge of Stuck Discord Live Streams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-stuck-or-non-responsive-minecraft-crashes-pc-edition-tips-and-tricks/"><u>Solving Stuck or Non-Responsive Minecraft Crashes: PC Edition Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-5-solutions-to-resolve-zoom-cant-start-video-issues/"><u>Top 5 Solutions to Resolve 'Zoom Can't Start Video' Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-problems-steps-to-enhance-your-street-fighter-eb-experience/"><u>Troubleshooting Lag Problems - Steps to Enhance Your Street Fighter Eb Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-why-is-my-discord-camera-not-responding/"><u>Troubleshooting Tips: Why Is My Discord Camera Not Responding?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtube-videos-sound-but-dont-load-fix-it-now-tips-for-mozilla-and-google-users/"><u>YouTube Videos Sound But Don't Load? Fix It Now | Tips for Mozilla and Google Users</u></a></li>
+</ul></div>
