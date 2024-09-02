@@ -1,0 +1,205 @@
+---
+title: "Resolved: Rainbow Six Siege Startup Issues Now Fixed"
+date: 2024-09-01T04:10:26.490Z
+updated: 2024-09-02T04:10:26.490Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Resolved: Rainbow Six Siege Startup Issues Now Fixed"
+excerpt: "This Article Describes Resolved: Rainbow Six Siege Startup Issues Now Fixed"
+thumbnail: https://thmb.techidaily.com/038b33e78fe302b91af695dca9492d5a59b454dc5fa29741f1fdb28831c2ca72.jpg
+---
+
+## Arcadegeddon's PC Stability Issues Now Fixed: Learn How to Avoid Future Crashes
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/Arcadegeddon-keeps-crashing-on-PC.jpg)
+
+ In Arcadegeddon, you will explore multiple biomes, mini games, find hidden chests, and defeat numerous enemies and bosses. In this cooperative multiplayer shooter, you can play solo or with up to 3 friends.
+
+ Arcadegeddon is finally out. Although this is an early access game, it still attracts tons of players. However, just like any other games launched recently, Arcadegeddon is not immune to unforseen issues and bugs. **Recently, many PC players are experiencing the game crashing issue** . If you’re on the same boat, don’t worry. You’ve come to the right place. After reading this article,**you should be able to fix this issue quickly and easily!**
+
+## Try these fixes
+
+ Although the causes of Arcadegeddon crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether Arcadegeddon crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
+
+1. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+## Fix 1: Verify integrity of game files
+
+ One common cause of the Arcadegeddon crashing issue is the corrupted game files. If it’s the case, you just need to repiar the corrupted game files.
+
+ You can follow the steps below to verify the game files in Epic Games Launcher:
+
+1. Launch **Epic Games Launcher** and go to your **Library** .
+2. Click on the **three dots** under the **Arcadegeddon** game tile and select **Verify** .  
+![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+ Depending on the size of the game files, it may take some time to verify all your game files.
+
+ When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 2: Update your graphics driver
+
+ Graphics driver is essential to the functioning of video games. If Arcadegeddon keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
+
+ If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the **[FREE](https://tools.techidaily.com/drivereasy/download/)**  or the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+**Note** : You can do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+4. Restart your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+## Fix 3: Install the latest game patch
+
+ The developer of Arcadegeddon releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 4: Close CPU / memory hogging applications
+
+ Insufficient memory would also leading to the Arcadegeddon crashing issue. If there’s too many applications running in the background while you’re playing Arcadegeddon, your computer may run out of RAM and the game may crash.
+
+ Try closing those CPU / memory hogging applications and see if it would get Arcadegeddon work again. Here’s how to do it:
+
+1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
+2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
+![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
+
+ If Arcadegeddon works well after you closed those CPU / memory hogging applications, congratulations!
+
+ To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
+## Fix 5: Perform a clean boot
+
+ Arcadegeddon would also crash if there is a certain application conlicting with it. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
+
+1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
+![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
+2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
+3. Select the **Startup** tab and click **Open Task Manager** .  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
+6. Click **Restart** to restart your PC.  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+**Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
+
+ Once you find out the problematic software that crashes Arcadegeddon, you need to **uninstall** it to avoid game crashing issues in the future.
+
+ If the game still crashes after you disabled all the 3rd party apps and services, try reinstalling Arcadegeddon. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
+
+**Tips:**
+
+ If these common fixes on this article didn’t help you fix the Arcadegeddon crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article: [How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
+
+---
+
+ Hopefully, one of the fixes above helped you fix the Arcadegeddon crashing issue. If you have any questions or suggestions, feel free todrop a line in the comment area below. Thanks for reading!
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-overcome-youtube-tweet-buffer-in-chromebook/"><u>[New] In 2024, Overcome  YouTube Tweet Buffer in Chromebook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-troubleshooting-companion-restoring-srt-functionality-in-premiere/"><u>[New] The Troubleshooting Companion  Restoring SRT Functionality in Premiere</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-the-ultimate-guide-to-no-cost-high-quality-srt-editors/"><u>[New] The Ultimate Guide to No-Cost, High-Quality Srt Editors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-inside-virtual-worlds-todays-insights-and-tomorrows-trials/"><u>[Updated] Inside Virtual Worlds  Today's Insights & Tomorrow's Trials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-instant-recording-tips-for-facetime-chats-for-2024/"><u>[Updated] Instant Recording Tips for FaceTime Chats for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-iphone-cinematography-top-8-tips-for-professional-video-shooting/"><u>[Updated] Master iPhone Cinematography  Top 8 Tips for Professional Video Shooting</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-optimizing-video-quality-youtube-to-mpeg-conversion-strategies/"><u>[Updated] Optimizing Video Quality  YouTube to MPEG Conversion Strategies</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-navigating-through-facebooks-recent-content-policy-shifts/"><u>2024 Approved  Navigating Through Facebook's Recent Content Policy Shifts</u></a></li>
+<li><a href="https://win11.techidaily.com/8-handy-windows-11-and-11-command-shortcuts-you-can-set-up-with-nircmd/"><u>8 Handy Windows 11 & 11 Command Shortcuts You Can Set Up With NirCmd</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accurately-estimating-data-variability-with-microsoft-excel-techniques-and-tips/"><u>Accurately Estimating Data Variability with Microsoft Excel: Techniques & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/calculating-days-remaining-before-your-upcoming-events-with-microsoft-excel/"><u>Calculating Days Remaining Before Your Upcoming Events with Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/consolidate-text-entries-a-step-by-step-guide-to-joining-content-across-several-excel-cells-into-one/"><u>Consolidate Text Entries: A Step-by-Step Guide to Joining Content Across Several Excel Cells Into One</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-stream-interrupted-by-endless-loading-heres-how-to-get-your-live-event-running-again/"><u>Discord Stream Interrupted by Endless Loading? Here's How to Get Your Live Event Running Again</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v27e-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V27e Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-asus-rog-phone-8-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Asus ROG Phone 8 Without PUK Codes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-curator-of-tweets-premium-compilation-toolkit/"><u>In 2024, Curator of Tweets - Premium Compilation Toolkit</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-apple-iphone-15-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, Why is iPogo not working On Apple iPhone 15? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-the-scoring-of-toolwizs-photography-software/"><u>Inside the Scoring of Toolwiz's Photography Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-clean-data-a-step-by-step-guide-to-applying-the-trim-function-in-ms-excel/"><u>Mastering the Art of Clean Data: A Step-by-Step Guide to Applying the TRIM Function in MS Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-overcoming-instances-of-game-crashing-in-arise/"><u>Mastering Troubleshooting: Overcoming Instances of Game Crashing in Arise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastery-tip-seamlessly-integrating-data-across-columns-in-ms-excel/"><u>Mastery Tip: Seamlessly Integrating Data Across Columns in MS Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-conditional-formulas-with-isxl-functions-in-excel/"><u>Navigating Through Conditional Formulas with ISXL Functions in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-server-disconnection-woes-in-lost-ark/"><u>Navigating Through Server Disconnection Woes in Lost Ark</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-common-ssd-issues-in-windows-environment/"><u>Overcoming Common SSD Issues in Windows Environment</u></a></li>
+<li><a href="https://techidaily.com/remove-itel-p40-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Itel P40 unlock screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-collaboration-using-google-drive-for-microsoft-office-file-management/"><u>Seamless Collaboration: Using Google Drive for Microsoft Office File Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sharing-and-implementing-consistent-style-templates-across-excel-spreadsheets/"><u>Sharing and Implementing Consistent Style Templates Across Excel Spreadsheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/spotting-redundancies-with-ease-effective-strategies-for-conditional-formatting-in-excel/"><u>Spotting Redundancies with Ease: Effective Strategies for Conditional Formatting in Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-building-excel-budget-templates-for-tracking-revenue-and-costs/"><u>Step-by-Step Guide to Building Excel Budget Templates for Tracking Revenue and Costs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-a-flexible-dynamic-range-in-microsoft-excel/"><u>Step-by-Step Guide: Crafting a Flexible Dynamic Range in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-creating-accurate-tally-charts-with-microsoft-excel/"><u>Step-by-Step Guide: Creating Accurate Tally Charts with Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-creating-effective-bar-charts-with-microsoft-excel/"><u>Step-by-Step Guide: Creating Effective Bar Charts with Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-gridlines-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Gridlines From Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-tables-efficiently-in-microsoft-excel/"><u>Step-by-Step Guide: Eliminating Tables Efficiently in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-text-into-dates-within-microsoft-excel/"><u>Step-by-Step Guide: Transforming Text Into Dates Within Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-instructions-for-adding-altering-viewing-and-converting-excel-notebook-entries/"><u>Step-by-Step Instructions for Adding, Altering, Viewing & Converting Excel Notebook Entries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/this-weeks-highlights-bidding-farewell-to-entry-level-subscription-plans-and-advanced-smartphone-repair-techniques/"><u>This Week’s Highlights: Bidding Farewell to Entry-Level Subscription Plans & Advanced Smartphone Repair Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transforming-data-with-emoticons-customize-excel-cells-for-visual-impact-and-responsiveness/"><u>Transforming Data with Emoticons: Customize Excel Cells for Visual Impact and Responsiveness</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-tutorial-creating-effective-headlines-using-microsoft-excel/"><u>Ultimate Tutorial: Creating Effective Headlines Using Microsoft Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-technical-operation-of-gpt-4-in-7-apps/"><u>Understanding the Technical Operation of GPT-4 in 7 Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-advanced-features-with-function-keys-in-microsoft-excel-everything-you-need-to-know/"><u>Unlocking Advanced Features with Function Keys in Microsoft Excel - Everything You Need to Know</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-error-code-0x80071a90-in-windows/"><u>Unraveling Error Code 0X80071A90 in Windows</u></a></li>
+</ul></div>

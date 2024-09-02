@@ -1,0 +1,188 @@
+---
+title: Conquering Call of Duty Warzone's Xbox DirectX Error in Just 4 Steps
+date: 2024-09-01T04:12:34.970Z
+updated: 2024-09-02T04:12:34.970Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Conquering Call of Duty Warzone's Xbox DirectX Error in Just 4 Steps
+excerpt: This Article Describes Conquering Call of Duty Warzone's Xbox DirectX Error in Just 4 Steps
+thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e859cb58cb87727b51edba04.jpg
+---
+
+## Conquering Call of Duty Warzone's Xbox DirectX Error in Just 4 Steps
+
+If you’re presented with an error message ‘_**DirectX Encountered an Unrecoverable Error**_ ‘, don’t worry. It’s quite easy to fix and the following are all the possible solutions.
+
+## Try these fixes
+
+1. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1\. Close unnecessary background apps
+
+ The most possible cause of your Warzone DirectX error is interference from your third-party applications. If you’re using the following software, you can try closing them to check if the error disappears.
+
+* **GPU monitoring apps** such as MSI Afterburner and Rivatuner Statistics Server (RTSS) etc.
+* **Apps that support overlay features** (you can disable Discord Overlay or GeForce Experience Overlay etc.)
+
+ Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
+
+### Fix 2\. Update your device drivers
+
+ Many find it helps fix the Warzone DirectX error after updating all the drivers, especially the graphics driver. If you haven’t done so for a long time, it’s recommended to keep all your drivers up to date.
+
+There are mainly two ways of updating your device drivers:
+
+#### Option 1 – Manually
+
+ Performing an in-place Windows Update or updating your drivers in Device Manager is not always enough ([Learn Why…](https://tools.techidaily.com/drivereasy/download/) ), so you’ll need to download the latest driver from the manufacturer’s website and install it manually.
+
+* To update your graphics driver, visit[NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , or[Intel](https://downloadcenter.intel.com/) to download the latest driver and complete the installation.
+* However, to update all your device drivers, you can go to your computer’s manufacturer’s site and enter the exact model and download all the drivers you need in the Drivers section. Check the support and download page for[](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-us%3Fapp%3Dproducts) [Del](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-us%3Fapp%3Dproducts) [l](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fhome%2Fen-us%3Fapp%3Dproducts) |[Asus](https://www.asus.com/support/Download-Center/) | [HP](https://support.hp.com/us-en/drivers) | [Lenovo](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fsupport.lenovo.com%2Fus%2Fen%2F) | [Acer](https://www.acer.com/ac/en/IN/content/drivers) .
+
+#### Option 2 – Automatically (Recommended)
+
+ If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find ALL the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and   **you get full technical support and a 30-day money back guarantee** ):
+
+ 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2\. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+ 3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
+  
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
+4\. Once complete, restart your computer for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+### Fix 3\. Repair your game files
+
+ It’s possible that a corrupted game file cause the Warzone DirectX error. It’s easy to verify the integrity of your game files; all be done within a few clicks.
+
+1\. Launch your Battle.net client.
+
+ 2\. Select**Call of Duty: MW** in the left pane.
+
+ 3\. Click **Options** and select **Scan and Repair** from the drop-down menu.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+ 4\. Click**Begin Scan** , and wait for the process to complete.
+
+ Does the simple workaround work for you? If not, you can try the following fix below.
+
+### Fix 4\. Play the game in DirectX 11 mode
+
+ If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
+
+1\. Open Battle.net client.
+
+ 2\. Launch the CoD Modern Warfare, and go to **Options** \> **Game settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4\. Click **Done** .
+
+---
+
+ There you have it – all the possible fixes that helped many other players fix the Warzone DirectX error. If this error persists, you can contact[Activision Support](https://support.activision.com/options) to further solve this problem.
+
+* [Application Errors](https://tools.techidaily.com/drivereasy/download/)
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/solved-call-of-duty-vanguard-dev-error-5573/"><u>[SOLVED] Call of Duty Vanguard Dev Error 5573</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-f1-2021-fps-drops-on-pc/"><u>[SOLVED] F1 2021 FPS Drops on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-compreran-exploration-of-giroptics-panorama/"><u>[Updated] Compreran Exploration of Giroptic's Panorama</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-uhd-precision-converter-clearer-sharper-visuals/"><u>[Updated] UHD Precision Converter  Clearer, Sharper Visuals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-realme-12-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Realme 12 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-facebook-fam-bites-in-snapchat-spotlight/"><u>2024 Approved  Facebook Fam Bites in Snapchat Spotlight</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-htc-u23-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From HTC U23 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/a-review-10-best-free-luts-with-download-links/"><u>A Review  10 Best Free LUTs with Download Links</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ace-your-project-advanced-srt-tweaks-on-a-mac/"><u>Ace Your Project  Advanced SRT Tweaks on a Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lags-enhancing-performance-on-avatar-frontiers-of-pandora/"><u>Beat the Lags: Enhancing Performance on 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-the-bug-effective-solutions-for-resident-evil-village-stability-on-pc/"><u>Beating the Bug: Effective Solutions for Resident Evil Village Stability on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/capturing-adventures-a-close-look-at-panasonics-hx-a1-for-2024/"><u>Capturing Adventures  A Close Look at Panasonic's HX-A1 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-black-ops-cold-war-solving-the-elusive-pacific-crashing-glitches-for-a-smoother-gameplay-experience/"><u>COD: Black Ops Cold War – Solving the Elusive Pacific Crashing Glitches for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-ways-to-overcome-and-prevent-division-2-from-crashing-during-play/"><u>Effortless Ways to Overcome and Prevent Division 2 From Crashing During Play!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-repairing-barcode-reader-errors/"><u>Expert Tips on Repairing Barcode Reader Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-disconnects-handling-lost-server-link-problems-in-escape-from-tarkov-gameplay/"><u>Fixing Disconnects: Handling ‘Lost Server Link’ Problems in Escape From Tarkov Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-robocop-rogue-city-crashes-essential-tips-for-gamers-on-pc/"><u>Fixing RoboCop: Rogue City Crashes - Essential Tips for Gamers on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-among-us-2024-game-crashes-essential-troubleshooting-guide/"><u>Fixing the 'Among Us' 2024 Game Crashes: Essential Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-valheim-initial-boot-issue-solutions-and-workarounds-for-a-successful-launch-in-202e4/"><u>Fixing the Valheim Initial Boot Issue: Solutions and Workarounds for a Successful Launch in 202E4</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-the-broken-spacebar-functionality-in-windows-10-computers/"><u>How to Repair the Broken Spacebar Functionality in Windows 10 Computers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-craft-cinematic-edits-with-ease-and-precision-in-camtasia-9/"><u>In 2024, Craft Cinematic Edits with Ease and Precision in Camtasia 9</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/mastering-compression-in-fcpx-a-step-by-step-guide/"><u>Mastering Compression in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gaming-experience-overcoming-pc-frame-rate-decreases/"><u>Optimizing Your Gaming Experience: Overcoming PC Frame Rate Decreases</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-when-google-chrome-wont-launch/"><u>Resolved: Fixes for When Google Chrome Won't Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-entry-point-not-found-error-in-fortnite-a-comprehensive-guide/"><u>Resolving 'Entry Point Not Found' Error in Fortnite: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-connectivity-hiccups-a-user-manual-for-tackling-new-worlde-latest-lag-issues/"><u>Solving Connectivity Hiccups: A User Manual for Tackling New World'e Latest Lag Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-cod-black-ops-cold-war-failure-to-start-on-pc/"><u>Troubleshooting Guide: How to Fix Cod: Black Ops Cold War Failure to Start on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-no-more-crashing-in-dark-souls-3-solutions-included/"><u>Troubleshooting Guide: No More Crashing in Dark Souls 3 - Solutions Included</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-armored-core-6-pc-crashes/"><u>Troubleshooting Steps for Armored Core 6 PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-persistent-crashes-of-warno-software-on-pcs/"><u>Troubleshooting Tips for Persistent Crashes of WARNO Software on PCs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/truckers-guide-to-economic-clear-hearing-accessories-on-wheels/"><u>Trucker's Guide to Economic, Clear Hearing Accessories on Wheels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-flawless-gaming-tackle-baldurs-gate-performance-issues-with-6-key-tweaks/"><u>Unlock Flawless Gaming: Tackle Baldur's Gate Performance Issues With 6 Key Tweaks</u></a></li>
+</ul></div>

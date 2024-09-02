@@ -1,0 +1,221 @@
+---
+title: Fixing the Startup Glitch in 'Pandora - Avatar Game Series'
+date: 2024-09-01T04:20:43.017Z
+updated: 2024-09-02T04:20:43.017Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Fixing the Startup Glitch in 'Pandora - Avatar Game Series'
+excerpt: This Article Describes Fixing the Startup Glitch in 'Pandora - Avatar Game Series'
+thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6cf19d2906c605406cb94fb11.jpg
+---
+
+## Boost Your Splitgate Gaming Experience - Eliminate Latency and Glitches
+
+If you want to enjoy a video game to the fullest, you need decent FPS and there shouldn’t be stutters and freezing during the gameplay. If there are performance issues intervening in the enjoyment of playing Splitgate, no worries. In this post, we’ll show you how to optimize your game.
+
+## Try these fixes
+
+ You may not need to try them all; simply work your way down the list until you find the one that works.
+
+1. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Enable hardware-accelerated GPU scheduling](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/Splitgate-how-to-boost-FPS-and-fix-stuttering-1200x675.jpg)
+
+## 1\. Close unnecessary programs
+
+ Programs like browsers, game launchers, anti-virus software are CPU intensive. So if you have them running in the background when playing Splitgate, you’re most likely to suffer from game stutters. To fix that, you should end programs that you don’t need to be running when in-game. But be cautious that you should not end processes that are essential for running Windows, otherwise your computer may fail to work properly.
+
+1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
+2. Type**taskmgr** and press Enter.  
+
+![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
+3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+ Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
+
+1. Select the **Startup**  tab. Right-click the apps that you want to stop from running automatically at startup and select **Disable** .  
+
+![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
+
+ After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 2\. Delete temp files
+
+ As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. But they can clog the system drive and slow down your PC. And you wouldn’t be able to enjoy your game to the fullest as there will be input lag or stutters. Therefore, you should delete those temporary files and it won’t cause any problems. Here’s how you can do this:
+
+1. Close all windows.
+2. On your keyboard, press the **Windows logo +** **R** **keys** simultaneously to open the Run box.
+3. Type **%temp%** and then press Enter.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
+4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
+5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
+
+![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
+6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
+
+ Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Stop overclocking
+
+ Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
+
+## 4\. Update your graphics driver
+
+ A driver is an essential piece of software that lets your system communicate with your hardware. If it is outdated or misconfigured, it would cause noticeable performance issues. When you have low FPS or encounter constant stutters during the gameplay, you need to check for graphics driver updates. A new graphics driver comes with bug fixes and brings new features.
+
+ To update your graphics driver, you can either do it manually via the Device Manager or head to the manufacturer’s driver download page to download and install the exact driver for your system. This requires a certain level of computer knowledge and can be a headache if you aren’t tech-savvy. Therefore, we would like to recommend you use an automatic driver updater tool such as **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
+
+Here’s how to update drivers with Driver Easy:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+## 5\. Enable hardware-accelerated GPU scheduling
+
+ Hardware-accelerated GPU scheduling is a feature that comes with a recent Windows update designed to boost in-game FPS. For some gamers, they do get an FPS boost after enabling this feature. So you can give it a shot.  
+ (Note: This feature requires the latest Windows version, a Geforce 10 series or later/ Radeon 5600 or 5700 series graphics card with the latest driver. )
+
+1. Right-click on the empty space from your desktop and select **Display settings** .  
+
+![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
+2. Scroll down. Find **Graphics settings** and click on it.  
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
+3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
+4. Turn on**Hardware-accelerated GPU scheduling** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+
+![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
+
+ After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
+
+## 6\. Optimize in-game settings
+
+ Sure, you can settle for the default presets, but there are some settings that are worth tweaking, which give you a significant performance boost. Read on for more information…
+
+1. Launch Splitgate and go to**Settings** .  
+
+![adjust in-game settings Splitgate](https://images.drivereasy.com/wp-content/uploads/2021/08/Settings-in-game.png)
+2. Under the**VIDEO** tab, adjust the following settings:  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**DISPLAY MODE:** Fullscreen  
+**RESOLUTION:** your native resolution (If you have no idea what your screen resolution is, refer to [this post](https://tools.techidaily.com/drivereasy/download/) . )  
+**VSYNC:** turn it off  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
+ Then apply the changes and test your gameplay.
+
+---
+
+ That’s it. Feel free to drop a comment below to let us know any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that did the trick.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-advertise-on-twitter/"><u>[New] How to Advertise on Twitter</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-pros-guide-to-free-screen-recording-on-mac-devices/"><u>[New] In 2024, Pro's Guide to FREE Screen Recording on Mac Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-unbeatable-tools-to-sharpen-your-webcam-vids/"><u>[New] Unbeatable Tools to Sharpen Your Webcam Vids</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-enhancing-engagement-essential-video-formats-for-youtube-viewers/"><u>[Updated] Enhancing Engagement  Essential Video Formats for YouTube Viewers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-essential-guide-to-creating-effective-video-loops-on-instagram-for-2024/"><u>[Updated] The Essential Guide to Creating Effective Video Loops on Instagram for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-samsung-galaxy-a15-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Samsung Galaxy A15 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-game-changer-for-mobile-pcs-microsoft-enhances-gaming-experience-with-arm-technology-in-windows-laptops/"><u>A Game Changer for Mobile PCs: Microsoft Enhances Gaming Experience with ARM Technology in Windows Laptops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-your-windows-11-experience-with-essential-keyboard-shortcuts-for-swift-app-launches/"><u>Accelerate Your Windows 11 Experience with Essential Keyboard Shortcuts for Swift App Launches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-your-windows-computer-solutions-to-boost-performance-post-update/"><u>Accelerate Your Windows Computer: Solutions to Boost Performance Post-Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accessing-your-print-job-logs-steps-to-review-printed-document-records-on-windows-11/"><u>Accessing Your Print Job Logs: Steps to Review Printed Document Records on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ai-powered-microsoft-edge-real-time-video-translation-now-a-reality/"><u>AI-Powered Microsoft Edge: Real-Time Video Translation Now a Reality!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bring-back-the-retro-charm-restoring-original-sound-cues-in-windows-11/"><u>Bring Back the Retro Charm: Restoring Original Sound Cues in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bringing-back-objectdock-for-windows-11-embrace-the-ease-of-macs-interface/"><u>Bringing Back ObjectDock for Windows 11 - Embrace the Ease of Mac's Interface!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-evaluation-lenovo-legion-3-pro-15-the-best-value-pick-in-budget-gaming-laptops/"><u>Comprehensive Evaluation: Lenovo Legion 3 Pro 15 - The Best Value Pick in Budget Gaming Laptops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-start-menu-commercials-on-windows/"><u>Dealing with Start Menu Commercials on Windows 지금, 안전하게 삭제할 수 있는 방법은?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/default-encryption-coming-to-all-windows-11-systems/"><u>Default Encryption Coming to All Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discovering-your-windows-11-serial-number-a-step-by-step-guide/"><u>Discovering Your Windows 11 Serial Number: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-instructions-for-removing-a-printer-in-windows-1110-complete-process-tutorial/"><u>Easy Instructions for Removing a Printer in Windows 11/10 - Complete Process Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-guide-turning-off-promotional-content-and-suggestions-on-your-windows-11-pc/"><u>Effective Guide: Turning Off Promotional Content & Suggestions on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exciting-new-improvements-for-windows-11s-snipping-tool-and-paint-applications/"><u>Exciting New Improvements for Windows 11'S Snipping Tool and Paint Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/free-ways-to-unpack-rar-archives-on-pc-and-mac-a-comprehensive-guide/"><u>Free Ways to Unpack RAR Archives on PC & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-microsofts-new-ai-strategy-may-challenge-the-future-of-mobile-gaming-computers/"><u>How Microsoft's New AI Strategy May Challenge the Future of Mobile Gaming Computers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-easily-resolve-epic-games-launcher-not-opening-issue/"><u>How To Easily Resolve Epic Games Launcher Not Opening Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/impact-on-storage-navigating-the-surge-due-to-windows-recall-functionality/"><u>Impact on Storage: Navigating the Surge Due to Windows Recall Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/introducing-sudo-in-windows-a-comprehensive-tutorial-on-its-functionality-and-usage/"><u>Introducing Sudo in Windows: A Comprehensive Tutorial on Its Functionality & Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/introducing-windows-11s-enhanced-notepad-smart-ai-features-that-simplify-understanding-code-snippets/"><u>Introducing Windows 11'S Enhanced Notepad: Smart AI Features That Simplify Understanding Code Snippets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-always-on-top-features-the-ultimate-guide-to-keep-windows-at-the-forefront-windows-1011/"><u>Mastering Always-On-Top Features: The Ultimate Guide to Keep Windows at the Forefront (Windows 10/11)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-announces-newly-updated-windows-11-version-kb5/"><u>Microsoft Announces Newly Updated Windows 11 Version: KB5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-reintroduces-recall-feature-in-latest-windows-11-update/"><u>Microsoft Reintroduces Recall Feature in Latest Windows 11 Update</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-are-there-better-alternatives-to-magix-samplitude-for-professional-sound-design/"><u>New 2024 Approved Are There Better Alternatives to MAGIX Samplitude for Professional Sound Design?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-timeless-secret-how-a-decades-old-file-sharing-hack-works-on-modern-phones/"><u>The Timeless Secret - How a Decades-Old File Sharing Hack Works on Modern Phones</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-smart-eyewear-innovations-of-2024/"><u>Top-Rated Smart Eyewear Innovations of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tough-and-trustworthy-under-100-storage-options/"><u>Tough & Trustworthy Under-$100 Storage Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transform-your-windows-experience-using-rainmeter-a-step-by-step-guide/"><u>Transform Your Windows Experience Using Rainmeter: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-compact-razer-docking-station-analysis-the-perfect-gaming-accoutrement-for-on-the-go-players/"><u>Ultimate Compact Razer Docking Station Analysis: The Perfect Gaming Accoutrement for On-the-Go Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-your-gaming-experience-with-windows-11-tweaks/"><u>Ultimate Guide: Enhancing Your Gaming Experience with Windows 11 Tweaks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verifying-cgp-as-a-trustworthy-health-scribe/"><u>Verifying CGP as a Trustworthy Health Scribe?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-is-the-purpose-of-the-cp-keys-on-your-notebook-device/"><u>What Is the Purpose of the 'Cp' Keys on Your Notebook Device?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-runs-on-arm-qualcomms-breakthrough-in-desktop-computing/"><u>Windows Runs on ARM: Qualcomm's Breakthrough in Desktop Computing</u></a></li>
+</ul></div>
