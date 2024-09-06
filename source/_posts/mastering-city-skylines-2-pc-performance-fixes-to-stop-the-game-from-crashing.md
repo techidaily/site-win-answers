@@ -1,0 +1,266 @@
+---
+title: "Mastering City Skylines 2 PC Performance: Fixes to Stop the Game From Crashing"
+date: 2024-09-05T09:01:37.491Z
+updated: 2024-09-06T09:01:37.491Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Mastering City Skylines 2 PC Performance: Fixes to Stop the Game From Crashing"
+excerpt: "This Article Describes Mastering City Skylines 2 PC Performance: Fixes to Stop the Game From Crashing"
+thumbnail: https://thmb.techidaily.com/6060180ff020afbbd02ae1895cf9d82d0058a11f9344fe92d8db0b4a31855d9f.JPG
+---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Persistent Problems with WWE 2K22 for PC? Learn How to Stop the Game From Crashing Now
+
+![WWE 2K22 keeps crashing on PC](https://images.drivereasy.com/wp-content/uploads/2022/03/WWE-2K22-keeps-crashing-on-PC.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+A screenshot of WWE 2K22 from Steam
+
+**WWE 2K22** is now available on Steam. As a professional wrestling video game developed by Visual Concepts and published by 2K Sports, WWE 2K22 has attracted a large number of PC gamers since its launch. However, just like any other newly-launched games, WWE 2K22 is still not free from crashing, stuttering and other performance issues. **If WWE 2K22 keeps crashing on your PC, don’t worry. You’ve come to the right place.** After reading this guide, you should be able to fix this issue quickly and easily!
+
+## Try these fixes
+
+ Although the causes of WWE 2K22 crashing issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. **Whether WWE 2K22 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.**
+
+1. **[Verify the game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Install the latest DirectX files](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Disable Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
+7. [**Fix 7: Disable third-party antivirus software**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 1: Verify the game files
+
+ Corrupted game files often lead to gam crashing issues. If you’re not sure if any game files are missing or corrupted on your PC, try verifying the game files.
+
+Just follow the steps below to verify integrity of game files:
+
+1. Launch **Steam** and go to your **Library** .
+2. **Right-click** on **WWE 2K22** and select **Properties** .  
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+ Depending on the size of the game files, it may take some time to verify all your game files.
+
+ After the the verifying process is complete, launch WWE 2K22 to see if it crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 2: Update graphics driver
+
+ The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
+
+ As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping) and even screen flickering issues. We always recommend gamers to keep their graphics drivers up to date so as to avoid such issues. The latest graphics driver will enhance your graphics card performance and unlock the full potential of your graphics card, which will give you an edge in PC video games.
+
+ If you don’t remember when was the last time you updated your drivers, definitely do it now.
+
+There’re mainly two ways you can update your graphics drivers:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Option 1: Manually
+
+ You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+ Graphics card manufacturers like Nvidia, AMD and Intel keeps updating their graphics drivers. To get them , you need to go to the website of your graphics card manufacturer:
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+* **[Intel](https://downloadcenter.intel.com/)**
+
+ Then find the graphics driver corresponding with your specific flavor of Windows version (for example, Windows 64 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+Or
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Option 2: Automatically (Recommended)
+
+ This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+ If you don’t have the time, patience or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it.
+
+ You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
+3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+ (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ You need to restart your PC after you finished updating your graphics driver.
+
+ Launch WWE 2K22 and check if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
+
+ If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+## Fix 3: Install the latest game patch
+
+ The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Launch WWE 2K22 and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 4: Install the latest DirectX files
+
+ Most games require DirectX 12 to run properly, and WWE 2K22 is no exception. WWE 2K22 would crash on startup if there’s a problem with DirectX on your PC.
+
+ If you’re not sure whether there’s something wrong with DirectX on your PC, you can try updating / install the latest DirectX version:
+
+1. Go to[the Microsoft DirectX End-User Runtime Web Install page](https://www.microsoft.com/en-us/download/details.aspx?id=35) .
+2. Click the Download button to start the download.  
+![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
+3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+4. Restart your computer and launch the game.
+
+ See if WWE 2K22 crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
+
+## Fix 5: Stop overclocking
+
+ Overclocking the CPU or turbo boost the graphics card may gain a better FPS. However, it often crashes the game. To reduce the frequency of game crashing issues, it’s suggested that you reset the CPU or the graphics card to the manufacturer specifications.
+
+ If you’re using the software like MSI Afterburner, AMD Overdrive, GIGABYTE Easy Tune, etc., you may need to disable them first.
+
+ See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 6: Disable Steam Overlay
+
+ Overlays are handy, but sometimes they would interfere with the game and even block the game files, leading to the game crashing issues.
+
+ If you’re using the Steam Overlay while playing the game, try disabling it for WWE 2K22:
+
+1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _WWE 2K22_ . Then select **Properties** .  
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+2. Uncheck **Enable Steam Overlay while in-game** .  
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+ If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
+
+ Launch WWE 2K22 and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
+
+## Fix 7: Disable third-party antivirus software
+
+ Many third-party antivirus software block game files, which means that third-party antivirus software may also crash the game.
+
+ If you have third-party antivirus software running on your computer, make sure it doesn’t block the game files. You can try adding both the game folder and the Steam client as an exception to your third-party antivirus application. If necessary, you can also try**temporarily disabling your third-party antivirus software** before you play the game.
+
+ See if WWE 2K22 crashes after you add it as an exception to your antivirus software. If none of the fixes above works, try reinstalling the game. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
+
+---
+
+ Hopefully, one of the fixes above helped you fix WWE 2K22 crashing issue. If you have any questions or suggestions, feel free to leave us a comment below. Thanks for reading!
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [windows 11](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-single-platform-livestreaming-unveiling-onestream-techniques/"><u>[Updated] Mastering Single-Platform Livestreaming  Unveiling OneStream Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-removing-borders-quick-and-effective-image-retouch-methods/"><u>2024 Approved  Removing Borders  Quick & Effective Image Retouch Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arcadegeddon-pc-crashes-troubleshooting-guide-what-you-need-to-know/"><u>Arcadegeddon PC Crashes Troubleshooting Guide - What You Need to Know!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bug-blitz-in-call-of-duty-warzone-troubleshooting-disc-read-errors-for-optimal-gaming-experience-versions-50-and-31/"><u>Beat the Bug Blitz in Call of Duty Warzone: Troubleshooting Disc Read Errors for Optimal Gaming Experience (Versions 5.0 and 3.1)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-advanced-techniques-to-lower-ping-in-warzone-20-updated/"><u>Beat the Lag: Advanced Techniques to Lower Ping in Warzone 2.0 [Updated ]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-pc-issue-no-more-with-these-fixes-for-error-code-0x00001338-resolved/"><u>Call of Duty Vanguard PC Issue? No More with These Fixes for Error Code 0X00001338 [RESOLVED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/detailed-walkthrough-fixing-error-6-for-pc-gamers-in-battlefield-v-and-modern-warfare/"><u>Detailed Walkthrough: Fixing Error 6 for PC Gamers in Battlefield V and Modern Warfare</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-problems-with-starting-davinci-resolve-on-windows-systems/"><u>Expert Tips: Overcoming Problems with Starting DaVinci Resolve on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-a-sluggish-chrome-browser-fast-simple-solutions/"><u>Fix a Sluggish Chrome Browser Fast: Simple Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-pc-issues-with-age-of-wonders-planetfall/"><u>Fixes & Solutions for PC Issues with Age of Wonders: Planetfall</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-incessant-load-solutions-for-overcoming-red-dead-redemption-2-freeze/"><u>Fixing the Incessant Load: Solutions for Overcoming Red Dead Redemption 2 Freeze</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-forza-horizon-4-up-and-running-again-expert-hacks-for-launch-issues/"><u>Get Your Forza Horizon 4 Up and Running Again! Expert Hacks for Launch Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-issues-with-nioh-2-complete-edition-on-windows/"><u>How to Fix Persistent Issues with Nioh 2 (Complete Edition) on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-pro-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13 Pro? Complete Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-building-a-better-movie-utilizing-windows-11s-movie-maker/"><u>In 2024, Building a Better Movie  Utilizing Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-lava-yuva-2-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Lava Yuva 2 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-unlocking-efficiency-how-to-document-your-google-collaborations/"><u>In 2024, Unlocking Efficiency  How to Document Your GooGle Collaborations</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-art-of-encompassing-vision/"><u>In 2024, Unveiling the Art of Encompassing Vision</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-cod-modern-warfare-insider-tips-on-fps-drops-and-enhanced-gaming-experience/"><u>Mastering COD: Modern Warfare - Insider Tips on FPS Drops and Enhanced Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/monetary-mastery-for-your-social-media-channel-fb-video-wisdom-for-2024/"><u>Monetary Mastery for Your Social Media Channel  FB Video Wisdom for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-not-launching-hurdles-in-call-of-duty-warzone/"><u>Overcoming 'Not Launching' Hurdles in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997888357-rainbow-six-siege-not-opening-heres-how-to-resolve-it/"><u>Rainbow Six Siege Not Opening? Here's How to Resolve It</u></a></li>
+<li><a href="https://techidaily.com/remove-nokia-c12-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Nokia C12 unlock screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-security-breach-alert-in-online-games/"><u>Resolved: Fixing the 'Security Breach' Alert in Online Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-solutions-for-connecting-iphone-to-itunes-in-windows-11/"><u>Resolved! Solutions for Connecting iPhone to iTunes in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-strategies-for-persistent-connections-errors-in-apex-legends/"><u>Solution Strategies for Persistent Connections Errors in Apex Legends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999296929-the-secret-to-preventing-star-wars-squadron-clashes-a-comprehensive-guide-for-gamers/"><u>The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-gamecrashes-in-windows-11-and-10-solutions-for-a-smooth-gaming-experience/"><u>Troubleshooting GameCrashes in Windows 11 and 10: Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/viair-88p-portable-compressor-examined-exceptional-strength-accompanied-by-small-setbacks/"><u>Viair 88P Portable Compressor Examined: Exceptional Strength Accompanied by Small Setbacks</u></a></li>
+</ul></div>
