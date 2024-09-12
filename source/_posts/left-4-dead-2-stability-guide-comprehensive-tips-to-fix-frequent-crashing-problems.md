@@ -1,0 +1,350 @@
+---
+title: "Left 4 Dead 2 Stability Guide: Comprehensive Tips to Fix Frequent Crashing Problems"
+date: 2024-09-11T05:51:56.679Z
+updated: 2024-09-12T05:51:56.679Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Left 4 Dead 2 Stability Guide: Comprehensive Tips to Fix Frequent Crashing Problems"
+excerpt: "This Article Describes Left 4 Dead 2 Stability Guide: Comprehensive Tips to Fix Frequent Crashing Problems"
+thumbnail: https://thmb.techidaily.com/89da36f12af5e5ecabd872d074753c94f1e0591c9264a3deac22fa09078e3cf8.jpg
+---
+
+## End the Crashing Problems of Ghost Recon Breakpoint - Fast and Reliable Fixes Inside
+
+Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among online tactical shooter video game fans. However, there are also many players reporting that**Ghost Recon Breakpoint keeps crashing** or**won’t launch (crashes at startup)** .
+
+ If you’re running into the same issue, don’t worry! You’ve come to the right place. After reading this post, you should be able to resovle this issue on your own quickly and easily!
+
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+
+
+## Try these fixes
+
+ Here’s a list of fixes that have resolved this problem for other Ghost Recon Breakpoint players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Delete “DataPC_TGT_WorldMap.forge”](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics drivers](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install the latest game patches](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Verify the game files](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Lower in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+### Fix 1: Delete “DataPC\_TGT\_WorldMap.forge”
+
+ You can try deleting the game file “_DataPC\_TGT\_WorldMap.forge_ ” if Ghost Recon Breakpoint crashes at launch on your computer. Here’s how to do it:
+
+1. Exit Ghost Recon Breakpoint if it’s still running.
+2. Go to the installation folder of Ghost Recon Breakpoint:  
+ For Uplay PC users, just click on the game tile, then go to**Properties** \>**Local Files** \>**Open Folder** .  
+
+ For Epic Games users, go to the default installation path:**C:\\Program Files\\Epic Games\\\[Game name\]** .
+3. Locate the file_DataPC\_TGT\_WorldMap.forge_ and delete it.
+
+ Launch the game again to see if you can play it without crashes. If not, don’t worry. Please read on and try the next fix, below.
+
+---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 2: Update your graphics drivers
+
+ Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
+
+ If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into Ghost Recon Breakpoint crash issue.
+
+ **To fix this issue, the first thing you should do is update your graphics driver.** There are two ways that you can update your graphics driver:
+
+**Manual driver update** – You can update your graphics drivers manually by going to the manufacturer’s website for your graphics card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
+
+ A**utomatic driver update** – If you don’t have the time, patience or computer skills to update your video and monitor drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics cards, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-2.png)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+
+ Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)  
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance,[please send us an email via Driver Easy Feedback tool](https://tools.techidaily.com/drivereasy/download/) .
+
+---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 3: Install the latest game patches
+
+ The developers of Ghost Recon Breakpoint release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, download and install it, then run the game again to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 4, below.
+
+---
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 4: Verify the game files
+
+ The game crash issue can also be triggered by the faulty game files. To fix this issue, you need to verify the game files. Here is how to do it:
+
+#### Uplay
+
+1. In Uplay, navigate to **the Games tab** and move your mouse cursor to the game tile of Ghost Recon Breakpoint. Then click **the downward triangle** on the lower-right corner of the game tile.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay.jpg)
+2. Select **Verify files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay1.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+#### Epic Game Launcher
+
+1. In Epic Game Launcher, navigate to your **Library** .
+2. Click **the cog icon** on the lower-right corner of Ghost Recon Breakpoint.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic.jpg)
+3. Click **Verify** to start verifying the game files.  
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic1.jpg)
+
+ Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
+
+---
+
+### Fix 5: Stop overclocking
+
+ Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent the game crash issues, you should reset the CPU or the graphics card to the manufacturer specifications.
+
+ If this issue persists after you reset the CPU or graphics card to its manufacturer specifications, try the next fix, below.
+
+---
+
+### Fix 6: Lower in-game settings
+
+ If your PC fails to meet the recommended system requirements for Ghost Recon Breakpoint, you should**use a reduced settings profile for graphics related features** , because higher settings will increase the workload for your PC, which may even lead to game crash issue.
+
+Here are the system requirements for Ghost Recon Breakpoint:
+
+#### Minimum – Low Setting | 1080p
+
+* OS: Windows 7/8.1/10
+* CPU: AMD Ryzen 3 1200/Intel Core I5 4460
+* RAM: 8 GB
+* GPU: AMD Radeon R9 280X/Nvidia Geforce GTX 960 (4 GB)
+
+#### Recommended – High Setting | 1080p
+
+* OS: Windows 7/8.1/10
+* CPU: AMD Ryzen 5 1600/Intel Core I7 6700K
+* RAM: 8 GB
+* GPU: AMD RADEON RX 480 8 GB/Nvidia Geforce GTX 1060 (6 GB)
+
+#### Ultra – Ultra Setting | 1080p
+
+* OS: Windows 10
+* CPU: AMD Ryzen 7 1700X/Intel Core I7 6700K
+* RAM: 16 GB
+* GPU: AMD Radeon RX 5700 XT/Nvidia Geforce GTX 1080
+
+#### Ultra 2K – Ultra Setting | 2K
+
+* OS: Windows 10
+* CPU: AMD Ryzen 7 1700X/Intel Core I7 6700K
+* RAM: 16 GB
+* GPU: AMD Radeon RX 5700 XT/Nvidia Geforce GTX 1080Ti
+
+#### Elite – Ultra Setting | 4K
+
+* OS: Windows 10
+* CPU: AMD Ryzen 7 2700X/Intel Core I7 7700K
+* RAM: 16 GB
+* GPU: AMD Radeon VII/Nvidia Geforce RTX 2080
+
+---
+
+### Fix 7: Reinstall the game
+
+ If none of the fixes works for you, it’s time to reinstall the game. Usually after reinstalling, you should be able to play Ghost Recon Breakpoint smoothly.
+
+---
+
+ Hopefully, one of the fixes above helped you fix the Ghost Recon Breakpoint crash issue on your PC. If you have any questions or suggestions on this issue, you’re more than welcome to leave a comment below. Thanks for reading.
+
+* [crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/elody-migration-made-easy-a-guide-to-the-best-free-youtube-downloading-apps/"><u>[New] Melody Migration Made Easy A Guide to the Best Free YouTube Downloading Apps</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-path-to-virtual-self-building-metaverse-profiles/"><u>[New] Quick Path to Virtual Self Building Metaverse Profiles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-logitech-c920-webcam-not-working/"><u>[Solved] Logitech C920 Webcam Not Working</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-eliminate-non-existent-fb-ad-impressions-for-2024/"><u>[Updated] Eliminate Non-Existent FB Ad Impressions for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-streamline-your-screen-experience-pip-mastery-for-mac-enthusiasts/"><u>[Updated] Streamline Your Screen Experience PIP Mastery for Mac Enthusiasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-dissecting-sharex-opinions-and-picks/"><u>2024 Approved Dissecting ShareX Opinions & Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-drop-rate-successfully-and-swiftly-tricks-unveiled-for-dayz-fps-game/"><u>Boost Your Drop Rate Successfully & Swiftly: Tricks Unveiled for DayZ FPS Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-overcoming-lag-problems-in-chivalry-2-updated-tips/"><u>Comprehensive Strategies for Overcoming Lag Problems in Chivalry 2 (Updated Tips !)</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-iii-error-free-gameplay-solving-windows-computer-crashing-dilemmas/"><u>Crusader Kings III Error-Free Gameplay: Solving Windows Computer Crashing Dilemmas</u></a></li>
+<li><a href="https://win-answers.techidaily.com/csgo-performance-boosted-resolving-your-games-fps-dip-issue/"><u>CS:GO Performance Boosted - Resolving Your Game's FPS Dip Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dota-2-optimization-guide-for-windows-11-and-10-users-facing-low-fps-challenges/"><u>Dota 2 Optimization Guide for Windows 11 and 10 Users Facing Low FPS Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-the-black-ops-cold-war-887a0005-error-expert-fixes-and-tips/"><u>Eliminating the BLACK OPS COLD WAR 887A0005 Error – Expert Fixes & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-modern-warfare-3-game-freezes-on-pc-with-these-hacks/"><u>End Modern Warfare 3 Game Freezes on PC with These Hacks!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/everquest-ii-stability-issues-heres-what-you-need-to-know-for-a-smooth-gaming-experience/"><u>EverQuest II Stability Issues? Here's What You Need to Know for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-discord-blackout-solutions-to-overcome-screen-sharing-issues/"><u>Fixing Discord Blackout: Solutions to Overcome Screen Sharing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/granblue-fantasy-connectivity-hiccups-a-step-by-step-fix-for-relink-not-launching/"><u>Granblue Fantasy Connectivity Hiccups? A Step-by-Step Fix for 'Relink Not Launching'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-2-stalling-heres-how-to-restore-smooth-gaming-on-pc/"><u>House Flipper 2 Stalling? Here's How to Restore Smooth Gaming on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-street-fighter-6-from-freezing-or-crashing-on-your-computer/"><u>How to Prevent Street Fighter 6 From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-v2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic V2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-character-voiceovers-and-personas-for-dynamic-tiktok-content/"><u>In 2024, Character Voiceovers and Personas for Dynamic TikTok Content</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-full-spectrum-review-exploring-digital-performances-evolution/"><u>In 2024, Full Spectrum Review Exploring Digital Performance's Evolution</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-lava-blaze-2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Lava Blaze 2 Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/login-feature-reactivated-seamless-online-access-awaits/"><u>Login Feature Reactivated: Seamless Online Access Awaits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-controllers-overcoming-mouse-malfunctions-in-resident-evil-village/"><u>Mastering the Controllers: Overcoming Mouse Malfunctions in Resident Evil Village</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximize-mobile-playtime-with-an-external-controller-for-android/"><u>Maximize Mobile Playtime with an External Controller for Android</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-splitting-videos-in-windows-live-movie-maker-2023-edition/"><u>New In 2024, The Ultimate Guide to Splitting Videos in Windows Live Movie Maker (2023 Edition)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimal-aerial-vehicles-your-next-purchase-for-2024/"><u>Optimal Aerial Vehicles Your Next Purchase for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/optimized-with-the-help-of-cookiebot-enhancing-your-websites-performance/"><u>Optimized with the Help of CookieBot: Enhancing Your Website's Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/origin-opens-successfully-after-fixing-errors-on-windows-10-11/"><u>Origin Opens Successfully After Fixing Errors on Windows 10, 11</u></a></li>
+<li><a href="https://windows11.techidaily.com/overwhelmed-by-choosing-a-drive-easy-xbox-solutions/"><u>Overwhelmed by Choosing a Drive? Easy Xbox Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixel-perfection-portfolio-best-animation-transformation-tools/"><u>Pixel Perfection Portfolio Best Animation Transformation Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/professional-minecraft-videography-methods/"><u>Professional Minecraft Videography Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-successfully-install-and-play-wrc-10-for-windows-users/"><u>Resolved: How to Successfully Install and Play WRC 10 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-access-denied-in-fortnite-a-step-by-step-guide/"><u>Resolving 'Access Denied' In Fortnite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-directx-issues-in-battlefield-2042-step-by-step-guide/"><u>Resolving DirectX Issues in Battlefield 2042: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995354180-revillage-on-pc-display-failures-solutions-for-a-bright-gaming-experience-ahead/"><u>REVillage on PC Display Failures - Solutions for a Bright Gaming Experience Ahead</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-your-iphones-wi-fi-woes-with-these-5-troubleshooting-steps/"><u>Solve Your iPhone's Wi-Fi Woes with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-ckiii-from-halting-troubleshooting-for-smooth-gameplay/"><u>Stop CKIII From Halting - Troubleshooting for Smooth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tactical-approach-rectifying-recurrent-pc-glitches-in-the-frontier-gaming-experience/"><u>Tactical Approach: Rectifying Recurrent PC Glitches in the Frontier Gaming Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-method-for-making-tiktok-audio-your-ringtone-for-2024/"><u>The Ultimate Method for Making TikTok Audio Your Ringtone for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-game-solutions-for-minecrafts-crossbow-issue/"><u>Troubleshooting the Game: Solutions for Minecraft's Crossbow Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-fixing-the-dreaded-steamvr-error-code-308/"><u>Ultimate Guide: Fixing the Dreaded SteamVR Error Code 308</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/virtual-streets-best-video-games-mimicking-gta-v-for-2024/"><u>Virtual Streets Best Video Games Mimicking GTA V for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/waking-up-woes-master-fixes-for-computer-auto-sleep-troubles-today/"><u>Waking Up Woes? Master Fixes for Computer Auto-Sleep Troubles Today</u></a></li>
+</ul></div>
+
+
+
+
