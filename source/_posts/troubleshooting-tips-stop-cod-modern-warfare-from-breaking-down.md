@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2024-09-11T05:55:30.559Z
-updated: 2024-09-12T05:55:30.559Z
+date: 2024-09-11T05:42:27.795Z
+updated: 2024-09-17T04:09:36.299Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Fixes to try
 
@@ -33,20 +30,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -76,39 +59,11 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -125,41 +80,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  If this method doesn’t do the trick, you can take a look at the next one.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Remove Multiplayer game packs
 
@@ -170,24 +91,25 @@ To do so, first visit the website of your GPU manufacturer:
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
 If this trick doesn’t help you, simply check out the next one.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Reinstall Warzone
 
@@ -205,8 +127,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,63 +134,22 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-creating-compelling-instagram-story-collections/"><u>[New] Creating Compelling Instagram Story Collections</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-high-quality-audio-excellence-with-these-mics-for-2024/"><u>[New] High-Quality Audio Excellence with These Mics for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-secretly-browse-instagram-stories-on-desktop-and-mobile-devices-for-free-for-2024/"><u>[New] How to Secretly Browse Instagram Stories on Desktop and Mobile Devices (For Free) for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-no-cost-c-span-archives-your-comprehensive-download-guide/"><u>[New] No Cost C-Span Archives Your Comprehensive Download Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-secrets-in-watching-the-instagram-story-narrative/"><u>[New] Secrets in Watching The Instagram Story Narrative</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-quality-economical-cam-recorder/"><u>[Updated] 2024 Approved Top Quality Economical Cam Recorder</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-guide-to-add-fun-filters-and-graphics-to-your-snapchat-story-for-2024/"><u>[Updated] Step-by-Step Guide to Add Fun Filters and Graphics to Your Snapchat Story for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>[Updated] Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-exploring-premium-9-digital-mic-capture-tools/"><u>2024 Approved Exploring Premium 9 Digital Mic Capture Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-storing-24-hour-movies-estimating-gb-usage/"><u>2024 Approved Storing 24-Hour Movies Estimating GB Usage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-origin-syncing-expert-tips-to-skyrocket-download-speeds-now/"><u>Accelerate Origin Syncing - Expert Tips to Skyrocket Download Speeds Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723014073078-acrocefexeexe-application-failure-heres-how-you-can-repair-it/"><u>acrocefexe.exe Application Failure? Here's How You Can Repair It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-crash-expert-advice-to-keep-grounded-running-smoothly-on-your-pc/"><u>Beat the Crash: Expert Advice to Keep 'Grounded' Running Smoothly on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-eliminating-the-irritating-black-screen-problem-in-star-wars-battlefront-ii/"><u>Comprehensive Fixes: Eliminating the Irritating Black Screen Problem in Star Wars Battlefront II</u></a></li>
-<li><a href="https://win-answers.techidaily.com/directx-issues-resolved-fixing-common-anno-1800-mishaps/"><u>DirectX Issues Resolved: Fixing Common Anno 1800 Mishaps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/easy-and-fast-dvd-ripper-from-winx-convert-your-movies-to-mp4-on-windows-natively-complimentary-tool-with-efficient-dvd-backups/"><u>Easy and Fast DVD Ripper From WinX: Convert Your Movies to MP4 on Windows Natively, Complimentary Tool with Efficient DVD Backups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-remedies-for-discords-packet-transmission-problems/"><u>Effective Remedies for Discord's Packet Transmission Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-reducing-discords-cpu-consumption/"><u>Effective Solutions for Reducing Discord's CPU Consumption</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-error-code-eb0d4-from-your-gameplay-in-modern-warfare-on-xbox-or-pc-expert-hacks-and-tips/"><u>Eliminate Error Code Eb0d4 From Your Gameplay in Modern Warfare on Xbox or PC: Expert Hacks and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008629249-epic-games-launcher-troubleshooting-resolve-issues-instantly/"><u>Epic Games Launcher Troubleshooting: Resolve Issues Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-and-overcoming-error-0xc19001e1-on-windows-10-systems/"><u>Expert Tips for Correcting and Overcoming Error 0xC19001E1 on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-steam-issues-how-to-get-non-starting-games-running-on-windows-10/"><u>Fix Your Steam Issues: How to Get Non-Starting Games Running on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-gobi-fatal-error-in-black-mesa-mod-using-unreal-engine-4/"><u>Fixing Gobi Fatal Error in Black Mesa Mod Using Unreal Engine 4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006482521-football-manager-2020-stability-enhanced-no-more-crashing-issues/"><u>Football Manager 2020 Stability Enhanced - No More Crashing Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-preventing-and-correcting-no-rest-for-the-wicked-pc-malfunctions/"><u>Guide to Preventing and Correcting 'No Rest for the Wicked' PC Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-frame-drops-and-stutters-in-fallout-76-gaming-experience/"><u>How to Overcome Frame Drops and Stutters in Fallout 76 Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-rocket-league-from-crashing-on-your-device-updated-guide/"><u>How to Prevent Rocket League From Crashing on Your Device (Updated Guide )</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-s23-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel S23 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>In 2024, Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/install-microsofts-comfort-designed-ergokeyboard-4000-download-drivers-fast/"><u>Install Microsoft's Comfort-Designed ErgoKeyboard 4000 - Download Drivers Fast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-crashes-during-gameplay-expert-guidance-for-running-far-cry-6-on-pc/"><u>Overcome Crashes During Gameplay: Expert Guidance for Running Far Cry 6 on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-disc-read-failures-50-31-in-call-of-duty-warzone-for-windows-systems-expert-solutions-explained/"><u>Overcoming Disc Read Failures [5.0, 3.1] in Call of Duty: Warzone for Windows Systems – Expert Solutions Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013394343-pc-double-crash-solution-fixing-the-unstoppable-collision/"><u>PC Double-Crash Solution: Fixing the Unstoppable Collision</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-players-beware-overcoming-hitman-3s-persistent-black-screen-glitch/"><u>PC Players Beware: Overcoming Hitman 3’S Persistent Black Screen Glitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-to-stop-ashen-crash-glitches-once-and-for-all/"><u>Quick Fixes to Stop Ashen Crash Glitches Once and For All!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rockstar-games-launcher-issues-top-fixes-and-solutions/"><u>Rockstar Games Launcher Issues : Top Fixes and Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-a-nonfunctional-or-unresponsive-nvidia-control-panel/"><u>Solving the Issue of a Nonfunctional or Unresponsive NVIDIA Control Panel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-2-black-screen-error-now-fixed-a-comprehensive-guide/"><u>Star Wars Battlefront 2 Black Screen Error - Now Fixed: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/top-strategies-to-fix-error-code-277-on-your-computers-roblox-game-updated/"><u>Top Strategies to Fix Error Code 277 on Your Computer's Roblox Game (Updated )</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008392729-troubleshoot-crashing-in-lol-easily-effective-fixes-inside/"><u>Troubleshoot Crashing in LoL Easily – Effective Fixes Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-crashing-problems-in-cyberpunk-2077-on-your-computer/"><u>Troubleshooting and Solving Crashing Problems in Cyberpunk 2077 on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-your-clownfish-usb-microphone-issues/"><u>Troubleshooting Guide: Resolving Your Clownfish USB Microphone Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-starting-up-monster-hunter-rise-without-glitches-or-errors/"><u>Troubleshooting Guide: Starting Up Monster Hunter Rise Without Glitches or Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-microsoft-edge-stability-problems-for-a-smoother-windows-10-experience/"><u>Troubleshooting Microsoft Edge Stability Problems for a Smoother Windows 10 Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-personal-5-strikers-failed-launches-on-desktop-systems/"><u>Troubleshooting Steps for Personal 5 Strikers Failed Launches on Desktop Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-playing-robocop-rogue-city-on-desktop-computers/"><u>Troubleshooting Tips for Playing RoboCop: Rogue City on Desktop Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warcraft-3-reforged-update-fixes-solutions-to-prevent-pc-crashes/"><u>Warcraft 3 Reforged Update Fixes: Solutions to Prevent PC Crashes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-crafting-dynamic-speed-up-videos/"><u>[New] 2024 Approved Crafting Dynamic Speed-Up Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unlocking-video-excellence-on-tiktok-through-effective-templates-use/"><u>[New] In 2024, Unlocking Video Excellence on TikTok Through Effective Templates Use</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-audio-booster-apps-to-quicken-playback/"><u>[New] Top Audio Booster Apps to Quicken Playback</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-calmly-quieten-your-computers-audio-output/"><u>[Updated] Calmly Quieten Your Computer's Audio Output</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gigabyte-totals-for-extended-video-playback/"><u>[Updated] Gigabyte Totals for Extended Video Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/critical-tactics-to-address-launch-delays-and-save-your-startup-an-expert-guide/"><u>Critical Tactics to Address Launch Delays and Save Your Startup : An Expert Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010791422-cyberpunk-2077-and-windows-11-ensuring-your-gpu-is-fully-utilized-problem-solved/"><u>Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhancing-engagement-in-tiktok-unpack-videos/"><u>Enhancing Engagement in TikTok Unpack Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/guide-to-add-motion-blur-to-photos-in-adobe-illustrator-for-2024/"><u>Guide to Add Motion Blur to Photos in Adobe Illustrator for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increase-fps-on-esx-elite-techniques-and-6-optimized-fixes-for-gamers/"><u>Increase FPS on ESX: Elite Techniques and 6 Optimized Fixes for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-enhancing-stability-in-diablo-immortal-on-your-computer-updated/"><u>Step-by-Step Tutorial: Enhancing Stability in Diablo Immortal on Your Computer (Updated)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-new-and-improved-bioshock-2-remaster-eliminating-crashes-and-elevating-play/"><u>The New and Improved BioShock 2 Remaster - Eliminating Crashes and Elevating Play</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-the-full-potential-of-googles-podcast-tools-for-2024/"><u>Unlocking the Full Potential of Google's Podcast Tools for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-of-destiny-2s-centipede-error-code-expert-tips-and-tricks/"><u>Unraveling the Mystery of Destiny 2'S Centipede Error Code - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-football-manager-2021-launch-solutions-for-the-endless-load-screen-problem/"><u>Unstick Your Football Manager 2021 Launch: Solutions for the Endless Load Screen Problem</u></a></li>
 </ul></div>
-
-
-
 
