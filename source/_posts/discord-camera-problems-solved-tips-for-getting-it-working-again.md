@@ -1,7 +1,7 @@
 ---
 title: Discord Camera Problems Solved - Tips for Getting It Working Again
-date: 2024-09-12T04:32:10.944Z
-updated: 2024-09-16T19:33:43.864Z
+date: 2024-09-19T01:37:11.493Z
+updated: 2024-09-21T19:39:54.611Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ See if you can log in or not. if not, try the next fix, below.
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reset Winsock data
@@ -95,6 +95,13 @@ See if you can log in or not. if not, try the next fix, below.
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
@@ -115,17 +122,17 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -155,19 +162,6 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ### Fix 7: Avoid wireless interference
@@ -186,20 +180,28 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
- Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
 ### Fix 9: Change the DNS server
 
@@ -215,19 +217,6 @@ See if you can log in or not. if not, try the next fix, below.
 4. **Right-click** your current network and then select **Properties** .  
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
@@ -269,18 +258,21 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-yearbook-beatdowns-the-top-ten-tiktok-hits-of-the-new-decade/"><u>[New] In 2024, Yearbook Beatdowns The Top Ten TikTok Hits of the New Decade</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevate-your-edits-the-beginners-insider-look-at-editing-techniques/"><u>[Updated] Elevate Your Edits The Beginner's Insider Look at Editing Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-navigate-apples-podcast-acceptance-policy/"><u>[Updated] How to Navigate Apple's Podcast Acceptance Policy</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-screen-recordings-with-gotomeeting-for-2024/"><u>[Updated] Navigating Screen Recordings with GoToMeeting for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/decoding-inverse-image-retrieval-for-social-networks-focusing-on-fb-for-2024/"><u>Decoding Inverse Image Retrieval for Social Networks, Focusing on FB for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-fortnite-load-failures-solve-your-problems-fast/"><u>Effortless Fixes for [Fortnite Load Failures]: Solve Your Problems Fast</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-common-issues-why-payday-2-wont-start-up-on-your-pc/"><u>Fixes for Common Issues: Why Payday 2 Won't Start Up on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-back-into-the-action-essential-fixes-for-starting-fallout-3/"><u>Get Back Into the Action: Essential Fixes for Starting Fallout 3</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-word-2007-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for Word 2007 document</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-xlb-document-with-electronic-digital-signature-tutorial-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to Sign .xlb document with Electronic Digital Signature - (Tutorial)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-zte-nubia-z60-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from ZTE Nubia Z60 Ultra to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-premium-enhancements-guide-to-superior-terria/"><u>In 2024, Premium Enhancements Guide to Superior Terria</u></a></li>
-<li><a href="https://win-answers.techidaily.com/starcraft-2-pc-crash-solutions-resolve-your-gaming-problems-today/"><u>Starcraft 2 PC Crash Solutions - Resolve Your Gaming Problems Today!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-leapfrog-your-sub-count-top-techniques-unveiled/"><u>[New] 2024 Approved Leapfrog Your Sub Count Top Techniques Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-navigating-through-top-film-makers-landscape/"><u>[New] 2024 Approved Navigating Through Top Film Makers' Landscape</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-save-pc-sound-frequencies-and-mic-dialogue/"><u>[Updated] 2024 Approved Save PC Sound Frequencies & Mic Dialogue</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-color-change-pro-methods-uncovered/"><u>[Updated] Navigating Color Change Pro Methods Uncovered</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pioneering-photography-insight-with-complementary-works/"><u>[Updated] Pioneering Photography Insight with Complementary Works</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-easy-steps-streaming-virtual-reality-videos-successfully/"><u>1. Easy Steps: Streaming Virtual Reality Videos Successfully</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-executing-a-successful-facebook-live-from-previous-recordings/"><u>2024 Approved Executing a Successful Facebook Live From Previous Recordings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-881/"><u>画面録画の簡単な手引き：Windows 8および8.1で</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027954865-2024/"><u>最高の音楽編集ソフトを選ぶには？【2024年版リコメンデーション】</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/itunes-127-synchronization-issues-fast-solutions-for-iphone-and-ipad/"><u>ITunes 12.7 Synchronization Issues: Fast Solutions for iPhone and iPad</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028089720-mp4-windows-11/"><u>MP4形式動画を一本化: Windows 11使用ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029797481-obs-studio/"><u>OBS Studioによるフルスクリーンキャプチャの技術ガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-twitch-lag-uncover-7-proven-techniques-to-ensure-smooth-stream-playback/"><u>Say Goodbye to Twitch Lag! Uncover 7 Proven Techniques to Ensure Smooth Stream Playback</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-wmi-service-overuse-on-pcs/"><u>Tackling WMI Service Overuse on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/webex-2024-mp4/"><u>WebEx 2024 動画変換：録画から MP4へのステップバイステップガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wonderfox-dvd-ripper-pro-dvd/"><u>WonderFox DVD Ripper Pro - DVDコピーツールとしての信頼性を紹介</u></a></li>
 </ul></div>
 

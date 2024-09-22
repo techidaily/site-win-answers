@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues: Fixing Sword and Fairy 7 Crashes"
-date: 2024-09-14T04:22:34.721Z
-updated: 2024-09-16T17:29:07.953Z
+date: 2024-09-21T01:50:12.944Z
+updated: 2024-09-21T22:17:53.469Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Close unnecessary background programs
 
  Software conflicts can also be a cause. To avoid this, you should shut down all unneeded programs running in the background before using OBS. Here are the steps:
@@ -59,28 +66,8 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
@@ -96,33 +83,27 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
 
@@ -139,6 +120,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -166,17 +154,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-untangling-the-video-jams-in-digital-portfolits/"><u>[New] 2024 Approved Untangling the Video Jams in Digital Portfolits</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-productive-pastimes-during-your-podcast-engagement/"><u>[New] Productive Pastimes During Your Podcast Engagement</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/elevate-your-cpu-game-with-an-amd-ryzen-9700x-overclocking-to-58ghz-and-beyond-using-cutting-edge-aio-liquid-coolers-surpassing-expectations-at-a-steady-idl32/"><u>Elevate Your CPU Game with an AMD Ryzen #9700X: Overclocking to 5.8GHz and Beyond Using Cutting-Edge AIO Liquid Coolers, Surpassing Expectations at a Steady Idle Speed of 6 GHz</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-free-trial-of-the-ultimate-3gp-video-converter-experience-safe-and-hassle-free-shopping-with-factory-pro/"><u>Get Your Free Trial of the Ultimate 3GP Video Converter: Experience Safe and Hassle-Free Shopping with Factory Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-converting-flv-videos-to-mp4-format-via-handbrake-software/"><u>Guide to Converting FLV Videos to MP4 Format via HandBrake Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-transferring-your-dvds-from-disc-to-desktop-step-by-step-process/"><u>Guide: Transferring Your DVDs From Disc to Desktop – Step-by-Step Process</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-zte-blade-a73-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock ZTE Blade A73 5G Phone Forgot Password</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-magic-5-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor Magic 5 Without PUK Codes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/note-networks-audit-sound-file-archives-for-2024/"><u>Note Networks Audit Sound File Archives for 2024</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-bluetooth-devices-that-appear-paired-but-remain-unconnected-in-windows-10/"><u>Troubleshooting Bluetooth Devices That Appear Paired But Remain Unconnected in Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-a-prism-of-design-from-theory-to-practice-for-2024/"><u>[New] A Prism of Design From Theory to Practice for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-becoming-a-snapchat-videography-pro-time-control-tactics/"><u>[New] Becoming a Snapchat Videography Pro Time Control Tactics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-screen-shotting-for-xbox-enthusiasts/"><u>[New] In 2024, Step-by-Step Screen Shotting for Xbox Enthusiasts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-revenue-a-step-by-step-money-making-blueprint/"><u>[New] In 2024, Vimeo Revenue A Step-by-Step Money-Making Blueprint</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ultimate-selection-best-video-calling-tools-phonepc/"><u>[Updated] Ultimate Selection Best Video Calling Tools Phone/PC</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-gt-neo-5-se-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-optimal-health-outcomes-by-collaborating-with-chatgpt-for-personalized-goal-setting-strategies/"><u>Achieve Optimal Health Outcomes by Collaborating with ChatGPT for Personalized Goal-Setting Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ark-survival-ascended-troubleshooting-constant-pc-game-crashes-with-these-9-tips/"><u>ARK: Survival Ascended - Troubleshooting Constant PC Game Crashes with These 9 Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-launcher-fix-how-to-get-past-a-perpetual-loading-screen/"><u>Fortnite Launcher Fix: How to Get Past a Perpetual Loading Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-maplestory-game-not-loading-issues-easily/"><u>How to Resolve MapleStory Game Not Loading Issues Easily</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-earnings-explorer-what-you-get-for-watching-one-million-videos/"><u>In 2024, Earnings Explorer What You Get for Watching One Million Videos?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-delays-solving-obs-live-stream-and-screen-capture-problems/"><u>No More Delays: Solving OBS Live Stream and Screen Capture Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-fix-the-solved-ascent-game-from-constantly-crashing/"><u>PC Gamers Rejoice: Fix the [SOLVED] Ascent Game From Constantly Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-easy-solutions-to-dayz-fps-drops-problems/"><u>Quick and Easy Solutions to DayZ FPS Drops Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-drops-and-playback-glitches-in-naraka-bladepoint/"><u>Troubleshooting Frame Drops & Playback Glitches in Naraka: Bladepoint</u></a></li>
 </ul></div>
 

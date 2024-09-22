@@ -1,7 +1,7 @@
 ---
 title: Is Xbox Live Functional? A Quick Guide to Assess Server Uptime.
-date: 2024-09-11T06:35:55.692Z
-updated: 2024-09-17T06:54:44.759Z
+date: 2024-09-19T19:29:25.936Z
+updated: 2024-09-22T00:13:24.082Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d2f1b0153.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Select **Apps**.
@@ -71,33 +71,33 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 3) Highlight **Netflix** from Apps. Then press the menu button on your controller.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7d5cf405.png)4) Select **Manage app**.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d4de65636.png)
 
 5) Select **Uninstall all**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d5c6d7c9b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Back to Home of your Xbox One and select**Store**. Then select **Netflix** in **Apps**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d67dec46f.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Select **Install**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d6d32cef6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 8) Run Netflix to see if it works.
 
@@ -119,17 +119,19 @@ thumbnail: https://thmb.techidaily.com/4e1e135a4b0338f686903eb0c608ba2a349e6fad2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-video-transfer-youtube-to-dailymotion-conversion/"><u>[Updated] Mastering Video Transfer YouTube to Dailymotion Conversion</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/2024-approved-how-to-remove-audio-seamlessly-a-windows-10-users-handbook-for-sound-free-vids-free-of-charge/"><u>2024 Approved How to Remove Audio Seamlessly A Windows 10 Users Handbook for Sound-Free Vids (Free of Charge)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/among-us-troubleshooting-persistent-loading-issue-get-unstuck/"><u>Among Us: Troubleshooting Persistent 'Loading' Issue - Get Unstuck</u></a></li>
-<li><a href="https://win-answers.techidaily.com/definitive-edition-of-mafia-game-to-hit-stores-problem-solved-and-ready-for-release/"><u>Definitive Edition of Mafia Game to Hit Stores - Problem Solved & Ready for Release</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-recover-deleted-permanently-photos-from-iphone-safe-and-works/"><u>How to Recover Deleted Permanently Photos From iPhone – (Safe & Works)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-issues-with-pacific-drive-freezing-up-on-your-computer/"><u>Resolving Issues with Pacific Drive Freezing Up on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-made-easy-resolve-deathloops-pc-crashes-in-just-a-few-quick-steps/"><u>Troubleshooting Made Easy: Resolve Deathloop's PC Crashes in Just a Few Quick Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-you-cant-open-origin-on-windows-11/"><u>Troubleshooting Steps When You Can't Open Origin on Windows 11</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-vivo-s18-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Vivo S18 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-hogwarts-legacy-failed-startup-issues/"><u>Ultimate Guide: Solving 'Hogwarts Legacy' Failed Startup Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-latest-in-pc-gear-with-tom/"><u>Unveiling the Latest in PC Gear with Tom</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/voice-tactics-for-playstation-45-gamers/"><u>Voice Tactics for PlayStation 4/5 Gamers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-methodology-creating-life-changing-video-guides/"><u>[New] In 2024, Methodology Creating Life-Changing Video Guides</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-ultimate-techniques-for-perfecting-instagram-video-loops/"><u>[Updated] 2024 Approved The Ultimate Techniques for Perfecting Instagram Video Loops</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-science-of-social-media-optimizing-post-performance-on-instagram-for-2024/"><u>[Updated] The Science of Social Media Optimizing Post Performance on Instagram for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensively-understanding-manual-signal-recognition/"><u>2024 Approved Comprehensively Understanding Manual Signal Recognition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/miomiomiomioguru/"><u>高効率かつセキュリティに優れたMioMio(miomio.guru)動画ダウンロードガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/f4v-swf/"><u>線上無需支付的 F4V 至 SWF 轉換工具 - 馬華維化解方案</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-v29e-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo V29e to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-mp4-video-converter-a-step-by-step-guide-with-factory-pro/"><u>Mastering the MP4 Video Converter: A Step-by-Step Guide with Factory Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/moi-file-explained-unraveling-the-meaning-and-methods-for-easy-access/"><u>MOI File Explained: Unraveling the Meaning & Methods for Easy Access</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-videos-proven-techniques-to-shrink-megabytes-while-preserving-clarity/"><u>Optimize Your Videos: Proven Techniques to Shrink Megabytes While Preserving Clarity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-effective-strategies-for-converting-flv-files-into-high-quality-mp3-audio/"><u>Quick & Effective Strategies for Converting FLV Files Into High-Quality MP3 Audio</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-integration-of-the-rogue-one-add-on-into-kodis-leia-framework/"><u>Seamless Integration of the Rogue One Add-On Into Kodi's LEIA Framework</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/silverman-artists-unite-lawsuit-against-ai-giants/"><u>Silverman, Artists Unite: Lawsuit Against AI Giants</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-google-pixel-fold-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Google Pixel Fold Device</u></a></li>
 </ul></div>
 

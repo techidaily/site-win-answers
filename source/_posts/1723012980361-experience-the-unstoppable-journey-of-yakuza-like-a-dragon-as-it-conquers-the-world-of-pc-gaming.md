@@ -1,7 +1,7 @@
 ---
 title: "Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!"
-date: 2024-09-10T18:56:08.608Z
-updated: 2024-09-16T19:44:48.730Z
+date: 2024-09-14T20:46:53.537Z
+updated: 2024-09-21T16:00:09.981Z
 tags:
   - win11
   - win10
@@ -72,6 +72,19 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -82,23 +95,23 @@ wireless router
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
- Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
 ### Fix 4 – Increase virtual memory
 
@@ -110,24 +123,18 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
@@ -152,26 +159,13 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
@@ -198,19 +192,21 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-fb-stream-downloading-on-different-operating-systems-for-2024/"><u>[New] FB Stream Downloading on Different Operating Systems for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-revamp-your-tiktok-videos-insightful-strategies-for-backdrop-changes/"><u>2024 Approved Revamp Your TikTok Videos Insightful Strategies for Backdrop Changes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/chucklecanvas-funny-images-for-social-media-sharing/"><u>ChuckleCanvas Funny Images for Social Media Sharing</u></a></li>
-<li><a href="https://win-able.techidaily.com/connecting-successfully-in-rainbow-six-siege-overcoming-server-issues/"><u>Connecting Successfully in Rainbow Six Siege: Overcoming Server Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/holi-song-extravaganza-quick-and-easy-guide-to-downloading-your-favorite-tunes/"><u>Holi Song Extravaganza: Quick & Easy Guide to Downloading Your Favorite Tunes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-securely-get-free-flac-tracks-expert-tips-and-tricks/"><u>How to Securely Get Free FLAC Tracks: Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-into-the-metaverse-analyzing-6-engrossing-cases/"><u>In 2024, Step Into the Metaverse Analyzing 6 Engrossing Cases</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-shorts-showing-up-after-fix/"><u>In 2024, YouTube Shorts Showing Up After Fix</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-hevc-video-compatible-with-apples-ios-platform-tips-for-flawless-hevc-streaming-on-your-iphone/"><u>Is HEVC Video Compatible with Apple's iOS Platform? Tips for Flawless HEVC Streaming on Your iPhone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-your-email-capacity-tips-and-tricks-for-uploading-big-attachments-in-gmail/"><u>Maximizing Your Email Capacity: Tips and Tricks for Uploading Big Attachments in Gmail</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/meme-architectural-genius-top-picks/"><u>Meme Architectural Genius Top Picks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp3mp4windows-1011/"><u>MP3をMP4に自動的に変換するためのWindows 10/11対応無料ツールとサイト</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reversal-blueprint-swiftly-backward-apple-vids-for-2024/"><u>Reversal Blueprint Swiftly Backward Apple Vids for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/iuocpuocoplusocuuodnuocpoocrplusocquodszog44k544ou44o844oj6kq5pplus75aplusplus562u44gr5pya6ygp44gq55s76z2i6yyy55s744ks44kk44ojig/"><u>ウィズマイクオン: スピード調査対答に最適な画面録画ガイド</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-discover-the-serenade-iphone-and-its-symphony-of-podcasts/"><u>[Updated] 2024 Approved Discover the Serenade IPhone and Its Symphony of Podcasts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevating-your-win11-capture-experience-with-top-tools/"><u>[Updated] Elevating Your Win11 Capture Experience with Top Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-art-of-captivating-6-powerful-video-genres/"><u>[Updated] In 2024, The Art of Captivating 6 Powerful Video Genres</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-code-diagnosing-and-repairing-armored-core-6-the-rubicon-edition-on-your-computer/"><u>Busting the Code: Diagnosing and Repairing Armored Core 6 - The Rubicon Edition on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enjoy-smooth-gaming-experience-after-fixing-star-wars-battlefront-2-delays/"><u>Enjoy Smooth Gaming Experience After Fixing Star Wars Battlefront 2 Delays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-perpetual-load-solutions-for-when-youre-stuck-in-minecraft/"><u>Fixing the Perpetual Load: Solutions for When You're Stuck in Minecraft</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-connectivity-issues-with-corsair-icue-on-latest-windows-versions/"><u>How to Solve Connectivity Issues with Corsair iCUE on Latest Windows Versions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-itel-a70-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-thorough-insight-into-androids-lightroom-application/"><u>In 2024, A Thorough Insight Into Android's Lightroom Application</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-mastering-desktop-and-mobile-the-best-ways-to-download-fb-story/"><u>In 2024, Mastering Desktop & Mobile The Best Ways to Download FB Story</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-increasing-utorrents-download-velocity-and-overcoming-slowness-issues/"><u>Quick Fixes for Increasing uTorrent's Download Velocity and Overcoming Slowness Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-the-application-failed-in-adobe-error-0xc0000022/"><u>Troubleshooting Guide: Overcoming 'The Application Failed' In Adobe - Error 0xC0000022</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-successfully-running-last-epoch-on-your-pc-latest-fixes-and-updates/"><u>Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/virtual-frontiers-reviewed-must-have-vr-devices/"><u>Virtual Frontiers Reviewed Must-Have VR Devices</u></a></li>
 </ul></div>
 

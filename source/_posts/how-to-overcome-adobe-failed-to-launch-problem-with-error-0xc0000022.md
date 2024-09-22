@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Adobe Failed to Launch' Problem with Error 0xC0000022
-date: 2024-09-10T18:46:56.272Z
-updated: 2024-09-16T18:30:11.205Z
+date: 2024-09-18T21:01:37.310Z
+updated: 2024-09-21T18:33:19.047Z
 tags:
   - win11
   - win10
@@ -74,13 +74,6 @@ Here is how to verify the integrity of Fortnite:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
  In some cases, Fortnite won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run **Epic Games Launcher** and **Fortnite** as administrator.
@@ -91,15 +84,28 @@ Here is how to run Epic Games Launcher as administrator:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Run Fortnite to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run Fortnite**as administrator** , the steps are similar as those for Epic Games Launcher.
@@ -131,21 +137,21 @@ Here is how to run Epic Games Launcher as administrator:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-free-top-10-best-drawing-software-for-mac/"><u>[New] 2024 Approved FREE Top 10 Best Drawing Software for Mac</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-breaking-into-the-brainshare-how-to-hype-up-your-fb-content/"><u>[New] In 2024, Breaking Into the Brainshare How to Hype Up Your FB Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-djs-guide-to-elevating-visual-narratives-with-soundtracks-fb/"><u>[New] In 2024, The DJ's Guide to Elevating Visual Narratives with Soundtracks (FB)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-warzone-not-launching/"><u>[SOLVED] Warzone Not Launching</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-focusing-on-content-reach-sharing-igtv-across-platforms/"><u>[Updated] In 2024, Focusing on Content Reach Sharing IGTV Across Platforms</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/elevate-your-reel-game-on-insta-with-tiktoks-best-practices/"><u>Elevate Your Reel Game on Insta with TikTok's Best Practices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-how-to-get-past-the-hurdle-when-red-dead-redemption-2-wont-boot-up-correctly/"><u>Expert Advice: How to Get Past the Hurdle When Red Dead Redemption 2 Won't Boot Up Correctly</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expertly-curated-list-of-top-educational-sites-offering-exceptional-online-classes/"><u>Expertly Curated List of Top Educational Sites Offering Exceptional Online Classes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-wwe-2k20-crashing-problems-on-pc-with-ease/"><u>How To Prevent & Fix WWE 2K20 Crashing Problems On PC with Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-roblox-starts-up-essential-fixes-to-get-you-playing-again/"><u>Mastering Roblox Starts Up – Essential Fixes to Get You Playing Again!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/put-a-halt-on-application-start-tracking-in-windows/"><u>Put a Halt on Application Start-Tracking in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-for-missing-gpeditmsc-feature-in-windows-home-setup/"><u>Quick Fix for Missing gpedit.msc Feature in Windows Home Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-solutions-repairing-a-corrupted-disk-on-steam-without-hitches/"><u>Simple Solutions: Repairing a Corrupted Disk on Steam Without Hitches</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-oppo-find-x6-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Oppo Find X6 Pro FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cannot-access-graphics-driver-expert-solutions-for-d3derror/"><u>Troubleshooting 'Cannot Access Graphics Driver': Expert Solutions for D3Derror</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-the-finest-4-sites-for-tones/"><u>Unveiling the Finest 4 Sites for Tones</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-mac-gifs-top-10-recording-tools-for-2024/"><u>[Updated] Master Mac GIFs Top 10 Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-chucklecraft-sign-up-now-and-laugh-later/"><u>2024 Approved ChuckleCraft Sign Up Now & Laugh Later</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-art-of-haul-videography-pre-and-post-editing-processes/"><u>2024 Approved The Art of Haul Videography Pre and Post Editing Processes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dvd20234/"><u>最新DVDイメージファイル入手法：202([[34年分]について学ぶ完全解析</u></a></li>
+<li><a href="https://win-answers.techidaily.com/download-free-ipod-compatible-mp3-converter-software-for-both-pc-and-apple-devices/"><u>Download Free iPod-Compatible MP3 Converter Software for Both PC and Apple Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dvd-isomp3/"><u>DVD ISOファイルをMP3形式に変換する詳しいガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-converting-multiple-wmv-files-into-mov-format-at-once/"><u>Easy Guide: Converting Multiple WMV Files Into MOV Format at Once</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-transferring-your-favorite-videos-from-vimeo-to-iphone-seamlessly/"><u>Easy Guide: Transferring Your Favorite Videos From Vimeo to iPhone Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-methods-capturing-soundtracks-a-guide-to-separating-audio-from-online-videos/"><u>Easy Methods: Capturing Soundtracks - A Guide to Separating Audio From Online Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-how-to-change-mp4-file-format-to-xvid-for-better-playback-compatibility/"><u>Easy Tutorial on How to Change MP4 File Format to Xvid for Better Playback Compatibility</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hassle-free-process-to-revamp-your-scansnap-ix5e-driver-compatibility-on-windows-systems/"><u>Hassle-Free Process to Revamp Your ScanSnap iX5e Driver Compatibility on Windows Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-spark-go-2023-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Spark Go (2023) without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-sierra-icloud-drives-a-complete-overview/"><u>In 2024, Exploring Sierra iCloud Drives – A Complete Overview</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-assistance-writing-challenging-business-emails-effectively-with-chatgpt/"><u>Leveraging AI Assistance: Writing Challenging Business Emails Effectively with ChatGPT</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/trimming-unwanted-ui-in-discord-games/"><u>Trimming Unwanted UI in Discord Games</u></a></li>
 </ul></div>
 

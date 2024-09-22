@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Restore Functionality of a Malfunctioning Logitech C920 Camera
-date: 2024-09-09T16:17:04.595Z
-updated: 2024-09-17T06:33:45.297Z
+date: 2024-09-18T23:44:20.273Z
+updated: 2024-09-21T22:02:42.250Z
 tags:
   - win11
   - win10
@@ -77,27 +77,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Download the x64.exe in the language you prefer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Scroll down the page and download the x86.exe.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
 
@@ -106,10 +99,10 @@ OR
 Play Ghostrunner again to see if this fatal error reoccurs.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
@@ -122,9 +115,23 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.
 
@@ -147,13 +154,6 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/VERIFY.jpg)
 
  Wait for the process and then restart the game to check whether the Ghostrunner fatal error has been fixed or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower your graphics settings
 
@@ -182,14 +182,12 @@ Play Ghostrunner again to see if this fatal error reoccurs.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-innovative-mount-tech-for-smooth-sensor-motion/"><u>[Updated] 2024 Approved Innovative Mount Tech for Smooth Sensor Motion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-issues-with-syndicate-game-not-loading-solutions-and-advice/"><u>Common Issues with Syndicate Game Not Loading: Solutions and Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-and-repairing-cyberpunk-2er-frontier-errors-on-your-computer/"><u>Expert Tips for Preventing and Repairing Cyberpunk 2Er Frontier Errors on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-to-the-bottom-of-a-broken-discord-webcam-expert-fixes/"><u>Getting to the Bottom of a Broken Discord Webcam - Expert Fixes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-nokia-c32-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-in-fifa-20-on-your-computer-the-full-experts-crash-fix-handbook/"><u>Mastering Stability in FIFA 20 on Your Computer: The Full Expert's Crash Fix Handbook</u></a></li>
-<li><a href="https://win11.techidaily.com/top-7-strategies-for-successful-folders-management-in-win-11/"><u>Top 7 Strategies for Successful Folders Management in Win 11</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-camera-review-can-gopros-hero-beat-sonys-dslr-action/"><u>Ultimate Camera Review Can GoPro's Hero Beat Sony's DSLR Action</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/comprehensive-fsp-hydro-g-pro-1000w-atx-v30-psu-evaluation-performance-and-value-assessment/"><u>Comprehensive FSP Hydro G Pro 1000W ATX V3.0 PSU Evaluation: Performance and Value Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-resolve-the-unfixable-l-ec-mistake-on-dvd-with-imgburn-software/"><u>How to Successfully Resolve the Unfixable L-EC Mistake on DVD with ImgBurn Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ipadmpg/"><u>IPad上のMPGビデオファイルをスムーズに再生するコツ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mpegmov3/"><u>MPEGファイルをMOV形式へ転換するための3つの最適な手法</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/remove-the-lock-screen-fingerprint-of-your-samsung-galaxy-s23-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Samsung Galaxy S23</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-realme-narzo-60x-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Realme Narzo 60x 5G Phone Network-Ready</u></a></li>
 </ul></div>
 

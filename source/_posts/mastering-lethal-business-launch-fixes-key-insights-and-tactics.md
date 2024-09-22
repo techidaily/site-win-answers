@@ -1,7 +1,7 @@
 ---
 title: "Mastering Lethal Business Launch Fixes: Key Insights and Tactics"
-date: 2024-09-15T01:37:49.472Z
-updated: 2024-09-16T23:37:25.817Z
+date: 2024-09-18T01:14:28.853Z
+updated: 2024-09-22T02:14:02.590Z
 tags:
   - win11
   - win10
@@ -78,6 +78,13 @@ There are mainly two ways you can update the graphics driver:
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
  If Genshin Impact doesn’t launch and you’re receiving specific errors like 0xc000007b or MSVCP140.dll cannot be found, installing the latest DirectX files and Visual C++ files might resolve your issue.
@@ -102,36 +109,31 @@ There are mainly two ways you can update the graphics driver:
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 3. Choose the**Startup tab** and click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the computer starts up, launch Genshin Impact to check if the issue persists. If it works without trouble,**enable the services one or a few like four or five at a time** . If the game works fine, there is no problem with these services. Then repeat the steps until you’ve checked all the services.
 
@@ -151,10 +153,10 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Repair the game files
@@ -166,14 +168,14 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-1.jpg)
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
 
  Wait for the process to finish and restart the game, which should be working as expected.
 
@@ -198,15 +200,17 @@ There are mainly two ways you can update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-building-a-successful-youtube-channel-sidestep-these-8-frequent-faux-pas-for-2024/"><u>[Updated] Building a Successful YouTube Channel Sidestep These 8 Frequent Faux Pas for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hacking-back-photo-viewing-in-windows-11-easily/"><u>[Updated] Hacking Back Photo Viewing in Windows 11 Easily</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/apex-legends-errors-unraveled-master-the-games-engine-fixes/"><u>Apex Legends Errors Unraveled - Master the Game's Engine Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-resolving-windows-10s-critical-error-code-0xc1e1-a-step-by-step-approach/"><u>Guide: Resolving Windows 10'S Critical Error Code 0xC1e1 - A Step-by-Step Approach</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-innovators-behind-vr-spectacles/"><u>In 2024, Innovators Behind VR Spectacles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/save-big-on-prime-day-with-the-finest-acer-offers-of-2024/"><u>Save Big on Prime Day with the Finest Acer Offers of 2024!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/srt-to-sub-shift-expert-strategies-and-actions-for-2024/"><u>SRT to SUB Shift Expert Strategies & Actions for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-install-and-play-tiny-tinas-stunning-adventure-on-your-pc/"><u>Successfully Install and Play Tiny Tina's Stunning Adventure on Your PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-ultimate-winxdvd-companion-a-comprehensive-user-manual/"><u>The Ultimate WinXDVD Companion: A Comprehensive User Manual</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixes-for-mass-effect-trilogys-audio-glitches/"><u>Troubleshooting: Fixes for Mass Effect Trilogy's Audio Glitches</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-webcam-recorder-reviews-unlocking-your-video-potential-for-2024/"><u>[New] Webcam Recorder Reviews - Unlocking Your Video Potential for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-effortless-capture-of-virtual-meeting-footage-on-pcs/"><u>2024 Approved Effortless Capture of Virtual Meeting Footage on PCs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>2024 Approved Pinnacle Performance Comparison Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-definitive-guide-to-crafting-memorable-podcast-names-with-inspirations/"><u>2024 Approved The Definitive Guide to Crafting Memorable Podcast Names, with Inspirations</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a23-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A23 5G Fingerprint Lock</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/innovative-recording-tech-the-leaders-choice/"><u>Innovative Recording Tech The Leaders' Choice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-ranking-ultimate-video-format-changer-for-microsoft-windows-users/"><u>Latest Ranking: Ultimate Video Format Changer for Microsoft Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/most-effective-videots-to-mpeg-conversion-tools-for-windows-11-top-picks-of-20232024/"><u>Most Effective VIDEO_TS to MPEG Conversion Tools for Windows 11 - Top Picks of 2023/2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-disk-errors-in-windows/"><u>Resolving Disk Errors in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-complete-guide-to-force-rebooting-iphones-and-gaining-entry-to-recovery-mode/"><u>The Complete Guide to Force Rebooting iPhones & Gaining Entry to Recovery Mode</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-reviews-of-cheapest-car-battery-packs-explore-the-ultimate-low-price-high-performance-options-with-best-priced-power-drives-by-anker/"><u>Top Reviews of Cheapest Car Battery Packs - Explore the Ultimate Low Price, High Performance Options with Best Priced Power Drives by Anker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/livepc/"><u>アクタージャニーズLIVE配信のPC録画・確保テクニック</u></a></li>
 </ul></div>
 

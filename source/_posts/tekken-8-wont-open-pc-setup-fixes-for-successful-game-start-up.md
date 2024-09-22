@@ -1,7 +1,7 @@
 ---
 title: Tekken 8 Won't Open? PC Setup Fixes for Successful Game Start-Up
-date: 2024-09-09T21:50:09.142Z
-updated: 2024-09-17T03:42:29.812Z
+date: 2024-09-15T21:47:08.986Z
+updated: 2024-09-22T00:17:49.255Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ Follow the instructions below to view your computer hardware information:
 
 If your problem still exists after the reboot, check Fix 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  Game issues commonly occur when your graphics driver is corrupted or outdated. To see if that’s the problem for you, try updating your graphics driver. There are 2 ways you can do this:
@@ -115,13 +122,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -136,6 +136,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
@@ -145,10 +152,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch GMod.
@@ -195,25 +202,11 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -226,6 +219,13 @@ Follow the instructions below to stop the automatic downloads:
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -247,16 +247,16 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **10)**  Relaunch Steam and your game.
 
@@ -327,15 +327,18 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-visualize-humor-use-kapwing-for-making-memes/"><u>[Updated] 2024 Approved Visualize Humor - Use Kapwing for Making Memes</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-6-plus-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 6 Plus for Free</u></a></li>
-<li><a href="https://win-answers.techidaily.com/twitchwindowsmac3/"><u>撮影ツール: TwitchのライブストリーミングをWindows、Mac両方用に記録しましょう（3選）</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/crucial-considerations-for-prospective-customers-of-reconditioned-laptops/"><u>Crucial Considerations for Prospective Customers of Reconditioned Laptops</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-captivating-content-creation-the-best-10-igtv-strategies-for-brands/"><u>In 2024, Captivating Content Creation The Best 10 IGTV Strategies for Brands</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-witness-the-power-of-4k-the-most-impressive-video-demos/"><u>In 2024, Witness the Power of 4K The Most Impressive Video Demos</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-power-of-ipados-in-the-latest-apple-tablet-a-deep-dive-into-productivity-gains/"><u>The Power of iPadOS in the Latest Apple Tablet – A Deep Dive Into Productivity Gains</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-8-mp4-merging-tools-with-free-alternatives-included/"><u>Top 8 MP4 Merging Tools with FREE Alternatives Included</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-mp4-playback-issues-a-guide-for-samsung-lg-and-sony-tvs/"><u>Troubleshooting MP4 Playback Issues: A Guide for Samsung, LG & Sony TVs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-crafting-perfect-playlists-import-music-with-inshot/"><u>[New] Crafting Perfect Playlists Import Music with InShot</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-youtube-cards-and-tags-for-2024/"><u>[New] Navigating YouTube Cards and Tags for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unraveling-video-opposites-a-comprehensible-guide-for-instavids-for-2024/"><u>[Updated] Unraveling Video Opposites A Comprehensible Guide for InstaVids for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-for-pc-stability-issues-solved-how-to-ensure-a-smooth-gaming-experience/"><u>Assassin's Creed Valhalla for PC Stability Issues Solved: How to Ensure a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-implemented-overcome-itunes-sound-configuration-challenges-with-these-steps/"><u>Fixes Implemented: Overcome iTunes Sound Configuration Challenges with These Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-your-rocket-league-game-keeps-failing-to-start/"><u>Fixing the Issue: Why Your Rocket League Game Keeps Failing to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-multiplayer-connectivity-in-elden-ring-game/"><u>How To Restore Multiplayer Connectivity In Elden Ring Game</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-yuva-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-valheim-performance-fixing-ping-issues-on-a-windows-machine/"><u>Improving Valheim Performance: Fixing Ping Issues on a Windows Machine</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-video-sizes-on-instagram-the-ultimate-2023-guide-for-2024/"><u>Navigating Video Sizes on Instagram - The Ultimate 2023 Guide for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967892235-seamless-updating-of-logitech-headset-drivers-fast-and-hassle-free-downloads/"><u>Seamless Updating of Logitech Headset Drivers: Fast and Hassle-Free Downloads!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-yakuza-3s-pc-port-issues-resolved-for-optimal-play-experience/"><u>Solved! Yakuza 3'S PC Port Issues Resolved for Optimal Play Experience</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-hcmon-driver-not-installed-issues-a-step-by-step-guide/"><u>Solving 'HcMon Driver Not Installed' Issues - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

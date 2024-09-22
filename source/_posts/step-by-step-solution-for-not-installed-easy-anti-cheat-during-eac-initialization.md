@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization
-date: 2024-09-15T06:13:11.074Z
-updated: 2024-09-16T22:30:17.731Z
+date: 2024-09-14T18:56:50.216Z
+updated: 2024-09-22T02:31:07.811Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 
 If you still can’t open Fortnite, move on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify your game files
 
  This problem might occur when certain game files are missing or corrupted. So you should verify your game file to see if that the problem for you. Here is how:
@@ -75,13 +82,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This process could take several minutes. Please wait for it to be complete. Then, try launching Fortnite to test your problem. If you still get the error message, don’t worry! There are still 2 fixes to try.
 
 ### Fix 4: Repair the EasyAntiCheat
@@ -92,28 +92,15 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type**easyanticheat** in the search box and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-42.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** .
@@ -121,10 +108,10 @@ If you still can’t open Fortnite, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click **Repair Service** .
@@ -134,13 +121,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
 
  After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Fortnite
 
@@ -174,11 +154,25 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fortnite-entry-point-not-found-2019-tips/#e2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Option 1 – Download and install the driver manually**
 
  Epson keeps updating drivers. To get them, you need to go to your graphics product manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update** your graphics driver
 
@@ -222,21 +216,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-guilty-gear-strive-lag-issues/"><u>[SOLVED] Guilty Gear -Strive- Lag Issues</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-8-premier-resources-download-free-high-quality-green-screen-footage/"><u>[Updated] In 2024, 8 Premier Resources Download Free, High-Quality Green Screen Footage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-pros-guide-to-documenting-your-online-facebook-interactions/"><u>[Updated] In 2024, The Pro's Guide to Documenting Your Online Facebook Interactions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-kinemasters-blueprint-for-smooth-video-flow-and-continuity/"><u>[Updated] Kinemaster's Blueprint for Smooth Video Flow and Continuity</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apex-sites-for-rich-3d-experiences-with-lustrous-text-art/"><u>Apex Sites for Rich 3D Experiences with Lustrous Text Art</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-fixes-eradicate-your-fifa-19s-directx-problems-without-a-hitch/"><u>DIY Fixes: Eradicate Your FIFA 19'S DirectX Problems Without a Hitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-troubleshooting-stop-wwe-2k20-from-crashing-on-your-pc/"><u>Effortless Troubleshooting: Stop WWE 2K20 From Crashing on Your PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-six-hubs-where-companies-thrive-socially-and-professionally/"><u>Essential Six Hubs Where Companies Thrive Socially & Professionally</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-v29e-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo V29e to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/increase-fps-in-roe-proven-strategies-for-a-smoother-gaming-experience/"><u>Increase FPS in ROE: Proven Strategies for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-best-free-m4a-audio-editing-software-for-beginners-for-2024/"><u>New Best Free M4A Audio Editing Software for Beginners for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-corsair-icue-dysfunctionality-in-the-latest-windows-os-a-comprehensive-fix-guide/"><u>Overcoming Corsair iCUE Dysfunctionality in the Latest Windows OS - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-gray-zone-warfare-gzw-system-errors-on-windows-a-step-by-step-guide/"><u>Solving Gray Zone Warfare (GZW) System Errors on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-server-connection-problem-solved-what-you-need-to-know/"><u>Steam Server Connection Problem Solved - What You Need to Know!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-journey-to-facebooks-high-level-status-symbol-for-2024/"><u>The Journey to Facebook's High-Level Status Symbol for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-ultimate-guide-to-10-must-have-ig-video-editing-tools/"><u>The Ultimate Guide to 10 Must-Have IG Video Editing Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-audience-accessibility-enhancement-adding-subtitles-and-closed-captions-on-youtube-for-2024/"><u>[Updated] Audience Accessibility Enhancement Adding Subtitles and Closed Captions on YouTube for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-efficiently-cut-out-distractions-in-your-iphone-photography/"><u>[Updated] In 2024, Efficiently Cut Out Distractions in Your iPhone Photography</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pioneering-mobile-applications-for-altered-vocal-output-for-2024/"><u>[Updated] Pioneering Mobile Applications for Altered Vocal Output for 2024</u></a></li>
+<li><a href="https://discover-great.techidaily.com/2024-mp4wav-8/"><u>2024 MP4ビデオファイルを無料のWAV形式に完璧に変換! 上位8つの優秀なソフトウェアリスト</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/effortless-visual-transitions-using-instagram-chroma-keying/"><u>Effortless Visual Transitions Using Instagram Chroma Keying</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-tutorial-on-how-to-refresh-the-drivers-for-your-usb-to-serial-adapter/"><u>The Ultimate Tutorial on How to Refresh the Drivers for Your USB-to-Serial Adapter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029260902-vlc/"><u>VLCメディアプレーヤーを安全かつ有用に活用するためのリスク、欠点、そしてベストプラクティス</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029379782-youtube/"><u>YouTubeビデオを非表示中にも自動再生設定方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028992510-5/"><u>ゲームライブ撮影ソフトウェア 最新無料版5選！初心者も使いやすい編集ツールの完全ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029522997-youtube/"><u>ブラウザでYouTube動画ダウンロードガイド</u></a></li>
 </ul></div>
 

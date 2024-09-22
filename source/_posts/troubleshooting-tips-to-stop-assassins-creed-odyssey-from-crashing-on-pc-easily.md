@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily
-date: 2024-09-13T20:32:50.503Z
-updated: 2024-09-16T22:09:27.801Z
+date: 2024-09-17T02:39:27.723Z
+updated: 2024-09-21T21:16:42.343Z
 tags:
   - win11
   - win10
@@ -73,10 +73,10 @@ There are mainly two ways to update the graphics driver:
  Relaunch the game to check its performance with your newly-installed graphics driver. If the update doesn’t do the trick, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
@@ -88,10 +88,10 @@ There are mainly two ways to update the graphics driver:
 2. Move your mouse cursor to Assassin’s Creed Valhalla and click the**downward triangle icon** . Then, select**View game details** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-3.jpg)
@@ -100,18 +100,18 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
 6. Launch the ACValhalla.exe file directly from the installation folder and see how it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the issue persists, head to the fixes below.
 
@@ -127,6 +127,13 @@ If the issue persists, head to the fixes below.
 3. Click**Verify files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the process completes, relaunch the game to test. If this method doesn’t work, try the next one below.
 
 ### Fix 5 – Reinstall Assassin’s Creed Valhalla
@@ -137,21 +144,14 @@ If the issue persists, head to the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-5.jpg)
 2. Locate Assassin’s Creed Valhalla and click the**downward triangle** icon on the title. Then, click**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-2.jpg)
 3. Reinstall the game to the same location where your OS and Ubisoft Connect app are installed.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Assassin’s Creed Valhalla not launching issue should be resolved after the fresh reinstallation.
@@ -179,17 +179,17 @@ If the issue persists, head to the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-mac-ipad-iphone-browsing-via-pip/"><u>[New] Optimizing Mac, iPad, iPhone Browsing via PIP</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-method-to-dismantle-youtube-shorts/"><u>[New] The Ultimate Method to Dismantle YouTube Shorts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-enhance-your-content-creation-with-these-top-12-cameras/"><u>[Updated] 2024 Approved Enhance Your Content Creation with These Top 12 Cameras</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>2024 Approved Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-walkthrough-for-installing-mad-titan-sports-extension-on-kodis-latest-version-nexus/"><u>Complete Walkthrough for Installing Mad Titan Sports Extension on Kodi's Latest Version (Nexus)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvdpcwindows-11/"><u>DVDデータをPCに転送するためのWindows 11ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-methods-for-crafting-custom-iphone-ringtones-without-using-itunes/"><u>Effortless Methods for Crafting Custom iPhone Ringtones Without Using iTunes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-your-videos-top-4-techniques-for-seamlessly-integrating-picture-watermarks/"><u>Enhancing Your Videos: Top 4 Techniques for Seamlessly Integrating Picture Watermarks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-the-risks-and-laws-of-using-flvto-essential-insights-for-users/"><u>Exploring the Risks & Laws of Using FLVTO - Essential Insights for Users</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-learn-to-manage-hdr-with-windows/"><u>In 2024, Learn to Manage HDR with Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/optimizing-productivity-4-strategies-with-chatgpt/"><u>Optimizing Productivity: 4 Strategies with ChatGPT</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/understanding-wrapped-bitcoin-a-comprehensive-guide-to-wbtc/"><u>Understanding Wrapped Bitcoin: A Comprehensive Guide to WBTC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhance-brand-recognition-inserting-watermarklogo-in-youtube-videos/"><u>[New] 2024 Approved Enhance Brand Recognition Inserting Watermark/Logo in Youtube Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-soothing-games-to-ease-anxiety/"><u>[New] 2024 Approved Top 10 Soothing Games to Ease Anxiety</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-step-by-step-instagram-filter-guide-keeping-up-with-2023-trends-for-2024/"><u>[New] Step-by-Step Instagram Filter Guide - Keeping Up with 2023 Trends for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-saving-movs-on-windows-10-pro/"><u>[Updated] 2024 Approved The Ultimate Guide Saving MOVs on Windows 10 Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-precision-meets-creativity-top-accessories-for-yi-4k/"><u>[Updated] In 2024, Precision Meets Creativity Top Accessories for YI 4K</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-and-repairing-your-oculus-graphics-driver-errors-expert-advice-and-tips/"><u>Addressing and Repairing Your Oculus Graphics Driver Errors – Expert Advice & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-glitches-why-is-thaumaturge-not-working-properly/"><u>Common Glitches: Why Is Thaumaturge Not Working Properly?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-ways-to-record-vimeo-videos/"><u>Easy Ways to Record Vimeo Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-constant-dirt-5-pc-game-crashes/"><u>Fixes for Constant Dirt 5 PC Game Crashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-guide-to-editbox-suite-reviewed/"><u>In 2024, Ultimate Guide to EditBox Suite, Reviewed</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-strategies-leveraging-gpt-for-bitcoin-trades/"><u>Top 5 Strategies: Leveraging GPT for Bitcoin Trades</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wsappx-what-is-it-and-how-to-fix-its-high-disk-and-cpu-usage/"><u>Wsappx: What Is It and How to Fix Its High Disk and CPU Usage</u></a></li>
 </ul></div>
 

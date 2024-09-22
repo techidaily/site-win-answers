@@ -1,7 +1,7 @@
 ---
 title: "Resolving TOTAL WAR: WARHAMMER II Stability Problems - Fixes & Solutions"
-date: 2024-09-15T23:05:11.236Z
-updated: 2024-09-17T04:14:37.251Z
+date: 2024-09-15T22:56:23.158Z
+updated: 2024-09-22T01:49:36.827Z
 tags:
   - win11
   - win10
@@ -95,13 +95,6 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 If your game crashes again, then try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Roll back/Update your graphics driver
 
  Your graphics card or GPU is the most important hardware when it comes to determining gaming performance. If you’re using an outdated or faulty graphics driver, you’re likely to run into game issues.
@@ -120,16 +113,16 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-47-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Double-click**Display adapters** . Then, right-click**your graphics card** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-49-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**Roll Back Driver** .
 
@@ -157,13 +150,6 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -172,6 +158,13 @@ If your game crashes again, then try the next fix.
 **4)** Relaunch Total War to test your issue.
 
 If your issue persists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of your game files
 
@@ -219,6 +212,13 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your game still won’t launch properly, move on to the next fix.
 
 ### Fix 7: Check for Windows Firewall
@@ -237,16 +237,16 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click**Change settings** .
 
@@ -300,13 +300,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
@@ -318,6 +311,13 @@ If this method doesn’t work for you, move on to try the fix below.
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -352,21 +352,20 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-smooth-transition-to-sierra-essential-tech-steps/"><u>[New] 2024 Approved Smooth Transition to Sierra Essential Tech Steps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-entering-social-media-world-sign-up-for-facebook-now/"><u>[New] Entering Social Media World Sign Up for Facebook Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-understanding-video-transcoding-a-step-by-step-beginners-guide/"><u>1. Understanding Video Transcoding: A Step-by-Step Beginner's Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-consciousness-proven-techniques-for-documenting-virtual-play/"><u>2024 Approved Capturing Consciousness Proven Techniques for Documenting Virtual Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blur-ultimate-6-step-guide-to-smooth-play-of-hogwarts-legacy/"><u>Beat the Blur: Ultimate 6-Step Guide to Smooth Play of Hogwarts Legacy</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/clipcrafter-window-edition/"><u>ClipCrafter Window Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030548079-divx/"><u>DivXファイル変換：無料ソフトウェアで簡単な方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028096365-dvdiso/"><u>DVDのコピープロテクトを解除してISOファイル作成手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726026459586-dvd/"><u>DVDファイルをモバイルデバイス仕様にリニューアルするテクニック</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-guide-to-creating-compact-engaging-youtube-content-for-2024/"><u>Expert Guide to Creating Compact, Engaging YouTube Content for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862726578-get-the-edge-with-acemagics-upcoming-dual-display-laptop-reserve-now-before-release-date/"><u>Get the Edge with AceMagic's Upcoming Dual-Display Laptop – Reserve Now Before Release Date!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-a59-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo A59 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-cutting-edge-avi-video-editors-top-16-picks-for-trimming-and-cutting-cross-platform/"><u>Updated 2024 Approved Cutting-Edge AVI Video Editors Top 16 Picks for Trimming and Cutting Cross-Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/youtube-mp420249/"><u>YouTube MP4ファイル変換ソリューション：これで強力！【2024年無料ツールベスト9】</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028863099-mkv/"><u>コンパクトなMKVファイルへの変換術：スリム化マニュアル</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029616120-flac/"><u>ハイレゾオーディオ圧縮形式FLACによるサウンド楽しみ方教えます</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhancing-your-profile-with-high-quality-videos-for-2024/"><u>[New] Enhancing Your Profile With High-Quality Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-covertly-crafted-covers-for-iphones-and-androids-for-2024/"><u>[Updated] Covertly Crafted Covers for iPhones & Androids for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-8-trending-videos-on-facebook/"><u>2024 Approved 8 Trending Videos on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-the-blockade-resolve-your-tekken-8-pc-boot-problems-today/"><u>Beating the Blockade: Resolve Your Tekken 8 PC Boot Problems Today!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-lag-troubles-in-fallout-4-with-these-proven-fix-methods/"><u>Conquer Lag Troubles in Fallout 4 with These Proven Fix Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-stop-escape-from-tarkov-pc-crashes-complete-troubleshooting-guide/"><u>Fix: Stop Escape From Tarkov PC Crashes – Complete Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-driver-needs-update-issue-on-your-pc-tips-for-minecraft-players/"><u>Fixing the 'Driver Needs Update' Issue on Your PC – Tips for Minecraft Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-game-of-valheim-from-continuously-freezing-and-crashing/"><u>How to Stop Your Game of Valheim From Continuously Freezing and Crashing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-elevate-your-channel-game-tubebuddy-insights/"><u>In 2024, Elevate Your Channel Game - TubeBuddy Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-elevating-your-photos-with-online-cropping/"><u>In 2024, Step-by-Step Elevating Your Photos with Online Cropping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-problems-with-mount-and-blade-ii-bannerlord-crashing-gameplay/"><u>Resolved Problems with Mount & Blade II: Bannerlord Crashing Gameplay</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722977552179-resolving-startech-drivers-troubleshooting-in-windows-11-8-and-7-expert-solutions-revealed/"><u>Resolving StarTech Drivers Troubleshooting in Windows 11, 8 and 7 - Expert Solutions Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/together-we-soar-higher-insights-on-a-collaborative-launch/"><u>Together We Soar Higher - Insights on a Collaborative Launch</u></a></li>
 </ul></div>
 

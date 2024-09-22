@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Internet Explorer Not Responding' Errors"
-date: 2024-09-15T16:26:33.563Z
-updated: 2024-09-17T01:36:15.695Z
+date: 2024-09-19T18:56:20.147Z
+updated: 2024-09-21T18:11:00.421Z
 tags:
   - win11
   - win10
@@ -119,7 +119,22 @@ If this doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -139,27 +154,7 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
 
@@ -176,6 +171,13 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
@@ -190,18 +192,18 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
 
@@ -221,13 +223,6 @@ If this doesn’t solve your problem, try the last fix.
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
@@ -253,15 +248,16 @@ If this doesn’t solve your problem, try the last fix.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
-3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
+3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
@@ -294,17 +290,14 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-windows-10s-audio-settings/"><u>[New] Navigating Windows 10'S Audio Settings</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-techs-elite-selection-the-top-10-video-recorders-online/"><u>[Updated] 2024 Approved Tech's Elite Selection The Top 10 Video Recorders Online</u></a></li>
-<li><a href="https://driver-install.techidaily.com/drive-into-the-future-update-your-focusrite-scarlett-6i6/"><u>Drive Into the Future: Update Your Focusrite Scarlett 6I6</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-fixing-iphones-when-guided-mode-stops-responding-correctly/"><u>Guide: Fixing iPhones When Guided Mode Stops Responding Correctly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-premier-list-all-time-great-general-knowledge-shows-24/"><u>In 2024, The Premier List All-Time Great General Knowledge Shows '24</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-performance-resolving-lag-issues-for-a-seamless-dying-light-2-experience-on-your-desktop/"><u>Maximizing Performance: Resolving Lag Issues for a Seamless Dying Light 2 Experience on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-ultimate-fix-no-more-freezing-issues-on-pc/"><u>Pathfinder: Wrath of the Righteous Ultimate Fix - No More Freezing Issues on PC</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-easy-to-use-web-tools-for-gif-to-video-transformation-for-2024/"><u>Seamless, Easy-to-Use Web Tools for GIF to Video Transformation for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-common-problems-when-alienware-command-center-fails-to-start/"><u>Solving Common Problems When Alienware Command Center Fails to Start</u></a></li>
-<li><a href="https://driver-install.techidaily.com/transformative-audio-experience-new-nvidia-driver-for-win7/"><u>Transformative Audio Experience: New Nvidia Driver for Win7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/vanguard-requirement-notice-ensure-adequate-cpu-strength-before-installing/"><u>Vanguard Requirement Notice: Ensure Adequate CPU Strength Before Installing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-role-of-b-roll-in-cinematic-storytelling/"><u>[New] The Role of B-Roll in Cinematic Storytelling</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-lost-footage-immediate-removal-impacts/"><u>[Updated] In 2024, Lost Footage Immediate Removal Impacts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5oq95ye644gx44gf44ge6zplusz44gl44kj6zur6zplusz44ks44kr44od44oi44gz44kl44cm44or44k944kz44oz44o744k544oe44ob44cn5oml5rov/"><u>抽出したい音から雑音をカットする「パソコン・スマホ」手法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5yuv55s744ov44os44o844og5yaf44gn5yq55p6c55qe44gr44kz44oz44oi44op44k544oi6kq5pw05pa55rov44ks5a2m44g2/"><u>動画フレーム内で効果的にコントラスト調整方法を学ぶ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-step-by-step-tutorial-enjoying-dvd-films-on-your-hp-notebook/"><u>Complete Step-by-Step Tutorial: Enjoying DVD Films on Your HP Notebook</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-zte-blade-a73-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does ZTE Blade A73 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/examining-the-unseen-history-of-your-social-media-activity/"><u>Examining the Unseen History of Your Social Media Activity</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-craft-viral-stories-on-fb-with-pro-tips/"><u>In 2024, Craft Viral Stories on FB with Pro Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-installing-epson-scan-drivers-on-windows-10/"><u>Step-by-Step Guide: Installing Epson Scan Drivers on Windows 10</u></a></li>
 </ul></div>
 

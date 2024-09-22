@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2024-09-14T03:49:17.415Z
-updated: 2024-09-16T18:36:27.746Z
+date: 2024-09-20T00:50:11.662Z
+updated: 2024-09-21T21:46:46.232Z
 tags:
   - win11
   - win10
@@ -117,10 +117,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
@@ -128,6 +128,19 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -140,35 +153,22 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change certain in-game configurations
 
@@ -182,18 +182,18 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -223,16 +223,16 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/advanced-screen-capture-and-recording-features-using-winxvideo-ai-technology/"><u>Advanced Screen Capture & Recording Features Using Winxvideo AI Technology</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722125564448-cant-use-chatgpt-on-iphone-discover-these-essential-9-fixes/"><u>Can't Use ChatGPT on iPhone? Discover These Essential 9 Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028027720-clipchamp/"><u>Clipchampでビデオ圧縮が可能か調べましょう</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028264960-dvd/"><u>DVD 地域コード制限解除のための効果的な手順</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-the-latest-netgear-amped-wireless-usb-driver/"><u>Get the Latest Netgear Amped Wireless USB Driver</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlimited-free-image-refinement-onlinemobile/"><u>In 2024, Unlimited Free Image Refinement Online/Mobile</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-lume-cube-edge-20-transforming-workspaces-with-unrivaled-brightness/"><u>In-Depth Analysis of Lume Cube Edge 2.0: Transforming Workspaces with Unrivaled Brightness</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-driver-crash-issue-in-windows-os/"><u>Resolving Driver Crash Issue in Windows OS</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/why-the-apple-ipad-pro-11-reigns-supreme-in-201e-a-deep-dive-into-its-unmatched-features/"><u>Why the Apple iPad Pro (11) Reigns Supreme in 201E - A Deep Dive Into Its Unmatched Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wmawavwmawav/"><u>WMAとWAVでは異なる点と、WMAをWAVにどう変換するか</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-fuser-keeps-crashing-on-pc/"><u>[SOLVED] FUSER Keeps Crashing on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-spectrum-screens-a-new-film-language/"><u>2024 Approved Spectrum Screens A New Film Language</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/boost-your-online-presence-with-facebook-linkedin-and-youtube-integration/"><u>Boost Your Online Presence with Facebook, LinkedIn & YouTube Integration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-correcting-the-infamous-bsod-glitch-on-helldivers/"><u>Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-fps-drops-and-stuttering-expert-guide-for-a-smooth-dying-light-2-experience-on-pc/"><u>Fixing FPS Drops and Stuttering - Expert Guide for a Smooth Dying Light 2 Experience on PC</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oneplus-ace-2v-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 OnePlus Ace 2V Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-leveraging-camera-roll-for-nostalgic-snaps-via-snapchat/"><u>In 2024, Leveraging Camera Roll for Nostalgic Snaps via Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-call-of-duty-vanguards-error-5573-with-these-easy-solutions/"><u>Overcome Call of Duty Vanguard's Error 5573 with These Easy Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-samsung-galaxy-watch-active-deconstructed-is-it-truly-a-health-enthusiasts-dream/"><u>The Samsung Galaxy Watch Active Deconstructed – Is It Truly a Health Enthusiast's Dream?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-made-easy-how-to-stop-outriders-from-continuously-crashing/"><u>Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-redmi-a2-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Redmi A2</u></a></li>
 </ul></div>
 

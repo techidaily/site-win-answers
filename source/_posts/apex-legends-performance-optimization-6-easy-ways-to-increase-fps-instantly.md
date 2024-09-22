@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Performance Optimization: 6 Easy Ways to Increase FPS Instantly"
-date: 2024-09-13T18:11:17.424Z
-updated: 2024-09-17T05:27:32.776Z
+date: 2024-09-14T17:21:58.863Z
+updated: 2024-09-21T18:49:44.468Z
 tags:
   - win11
   - win10
@@ -109,6 +109,13 @@ If this doesn’t help, move on to the next fix.
 
  If this doesn’t help or your system is already up-to-date, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Check your antivirus software
 
  As we briefly mentioned above, antivirus software may affect Steam game performance and trigger the crashing issue in Lost Ark. It usually happens when your antivirus program detects something like a “virus” in your game files and shuts down your game.
@@ -136,19 +143,6 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties.jpg)
 2. Under the **General tab** ,**toggle off Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
 ### Discord
@@ -162,6 +156,13 @@ If the crashing issue persists, try the next fix.
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
  If disabling the overlays doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -182,26 +183,20 @@ If the crashing issue persists, try the next fix.
 4. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can now launch Lost Ark to test if you still get errors and crashes. If the issue persists, jump to the[last fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -228,17 +223,18 @@ If the crashing issue persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Lost Ark.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with Lost Ark.
 5. Disable the problem program and reboot your PC.
 
  If doing a clean boot doesn’t solve your problem, you can safely assume that the Windows services and startup items aren’t responsible for the crashing issue. You can go back to your normal startup. Also, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Try on a different server
 
@@ -257,13 +253,6 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -290,17 +279,18 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-10plus-top-tips-for-accessing-the-best-of-international-cricket-online/"><u>[Updated] 10+ Top Tips for Accessing the Best of International Cricket Online</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-smirk-spectacle-catching-the-funniest-twitter-talents/"><u>[Updated] Smirk Spectacle Catching the Funniest Twitter Talents</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-guide-to-peak-performance-posting-times-for-insta-success-for-2024/"><u>A Guide to Peak Performance Posting Times for Insta Success for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/cookiebot-enhanced-unleashing-the-potential-of-smart-marketing-technology/"><u>Cookiebot-Enhanced: Unleashing the Potential of Smart Marketing Technology</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-samsung-galaxy-z-flip-5-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Samsung Galaxy Z Flip 5 to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-transforming-iso-images-into-wmv-video-with-simple-techniques/"><u>Quick Guide: Transforming ISO Images Into WMV Video with Simple Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolving-problems-with-onlinevideoconvertercom-accessibility/"><u>Step-by-Step Guide to Resolving Problems with OnlineVideoConverter.com Accessibility</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-gameplay-recordings-into-mp4-videos/"><u>Step-by-Step Guide: Transforming Gameplay Recordings Into MP4 Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-osr-files-into-video-format-with-mp4/"><u>Step-by-Step Guide: Transforming OSR Files Into Video Format with MP4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-list-top-10-excellent-screencasting-tools-as-substitutes-for-bandicam/"><u>The Ultimate List: Top 10 Excellent Screencasting Tools as Substitutes for Bandicam</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-a1x-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo A1x 5G Location | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tricks-for-swift-vimeo-watch/"><u>[Updated] 2024 Approved Tricks for Swift Vimeo Watch</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-insights-on-common-filmora-editing-issues/"><u>[Updated] Expert Insights on Common Filmora Editing Issues</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-humorous-vines-the-ultimate-10-list/"><u>2024 Approved Humorous Vines The Ultimate 10 List</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/action-cam-battle-hero-4-against-hero-5/"><u>Action Cam Battle Hero 4 Against Hero 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blank-screen-battle-advanced-fixes-for-call-of-duty-warzone-display-problems-stay-ahead/"><u>Beat the Blank Screen Battle: Advanced Fixes for Call of Duty Warzone Display Problems – Stay Ahead</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-black-screen-problem-with-the-epic-games-launcher-solution/"><u>How to Overcome the Black Screen Problem with the Epic Games Launcher (Solution)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-steam-gameplay-fast-fixes-for-better-performance/"><u>Improving Steam Gameplay: Fast Fixes for Better Performance</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-gt-neo-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme GT Neo 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premium-camcorder-brands-for-clear-footage/"><u>Premium Camcorder Brands for Clear Footage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-lag-and-stutter-in-fortnite-gameplay-on-your-computer/"><u>Resolving Lag and Stutter in Fortnite Gameplay on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-gaming-experience-with-latest-fixes-to-cyberpunk-2077-lag/"><u>Seamless Gaming Experience with Latest Fixes to Cyberpunk 2077 Lag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-days-gone-from-crashing-on-your-pc/"><u>Troubleshooting Tips: Stop 'Days Gone' From Crashing on Your PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-the-amazfit-helio-ring-details-costs-launch-timeline-and-technical-specifications/"><u>Unlocking the Amazfit Helio Ring Details: Costs, Launch Timeline & Technical Specifications</u></a></li>
 </ul></div>
 

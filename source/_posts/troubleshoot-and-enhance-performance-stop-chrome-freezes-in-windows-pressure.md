@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Enhance Performance: Stop Chrome Freezes in Windows Pressure"
-date: 2024-09-10T05:56:45.780Z
-updated: 2024-09-16T21:47:19.426Z
+date: 2024-09-20T01:42:00.056Z
+updated: 2024-09-21T21:27:55.294Z
 tags:
   - win11
   - win10
@@ -91,10 +91,10 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -116,25 +116,25 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -142,13 +142,6 @@ Here’s how you can check for updates manually:
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
 
@@ -162,6 +155,13 @@ To do so, follow these steps:
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -182,15 +182,20 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-art-of-music-infused-snapchatting-for-2024/"><u>[New] The Art of Music-Infused Snapchatting for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rapping-up-with-impactful-endings-for-2024/"><u>[New] Wrapping Up with Impactful Endings for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discover-the-ultimate-selection-7-exceptional-free-tools-for-burning-iso-files/"><u>Discover the Ultimate Selection: 7 Exceptional Free Tools for Burning ISO Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-free-episodes-from-chia-anime-a-step-by-step-guide/"><u>Download Free Episodes From Chia Anime - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvd2/"><u>DVDの地区ロック規制「リージョンコード2」について、非再生解決方法を学ぶ！</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-davinci-resolve-tutorial-how-to-combine-video-clips-and-top-alternatives/"><u>Easy DaVinci Resolve Tutorial: How To Combine Video Clips And Top Alternatives</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-contents-of-the-nintendo-switch-package-what-to-expect/"><u>Exploring Contents of the Nintendo Switch Package – What to Expect?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s17t-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S17t Phones with/without a PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-poco-x5-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Poco X5 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-video-earnings-dailymotion-vs-youtube-showdown/"><u>[New] 2024 Approved Navigating Video Earnings Dailymotion vs YouTube Showdown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-versatile-video-tools-for-linux-windows-and-macos/"><u>[New] Free, Versatile Video Tools for Linux, Windows & MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-exclusive-list-of-the-premier-mac-screenshots-tools/"><u>[New] In 2024, Exclusive List of the Premier Mac Screenshots Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-a-superior-fpv-drone-setup-choosing-right-propellers/"><u>2024 Approved Crafting a Superior FPV Drone Setup Choosing Right Propellers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/adobe-malfunction-understanding-and-fixing-error-message-0xc0000022-for-smooth-launches/"><u>Adobe Malfunction: Understanding and Fixing Error Message 0xC0000022 for Smooth Launches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-practices-ensuring-smooth-play-without-crashes-in-forza-horizon-5-for-personal-computers/"><u>Best Practices: Ensuring Smooth Play Without Crashes in Forza Horizon 5 for Personal Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-15-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 15 Lock Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/embrace-a-wiser-approach-to-self-care-with-these-7-insights-on-chatgpt-use/"><u>Embrace a Wiser Approach to Self-Care With These 7 Insights on ChatGPT Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-silent-issues-how-to-troubleshoot-lack-of-audio-during-your-live-broadcast/"><u>Fixing Silent Issues: How To Troubleshoot Lack of Audio During Your Live Broadcast</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-interpreting-differences-360-and-virtual-reality-cinematography/"><u>In 2024, Interpreting Differences 360° and Virtual Reality Cinematography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-guide-to-solving-recurring-crash-issues-in-minecraft-dungeons/"><u>PC Gamers' Guide to Solving Recurring Crash Issues in Minecraft Dungeons</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cketing-view-figures-by-sustaining-youtubes-creative-commons-license-for-2024/"><u>Skyrocketing View Figures by Sustaining YouTube's Creative Commons License for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-cant-i-open-stardew-valley/"><u>Troubleshooting Guide - Why Can't I Open Stardew Valley?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-amazon-prime-video-access/"><u>Troubleshooting Guide: Resolving Issues with Amazon Prime Video Access</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved"
-date: 2024-09-16T06:20:51.394Z
-updated: 2024-09-17T06:29:51.660Z
+date: 2024-09-20T19:58:07.998Z
+updated: 2024-09-21T17:18:57.303Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ To do so, first visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -87,21 +94,14 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
@@ -109,10 +109,10 @@ Here’s how:
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
@@ -153,20 +153,18 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-video-recording-and-editing-software-for-new-gamers-for-2024/"><u>[New] Essential Video Recording & Editing Software for New Gamers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-8-best-free-video-editing-software-for-youtube-for-2024/"><u>[Updated] 8 Best Free Video Editing Software for YouTube for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-creating-a-seamless-visual-experience-in-meetings-for-2024/"><u>[Updated] Creating a Seamless Visual Experience in Meetings for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-comprehensive-insights-streamlined-iphone-podcast-downloads/"><u>[Updated] In 2024, Comprehensive Insights Streamlined iPhone Podcast Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028597365-windows-11/"><u>「Windows 11」で動画からプリントスクリーンアウトし、保存する方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2023-flac-wav/"><u>2023年度のベスト - FLAC ファイルを WAV 形式に効率よく変換する方法</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>2024 Approved Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028569633-mp3/"><u>MP3変換：パワフルディレクターでオーディオを抽出して出力する</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-installation-and-optimization-of-logitech-mx-master-docking-station/"><u>Step-by-Step Installation and Optimization of Logitech MX Master Docking Station</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format-for-2024/"><u>Updated Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028111834-xmedia-recode/"><u>XMedia Recodeの音量修正とバランス調整技術</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027859369-teams/"><u>コンピュータ用に会議中の音声録音技術 - Teamsを使う</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027924150-mp3/"><u>ハックしてMP3音源を自由に作り出せるテクニック - ノートパソコン・モバイル端末</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030387244-3/"><u>ブラウザで簡単にダウンロード：ニコニコ動画を無料取得！3つの手軽な方法</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-digital-image-coloring-upside-down-for-2024/"><u>[New] Digital Image Coloring Upside Down for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pioneering-virtual-realms-equip-yourself-with-these-tech/"><u>[New] In 2024, Pioneering Virtual Realms - Equip Yourself With These Tech</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-6s-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 6s to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-for-pc-stability-issues-solved-how-to-ensure-a-smooth-gaming-experience/"><u>Assassin's Creed Valhalla for PC Stability Issues Solved: How to Ensure a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-implemented-overcome-itunes-sound-configuration-challenges-with-these-steps/"><u>Fixes Implemented: Overcome iTunes Sound Configuration Challenges with These Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-your-rocket-league-game-keeps-failing-to-start/"><u>Fixing the Issue: Why Your Rocket League Game Keeps Failing to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-multiplayer-connectivity-in-elden-ring-game/"><u>How To Restore Multiplayer Connectivity In Elden Ring Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-valheim-performance-fixing-ping-issues-on-a-windows-machine/"><u>Improving Valheim Performance: Fixing Ping Issues on a Windows Machine</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-v30t-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme V30T</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-yakuza-3s-pc-port-issues-resolved-for-optimal-play-experience/"><u>Solved! Yakuza 3'S PC Port Issues Resolved for Optimal Play Experience</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-s18-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo S18 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oneplus-nord-3-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in OnePlus Nord 3 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/universal-accessibility-in-learning-mondly-for-ukraine/"><u>Universal Accessibility in Learning - Mondly for Ukraine</u></a></li>
 </ul></div>
 

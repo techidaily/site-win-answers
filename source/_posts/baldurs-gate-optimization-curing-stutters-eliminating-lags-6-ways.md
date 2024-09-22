@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate Optimization: Curing Stutters, Eliminating Lags (6 Ways)"
-date: 2024-09-11T22:41:54.086Z
-updated: 2024-09-16T21:33:48.337Z
+date: 2024-09-18T18:19:35.961Z
+updated: 2024-09-22T02:36:37.546Z
 tags:
   - win11
   - win10
@@ -78,19 +78,6 @@ To ascertain your computer’s specifications:
 
  Restart the computer and relaunch the game to see if the problem persists.
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2 Change the power plan setting
 
  The Baldur’s Gate 3 is running slow or stuttering issue possibly because your computer is using**Energy saving power plan** . Or the default power plan**Balanced** also limits your CPU speed since the device’s priority is to balance performance and energy consumption. To figure that out, follow the steps below to modify your power plan setting.
@@ -104,16 +91,16 @@ To ascertain your computer’s specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Open the game to check for any improvement.
 
  This fix works in most cases. But some players also found that **reverting the power plan from high-performance mode to balanced mode** helped with the problem. You can also try both modes to see which brings better game performance.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 Set CPU affinity only use 0-3
 
@@ -130,6 +117,19 @@ Open the game to check for any improvement.
 
 Note: You may need to repeat this process each time you launch the game.
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4 Allow high graphics performance for the game
 
  Setting an individual game with high-performance graphics might reduce its CPU usage. That’s because anything that requires GPU in the game will be using GPU, instead of CPU. However, this method has no guaranteed results. You can switch between different modes to see which one works better in easing the Baldur’s Gate 3 high cpu usage headache.
@@ -138,26 +138,12 @@ Note: You may need to repeat this process each time you launch the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-18.png)
 2. Click**Browse** and add Baldur’s Gate 3.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch the game again to check if the problem has been fixed.
 
@@ -168,12 +154,27 @@ Launch the game again to check if the problem has been fixed.
 1. Right-click the taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
 Go back to your game to see if it works smoother.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -189,20 +190,14 @@ Go back to your game to see if it works smoother.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -225,16 +220,18 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mobile-harmony-6-essential-free-apps-to-download-youtube-tracks/"><u>[New] Mobile Harmony 6 Essential Free Apps to Download YouTube Tracks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-zoom-chat-how-to-chat-in-zoom-meeting-in-2024/"><u>[New] Zoom Chat How to Chat in Zoom Meeting, In 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/a-step-by-step-approach-to-enhancing-your-instagram-video-sizes-for-2024/"><u>A Step-by-Step Approach to Enhancing Your Instagram Video Sizes for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortlessly-restore-windows-1011s-bluetooth-driver/"><u>Effortlessly Restore Windows 10/11'S Bluetooth Driver</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722885921563-get-the-scoop-on-free-android-16-upcoming-version-predicted-price-range-and-specs-dont-miss-out/"><u>Get the Scoop on Free Android 16: Upcoming Version, Predicted Price Range & Specs - Don't Miss Out</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-unlocking-the-worlds-best-imagery-with-no-monetary-investment/"><u>In 2024, Unlocking the World's Best Imagery with No Monetary Investment</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722510026240-is-the-tp-link-archer-ax6000-a-superior-alternative-to-the-netgear-nighthawk-ax12-detailed-review-inside/"><u>Is the TP-Link Archer AX6000 a Superior Alternative to the NETGEAR Nighthawk AX12? Detailed Review Inside.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-effortlessly-rip-movies-off-a-dvd/"><u>Simple Steps to Effortlessly Rip Movies Off a DVD</u></a></li>
-<li><a href="https://win-answers.techidaily.com/spread-the-word-share-our-top-pick-of-free-iphone-video-converters-with-friends/"><u>Spread the Word: Share Our Top Pick of Free iPhone Video Converters with Friends!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adding-the-matrix-compatible-4k-19-live-tv-streaming-addon-for-free-on-your-kodi-device/"><u>Step-by-Step Guide: Adding the Matrix Compatible 4K 19 Live TV Streaming Addon for Free on Your Kodi Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-setting-up-streamio-app-on-your-amazon-firestick-or-firetv/"><u>Step-by-Step Guide: Setting Up Streamio App on Your Amazon Firestick or FireTV</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-essential-3d-modeling-programs-for-animators/"><u>[New] 2024 Approved Essential 3D Modeling Programs for Animators</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-breaking-down-the-elements-of-a-youtube-shorts-template/"><u>[New] In 2024, Breaking Down the Elements of a YouTube Shorts Template</u></a></li>
+<li><a href="https://win-answers.techidaily.com/correcting-corrupted-gaming-files-on-your-computer-the-ultimate-fixes-for-202n4/"><u>Correcting Corrupted Gaming Files on Your Computer - The Ultimate Fixes for 202N4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991307667-dayz-first-person-shooter-drop-rate-woes-solved-with-simple-tips/"><u>DayZ First-Person Shooter: Drop Rate Woes Solved with Simple Tips!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-advantages-of-rcs-messaging-over-traditional-texts/"><u>Exploring the Advantages of RCS Messaging Over Traditional Texts</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-samsung-galaxy-a23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-nioh-2-from-freezing-and-crashing-in-the-full-experience-version/"><u>How to Stop Nioh 2 From Freezing and Crashing in the Full Experience Version</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-drone-editors-playbook-a-comprehensive-guide/"><u>In 2024, The Drone Editor's Playbook A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-windows-11-screenshots-discover-4-effective-approaches/"><u>Mastering Windows 11 Screenshots: Discover 4 Effective Approaches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003552087-maximize-your-horizon-zero-dawn-adventure-with-optimal-fps-enhancement-techniques/"><u>Maximize Your Horizon Zero Dawn Adventure with Optimal FPS Enhancement Techniques!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/out-with-the-old-in-with-new-up-to-date-alternatives-to-the-turing-test-in-ai-assessment/"><u>Out with the Old, In with New: Up-to-Date Alternatives to the Turing Test in AI Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-for-roblox-failure-to-start/"><u>Step-by-Step Troubleshooting for Roblox Failure to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/taming-the-tides-fixing-critical-sea-of-thieves-game-crash-issues/"><u>Taming the Tides: Fixing Critical Sea of Thieves Game-Crash Issues</u></a></li>
 </ul></div>
 

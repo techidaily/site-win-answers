@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: OBS Not Capturing Your Screen Anymore"
-date: 2024-09-13T20:17:52.436Z
-updated: 2024-09-16T23:29:06.498Z
+date: 2024-09-20T02:32:08.076Z
+updated: 2024-09-22T02:31:40.624Z
 tags:
   - win11
   - win10
@@ -65,16 +65,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
@@ -103,10 +97,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
@@ -114,10 +108,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Reset your graphics card software
@@ -138,6 +132,13 @@ To fix this, you can try resetting the software to default:
 * Select **Preferences** .
 * Click on **Restore Factory Defaults** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Play Valorant in windowed mode
 
  If the**Valorant graphics driver crashed** error persists or the game keeps crashing after you have tried the two methods above, the culprit might be on their end. But still, you can reduce the crashes by playing the game in windowed mode:
@@ -146,23 +147,9 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Close all background apps
 
@@ -191,6 +178,13 @@ To fix this, you can try resetting the software to default:
 * Bloom: Off
 * Distortion: Off
 * First Person Shadows: Off
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 9: Reinstall Riot Vanguard
 
@@ -229,20 +223,13 @@ To fix this, you can try resetting the software to default:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-behind-the-scenes-of-gamers-elite-setup/"><u>[Updated] In 2024, Behind the Scenes of Gamers' Elite Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp410-and/"><u>「圧縮されることなく」MP4ファイルを結合するためのトップ10ツールリスト - オンライン&ソフトウェア選び</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-adding-unique-typography-fonts-in-ae/"><u>2024 Approved Adding Unique Typography Fonts in AE</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/disconnect-from-the-live-streaming-platform-a-detailed-guide-on-how-to-delete-your-twitch-presence/"><u>Disconnect From the Live Streaming Platform: A Detailed Guide on How to Delete Your Twitch Presence</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/gifwindows/"><u>GIF作成プログラム紹介:Windowsユーザーに必見！作り方解説付き</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Google Pixel 8? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/insight-into-facebook-understanding-its-beginnings-appeal-factors-and-core-components/"><u>Insight Into Facebook: Understanding Its Beginnings, Appeal Factors, and Core Components</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4202cu-version/"><u>MP4ビデオ修復のための最新フリーソフトウェア「202cu-Version」をお勧めします</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-download-20-stunning-adobe-premiere-intro-templates-for-free-2023-edition/"><u>New In 2024, Download 20 Stunning Adobe Premiere Intro Templates for Free (2023 Edition)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/not-found-404-page-located-with-help-from-wonderfox/"><u>Not Found (404) | Page Located with Help From WonderFox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-transition-to-avchd-video-editing-in-windows-11-a-step-by-step-guide/"><u>Seamless Transition to AVCHD Video Editing in Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-compress-your-videos-down-to-a-manageable-18mb/"><u>Simple Steps to Compress Your Videos Down to a Manageable 1ˈ8MB</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-downloading-jamendos-music-content-at-no-cost-on-your-desktop/"><u>Step-by-Step Guide: Downloading Jamendo's Music Content at No Cost on Your Desktop</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/strategic-planning-aligning-research-with-business-objectives-for-2024/"><u>Strategic Planning Aligning Research with Business Objectives for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-9-key-points-for-choosing-the-perfect-dash-cam/"><u>The Ultimate Checklist: 9 Key Points for Choosing the Perfect Dash Cam</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-masterclass-selection-top-7-precision-games/"><u>[New] In 2024, Masterclass Selection Top 7 Precision Games</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-5-apple-podcast-services-for-ios-users/"><u>[Updated] Best 5 Apple Podcast Services for iOS Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-charting-new-pathways-in-art-an-exclusive-look-at-the-top-10-low-cost-creator-platforms-on-youtube/"><u>[Updated] In 2024, Charting New Pathways in Art An Exclusive Look at the Top 10 Low-Cost Creator Platforms on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-direct-transition-from-youtube-to-instagram-reels/"><u>[Updated] In 2024, Direct Transition From YouTube to Instagram Reels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-and-repair-code-vein-performance-lagging-and-freezing/"><u>How to Address and Repair Code Vein Performance Lagging & Freezing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-friendly-battles-a-guide-to-teaming-up-with-your-pokemon-pal-in-go/"><u>Mastering the Art of Friendly Battles: A Guide to Teaming Up with Your Pokémon Pal in 'Go'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-phasmophobias-persistent-90-loading-issue-a-step-by-step-guide/"><u>Resolving Phasmophobia's Persistent 90% Loading Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-the-witcher-3-wild-hunt-pc-crash-issues-on-your-system/"><u>Troubleshooting & Solving 'The Witcher 3: Wild Hunt' PC Crash Issues on Your System</u></a></li>
 </ul></div>
 

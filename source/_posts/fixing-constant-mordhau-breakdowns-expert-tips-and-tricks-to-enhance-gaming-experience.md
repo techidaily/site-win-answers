@@ -1,7 +1,7 @@
 ---
 title: "Fixing Constant Mordhau Breakdowns: Expert Tips and Tricks to Enhance Gaming Experience"
-date: 2024-09-11T23:32:35.932Z
-updated: 2024-09-17T04:55:07.217Z
+date: 2024-09-19T00:57:57.082Z
+updated: 2024-09-21T23:10:22.040Z
 tags:
   - win11
   - win10
@@ -92,6 +92,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -124,6 +131,13 @@ _wireless router_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -140,6 +154,19 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### To renew your IP
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
@@ -147,10 +174,10 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -173,13 +200,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Switch the DNS server
 
  The Fallout 76 not connecting to server problem may also happen if the DNS your ISP supplies is not properly configured so just slow. So you can switch to Google Public DNS to see if it can effectively speed up the Internet and fixes the server issue.
@@ -191,10 +211,10 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
@@ -209,13 +229,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
@@ -223,13 +236,6 @@ Here is how to switch the DNS server to Google Public DNS:
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -266,21 +272,20 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-mac-slicer-software-enhance-video-production-prowess/"><u>[New] 2024 Approved Best Mac Slicer Software Enhance Video Production Prowess</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-avoiding-fakes-instagram-selfie-wisdom/"><u>[New] In 2024, Avoiding Fakes Instagram Selfie Wisdom</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-fuser-keeps-crashing-on-pc/"><u>[SOLVED] FUSER Keeps Crashing on PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-beginners-guide-to-zoom-webinars/"><u>[Updated] 2024 Approved Beginner’s Guide to Zoom Webinars</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-the-smartphone-photographers-handbook/"><u>2024 Approved The Smartphone Photographer's Handbook</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/compact-powerhouse-of-tracking-discover-the-ease-of-using-the-samsung-galaxy-fit2/"><u>Compact Powerhouse of Tracking: Discover the Ease of Using the Samsung Galaxy Fit2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-correcting-the-infamous-bsod-glitch-on-helldivers/"><u>Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-fps-drops-and-stuttering-expert-guide-for-a-smooth-dying-light-2-experience-on-pc/"><u>Fixing FPS Drops and Stuttering - Expert Guide for a Smooth Dying Light 2 Experience on PC</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-audioalert-essentials-downloading-and-editing-tamil-melodies/"><u>In 2024, AudioAlert Essentials Downloading & Editing Tamil Melodies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-in-ark-survival-ascended-essential-pc-troubleshooting-guide-for-game-crashes/"><u>Mastering Stability in ARK: Survival Ascended - Essential PC Troubleshooting Guide for Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-call-of-duty-vanguards-error-5573-with-these-easy-solutions/"><u>Overcome Call of Duty Vanguard's Error 5573 with These Easy Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-to-epic-transition-woes-troubleshooting-metro-exodus-pc-crashes-successfully/"><u>Steam-to-Epic Transition Woes? Troubleshooting Metro Exodus PC Crashes Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-made-easy-how-to-stop-outriders-from-continuously-crashing/"><u>Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-secrets-to-selecting-the-best-online-game-coverage-for-2024/"><u>[New] Secrets to Selecting the Best Online Game Coverage for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-revolutionize-video-closings-exclusive-end-screen-templates/"><u>2024 Approved Revolutionize Video Closings - Exclusive End Screen Templates</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/install-printer-software-model-w-windows/"><u>Install Printer Software Model W Windows</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-windows-11s-disappearing-icons-a-guide/"><u>Reviving Windows 11'S Disappearing Icons: A Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twittergif/"><u>Twitterで活躍するGIFガイド:作成から投稿までの手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-cctv-mp4-encoding-seamless-conversion-of-surveillance-videos-for-enhanced-viewing-experience/"><u>Ultimate Guide to CCTV MP4 Encoding: Seamless Conversion of Surveillance Videos for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-setting-up-the-superior-sg-wizard-in-kodi-with-top-tier-leia-configurations/"><u>Ultimate Guide: Setting Up the Superior SG Wizard in Kodi with Top-Tier Leia Configurations</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-itel-a60-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Itel A60</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-the-difference-how-does-1080p-compare-to-4k-and-converting-4k-to-1080p/"><u>Understanding the Difference: How Does 1080P Compare to 4K and Converting 4K to 1080P</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-update-how-to-address-and-resolve-wudfhostexe-causing-high-cpu-usage/"><u>Windows 10 Update: How to Address and Resolve wudfhost.exe Causing High CPU Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11vobmp4/"><u>Windows 11上のVOBファイルをMP4形式に効率良く変換するための最新４つの手法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtubeyoukuchrome/"><u>フリーチェック: YouTubeやYoukuなどChromeを使ってスムーズに動画保存</u></a></li>
 </ul></div>
 
