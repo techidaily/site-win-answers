@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: How to Stop FIFA 19 From Crashing on Windows PCs"
-date: 2024-09-19T21:11:30.222Z
-updated: 2024-09-21T19:20:25.986Z
+date: 2024-09-21T21:25:19.030Z
+updated: 2024-09-28T03:26:52.115Z
 tags:
   - win11
   - win10
@@ -53,6 +53,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable your antivirus software
 
  Some antivirus software (like Bitdefender) may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -71,11 +78,31 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
 
@@ -85,13 +112,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -120,10 +140,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. Relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -145,5 +165,26 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-the-art-of-cross-platform-content-sharing/"><u>[New] The Art of Cross-Platform Content Sharing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/iewer-count-trophies-and-channel-prominence-honors-for-2024/"><u>[New] Viewer Count Trophies & Channel Prominence Honors for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel/"><u>[Updated] In 2024, From Novice to Vlogger Your Guide to Creating a YouTube Chanel</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-premium-designers-stellar-instagram-hlv-page-builders/"><u>[Updated] Premium Designers Stellar Instagram HLV Page Builders</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quickening-speed-of-slide-show-media-playback/"><u>[Updated] Quickening Speed of Slide Show Media Playback</u></a></li>
+<li><a href="https://techtrends.techidaily.com/jpegmovavi/"><u>「JPEGフォーマットに直すためのMovaviの自由なオンライン・コンバーター」</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revamping-youtube-videos-with-smart-post-upload-techniques/"><u>2024 Approved Revamping YouTube Videos with Smart Post-Upload Techniques</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/apex-legends-2022-deciphering-the-mystery-of-error-code-leaf/"><u>Apex Legends 2022: Deciphering the Mystery of Error Code 'Leaf'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-pc-game-stability-how-to-resolve-persistent-crashes/"><u>Assassin's Creed: Valhalla PC Game Stability - How to Resolve Persistent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010331772-banishing-the-blues-in-sea-of-thieves-no-more-crashes/"><u>Banishing the Blues in Sea of Thieves: No More Crashes!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-hot-30-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Hot 30 5G Through Google Earth?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-how-to-for-updating-your-intel-nuc-device-drivers/"><u>Quick How-To for Updating Your Intel NUC Device Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-interruptions-fixing-dark-souls-3s-stability-issues/"><u>Say Goodbye to Interruptions: Fixing Dark Souls 3'S Stability Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-fixing-out-of-video-memory-error-in-fortnite/"><u>Solution Guide: Fixing 'Out of Video Memory' Error in Fortnite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-restoring-your-lost-connection-to-the-overwatch-server/"><u>Solution Steps: Restoring Your Lost Connection to the Overwatch Server</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001140722-this-title-promises-immediate-assistance-top-fixes-and-suggests-current-solutions-relevant-to-the-year-202ebxg-addressing-a-common-issue-players-may-face/"><u>This Title Promises Immediate Assistance (Top Fixes) and Suggests Current Solutions Relevant to the Year 202Ebxg, Addressing a Common Issue Players May Face</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-the-no-ping-to-our-data-centers-detected-halo-infinite-error-message/"><u>Troubleshooting Guide for the 'No Ping to Our Data Centers Detected' Halo Infinite Error Message</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-overcome-fortnites-pitch-black-display-error-on-desktops/"><u>Troubleshooting Guide: How to Overcome Fortnite's Pitch-Black Display Error on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-causes-of-enshrouded-crashes-a-comprehamoin-guide-to-fixing-pc-issues/"><u>Unveiling the Causes of Enshrouded Crashes: A Comprehamoin Guide to Fixing PC Issues</u></a></li>
+</ul></div>
 

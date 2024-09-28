@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide"
-date: 2024-09-15T00:57:28.189Z
-updated: 2024-09-21T21:10:24.281Z
+date: 2024-09-25T10:26:59.425Z
+updated: 2024-09-28T00:09:08.679Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -65,16 +72,24 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
-
- Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -103,13 +118,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -119,16 +127,10 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
@@ -137,6 +139,13 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -163,5 +172,24 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-video-capture-test-apowersoft-and-more/"><u>[Updated] Free Video Capture Test Apowersoft & More</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-how-to-securely-archive-calls-on-facebook-messenger/"><u>[Updated] How to Securely Archive Calls on Facebook Messenger</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-influencer-integration-amplifying-engagement-through-collaborations/"><u>[Updated] Influencer Integration Amplifying Engagement Through Collaborations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-craft-impressive-images-with-photoshops-radial-distortion-features/"><u>2024 Approved Craft Impressive Images with Photoshop's Radial Distortion Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-highlight-prime-iphone-gif-apps-to-try/"><u>2024 Approved Highlight Prime iPhone GIF Apps to Try</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-dying-light-play-fixes-for-reducing-games-lag-issues/"><u>Boosting Your Dying Light Play: Fixes for Reducing Game's Lag Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-issues-how-to-get-your-computer-to-see-the-steam-virtual-reality-setup/"><u>Bypassing Issues - How To Get Your Computer To See The Steam Virtual Reality Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-video-memory-problem-now-fixed/"><u>Fortnite Video Memory Problem - Now Fixed!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-airdrop-up-and-running-again-with-these-essential-16-troubleshooting-steps/"><u>Get Your AirDrop Up and Running Again with These Essential 16 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-accelerate-downloads-in-utorrent-expert-advice-for-faster-torrenting/"><u>How To Accelerate Downloads in uTorrent – Expert Advice for Faster Torrenting</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-black-ops-cold-war-glitch-with-easy-fixes-dealing-with-code-887a0005/"><u>Resolve Your Black Ops Cold War Glitch with Easy Fixes: Dealing with Code 887A0005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-hogwarts-legacy-hiccups-6-expert-fixes-to-stop-the-game-from-stuttering/"><u>Resolve Your Hogwarts Legacy Hiccups: 6 Expert Fixes to Stop the Game From Stuttering</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-minecraft-performance-issues-on-windows-pcs-ultimate-guide-for-smooth-gameplay/"><u>Resolving Minecraft Performance Issues on Windows PCs - Ultimate Guide for Smooth Gameplay</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/step-by-step-process-youtube-vids-converted-to-mp3-for-2024/"><u>Step-by-Step Process YouTube Vids, Converted to MP3 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamlining-content-across-platforms-youtube-and-igtv/"><u>Streamlining Content Across Platforms YouTube & IGTV</u></a></li>
+</ul></div>
 

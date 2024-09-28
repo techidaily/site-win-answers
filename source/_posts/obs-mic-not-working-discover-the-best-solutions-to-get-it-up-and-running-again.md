@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2024-09-16T02:07:03.974Z
-updated: 2024-09-22T01:43:50.306Z
+date: 2024-09-23T09:57:52.993Z
+updated: 2024-09-28T03:14:53.072Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -47,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Then close**Task Manager** .
 
@@ -61,6 +75,14 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
@@ -71,10 +93,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  Hope the steps above helps you with the Discord installation failed issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
@@ -102,13 +124,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -124,5 +139,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-techniques-for-capturing-vr-content-on-iphone/"><u>2024 Approved Advanced Techniques for Capturing VR Content on iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-prime-online-spots-for-availing-text-enhancement-files/"><u>2024 Approved Prime Online Spots for Availing Text Enhancement Files</u></a></li>
+<li><a href="https://blog-min.techidaily.com/alternative-programme-zur-videokonvertierung-wenn-handbrake-unter-windows-nicht-funktioniert/"><u>Alternative Programme Zur Videokonvertierung, Wenn HandBrake Unter Windows Nicht Funktioniert</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-reset-realme-12-pro-5g-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Realme 12 Pro 5G Phone Screen Passcode/Pattern/Pin</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-y200e-5g-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Y200e 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-for-the-notorious-acrocefexeexe-error-message/"><u>Comprehensive Fixes for the Notorious acrocefexe.exe Error Message</u></a></li>
+<li><a href="https://win-answers.techidaily.com/detailed-fixes-for-overcoming-the-dark-interface-challenge-on-epic-games-launcher/"><u>Detailed Fixes for Overcoming the Dark Interface Challenge on Epic Games Launcher</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks/"><u>Expert-Level Quick Fixes The Ultimate 5 DIY Filmmaking Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-fallout-3-freezing-issues-on-windows-11/"><u>Fixes for 'Fallout 3' Freezing Issues on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-granblue-fantasys-relink-not-launching-problem-expert-tips-and-techniques/"><u>Fixing Granblue Fantasy’s ‘Relink Not Launching’ Problem - Expert Tips and Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-download-ultimate-guide-to-the-behringer-usb-midi-driver/"><u>Free Download: Ultimate Guide to the Behringer USB MIDI Driver</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/huaweis-built-in-recorder-screen-capture-for-mate-and-p-series-for-2024/"><u>Huawei's Built-In Recorder Screen Capture for Mate and P Series for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/naraka-bladepoint-stability-improved-addressed-issues-resolved/"><u>Naraka: Bladepoint Stability Improved – Addressed Issues Resolved</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/revolutionizing-your-phones-storage-space-with-these-47-effective-video-trimmers/"><u>Revolutionizing Your Phone's Storage Space with These 47 Effective Video Trimmers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-misconfigured-ryzen-master-drivers-on-your-pc/"><u>Step-by-Step Guide to Fixing Misconfigured Ryzen Master Drivers on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-fix-how-to-get-past-fortnites-stubborn-loading-screen-issue/"><u>The Fix: How to Get Past Fortnite’s Stubborn Loading Screen Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-fix-elden-rings-black-screen-on-boot-up/"><u>Troubleshooting Steps to Fix Elden Ring's Black Screen on Boot Up</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Smart 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-detroit-overcoming-technical-glitches-in-become-humans/"><u>Unlocking Detroit: Overcoming Technical Glitches in 'Become Humans'</u></a></li>
+</ul></div>
 
