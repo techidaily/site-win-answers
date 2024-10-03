@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2024-09-21T13:18:28.669Z
-updated: 2024-09-28T08:32:02.304Z
+date: 2024-09-26T17:45:10.242Z
+updated: 2024-10-03T17:31:00.966Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -58,14 +65,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -88,14 +95,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
 
@@ -105,25 +112,18 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
@@ -152,20 +152,21 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/xpert-advice-to-recover-missing-thumbnails-from-videos/"><u>[New] Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-meme-tacular-iphone-hacks/"><u>[New] Meme-Tacular iPhone Hacks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-broadcasting-higher-integrating-dji-drones-for-facebook-live/"><u>2024 Approved Broadcasting Higher - Integrating DJI Drones for Facebook Live</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-game-crashes-speedy-tips-for-roboix-continuous-play-on-personal-computers-insights-for-2ergy/"><u>Avoid Game Crashes: Speedy Tips for Roboix Continuous Play on Personal Computers - Insights for 2Ergy</u></a></li>
-<li><a href="https://fox-that.techidaily.com/correcting-inconsistent-web-browsing-data-in-iphones-screen-time-feature/"><u>Correcting Inconsistent Web Browsing Data in iPhone's Screen Time Feature</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-spark-go-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Spark Go (2023) Location by Number | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002884348-logitech-c920-camera-malfunction-heres-how-you-can-resolve-it/"><u>Logitech C920 Camera Malfunction? Here's How You Can Resolve It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/origin-software-offline-heres-how-to-fix-it/"><u>Origin Software Offline? Here's How to Fix It!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pros-and-cons-the-best-vr-gear-for-your-hands/"><u>Pros and Cons The Best VR Gear for Your Hands</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-frame-rate-drop-in-dying-light-expert-solutions/"><u>Resolving the Frame Rate Drop in Dying Light: Expert Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/reviews-and-insights-on-the-google-wireless-nest-doorbell-battery/"><u>Reviews and Insights on the Google Wireless Nest Doorbell (Battery)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-smoothing-out-lag-issues-on-your-gaming-rig-insights/"><u>Ultimate Fix Guide: Smoothing Out Lag Issues on Your Gaming Rig - Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-fixing-the-non-launch-of-alan-wake-part-ii/"><u>Unlock the Secrets: Fixing the Non-Launch of Alan Wake Part II</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-10-users-say-goodbye-to-keyboard-latency-issues/"><u>Windows 10 Users, Say Goodbye to Keyboard Latency Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-building-a-successful-online-presence-wirecast-streaming-to-youtube/"><u>[New] 2024 Approved Building a Successful Online Presence WireCast Streaming to Youtube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-techniques-for-procuring-facebook-vids/"><u>[Updated] Essential Techniques for Procuring Facebook Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-immersive-home-theater-choosing-the-best-3d-players/"><u>[Updated] Immersive Home Theater Choosing the Best 3D Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blues-a-guide-to-fix-recurring-content-warning-crashes-on-desktop/"><u>Beat the Blues: A Guide to Fix Recurring 'Content Warning' Crashes on Desktop.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-optimization-resolving-intense-processor-load-issues/"><u>Cyberpunk 2077 Optimization - Resolving Intense Processor Load Issues</u></a></li>
+<li><a href="https://win-dash.techidaily.com/direct-access-behringer-usb-sound-card-drivers-for-immediate-download/"><u>Direct Access: Behringer USB Sound Card Drivers for Immediate Download</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y36-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y36 Device SIM</u></a></li>
+<li><a href="https://win-answers.techidaily.com/f1-2021-for-windows-users-no-more-crashes-with-these-easy-fixes/"><u>F1 2021 for Windows Users - No More Crashes with These Easy Fixes!</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s18-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-borderlands-3-ls-0013-error/"><u>How To Fix Borderlands 3 LS-0013 Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-downloading-hurdles-a-guide-to-repairing-utorrent-peer-connections/"><u>Overcoming Downloading Hurdles: A Guide to Repairing uTorrent Peer Connections</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-game-glitches-stability-improvements-for-tribes-of-midgard/"><u>Resolving Game Glitches: Stability Improvements for 'Tribes of Midgard'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-fixing-persistent-crashes-in-modern-warfare-3-for-pc-users/"><u>Smooth Gaming Experience: Fixing Persistent Crashes in Modern Warfare 3 for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-instructions-overcoming-launch-problems-with-helldivers-2-on-steam/"><u>Step-by-Step Instructions: Overcoming Launch Problems with Helldivers 2 on Steam</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-contacts-display-issue-in-ios-heres-how-you-can-repair-it/"><u>Struggling with Contacts Display Issue in iOS? Here's How You Can Repair It!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/windows-eliminate-fuzzy-visuals/"><u>Windows: Eliminate Fuzzy Visuals</u></a></li>
 </ul></div>
 

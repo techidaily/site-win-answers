@@ -1,7 +1,7 @@
 ---
 title: "EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play"
-date: 2024-09-20T16:12:59.969Z
-updated: 2024-09-22T00:28:56.653Z
+date: 2024-09-30T18:02:03.509Z
+updated: 2024-10-03T16:27:32.124Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -80,11 +87,25 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
@@ -94,23 +115,9 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -122,14 +129,14 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
- 3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -154,5 +161,22 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-joining-the-digital-dialogue-facebook-basics/"><u>[Updated] Joining the Digital Dialogue (Facebook Basics)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-portable-canvas-apps-for-windows-free-and-charged/"><u>[Updated] Prime Portable Canvas Apps for Windows Free and Charged</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-reimagine-your-content-with-advanced-number-edits-in-tiktok/"><u>[Updated] Reimagine Your Content with Advanced Number Edits in TikTok</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/capture-the-crash-expert-surfer-cameras-review/"><u>Capture the Crash - Expert Surfer Cameras Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-continuous-boot-up-problems-in-apex-legends/"><u>How to Overcome Continuous Boot-Up Problems in Apex Legends</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-breathing-life-into-bios-a-zodiac-perspective/"><u>In 2024, Breathing Life Into Bios A Zodiac Perspective</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-capture-slow-motion-videos-with-gopro-hero-10/"><u>In 2024, How to Capture Slow Motion Videos with GoPro Hero 10?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-seamless-sound-transfer-top-10-youtube-to-mp3-picks/"><u>In 2024, Seamless Sound Transfer Top 10 YouTube to Mp3 Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007781605-reconfigured-cosmos-endures-intermittent-ice-age-problem-solved/"><u>Reconfigured Cosmos Endures Intermittent Ice Age - Problem Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-persistent-connectivity-problems-in-lol/"><u>Resolved: Fixing Persistent Connectivity Problems in LoL</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-msvcr110dll-missing-file-issue-in-helldivers-2-step-by-step-guide/"><u>Resolving the 'msvcr110.dll' Missing File Issue in HellDivers 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-epitome-of-engagement-celebrating-the-most-voted-posts-10-for-2024/"><u>The Epitome of Engagement Celebrating the Most-Voted Posts (10) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-resident-evil-5-running-again-on-pc/"><u>Troubleshooting Tips: How to Get Resident Evil 5 Running Again on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-restarting-or-reviving-internet-explorer/"><u>Troubleshooting Tips: Restarting or Reviving Internet Explorer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-urban-planning-fixing-buildcraft-cities-2-non-startup-dilemma/"><u>Unlocking Urban Planning: Fixing BuildCraft Cities 2 Non-Startup Dilemma</u></a></li>
+</ul></div>
 

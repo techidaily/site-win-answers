@@ -1,7 +1,7 @@
 ---
 title: Master the Installation of Hyper-V Feature on Microsoft's Latest OS
-date: 2024-09-24T09:34:45.809Z
-updated: 2024-09-27T23:13:48.556Z
+date: 2024-09-30T18:36:12.753Z
+updated: 2024-10-03T17:06:34.007Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ God of War
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The Santa Monica Studio releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -47,6 +54,13 @@ God of War
  If a patch is available, it will be detected by Steam or the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -64,13 +78,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -93,13 +100,20 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
 
@@ -110,13 +124,6 @@ There are mainly two methods for you to update the graphics driver:
 **`powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`**
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
 
@@ -164,10 +171,10 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
@@ -181,13 +188,6 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the God of War game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -205,17 +205,17 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
 
@@ -241,22 +241,24 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/screen-resize-windows-11-display-issue/"><u>[SCREEN RESIZE] Windows 11 Display Issue</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audience-wow-factor-the-best-camera-lenses-for-youtube-stars/"><u>[Updated] In 2024, Audience Wow Factor The Best Camera Lenses for YouTube Stars</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-optimally-utilize-a-creative-commons-license/"><u>[Updated] In 2024, How to Optimally Utilize a Creative Commons License</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-beginners-companion-swift-iphone-screen-recording/"><u>2024 Approved Beginner's Companion Swift Iphone Screen Recording</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-of-the-best-in-drone-following-capabilities/"><u>2024 Approved Best of the Best in Drone Following Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-the-centipede-error-from-destiny-2-with-these-expert-tips-and-tricks/"><u>Banish The Centipede Error From Destiny 2 with These Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/comment-guerir-un-fichier-mp4-endommage-sans-frais-guide-complet-pour-pc-et-mac/"><u>Comment Guérir Un Fichier MP4 Endommagé Sans Frais - Guide Complet Pour PC Et Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-6-resolved-solutions-for-pc-players-in-warzonemodern-warfare/"><u>Error ^Code 6 ^Resolved? Solutions for PC Players in Warzone/Modern Warfare</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-smooth-gameplay-fix-your-ping-and-lag-in-chivalry-2-using-modern-techniques-2024-insights/"><u>Mastering Smooth Gameplay: Fix Your Ping and Lag in Chivalry 2 Using Modern Techniques (2024 Insights)</u></a></li>
-<li><a href="https://games-able.techidaily.com/quick-fixes-for-steam-authentication-failures-in-rust/"><u>Quick Fixes for Steam Authentication Failures in Rust</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-trouble-at-the-beginning-8-proven-solutions-for-hogwarts-legacy-boot-issues/"><u>Say Goodbye to Trouble at the Beginning: 8 Proven Solutions for Hogwarts Legacy Boot Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-how-to-resolve-stuck-problems-during-dota-2-startup-sequence/"><u>Solved! How To Resolve 'Stuck' Problems During Dota 2 Startup Sequence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackle-your-minecraft-troubles-understanding-and-fixing-error-exit-code-0/"><u>Tackle Your Minecraft Troubles: Understanding and Fixing Error: Exit Code 0</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-14-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-black-screen-problems-in-destiny-2/"><u>Troubleshooting Black Screen Problems in Destiny 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/untangling-technical-hitches-stop-beat-saber-from-continuously-crashing/"><u>Untangling Technical Hitches: Stop Beat Saber From Continuously Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-call-of-duty-black-ops-cold-war-stability-fix-for-pc-users/"><u>[RESOLVED] Call of Duty: Black Ops Cold War Stability Fix for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-wolcen-lords-of-mayhem-not-launching/"><u>[Solved] Wolcen: Lords of Mayhem Not Launching</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhancing-social-media-with-vimeo-content-on-instagram/"><u>[Updated] Enhancing Social Media with Vimeo Content on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-effortlessly-manage-followers-with-top-twitter-cleanup-apps/"><u>2024 Approved Effortlessly Manage Followers with Top Twitter Cleanup Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost/"><u>2024 Approved Top Notch Voice Alteration for Valorant Players - Available at Zero Cost</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/through-in-video-production-advanced-techniques-for-uploading-360-content-on-youtube/"><u>Breakthrough in Video Production Advanced Techniques for Uploading 360° Content on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/churn-out-custom-internet-echo-jokes-for-2024/"><u>Churn Out Custom Internet Echo Jokes for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-connection-issues-6-definitive-strategies-for-terraria-players/"><u>Conquer Connection Issues: 6 Definitive Strategies for Terraria Players</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-insights-for-precise-online-marketing-strategies/"><u>Cookiebot-Driven Insights for Precise Online Marketing Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012254971-discord-setup-issues-heres-how-you-can-fix-an-installation-failed-error-easy-as-pie/"><u>Discord Setup Issues? Here's How You Can Fix an 'Installation Failed' Error Easy as Pie</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-quickly-resolve-palworlds-loading-problems/"><u>How to Quickly Resolve Palworld's Loading Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-best-fun-car-games-for-kids/"><u>In 2024, Best Fun Car Games for Kids</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-integrating-color-grading-techniques-with-luts/"><u>In 2024, Integrating Color Grading Techniques with Luts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-premium-enhancements-guide-to-superior-terria/"><u>In 2024, Premium Enhancements Guide to Superior Terria</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fixes-overcoming-continuous-crashing-glitches-in-tower-of-fantasy-game-pc-edition/"><u>Mastering the Fixes: Overcoming Continuous Crashing Glitches in 'Tower of Fantasy' Game PC Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-blizzard-server-connectivity-issues-for-gamers/"><u>Overcoming Blizzard Server Connectivity Issues for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-overwatch-startup-issue-how-to-address-black-screen-malfunction/"><u>Resolving Overwatch Startup Issue - How to Address Black Screen Malfunction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-cloud-desync-error-solutions-and-troubleshooting-guide/"><u>Steam Cloud Desync Error - Solutions and Troubleshooting Guide</u></a></li>
 </ul></div>
 
