@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Star Wars Jedi: Fallen Order PC Game Crashes"
-date: 2024-09-27T16:25:14.821Z
-updated: 2024-10-03T18:41:29.360Z
+date: 2024-10-06T17:56:11.330Z
+updated: 2024-10-08T17:15:09.812Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -95,13 +88,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
  If it this issue persists after you install the latest game patch, or if there was no new game patch available, move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  In most cases, the broken or outdated graphics driver is the main culprit behind the game crashing issues.
@@ -124,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify your game files
 
  The game crash issue can also be triggered by the faulty game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -140,19 +119,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
  1) In Uplay, navigate to**the Games tab** and move your mouse cursor to the game tile of The Division 2\. Then click**the downward triangle** on the lower-right corner of the game tile.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select**Verify files** .
 
@@ -165,15 +131,28 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Epic Game Launcher
 
@@ -183,25 +162,24 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
 
@@ -233,6 +211,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Modify the paging file size
 
  If the game crash issues were caused by the insufficient RAM, you can apply this fix to see if it works. Before modifying the paging file, you need to check if The Division 2 crash issue was triggered by the insufficient RAM.
@@ -244,6 +229,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog, then type**control** and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
@@ -264,6 +256,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -289,6 +288,19 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
@@ -301,6 +313,19 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
@@ -308,13 +333,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -339,19 +357,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-practical-approach-to-installing-obs-on-apple-systems/"><u>[New] A Practical Approach to Installing OBS on Apple Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-make-waves-in-the-social-ocean-integrate-tiktok-into-your-insta-reels/"><u>[Updated] Make Waves in the Social Ocean Integrate TikTok Into Your Insta Reels</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-fast-play-videos-in-ppt-sessions/"><u>[Updated] Mastering Fast-Play Videos in PPT Sessions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-pinnacle-plots-and-dialogues-for-radios/"><u>[Updated] Pinnacle Plots & Dialogues for Radios</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-elevate-your-video-game-top-tips-for-perfect-live-thumbnails/"><u>2024 Approved Elevate Your Video Game Top Tips for Perfect Live Thumbnails</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-the-mass-effect-legendary-edition-running-smoothly-after-startup-failures/"><u>Getting The Mass Effect Legendary Edition Running Smoothly After Startup Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-forza-horizon-4-from-crashing-on-your-computer-solutions-proven-effective/"><u>How to Stop Forza Horizon 4 From Crashing on Your Computer - Solutions Proven Effective</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/skyrim-volume-glitches-how-to-restore-game-sounds-completebly/"><u>Skyrim Volume Glitches – How to Restore Game Sounds Completebly</u></a></li>
-<li><a href="https://win-forum.techidaily.com/solving-the-app-cannot-execute-dilemma-on-windows-a-step-by-step-guide/"><u>Solving the 'App Cannot Execute' Dilemma on Windows: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-complete-2024-handbook-to-eliminating-unwanted-chrome-flickering-on-your-windows-machine/"><u>The Complete 2024 Handbook to Eliminating Unwanted Chrome Flickering on Your Windows Machine</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-success-fix-your-baldurs-gate-3-launch-woes/"><u>Troubleshooting Success: Fix Your Baldur's Gate 3 Launch Woes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unable-to-play-video-game-verify-integrity-of-game-files-heres-how/"><u>Unable to Play Video Game? Verify Integrity of Game Files Here's How</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-best-practices-for-streaming-archive-podcasts/"><u>Discover the Best Practices for Streaming Archive Podcasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/elite-gamer-setups-best-performance-computers-revealed/"><u>Elite Gamer Setups: Best Performance Computers Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-windows-11-the-show-desktop-button-remains-unchanged-despite-rumors/"><u>Exploring Windows 11: The Show Desktop Button Remains Unchanged Despite Rumors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/feeling-alienated-by-your-windows-device-heres-how-to-reconnect-and-take-control-again/"><u>Feeling Alienated by Your Windows Device? Here's How to Reconnect and Take Control Again!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/finding-your-apps-executable-a-fast-guide-to-finding-exe-files-in-windows-10/"><u>Finding Your App’s Executable: A Fast Guide to Finding EXE Files in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/five-effective-strategies-to-address-windows-11-memory-integrity-faults/"><u>Five Effective Strategies to Address Window's 11 Memory Integrity Faults</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/foreseeing-future-firewalls-the-latest-in-security-trends/"><u>Foreseeing Future Firewalls: The Latest in Security Trends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/holding-pattern-the-postponed-windows-11-recall-function/"><u>Holding Pattern: The Postponed Windows 11 Recall Function</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-a18-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo A18</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-cutting-edge-tech-analysis-the-best-screen-recorder-roundup/"><u>In 2024, Cutting Edge Tech Analysis The Best Screen Recorder Roundup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-capturing-crisp-lag-free-minecraft-gaming-footage/"><u>Ultimate Guide: Capturing Crisp, Lag-Free Minecraft Gaming Footage</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-photo-restoration-tool-bring-back-lost-images-with-ease/"><u>Ultimate iPhone Photo Restoration Tool: Bring Back Lost Images with Ease</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips - Successfully Running a Thaumaturge Application in PC
-date: 2024-10-01T18:23:13.352Z
-updated: 2024-10-03T17:22:58.875Z
+date: 2024-10-07T01:08:48.718Z
+updated: 2024-10-08T16:39:00.392Z
 tags:
   - win11
   - win10
@@ -47,37 +47,36 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
@@ -95,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  9) Delete the**Origin**  folder in the **Local** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
@@ -104,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -152,6 +165,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
@@ -160,9 +180,23 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
@@ -172,23 +206,9 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
@@ -218,13 +238,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
@@ -234,10 +247,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Click**Restart** to restart your PC.
@@ -284,13 +297,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
@@ -321,19 +327,24 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-ultimate-checklist-for-post-editing-and-uploading-your-360-vids-on-youtube/"><u>[New] 2024 Approved The Ultimate Checklist for Post-Editing & Uploading Your 360 Vids on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-audio-wizardry-in-action-techniques-for-professional-video-sound-recording-for-2024/"><u>[New] Audio Wizardry in Action Techniques for Professional Video Sound-Recording for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ballot-bonanza-5-best-political-game-line-ups-for-2024/"><u>[Updated] Ballot Bonanza 5 Best Political Game Line-Ups for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dying-light-speed-boost-fixing-lag-issues-for-smoother-gaming/"><u>Dying Light Speed Boost: Fixing Lag Issues for Smoother Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-fixing-itunes-audio-problems-for-seamless-music-streaming/"><u>Guide to Fixing iTunes Audio Problems for Seamless Music Streaming</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-p55plus-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel P55+ in Minutes | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y27 4G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-speed-up-srt-to-text-conversion-with-this-essential-guide/"><u>In 2024, Speed Up SRT to Text Conversion with This Essential Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/insights-into-the-delayed-arrival-of-mafia-full-set-solved-mysteries-unveiled/"><u>Insights Into the Delayed Arrival of Mafia: Full Set - Solved Mysteries Unveiled</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mellow-melodies-gradual-audio-decline-in-garageband-for-2024/"><u>Mellow Melodies Gradual Audio Decline in Garageband for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcome-issues-with-hitman-3-initial-launch-failure-on-windows/"><u>Resolved: Overcome Issues with Hitman 3 Initial Launch Failure on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-anticheat-connection-failed-error-in-escape-from-tarkov/"><u>Solved: 'Anticheat Connection Failed' Error in Escape From Tarkov</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-direct-to-streamer-duel-obs-vs-shadowtoolkit/"><u>[New] Direct-to-Streamer Duel OBS Vs. ShadowToolkit</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-beyondbaselinecameras-whats-upnext/"><u>[New] In 2024, BeyondBaselineCameras What's UpNext?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-decoding-why-your-facebook-messages-dont-share-videos-androidios/"><u>[New] In 2024, Decoding Why Your Facebook Messages Don't Share Videos (Android/iOS)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unveiling-secrets-of-effortless-screen-sharing-in-meet/"><u>[New] Unveiling Secrets of Effortless Screen Sharing in Meet</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-social-smiles-top-meme-picks-on-reddit-and-twitter/"><u>[Updated] Cross-Social Smiles Top Meme Picks on Reddit & Twitter</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/bridging-linguistic-gaps-with-chatgpt-assistance/"><u>Bridging Linguistic Gaps with ChatGPT Assistance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/demonstrating-the-use-of-ribbons-across-microsoft-office-applications-excel-word-and-outlook/"><u>Demonstrating the Use of Ribbons Across Microsoft Office Applications: Excel, Word & Outlook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-guide-crafting-quick-invoices-with-excel-tips-and-tricks/"><u>DIY Guide: Crafting Quick Invoices with Excel Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/duplicating-an-excel-sheet-a-step-by-step-guide-to-cloning-with-or-without-formulas/"><u>Duplicating an Excel Sheet: A Step-by-Step Guide to Cloning with or without Formulas</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easier-reading-6-essential-strategies-for-organizing-your-excel-data/"><u>Easier Reading: 6 Essential Strategies for Organizing Your Excel Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-generate-basic-invoices-in-microsoft-excel/"><u>Easy Steps to Generate Basic Invoices in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-building-histograms-with-microsoft-excel/"><u>Easy Tutorial on Building Histograms with Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-uploading-and-converting-your-excel-file-into-google-sheets/"><u>Easy Tutorial on Uploading and Converting Your Excel File Into Google Sheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-excel-techniques-how-to-locate-and-update-textual-content-and-numerical-values-instantly/"><u>Efficient Excel Techniques: How to Locate and Update Textual Content and Numerical Values Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-techniques-to-perform-column-multiplication-using-microsoft-excel/"><u>Efficient Techniques to Perform Column Multiplication Using Microsoft Excel</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-poco-m6-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Poco M6 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/poptoons-pro-analysis-and-guide-2s24-for-2024/"><u>PopToons Pro Analysis and Guide 2S24 for 2024</u></a></li>
 </ul></div>
 

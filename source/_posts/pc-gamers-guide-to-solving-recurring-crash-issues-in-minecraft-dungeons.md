@@ -1,7 +1,7 @@
 ---
 title: PC Gamers' Guide to Solving Recurring Crash Issues in Minecraft Dungeons
-date: 2024-10-02T18:21:02.213Z
-updated: 2024-10-03T16:48:45.660Z
+date: 2024-10-04T22:22:23.483Z
+updated: 2024-10-08T18:42:16.619Z
 tags:
   - win11
   - win10
@@ -41,28 +41,28 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -86,20 +86,40 @@ If the issue remains, move on to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -112,13 +132,6 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
@@ -127,6 +140,13 @@ If the issue remains, move on to the next fix.
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -150,22 +170,8 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
@@ -198,22 +204,19 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-core-principles-of-internet-storytelling/"><u>[New] Core Principles of Internet Storytelling</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-from-viewers-to-earnings-youtube-earning-basics/"><u>[New] From Viewers to Earnings YouTube Earning Basics</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-master-pic-deformation-with-pro-tools-of-choice/"><u>[New] Master Pic Deformation with Pro Tools of Choice</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>2024 Approved Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/advanced-solutions-for-smoothing-out-sims-5-and-how-its-done-so-you-can-continue-your-virtual-life-without-interruptions/"><u>Advanced Solutions for Smoothing Out Sims 5 and How It's Done, so You Can Continue Your Virtual Life without Interruptions!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-not-responding-fixes-and-solutions-revealed/"><u>Cyberpunk 2077 Not Responding? Fixes and Solutions Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enabling-hyper-v-feature-for-optimal-performance-on-windows-11/"><u>Enabling Hyper-V Feature for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guidance-to-successfully-start-football-manager-2023-after-installation-woes/"><u>Expert Guidance to Successfully Start Football Manager 2023 After Installation Woes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ffxiv-version-compatibility-errors-during-download/"><u>FFXIV Version Compatibility Errors During Download</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-troubleshooting-solving-constant-crashes-in-metro-exodus-pc-enhanced-edition/"><u>Fixes & Troubleshooting: Solving Constant Crashes in Metro Exodus PC Enhanced Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-discord-camera-up-and-running-expert-fixes-for-common-problems/"><u>Get Your Discord Camera Up and Running: Expert Fixes for Common Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-gta-5-not-starting-expert-tips-and-solutions/"><u>How to Overcome GTA 5 Not Starting: Expert Tips and Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-htc-u23-pro-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass HTC U23 Pro FRP</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-superior-5-options-to-connect-on-the-net/"><u>In 2024, Superior 5 Options to Connect on the Net</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/movavi3gpwmv/"><u>Movaviで簡単にフリーオンライン3GPをWMVに切り替える方法</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/pinnacle-of-video-quality-the-best-5-low-speed-recorders/"><u>Pinnacle of Video Quality The Best 5 Low-Speed Recorders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-frame-rate-and-reducing-lag-in-watch-dogs-legion-a-comprehensive-guide/"><u>Boosting Your Frame Rate & Reducing Lag in Watch Dogs: Legion - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx490-all-in-one-printer-fresh-drivers-download-and-update-info/"><u>Canon MX490 All-in-One Printer - Fresh Drivers Download & Update Info</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-sites-leveraging-automation-for-enhanced-user-experience/"><u>Cookiebot-Enabled Sites: Leveraging Automation for Enhanced User Experience</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/easy-guide-transforming-your-iphone-videos-into-high-quality-mp3-files/"><u>Easy Guide: Transforming Your iPhone Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996786909-expert-advice-on-tackling-two-fps-downfalls-in-pc-gameplay-performance-now-resolved/"><u>Expert Advice On Tackling Two-FPS Downfalls In PC Gameplay Performance – Now Resolved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-dead-by-daylights-error-8014-a-comprehve-guide-to-a-seamless-gaming-experience/"><u>Fixing Dead by Daylight's Error 8014 - A Comprehve Guide to a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-a-smooth-experience-how-to-prevent-red-dead-redemption-2-from-freezing-on-pc/"><u>Get a Smooth Experience: How to Prevent Red Dead Redemption 2 From Freezing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-i-fixed-my-steam-server-connectivity-woes-read-on-for-solutions/"><u>How I Fixed My Steam-Server Connectivity Woes – Read On for Solutions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-leveraging-facebooks-autoplay-technology-for-smooth-video-playback/"><u>In 2024, Leveraging Facebook's Autoplay Technology for Smooth Video Playback</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-desktop-image-blending-techniques/"><u>Mastering Desktop Image Blending Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/professional-response/"><u>Professional Response</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-trouble-free-mp4-video-uploads-for-youtube-success/"><u>Quick and Trouble-Free MP4 Video Uploads for YouTube Success</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-overcome-problems-with-steam-server-connections/"><u>Solution Found: How to Overcome Problems with Steam Server Connections</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Infinix Zero 30 5G | Dr.fone</u></a></li>
 </ul></div>
 

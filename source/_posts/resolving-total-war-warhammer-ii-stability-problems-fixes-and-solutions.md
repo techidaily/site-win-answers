@@ -1,7 +1,7 @@
 ---
 title: "Resolving TOTAL WAR: WARHAMMER II Stability Problems - Fixes & Solutions"
-date: 2024-10-02T17:48:00.220Z
-updated: 2024-10-03T17:31:22.959Z
+date: 2024-10-06T17:49:32.824Z
+updated: 2024-10-09T01:53:18.355Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Check your operating system, processor,**and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
@@ -96,10 +103,10 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 If your game crashes again, then try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Roll back/Update your graphics driver
@@ -159,6 +166,13 @@ If your game crashes again, then try the next fix.
 
 If your issue persists, then move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Verify the integrity of your game files
 
  Damaged or missing game files can also cause your game to fail. The good news is that you can verify the game files and do a repair if needed within the Steam client. Here is how to do it:
@@ -169,23 +183,9 @@ If your issue persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -196,6 +196,13 @@ If your issue persists, then move on to the next fix below.
 **5)** Relaunch your game after the process is complete.
 
 If the game is still unplayable, check the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run your game with DirectX 11
 
@@ -221,6 +228,13 @@ If the game is still unplayable, check the next fix, below.
 
 If your game still won’t launch properly, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Check for Windows Firewall
 
  The game crashing issue can happen if your game is blocked by Windows Firewall. So, you should check the Firewall settings and ensure the program is allowed in Firewall. Here is how：
@@ -229,24 +243,38 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-40-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**control** and then press the**Enter key** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click**Change settings** .
 
@@ -266,13 +294,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this method doesn’t work for you, move on to try the fix below.
 
 ### Fix 8: Run your game in compatibility mode
@@ -283,13 +304,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-16.jpg)
@@ -297,13 +311,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **3)**  Click the list box below to select **Windows 7** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-21-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -320,13 +327,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
@@ -373,15 +373,21 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/among-us-stability-how-to-prevent-game-crashes-a-step-by-step-guide/"><u>'Among Us' Stability: How to Prevent Game Crashes - A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mastering-video-cover-updates-on-facebook/"><u>[Updated] 2024 Approved Mastering Video Cover Updates on Facebook</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-quick-diy-cinematic-techniques-every-hobbyist-should-know-for-2024/"><u>[Updated] Quick DIY Cinematic Techniques Every Hobbyist Should Know for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battle-with-bugs-fixing-the-frequent-falls-in-metro-exodus-enhanced-for-pc/"><u>Battle with Bugs? Fixing the Frequent Falls in Metro Exodus Enhanced for PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-tips-for-procuring-unlocked-picture-frame-videos/"><u>Expert Tips for Procuring Unlocked Picture Frame Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-setup-how-to-link-psvr-headset-with-pc-for-immersive-gaming/"><u>Mastering the Setup: How to Link PSVR Headset with PC for Immersive Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/reassert-control-over-your-online-footprint-ditch-chatgpt/"><u>Reassert Control Over Your Online Footprint - Ditch ChatGPT</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-eliminating-stuttering-problems-in-halo-infinite-gameplay/"><u>Resolved: Eliminating Stuttering Problems in Halo Infinite Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-reducing-chromes-heavy-load-on-your-cpu/"><u>Step-by-Step Guide: Reducing Chrome's Heavy Load on Your CPU</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-eliminating-noise-methods-for-soundless-recording/"><u>[New] In 2024, Eliminating Noise Methods for Soundless Recording</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seo-understanding-and-resolving-lag-issues-in-cyberpunk-2077-released-version/"><u>[SEO] Understanding and Resolving Lag Issues in Cyberpunk 2077 (Released Version)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-exploring-the-intricacies-of-whatsapp-voice-calls/"><u>[Updated] Exploring the Intricacies of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-quick-diy-filming-fixes-the-top-5-hacks-to-try-now/"><u>2024 Approved Quick DIY Filming Fixes The Top 5 Hacks to Try Now</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragons-dogma-loput-2-and-pc-stability-issues-essential-fixes-to-restore-gaming-bliss/"><u>Dragon's Dogma ˈLoput 2 and PC Stability Issues: Essential Fixes to Restore Gaming Bliss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-prevent-crusader-kings-3-from-freezing-on-your-computer/"><u>Effective Solutions to Prevent Crusader Kings 3 From Freezing on Your Computer</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhancing-hamburgs-love-of-soccer-with-abbyy-technology-integration/"><u>Enhancing Hamburg's Love of Soccer with ABBYY Technology Integration</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-on-accessing-technical-support-for-your-iphone-via-apple-support-tool/"><u>Expert Tips on Accessing Technical Support for Your iPhone via Apple Support Tool</u></a></li>
+<li><a href="https://fox-that.techidaily.com/master-the-art-of-iphone-battery-life-a-six-step-calibration-process/"><u>Master the Art of iPhone Battery Life - A Six-Step Calibration Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-compatibility-ensuring-smooth-play-of-age-of-empires-2-on-windows-11/"><u>Mastering Compatibility: Ensuring Smooth Play of Age of Empires 2 on Windows 11</u></a></li>
+<li><a href="https://android-frp.techidaily.com/nokia-c32-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Nokia C32 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-overcoming-problems-when-your-epic-games-launcher-wont-launch/"><u>Quick Guide: Overcoming Problems When Your Epic Games Launcher Won't Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-lego-star-wars-the-skywalker-saga-pc-issues-and-fixed/"><u>Resolving Lego Star Wars: The Skywalker Saga PC Issues & Fixed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-fixing-logitech-g-hub-issues-on-windows-pcs/"><u>Troubleshooting Steps: Fixing Logitech G Hub Issues on Windows PCs</u></a></li>
 </ul></div>
 

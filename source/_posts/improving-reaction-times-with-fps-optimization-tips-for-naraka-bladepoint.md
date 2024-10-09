@@ -1,7 +1,7 @@
 ---
 title: "Improving Reaction Times with FPS Optimization Tips for Naraka: Bladepoint"
-date: 2024-09-28T18:55:24.894Z
-updated: 2024-10-03T16:43:11.979Z
+date: 2024-10-07T21:44:51.882Z
+updated: 2024-10-09T00:37:33.676Z
 tags:
   - win11
   - win10
@@ -69,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
 If this doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  A faulty or outdated graphic driver is one of the most common reasons for Naraka: Bladepoint keeps crashing on PC. You may want to make sure yours is up-to-date and functioning properly.
@@ -99,14 +106,21 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **On Epic Games** :
@@ -128,14 +142,14 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -155,21 +169,7 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
 
@@ -185,6 +185,13 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 3. If you don’t know how much RAM you have, press the**Windows key** and**R** to invoke the Run box. Then type in**msinfo32** and click**OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
@@ -205,20 +212,13 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
@@ -232,6 +232,20 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
@@ -249,28 +263,15 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
@@ -316,19 +317,24 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-excellent-quality-hd-video-preservers-for-2024/"><u>[New] Excellent Quality HD Video Preservers for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-streamers-guide-to-best-free-options-across-every-system-for-2024/"><u>[Updated] Ultimate Streamer's Guide to Best Free Options Across Every System for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beating-the-chatgpt-sign-in-error-tips-and-solutions-for-successful-access/"><u>Beating the ChatGPT Sign-In Error: Tips and Solutions for Successful Access</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-psychonauts-2-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Psychonauts 2 PC Game Crash Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Max Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-preventing-persistent-freezing-in-blender-pc-edition/"><u>Guide to Preventing Persistent Freezing in Blender - PC Edition</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-sound-recognition-and-instant-utilization/"><u>In 2024, Free Sound Recognition and Instant Utilization</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/keep-your-gaming-laptop-iced-out-the-havit-five-fan-cooler-reviewed-and-tested/"><u>Keep Your Gaming Laptop Iced Out: The HAVIT Five-Fan Cooler Reviewed and Tested</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-cant-launch-valheim-on-startup-issue-for-players-in-202e/"><u>Resolving the 'Can't Launch Valheim on Startup Issue for Players in 202E</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-overcome-modern-warfares-error-6034-on-your-pc-or-xbox-console/"><u>Step-by-Step Solution to Overcome Modern Warfare's Error 6034 on Your PC or Xbox Console</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-a-stalled-diagnostics-policy-service-expert-advice/"><u>Troubleshooting a Stalled Diagnostics Policy Service – Expert Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-black-screen-issues-in-fortnite-on-windows/"><u>Troubleshooting and Solutions for Black Screen Issues in Fortnite on Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726225503612-wmv-asf-movavi/"><u>무료 원격 WMV로 ASF 변환하기: Movavi 클라우드 기회!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gaggraphs-craft-your-own-jest/"><u>[New] GagGraphs Craft Your Own Jest</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-guide-to-mastering-gopro-hero5-time-lapse/"><u>[Updated] A Comprehensive Guide to Mastering GoPro Hero5 Time-Lapse</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-window-to-world-class-video-playback/"><u>[Updated] Ultimate Window to World-Class Video Playback</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-above-the-clouds-unveiled-best-online-portals-for-hd-skies/"><u>2024 Approved Above the Clouds Unveiled Best Online Portals for HD Skies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-a-fresh-start-download-windows-11-without-cost/"><u>Achieve a Fresh Start: Download Windows 11 Without Cost</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cut-out-facebook-stories-step-by-step-for-pc-and-phones/"><u>Cut Out Facebook Stories Step-By-Step for PC & Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-guide-refresh-your-windows-11-applications-with-ease/"><u>Effortless Guide: Refresh Your Windows 11 Applications with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-clarity-microsoft-aims-to-sharpen-chromes-display-quality-on-desktop-systems/"><u>Enhancing Clarity: Microsoft Aims to Sharpen Chrome's Display Quality on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-convenience-the-future-of-simplified-usage-with-windows-subsystem-for-linux/"><u>Enhancing Convenience: The Future of Simplified Usage with Windows Subsystem for Linux</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-eliminating-picture-backdrops-using-windows/"><u>Expert Tips: Eliminating Picture Backdrops Using Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-ntuserdat-key-functions-and-importance-within-a-windows-environment/"><u>Exploring NTUSER.DAT: Key Functions and Importance Within a Windows Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-windows-new-sudo-feature-understanding-and-implementation-guide/"><u>Exploring Windows' New Sudo Feature: Understanding & Implementation Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722974650673-free-download-latest-nvidia-geforce-rtx-nvidia-rtx-3080-driver-for-windows-11-8-and-7-click-here/"><u>Free Download: Latest NVIDIA GeForce RTX Nvidia Rtx 3080 Driver for Windows 11, 8 & 7 - Click Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-acronis-true-image-at-a-steal-save-20-with-exclusive-promo-code/"><u>Get Acronis True Image at a Steal: Save 20% with Exclusive Promo Code!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-x7b-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-7-plus-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 7 Plus Without Passcode Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-ahead-resolving-game-crashes-on-sea-of-thieves/"><u>Smooth Sailing Ahead - Resolving Game Crashes on Sea of Thieves</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-10-free-tools-to-convert-srt-into-engaging-video-content/"><u>Top 10 FREE Tools to Convert SRT Into Engaging Video Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-efficient-value-organization-techniques-in-ms-excel/"><u>Ultimate Guide: Efficient Value Organization Techniques in MS Excel</u></a></li>
 </ul></div>
 

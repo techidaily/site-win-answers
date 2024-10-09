@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: OBS Not Capturing Your Screen Anymore"
-date: 2024-09-27T17:38:49.705Z
-updated: 2024-10-03T17:10:20.154Z
+date: 2024-10-01T23:37:29.410Z
+updated: 2024-10-08T16:10:05.474Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 8. **[Turn VSync off](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Riot Vanguard](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
  You will get this error message**Graphics driver crashed** if the driver is outdated, corrupted, or incompatible, so you should try updating the graphics driver, especially when you haven’t done so for a while.
@@ -59,13 +52,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 **Note:** Please uninstall the graphics driver first to make sure you’re using the right driver when you update a driver manually.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2 – Automatically
 
  Manual updating a driver is always time-consuming. Fortunately, though, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You can update the driver either with the FREE or the Pro version of Driver Easy.
@@ -79,13 +65,20 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Roll back the graphics driver
 
@@ -100,13 +93,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update DirectX
 
  This error might happen if you’re using an outdated version of DirectX, which causes problems when your Valorant is interacting with your graphics card. Here’s how to check if you’re using the latest DirectX:
@@ -116,13 +102,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  2) Click**dxdiag** from the results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
 
@@ -140,11 +119,25 @@ To fix this, you can try resetting the software to default:
 * Select **Manage 3D Settings** .
 * Click on **Restore Defaults** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### CATALYST Control Center
 
 * Right-click on your **Desktop** and select **Catalyst Control Center** (also called **VISION** center).
 * Select **Preferences** .
 * Click on **Restore Factory Defaults** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Play Valorant in windowed mode
 
@@ -153,6 +146,19 @@ To fix this, you can try resetting the software to default:
 1) Launch Valorant.
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -165,6 +171,13 @@ To fix this, you can try resetting the software to default:
  Since Valorant consumes a lot of memory and CPU usage when you’re playing a game, some antivirus will mistake it as a potential threat. You can add the Valorant executable file to its exception list, or uninstall it temporarily.
 
  Since the third-party antivirus application hooks very deep into your system, so disabling it may not always work.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Turn VSync off
 
@@ -185,13 +198,6 @@ To fix this, you can try resetting the software to default:
 * Bloom: Off
 * Distortion: Off
 * First Person Shadows: Off
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 9: Reinstall Riot Vanguard
 
@@ -230,24 +236,14 @@ To fix this, you can try resetting the software to default:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-how-mycam-changes-video-recording-at-home-an-in-depth-review/"><u>[Updated] How MyCam Changes Video Recording at Home – An In-Depth Review</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-100-killer-facebook-bios-to-make-profile-attractive2/"><u>2024 Approved 100 Killer Facebook Bios to Make Profile Attractive2</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audiovisual-creators-top-5-app-picks-of-the-era/"><u>2024 Approved Audiovisual Creators' Top 5 App Picks of the Era</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhance-your-videos-with-easy-cuts-on-windows-11/"><u>2024 Approved Enhance Your Videos with Easy Cuts on Windows 11</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoiding-access-issues-tips-and-solutions-to-fix-the-civ-6-exception-error/"><u>Avoiding Access Issues: Tips and Solutions to Fix the 'CIV-6 Exception Error'</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-tactics-for-successful-job-interviews-unveiled/"><u>ChatGPT Tactics for Successful Job Interviews Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-disruptions-ensuring-smooth-playthroughs-in-snowrunner-by-avoiding-in-game-crashes-on-pcs/"><u>Dealing with Disruptions: Ensuring Smooth Playthroughs in SnowRunner by Avoiding In-Game Crashes on PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-steam-game-startup-issues-on-windows-11-pcs/"><u>Expert Tips to Resolve Steam Game Startup Issues on Windows 11 PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-microsoft-edge-frequent-crashes-on-windows-10-system/"><u>Fix Microsoft Edge Frequent Crashes on Windows 10 System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-resolve-a-non-responsive-rust-program/"><u>Fixes and Solutions: How to Resolve a Non-Responsive Rust Program</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2021-laid-to-rest-solutions-for-the-stuck-loading-screen-dilemma/"><u>Football Manager 2021: Laid to Rest - Solutions for the Stuck Loading Screen Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-does-crop-diversity-benefit-agroecological-farming/"><u>How Does Crop Diversity Benefit Agroecological Farming?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-optimize-your-pc-settings-for-smooth-bless-unleashed-play-fix-lag-spikes-and-high-latency/"><u>How to Optimize Your PC Settings for Smooth Bless Unleashed Play: Fix Lag Spikes & High Latency</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 6s Plus? | Stellar</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-11-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 11 Pro How to Bypass?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011217314-overcoming-technical-hurdles-in-narakabladepoint-a-comprehensive-solution/"><u>Overcoming Technical Hurdles in Naraka:Bladepoint - A Comprehensive Solution</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-the-premier-usb-drives/"><u>Ultimate Selection: The Premier USB Drives</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-cracking-chatgpt-is-no-longer-an-option-unveiling-7-critical-reasons/"><u>Why Cracking ChatGPT Is No Longer an Option: Unveiling 7 Critical Reasons</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>[New] The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-game-centric-tvs-top-picks-for-ps5xbox-series-x/"><u>[Updated] In 2024, Game-Centric TVs Top Picks for PS5/Xbox Series X</u></a></li>
+<li><a href="https://games-able.techidaily.com/identifying-cpu-overload-effects-on-pc-speed/"><u>Identifying CPU Overload Effects on PC Speed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-server-connections-in-path-of-exile-troubleshooting-and-solutions-guide/"><u>Mastering Server Connections in Path of Exile : Troubleshooting and Solutions Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-your-adventure-tackling-frames-per-second-fps-problems-for-a-seamless-red-dead-2-experience/"><u>Maximize Your Adventure - Tackling Frames Per Second (FPS) Problems for a Seamless Red Dead 2 Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hitches-stable-gameplay-tips-for-pc-users-of-ghostwire-tokyo/"><u>Overcoming Performance Hitches: Stable Gameplay Tips for PC Users of Ghostwire: Tokyo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-logitech-devices-arent-working-correctly-on-pcs/"><u>Solutions for When Your Logitech Devices Aren't Working Correctly on PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-realme-11-proplus-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Realme 11 Pro+ Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-repair-your-game-fast-fixes-for-league-of-legends-crashes/"><u>Troubleshoot & Repair Your Game: Fast Fixes for League of Legends Crashes</u></a></li>
 </ul></div>
 

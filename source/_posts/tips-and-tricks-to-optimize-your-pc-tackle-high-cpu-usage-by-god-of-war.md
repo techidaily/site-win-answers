@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks to Optimize Your PC: Tackle High CPU Usage by God of War"
-date: 2024-09-26T17:41:56.475Z
-updated: 2024-10-03T17:13:42.569Z
+date: 2024-10-03T20:41:40.711Z
+updated: 2024-10-08T23:33:30.416Z
 tags:
   - win11
   - win10
@@ -59,10 +59,10 @@ Century: Age of Ashes system requirements
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Verify integrity of game files
@@ -76,9 +76,23 @@ Century: Age of Ashes system requirements
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -99,10 +113,10 @@ Century: Age of Ashes system requirements
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -117,13 +131,6 @@ Century: Age of Ashes system requirements
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays are handy. However, sometimes they may interfere with the game and would block the game files, which may cause the game to crash.
@@ -134,20 +141,13 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
@@ -198,10 +198,17 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -217,13 +224,6 @@ If this fix didn’t work, try the next fix, below.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -266,19 +266,15 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-elite-photo-backup-networks/"><u>[New] 2024 Approved Elite Photo Backup Networks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-castcritique-report-for-2024/"><u>[Updated] CastCritique Report for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-eras-endwatchers-top-youtube-viewership/"><u>[Updated] Era's Endwatchers Top YouTube Viewership</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-basics-of-kinetic-illustration-mastery/"><u>[Updated] In 2024, Basics of Kinetic Illustration Mastery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-getting-your-msi-graphics-driver-and-center-back-online/"><u>Expert Tips on Getting Your MSI Graphics Driver and Center Back Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/how-to-calibrate-an-iphones-battery-in-6-easy-steps/"><u>How to Calibrate an iPhone's Battery in 6 Easy Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-in-your-phasmophobia-vr-experience/"><u>How to Restore Functionality in Your Phasmophobia VR Experience</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Samsung Galaxy A05s? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-infinix-note-30-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Infinix Note 30 5G</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-fallout-3-a-step-by-step-guide-for-windows-11-users/"><u>Mastering Fallout 3: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-quiet-zone-heres-how-to-restore-sound-on-your-computer-game/"><u>Minecraft Quiet Zone? Here's How to Restore Sound on Your Computer Game</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/reaping-the-benefits-of-hdr-for-professional-videoists-for-2024/"><u>Reaping the Benefits of HDR for Professional Videoists for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-errors-and-crashing-in-the-pc-version-of-msfs-2020/"><u>Troubleshooting Continuous Errors and Crashing in the PC Version of MSFS 2020</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-heart-of-iron-iv-glitches-and-bugs-for-smoother-gameplay/"><u>Troubleshooting Heart of Iron IV Glitches and Bugs for Smoother Gameplay</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-comprehensive-guide-your-shorts-hidden-thumbnails/"><u>[Updated] 2024 Approved Comprehensive Guide Your Shorts' Hidden Thumbnails</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-conquer-with-titans-top-7-strategic-multiplayer-battles/"><u>[Updated] Conquer with Titans Top 7 Strategic Multiplayer Battles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996074410-actively-monitor-customer-support-channels-email-phone-live-chat-for-incoming-requests-or-inquiries-from-customers-requiring-assistance/"><u>Actively Monitor Customer Support Channels (Email, Phone, Live Chat) for Incoming Requests or Inquiries From Customers Requiring Assistance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-your-astro-a50s-inability-to-detect-command-center/"><u>Guide to Fixing Your Astro A50's Inability to Detect Command Center</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-x5-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Poco X5 Phone without Any Data Loss</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-5-frosty-yet-inviting-backdrops-for-your-vids/"><u>In 2024, 5 Frosty Yet Inviting Backdrops for Your Vids</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-av-and-acoustic-creatives-top-5-online-leaders-roundup/"><u>In 2024, Av & Acoustic Creatives Top 5 Online Leaders' Roundup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y100i-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y100i Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-itunes-audio-mishaps-a-comprehensive-guide/"><u>Overcoming iTunes Audio Mishaps: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-continuous-crashes-in-immortals-of-fenyx-rising/"><u>Troubleshooting Guide: Resolving Continuous Crashes in Immortals of Fenyx Rising</u></a></li>
 </ul></div>
 

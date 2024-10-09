@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Tackle Fall Guys Game Crashes During Startup Sequence
-date: 2024-10-02T17:54:05.191Z
-updated: 2024-10-03T17:51:50.445Z
+date: 2024-10-01T16:31:32.661Z
+updated: 2024-10-08T20:15:48.896Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
  Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Star Wars Squadrons as an administrator
 
  In some cases, Star Wars Squadrons requires elevated permissions to work as intended, or else it crashes randomly. To run the game in the administrator mode, follow the steps below:
@@ -47,20 +54,13 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check if the game runs normally now. If not, move on to the second fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of your game files
@@ -81,6 +81,13 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the repair process to finish. Then launch the game to see how it works. If crashing persists, try **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  to update your GPU driver.
 
 #### If you’re playing on Origin
@@ -92,13 +99,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
@@ -124,19 +124,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -156,28 +143,15 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Origin
@@ -193,15 +167,22 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On GeForce Experience
 
@@ -210,6 +191,13 @@ There are mainly two ways you can do the driver update:
 **2)** Click the**cogwheel icon** in the upper right corner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Toggle off**In-Game Overlay** .
 
@@ -231,13 +219,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
@@ -245,6 +226,13 @@ There are mainly two ways you can do the driver update:
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
@@ -273,22 +261,21 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boosting-subscriber-commitment-top-strategies-for-keeping-viewers-coming-back-on-youtube/"><u>[New] Boosting Subscriber Commitment Top Strategies for Keeping Viewers Coming Back on YouTube</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-converting-mac-image-types-a-step-by-step-process-for-2024/"><u>[New] Converting Mac Image Types A Step-by-Step Process for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/1716069295151-updated-2024-approved-little-legends-top-gaming-adventures/"><u>[Updated] 2024 Approved Little Legends Top Gaming Adventures!</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-pip-feature-in-youtube-app-for-iphones/"><u>[Updated] Mastering PIP Feature in YouTube App for iPhones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992075691-code-vein-freezing-problems-master-the-fix-with-these-proven-techniques/"><u>Code Vein Freezing Problems? Master the Fix with These Proven Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-valheims-pc-crashing-problem-expert-tips-and-tweaks-to-try/"><u>End Valheim's PC Crashing Problem: Expert Tips and Tweaks to Try</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-technology-from-toms-hardware-hub/"><u>Expert Insights on Technology From Tom's Hardware Hub</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-freezing-and-halted-sessions-in-your-qbittorrent-client/"><u>Fixing Freezing and Halted Sessions in Your qBittorrent Client</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-infinix-note-30-vip-racing-edition-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Infinix Note 30 VIP Racing Edition by Name | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/installing-microsofts-new-copilot-across-all-devices-a-step-by-step-guide/"><u>Installing Microsoft's New Copilot Across All Devices: A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-drivers-download-manual-for-windows-10-and-ebootable-in-windows-7/"><u>Latest Lenovo X1 Carbon Drivers - Download Manual for Windows 10 & Ebootable in Windows 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-ark-optimization-guide-resolving-lag-and-improving-frame-rates-effectively/"><u>Lost Ark Optimization Guide: Resolving Lag and Improving Frame Rates Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-connections-solving-unable-to-reach-configuration-servers-problem/"><u>Mastering the Art of Connections: Solving 'Unable to Reach Configuration Servers' Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-disco-elysium-from-crashing-on-windows-and-mac/"><u>Troubleshooting Guide: Stop Disco Elysium From Crashing on Windows & Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-maplestory-glitches-and-crashes-in-windows-10/"><u>Ultimate Guide: Resolving MapleStory Glitches & Crashes in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unleashing-convenience-your-guide-to-the-efficient-use-of-portable-drivereasy/"><u>Unleashing Convenience: Your Guide to the Efficient Use of Portable DriverEasy</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unlocking-virtual-reality-how-to-convert-regular-videos-with-ease-for-2024/"><u>Unlocking Virtual Reality How to Convert Regular Videos with Ease for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/state-of-decay-2-mastering-stability-a-comprehensive-guide-to-tackle-persistent-game-crashes/"><u>'State of Decay 2': Mastering Stability: A Comprehensive Guide to Tackle Persistent Game Crashes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-windows-hdri-a-users-editing-handbook/"><u>[New] In 2024, Windows HDRI A User’s Editing Handbook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-list-of-picture-protection-software/"><u>[Updated] The Ultimate List of Picture Protection Software</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-the-sound-barrier-gpts-quintuple-ascent-to-fame/"><u>Breaking the Sound Barrier: GPT's Quintuple Ascent to Fame</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fixes-for-stuttering-issues-during-outriders-gameplay-on-pc/"><u>Definitive Fixes for Stuttering Issues During Outriders Gameplay on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-gameplay-experience-optimizing-frame-rates-and-eliminating-hiccups-for-a-seamless-warzone-session/"><u>Elevate Your Gameplay Experience: Optimizing Frame Rates & Eliminating Hiccups for a Seamless Warzone Session</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-iphone-repairs-navigating-apples-online-support-and-testing-services/"><u>Mastering iPhone Repairs: Navigating Apple's Online Support and Testing Services</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-noise-sensational-success-in-telegram-marketing/"><u>Navigating Noise Sensational Success in Telegram Marketing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/online-gratis-conversion-von-flvvob-dateien-mit-movavi-kostenlose-konvertierung/"><u>Online Gratis Conversion Von FLV/VOB Dateien Mit Movavi - Kostenlose Konvertierung</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-minecraft-pc-issues-latest-tips-to-eliminate-freezing-and-crashes/"><u>Overcome Minecraft PC Issues - Latest Tips to Eliminate Freezing & Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-total-war-warhammer-ii-system-errors/"><u>Resolved: Fixes for TOTAL WAR: WARHAMMER II System Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-load-time-woes-heres-what-you-can-do/"><u>Roblox Load Time Woes? Here's What You Can Do!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-red-dead-redemption-2s-unending-launch-sequence-a-step-by-step-guide/"><u>Solving Red Dead Redemption 2'S Unending Launch Sequence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solve-the-league-of-legends-not-launching-problem/"><u>Ultimate Guide: Solve the 'League of Legends Not Launching' Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-tips-for-correcting-rainbow-six-siege-server-connectivity-problems/"><u>Ultimate Troubleshooting Tips for Correcting Rainbow Six Siege Server Connectivity Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
 

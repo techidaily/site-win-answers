@@ -1,7 +1,7 @@
 ---
 title: "The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live"
-date: 2024-09-26T18:25:36.044Z
-updated: 2024-10-03T17:34:48.091Z
+date: 2024-10-07T21:25:27.938Z
+updated: 2024-10-08T23:48:34.561Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Rename the exe file
@@ -49,6 +49,13 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -57,23 +64,17 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 2. Right-click the**ImmortalsFenyxRising.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -91,13 +92,6 @@ There are mainly two ways you can do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
@@ -125,13 +119,6 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
@@ -142,17 +129,43 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
@@ -178,20 +191,24 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-crafting-the-perfect-zoom-call-timeline-for-2024/"><u>[Updated] Crafting the Perfect Zoom Call Timeline for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-vimeo-recording-process/"><u>[Updated] In 2024, Step-by-Step Vimeo Recording Process</u></a></li>
-<li><a href="https://win-blog.techidaily.com/alan-wake-2-understanding-and-resolving-the-delay-issues/"><u>Alan Wake 2: Understanding & Resolving the Delay Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boot-camp-backing-up-your-hard-drive-solo/"><u>Boot Camp: Backing up Your Hard Drive Solo</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fixes-for-pubgs-stutter-and-hangs-optimize-your-gameplay/"><u>Easy Fixes for PUBG's Stutter & Hangs - Optimize Your Gameplay!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-evaluations-at-toms-hardware-gear-up-with-cutting-edge-technology-guides/"><u>Expert Evaluations at Tom's Hardware - Gear Up with Cutting-Edge Technology Guides</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-forza-horizon-4-game-crash-issue-on-your-pc/"><u>Fixing the Forza Horizon 4 Game Crash Issue on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002623201-how-to-fix-lethal-company-not-launching-2024-tips/"><u>How to Fix Lethal Company Not Launching - 2024 Tips</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-maximizing-revenue-through-youtube-brand-partnerships/"><u>In 2024, Maximizing Revenue Through Youtube Brand Partnerships</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011469040-insurgency-sandstorm-update-causes-persistent-game-crashes-solved/"><u>Insurgency: Sandstorm Update Causes Persistent Game Crashes - Solved!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-getting-civilization-vi-running-in-windows-11/"><u>Overcoming the Hurdle: Getting Civilization VI Running in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-performance-issues-why-is-the-frame-rate-lower-in-farming-simulator-22/"><u>PC Performance Issues: Why Is the Frame Rate Lower in Farming Simulator 22?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-8-best-animation-maker-for-beginners-and-pros/"><u>Top 8 Best Animation Maker for Beginners and Pros</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-tech-tricks-for-a-seamless-fortnite-experience-addressing-pc-freezes-and-glitches/"><u>Top Tech Tricks for a Seamless Fortnite Experience: Addressing PC Freezes and Glitches</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-fresh-look-at-sonys-ultra-hd-player-s3700/"><u>[Updated] 2024 Approved Fresh Look at Sony's Ultra HD PLAYER S3700</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-boost-your-mobile-film-game-best-9-camera-add-ons-for-vloggers/"><u>[Updated] Boost Your Mobile Film Game Best 9 Camera Add-Ons For Vloggers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003782558-destiny-2-beyond-light-now-running-smoothly-on-your-pc-say-goodbye-to-troublesome-crashes/"><u>Destiny 2 Beyond Light Now Running Smoothly on Your PC - Say Goodbye to Troublesome Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-issue-smothering-obscurity-causes-hardware-failure-on-workstation/"><u>Fixed Issue: Smothering Obscurity Causes Hardware Failure on Workstation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dying-light-audio-problem-quick-solutions/"><u>Fixing the Dying Light Audio Problem - Quick Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-samsung-galaxy-s24-ultra-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Samsung Galaxy S24 Ultra Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-reactivate-steams-inaccessible-network-servers/"><u>How To Reactivate Steam's Inaccessible Network Servers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-recurring-freezes-during-pathfinder-wrath-of-the-righteous-gameplay/"><u>How to Stop Recurring Freezes During Pathfinder: Wrath of the Righteous Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-pc-from-randomly-crashing-top-6-fixes-you-can-trust/"><u>How to Stop Your PC From Randomly Crashing - Top 6 Fixes You Can Trust</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/in-depth-look-at-newly-launched-3rd-generation-apple-airpods-expert-review-and-key-upgrades-featured-on-zdnet/"><u>In-Depth Look at Newly Launched 3Rd Generation Apple AirPods: Expert Review and Key Upgrades Featured on ZDNET</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-realme-11-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Realme 11 5G</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-narzo-60x-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60x 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-discord-setup-issues-easy-fixes-for-installation-failure/"><u>Resolve Your Discord Setup Issues: Easy Fixes for 'Installation Failure'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-high-cpu-demands-in-phasmophobia-a-step-by-step-guide/"><u>Resolving High CPU Demands in Phasmophobia: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/secure-your-facetime-discussions-with-screen-record-for-2024/"><u>Secure Your FaceTime Discussions with Screen Record for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-lost-ark-game-crashes/"><u>Troubleshooting Steps to Resolve 'Lost Ark' Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warcraft-3-reforged-and-pc-performance-issues-master-these-fixes/"><u>Warcraft 3 Reforged and PC Performance Issues? Master These Fixes !</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-studio-validating-earnings-flow-for-2024/"><u>YouTube Studio Validating Earnings Flow for 2024</u></a></li>
 </ul></div>
 

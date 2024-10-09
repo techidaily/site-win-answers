@@ -1,7 +1,7 @@
 ---
 title: "Master the Fight Without Glitches: Eliminating King of Fighters XV's Persistent Crash Problem on PC"
-date: 2024-09-30T18:55:52.008Z
-updated: 2024-10-03T17:46:39.487Z
+date: 2024-10-04T00:06:57.936Z
+updated: 2024-10-09T00:40:29.526Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/6ff66889aaf2236739a2923efe4cfc57f9cd9ea7a
 4. [Turn off Origin In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)
 5. [Run Anthem as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 1: Move your game to another drive
 
@@ -76,6 +69,19 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right click**Anthem** , and click**Move game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
@@ -88,13 +94,6 @@ Make sure that Anthem is closed and not running in the background.
  6) Re-launch Anthem and see if it can load properly.
 
 All good now? That’s great!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 2: Repair Anthem in Origin
 
@@ -115,16 +114,10 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
@@ -153,24 +146,37 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 4: Turn off Origin In-Game Overlay
 
@@ -187,32 +193,25 @@ Now launch Anthem on your computer, and your game should be loading.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 5: Run Anthem as an administrator
@@ -234,6 +233,13 @@ Here’s what you need to do:
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
 
@@ -275,18 +281,20 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-trailblazers-top-intro-list-for-zooids/"><u>[New] In 2024, Trailblazers Top Intro List for Zooids</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-proven-strategies-for-vimeo-media-insertion-in-ppts/"><u>[Updated] 2024 Approved Proven Strategies for Vimeo Media Insertion in PPTs</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-high-pfv-score-for-delayed-visual-sequences/"><u>2024 Approved High PFV Score for Delayed Visual Sequences</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-live-screen-recorder-for-chromebooks/"><u>2024 Approved Live Screen Recorder for Chromebooks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-and-workarounds-for-slime-rancher-2-pc-game-crashing-problems/"><u>Effective Fixes and Workarounds for Slime Rancher 2 PC Game Crashing Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993198084-fixes-for-origin-not-working-get-back-online-now/"><u>Fixes for Origin Not Working - Get Back Online Now!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-motorola-moto-g04-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Moto G04 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Itel A70? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-your-game-library-the-finest-pc-based-gba-emulation-tools/"><u>Mastering Your Game Library The Finest PC-Based GBA Emulation Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-causes-of-lag-spike-and-frame-rate-drop-in-call-of-duty-black-ops-4/"><u>Resolved: Causes of Lag Spike & Frame Rate Drop in Call Of Duty: Black Ops 4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-persistent-crashes-on-path-of-exile-solutions-and-tips/"><u>Resolving Persistent Crashes on Path of Exile – Solutions & Tips</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/starting-with-telegram-advertising-essential-steps-for-newbies/"><u>Starting with Telegram Advertising Essential Steps for Newbies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-does-code-vean-crash-solving-pc-instability-and-game-bugs-effectively/"><u>Why Does 'Code Vean Crash'? Solving PC Instability & Game Bugs Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-world-ultimate-troubleshooting-guide-putting-an-end-to-incessant-pc-game-crashes/"><u>'New World': Ultimate Troubleshooting Guide - Putting an End to Incessant PC Game Crashes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-rings-rhythm-versus-screen-time-symphony/"><u>[New] The Ring's Rhythm Versus Screen Time Symphony</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nleashing-the-power-of-youtube-short-form-videos-for-2024/"><u>[New] Unleashing the Power of YouTube Short Form Videos for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-equipment-for-beginners-ultimate-guide/"><u>[Updated] In 2024, YouTube Equipment for Beginners [Ultimate Guide]</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-hot-40-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Hot 40 Pro to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cutting-edge-solutions-overcome-minecraft-lag-and-stutter/"><u>Cutting-Edge Solutions: Overcome Minecraft Lag & Stutter</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragons-dogma-2-performance-issues-solved-tackling-low-fps-and-frame-drops/"><u>Dragon's Dogma 2 Performance Issues Solved: Tackling Low FPS & Frame Drops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-steps-to-repair-fifa-19-directx-glitches-no-tech-expertise-needed/"><u>Effortless Steps to Repair FIFA 19 DirectX Glitches - No Tech Expertise Needed!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-vlc-knowledge-for-seamless-mac-media-playback/"><u>Essential VLC Knowledge for Seamless Mac Media Playback</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-xiaomi-13t-pro-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/guide-mastering-the-jonny-piano-pieces-with-free-downloads-and-comprehensive-tutorials/"><u>Guide: Mastering the Jonny Piano Pieces with Free Downloads & Comprehensive Tutorials</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/immediate-mastery-skilled-thumbnails-for-valorants-highlights-for-2024/"><u>Immediate Mastery - Skilled Thumbnails for Valorant's Highlights for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-high-cpu-use-on-google-chrome-solutions-unveiled/"><u>Troubleshooting and Fixing High CPU Use on Google Chrome - Solutions Unveiled!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-correcting-infinity-launch-issues-in-apex-legends/"><u>Troubleshooting Steps for Correcting Infinity Launch Issues in Apex Legends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-for-league-of-legends-startup-problems/"><u>Ultimate Troubleshooting Guide for League of Legends Startup Problems</u></a></li>
 </ul></div>
 

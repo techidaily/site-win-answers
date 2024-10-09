@@ -1,7 +1,7 @@
 ---
 title: Resolve PC Lag and Crashes While Playing Resident Evil Village - Proven Techniques
-date: 2024-09-27T16:34:37.741Z
-updated: 2024-10-03T18:40:29.212Z
+date: 2024-10-02T18:06:36.709Z
+updated: 2024-10-08T17:38:29.627Z
 tags:
   - win11
   - win10
@@ -62,22 +62,8 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Resident Evil Village still crashes, please move on to **Fix 2** , below to begin troubleshooting.
 
@@ -96,17 +82,17 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Resident Evil Village and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Steam overlay
 
@@ -119,21 +105,14 @@ You can disable Steam overlay with the following steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.jpg)
 3. In the **GENERAL** section, uncheck the **Enable Steam Overlay while in-game** box.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village-2.jpg)
 4. Run Resident Evil Village to see if the crashing problem is fixed. If it doesn’t cut it, please try**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run Steam as administrator
@@ -146,14 +125,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC prompts for permissions to proceed.
 
- After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
 
 ### Fix 5: Verify game integrity on Steam
 
@@ -169,6 +148,14 @@ The steps are pretty easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY.png)
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Re-launch Resident Evil Village to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 6** , below.
 
 ### Fix 6: Close background apps
@@ -182,13 +169,20 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  RE8 still crashes? Don’t worry – there’s a couple more fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Disable HDR in RE 8 and Windows
@@ -204,6 +198,13 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-steam-properties-1.png)
 3. Click**Local** \>**Browse…** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Open the**Config** file and set**HDRMode-false** .
 
 **How to turn off HDR in Windows (if your monitor supports HDR)**
@@ -211,6 +212,13 @@ Here’s how to close background apps:
 1. On your keyboard, press**the Windows key** and**R** at the same time to invoke the Run box. Then type**desk.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/desk.cpl_.png)
 2. Scroll to the Windows HD Color section and turn the toggle for**Play HDR games and apps** to**Of** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/windows-hdr-off.png)
 
@@ -221,13 +229,6 @@ Here’s how to close background apps:
  The game crash is likely to be a bug that comes along previous updates, which requires to be patched in the next release. To check if this is the case, you can install the latest patch, then run the game again to see if the crashing problem ceases.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -274,24 +275,22 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-infinity-refresh-top-5-hdmi-2ranetixx-gaming-screens-ps5/"><u>[Updated] In 2024, Infinity Refresh Top 5 HDMI 2Ranetixx Gaming Screens [PS5]</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-methodical-guide-to-unmute-your-social-network-videos/"><u>2024 Approved Methodical Guide to Unmute Your Social Network Videos</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-i-rely-on-ai-technology-like-chatgpt-to-enhance-my-proofreading-skills/"><u>Can I Rely On AI Technology, Like ChatGPT, To Enhance My Proofreading Skills?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-techniques-for-excellent-powerpoint-recordings/"><u>Cutting-Edge Techniques for Excellent PowerPoint Recordings</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvddvdand/"><u>DVD記録手引き：すべての動画を無料DVDにダウンロード&書き込む究極ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999047011-gastric-decontamination-methods-like-activated-charcoal-may-reduce-absorption-of-ingested-poisons-but-are-not-always-appropriate-or-effective/"><u>Gastric Decontamination Methods Like Activated Charcoal May Reduce Absorption of Ingested Poisons but Are Not Always Appropriate or Effective.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-successfully-tackle-crashes-in-helldivers-2-on-pc-proven-fixes-inside/"><u>How to Successfully Tackle Crashes in Helldivers 2 on PC - Proven Fixes Inside!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-unveiling-the-secrets-of-facebook-videos/"><u>In 2024, Unveiling the Secrets of Facebook Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-game-lag-in-nier-replicant-tips-and-fixes-for-smooth-play/"><u>Overcoming Game Lag in NieR: Replicant - Tips & Fixes for Smooth Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-installation-hurdles-for-an-uninterrupted-experience-in-tiny-tinas-realm/"><u>Overcoming Installation Hurdles for an Uninterrupted Experience in Tiny Tina's Realm</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launch-failures-in-palworld-expert-advice-needed/"><u>Overcoming Launch Failures in Palworld – Expert Advice Needed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overwatch-fixed-graphics-driver-issues-no-more-crashes/"><u>Overwatch: Fixed Graphics Driver Issues - No More Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-problems-with-the-best-fixes-for-stray-not-working/"><u>Solve Your Problems with the Best Fixes for Stray Not Working</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-gaming-resolving-complete-horizon-forbidden-west-gameplay-disruptions-on-desktop-computers/"><u>Trouble-Free Gaming: Resolving Complete Horizon Forbidden West Gameplay Disruptions on Desktop Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valorant-graphics-error-resolved-rapid-remedies-for-your-graphic-driver-crashes/"><u>Valorant Graphics Error Resolved: Rapid Remedies for Your Graphic Driver Crashes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-advanced-strategies-for-saving-vr-gameplay-moments/"><u>2024 Approved Advanced Strategies for Saving VR Gameplay Moments</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-edge-video-cutting-techniques-to-boost-engagement/"><u>2024 Approved Instagram Edge Video Cutting Techniques to Boost Engagement</u></a></li>
+<li><a href="https://app-tips.techidaily.com/apples-leap-into-advanced-cybersecurity-an-inside-look-at-the-new-os-designed-for-artificial-intelligence-data-centers/"><u>Apple's Leap Into Advanced Cybersecurity: An Inside Look at the New OS Designed for Artificial Intelligence Data Centers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-pc-stability-problems-solutions-uncovered/"><u>Baldur's Gate 3 PC Stability Problems – Solutions Uncovered!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-muse-writing-captivating-poems-with-artificial-intelligence/"><u>ChatGPT as Your Muse: Writing Captivating Poems with Artificial Intelligence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/definitive-steps-for-repairing-persistent-ps4-hanging-problems/"><u>Definitive Steps for Repairing Persistent PS4 Hanging Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-streaming-speed-strategies-to-tackle-spotify-web-player-slowdowns-this-year/"><u>Enhancing Streaming Speed: Strategies to Tackle Spotify Web Player Slowdowns This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-prevent-starcraft-ii-from-crashing-on-your-windows-computer/"><u>Fixing the Issue: How to Prevent StarCraft II From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/how-does-the-fitbit-charge-3-hold-up-against-competitors/"><u>How Does the Fitbit Charge 3 Hold Up Against Competitors?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-flight-simulator-2020-from-continuously-crashing/"><u>How to Stop Microsoft Flight Simulator 2020 From Continuously Crashing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-comparing-magix-music-maker-and-studio-max/"><u>In 2024, Comparing Magix Music Maker and Studio Max</u></a></li>
+<li><a href="https://win-answers.techidaily.com/insights-on-the-postponed-launch-of-assassins-creed-valhalla-explanation-unveiled/"><u>Insights on the Postponed Launch of Assassin's Creed Valhalla - Explanation Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994797541-insurgency-update-say-goodbye-to-those-frustrating-sandstorm-game-crashes/"><u>Insurgency Update: Say Goodbye to Those Frustrating Sandstorm Game Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-network-delays-and-optimize-connection-speed-for-back-4-blood-players/"><u>Overcome Network Delays & Optimize Connection Speed for Back 4 Blood Players</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nubia-z50s-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nubia Z50S Pro</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-best-text-voice-generators-for-all-platforms/"><u>The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-guide-install-wacom-intuos-nibs-on-windows-guaranteed-success/"><u>Ultimate Guide: Install Wacom Intuos Nibs on Windows – Guaranteed Success</u></a></li>
 </ul></div>
 

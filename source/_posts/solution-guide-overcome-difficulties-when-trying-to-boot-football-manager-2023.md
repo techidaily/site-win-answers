@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023"
-date: 2024-09-30T16:27:45.933Z
-updated: 2024-10-03T16:42:36.710Z
+date: 2024-10-07T18:06:53.060Z
+updated: 2024-10-09T01:22:11.434Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -43,36 +50,30 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 If it’s not your antivirus software, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -99,6 +100,13 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -118,10 +126,10 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 If this fix bring no luck, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
@@ -135,13 +143,6 @@ If this fix bring no luck, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -164,24 +165,21 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-best-low-cost-subtitles-and-downloader-companion/"><u>[New] In 2024, Best Low-Cost Subtitles & Downloader Companion</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/robing-into-youtube-discussions/"><u>[New] Probing Into YouTube Discussions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-detecting-invisible-interactions-on-snapchat-for-2024/"><u>[Updated] Detecting Invisible Interactions on Snapchat for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-converting-vimeo-selections-the-pathway-to-memorable-gifs/"><u>[Updated] In 2024, Converting Vimeo Selections The Pathway to Memorable GIFs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discover-engaging-youtube-threads/"><u>[Updated] In 2024, Discover Engaging YouTube Threads</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-adobe-cloud-insights-and-best-non-adobe-choices/"><u>2024 Approved Navigating Adobe Cloud, Insights & Best Non-Adobe Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-guide-overcoming-persistent-gameplay-issues-with-call-of-duty-vanguard-on-pc/"><u>2024 Guide: Overcoming Persistent Gameplay Issues with Call of Duty Vanguard on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-to-fix-recurring-issues-with-ark-software-performance/"><u>Effective Strategies to Fix Recurring Issues with ARK Software Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-repeated-fuster-crashes-on-your-desktop/"><u>How to Resolve Repeated Fuster Crashes on Your Desktop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-affordable-action-camera-choices-top-6-under-100/"><u>In 2024, Affordable ACTION Camera Choices – Top 6 Under $100</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-nokia-c22-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Nokia C22 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovative-browsing-strategies-with-picture-in-picture-mode-for-2024/"><u>Innovative Browsing Strategies with Picture-In-Picture Mode for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-d3d-driver-initiation-failures-fix-for-gta-v-errgfx-error/"><u>Overcoming D3D Driver Initiation Failures: Fix for GTA V ERR_GFX Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-hurdles-successful-steps-to-get-warzone-running-smoothly-again/"><u>Overcoming Hurdles: Successful Steps to Get Warzone Running Smoothly Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-fixing-the-easyais-anti-cheat-not-found-on-eac/"><u>Resolved Issue: Fixing the 'EasyAI's Anti-Cheat Not Found' On EAC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-hurdle-of-launching-steam-games-on-windows-11/"><u>Solved! Overcoming the Hurdle of Launching Steam Games on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-gzw-game-crashes-for-pc-users-tips-and-solutions/"><u>Troubleshooting GZW Game Crashes for PC Users - Tips & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-why-your-magic-character-creator-isnt-starting-up/"><u>Troubleshooting Steps: Why Your Magic Character Creator Isn't Starting Up</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/remnant-from-the-ashes-stability-issues-and-how-to-resolve-them/"><u>'Remnant: From The Ashes' Stability Issues and How to Resolve Them</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-subtitle-converters-reviewed-the-top-8-win-osx-sbt-to-srts-software/"><u>[Updated] Best Subtitle Converters Reviewed The Top 8 Win-OSX SBT to SRTS Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-ai-driven-video-title-strategy-for-maximum-impact/"><u>2024 Approved AI-Driven Video Title Strategy for Maximum Impact</u></a></li>
+<li><a href="https://solve-news.techidaily.com/abbyys-comprehensive-insights-on-the-advancements-in-smart-automation-trends/"><u>ABBYY's Comprehensive Insights on the Advancements in Smart Automation Trends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-preventing-and-resolving-gtfo-crash-issues/"><u>Comprehensive Guide to Preventing and Resolving GTFO Crash Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-tips-for-gif-creation/"><u>Essential Tips for GIF Creation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-76-optimized-gaming-strategies-to-combat-and-correct-gameplay-hiccups/"><u>Fallout 76 Optimized Gaming: Strategies to Combat and Correct Gameplay Hiccups</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-y77t-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo Y77t Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-monster-hunter-rise-not-launching-problems-easily/"><u>How To Fix Monster Hunter Rise Not Launching Problems Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-a-blocked-content-file-in-your-steam-library/"><u>How to Resolve a Blocked Content File in Your Steam Library</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-fixing-unresponsive-finals-with-these-insider-hacks/"><u>Master the Art of Fixing Unresponsive Finals with These Insider Hacks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-of-the-ambient-weather-ws-10002-wifi-monitor-excellent-features-with-high-pricing/"><u>Review of the Ambient Weather WS-10002 WiFi Monitor: Excellent Features with High Pricing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-patriot-ddr5-memory-maximizes-speed-at-up-to-ddr5-7200-independent-of-cpu-interface-integrity-and-enhances-overclocking-capabilities/"><u>Revolutionary Patriot DDR5 Memory Maximizes Speed at Up to DDR5-7200: Independent of CPU Interface Integrity and Enhances Overclocking Capabilities</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamless-steps-for-converting-dvd-content-for-editing-in-imovie-on-mac-computers/"><u>Seamless Steps for Converting DVD Content for Editing in iMovie on Mac Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-issues-with-windows-spotlight-feature-on-windows-11/"><u>Troubleshooting: Fixing Issues with Windows Spotlight Feature on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-constraints-5-key-factors-against-using-chatgpt-for-bitcoin-and-co/"><u>Understanding the Constraints: 5 Key Factors Against Using ChatGPT for Bitcoin & Co</u></a></li>
 </ul></div>
 

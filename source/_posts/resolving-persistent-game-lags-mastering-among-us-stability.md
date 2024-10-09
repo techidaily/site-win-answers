@@ -1,7 +1,7 @@
 ---
 title: "Resolving Persistent Game Lags: Mastering 'Among Us' Stability"
-date: 2024-09-30T17:48:00.267Z
-updated: 2024-10-03T17:28:20.682Z
+date: 2024-10-03T01:03:33.427Z
+updated: 2024-10-08T17:21:07.880Z
 tags:
   - win11
   - win10
@@ -41,28 +41,29 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will take several minutes. Simply wait for the process to complete. Once finished, click on the Play button and check if you can bypass the loading screen.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -73,6 +74,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -111,13 +119,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
@@ -125,10 +126,10 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
@@ -143,34 +144,15 @@ Here’s how to update drivers with Driver Easy:
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
@@ -178,10 +160,10 @@ Here’s how to update drivers with Driver Easy:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
@@ -209,22 +191,22 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-convenient-viewing-setting-up-youtube-on-large-tv-panels/"><u>[New] 2024 Approved Convenient Viewing Setting Up YouTube on Large TV Panels</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-intense-evaluation-the-detailed-study-of-bublcam-360/"><u>[New] Intense Evaluation The Detailed Study of Bublcam 360</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-reviewcast-analysis-for-2024/"><u>[New] ReviewCast Analysis for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-non-fbx-innovations-leading-the-way-in-gameplay-tracking/"><u>[Updated] In 2024, Non-FBX Innovations Leading the Way in Gameplay Tracking</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-elevate-screen-brilliance-for-android/"><u>2024 Approved Elevate Screen Brilliance for Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-hd-screenshots-for-mac-limit-156-chars/"><u>2024 Approved Essential HD Screenshots for Mac (Limit 156 Chars)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002123272-battlefield-5-no-longer-crashes-after-these-simple-steps-fixed/"><u>Battlefield 5 No Longer Crashes After These Simple Steps - Fixed!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-expert-tips-to-reduce-high-ping-while-playing-street-fighter-6-on-pc/"><u>Beat the Lag! Expert Tips to Reduce High Ping While Playing Street Fighter 6 on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-launch-failures-in-armored-core-vi-effective-solutions-for-gamers/"><u>Dealing with Launch Failures in Armored Core VI: Effective Solutions for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-remedies-to-stop-persistent-crashing-issues-with-pcs-thunder-tier-one-version/"><u>Effective Remedies to Stop Persistent Crashing Issues with PC's Thunder Tier One Version</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/embrace-tagalog-easily-quick-lessons-every-morning/"><u>Embrace Tagalog Easily - Quick Lessons Every Morning!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ring-8-truly-effective-video-marketing-strategies/"><u>Exploring 8 Truly Effective Video Marketing Strategies</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lenovo-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lenovo</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-gameplay-performance-for-codmw2-fixing-fps-issues-and-frame-rate-fluctuations/"><u>Optimizing Gameplay Performance for COD:MW2 – Fixing FPS Issues and Frame Rate Fluctuations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-continuous-freezing-and-crashing-on-pc-of-total-war-black-hearts/"><u>Solution Steps for Continuous Freezing & Crashing on PC of TOTAL WAR: BLACK HEARTS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-common-crash-problems-in-the-persona-nova-franchises-latest-release/"><u>Troubleshooting Common Crash Problems in the Persona Nova Franchise's Latest Release</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-common-issues-fixes-for-serious-sam-4-lag-and-freezing/"><u>Troubleshooting Common Issues: Fixes for Serious Sam 4 Lag and Freezing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-chromes-pinnacle-path-for-picking-and-packing-fb-vids/"><u>[New] In 2024, Chromes' Pinnacle Path for Picking and Packing Fb Vids</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-spectral-film-reset-guide/"><u>[New] Spectral Film Reset Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-a-closer-look-at-youtubes-unlisted-content-category/"><u>[Updated] 2024 Approved A Closer Look at YouTube’s ‘Unlisted’ Content Category</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-cutting-edge-free-audio-for-youtube-visionaries/"><u>[Updated] In 2024, Cutting-Edge Free Audio for YouTube Visionaries</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-stabilized-gimbals-reviewed-1-10-for-smartphone-and-pro-cameras/"><u>2024 Approved Best Stabilized Gimbals Reviewed #1-#10 for Smartphone and Pro Cameras</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-workflow-essential-wsl-2-strategies-for-dev-enthusiasts/"><u>Boost Your Workflow: Essential WSL 2 Strategies for Dev Enthusiasts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/civilization-6-launch-problems-solved-tips-for-windows-10-users/"><u>Civilization 6 Launch Problems Solved - Tips for Windows 10 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-code-to-smooth-play-how-to-stop-cod-vanguard-crashes-on-pc/"><u>Cracking The Code to Smooth Play - How To Stop CoD Vanguard Crashes on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-troubleshooting-tactics-to-prevent-team-fortress-2-from-crashing/"><u>Effective Troubleshooting Tactics to Prevent Team Fortress 2 From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-prevent-gta-v-from-crashing/"><u>Fixes and Solutions: How to Prevent GTA V From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immerse-yourself-in-open-world-adventure-play-yakuza-like-a-dragon-on-pc/"><u>Immerse Yourself in Open-World Adventure – Play Yakuza: Like A Dragon on PC!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990773004-sea-of-thieves-overcome-the-frustrating-loading-screen-issue/"><u>Sea of Thieves - Overcome the Frustrating Loading Screen Issue</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/secure-your-privacy-with-easy-to-follow-picscanner-methods-for-2024/"><u>Secure Your Privacy with Easy-to-Follow PicScanner Methods for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-frame-rate-drops-and-hitches-in-the-latest-game-releases/"><u>Solving Frame Rate Drops and Hitches in the Latest Game Releases</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-origin-application-not-starting-on-windows-11/"><u>Troubleshooting Steps for 'Origin' Application Not Starting on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-beatsaber-from-continuously-crashing/"><u>Troubleshooting Tips: Stop Beatsaber From Continuously Crashing</u></a></li>
 </ul></div>
 

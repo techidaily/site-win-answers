@@ -1,7 +1,7 @@
 ---
 title: "Disco Elysium PC Game Errors Resolved: Smooth Sailing Now"
-date: 2024-09-27T16:37:39.220Z
-updated: 2024-10-03T17:51:20.481Z
+date: 2024-10-01T20:15:06.976Z
+updated: 2024-10-08T17:44:13.743Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ When you double-click Discord but the program won’t open, it could be very fru
 7. [Reinstall the Discord](https://tools.techidaily.com/drivereasy/download/)  
 [Bonus: Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Kill Discord task
 
  You can probably fix this glitch by a simple restart. Kill the Discord task completely and relaunch it.
@@ -43,16 +50,16 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Launch Discord again. It should be open normally.
 
@@ -65,6 +72,13 @@ When you double-click Discord but the program won’t open, it could be very fru
  2) Then click**Time & Language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the right pane, turn on the button under**Set time automatically** .
 
@@ -85,10 +99,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.  
@@ -104,6 +118,13 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Restart Discord. It should open.
 
 ### Fix 5: Disable your proxies
@@ -115,51 +136,44 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Relaunch the Discord and it should open.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Flushing your DNS
 
@@ -171,13 +185,6 @@ If it doesn’t work, move to the next fix.
 
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
@@ -202,13 +209,6 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -269,14 +269,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficiently-downloading-youtube-sections-in-minutes/"><u>[New] In 2024, Efficiently Downloading YouTube Sections in Minutes</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-streaming-success-new-youtube-monetization-rules/"><u>[Updated] 2024 Approved Streaming Success New YouTube Monetization Rules</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-transform-spaces-and-elevate-brands-the-ultimate-apps-list-for-youtube-artistry/"><u>[Updated] In 2024, Transform Spaces & Elevate Brands The Ultimate Apps List for YouTube Artistry</u></a></li>
-<li><a href="https://fox-that.techidaily.com/8-fixes-for-an-iphone-stuck-in-headphone-mode/"><u>8 Fixes for an iPhone Stuck in Headphone Mode</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002374500-enhance-your-playtime-fixing-risk-of-rain-2-crash-errors-without-stress/"><u>Enhance Your Playtime - Fixing 'Risk of Rain 2' Crash Errors Without Stress</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-hyper-v-in-windows-10-enable-and-install-instructions-for-tech-enthusiasts/"><u>Mastering Hyper-V in Windows 10: Enable & Install Instructions for Tech Enthusiasts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-common-zoom-issues-could-you-be-the-culprit/"><u>Navigating Common Zoom Issues: Could You Be the Culprit?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-overcoming-steams-connection-failure-with-the-local-client-process/"><u>Resolved Issue: Overcoming Steam's Connection Failure with the Local Client Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-strategy-against-nba-2k24s-error-727e66ac-expert-tips-and-tricks-for-the-modern-gamer/"><u>Winning Strategy Against NBA 2K24's Error 727E66ac - Expert Tips and Tricks for the Modern Gamer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-cutting-corners-not-with-quality-square-video-creation-techniques/"><u>[New] In 2024, Cutting Corners? Not with Quality Square Video Creation Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-blueprints-livestream-and-log-sports-matches-effectively-for-2024/"><u>[New] Ultimate Blueprints Livestream & Log Sports Matches Effectively for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-movie-trailers/"><u>[Updated] 2024 Approved Best Movie Trailers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-capture-clarity-strip-away-background-noise/"><u>[Updated] Capture Clarity Strip Away Background Noise</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5yuv55s75ye65yqb6ycf5bqm44gm5ywd44gu44ot44oh44kq44ki44kk5asn44gn44gp6kal44gi44klieobneobrueqhueuseobrplusobkplusobhuoboooagg/"><u>動画出力速度が元のビデオより大きく見える!その理由はこうだ。</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fast-fancy-and-expensive-the-all-new-glion-dolly-e-scooter-explored-in-detail/"><u>Fast, Fancy and Expensive: The All-New Glion Dolly E-Scooter Explored in Detail</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-wrc-10-game-running-without-glitches-on-any-pc-setup-detailed-troubleshooting-guide/"><u>Get Your WRC 10 Game Running Without Glitches on Any PC Setup (Detailed Troubleshooting Guide)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-microsoft-edge-suddenly-closing-issue-in-windows-11-solution-found/"><u>How to Fix Microsoft Edge Suddenly Closing Issue in Windows 11 - Solution Found</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-non-responsive-nvidia-geforce-experience-overlay/"><u>How to Repair Non-Responsive Nvidia GeForce Experience Overlay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-game-crashes-effective-ways-to-keep-metro-exodus-running-smoothly-on-windows/"><u>No More Game Crashes: Effective Ways to Keep Metro Exodus Running Smoothly on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-fifa-20s-directx-issues-with-easy-solutions/"><u>Resolving FIFA 20'S DirectX Issues with Easy Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/secure-insta-wealth-with-our-safest-and-most-effective-tips/"><u>Secure Insta Wealth with Our Safest & Most Effective Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/swift-listening-on-spotify-how-to-accelerate-audio-safely-for-2024/"><u>Swift Listening on Spotify How to Accelerate Audio Safely for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-resolve-halo-infinite-stuttering-problems-on-pc-a-step-by-step-guide-includes-7-fixes/"><u>Troubleshoot and Resolve 'Halo Infinite' Stuttering Problems on PC - A Step-by-Step Guide (Includes 7 Fixes)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-user-profile-service-failed-errors-for-seamless-login-in-windows-1011/"><u>Troubleshooting 'User Profile Service Failed' Errors for Seamless Login in Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-battlefield-5-stutter-and-latency-issues/"><u>Ultimate Guide to Fixing Battlefield 5 Stutter and Latency Issues</u></a></li>
 </ul></div>
 

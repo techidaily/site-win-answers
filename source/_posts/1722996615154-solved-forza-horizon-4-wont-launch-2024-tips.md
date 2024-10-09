@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Forza Horizon 4 Won’t Launch | 2024 Tips"
-date: 2024-09-30T18:18:48.009Z
-updated: 2024-10-03T18:01:53.509Z
+date: 2024-10-04T19:22:42.625Z
+updated: 2024-10-08T22:07:14.986Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -101,37 +108,43 @@ If your issue persists, then move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_15-58-21-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click your**USB’s name** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-00-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**ReadyBoost tab** , then select**Do not use this device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Disconnect**all USB devices** you don’t need from your PC.
 
@@ -159,31 +172,11 @@ Here is how to check and close programs you’re running:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-34.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click the process you want to end and select **End task** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-42.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Try launching your game to test your issue.
 
@@ -198,10 +191,10 @@ If your issue continues to occur, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-53-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
@@ -213,16 +206,10 @@ If your issue continues to occur, move on and try the fix below.
 If your issue persists, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstalling your game
@@ -232,6 +219,13 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 **1)** On your keyboard, press the**Windows logo key** and type**Forza Horizon 4** . Then, right-click**Forza Horizon 4** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Uninstall** .
 
@@ -262,20 +256,19 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-depth-screen-capturing-a-resourceful-guide-for-dell-users-for-2024/"><u>[New] In-Depth Screen Capturing A Resourceful Guide for Dell Users for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-youtube-videos-directly/"><u>[Updated] 2024 Approved Download YouTube Videos Directly</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-how-to-edit-the-length-of-a-video-on-youtube/"><u>[Updated] 2024 Approved How to Edit the Length of a Video on YouTube</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/emium-yoga-channels-for-ultimate-fitness-journey/"><u>10 Premium Yoga Channels for Ultimate Fitness Journey</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-for-windows-solving-frequent-crashes-guide/"><u>Baldur's Gate 3 for Windows - Solving Frequent Crashes Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-sony-xperia-5-v-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Sony Xperia 5 V has native MOV support?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-your-computers-screen-turning-black-on-zoom-webinars-and-meetings-updated-2e-guide-2024/"><u>Expert Tips to Resolve Your Computer's Screen Turning Black on Zoom Webinars and Meetings (Updated 2E Guide, 2024)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-magic5-ultimate-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor Magic5 Ultimate Face Lock?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-eliminate-stuttering-and-lag-in-rainbow-six-siege/"><u>How To Eliminate Stuttering and Lag in Rainbow Six Siege</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-fixing-left-4-dead-2-game-crashes/"><u>Resolved: Troubleshooting Guide for Fixing Left 4 Dead 2 Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-the-ubisoft-connect-issue/"><u>Resolved: Troubleshooting Steps for the 'Ubisoft Connect' Issue</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-thumbnail-process-for-2024/"><u>Streamline Your YouTube Thumbnail Process for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/surviving-the-continuum-strategies-for-overcoming-the-black-lives-matter-challenges/"><u>Surviving the Continuum: Strategies for Overcoming the 'Black Lives Matter' Challenges</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-essential-adobe-premiere-pro-extensions-free-and-paid-options/"><u>Updated Essential Adobe Premiere Pro Extensions Free & Paid Options</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-100-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 100 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rimming-tips-select-the-top-5-url-shrinkers-for-youtube/"><u>[New] Trimming Tips Select the Top 5 URL Shrinkers for YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-reaction-reel-a-comprehensive-guide-for-23/"><u>[Updated] Twitter's Reaction Reel A Comprehensive Guide for '23</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-realistic-3d-text-designs-in-photoshop/"><u>2024 Approved Crafting Realistic 3D Text Designs in Photoshop</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-itel-p55-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Itel P55 Phone Screen?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-conveniently-enjoy-nba-games-top-15-streaming-methods/"><u>In 2024, Conveniently Enjoy NBA Games - Top 15 Streaming Methods</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-kitchen-kings-and-queens-crown-your-channel-with-a-name/"><u>In 2024, Kitchen Kings & Queens Crown Your Channel With a Name</u></a></li>
+<li><a href="https://win-answers.techidaily.com/innovative-design-unveiled-comprehensive-analysis-of-the-amd-powered-lenovo-thinkpad-z13-gen-2-laptop/"><u>Innovative Design Unveiled: Comprehensive Analysis of the AMD Powered Lenovo ThinkPad Z13 Gen 2 Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-the-making-of-the-iconic-3d-pipes-screen-saver-a-development-journey/"><u>Inside the Making of the Iconic 3D Pipes Screen Saver: A Development Journey</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-speedy-wireless-adapter-software-with-our-simple-guide/"><u>Install Speedy Wireless Adapter Software with Our Simple Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/integrating-qr-codes-into-microsofts-windows-startup-interface/"><u>Integrating QR Codes Into Microsoft's Windows Startup Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/introducing-the-arc-browser-a-stunning-new-competitor-to-chrome-for-windows-users/"><u>Introducing the Arc Browser: A Stunning New Competitor to Chrome for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-ipv6-related-security-flaw-affects-windows-desktop-computers/"><u>Latest IPv6-Related Security Flaw Affects Windows Desktop Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lenovo-ideapad-3-15-inch-i7-gtx-1660-ti-in-depth-analysis-of-an-affordable-powerhouse-for-gamers/"><u>Lenovo IdeaPad 3 15-Inch (I7, GTX 1660 Ti) - In-Depth Analysis of an Affordable Powerhouse for Gamers</u></a></li>
 </ul></div>
 

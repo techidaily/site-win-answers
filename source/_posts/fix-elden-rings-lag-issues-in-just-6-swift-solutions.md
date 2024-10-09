@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2024-10-01T17:27:52.416Z
-updated: 2024-10-03T18:08:05.289Z
+date: 2024-10-07T22:22:37.602Z
+updated: 2024-10-08T18:45:20.068Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -73,28 +80,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -120,15 +114,15 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -148,10 +142,16 @@ And here’s how you can make sure your system is the latest:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -177,17 +177,21 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-evaluating-frame-rates-the-decision-on-30-vs-60hz-for-2024/"><u>[New] Evaluating Frame Rates The Decision on 30 Vs. 60Hz for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-7-creative-video-concepts-to-boost-your-fitness-channel/"><u>[New] In 2024, 7 Creative Video Concepts to Boost Your Fitness Channel</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-ultimate-list-10-relaxing-game-hits/"><u>2024 Approved Ultimate List 10 Relaxing Game Hits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-the-hassle-effective-strategies-for-repairing-the-winwordexe-application-glitches/"><u>Bypass the Hassle: Effective Strategies for Repairing the WINWORD.EXE Application Glitches</u></a></li>
-<li><a href="https://review-topics.techidaily.com/compact-convenient-and-cable-ready-discover-how-sabrents-travel-mouse-redefines-portability-and-accuracy/"><u>Compact, Convenient, and Cable-Ready: Discover How Sabrent's Travel Mouse Redefines Portability and Accuracy</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-solve-windows-update-error-code-0x802/"><u>How to Solve Windows Update Error Code 0X802</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/instant-guide-to-severing-gpt-ties/"><u>Instant Guide to Severing GPT Ties</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-waiting-fixing-player-connection-troubles-for-faster-game-searches-in-cod-warzone/"><u>No More Waiting: Fixing Player Connection Troubles for Faster Game Searches in COD Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-the-issue-of-starfield-not-launching-on-steam-or-xbox/"><u>Troubleshooting Guide: Solving the Issue of Starfield Not Launching on Steam or Xbox</u></a></li>
-<li><a href="https://techidaily.com/1723808215753-unlock-the-secrets-of-your-digital-footprint-find-your-ip-for-free-now/"><u>Unlock the Secrets of Your Digital Footprint: Find Your IP for Free Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-the-secrets-of-color-balance-in-gopro-videos/"><u>[Updated] Unlock the Secrets of Color Balance in GoPro Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-solving-error-0xc0000005/"><u>Black Ops Cold War Troubleshooting Guide - Solving Error 0Xc0000005</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-your-youtube-presence-key-tips-for-popularity-for-2024/"><u>Boosting Your YouTube Presence Key Tips for Popularity for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-xiaomi-redmi-13c-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Xiaomi Redmi 13C.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/explore-the-depth-of-detroid-consciousness-the-ultimate-guide-to-fluid-gaming-performance-on-pc/"><u>Explore the Depth of Detroid Consciousness – The Ultimate Guide to Fluid Gaming Performance on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-an-unresponsive-oculus-link-screen-6-rapid-remedies/"><u>Fixing an Unresponsive Oculus Link Screen - 6 Rapid Remedies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010013535-house-flipper-2-stability-issues-heres-how-to-ensure-smooth-running-on-windows-systems/"><u>House Flipper 2 Stability Issues? Here's How to Ensure Smooth Running on Windows Systems!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-13-ultra-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2022-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE (2022) to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-x7-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Oppo Find X7 Phone Without Password?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-warzone-stuttering-on-pc-pro-tips-and-tricks/"><u>Overcome Warzone Stuttering on PC - Pro Tips & Tricks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-simple-convert-your-dvds-into-mp4-videos-using-the-powerful-winx-dvd-ripper-on-windows/"><u>Quick and Simple: Convert Your DVDs Into MP4 Videos Using the Powerful WinX DVD Ripper on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-problems-resolving-valheims-intermittent-lag-and-hitches/"><u>Troubleshooting PC Problems: Resolving Valheim's Intermittent Lag and Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-csgo-startup-issues/"><u>Troubleshooting Steps for Resolving CS:GO Startup Issues</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-easy-steps-to-translate-video-on-twitter/"><u>Updated In 2024, Easy Steps to Translate Video on Twitter</u></a></li>
 </ul></div>
 

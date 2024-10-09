@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2024-09-28T18:09:10.670Z
-updated: 2024-10-03T17:49:09.699Z
+date: 2024-10-06T21:26:02.254Z
+updated: 2024-10-08T22:39:06.630Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
@@ -94,18 +101,18 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -114,13 +121,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
  1) Log in Steam and click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Right-click **Path of Exile** and select **Properties** .
 
@@ -131,10 +131,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Once complete, exit Steam and reopen it. Run PoE and wait to see if it keeps crashing.
@@ -153,6 +153,13 @@ In case this fix didn’t help, please move on to Fix 4.
  Then, on the **Processes** tab, locate**Path of Exile** in the list of processes, right-click on it, and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
@@ -173,22 +180,15 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
@@ -197,10 +197,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
@@ -231,24 +231,22 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-pixel-pro-complimentary-photo-beautification-for-smartphones/"><u>[New] Pixel Pro Complimentary Photo Beautification for Smartphones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/x-user-management-101-deciding-the-right-time-and-reasons-to-stop-following-someone/"><u>[X] User Management 101: Deciding the Right Time & Reasons to Stop Following Someone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-news-compilation-services-our-picks-s-standouts/"><u>Best News Compilation Services: Our Picks 'S Standouts</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/drive-more-visitors-with-our-cutting-edge-cookiebot-technology/"><u>Drive More Visitors with Our Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-persistent-issues-with-thunder-tier-one-stability-improvements-for-pc-users/"><u>Eliminating Persistent Issues with Thunder TIER One - Stability Improvements for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-hack-troubleshooting-the-anticheat-connection-error/"><u>Escape From Tarkov Hack: Troubleshooting the Anticheat Connection Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-stability-problems-with-escape-from-tarkov-on-your-personal-computer/"><u>Expert Advice: Overcoming Stability Problems with 'Escape From Tarkov' On Your Personal Computer</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/1722749772093-horizon-hours-exploring-auto-advancements-through-reading-book-five-of-fourth-series/"><u>Horizon Hours - Exploring Auto Advancements Through Reading, Book Five of Fourth Series!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-chromebooks-finest-free-video-capturers/"><u>In 2024, Chromebooks' Finest Free Video Capturers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-turning-youtube-media-on-its-head/"><u>In 2024, The Art of Turning YouTube Media on Its Head</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-seamless-gaming-in-v-rising-solving-stutter-issues-on-your-pc/"><u>Mastering the Art of Seamless Gaming in V Rising: Solving Stutter Issues on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/oculus-link-screen-issues-6-fast-fixes-to-bring-back-your-vr-experience/"><u>Oculus Link Screen Issues? 6 Fast Fixes to Bring Back Your VR Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-game-crashing-centipede-error-in-destiny/"><u>Overcoming the Game-Crashing Centipede Error in Destiny</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-oppo-a18-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Oppo A18</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-steam-login-issues-a-step-by-step-guide/"><u>Resolved: Fixing Steam Login Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/sending-your-creativity-soaring-pc-and-mac-tiktok-video-posts-for-2024/"><u>Sending Your Creativity Soaring PC & Mac TikTok Video Posts for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-ark-survival-adventure-pc-game-crashes-using-these-9-effective-fixes/"><u>Solve Your ARK: Survival Adventure PC Game Crashes Using These 9 Effective Fixes!</u></a></li>
-<li><a href="https://win11.techidaily.com/the-secret-of-masking-windows-11s-search-icon/"><u>The Secret of Masking Windows 11'S Search Icon</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-starts-problems-with-fall-guys-tips-and-solutions/"><u>Troubleshooting Starts Problems with Fall Guys – Tips & Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-15-pioneering-online-education-websites-beyond-udemy-for-2024/"><u>[Updated] 15 Pioneering Online Education Websites Beyond Udemy for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-elevating-execution-the-fonts-of-after-effects-for-2024/"><u>[Updated] Elevating Execution The Fonts of After Effects for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-professional-insights-io-screen-capturing-demystified-for-2024/"><u>[Updated] Professional Insights IO Screen Capturing Demystified for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-comprendre-la-politique-de-confidentialite-chez-movavi-protection-et-securite-des-donnees/"><u>1. Comprendre La Politique De Confidentialité Chez Movavi : Protection Et Sécurité Des Données</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/accelerate-task-management-in-windows/"><u>Accelerate Task Management in Windows</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-photo-editing-canvas-backdrop-eradication-for-2024/"><u>Advanced Photo Editing Canvas Backdrop Eradication for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/chrome-to-iphone-a-guide-to-stripping-youtube-ads/"><u>Chrome to iPhone A Guide to Stripping YouTube Ads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-image-orientation-tips-for-easy-rotating-photos-on-windows-11/"><u>Mastering Image Orientation: Tips for Easy Rotating Photos on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-storage-on-your-linux-virtualbox-efficiently-free-up-drive-space/"><u>Maximize Storage on Your Linux VirtualBox: Efficiently Free Up Drive Space</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-storage-a-step-by-step-guide-to-reclaiming-hard-drive-space-from-old-gaming-installations/"><u>Maximize Storage: A Step-by-Step Guide to Reclaiming Hard Drive Space From Old Gaming Installations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-your-storage-with-windows-11s-strong-push-towards-onedrive/"><u>Maximizing Your Storage with Windows 11'S Strong Push Towards OneDrive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-chromes-security-hurdle-a-guide-to-unblocking-file-downloads/"><u>Overcoming Chrome's Security Hurdle: A Guide to Unblocking File Downloads</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/protecting-your-digital-life-how-google-chromes-update-127-combats-cyber-threats-with-advanced-malware-protection/"><u>Protecting Your Digital Life: How Google Chrome's Update 127 Combats Cyber Threats with Advanced Malware Protection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/public-information-campaigns/"><u>Public Information Campaigns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/review-of-razers-portable-usb-c-station-an-ideal-choice-for-traveling-pc-gamers/"><u>Review of Razer's Portable USB-C Station - An Ideal Choice for Traveling PC Gamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-x-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone X Before the Plan Expires</u></a></li>
 </ul></div>
 

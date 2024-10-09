@@ -1,7 +1,7 @@
 ---
 title: Roblox Not Working? Get It Running Again in Minutes with These 6 Fixes - New Tips
-date: 2024-09-11T05:45:51.251Z
-updated: 2024-09-12T05:45:51.251Z
+date: 2024-10-02T19:15:26.790Z
+updated: 2024-10-08T19:17:02.835Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/f0dbd5a21adf0257efb4cfc535a5b1745bbe68be5
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -49,20 +46,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -78,28 +61,28 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Change in-game settings
 
@@ -111,39 +94,18 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118313/7443" target="_top" id="2118313">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118313" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118313/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
@@ -153,19 +115,12 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 7) Run the game to check.
 
@@ -180,20 +135,6 @@ If it’s not working, move to the next fix.
  2) In the**Process** tab, click the app and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
@@ -213,8 +154,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,12 +161,19 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways-for-2024/"><u>[New] Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-twitter-broadcast-alive-tweets-guide/"><u>[Updated] In 2024, Mastering Twitter Broadcast Alive Tweets Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-mastering-the-art-of-unfollow-a-compilation-of-essential-tools/"><u>[Updated] Mastering the Art of Unfollow A Compilation of Essential Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ascending-to-greatness-why-the-dji-mavic-2-pro-is-the-go-to-choice-among-seasoned-videographers/"><u>Ascending to Greatness: Why the DJI Mavic 2 Pro Is the Go-To Choice Among Seasoned Videographers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-your-play-troubleshooting-techniques-for-reducing-delays-in-half-life-alyx-pc/"><u>Enhancing Your Play: Troubleshooting Techniques for Reducing Delays in Half Life: Alyx (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-fixing-the-problems-of-an-unresponsive-msi-dragon-center/"><u>Expert Advice: Fixing the Problems of an Unresponsive MSI Dragon Center</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-maximizing-gameplay-smoothness-by-fixing-frames-per-second-fps-issues-on-desktop-computers/"><u>Expert Tips for Maximizing Gameplay Smoothness by Fixing Frames Per Second (FPS) Issues on Desktop Computers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-severe-dev-issue-in-activisions-battlefield-game-series/"><u>How to Resolve Severe Dev Issue in Activision's Battlefield Game Series</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-close-up-views-in-roblox-games-for-2024/"><u>Mastering Close-Up Views in Roblox Games for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-for-stabilizing-your-fluctuating-usb-connections/"><u>Step-by-Step Tutorial for Stabilizing Your Fluctuating USB Connections</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-non-functional-nvidia-gaming-features/"><u>Troubleshooting Steps for Non-Functional Nvidia Gaming Features</u></a></li>
+</ul></div>
 

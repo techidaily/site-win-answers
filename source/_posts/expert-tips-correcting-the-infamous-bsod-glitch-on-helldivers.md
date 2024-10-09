@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️"
-date: 2024-09-29T17:28:20.297Z
-updated: 2024-10-03T16:15:03.435Z
+date: 2024-10-06T00:37:36.631Z
+updated: 2024-10-08T16:20:34.297Z
 tags:
   - win11
   - win10
@@ -41,16 +41,10 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
  Before we dive into anything advanced, please try to restart the game and your PC to see if it’s a random one-time error.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check Destiny 2 server status
@@ -72,18 +66,18 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
 If you still get the Error Centipede, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Choose NAT Type 1/Open NAT
 
  When you get the Error Centipede on Destiny 2, you’ll need to make sure your connection is not restricted and can connect to Destiny 2 servers. It’s recommended to set your NAT to Type 1/Open for a stable connection to Destiny servers.
 
  NAT is short for Network Address Translation. Put simply, it operates on your router and allows a single IP address to represent all the devices on your private network. To configure your NAT settings, you’ll either need to enable UPnP or set up Port Forwarding. It’s usually recommended to**try only one method** , unless the first one doesn’t work for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Enable UPnP
 
@@ -93,6 +87,14 @@ If you still get the Error Centipede, try the next fix.
 2. Type in**cmd** , then press**Shift** and**Enter** to run the command prompt with admin permissions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig** , then press**Enter** . Copy the address of your**default gateway** as we’ll need them for the next steps.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
 
@@ -114,10 +116,16 @@ You can now test a game to see if you still get the Centipede Error.
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
@@ -129,18 +137,19 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
 
 #### Step 3: Set up Port Forwarding
@@ -178,13 +187,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -199,6 +201,13 @@ You can now test a game to see if you still get the Centipede Error.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. Here for example, I can update the graphics driver on my PC as well. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -208,13 +217,6 @@ You can now test a game to see if you still get the Centipede Error.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. If this doesn’t solve the Error Centipede for you, try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Use a VPN when your Internet access is restricted
 
@@ -251,19 +253,15 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mastering-gifs-leading-platforms-reviewed/"><u>[New] Mastering GIFs Leading Platforms Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-guide-top-10-steps-for-instructors-on-youtube-channels-for-2024/"><u>[Updated] Essential Guide Top 10 Steps for Instructors on YouTube Channels for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-essential-guide-to-apple-podcasts-transferring/"><u>[Updated] The Essential Guide to Apple Podcasts Transferring</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998377854-destiny-navigating-the-challenges-of-beyond-light-launch-crash-fixes-on-pc-here-are-solutions/"><u>Destiny Navigating the Challenges of Beyond Light Launch Crash Fixes on PC? Here Are Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhance-your-online-presence-using-manycam-top-tier-live-video-platform-and-digital-webcam/"><u>Enhance Your Online Presence Using ManyCam - Top-Tier Live Video Platform & Digital Webcam</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ensure-smooth-operation-of-your-hp-deskjet-3700-with-fresh-printer-drivers-free-download/"><u>Ensure Smooth Operation of Your HP DeskJet 3700 with Fresh Printer Drivers - Free Download</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-to-resolve-freezing-glitches-in-the-latest-assassins-creed-odyssey-pc-game-insights-from-2024/"><u>Expert Advice to Resolve Freezing Glitches in the Latest Assassin's Creed Odyssey PC Game - Insights From 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-repair-persistent-crashes-in-risk-of-rain-2/"><u>How to Repair Persistent Crashes in Risk of Rain ^2</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic5-ultimate-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic5 Ultimate To Phone | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-zoom-performance-the-ultimate-guide-to-curbing-high-cpu-usage/"><u>Optimize Zoom Performance: The Ultimate Guide to Curbing High CPU Usage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-steam-vr-headsets-invisibility-with-these-6-tips/"><u>Resolve Your Steam VR Headset's Invisibility with These 6 Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/speedy-streams-start-here-snapchat-for-starters-for-2024/"><u>Speedy Streams Start Here Snapchat for Starters for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022)</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-prodigy-vs-creative-hub-beta-edition/"><u>YouTube Prodigy Vs. Creative Hub Beta Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-dominate-facebook-traffic-with-innovative-video-strategies-for-2024/"><u>[New] Dominate Facebook Traffic with Innovative Video Strategies for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-giggle-o-meter-rising-top-tiktok-joke-threads-for-laughter/"><u>[New] Giggle-O-Meter Rising Top TikTok Joke Threads for Laughter</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premium-home-cinema-picks-for-best-3d-blu-ray-systems/"><u>[Updated] Premium Home Cinema Picks for Best 3D Blu-Ray Systems</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/cash-creation-hacks-for-snapchat-users-for-2024/"><u>Cash Creation Hacks for Snapchat Users for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-glitches-for-an-enhanced-experience-with-detroit-human-evolution-navigated-successfully/"><u>Resolving PC Glitches for an Enhanced Experience with Detroit: Human Evolution Navigated Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-for-when-deathloop-crashes-or-freezes-on-your-gaming-console/"><u>Step-by-Step Fixes for When Deathloop Crashes or Freezes on Your Gaming Console</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-repair-unresponsive-apps-on-your-mac-computer/"><u>Step-by-Step Guide to Repair Unresponsive Apps on Your Mac Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tales-of-arise-overcoming-ue4-crashes-and-fixing-common-mistakes/"><u>Tales of Arise: Overcoming UE4 Crashes and Fixing Common Mistakes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-clearing-up-helldivers-2s-startup-black-screen-problem/"><u>Troubleshooting Steps for Clearing Up Helldivers 2'S Startup Black Screen Problem</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-narzo-n55-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme Narzo N55? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

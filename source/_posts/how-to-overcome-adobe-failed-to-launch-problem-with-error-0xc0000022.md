@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Adobe Failed to Launch' Problem with Error 0xC0000022
-date: 2024-09-28T16:29:32.789Z
-updated: 2024-10-03T18:50:11.369Z
+date: 2024-10-02T20:04:38.395Z
+updated: 2024-10-08T19:59:58.774Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 2. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Run Epic Games Launcher and Fortnite as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: **Update your device drivers**
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -47,22 +54,15 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -84,16 +84,16 @@ Here is how to verify the integrity of Fortnite:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Fortnite to see if it launches properly. If yes, then congrats! If the issue still remains, please try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
@@ -106,10 +106,10 @@ Here is how to run Epic Games Launcher as administrator:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
@@ -145,24 +145,24 @@ Here is how to run Epic Games Launcher as administrator:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-efficiently-priced-flight-machines-affordable-drones-list-for-2024/"><u>[New] Efficiently Priced Flight Machines Affordable Drones List for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-art-of-preserving-instagram-live-moments/"><u>[New] Mastering the Art of Preserving Instagram Live Moments</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-master-voice-customization-on-ps-playstation-devices/"><u>[Updated] 2024 Approved Master Voice Customization on PS PlayStation Devices</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-soundscapes-synopsis-a-guide-to-visual-tunes-for-2024/"><u>[Updated] Soundscapes Synopsis A Guide to Visual Tunes for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-search-engine-optimization-for-podcasts/"><u>2024 Approved Mastering the Art of Search Engine Optimization for Podcasts</u></a></li>
-<li><a href="https://network-issues.techidaily.com/card-changes-cause-onyx-outcome/"><u>Card Changes Cause Onyx Outcome</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-eliminating-black-screen-glitches-for-good/"><u>Expert Advice: Eliminating Black Screen Glitches for Good</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-fortnite-errors-regain-your-right-to-play-after-a-permission-hurdle/"><u>Fixing Fortnite Errors: Regain Your Right to Play After a Permission Hurdle</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-cyberpunk-2077-disruption-issues-on-windows-complete-solution/"><u>How to Fix Cyberpunk 2077 Disruption Issues on Windows - Complete Solution</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-tecno-pova-5-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Tecno Pova 5 Pro to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/identifying-individuals-who-liked-your-instagram-post-a-step-by-step-guide/"><u>Identifying Individuals Who Liked Your Instagram Post: A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-k70-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi K70 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/masterclass-on-resolving-teardown-collapses-comprehensive-expert-guidelines/"><u>Masterclass on Resolving Teardown Collapses: Comprehensive Expert Guidelines</u></a></li>
-<li><a href="https://win-answers.techidaily.com/obs-microphone-not-working-discover-the-6-most-effective-solutions-of-2024/"><u>OBS Microphone Not Working? Discover the 6 Most Effective Solutions of 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/problem-with-final-fantasy-xiv-checking-for-latest-patch-and-updates/"><u>Problem with Final Fantasy XIV Checking for Latest Patch and Updates</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-nvidia-shield-malfunction/"><u>Resolved Nvidia Shield Malfunction</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-modern-warfare-3-flaw-fixing-memory-issue-code-12707/"><u>Resolved: Modern Warfare 3 Flaw - Fixing Memory Issue Code 12707</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-steps-to-correct-and-prevent-black-screen-glitch-in-epic-games-platform/"><u>Resolved: Steps to Correct and Prevent Black Screen Glitch in Epic Games Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-internet-explorer-has-stopped-responding-errors-a-step-by-step-guide/"><u>Resolving 'Internet Explorer Has Stopped Responding' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-deterrence-against-distractive-fb-video-ads/"><u>2024 Approved Deterrence Against Distractive FB Video Ads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-pure-audio-pazera-free-tool-review/"><u>2024 Approved The Path to Pure Audio Pazera Free Tool Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-frame-rate-drop-out-and-system-freezes-in-serious-sam-4-for-gaming-enthusiasts/"><u>Addressing Frame Rate Drop-Out & System Freezes in Serious Sam 4 for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-pc-boot-problems-for-warzone-20-a-step-by-step-fix-guide/"><u>Bypass PC Boot Problems for Warzone 2.0 - A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/enhanced-visuals-with-mac-and-windows-editing-aid/"><u>Enhanced Visuals with Mac & Windows Editing Aid</u></a></li>
+<li><a href="https://win-answers.techidaily.com/everspace-ii-pc-stability-effective-ways-to-overcome-game-crashes-and-enjoy-uninterrupted-gaming/"><u>Everspace II PC Stability: Effective Ways to Overcome Game Crashes and Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-metro-exodus-from-crashing-your-pc/"><u>Fixes & Solutions: How to Stop Metro Exodus From Crashing Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-graphics-glitches-overcoming-the-errgfxstate-on-red-dead-redemption-2/"><u>Fixing Graphics Glitches: Overcoming the ERR_GFX_STATE on Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-stability-improved-in-latest-patch-for-left-4-dead-2/"><u>Game Stability Improved in Latest Patch for Left 4 Dead 2</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/harmonizing-hit-hits-building-the-perfect-youtube-soundtrack/"><u>Harmonizing Hit Hits Building the Perfect YouTube Soundtrack</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-nfl-20-pc-game-crashing-issues-solution-guide/"><u>How to Fix Madden NFL 20 PC Game Crashing Issues - Solution Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-google-pixel-8-pro-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Google Pixel 8 Pro Without PUK Codes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-my-discord-lagging-because-of-a-global-glitch-or-is-it-just-me/"><u>Is My Discord Lagging Because of a Global Glitch, or Is It Just Me?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/professional-edge-in-instagram-videos-with-green-screen-tech/"><u>Professional Edge in Instagram Videos with Green Screen Tech</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-problem-why-your-snap-camera-wont-detect-a-source/"><u>Resolved Problem: Why Your Snap Camera Won't Detect a Source</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-code-red-step-by-step-guide-to-solve-warzones-dev-error-5573-on-pc-and-consoles/"><u>Resolving Code Red: Step-by-Step Guide to Solve Warzone's Dev Error 5573 on PC and Consoles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transform-video-discoverability-essential-seo-tips-for-yt-for-2024/"><u>Transform Video Discoverability Essential SEO Tips for YT for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook/"><u>Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-youre-not-experiencing-crashes-anymore-overwatch-and-your-updated-drivers/"><u>Why You're Not Experiencing Crashes Anymore - Overwatch and Your Updated Drivers</u></a></li>
 </ul></div>
 

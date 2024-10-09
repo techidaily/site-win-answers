@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enhancing Stability in Diablo Immortal on Your Computer (Updated)"
-date: 2024-09-27T17:28:12.465Z
-updated: 2024-10-03T18:25:02.790Z
+date: 2024-10-02T23:25:34.149Z
+updated: 2024-10-08T16:18:27.588Z
 tags:
   - win11
   - win10
@@ -44,10 +44,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
@@ -59,6 +59,13 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
  If you don’t remember when was the last time you updated your drivers, definitely do it now.
 
 There’re mainly two ways you can update your graphics drivers:
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -96,6 +103,13 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -104,13 +118,6 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -118,6 +125,13 @@ Or
  If a patch is available, it will be detected by Epic Games launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -133,16 +147,10 @@ Or
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
@@ -155,13 +163,6 @@ Or
 
  If this issue persists after you stopped overclocking, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Repair Epics Games launcher
 
  A Total War Saga: Troy may crash if there is something wrong with Epic Games launcher. To fix the game crashing issue due to Epics Games launcher, just try this fix.
@@ -171,13 +172,6 @@ Or
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
@@ -216,15 +210,22 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-breaking-down-youtube-promotion-costs/"><u>[New] In 2024, Breaking Down Youtube Promotion Costs</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels/"><u>[New] In 2024, The Ultimate List 8 Key Steps for Irresistible Unboxing Reels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unified-webcamscreen-capture-strategies/"><u>[New] Unified Webcam/Screen Capture Strategies</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-capturing-online-seminars/"><u>[Updated] In 2024, Capturing Online Seminars</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-glitch-discover-the-best-8-strategies-to-keep-multiversus-running-smoothly/"><u>Beat the Glitch: Discover the Best 8 Strategies to Keep MultiVersus Running Smoothly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/could-conversational-ai-be-your-lifesaver-in-the-wild/"><u>Could Conversational AI Be Your Lifesaver In The Wild?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-considerations-before-buying-the-perfect-smartwatch-top-5-insights/"><u>Essential Considerations Before Buying the Perfect Smartwatch - Top 5 Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-minecraft-launch-problems-efficiently/"><u>Expert Tips for Fixing Minecraft Launch Problems Efficiently</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012773379-how-to-successfully-start-far-cry-n6-on-your-pc-no-more-worry/"><u>How To Successfully Start Far Cry N6 on Your PC – No More Worry!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-deathloop-stutter-and-lag-on-both-pc-and-ps5-platforms/"><u>Troubleshooting Tips for Resolving Deathloop Stutter and Lag on Both PC and PS5 Platforms</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-captivating-startups-discovering-the-best-15-video-intros/"><u>[New] 2024 Approved Captivating Startups Discovering the Best 15 Video Intros</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-design-signature-symbols-use-free-templates-no-copyright/"><u>[New] Design Signature Symbols - Use Free Templates, No Copyright</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fixing-failed-video-uploads-on-facebook-live-features/"><u>[Updated] In 2024, Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/comprehensive-guide-to-choosing-between-winx-dvd-ripper-and-handbrake-best-reviews/"><u>Comprehensive Guide to Choosing Between WinX DVD Ripper and HandBrake - Best Reviews</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-ts-files-into-hd-mp4-in-record-time-a-comprehensive-guide/"><u>Convert .ts Files Into HD Mp4 in Record Time: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-eboom-fix-unlocking-and-utilizing-your-graphics-card-on-windows-10-players/"><u>Cyberpunk Eboom-Fix: Unlocking and Utilizing Your Graphics Card on Windows 10 Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-and-resolve-paladins-game-crashes-advanced-tips-and-tricks-for-a-smooth-gaming-experience-202e/"><u>Decode and Resolve Paladins Game Crashes: Advanced Tips & Tricks for a Smooth Gaming Experience (202E)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-sims-4-graphics-glitch-a-comprehensive-guide/"><u>Fixing The Sims 4 Graphics Glitch: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-restore-gpeditmsc-access-on-your-windows-home-pc/"><u>How To Restore gpedit.msc Access on Your Windows Home PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-valorant-from-continuously-crashing-on-your-pc-guide/"><u>How to Stop Valorant From Continuously Crashing on Your PC - Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-xr21-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Nokia XR21 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993947101-monster-hunter-rise-not-initializing-here-are-the-solutions/"><u>Monster Hunter Rise Not Initializing? Here Are the Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-garrys-mod-disruptions-proven-methods-to-prevent-crashes/"><u>Say Goodbye to Garry's Mod Disruptions: Proven Methods to Prevent Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-icloud-inboxes-effortlessly-with-two-stage-authentification-procedures/"><u>Secure Your iCloud Inboxes Effortlessly With Two-Stage Authentification Procedures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fix-stop-warcraft-3-reforged-from-crashing-your-pc/"><u>Step-by-Step Fix: Stop Warcraft 3 Reforged From Crashing Your PC</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essentials-navigating-whatsapp-call-functionality-for-2024/"><u>The Essentials Navigating WhatsApp Call Functionality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-fix-the-graphic-driver-crash-in-valorant-easily-guide/"><u>Troubleshoot and Fix the Graphic Driver Crash in Valorant Easily [Guide]</u></a></li>
 </ul></div>
 

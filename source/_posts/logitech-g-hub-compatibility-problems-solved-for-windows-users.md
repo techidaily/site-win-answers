@@ -1,7 +1,7 @@
 ---
 title: Logitech G Hub Compatibility Problems Solved for Windows Users
-date: 2024-09-26T16:15:57.933Z
-updated: 2024-10-03T18:05:10.143Z
+date: 2024-10-02T21:04:33.785Z
+updated: 2024-10-09T00:57:10.274Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 4. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the game as an administrator
 
  In some cases, Windows may not give your game the necessary permissions to work as it should. This might result in the game not starting or running properly. Enabling the option to run AoE 2 as an administrator may help:
@@ -51,13 +44,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-2.jpg)
@@ -67,19 +53,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 **4)** Right-click**Steam icon** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-27-44.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
@@ -109,6 +82,13 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
  Or click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -116,10 +96,10 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -127,10 +107,10 @@ If AoE still won’t launch, move on and try the fix below.
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
@@ -143,6 +123,13 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
@@ -152,13 +139,6 @@ If AoE still won’t launch, move on and try the fix below.
  This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Relaunch _AoE2_ to test your issue.
 
@@ -179,9 +159,29 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
 
@@ -195,27 +195,27 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-51-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Age of Empires** , then**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
@@ -264,14 +264,20 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-tv-essentials-step-by-step-upload-guide/"><u>[New] 2024 Approved Instagram TV Essentials Step-by-Step Upload Guide</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-silent-blocks-troubleshooting-no-audio-in-minecraft-on-your-computer/"><u>Fixing Silent Blocks: Troubleshooting No Audio in Minecraft on Your Computer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-mp4-to-oggvorbis-movavi/"><u>Free Online Converter: MP4 to OGG/Vorbis - Movavi</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-infinix-smart-8-pro-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-top-25-instagram-hashtags-to-get-more-likes-and-followers/"><u>In 2024, Top 25 Instagram Hashtags to Get More Likes and Followers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-rocket-league-patch-eliminates-freezing-issues-for-players/"><u>Latest Rocket League Patch Eliminates Freezing Issues for Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012504129-trouble-with-black-screens-in-far-cry-6-heres-how-to-fix-it/"><u>Trouble with Black Screens in Far Cry 6? Here's How to Fix It!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-audio-troubles-in-halo-infinity-step-by-step/"><u>Ultimate Fixes for Audio Troubles in Halo Infinity - Step by Step</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-az-video-grabber-in-depth-app-analysis-and-diversions/"><u>[New] AZ Video Grabber In-Depth App Analysis & Diversions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-elevate-your-gaming-yt-presence-a-hashtag-focused-manual-for-2024/"><u>[Updated] Elevate Your Gaming YT Presence A Hashtag-Focused Manual for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-integrating-annotations-for-enhanced-engagement/"><u>2024 Approved Integrating Annotations for Enhanced Engagement</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/common-issues-and-solutions-reviving-your-samsung-bd-player/"><u>Common Issues & Solutions: Reviving Your Samsung BD Player</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/convertir-gratuitement-des-fichiers-tga-en-jpeg-en-ligne-movavi/"><u>Convertir Gratuitement Des Fichiers TGA en JPEG en Ligne - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cortana-malfunctioning-heres-what-you-need-to-know/"><u>Cortana Malfunctioning? Here's What You Need to Know</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rim-and-enhance-youtube-editing-tips-for-the-rookie/"><u>Cut, Trim & Enhance YouTube Editing Tips for the Rookie</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-the-red-dead-redemption-2-wont-start-error/"><u>Expert Advice on Fixing the 'Red Dead Redemption 2 Won't Start' Error</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-a54-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy A54 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-your-gameplay-frame-rate-expert-tips-for-increasing-fps-in-tainted-grail-conquest/"><u>Maximizing Your Gameplay Frame Rate: Expert Tips for Increasing FPS in Tainted Grail - Conquest</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rainbow-six-extraction-crash-fix-optimizing-gameplay-on-your-computer-system/"><u>Rainbow Six Extraction Crash Fix - Optimizing Gameplay on Your Computer System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/respiratory-protection/"><u>Respiratory Protection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-new-world-connection-issue-a-comprehensive-guide/"><u>Solving the New World Connection Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-minecraft-not-launching-issues/"><u>Troubleshooting Guide: Solving 'Minecraft Not Launching' Issues</u></a></li>
 </ul></div>
 

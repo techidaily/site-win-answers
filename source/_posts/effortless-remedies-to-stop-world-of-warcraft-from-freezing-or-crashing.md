@@ -1,7 +1,7 @@
 ---
 title: Effortless Remedies to Stop World of Warcraft From Freezing or Crashing
-date: 2024-10-01T18:25:15.826Z
-updated: 2024-10-03T16:53:09.114Z
+date: 2024-10-03T22:59:48.367Z
+updated: 2024-10-09T00:28:49.732Z
 tags:
   - win11
   - win10
@@ -67,22 +67,15 @@ thumbnail: https://thmb.techidaily.com/a874c93816ae423dda167fa7dc747b04dfff15b3d
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run Scan and Repair for your game
 
@@ -97,15 +90,22 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable DVR app in Xbox
 
@@ -120,22 +120,15 @@ Here’s what you can do:
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
@@ -148,6 +141,13 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
@@ -174,21 +174,21 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-cross-platform-soundtrack-strategy-for-facebook-profiles/"><u>[New] In 2024, Cross-Platform Soundtrack Strategy for Facebook Profiles</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-free-lut-strategies-for-enhancing-ar-experiences/"><u>[Updated] 2024 Approved Free LUT Strategies for Enhancing AR Experiences</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-virtual-broadcast-battleground-obs-versus-shadowgl/"><u>[Updated] 2024 Approved Virtual Broadcast Battleground OBS Versus ShadowGL</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-premium-stabilizers-iphone-android-and-professional-choices-1-10/"><u>2024 Approved Premium Stabilizers IPhone, Android, and Professional Choices #1-10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ashen-crash-fixed-swift-and-simple-solutions/"><u>Ashen Crash Fixed: Swift and Simple Solutions!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-release-date-delay-what-the-developers-had-to-say/"><u>Assassin's Creed Valhalla Release Date Delay: What the Developers Had to Say</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-chivalry-crashing-fix-your-game-experience-with-our-expert-guidance-no-more-frustrations/"><u>Beat Chivalry ˈCrashing': Fix Your Game Experience with Our Expert Guidance - No More Frustrations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-naraka-point-blades-stutter-a-comprehensive-guide/"><u>How to Fix Naraka: Point Blades Stutter - A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-honor-x50-gt-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Honor X50 GT</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-master-the-art-of-garnering-more-facebook-fans/"><u>In 2024, Master the Art of Garnering More Facebook Fans</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-fixes-for-cod-black-ops-cold-war-error-code-80070057-problems/"><u>Mastering Fixes for COD: Black Ops Cold War Error Code 80070057 Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-woes-heres-how-to-stop-apex-legends-from-crashing-unexpectedly/"><u>PC Gaming Woes? Here's How to Stop Apex Legends From Crashing Unexpectedly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-pc-issues-for-a-seamless-destiny-2-playthrough/"><u>Resolved PC Issues for a Seamless Destiny 2 Playthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-high-latency-issues-ultimate-guide-to-improve-your-ping-in-back-4-blood/"><u>Resolving High Latency Issues: Ultimate Guide to Improve Your Ping in Back 4 Blood</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-audio-software-performance-on-windows-with-error-9999/"><u>Streamlining Audio Software Performance on Windows with Error 9999</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-zte-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on ZTE Phones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-meta-to-omni-a-new-age-digital-odyssey-guide/"><u>[New] From Meta to Omni A New Age Digital Odyssey Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-key-to-online-success-mastering-backlink-construction/"><u>[Updated] 2024 Approved The Key to Online Success Mastering Backlink Construction</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-videotwitter-audible-direct-download/"><u>2024 Approved VideoTwitter Audible Direct Download</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-amplification-for-online-photo-archiving-for-2024/"><u>Audio Amplification for Online Photo Archiving for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-crippling-0xc00n-error-on-your-cod-black-ops-cold-war-gameplay/"><u>Bypassing the Crippling 0Xc00n Error on Your COD Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/choosing-the-optimal-power-source-for-advanced-drones-for-2024/"><u>Choosing the Optimal Power Source for Advanced Drones for 2024</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-steps-for-acquiring-every-asce-webinar-session-in-video-mp4-and-audio-mp3-formats/"><u>Easy Steps for Acquiring Every ASCE Webinar Session in Video (MP4) & Audio (MP3) Formats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-honor-magic5-ultimate-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-when-dealing-with-persistent-crashes-in-nox-player-for-windows/"><u>Effective Solutions When Dealing With Persistent Crashes in Nox Player for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-easily-correcting-directx-problems-in-fifa-19/"><u>Master the Art of Easily Correcting DirectX Problems in FIFA 19</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-dota-2-connectivity-issues-expert-advice-from-2024/"><u>Overcoming Dota 2 Connectivity Issues - Expert Advice From 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revive-the-sound-expert-tips-for-repairing-a-non-functional-clownfish-vocal-effect-device/"><u>Revive the Sound: Expert Tips for Repairing a Non-Functional Clownfish Vocal Effect Device</u></a></li>
+<li><a href="https://games-able.techidaily.com/seamless-sound-headphones-and-playstation-5/"><u>Seamless Sound: Headphones & PlayStation 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-resolve-persistent-issues-with-days-gone-crashing-release/"><u>Steps to Resolve Persistent Issues with Days Gone Crashing Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/swift-troubleshooting-guide-for-non-functioning-steamvr/"><u>Swift Troubleshooting Guide for Non-Functioning SteamVR</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-lava-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Lava Device</u></a></li>
 </ul></div>
 

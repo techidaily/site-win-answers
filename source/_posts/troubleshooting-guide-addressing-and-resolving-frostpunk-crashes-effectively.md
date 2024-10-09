@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing and Resolving Frostpunk Crashes Effectively"
-date: 2024-10-01T17:37:38.038Z
-updated: 2024-10-03T16:39:12.963Z
+date: 2024-10-05T00:00:01.117Z
+updated: 2024-10-08T22:44:43.354Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -72,24 +79,18 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-24-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable your antivirus temporarily
 
@@ -98,19 +99,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  If disabling your antivirus resolves the issue, consider contacting the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -132,6 +120,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Run your game in compatibility mode
 
  Incompatibility with Windows updates can lead to game crashes. If you experience crashes after updating Windows, try running Risk of Rain 2 in compatibility mode:
@@ -146,23 +141,9 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue has been resolved.
 
@@ -181,44 +162,25 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Under**View by** , select**Category.** Then, select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-53-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Right-click**Steam** , and then click**Uninstall** .
@@ -226,10 +188,10 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -238,9 +200,23 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
 
@@ -265,17 +241,17 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-pivotal-8-image-packs-for-elevated-mac-aesthetics/"><u>[Updated] Pivotal 8 Image Packs for Elevated Mac Aesthetics</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-key-industry-figures-transforming-vr-gaming/"><u>2024 Approved Key Industry Figures Transforming VR Gaming</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/boosting-pc-gaming-performance-turn-off-mouse-acceleration-on-windows-11/"><u>Boosting PC Gaming Performance: Turn Off Mouse Acceleration on Windows 11</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-xiaomi-civi-3-disney-100th-anniversary-edition-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Xiaomi Civi 3 Disney 100th Anniversary Edition support MKV video files?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-correct-the-detected-graphics-driver-issues-in-oculus-devices/"><u>Easy Steps to Correct the Detected Graphics Driver Issues in Oculus Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-dayz-experience-immediate-fixes-for-framerate-drops-and-tips/"><u>Elevate Your DayZ Experience - Immediate Fixes for Framerate Drops & Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-itel-a60-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Itel A60 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-fetch-and-set-up-new-hp-officejet-pro-8620-driver-versions-for-windows-computers/"><u>How to Fetch and Set Up New HP OfficeJet Pro 8620 Driver Versions for Windows Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashes-in-the-insurgency-sandstorm-update/"><u>How to Fix Continuous Crashes in the Insurgency: Sandstorm Update</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-transform-your-speech-access-to-no-cost-voice-manipulation-tools/"><u>In 2024, Transform Your Speech Access to No-Cost Voice Manipulation Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-12-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/success-story-restoring-functionality-to-a-broken-hp-screen/"><u>Success Story: Restoring Functionality to a Broken HP Screen</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-apps-to-modify-your-voice-on-commute/"><u>[New] 2024 Approved Best Apps to Modify Your Voice on Commute</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-press-record-with-just-one-click-on-win11-for-2024/"><u>[Updated] Press 'Record' With Just One Click on Win11 for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/asfmpeg-movavi-asfmpeg/"><u>互聯網上免費的ASF到MPEG媒体文件轉換器 - Movavi ASF至MPEG編解碼器</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-installation-hurdles-steps-to-get-minecraft-up-and-running-on-windows-11-systems/"><u>Beat Installation Hurdles: Steps to Get Minecraft Up and Running on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cant-access-steam-remote-play-here-are-effective-solutions-for-you/"><u>Can't Access Steam Remote Play? Here Are Effective Solutions for You</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-to-overcome-internet-explorers-service-unavailable-errors/"><u>Comprehensive Solutions to Overcome Internet Explorer's 'Service Unavailable' Errors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-7-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-frequent-exiting-of-v-rising-game-while-playing-on-your-computer/"><u>How To Fix Frequent Exiting of V Rising Game While Playing on Your Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-the-connection-failed-in-minecraft-dilemam/"><u>Solution Guide: Overcoming the 'Connection Failed in Minecraft' Dilemam</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-good-in-gathering-unpacking-9-benefits-of-social-engagement/"><u>The Good in Gathering: Unpacking 9 Benefits of Social Engagement</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/unleash-your-creative-potential-capture-lifes-moments-with-manycam-for-seamless-livestream-and-virtual-background-experiences/"><u>Unleash Your Creative Potential: Capture Life's Moments with ManyCam for Seamless Livestream and Virtual Background Experiences</u></a></li>
 </ul></div>
 

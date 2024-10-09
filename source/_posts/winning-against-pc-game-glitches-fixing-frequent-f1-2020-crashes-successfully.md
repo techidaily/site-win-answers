@@ -1,7 +1,7 @@
 ---
 title: "Winning Against PC Game Glitches: Fixing Frequent F1 2020 Crashes Successfully"
-date: 2024-09-30T17:37:38.500Z
-updated: 2024-10-03T18:22:45.878Z
+date: 2024-10-05T20:47:05.240Z
+updated: 2024-10-08T19:27:03.944Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
@@ -62,22 +62,15 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -91,6 +84,13 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
@@ -98,6 +98,13 @@ Game crashing issues might happen when your game files are corrupted.
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -122,13 +129,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -149,6 +149,13 @@ If the crash still occurs, go ahead with the next fix.
 3) Turn down everything as low as possible.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
 
@@ -187,10 +194,10 @@ If Phasmophobia crashing issues persist, try the next fix below.
 If the problem still exists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
@@ -204,19 +211,6 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -237,14 +231,21 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-ideal-mac-tools-to-record-your-workscreen/"><u>[New] Ideal Mac Tools to Record Your Workscreen</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-why-the-samsung-galaxy-tab-s5e-reigns-as-an-android-tablet-king/"><u>Comprehensive Review: Why the Samsung Galaxy Tab S5e Reigns as an Android Tablet King</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-logitech-driving-simulator-for-windows-7-8-and-10-systems/"><u>Download & Setup Guide: Logitech Driving Simulator for Windows 7, 8 and 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-warzone-how-to-enable-gpu-usage-in-windows-10/"><u>Fixing Warzone: How to Enable GPU Usage in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-combat-discord-performance-problems-the-definitive-2024-solution/"><u>How To Combat Discord Performance Problems - The Definitive 2024 Solution</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-c12-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s24plus-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy S24+ to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/photoautotrophs-produce-their-own-food-using-sunlight-while-heterotrophs-must-consume-other-organisms-for-energy/"><u>Photoautotrophs Produce Their Own Food Using Sunlight, While Heterotrophs Must Consume Other Organisms for Energy.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002955049-titanfall-2-continuously-crashes-fix-it-fast-with-these-simple-solutions/"><u>Titanfall 2 Continuously Crashes? Fix It Fast with These Simple Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-social-media-gurus-handbook-accelerating-your-path-to-viral-success-on-instagram/"><u>[New] 2024 Approved The Social Media Guru's Handbook Accelerating Your Path to Viral Success on Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-how-to-quickly-capture-iphone-screens-on-the-fly/"><u>[Updated] In 2024, How to Quickly Capture iPhone Screens on the Fly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-instant-social-interaction-tweetplusfb-guide/"><u>[Updated] In 2024, Instant Social Interaction Tweet+FB Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/code-combatants-unite-defeating-dev-error-n-2024-mw-black-ops-cold-war-warzone-insights/"><u>Code Combatants Unite! Defeating Dev Error N 2024: MW (Black Ops Cold War) - Warzone Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-resolve-dayz-fps-dips-or-hitches/"><u>Effortless Solutions to Resolve DayZ FPS Dips or Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exclusive-insight-the-fix-to-the-notorious-destiny-anguishing-centipede-problem/"><u>Exclusive Insight: The Fix to the Notorious Destiny Anguishing Centipede Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-getting-your-google-chrome-to-open-after-a-persistent-problem/"><u>Expert Tips for Getting Your Google Chrome to Open After a Persistent Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ghost-recon-breakpoint-stability-swift-solutions-to-avoid-game-disruptions/"><u>Ghost Recon Breakpoint Stability: Swift Solutions to Avoid Game Disruptions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985559033-how-to-fix-cod-black-ops-cold-war-error-code-887a0005-instantly/"><u>How to Fix COD Black Ops Cold War Error Code 887A0005 Instantly!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-a25-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy A25 5G FRP</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-to-successful-instant-sharing-online/"><u>In 2024, Unveiling the Secrets to Successful Instant Sharing Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Apple iPhone 15? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-htc-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock HTC Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-linking-your-facebook-page-with-pinterest-for-enhanced-engagement/"><u>Step-by-Step Tutorial: Linking Your Facebook Page with Pinterest for Enhanced Engagement</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/surprising-features-and-tricks-uncover-hidden-functions-of-the-steam-platform/"><u>Surprising Features & Tricks: Uncover Hidden Functions of the Steam Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ping-issues-for-a-smoother-experience-in-bless-unleashed-on-pc/"><u>Troubleshooting Ping Issues for a Smoother Experience in Bless Unleashed on PC</u></a></li>
 </ul></div>
 

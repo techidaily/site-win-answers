@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: When Rainbow Six Siege Refuses to Start"
-date: 2024-09-29T18:13:23.805Z
-updated: 2024-10-03T17:54:47.232Z
+date: 2024-10-05T01:18:22.015Z
+updated: 2024-10-08T19:55:39.053Z
 tags:
   - win11
   - win10
@@ -66,11 +66,26 @@ Century: Age of Ashes system requirements
 2. **Right-click** on **Century: Age of Ashes** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -102,16 +117,10 @@ Century: Age of Ashes system requirements
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -140,13 +149,6 @@ Century: Age of Ashes system requirements
 3. Restart Windows to apply changes.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -181,17 +183,17 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -211,36 +213,23 @@ If this fix didn’t work, try the next fix, below.
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** Windows OS and launch Century: Age of Ashes to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -275,19 +264,22 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-premier-video-call-alternatives-zooms-rivalry-explained/"><u>[Updated] In 2024, Premier Video Call Alternatives Zoom's Rivalry Explained</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-use-of-analytics/"><u>[Updated] In 2024, Use of Analytics</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-sdk-innovations-for-android-the-updated-rankings-of-facebook-video-downloading-tools/"><u>[Updated] SDK Innovations for Android The Updated Rankings of Facebook Video Downloading Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-obspluszoom-creating-a-flawless-production-workflow/"><u>2024 Approved OBS+Zoom Creating a Flawless Production Workflow</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-avatar-gaming-experience-solutions-for-low-frames-per-second/"><u>Boost Your Avatar Gaming Experience: Solutions for Low Frames per Second</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-reasons-why-ready-or-not-keeps-malfunctioning-on-personal-computers/"><u>Common Reasons Why 'Ready or Not' Keeps Malfunctioning on Personal Computers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-change-xiaomi-redmi-k70-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Xiaomi Redmi K70 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-get-davinci-resolve-opening-properly-on-your-windows-computer-again/"><u>How to Get DaVinci Resolve Opening Properly on Your Windows Computer Again</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Lava Blaze 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-androids-best-music-video-apps/"><u>In 2024, The Ultimate List of Android's Best Music Video Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-game-star-wars-jedi-fallen-order-running-perfectly-on-personal-computers-now/"><u>Mastering the Game: Star Wars Jedi: Fallen Order Running Perfectly on Personal Computers Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-windows-compatibility-problems-with-your-ds4-controller-fix-here/"><u>Overcoming Windows Compatibility Problems With Your DS4 Controller (Fix Here!)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-critical-game-integrity-breach-alert-error/"><u>Resolved: Critical Game Integrity Breach Alert Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-total-war-three-kingdoms-unresponsive-screens/"><u>Step-by-Step Solution for Total War: Three Kingdoms Unresponsive Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-free-capture-precision-best-apps-for-windows-desktop-recording/"><u>[Updated] In 2024, Free Capture Precision Best Apps for Windows Desktop Recording</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-pc-installation-obstacles-in-battlefield-4-gameplay/"><u>Expert Tips: Overcoming PC Installation Obstacles in Battlefield 4 Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-destiny-2-black-screen-issues/"><u>Fix Destiny 2 Black Screen Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-fixing-gta-5-startup-issues/"><u>Fixes for Fixing GTA 5 Startup Issues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/how-the-amazonbasics-flat-tv-antenna-delivers-cost-free-entertainment-a-comprehensive-review/"><u>How the AmazonBasics Flat TV Antenna Delivers Cost-Free Entertainment - A Comprehensive Review</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-oppo-reno-10-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-the-futures-past-digital-conversion-for-timeless-images/"><u>In 2024, Crafting the Future's Past Digital Conversion for Timeless Images</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-unveiling-the-secrets-to-crafting-perfect-slug-lines/"><u>In 2024, Unveiling the Secrets to Crafting Perfect Slug Lines</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-find-n3frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo Find N3FRP Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-eliminating-crashes-in-risk-of-rain-2-a-comprehensive-guide/"><u>Master Tips: Eliminating Crashes in Risk of Rain 2 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-windows-11-barriers-effective-solutions-for-running-minecraft/"><u>Overcome Windows 11 Barriers: Effective Solutions for Running Minecraft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-the-dreaded-error-code-0xc19001e1-a-comprehensive-guide-for-windows-11-users/"><u>Solve the Dreaded Error Code 0Xc19001e1: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-process-of-amd-driver-update-for-various-windows-oses/"><u>Step-by-Step Process of AMD Driver Update for Various Windows OSes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-resolving-steam-and-xbox-launch-errors-in-stardew-valley/"><u>Troubleshooting Guide for Resolving Steam and Xbox Launch Errors in Stardew Valley</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-chrome-browser-cant-load-websites/"><u>Troubleshooting: Why Your Chrome Browser Can't Load Websites</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726226787063-ogg-aac-movavi/"><u>필기: 영구 공간에서 단순성을 위해 OGG AAC 데이터를 자유롭게 전환하는 방법 - Movavi</u></a></li>
 </ul></div>
 

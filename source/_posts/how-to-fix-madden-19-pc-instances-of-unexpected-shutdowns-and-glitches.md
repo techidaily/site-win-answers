@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2024-09-26T16:46:03.572Z
-updated: 2024-10-03T18:57:55.246Z
+date: 2024-10-02T22:36:06.064Z
+updated: 2024-10-08T23:18:46.691Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 3. [Update your video driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable overlays for your game
 
@@ -68,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  Your problem still persists, don’t worry. There are other solutions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
@@ -102,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 Now launch Dark Souls 3 and see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
@@ -109,13 +123,6 @@ Now launch Dark Souls 3 and see if it works.
  Be sure to set the resolution to the same resolution of your monitor. Also set**Effects quality** ,**Shadow quality** , and**Light quality** to**LOW** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you can’t access the in-game settings, try this:
 
@@ -133,18 +140,18 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -156,27 +163,20 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -203,18 +203,22 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-a-step-by-step-guide-for-sharing-camera-roll-pictures-on-snapchat/"><u>[New] In 2024, A Step by Step Guide for Sharing Camera Roll Pictures on Snapchat</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-legal-free-fb-tunes-downloader-for-2024/"><u>[New] Legal, Free FB Tunes Downloader for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-recording-rivals-meet/"><u>[New] Recording Rivals, Meet</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook/"><u>[Updated] In 2024, Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-mobile-tech-how-to-record-your-snapchat-content-for-2024/"><u>[Updated] Unlocking Mobile Tech How to Record Your Snapchat Content for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/defeat-the-dying-light-lag-demon-expert-tips-and-techniques/"><u>Defeat the Dying Light Lag Demon – Expert Tips and Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-division-2-crashes-for-good-a-speed-demonstration-of-fixes/"><u>End Division 2 Crashes for Good - A Speed Demonstration of Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/heart-of-iron-4-woes-no-more-expert-tips-on-handling-persistent-crashing-issues/"><u>Heart of Iron 4 Woes No More: Expert Tips on Handling Persistent Crashing Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-se-2020-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone SE (2020) to Use USB Accessories Without Passcode</u></a></li>
-<li><a href="https://win-answers.techidaily.com/instantly-fix-the-repeated-app-crash-issue-step-by-step-guide/"><u>Instantly Fix the Repeated App 'Crash' Issue - Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/1719355454943-opera-installer-dilemma-on-windows-solutions-now/"><u>Opera Installer Dilemma on Windows - Solutions Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-tackling-frame-rate-dips-and-latency-issues-in-call-of-duty-black-ops-4/"><u>Resolved: Tackling Frame Rate Dips & Latency Issues in Call of Duty: Black Ops 4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012370815-windows-10-users-can-finally-enjoy-civilization-6-without-startup-issues-how-to-get-there/"><u>Windows 10 Users Can Finally Enjoy Civilization 6 Without Startup Issues! How to Get There.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-break-bot-patterns-enhance-organic-video-reach-for-2024/"><u>[New] Break Bot Patterns, Enhance Organic Video Reach for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-leading-social-media-hash-tracking-software-for-fb-tweet-and-insta/"><u>[New] In 2024, Leading Social Media Hash Tracking Software for FB, Tweet & Insta</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-titanfall-2-fps-drops-quickly-and-easily/"><u>[SOLVED] Titanfall 2 FPS Drops | Quickly & Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-of-e-commerce-sites-for-one-of-a-kind-boxed-gifts/"><u>[Updated] Exclusive List of E-Commerce Sites for One-of-a-Kind Boxed Gifts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-step-by-step-guide-fixing-dolby-atmos-sound-problems-on-modern-windows-systems/"><u>A Step-By-Step Guide: Fixing Dolby Atmos Sound Problems on Modern Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-pc-version-fixed-errors-and-now-running-smoothly/"><u>Destiny 2 PC Version: Fixed Errors & Now Running Smoothly</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>In 2024, Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increase-your-fps-on-fallout-76-a-comprehensive-guide-players/"><u>Increase Your FPS on Fallout 76: A Comprehensive Guide Players</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-data-integrity-in-adaptive-chatgpt-systems/"><u>Maintaining Data Integrity in Adaptive ChatGPT Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/realme-c51-video-recovery-recover-deleted-videos-from-realme-c51-by-fonelab-android-recover-video/"><u>Realme C51 Video Recovery - Recover Deleted Videos from Realme C51</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-fall-guys-game-crashes-on-startup-troubleshooting-tips/"><u>Resolving 'Fall Guys' Game Crashes on Startup: Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003115957-star-wars-battlefront-2-hacked-beat-error-code-327-with-this-ultimate-fix-tutorial/"><u>Star Wars Battlefront 2 Hacked? Beat Error Code 327 with This Ultimate Fix Tutorial!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-motorola-moto-g04-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Motorola Moto G04 Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-when-amd-radeon-software-wont-launch/"><u>Troubleshooting Steps: Resolving Issues When AMD Radeon Software Won't Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/water-and-tech-collide-does-iphone-15-pro-max-hold-up-against-splashes-and-dips/"><u>Water and Tech Collide: Does iPhone 15 Pro Max Hold Up Against Splashes and Dips?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-glitches-effective-solutions-to-fallout-3-game-freezes-on-windows-11/"><u>Winning Against Glitches: Effective Solutions to 'Fallout 3' Game Freezes on Windows 11</u></a></li>
 </ul></div>
 

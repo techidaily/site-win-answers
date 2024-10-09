@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unfixable? Your Comprehensive Solution for Nioh ˈt͡ʃeɪnɪŋ Problems
-date: 2024-10-01T16:04:14.118Z
-updated: 2024-10-03T17:46:35.415Z
+date: 2024-10-07T19:52:45.052Z
+updated: 2024-10-09T00:20:17.788Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/9f1310fb04eb76846ce94c2831da468762b7226e2
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -48,14 +55,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
- If this trick doesn’t give you luck, take a look at the next one below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this trick doesn’t give you luck, take a look at the next one below.
 
 ### Fix 2: Update your graphics driver
 
@@ -77,6 +84,19 @@ Here’s how you can check the file integrity on Steam:
 
  If the latest video driver doesn’t help you, check out the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -85,18 +105,18 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -107,16 +127,10 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Replace game files with a fan-made patch
@@ -128,21 +142,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -157,13 +164,6 @@ Here’s how you can check the file integrity on Steam:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -186,21 +186,17 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-discovering-the-magic-behind-youtube-shorts/"><u>[New] In 2024, Discovering the Magic Behind Youtube Shorts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-perfecting-your-images-with-cleared-backdrops/"><u>[Updated] Perfecting Your Images with Cleared Backdrops</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-toolkit-for-elevating-your-podcast-through-seo/"><u>[Updated] The Ultimate Toolkit for Elevating Your Podcast Through SEO</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-step-guide-fixing-the-tracking-difficulties-on-a-magic-mouse/"><u>A Step-by-Step Guide: Fixing The Tracking Difficulties on a Magic Mouse</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722989997474-alien-fireteam-elite-ultimate-solution-for-persistent-pc-game-crashes/"><u>Alien Fireteam Elite - Ultimate Solution for Persistent PC Game Crashes!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/dive-deep-comprehensive-tutorial-for-launching-a-product-vlog-channel/"><u>Dive Deep Comprehensive Tutorial for Launching a Product Vlog Channel</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-pro-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze Pro 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-merge-avi-videos-with-ease-10-best-free-software-options/"><u>New Merge AVI Videos with Ease 10 Best Free Software Options</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-start-guide-overcoming-common-fortnite-loading-difficulties/"><u>Quick-Start Guide: Overcoming Common Fortnite Loading Difficulties</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003488539-resolved-how-to-fix-adobe-after-effects-crashing-issues-on-windows-11-and-10/"><u>Resolved: How to Fix Adobe After Effects Crashing Issues on Windows 11 and 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionary-wraps-transforming-virtual-reality-play/"><u>Revolutionary Wraps Transforming Virtual Reality Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-pc-issues-with-these-fixes-for-far-cry-6-crashes/"><u>Say Goodbye to PC Issues with These Fixes for Far Cry 6 Crashes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-deployed-resolving-past-online-login-difficulties/"><u>Solution Deployed: Resolving Past Online Login Difficulties</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-error-code-0xc19001e1-on-windows-10-step-by-step-guide/"><u>Solving Error Code 0xC19001E1 on Windows 10: Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/step-by-step-scripture-melodies-on-your-phone/"><u>Step-by-Step Scripture Melodies on Your Phone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-constant-crashes-in-guilty-gear-strive-on-windows/"><u>Troubleshooting Steps to Resolve Constant Crashes in Guilty Gear Strive on Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-charting-the-future-the-next-gen-youtube-festivals-for-2024/"><u>[Updated] Charting the Future The Next Gen Youtube Festivals for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-chortlechaos-dive-deep-into-meme-genesis/"><u>[Updated] ChortleChaos Dive Deep Into Meme Genesis</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-maximizing-facebook-fame-8-premier-apps-for-like-boosting/"><u>[Updated] In 2024, Maximizing Facebook Fame 8 Premier Apps for Like Boosting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/back-4-blood-wont-open-here-are-the-solutions-for-all-your-windows-needs/"><u>Back 4 Blood Won't Open? Here Are the Solutions for All Your Windows Needs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995062191-fixes-for-persistent-diablo-3-game-crashes-resolved/"><u>Fixes for Persistent Diablo 3 Game Crashes - Resolved!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-xiaomi-redmi-note-13-proplus-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Xiaomi Redmi Note 13 Pro+ 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increase-gameplay-speed-the-best-methods-to-boost-arks-fps-on-pc-systems/"><u>Increase Gameplay Speed: The Best Methods to Boost ARK's FPS on PC Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-stuttering-and-enhance-fps-top-6-fixes-for-a-smoother-elden-ring-experience/"><u>Overcome Stuttering and Enhance FPS: Top 6 Fixes for a Smoother Elden Ring Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-nokia-g22-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nokia G22 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oneplus-ace-2v-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your OnePlus Ace 2V Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012159278-troubleshooting-metro-exodus-pc-version-crashes-solutions-unveiled/"><u>Troubleshooting Metro Exodus PC Version Crashes – Solutions Unveiled!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-video-organization-the-art-of-chapter-addition-for-2024/"><u>YouTube Video Organization The Art of Chapter Addition for 2024</u></a></li>
 </ul></div>
 

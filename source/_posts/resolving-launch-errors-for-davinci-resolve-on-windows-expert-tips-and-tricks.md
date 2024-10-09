@@ -1,7 +1,7 @@
 ---
 title: Resolving Launch Errors for DaVinci Resolve on Windows - Expert Tips & Tricks
-date: 2024-09-28T17:02:18.475Z
-updated: 2024-10-03T17:49:34.661Z
+date: 2024-10-03T21:58:41.499Z
+updated: 2024-10-08T16:35:12.431Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the Roblox server
 
  When you see error code 277 in Roblox, you should first check the game server status to make sure that this is not a problem on your end: more often than not, error code 277 is a problem with the game server, and there’s nothing more for you to do other than wait for the devs to get their server fixed.
@@ -60,21 +53,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Revisit your network settings
 
@@ -102,6 +81,13 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-15.png)
 2. Press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all the log files here.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste **%USERPROFILE%AppDataLocalLowRbxLogs** and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-16.png)
 4. Also, press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all files here.
@@ -119,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-18.png)
@@ -130,6 +116,13 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
  Now open Roblox again (it should be opened with administrative permission), to see if error code 277 is st. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Try a different DNS server
 
@@ -143,14 +136,14 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then switch to a public DNS server, and we recommend the Google DNS server as it’s fast and secure. Here’s how you can change the DNS server:
 
@@ -158,28 +151,28 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -187,15 +180,28 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then see if the error code 277 is still seen in your Roblox. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Repair corrupted or damaged system files
 
@@ -235,18 +241,21 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fabricate-jocular-images-share-via-giphy/"><u>[New] Fabricate Jocular Images, Share via Giphy</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-captivate-and-expand-your-online-following-with-viral-youtube-shorts/"><u>[Updated] How to Captivate and Expand Your Online Following with Viral YouTube Shorts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-grab-your-guiltless-film-endings-with-our-template-service/"><u>2024 Approved Grab Your Guiltless Film Endings with Our Template Service</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/adobe-photoshop-8-starter-pack-mastering-the-basics-and-streamlined-ordering-system/"><u>Adobe Photoshop 8 Starter Pack: Mastering the Basics and Streamlined Ordering System</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/begin-immediate-use-of-these-8-unique-gpt-models/"><u>Begin Immediate Use of These 8 Unique GPT Models</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-v29e-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo V29e Safely | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/japan/"><u>Japan</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-pc-stutter-no-more-advanced-troubleshooting-techniques-for-a-flawless-gaming-experience/"><u>Minecraft PC Stutter No More - Advanced Troubleshooting Techniques for a Flawless Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-overcoming-low-fps-and-stuttering-in-splitgate/"><u>Optimizing Performance: Overcoming Low FPS & Stuttering in Splitgate</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-9-online-birthday-video-makers-of-2024-a-comprehensive-guide/"><u>Top 9 Online Birthday Video Makers of 2024 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steams-remote-play-top-solutions-when-it-wont-start/"><u>Troubleshooting Steam's Remote Play: Top Solutions When It Won't Start</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/universal-recovery-steps-for-ms-sql/"><u>Universal Recovery Steps for MS SQL</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-top-rated-mp4-video-editors-with-free-cutting-features-for-2024/"><u>Updated Top-Rated MP4 Video Editors with Free Cutting Features for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-psychology-behind-successful-facebook-gifting-campaigns/"><u>[New] The Psychology Behind Successful Facebook Gifting Campaigns</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[Updated] In 2024, From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-structuring-tutorials-for-clarity-on-youtube/"><u>[Updated] In 2024, Structuring Tutorials for Clarity on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-techniques-for-snagging-switch-gaming-videos/"><u>[Updated] Techniques for Snagging Switch Gaming Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-tools-and-apps-for-students-get-ready-for-back-to-school/"><u>Best Free Tools & Apps for Students: Get Ready for Back-to-School</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/best-no-cost-tools-for-transforming-avi-files-into-swf-format-web-apps-vs-desktop-software/"><u>Best No-Cost Tools for Transforming AVI Files Into SWF Format - Web Apps vs Desktop Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-the-right-mic-a-guide-for-multifaceted-yt-channels-for-2024/"><u>Finding the Right Mic A Guide for Multifaceted YT Channels for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fresh-update-on-windows-compatible-hp-officejet-pro-8720-printer-drivers-free-download/"><u>Fresh Update on Windows-Compatible HP OfficeJet Pro 8720 Printer Drivers - Free Download</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-your-own-bootable-windows-11-usb-for-immediate-use/"><u>Step-by-Step Guide: Crafting Your Own Bootable Windows 11 USB for Immediate Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-obtaining-printed-copies-without-personal-access-to-a-printer/"><u>Step-by-Step Guide: Obtaining Printed Copies Without Personal Access to a Printer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transferring-and-modifying-android-pictures-on-windows-11-made-easy-learn-the-steps-now/"><u>Transferring & Modifying Android Pictures on Windows 11 Made Easy - Learn the Steps Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-sound-problems-in-windows-11-when-no-audio-device-is-detected/"><u>Troubleshooting Sound Problems in Windows 11 When No Audio Device Is Detected</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cant-find-bluetooth-hardware-in-windows-device-manager/"><u>Troubleshooting: Can't Find Bluetooth Hardware in Windows Device Manager?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-mastering-the-art-of-forcibly-ending-unresponsive-programs-in-windows-11/"><u>Ultimate Guide: Mastering the Art of Forcibly Ending Unresponsive Programs in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-windows-11-installation-secrets-startup-success-without-your-microsoft-profile/"><u>Unlocking Windows 11 Installation Secrets: Startup Success Without Your Microsoft Profile</u></a></li>
 </ul></div>
 

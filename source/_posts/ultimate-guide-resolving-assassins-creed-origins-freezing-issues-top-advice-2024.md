@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Assassin's Creed Origins Freezing Issues - Top Advice, 2024"
-date: 2024-09-28T18:39:06.684Z
-updated: 2024-10-03T16:31:29.430Z
+date: 2024-10-02T00:51:50.382Z
+updated: 2024-10-08T23:30:36.874Z
 tags:
   - win11
   - win10
@@ -107,11 +107,25 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click the process you want to end and select **End Process Tree** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching _Paladins_ again to see if this has resolved your issue. If not, try **[fix 3](https://tools.techidaily.com/drivereasy/download/)**  , below.
 
@@ -122,13 +136,6 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -142,13 +149,6 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 
  Try launching_Paladins_ to see if it works properly now. If your issue persists, check the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Run_Paladins_ as an administrator
 
  Windows runs programs in user mode by default. Under this mode,_Paladins_ may not be able to access certain game files. To see if that’s the cause of the_Paladins_ crashing, try running your game as an administrator to give it high integrity access. Follow the instructions below:
@@ -156,6 +156,19 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 **1)**  If you’re running Steam now, right-click the **Steam icon** on the taskbar and select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-342-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
@@ -167,14 +180,14 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-353-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hope this worked for you. If your game crashes again, then go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -193,13 +206,6 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 **4)** Click the**LOCAL FILES** tab, then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1022.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** This could take several minutes. Wait for the process to be complete. (Steam will fix corrupted files if it detects any.) Then, relaunch your game to test your issue.
 
@@ -249,13 +255,6 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-882-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-881.png)
@@ -272,18 +271,24 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-879-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-909-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
 
@@ -324,10 +329,10 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-361-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
@@ -335,10 +340,10 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-374-1-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
@@ -350,6 +355,13 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-365-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -379,19 +391,21 @@ _Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-accelerate-mac-youtube-video-matching-aspect-ratio/"><u>[New] Accelerate Mac Youtube Video Matching Aspect Ratio</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-must-have-gif-creation-apps/"><u>[Updated] Must-Have GIF Creation Apps</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-nurturing-audience-growth-mastering-live-streaming-with-onestream-for-2024/"><u>[Updated] Nurturing Audience Growth Mastering Live Streaming with OneStream for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/are-you-alone-in-facing-disruptions-with-nintendo-switch-online-understanding-the-root-cause/"><u>Are You Alone in Facing Disruptions with Nintendo Switch Online? Understanding the Root Cause.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/doom-eternal-expert-tips-on-fixing-persistent-crash-problems/"><u>DOOM Eternal: Expert Tips on Fixing Persistent Crash Problems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/essential-guide-to-selecting-best-video-grabber-tools-for-2024/"><u>Essential Guide to Selecting Best Video Grabber Tools for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/find-and-explore-fbs-latest-views/"><u>Find and Explore FB's Latest Views</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008641116-football-manager-2022-release-delayed-heres-how-to-access-it-now/"><u>Football Manager 2022 Release Delayed? Here's How To Access It Now!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-power-of-music-in-videos-plusfilmora-editing-tricks/"><u>New The Power of Music in Videos (+Filmora Editing Tricks)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-common-problems-with-steam-remote-play-with-these-simple-fixes/"><u>Overcome Common Problems with Steam Remote Play With These Simple Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-uncover-the-causes-behind-age-of-empires-iv-not-starting-and-how-to-fix-it/"><u>Resolved: Uncover the Causes Behind Age of Empires IV Not Starting and How to Fix It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-call-of-duty-warzone-lag-issues-for-a-smooth-play-experience-this-year/"><u>Solving Call of Duty Warzone Lag Issues for a Smooth Play Experience This Year</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-ways-to-preserve-and-log-youtube-live-streams-for-2024/"><u>Top Ways to Preserve and Log YouTube Live Streams for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-if-your-email-app-cant-start-up/"><u>Troubleshooting Steps if Your Email App Can't Start Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-rest-for-the-wicked-expert-tips-and-fixes-for-stable-play-on-your-windows-computer/"><u>'No Rest for the Wicked': Expert Tips and Fixes for Stable Play on Your Windows Computer</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-download-and-generate-free-official-passport-pictures-now/"><u>[New] 2024 Approved Download & Generate Free, Official Passport Pictures Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-use-filters-on-instagram/"><u>[New] 2024 Approved How to Use Filters on Instagram?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-swiftly-upload-to-twitter-premium-video-convertors-guide/"><u>[New] In 2024, Swiftly Upload to Twitter Premium Video Convertors Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-quick-recording-tips-for-your-next-google-meet-video-call/"><u>[New] Quick Recording Tips for Your Next Google Meet Video Call</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-know-your-rights-sharing-videos-with-friends-on-fb-for-2024/"><u>[Updated] Know Your Rights Sharing Videos with Friends on FB for 2024</u></a></li>
+<li><a href="https://fox-where.techidaily.com/detailed-product-information-and-specifications/"><u>Detailed Product Information & Specifications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-the-sequel-optimizing-performance-and-ending-pc-game-lag/"><u>Dying Light the Sequel: Optimizing Performance & Ending PC Game Lag!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-overcoming-the-thaumaturge-desyncing-and-crashing-problems-on-pc/"><u>Expert Fixes: Overcoming the Thaumaturge Desyncing and Crashing Problems on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-zte-axon-40-lite-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From ZTE Axon 40 Lite To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-memetic-masterpieces-behind-the-photo/"><u>In 2024, Memetic Masterpieces Behind the Photo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-top-strategies-sharing-youtube-content-on-facebook/"><u>In 2024, Top Strategies Sharing YouTube Content on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-launch-issues-with-civ-6-on-the-latest-windows-platform/"><u>Resolving Launch Issues with Civ 6 on the Latest Windows Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-for-smooth-gameplay-fixing-csgo-lag-issues-instantly/"><u>Top Tips for Smooth Gameplay: Fixing CS:GO Lag Issues Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lost-overwatch-server-connection-successfully/"><u>Troubleshooting Lost Overwatch Server Connection Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-killing-screen-issues-with-age-of-wonders-planetfall-on-windows/"><u>Troubleshooting Persistent Killing-Screen Issues with Age of Wonders: Planetfall on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solving Windows 11'S Malfunctioning Windows Spotlight Issues Step by Step
-date: 2024-10-01T16:23:57.893Z
-updated: 2024-10-03T17:16:14.017Z
+date: 2024-10-07T22:28:20.237Z
+updated: 2024-10-08T17:38:40.315Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
@@ -65,35 +58,43 @@ Here’s how:
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 ### Fix 3: Launch Hitman 3 from game folder
 
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -122,14 +123,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -150,33 +157,27 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
@@ -202,20 +203,22 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-harmonizing-posts-with-instagram-music/"><u>[Updated] 2024 Approved Harmonizing Posts with Instagram Music</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-top-picks-8-economical-video-conferencing-tools-compatible-with-mac-and-pc/"><u>[Updated] 2024 Approved Top Picks 8 Economical Video Conferencing Tools Compatible with Mac & PC</u></a></li>
-<li><a href="https://article-helps.techidaily.com/1717892134544-2024-approved-how-many-seconds-is-a-20mb-video/"><u>2024 Approved How Many Seconds Is a 20Mb Video?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-pc-building-techniques-by-toms-hardware-expertise/"><u>Advanced PC Building Techniques by Tom's Hardware Expertise</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battle-ready-solving-your-call-of-duty-warzone-launching-malfunctions-quickly/"><u>Battle Ready: Solving Your Call of Duty: Warzone Launching Malfunctions Quickly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-to-securely-ripping-burning-and-duplicating-dvd-and-cd-content/"><u>Comprehensive Guide to Securely Ripping, Burning, and Duplicating DVD & CD Content</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-to-follow-steps-to-install-magic-mouse-driver-in-windows-environment/"><u>Easy-to-Follow Steps to Install Magic Mouse Driver in Windows Environment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-to-overcoming-serious-sam-cuh-bilities-enhancing-pc-performance-and-stability/"><u>Expert Guide to Overcoming Serious Sam Cuh-Bilities – Enhancing PC Performance & Stability!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-3-starting-problems-latest-solutions-and-hacks/"><u>Fallout 3 Starting Problems? Latest Solutions and Hacks !</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-and-prevent-resident-evil-village-from-turning-your-pcs-screen-black-expert-tips-and-tricks/"><u>Fix and Prevent Resident Evil Village From Turning Your PC's Screen Black: Expert Tips and Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-x-fold-2-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo X Fold 2? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-skyward-plunge-issue-in-cod-warzone-pacific-edition/"><u>How to Fix the Skyward Plunge Issue in COD: Warzone - Pacific Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-how-to-address-and-fix-starfields-cpu-intensive-problems/"><u>Optimizing Performance: How to Address and Fix Starfield's CPU Intensive Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/prime-weekend-sale-buy-now-at-612yr-with-windows-10/"><u>Prime Weekend Sale: Buy Now at $6.12/Yr with Windows 10</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-10-addressing-clipboard-copypaste-glitches/"><u>Windows 10: Addressing Clipboard Copy/Paste Glitches</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-crafting-immersive-video-experiences-using-captivate/"><u>[New] 2024 Approved Crafting Immersive Video Experiences Using Captivate</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-evolution-of-gaming-logging-beyond-fbx-limits/"><u>[New] Evolution of Gaming Logging Beyond FBX Limits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-modern-uses-of-drones-to-coming-innovations/"><u>[New] Modern Uses of Drones to Coming Innovations</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-fresh-look-at-yokus-island-express-bold-adventures-in-unexpected-directions/"><u>A Fresh Look at Yoku’s Island Express: Bold Adventures in Unexpected Directions</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/effortless-techniques-crafting-youtube-shorts-images-on-the-fly-for-2024/"><u>Effortless Techniques Crafting YouTube Shorts Images on the Fly for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expertly-selected-ideal-email-applications-for-your-iphone/"><u>Expertly Selected: Ideal Email Applications for Your iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-anticheat-connection-fault-issue-a-guide-for-escape-from-tarkov-players/"><u>Fixing the Anticheat Connection Fault Issue - A Guide for Escape From Tarkov Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-endgame-pc-release-hurdle-a-step-by-step-guide-to-get-you-set/"><u>Fixing the Endgame Pc Release Hurdle: A Step by Step Guide to Get You Set</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-reconnection-bug-in-lol-for-a-seamless-gameplay-experience/"><u>Fixing the Reconnection Bug in LoL for a Seamless Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-helldivers-2-game-crash-due-to-the-msvcr110dll-file-not-found/"><u>How to Resolve Helldivers 2 Game Crash Due to the 'MSVCR110.dll' File Not Found</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-infinix-smart-8-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Infinix Smart 8 Phone? Unlock It Now</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-ultimate-guide-to-motion-tracking-apps-on-mobile/"><u>New In 2024, The Ultimate Guide to Motion Tracking Apps on Mobile</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-black-ops-cold-war-glitch-fixing-error-887a0005/"><u>Resolving the Black Ops Cold War Glitch: Fixing Error 887A0005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-assassins-creed-origins-glitches-top-strategies-for-smooth-play/"><u>Solving Assassin's Creed Origins Glitches: Top Strategies for Smooth Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-resolving-error-6-in-diving-mode-cod-mw-on-windows/"><u>Step-by-Step Solution for Resolving Error 6 in Diving Mode, COD MW on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-inside-scoop-on-fortnite-season-8-and-its-effects-on-fps-drop-offs/"><u>The Inside Scoop on Fortnite Season #8 and Its Effects on FPS Drop-Offs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolving-firefox-stability-issues/"><u>Ultimate Troubleshooting Guide: Resolving Firefox Stability Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2024-09-28T18:31:41.599Z
-updated: 2024-10-03T18:07:24.914Z
+date: 2024-10-07T20:22:19.678Z
+updated: 2024-10-08T16:26:37.156Z
 tags:
   - win11
   - win10
@@ -55,9 +55,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -71,22 +85,16 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -103,10 +111,16 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -120,10 +134,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -150,38 +164,24 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
@@ -210,17 +210,20 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-5-backdrops-alternator-for-iphones-x87/"><u>[New] 2024 Approved Essential 5 Backdrops Alternator for iPhones X/8/7</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-stepping-into-the-unseen-mastering-windows-11-through-less-known-tips-for-2024/"><u>[New] Stepping Into the Unseen Mastering Windows 11 Through Less-Known Tips for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-tips-for-creating-compelling-free-ads-on-youtube/"><u>2024 Approved Essential Tips for Creating Compelling Free Ads on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-precision-and-persuasion-crafting-content-that-sticks-on-reddit/"><u>2024 Approved Precision and Persuasion Crafting Content That Sticks on Reddit</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/csgo-troubleshooting-guide-fixing-user-login-problems/"><u>CS:GO Troubleshooting Guide - Fixing User Login Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-download-issues-for-monster-hunter-stories-2-wings-of-ruin/"><u>Dealing with Download Issues for Monster Hunter Stories 2: Wings of Ruin</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-redmi-a2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-xiaomi-mix-fold-3-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Xiaomi Mix Fold 3 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-startup-hurdles-for-battlefield-4-enthusiasts-using-pc-platforms/"><u>Overcoming Startup Hurdles for Battlefield 4 Enthusiasts Using PC Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pro-tips-for-smooth-playthroughs-overcoming-age-of-empires-4s-stuttering-challenge/"><u>Pro Tips for Smooth Playthroughs - Overcoming Age of Empires 4'S Stuttering Challenge</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-mfplatdll-missing-error-step-by-step-troubleshooting-guide/"><u>Resolving mfplat.dll Missing Error: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-asmr-production-101-essential-strategies-for-cutting-edge-video-making-for-2024/"><u>[New] ASMR Production 101 Essential Strategies for Cutting-Edge Video Making for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-improving-user-experience-vimeo-video-subtitles/"><u>[New] In 2024, Improving User Experience Vimeo Video Subtitles</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enrich-iphone-videography-and-photos-with-expert-gear/"><u>[Updated] Enrich iPhone Videography & Photos with Expert Gear</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-polaroid-camplus-cube-analysis-when-life-is-on-screen/"><u>[Updated] In 2024, Polaroid Cam+ Cube Analysis When Life Is on Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-tips-for-captivating-igtv-backgrounds/"><u>[Updated] Step-By-Step Tips for Captivating IGTV Backgrounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-hack-resolving-download-problems-with-cyberpunk-2077-on-steam-platform/"><u>Complete Hack: Resolving Download Problems with Cyberpunk 2077 on Steam Platform</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-install-guide-fetch-your-epson-v700-drivers-today-windows-7-10-and-81-support/"><u>Easy Install Guide: Fetch Your Epson V700 Drivers Today (Windows 7, 10 & 8.1 Support)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-red-dead-redemption-2-troubleshooting-pc-game-crashes/"><u>Fixing Red Dead Redemption 2: Troubleshooting PC Game Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-nuances-of-borders-in-images-using-canva/"><u>In 2024, Navigating the Nuances of Borders in Images Using Canva</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-se-2020-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone SE (2020) iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-steam-content-file-blocked-issue/"><u>Resolved: Fixing the 'Steam Content File Blocked' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-expert-troubleshooting-tips-for-when-minecraft-wont-start/"><u>Revamp Your Gaming: Expert Troubleshooting Tips for When Minecraft Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-when-fallout-76-fails-on-pc/"><u>Solution Steps for When Fallout 76 Fails on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-playing-assassins-creed-mirage-essential-launch-issues-and-solutions/"><u>Trouble Playing Assassin's Creed: Mirage ? Essential Launch Issues and Solutions!</u></a></li>
 </ul></div>
 

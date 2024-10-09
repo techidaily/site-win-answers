@@ -1,7 +1,7 @@
 ---
 title: "Solving Latency Problems in Naraka Bladesword: A Comprehensive Guide"
-date: 2024-09-27T16:38:47.426Z
-updated: 2024-10-03T17:36:31.867Z
+date: 2024-10-01T17:31:28.894Z
+updated: 2024-10-08T22:21:57.547Z
 tags:
   - win11
   - win10
@@ -44,22 +44,29 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -77,18 +84,18 @@ There are mainly two ways to update your graphics driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -113,23 +120,9 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
 
@@ -139,18 +132,33 @@ If the issue persists, move on to the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
@@ -164,19 +172,6 @@ If the issue remains, take a look at the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -203,20 +198,22 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-clever-circumventions-for-edgenuity-video-course-skipping/"><u>[New] In 2024, Clever Circumventions for Edgenuity Video Course Skipping</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-deciphering-youtubes-shorts-funding-mechanism/"><u>[New] In 2024, Deciphering YouTube's Shorts Funding Mechanism</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-selecting-superior-capture-cards-switch-style-for-2024/"><u>[New] Selecting Superior Capture Cards, Switch Style for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-eradicate-commercial-breaks-in-facebook-videos-for-2024/"><u>[Updated] Eradicate Commercial Breaks in Facebook Videos for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-fixed-easily-accessible-shorts-on-youtube/"><u>2024 Approved Fixed Easily Accessible Shorts on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bugs-a-comprehensive-guide-to-fixing-assassins-creed-mirage-glitches/"><u>Beat the Bugs: A Comprehensive Guide to Fixing Assassin's Creed Mirage Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-for-players-dealing-with-metro-exodus-game-crashes-on-personal-computers/"><u>Expert Advice for Players Dealing with Metro Exodus Game-Crashes on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-speedy-solutions-for-when-madden-nfl-ng-not-working-properly/"><u>Expert Guide: Speedy Solutions for When Madden NFL nG Not Working Properly</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-right-dell-network-adapter-utilities-for-windows-7-machines/"><u>Find and Install the Right Dell Network Adapter Utilities for Windows 7 Machines</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-and-solve-discords-packet-disruption-issues-fixed-solution/"><u>How To Address & Solve Discord's Packet Disruption Issues - Fixed Solution!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-advancements-in-80211n-wifi-drivers-compatible-with-windows-operating-systems-from-7-to-11-download-now/"><u>Latest Advancements in 802.11N WiFi Drivers: Compatible with Windows Operating Systems From 7 to 11 - Download Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-and-workarounds-for-halo-infinites-audio-issues/"><u>Quick Fixes and Workarounds for Halo Infinite's Audio Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranked-artist-tablets-a-comprehensive-guide/"><u>Top-Ranked Artist Tablets : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-low-fps-in-rainbow-six-extraction/"><u>Troubleshooting Steps to Resolve Low FPS in Rainbow Six Extraction</u></a></li>
-<li><a href="https://extra-information.techidaily.com/voices-vibrate-on-vinyl-perfecting-podcast-scriptwriting/"><u>Voices Vibrate on Vinyl Perfecting Podcast Scriptwriting</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1716069989130-updated-2024-approved-best-linux-screen-capture-software-ranked/"><u>[Updated] 2024 Approved Best Linux Screen Capture Software Ranked!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-master-the-art-of-live-streaming-with-google-meet-on-youtube/"><u>2024 Approved Master the Art of Live Streaming with Google Meet on YouTube</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-and-directx-troubleshooting-techniques-for-smooth-gaming/"><u>Battlefield 2042 and DirectX Troubleshooting Techniques for Smooth Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-vivo-v27e-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo V27e Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragons-dogma-cufflinks-but-it-is-a-significant-step-towards-achieving-that-goal-of-creating-an-inclusive-society-where-everyone-has-the-right-to-live-with-586/"><u>Dragon's Dogma Cufflinks, but It Is a Significant Step Towards Achieving that Goal of Creating an Inclusive Society Where Everyone Has the Right to Live with Dignity.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-gpeditmsc-not-found-error-in-windows-10-home-edition-systems/"><u>Fixing 'gpedit.msc Not Found' Error in Windows 10 Home Edition Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-xcom-2-crashes-effective-solutions-for-a-smooth-gameplay-experience-on-windows/"><u>Fixing XCOM 2 Crashes: Effective Solutions for a Smooth Gameplay Experience on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-your-last-epoch-game-from-non-launch-errors-pc-user-solutions-release/"><u>Fixing Your Last Epoch Game From Non-Launch Errors: PC User Solutions Release</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-realme-c55-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Realme C55 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-scavengers-crashing-on-your-pc-a-step-by-step-guide/"><u>How To Fix Scavengers Crashing On Your PC: A Step-By-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-potential-with-latest-windows-10-apps-and-games/"><u>In 2024, Unleash Potential with Latest Windows 10 Apps and Games</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-max-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro Max</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-your-obstacles-eliminating-recurring-crashes-in-dota-underlords/"><u>Overcome Your Obstacles: Eliminating Recurring Crashes in Dota Underlords</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-lifeline-fixing-broken-game-files-with-ease/"><u>PC Gamers' Lifeline: Fixing Broken Game Files with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-warcraft-3-reforgeds-sudden-shutdown-problem-on-your-pc-with-our-proven-tips/"><u>Resolve Warcraft 3 Reforged's Sudden Shutdown Problem on Your PC with Our Proven Tips</u></a></li>
 </ul></div>
 

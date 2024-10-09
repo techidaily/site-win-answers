@@ -1,7 +1,7 @@
 ---
 title: "Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience"
-date: 2024-09-26T16:40:13.748Z
-updated: 2024-10-03T16:45:49.594Z
+date: 2024-10-07T17:28:44.484Z
+updated: 2024-10-08T17:44:06.672Z
 tags:
   - win11
   - win10
@@ -43,15 +43,22 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 wireless router
@@ -71,21 +78,14 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -94,10 +94,10 @@ wireless router
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
@@ -109,17 +109,17 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -128,13 +128,6 @@ wireless router
 1. Click the**Start** button and type**advanced system settings** in the Windows search bar. Then click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
@@ -145,10 +138,10 @@ wireless router
 5. Select**C drive** and check **Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
@@ -156,6 +149,13 @@ wireless router
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -201,24 +201,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-capture-connections-real-time-recordings/"><u>[New] In 2024, Capture Connections Real Time Recordings</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-art-of-anticipation-elevating-the-unboxing-experience-for-2024/"><u>[New] The Art of Anticipation Elevating the Unboxing Experience for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-disco-streaming-guide-3-essential-recording-methods/"><u>[New] The Ultimate Disco Streaming Guide 3 Essential Recording Methods</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-best-unfollow-tools-and-apps-for-twitter/"><u>[Updated] Best Unfollow Tools and Apps for Twitter</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed/"><u>[Updated] Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-creator-studio-unleashing-the-power-of-your-channel/"><u>[Updated] YouTube Creator Studio Unleashing the Power of Your Channel</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-steps-in-simplified-nft-designing-guide/"><u>2024 Approved First Steps in Simplified NFT Designing Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-exception-access-problems-in-civilization-vi-civ-6-by-year-2024/"><u>Expert Tips for Correcting Exception Access Problems in Civilization VI (Civ 6) by Year 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-next-level-of-e-reading-with-amazons-kindle-oasis-2019/"><u>Exploring the Next Level of E-Reading with Amazon's Kindle Oasis (2019)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-pc-optimization-resolving-launch-problems-and-game-crashes/"><u>Far Cry 6 PC Optimization: Resolving Launch Problems & Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-geforce-experience-malfunction-how-to-solve-unexpected-closure-issues/"><u>Fixing GeForce Experience Malfunction - How to Solve Unexpected Closure Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999771488-how-to-repair-league-of-legends-internet-linkage-faults-solutions-included/"><u>How to Repair League of Legends Internet Linkage Faults – Solutions Included!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-mlb-the-show-21-server-errors-with-these-expert-tips-and-solutions/"><u>Overcome MLB The Show 21 Server Errors with These Expert Tips and Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-directx-issues-in-fifa-20-gameplay-smoothening/"><u>Resolved: Troubleshooting DirectX Issues in FIFA 20 - Gameplay Smoothening</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-far-cry-6-pc-stability-issues-and-preventing-crashes/"><u>Solving Far Cry 6 PC Stability Issues and Preventing Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steelseries-gg-engine-malfunctioning-heres-what-you-can-do-for-a-windows-solution/"><u>SteelSeries GG Engine Malfunctioning? Here's What You Can Do for a Windows Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999572007-ultimate-tricks-for-a-buttery-smooth-valorant-experience-raise-your-fps-and-eliminate-hitches/"><u>Ultimate Tricks for a Buttery Smooth Valorant Experience - Raise Your FPS & Eliminate Hitches</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-master-your-live-video-setting-up-dslr-on-laptop-or-desktop/"><u>[Updated] Master Your Live Video Setting Up DSLR on Laptop or Desktop</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-non-gta-narratives-urban-games-of-similar-flair/"><u>[Updated] Non-GTA Narratives Urban Games of Similar Flair</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-side-by-side-progopro-analysis/"><u>[Updated] Side by Side ProGoPro Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-delay-clarified-what-gamers-need-to-know/"><u>Assassin's Creed Valhalla Delay Clarified - What Gamers Need to Know</u></a></li>
+<li><a href="https://video-capture.techidaily.com/awaitingnewagecameratechnologies/"><u>AwaitingNewAgeCameraTechnologies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-reducing-cpu-strain-while-playing-phasmophobia/"><u>Beat the Lag: Reducing CPU Strain While Playing Phasmophobia</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-vivo-v29-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Vivo V29 is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-reviews-toms-tech-wisdom/"><u>Dive Into Hardware Reviews - Tom's Tech Wisdom</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/diving-into-details-what-separates-an-ipad-from-an-ipad-air/"><u>Diving Into Details: What Separates an iPad From an iPad Air?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-chatgpt-now-with-gpt-4-integration/"><u>Elevate Your ChatGPT Now with GPT-4 Integration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-preventing-recurring-crashes-while-playing-f1-2021-on-windows/"><u>Expert Advice: Preventing Recurring Crashes While Playing F1 2021 on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-solutions-why-does-my-discord-crash-when-i-go-live/"><u>Expert Solutions: Why Does My Discord Crash When I Go Live?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/granblue-fantasy-help-corrective-steps-to-get-your-relink-feature-running-smoothly/"><u>Granblue Fantasy Help: Corrective Steps to Get Your 'Relink' Feature Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-pathfinder-wrath-of-the-righteebug-and-get-it-running-again/"><u>How to Address Pathfinder: Wrath of the Righteebug and Get It Running Again</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-80-pro-straight-screen-edition-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor 80 Pro Straight Screen Edition Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gameplay-solutions-to-combat-frame-rate-drops-and-stutters-in-aoe-iv/"><u>Smooth Gameplay: Solutions to Combat Frame Rate Drops and Stutters in AoE IV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-top-8-remedies-for-guardians-of-the-galaxy-pc-game-crashes/"><u>Solving the Issue: Top 8 Remedies for 'Guardians of the Galaxy' PC Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-solutions-to-prevent-dreamlight-valley-from-crashing-on-your-pc/"><u>Top 6 Solutions to Prevent Dreamlight Valley From Crashing on Your PC</u></a></li>
 </ul></div>
 

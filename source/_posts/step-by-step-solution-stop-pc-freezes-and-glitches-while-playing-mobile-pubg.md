@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-10-01T17:58:25.373Z
-updated: 2024-10-03T16:03:04.485Z
+date: 2024-10-04T19:43:04.154Z
+updated: 2024-10-09T01:21:44.029Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
@@ -76,23 +83,9 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -129,10 +122,10 @@ OR
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -153,22 +146,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -178,14 +171,22 @@ OR
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
@@ -215,20 +216,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-setting-up-your-logitech-webcam-for-recording/"><u>[Updated] In 2024, Setting Up Your Logitech Webcam for Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unbeatable-prices-for-top-budget-4k-cameras-(1000/"><u>[Updated] Unbeatable Prices for Top Budget 4K Cameras (<$1,000)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-top-picks-best-amazon-prime-content-2023/"><u>2024 Approved Twitter's Top Picks Best Amazon Prime Content 2023</u></a></li>
-<li><a href="https://win-answers.techidaily.com/age-of-empires-4-lag-solutions-techniques-for-uninterrupted-play/"><u>Age of Empires 4 Lag Solutions: Techniques for Uninterrupted Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012971993-eliminating-the-lag-issues-of-deathloop-on-next-gen-consoles-and-personal-computers/"><u>Eliminating the Lag Issues of Deathloop on Next-Gen Consoles & Personal Computers.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-palworlds-eos-error-during-login-with-these-6-remedies/"><u>How to Resolve Palworld's EOS Error During Login with These ➡️6 Remedies</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x100-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo X100 Pro Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999591280-pro-tips-for-attaining-rare-equipment-through-fps-drops-in-the-mass-effect-series/"><u>Pro Tips for Attaining Rare Equipment Through FPS Drops in the Mass Effect Series.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/reddits-supreme-judges-the-most-upvoted-posts-ever/"><u>Reddit's Supreme Judges The Most Upvoted Posts Ever</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-tips-when-flight-simulator-x-refuses-to-load-on-your-computer/"><u>Resolved: Troubleshooting Tips When Flight Simulator X Refuses to Load on Your Computer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-motorola-razr-40-ultra-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Motorola Razr 40 Ultra without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-wallpaper-engine-stability-issues-in-windows-11-and-10/"><u>Troubleshooting Tips for Resolving Wallpaper Engine Stability Issues in Windows 11 and 10</u></a></li>
-<li><a href="https://driver-download.techidaily.com/update-your-logitech-g203-for-optimal-performance-on-windows-operating-systems/"><u>Update Your Logitech G203 for Optimal Performance on Windows Operating Systems</u></a></li>
-<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/zoom-meetings-made-simple-with-camera-snaps/"><u>Zoom Meetings Made Simple with Camera Snaps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-catalysts-increasing-audience-engagement-on-youtube/"><u>[New] 2024 Approved Growth Catalysts Increasing Audience Engagement on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unveiling-the-art-of-screencasting-orderly-tutorial-series/"><u>[New] In 2024, Unveiling the Art of Screencasting Orderly Tutorial Series</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seamless-switching-between-screens-with-chromes-pip/"><u>[New] Seamless Switching Between Screens with Chrome's PIP</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-boosting-video-scale-in-youtube-recordings/"><u>[Updated] Boosting Video Scale in YouTube Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-high-engagement-stories-filters-list-for-2024/"><u>[Updated] High-Engagement Stories Filters List for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-converting-videos-for-your-iphone-a-step-by-step-guide/"><u>1. Converting Videos for Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discovering-the-superiority-of-m1-max-clip-design/"><u>Discovering the Superiority of M1 Max Clip Design</u></a></li>
+<li><a href="https://article-helps.techidaily.com/diving-deep-into-quality-top-cameras-reviewed-for-2024/"><u>Diving Deep Into Quality Top Cameras Reviewed for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-to-overcoming-back-4-bloods-unreal-engine-4-gobi-error-for-enhanced-gameplay/"><u>Expert Guide to Overcoming Back 4 Blood's Unreal Engine 4 Gobi Error for Enhanced Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-address-frame-rate-drops-while-playing-f1-2n21-on-a-desktop-system/"><u>Expert Tips to Address Frame Rate Drops While Playing F1 2N21 on a Desktop System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-stagnation-expert-advice-on-starting-your-witcher-3-journey-without-glitches/"><u>Fixing Stagnation: Expert Advice on Starting Your Witcher 3 Journey Without Glitches</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-transition-to-darkness-premiere-pro-techniques/"><u>In 2024, Transition to Darkness Premiere Pro Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-restoring-your-paradox-launchers-functionality/"><u>The Ultimate Guide to Restoring Your Paradox Launcher's Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-saga-troy-playable-again-after-fixing-pc-compatibility-issues/"><u>Total War Saga: Troy Playable Again After Fixing PC Compatibility Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-complete-guide-for-stable-play-of-horizon-zero-dawn-on-desktops/"><u>Troubleshooting Complete Guide for Stable Play of Horizon Zero Dawn on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-fix-incessant-load-screen-in-red-dead-redemption-cuh/"><u>Troubleshooting: How to Fix Incessant Load Screen in Red Dead Redemption Cuh</u></a></li>
 </ul></div>
 

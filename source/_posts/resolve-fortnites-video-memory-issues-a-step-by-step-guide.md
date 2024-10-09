@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-09-26T17:43:39.422Z
-updated: 2024-10-03T17:17:13.392Z
+date: 2024-10-07T00:46:30.949Z
+updated: 2024-10-08T19:10:33.335Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -95,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -119,22 +112,29 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -146,22 +146,29 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -174,19 +181,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -214,22 +208,19 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nlocking-your-youtube-music-collection-a-detailed-guide-for-2024/"><u>[New] Unlocking Your YouTube Music Collection A Detailed Guide for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-android-collage-innovators-your-picks-for-artistry/"><u>[Updated] Android Collage Innovators – Your Picks for Artistry</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-tailor-made-youtube-url-strategies-an-easier-approach/"><u>[Updated] In 2024, Tailor-Made YouTube URL Strategies An Easier Approach</u></a></li>
-<li><a href="https://techidaily.com/boost-your-site-with-automated-cookie-tracking-solutions/"><u>Boost Your Site with Automated Cookie Tracking Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effective-fixes-when-you-cant-find-advapi32dll-on-your-computer/"><u>Effective Fixes When You Can’t Find Advapi32.dll on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-ark-gaming-effective-ways-to-boost-fps-and-dominate-on-pc/"><u>Elevate Your ARK Gaming: Effective Ways to Boost FPS and Dominate on PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-advice-on-prepping-images-for-high-quality-printing-using-photoshop/"><u>Expert Advice on Prepping Images for High-Quality Printing Using Photoshop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-after-effects-applications-crashes-in-windows-1110-environments/"><u>How to Fix Persistent After Effects Applications Crashes in Windows 11/10 Environments</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-compatibility-problems-with-new-minecraft-launchers/"><u>How to Overcome Compatibility Problems with New Minecraft Launchers?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-stalling-problems-with-qbittorrent/"><u>How To Overcome Stalling Problems with qBittorrent</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/radiant-registering-and-unregistering-rites-for-2024/"><u>Radiant Registering and Unregistering Rites for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fortnite-crashes-due-to-exceeding-video-memory-capacity/"><u>Resolved: Fortnite Crashes Due to Exceeding Video Memory Capacity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-prevent-sony-vegas-media-studio-from-crashing/"><u>Step-by-Step Guide to Prevent Sony Vegas Media Studio From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-torrent-troubleshooting-how-to-restore-performance-in-qbittorrent-when-it-stops-responding/"><u>Tackling Torrent Troubleshooting: How To Restore Performance in qBittorrent When It Stops Responding</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tango-app-evaluation-unlocking-features-for-costless-messaging-and-calling/"><u>Tango App Evaluation: Unlocking Features for Costless Messaging & Calling</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-8-troubleshooting-tips-to-stop-guardians-of-the-galaxy-from-crashing-on-your-pc/"><u>Top 8 Troubleshooting Tips to Stop 'Guardians of the Galaxy' From Crashing on Your PC</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-potential-embrace-note-taking-on-mematic/"><u>Unlock Potential Embrace Note-Taking on Mematic</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-rise-and-shine-on-these-overlooked-meme-platforms/"><u>[New] Rise and Shine on These Overlooked Meme Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-zte-nubia-flip-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General ZTE Nubia Flip 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/conversione-gratuita-online-da-dpx-a-png-con-movavi/"><u>Conversione Gratuita Online Da DPX a PNG Con Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/fast-track-efficient-installation-of-msixbundle-and-apppackages-from-microsoft-store/"><u>Fast Track: Efficient Installation of MSixbundle & Apppackages From Microsoft Store</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-state-of-decay-2-crashes-a-step-by-step-troubleshooting-guide/"><u>Fix Your State of Decay 2 Crashes : A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hassle-free-strategies-to-fix-discord-installation-issues-smoothly/"><u>Hassle-Free Strategies to Fix Discord Installation Issues Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-outriders-not-starting-issue-on-pc/"><u>How to Fix the 'Outriders Not Starting Issue on PC '</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhancing-your-facebook-cover-leading-websites-for-professionals/"><u>In 2024, Enhancing Your Facebook Cover Leading Websites for Professionals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-quickly-save-your-screen-in-windows-systems/"><u>In 2024, Quickly Save Your Screen in Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-when-your-msi-mystic-light-wont-turn-on-in-windows/"><u>Step-by-Step Solutions for When Your MSI Mystic Light Won't Turn On in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-poco-c50-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Poco C50 Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-armored-core-vi-fires-of-rubicon-startup-issues/"><u>Troubleshooting Steps for Resolving 'Armored Core VI: Fires of Rubicon' Startup Issues</u></a></li>
+<li><a href="https://discover-help.techidaily.com/why-you-should-avoid-using-tube2gram-for-uploading-videos-from-youtube-to-instagram/"><u>Why You Should Avoid Using Tube2Gram for Uploading Videos From YouTube to Instagram</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wired-back-to-life-logitech-mouse-restsore/"><u>Wired Back to Life: Logitech Mouse Restsore</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2024-10-02T16:40:51.155Z
-updated: 2024-10-03T18:42:12.956Z
+date: 2024-10-03T16:15:44.845Z
+updated: 2024-10-08T17:35:06.439Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Software confliction
 * etc.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
  Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
@@ -59,6 +52,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -72,13 +72,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
@@ -89,6 +82,13 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
@@ -113,10 +113,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -127,30 +127,36 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Right-click your current network connection, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -218,16 +224,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-comprehensive-guide-best-10-free-file-type-changers-jpg-to-gif-for-2024/"><u>[New] Comprehensive Guide Best 10 Free File Type Changers (JPG to GIF) for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-watching-outdated-facebook-chronicles-mobilelaptop-for-2024/"><u>[New] Watching Outdated Facebook Chronicles (Mobile/Laptop) for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audio-amplified-todays-hits-backdropping-yt-shorts/"><u>[Updated] 2024 Approved Audio Amplified Today's Hits Backdropping YT Shorts</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ai-windows-and-mac-10/"><u>AI 비디오 인핸서가 도와주는 최고의 무료 리소스: Windows & Mac에 대한 10대</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/augment-your-audibility-the-leading-android-tools-for-voice-recording-change-for-2024/"><u>Augment Your Audibility The Leading Android Tools for Voice Recording Change for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-your-frustration-with-these-fixes-for-microsoft-flight-simulator-2020-pc-crashes/"><u>Banish Your Frustration with These Fixes for Microsoft Flight Simulator 2020 PC Crashes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-mapmyride-app-features-and-performance/"><u>Comprehensive Analysis of MapMyRide App Features and Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehve-solutions-for-stabilizing-robocop-rogue-city-when-running-on-pc-platforms/"><u>Comprehve Solutions for Stabilizing RoboCop: Rogue City When Running on PC Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010149092-quick-solutions-resolving-winwordexe-errors-in-seconds/"><u>Quick Solutions: Resolving WINWORD.EXE Errors in Seconds!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rev-up-your-gaming-experience-by-resolving-loading-problems-in-forza-horizon-5-with-these-7-tips/"><u>Rev Up Your Gaming Experience by Resolving Loading Problems in Forza Horizon 5 with These 7 Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722991396196-troubleshoot-oculus-links-black-screen-in-just-5-steps/"><u>Troubleshoot Oculus Link's Black Screen in Just 5 Steps!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-techniques-to-amplify-engagement-on-instagram-content-for-2024/"><u>[New] Techniques to Amplify Engagement on Instagram Content for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-crafting-captivating-titles-with-ae-for-2024/"><u>[Updated] Crafting Captivating Titles with AE for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-redefining-visual-standards-hdr-vs-standard-sdr/"><u>[Updated] In 2024, Redefining Visual Standards HDR Vs. Standard SDR</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discovering-your-windows-11-serial-number-a-step-by-step-guide/"><u>Discovering Your Windows 11 Serial Number: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-instructions-for-removing-a-printer-in-windows-1110-complete-process-tutorial/"><u>Easy Instructions for Removing a Printer in Windows 11/10 - Complete Process Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-guide-turning-off-promotional-content-and-suggestions-on-your-windows-11-pc/"><u>Effective Guide: Turning Off Promotional Content & Suggestions on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exciting-new-improvements-for-windows-11s-snipping-tool-and-paint-applications/"><u>Exciting New Improvements for Windows 11'S Snipping Tool and Paint Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/free-ways-to-unpack-rar-archives-on-pc-and-mac-a-comprehensive-guide/"><u>Free Ways to Unpack RAR Archives on PC & Mac: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-microsofts-new-ai-strategy-may-challenge-the-future-of-mobile-gaming-computers/"><u>How Microsoft's New AI Strategy May Challenge the Future of Mobile Gaming Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-honor-magic-v2-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Honor Magic V2 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-click-experience-ranking-the-best-wireless-mice-innovations-of-2024/"><u>Revolutionize Your Click Experience: Ranking the Best Wireless Mice Innovations of 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-tecno-spark-10-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Tecno Spark 10 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-the-best-text-to-audio-converters-of-all-times/"><u>Updated In 2024, The Best Text-to-Audio Converters of All Times</u></a></li>
 </ul></div>
 

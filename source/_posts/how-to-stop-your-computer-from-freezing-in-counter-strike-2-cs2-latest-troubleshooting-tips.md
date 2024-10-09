@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips
-date: 2024-09-26T19:00:00.756Z
-updated: 2024-10-03T17:18:11.006Z
+date: 2024-10-05T18:44:24.664Z
+updated: 2024-10-08T17:23:50.695Z
 tags:
   - win11
   - win10
@@ -79,16 +79,16 @@ Here are the minimum and recommended system requirements for the game:
 
 ![check for Windows Update](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-updates-available-1200x718.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve checked that your system perfectly meets these requirements but just can’t really run the game smoothly, don’t worry. You can try the fixes listed below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -145,16 +145,16 @@ Here’s how to update drivers with Driver Easy:
 
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this didn’t work, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Allow your game through controlled folder access
 
@@ -166,6 +166,13 @@ To do so, you can:
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**Virus & threat protection** from the left pane. Scroll down and under the**Ransomware protection** section, click**Manage ransomware protection** .
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
@@ -174,13 +181,6 @@ To do so, you can:
  Then click**Allow an app through Controlled folder access** .
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-1200x684.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Add an allowed app** **\> Browse all apps** .
 
@@ -199,13 +199,6 @@ To do so, you can:
 2) Under the **LIBRARY**  tab, right-click on **Serious Sam 4** and select **Properties** .
 
 ![This image has an empty alt attribute; its file name is steam-select-propertite.jpg](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click on the **LOCAL FILES**  tab and click **VERIFY INTEGRITY OF GAME FILES…** .
 
@@ -226,10 +219,10 @@ To do so, you can:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select the**GENERAL** tab and uncheck the box next to**Enable the Steam Overlay while in-game** .
@@ -255,10 +248,10 @@ To do so, you can:
 ![set launch options to fix Serious Sam 4 crashing and stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/Steam-set-launch-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the text box, type**+gfx\_strAPI Vulkan** and click**OK** .
@@ -279,6 +272,13 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-1-1200x516.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Then select**GRAPHICS OPTIONS** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-2-1200x540.png)
@@ -289,27 +289,20 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**YES** when you’re asked**DO YOU WANT TO KEEP THESE SETTINGS?** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-4-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After applying the changes, close your game and launch it again to check if it fixes the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 10: Set priority to realtime
 
@@ -328,6 +321,13 @@ After you’ve done these, relaunch your game.
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 11: Perform a clean boot
 
@@ -378,20 +378,19 @@ Here’s how you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-evasion-techniques-for-youtube-bans/"><u>[New] 2024 Approved Evasion Techniques for YouTube Bans</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhancing-youtube-watching-with-list-rearrangement/"><u>[Updated] In 2024, Enhancing YouTube Watching with List Rearrangement</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-premium-editing-platform-tailored-to-vimeo-for-2024/"><u>[Updated] Premium Editing Platform Tailored to Vimeo for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-art-of-chromatic-enhancement/"><u>[Updated] Unlocking the Art of Chromatic Enhancement</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-guide-solving-the-blackout-problem-in-lol-league-of-legends/"><u>2024 Guide: Solving the Blackout Problem in LoL (League of Legends)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battle-the-bugs-in-dragons-dogma-2-for-pc-tactics-to-avoid-system-freezes-and-crashes/"><u>Battle the Bugs in Dragon's Dogma 2 for PC: Tactics To Avoid System Freezes & Crashes</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/bring-back-hidden-external-storage-on-your-mac/"><u>Bring Back Hidden External Storage on Your Mac!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-gaming-experience-fixing-battlefield-2042s-lag-issues-and-frame-rate-drop-for-pc-players/"><u>Enhanced Gaming Experience - Fixing Battlefield 2042'S Lag Issues & Frame Rate Drop for PC Players</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpts-content-creation-vs-se-expertise/"><u>GPT's Content Creation vs SE Expertise</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-sluggish-spotify-web-player-tips-and-tricks/"><u>How to Fix a Sluggish Spotify Web Player : Tips & Tricks</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-m34-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy M34 5G without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-prime-naturalist-screen-recording-systems-explained/"><u>In 2024, Prime Naturalist Screen Recording Systems Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/potatoe-is-misspelled-it-should-be-potatoes-corrected-the-plural-form-would-be-potatoes/"><u>Potatoe Is Misspelled; It Should Be Potatoes. Corrected, the Plural Form Would Be Potatoes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-strategies-for-nwstoreexe-error-rectification/"><u>Step-by-Step Strategies for nw_store.exe Error Rectification</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-project-management-fees/"><u>[New] Project Management Fees</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-ustream-evaluation-find-alternates/"><u>[New] Ustream Evaluation, Find Alternates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-case-of-the-elusive-la-noire-pc-release-its-now-in-play/"><u>Cracking the Case of the Elusive L.A. Noire PC Release – It's Now in Play!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/directly-download-the-authorized-macx-pro-app-your-go-to-solution-for-moving-dvd-files-securely-onto-your-iphone-and-ipod-via-mac/"><u>Directly Download the Authorized MacX Pro App - Your Go-To Solution for Moving DVD Files Securely Onto Your iPhone & iPod via Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-reducing-stutter-and-improving-v-rising-performance-on-desktops/"><u>Effective Fixes for Reducing Stutter and Improving V-Rising Performance on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-resolving-the-blue-screen-of-death-in-hell-divers-2/"><u>Effective Solutions for Resolving the Blue Screen of Death in Hell Divers 2</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/embrace-the-future-upgrading-from-32-bit-win10-welcome-64-bit/"><u>Embrace the Future: Upgrading From 32-Bit Win10, Welcome 64-Bit</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/eternalize-your-chatgpt-experiences/"><u>Eternalize Your ChatGPT Experiences</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-ghost-runner-critical-crash-issue-in-windows-11/"><u>Resolving the Ghost Runner Critical Crash Issue in Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-essential-guide-why-adding-thumbsticks-grips-to-all-your-controllers-enhances-playtime/"><u>The Essential Guide: Why Adding Thumbsticks Grips to All Your Controllers Enhances Playtime</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-review-of-oneplus-9-pro-exceptional-aesthetics-speed-mastery-and-advanced-imaging-tech/"><u>The Ultimate Review of OnePlus 9 Pro: Exceptional Aesthetics, Speed Mastery & Advanced Imaging Tech</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-failed-launches-of-steam-titles-on-windows-10-system/"><u>Troubleshooting Failed Launches of Steam Titles on Windows 10 System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-resolve-when-microsoft-outlook-fails-to-launch/"><u>Troubleshooting Tips: How to Resolve When Microsoft Outlook Fails to Launch</u></a></li>
 </ul></div>
 

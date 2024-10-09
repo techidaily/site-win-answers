@@ -1,7 +1,7 @@
 ---
 title: Fast and Easy Fixes for Your League of Legends Game Freezing Problems
-date: 2024-09-29T17:55:11.341Z
-updated: 2024-10-03T18:51:31.348Z
+date: 2024-10-02T20:08:28.654Z
+updated: 2024-10-08T17:03:23.420Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -105,16 +112,16 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -133,10 +140,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
@@ -148,20 +155,13 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -175,16 +175,16 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,17 +208,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-best-multiple-video-call-and-chat-tools/"><u>[New] 2024 Approved Best Multiple Video Call & Chat Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-partner-filmmaking-for-channel-expansion-and-engagement/"><u>[New] 2024 Approved Partner Filmmaking for Channel Expansion & Engagement</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-aggregated-insights-on-10-superior-video-call-apps-for-2024/"><u>[Updated] Aggregated Insights on 10 Superior Video Call Apps for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-unlocking-docs-transcription-feature-a-beginners-guide/"><u>2024 Approved Unlocking Docs' Transcription Feature A Beginner’s Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-and-install-logitech-g403-gamepad-drivers-on-windows-pc/"><u>Download & Install Logitech G403 Gamepad Drivers on Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-your-lol-gaming-experience-with-the-2024-fix-to-the-reconnect-loop-bug/"><u>Enhancing Your LoL Gaming Experience with the 2024 Fix to the Reconnect Loop Bug</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-can-help-you-understand-pdf-content-in-just-four-steps/"><u>How ChatGPT Can Help You Understand PDF Content in Just Four Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-correctly-deal-with-a-broken-steam-game-disc-in-minutes/"><u>How to Correctly Deal with a Broken Steam Game Disc in Minutes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-less-loved-aspects-of-virtual-worlds/"><u>In 2024, The Less-Loved Aspects of Virtual Worlds</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Honor X50i+? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/protecting-personal-videos-on-youtube-a-step-by-step-guide-to-making-them-private/"><u>Protecting Personal Videos on YouTube: A Step-by-Step Guide to Making Them Private</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stardew-valley-wont-open-try-these-steps/"><u>Stardew Valley Won’t Open? Try These Steps</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-buying-made-simple-a-beginners-toolkit/"><u>[New] 2024 Approved Channel Buying Made Simple A Beginner’s Toolkit</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-intuitive-method-setting-up-snapchat-on-a-mac/"><u>[New] In 2024, Intuitive Method Setting up Snapchat on a Mac</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-masterclass-the-different-faces-of-hand-tracker/"><u>[New] Masterclass The Different Faces of Hand Tracker</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-follow-forward-guide-accumulating-1000-likesmonth-on-ig/"><u>[Updated] 2024 Approved The Follow-Forward Guide Accumulating 1,000 Likes/Month on IG</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-video-calls-with-googles-hangouts-on-your-android/"><u>[Updated] Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-master-the-art-of-snapchats-boomerangs/"><u>[Updated] In 2024, Master the Art of Snapchat's Boomerangs</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-launching-a-successful-stream-on-discord-essential-steps-revealed/"><u>[Updated] Launching a Successful Stream on Discord Essential Steps Revealed</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-solving-crashes-in-horizon-forbidden-west-full-version-on-your-pc/"><u>Complete Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Your PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-selection-free-on-track-racing-games/"><u>Discover the Ultimate Selection: Free On-Track Racing Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-pc-issues-in-euro-truck-simulator-2-a-comprehve-solutions-compilation/"><u>Fixing PC Issues in Euro Truck Simulator 2 - A Comprehve Solutions Compilation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-launch-failed-a-guide-for-starfield-players-on-pc-and-xbox/"><u>Fixing the 'Launch Failed': A Guide for Starfield Players on PC and Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-repair-tips-for-the-error-microsoft-internet-explorer-has-stopped-working-issue/"><u>Step-by-Step Repair Tips for the 'Error - Microsoft Internet Explorer Has Stopped Working' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-elevated-cpu-demands-on-your-new-computer-system-a-guide/"><u>Tackling Elevated CPU Demands on Your New Computer System: A Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-stop-ready-or-not-from-failing-on-windowsmac/"><u>Troubleshooting Steps: How to Stop 'Ready or Not' From Failing on Windows/Mac</u></a></li>
 </ul></div>
 

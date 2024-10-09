@@ -1,7 +1,7 @@
 ---
 title: "Mastering Lethal Business Launch Fixes: Key Insights and Tactics"
-date: 2024-09-26T16:29:53.253Z
-updated: 2024-10-03T16:28:48.275Z
+date: 2024-10-03T21:41:35.055Z
+updated: 2024-10-08T16:07:14.552Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
@@ -78,6 +85,19 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
@@ -88,30 +108,23 @@ There are mainly two ways you can update the graphics driver:
 2. Open the downloaded file and follow the wizard to install DirectX runtime components.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Go to the[Visual C++ download page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) and download the latest Visual C++ redistributable package for your Windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-page.jpg)
 4. Once downloaded, run the exe.file and click**Repair** (or**Install** ) to initiate the setup.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
@@ -123,15 +136,16 @@ There are mainly two ways you can update the graphics driver:
 1. In the Windows search box, type**system configuration** and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-4.jpg)
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
-3. Choose the**Startup tab** and click**Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
+3. Choose the**Startup tab** and click**Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
@@ -139,10 +153,24 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the computer starts up, launch Genshin Impact to check if the issue persists. If it works without trouble,**enable the services one or a few like four or five at a time** . If the game works fine, there is no problem with these services. Then repeat the steps until you’ve checked all the services.
 
@@ -159,28 +187,7 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Repair the game files
 
@@ -191,14 +198,14 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-1.jpg)
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to finish and restart the game, which should be working as expected.
 
@@ -223,14 +230,20 @@ There are mainly two ways you can update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-3-tactics-to-enhance-your-instagram-films-look-for-2024/"><u>[New] 3 Tactics to Enhance Your Instagram Film's Look for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-make-every-minute-count-with-these-15-engaging-activities-while-listening-to-podcasts/"><u>[New] In 2024, Make Every Minute Count with These 15 Engaging Activities While Listening to Podcasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-seamless-e-book-conversion-from-azw-files-to-mobile-ready-mobi-format/"><u>1. Seamless E-Book Conversion: From Azw Files to Mobile Ready Mobi Format</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-corsair-keyboard-software-for-windows-pcs-fast-and-protected-downloads-available/"><u>Get the Latest CORSAIR Keyboard Software for Windows PCs: Fast and Protected Downloads Available</u></a></li>
-<li><a href="https://windows11.techidaily.com/perfect-images-at-fingertips-top-4-webp-viewer-windows/"><u>Perfect Images at Fingertips: Top 4 WebP Viewer Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-website-access-issues-in-google-chrome-tips-and-tricks/"><u>Resolving Website Access Issues in Google Chrome – Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-complete-guide-to-understanding-the-destiny-2-veggie-collision-update-broccoli-crash-2024-version/"><u>The Complete Guide to Understanding the Destiny 2 Veggie Collision Update (Broccoli Crash) - 2024 Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-resolve-discord-not-responding-issues/"><u>Troubleshooting Steps: How to Resolve 'Discord Not Responding' Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-delayed-launch-of-alan-wake-2/"><u>Troubleshooting the Delayed Launch of Alan Wake 2</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success-for-2024/"><u>[New] Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/fy-impact-through-effective-video-marketing-on-youtubes-top-5-moves/"><u>Amplify Impact Through Effective Video Marketing on YouTube's Top 5 Moves</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-disappearing-reactions-and-replies-to-your-youtube-posts/"><u>Dealing with Disappearing Reactions and Replies to Your YouTube Posts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-discord-delays-with-this-expert-guide-to-uninterrupted-gaming/"><u>Ending Discord Delays with This Expert Guide to Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-the-mystery-of-the-minecraft-blackout-solutions-you-need-to-know/"><u>Ending the Mystery of The Minecraft Blackout: Solutions You Need to Know</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x9a-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X9a is off? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g84-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G84 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/leveraging-the-power-of-cookiebot-for-an-optimized-online-presence/"><u>Leveraging the Power of Cookiebot for an Optimized Online Presence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-stabilizing-helldivers-ii-on-your-computer-proven-strategies-for-seamless-gaming/"><u>Master the Art of Stabilizing Helldivers II on Your Computer - Proven Strategies for Seamless Gaming.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-cortana-glitches-with-these-effective-troubleshooting-techniques/"><u>Say Goodbye to Cortana Glitches with These Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-why-doesnt-warno-work-properly-on-my-desktop/"><u>Solving the Issue: Why Doesn't Warno Work Properly on My Desktop?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-poco-c55-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Poco C55 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-directx-issues-in-call-of-duty-modern-warfare-ii/"><u>Ultimate Guide: Resolving DirectX Issues in Call of Duty: Modern Warfare II</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/ultimate-video-guide-to-hairstyles-for-2024/"><u>Ultimate Video Guide to Hairstyles for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-performance-issues-in-cyberpunk-2077-fixing-freeze-ups/"><u>Understanding & Resolving Performance Issues in Cyberpunk 2077: Fixing Freeze-Ups</u></a></li>
 </ul></div>
 

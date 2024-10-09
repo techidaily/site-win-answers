@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved"
-date: 2024-09-26T16:17:36.287Z
-updated: 2024-10-03T17:49:36.171Z
+date: 2024-10-03T20:27:12.288Z
+updated: 2024-10-09T01:51:29.548Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
  When Cyberpunk seems to not be using your GPU, first you need to make sure your**CPU has an integrated graphics card** . In the past few years, Intel rolled out the**F-series CPUs** , such as the i5-10400F and the i3-9100F, which are cheaper than the regular ones for not having integrated graphics. In addition, some**Intel Xeon E3 Processors** designed for servers might not have an integrated GPU. If you’re not sure about your CPU model, contact your supplier.
@@ -47,10 +40,10 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -100,39 +93,45 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -143,6 +142,14 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
@@ -168,22 +175,22 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/astering-youtube-subscriber-milestones-for-2024/"><u>[New] Mastering YouTube Subscriber Milestones for 2024</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-sketching-your-signature-tiktok-end-note/"><u>[Updated] 2024 Approved Sketching Your Signature TikTok End-Note</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-effortless-preservation-of-your-loved-instagram-reels/"><u>[Updated] Effortless Preservation of Your Loved Instagram Reels</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-master-the-motion-personalized-animation-techniques/"><u>2024 Approved Master the Motion Personalized Animation Techniques</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-gpt-7-ai-allies-for-automated-code-creation/"><u>Beyond GPT: 7 AI Allies for Automated Code Creation</u></a></li>
-<li><a href="https://driver-error.techidaily.com/cant-run-rtx-gaming-fix-the-issue-now-done/"><u>Can't Run RTX Gaming? Fix the Issue Now, Done!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-to-address-minecraft-error-with-the-crossbow-feature/"><u>Effective Techniques to Address Minecraft Error with the Crossbow Feature</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-playability-addressing-the-notorious-stutter-in-fallout-76/"><u>Enhancing Playability: Addressing the Notorious Stutter in Fallout 76</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-repairing-the-troublesome-3-0x0001000b-error-in-rainbow-six-siege/"><u>Expert Advice on Repairing the Troublesome 3-0X0001000B Error in Rainbow Six Siege</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-blackout-problems-troubleshooting-and-solutions/"><u>Far Cry 6 Blackout Problems: Troubleshooting & Solutions</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-make-your-facebook-group-more-popular/"><u>How to Make Your Facebook Group More Popular</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725289264364-iphoneitunesicloud/"><u>IPhone照片即時備份解決方案：更靈活、更迅速，非iTunes或iCloud比起如何？</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimizing-team-collaboration-using-chatgpt-technology/"><u>Optimizing Team Collaboration Using ChatGPT Technology</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013015098-sea-of-thieves-stability-solution-no-more-crashes/"><u>Sea of Thieves Stability Solution – No More Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-reduce-your-ps5-warzone-20-lag/"><u>Top Strategies to Reduce Your PS5 Warzone 2.0 Lag</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723001711771-troubleshooting-shadowplay-recording-issues-on-windows-fixed/"><u>Troubleshooting Shadowplay Recording Issues on Windows - Fixed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-sovled-warno-crashes-on-pc-issue/"><u>Troubleshooting the [SOVLED] Warno Crashes on PC Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-common-hurdles-starting-genshin-smoothly-every-time/"><u>Bypass Common Hurdles: Starting Genshin Smoothly Every Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-recurring-crashes-a-guide-for-world-of-tanks-blitz/"><u>Dealing with Recurring Crashes: A Guide for 'World of Tanks Blitz'</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dream-weavers-the-marvel-interactive-sculptors/"><u>Dream Weavers The Marvel Interactive Sculptors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/exploring-ar-stickers-outside-the-google-ecosystem/"><u>Exploring AR Stickers Outside the Google Ecosystem</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-install-canon-mg6350-series-drivers-on-windows-1187/"><u>How to Install Canon MG6350 Series Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-the-issue-when-msi-afterburner-doesnt-identify-your-gpu-under-windows-11/"><u>How to Resolve the Issue When MSI Afterburner Doesn't Identify Your GPU Under Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-solve-mkv-lagging-problem-in-xiaomi-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How to solve MKV lagging problem in Xiaomi ?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-12-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 12 Pro Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Pro Properly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-issues-with-starting-assassins-creed-the-mirage-game-2024-edition-guide/"><u>Overcoming Issues with Starting Assassin's Creed: The Mirage Game - 2024 Edition Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-common-escape-from-tarkov-pc-game-crash-problem-a-detailed-guide/"><u>Overcoming the Common 'Escape From Tarkov' PC Game Crash Problem: A Detailed Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-quest-unblocked-solving-wrath-of-the-righteous-freezing-challenges-on-your-computer/"><u>Pathfinder Quest Unblocked: Solving 'Wrath of the Righteous' Freezing Challenges on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-troubleshooting-failed-to-create-opengl-context-error/"><u>Resolved Issue: Troubleshooting 'Failed to Create OpenGL Context' Error</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-and-testing-of-the-samsung-55-inch-ru7300-smart-tv-a-review-for-curved-screen-enthusiasts/"><u>Unboxing and Testing of the Samsung 55-Inch RU7300 Smart TV: A Review for Curved Screen Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-behind-avatars-pandora-adventure-and-pc-system-crashes/"><u>Unraveling the Mystery Behind Avatar's Pandora Adventure and PC System Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-i-overcame-my-dislike-of-subscriptions-with-oura-ring/"><u>Why I Overcame My Dislike of Subscriptions with Oura Ring</u></a></li>
 </ul></div>
 

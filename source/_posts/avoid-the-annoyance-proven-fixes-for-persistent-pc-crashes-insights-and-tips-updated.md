@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2024-09-26T16:41:04.248Z
-updated: 2024-10-03T17:36:18.751Z
+date: 2024-10-05T23:30:13.215Z
+updated: 2024-10-08T18:00:59.256Z
 tags:
   - win11
   - win10
@@ -50,10 +50,16 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Download the latest patch
@@ -68,20 +74,41 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -129,21 +156,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -164,22 +177,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-retrieve-your-voice-on-youtube-comments/"><u>[New] 2024 Approved How To Retrieve Your Voice on YouTube (Comments)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-guide-navigating-the-world-of-final-cut-pro/"><u>[New] Full Guide Navigating the World of Final Cut Pro</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tep-into-the-world-of-innovative-youtube-video-techniques-for-2024/"><u>[New] Step Into the World of Innovative YouTube Video Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-drive-subscriptions-upward-through-effective-youtube-branding/"><u>[Updated] In 2024, Drive Subscriptions Upward Through Effective YouTube Branding</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-heart-of-video-editing-filmoras-favorites/"><u>2024 Approved The Heart of Video Editing Filmora's Favorites</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-now-tips-and-hacks-for-speedy-browsing/"><u>Accelerate Chrome Performance Now - Tips and Hacks for Speedy Browsing</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicate-stranded-status-from-xbox-console-experience-on-pc/"><u>Eradicate ‘Stranded’ Status From Xbox Console Experience on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-solving-the-mystery-of-cs2-pc-game-crashes-fixes-and-tips-players/"><u>Expert Advice: Solving the Mystery of CS2 PC Game Crashes - Fixes and Tips Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2022-for-windows-common-errors-and-fixes/"><u>Football Manager 2022 for Windows: Common Errors and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/gta-5-game-stability-secured-understanding-and-resolving-sudden-crashes/"><u>GTA 5 Game Stability Secured: Understanding and Resolving Sudden Crashes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-intuitive-guide-how-to-capture-on-vimeo/"><u>In 2024, Intuitive Guide How to Capture on Vimeo</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-razer-synapse-app-wont-launch/"><u>Resolved: How to Fix Razer Synapse App Won't Launch</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-action-plan-from-ttml-and-xml-to-srt-translation/"><u>The Ultimate Action Plan From TTML & XML to SRT Translation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-persistent-dark-screen-error-when-launching-resident-evil-village-on-desktop/"><u>Troubleshooting the Persistent Dark Screen Error When Launching Resident Evil Village on Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-infinite-riches-with-like-a-dragon-the-complete-guide-for-pc-players/"><u>Unlock Infinite Riches with 'Like A Dragon': The Complete Guide for PC Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/upgrade-the-quality-solutions-for-blurry-image-issues-in-call-of-duty-warzone-desktop-version/"><u>Upgrade the Quality: Solutions for Blurry Image Issues in Call of Duty: Warzone - Desktop Version</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-color-enhancement-made-easy-the-role-of-luts-in-photos/"><u>[Updated] 2024 Approved Color Enhancement Made Easy The Role of LUTs in Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-foremost-guide-to-youtube-equipment-for-rookies/"><u>[Updated] In 2024, Foremost Guide to YouTube Equipment for Rookies</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cortana-malfunction-heres-what-you-need-to-know/"><u>Cortana Malfunction? Here's What You Need to Know!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-epson-ds-530-printer-driver-for-windows-11-x64/"><u>Download & Install Epson DS-530 Printer Driver for Windows 11 X64</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-nokia-xr21-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Nokia XR21 Phone Screen?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-y200-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo Y200 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-fps-in-low-speed-clips-for-2024/"><u>Optimal FPS in Low-Speed Clips for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-tips-to-fix-deadly-errors-and-endless-freezes-in-batman-arkham-knight/"><u>Quick Tips to Fix Deadly Errors and Endless Freezes in Batman: Arkham Knight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-streaming-achieved-how-to-fix-netflix-glitches-on-xbox-one/"><u>Smooth Streaming Achieved: How to Fix Netflix Glitches on Xbox One</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-ark-from-freezing-a-comprehensive-guide-to-navigate-and-resolve-pc-crashes-fix-1-9/"><u>Stop ARK From Freezing: A Comprehensive Guide to Navigate and Resolve PC Crashes (Fix #1-9)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uninterrupted-powertoys-experience-with-system-switch-up/"><u>Uninterrupted PowerToys Experience with System Switch-Up</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2024-10-01T18:19:06.570Z
-updated: 2024-10-03T19:02:22.179Z
+date: 2024-10-06T01:06:14.594Z
+updated: 2024-10-08T23:49:56.511Z
 tags:
   - win11
   - win10
@@ -40,20 +40,27 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -62,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -99,22 +113,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
@@ -125,13 +132,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -140,16 +140,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -158,6 +158,13 @@ OR
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -174,13 +181,6 @@ OR
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -208,14 +208,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/trategic-game-plays-with-top-casters/"><u>[New] Strategic Game Plays with Top Casters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-your-fallout-76-gaming-experience-by-solving-persistent-stutter-problems/"><u>Boosting Your Fallout 76 Gaming Experience by Solving Persistent Stutter Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/combat-constant-software-failures-on-your-pc-top-6-fix-methods-to-try/"><u>Combat Constant Software Failures on Your PC - Top 6 Fix Methods to Try</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/global-scoreboard-the-premier-six-of-video-downloads-for-2024/"><u>Global Scoreboard The Premier Six of Video Downloads for 2024</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-infinix-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Infinix Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-not-working-on-oppo-find-x6-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Oppo Find X6? 8 Solutions Inside | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/sequential-screening-the-right-way-to-experience-the-conjuring-movies/"><u>Sequential Screening: The Right Way to Experience the 'Conjuring' Movies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077-optimizing-gpu-performance-on-windows-10/"><u>Troubleshooting Cyberpunk 2077: Optimizing GPU Performance on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-preventing-crusader-kings-iii-from-freezing-on-windows-computer/"><u>Troubleshooting Steps for Preventing Crusader Kings III From Freezing on Windows Computer</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-vocal-variation-at-your-fingertips-free-software-to-transform-your-voice/"><u>[Updated] 2024 Approved Vocal Variation at Your Fingertips Free Software to Transform Your Voice</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-fixes-for-annoying-ipad-recording-problems-for-2024/"><u>[Updated] Quick Fixes for Annoying iPad Recording Problems for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-compelling-short-videos-for-youtube-a-top-10-list/"><u>Crafting Compelling Short Videos for YouTube - A Top 10 List</u></a></li>
+<li><a href="https://facebook.techidaily.com/decrease-focus-based-promotions-in-virtual-realms/"><u>Decrease Focus-Based Promotions in Virtual Realms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-pc-game-crash-errors-in-sons-of-heavenwood-ultimate-fix-strategies/"><u>Defeating PC Game Crash Errors in Sons of Heavenwood: Ultimate Fix Strategies</u></a></li>
+<li><a href="https://facebook.techidaily.com/easy-steps-for-a-seamless-disconnection-from-digital-groups/"><u>Easy Steps for a Seamless Disconnection From Digital Groups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-obs-when-it-wont-record-your-screen-anymore-solved/"><u>How to Fix OBS When It Won't Record Your Screen Anymore - Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-dead-by-daylight-from-continuously-crashing-essential-tips-and-solutions/"><u>How To Stop Dead By Daylight From Continuously Crashing | Essential Tips & Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-lost-arks-persistent-crash-problems-for-a-smoother-gaming-experience/"><u>Overcome Lost Ark's Persistent Crash Problems for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-samsung-galaxy-f04-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Samsung Galaxy F04 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-phasmophobia-software-glitches-updates-and-patches/"><u>Resolving Phasmophobia Software Glitches: Updates & Patches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-crashes-in-call-of-dutys-zombies-uprising-4-expert-fix-guide/"><u>Troubleshooting PC Crashes in Call of Duty's 'Zombies Uprising 4': Expert Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-troubleshooting-guide-put-an-end-to-pc-game-crashes-now/"><u>Valorant Troubleshooting Guide - Put an End to PC Game Crashes Now!</u></a></li>
 </ul></div>
 

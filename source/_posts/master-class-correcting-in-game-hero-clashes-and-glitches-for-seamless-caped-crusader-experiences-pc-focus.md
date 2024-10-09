@@ -1,7 +1,7 @@
 ---
 title: "Master Class: Correcting In-Game Hero Clashes and Glitches for Seamless Caped Crusader Experiences – PC Focus"
-date: 2024-09-11T05:46:22.180Z
-updated: 2024-09-12T05:46:22.180Z
+date: 2024-10-04T23:46:42.977Z
+updated: 2024-10-08T16:01:43.982Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 
  Does nothing happen when you click on Play? You’re definitely not alone here. Many Far Cry 6 players are reporting the same. If Far Cry 6 won’t launch, below are some troubleshooting steps for you.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Far Cry 6 won’t launch? Here’s why
 
@@ -38,20 +35,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 * **The game itself is buggy.** Wait for the next game patch if nothing is wrong on your end. Or **[contact Ubisoft Support](https://www.ubisoft.com/en-gb/help/contact)**  for further assistance.
 
  Please make sure you’re running the latest version of the Windows system and avoid any kind of overclocking before heading to the fixes below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## How to fix Far Cry 6 not launching on PC?
 
@@ -120,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 | DirectX    | DirectX 12                                                                 |
 | Hard Drive | 60 GB available storage                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2\. Run your game as admin
 
  In case lacking administrative privileges cause your Far Cry 6 not to start, we recommend that you run the game executable file and game launcher (Ubisoft Connect / Epic Games Launcher) as an administrator.
@@ -128,40 +118,15 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/properties.jpg)
 2. Go to the **Compatibility**  tab and  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![run ubisoft as admin](https://images.drivereasy.com/wp-content/uploads/2021/10/run-as-admin.jpg)
 3. Click **Apply** \> **OK** .
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Also, repeat step 1\~2 for the Far Cry.exe file.
 
@@ -181,19 +146,12 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 2. Run the installer you downloaded with administrator rights.
 3. Follow the on-screen instructions to complete the installation.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4\. Update your GPU driver
 
@@ -211,20 +169,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 4. Restart your PC for the changes to take full effect.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
 ### Fix 5\. Turn off overlays
 
  It’s reported by some players that turning off all overlays helps with the crashing issue. You can follow the steps below to disable them.
@@ -233,20 +177,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 2. Under the General tab, untick the **Enable in-game overlay for supported games** and **Display FPS counter in game** .  
 ![Enable in-game overlay for supported games](https://images.drivereasy.com/wp-content/uploads/2021/10/in-game-overlay.jpg)
 3. Try Far Cry 6 again to test the issue.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6\. Disable background applications
 
@@ -257,21 +187,22 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.jpg)
 3. Choose **Selective startup** , and uncheck **Load startup items** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![Uncheck Load startup item](https://images.drivereasy.com/wp-content/uploads/2021/10/load-start-ups-no.jpg)
 4. Reboot your system.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If everything works fine without any background apps running, you might need to find the problematic one by[performing a clean boot](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -305,8 +236,6 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -314,12 +243,20 @@ thumbnail: https://thmb.techidaily.com/1cd4d8b30d4bc3438d0d666b54184cb335ed999f5
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-virtual-vice-versa-10-alternative-action-games/"><u>[Updated] 2024 Approved Virtual Vice-Versa 10 Alternative Action Games</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-why-are-my-insta-vids-upside-down/"><u>[Updated] In 2024, Why Are My Insta Vids Upside Down?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-gt-neo-5-se-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme GT Neo 5 SE Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/continuously-chilled-cosmos-navigating-through-an-ever-freezing-expanse/"><u>Continuously Chilled Cosmos: Navigating Through an Ever-Freezing Expanse</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-non-functional-logitech-settings-on-your-windows-machine/"><u>Effective Solutions for Non-Functional Logitech Settings on Your Windows Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-perpetual-launch-loop-in-far-cry-5/"><u>How To Fix The Perpetual Launch Loop in Far Cry 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-bioshock-2-remaster-advanced-graphics-smoother-gameplay-and-fixed-bugs-for-an-immersive-adventure/"><u>Improved BioShock 2 Remaster - Advanced Graphics, Smoother Gameplay, and Fixed Bugs for an Immersive Adventure</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-crafting-impactful-handp-ads-on-facebook/"><u>In 2024, A Guide to Crafting Impactful H&P Ads on Facebook</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Oppo Reno 11 5G?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-iphone-15-plus-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from iPhone 15 Plus without Password?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-essentials-of-real-time-tweets-on-twitter-for-2024/"><u>The Essentials of Real-Time Tweets on Twitter for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-quick-guide-to-instagram-video-speed-up-mobiledesktop/"><u>The Quick Guide to Instagram Video Speed-Up (Mobile/Desktop)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-atomic-heart-starts-with-errors-a-guide/"><u>Troubleshooting the 'Atomic Heart' Starts with Errors - A Guide</u></a></li>
+</ul></div>
 

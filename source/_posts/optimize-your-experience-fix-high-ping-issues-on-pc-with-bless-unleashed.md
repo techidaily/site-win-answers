@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Experience: Fix High Ping Issues on PC with Bless Unleashed"
-date: 2024-09-27T19:01:54.798Z
-updated: 2024-10-03T16:56:14.247Z
+date: 2024-10-06T17:18:03.298Z
+updated: 2024-10-08T16:24:58.340Z
 tags:
   - win11
   - win10
@@ -54,22 +54,16 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab and click**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Uncheck**Automatically manage paging file size for all drives** . Select**Custom size** and enter the**Initial size** and**Maximum size** .
 
@@ -83,13 +77,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  6) Launch your Battlefield V again and play for a few hours to check if the crashing issue still persists.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Turn off the in-game overlay
 
 1) Open your Origin.
@@ -99,13 +86,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 3) Click**More** and select**ORIGIN IN-GAME** , then toggle off**Enable Origin In Game** .
 
 4) Try launching Battlefield V again to test the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -133,6 +113,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 **OR**
@@ -140,6 +127,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You’ll get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-easy-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -163,13 +157,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  If you don’t want to overclock the CPU at all, you should also turn**XMP (Extreme Memory Profiles)** off. To do it, you need to enter BIOS and disable Extreme Memory Profile.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Turn off DX12
 
  For many Battlefield V players, DX12 runs like a nightmare. Although DICE has spent a lot of time optimizing the game for DX12, BFV is terribly unstable in DX12\. The latest Windows update seems to have got rid of much of DX12 choppiness (so make sure your Windows is up-to-date). However, if your Battlefield 5 keeps crashing, you can switch to DX11 to see if it solves the issue.
@@ -191,10 +178,10 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  4) If neither of those workarounds does the trick, you may need to toggle off DXR for a smoother play experience.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Run Origin and BFV as admin
@@ -208,6 +195,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  2) Click the**Compatibility** tab and check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-as-admin-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Run Origin as administrator as well.
 
@@ -240,18 +234,18 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as admin.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type the command:**sfc /scannow** and hit**Enter** . Note that there’s a space between**sfc** and**/** .
 
@@ -260,6 +254,13 @@ sfc /scannow
  3) Wait for the verification process to finish. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/sfc-scannow.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) When the verification finishes, you may receive one of the following messages:
 
@@ -278,13 +279,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
@@ -293,16 +287,16 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select each startup item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-app.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your PC and launch your Battlefield V again to test the issue.
 
@@ -332,22 +326,18 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ptimizing-your-youtube-stream-with-wirecast-for-2024/"><u>[New] Optimizing Your YouTube Stream with WireCast for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-8-mobile-mosaics-best-blend-of-affordable-and-premium-android-videomosaic-apps-for-2024/"><u>[New] Top 8 Mobile Mosaics Best Blend of Affordable and Premium Android Videomosaic Apps for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-empower-creatives-with-xps-film-compositions-tools/"><u>[Updated] 2024 Approved Empower Creatives with XP's Film Compositions Tools</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-a-collection-of-trendy-tiktok-backgrounds-for-2024/"><u>[Updated] A Collection of Trendy TikTok Backgrounds for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-easy-ways-to-record-steam-gameplay-2023/"><u>[Updated] In 2024, Easy Ways to Record Steam Gameplay 2023</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leading-uav-models-suited-for-gopro-cameras/"><u>[Updated] Leading UAV Models Suited for GoPro Cameras</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-lightning-lens-work-efficiently-producing-google-collage-shots/"><u>[Updated] Lightning Lens Work Efficiently Producing Google Collage Shots</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-pc-crash-woes-with-these-9-effective-tips-for-stable-gameplay-in-ark-survival-evolved/"><u>Beat PC Crash Woes with These 9 Effective Tips for Stable Gameplay in ARK: Survival Evolved</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-online-hubs-capturing-sky-in-high-dynamic-range-for-2024/"><u>Best Online Hubs Capturing Sky in High Dynamic Range for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-in-valheim-ultimate-guide-to-resolving-low-fps-issues/"><u>Boost Your Gameplay in Valheim: Ultimate Guide to Resolving Low FPS Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-for-persistent-lagging-and-crashing-in-rocket-league/"><u>Comprehensive Fixes for Persistent Lagging and Crashing in Rocket League</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/detailed-insights-into-camstudio-capture-functionality/"><u>Detailed Insights Into CamStudio Capture Functionality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-resolve-wwe-2k20-pc-game-crashes/"><u>Easy Steps to Resolve WWE 2K20 PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-elden-rings-fps-drops-instantly-with-these-simple-effective-tips/"><u>Fix Elden Ring's FPS Drops Instantly with These Simple, Effective Tips!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-technical-glitches-a-fifa-19-players-handbook-for-pc-users/"><u>Overcoming Technical Glitches: A FIFA 19 Player's Handbook for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722981415973-resolved-halo-infinites-frame-rate-and-stuttering-problem-solved/"><u>Resolved: Halo Infinite's Frame Rate & Stuttering Problem Solved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/streamline-your-gaming-experience-fixing-the-problem-of-disco-elysium-downloads-not-working-properly-on-pcs/"><u>Streamline Your Gaming Experience: Fixing the Problem of Disco Elysium Downloads Not Working Properly on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-watch-dogs-legion-keeps-crashing-on-pc/"><u>[SOLVED] Watch Dogs: Legion Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-gamers-blueprint-for-a-booming-youtube-channel/"><u>[Updated] 2024 Approved The Gamer's Blueprint for a Booming YouTube Channel</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-advanced-presentation-techniques-youtube-in-slides/"><u>2024 Approved Advanced Presentation Techniques YouTube in Slides</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/2024s-finest-illustrator-tablets-choosing-the-right-tool-for-artists/"><u>2024'S Finest Illustrator Tablets: Choosing the Right Tool for Artists</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-2024s-forza-horizon-4-launch-challenges-a-comprehensive-fix-guide/"><u>Beat 2024'S Forza Horizon 4 Launch Challenges: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-overcome-black-screen-glitches-in-fallout-4/"><u>Effective Solutions to Overcome Black Screen Glitches in Fallout 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-repairing-the-improper-setup-of-amds-ryzen-master-software/"><u>Effective Solutions: Repairing the Improper Setup of AMD's Ryzen Master Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-6-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-gobi-map-issue-in-black-deserts-back-4-blood-using-unreal-engine-4/"><u>Resolving Gobi Map Issue in Black Desert's 'Back 4 Blood' Using Unreal Engine 4</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/simply-connect-your-samsung-soundbar-to-your-tv-a-comprehensive-tutorial/"><u>Simply Connect Your Samsung Soundbar to Your TV – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-overcoming-lost-arks-crashing-woes-on-personal-computers/"><u>Ultimate Guide to Overcoming Lost Ark's Crashing Woes on Personal Computers</u></a></li>
 </ul></div>
 

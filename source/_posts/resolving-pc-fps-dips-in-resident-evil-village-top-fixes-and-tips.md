@@ -1,7 +1,7 @@
 ---
 title: Resolving PC FPS Dips in Resident Evil Village – Top Fixes and Tips
-date: 2024-09-30T16:49:58.130Z
-updated: 2024-10-03T17:04:48.892Z
+date: 2024-10-02T19:19:10.849Z
+updated: 2024-10-08T22:57:44.148Z
 tags:
   - win11
   - win10
@@ -58,6 +58,14 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
@@ -81,23 +89,16 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Launch Resident Evil Village and check to see if crashing issue has been resolved. If yes, then great! If the issue persists, please try **Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Steam overlay
@@ -123,13 +124,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/123-1.png)
 2. Click **Yes**  when UAC prompts for permissions to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After that, launch Resident Evil Village game and see if the crashing problem still occurs. If it doesn’t, then great! If the issue persists, please try **Fix 5** , below.
 
 ### Fix 5: Verify game integrity on Steam
@@ -147,19 +141,19 @@ The steps are pretty easy:
 5. Wait a few minutes for Steam to validate the files of the game. Again, any files found missing or corrupt would be automatically downloaded in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Re-launch Resident Evil Village to see if it can be played properly. If yes, then congrats! If it’s still no joy, please try **Fix 6** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -200,24 +194,18 @@ Here’s how to close background apps:
 
  Once you have disabled HDR, run the game in the client and see if it still crashes. If it’s still on-going, please move on to **Fix 8** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Install the latest patch
 
  The game crash is likely to be a bug that comes along previous updates, which requires to be patched in the next release. To check if this is the case, you can install the latest patch, then run the game again to see if the crashing problem ceases.
 
  If there’s no new patch available, or the problem remains after installing the latest patch, head on to **Fix 9** , below.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
 
@@ -231,28 +219,35 @@ Here are the steps to perform a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-1.jpg)
 2. Click the **Services**  tab and tick the box for **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/service-and-hide-all-microsoft-services-1.png)
 3. Browse through the full list of services, make sure to   **check the boxes for the items that belong to your hardware manufacturers**  (such as Intel, AMD, and Qualcomm) and **uncheck the boxes for the rest** . Once finished, click **OK** to apply the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/esential.png)
 4. Restart your computer, then test to see if the game still crashes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * **If Resident Evil Village stops crashing** , you can try repeating these steps, disabling half of the services each time until you pinpoint the culpable program. Once you do, do some research on the internet to find out what the program is for, then contact the vendor of this program for advice or an alternative solution.  
    * **If Resident Evil Village still crashes** , please continue to **Fix 10** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: **Reinstall Resident Evil Village and Steam**
 
@@ -280,14 +275,20 @@ Here are the steps to perform a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-essential-tips-for-vlc-based-online-streaming/"><u>[New] Essential Tips for VLC-Based Online Streaming</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-master-the-art-of-technological-advancement-with-this-guide/"><u>[New] In 2024, Master the Art of Technological Advancement with This Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweaked-sound-from-video-to-mp3aac/"><u>[New] In 2024, Tweaked Sound From Video to MP3/AAC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/arctic-accolades-top-athletes-and-events/"><u>Arctic Accolades Top Athletes & Events</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-4-launch-problems-resolved-tips-for-playstation-and-xbox-users/"><u>Battlefield 4 Launch Problems Resolved - Tips for PlayStation and Xbox Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007933090-fix-for-nier-repliecants-crashing-problem-smooth-playtime-now/"><u>Fix for NieR: Repliecant's Crashing Problem - Smooth Playtime Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/granblue-fantasy-help-guide-solving-the-relink-wont-start-problem/"><u>Granblue Fantasy Help Guide: Solving the 'Relink Won't Start' Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-stutter-and-halt-optimizing-fallout-3-gameplay-on-the-latest-windows-11-system/"><u>Overcoming Stutter and Halt: Optimizing Fallout 3 Gameplay on the Latest Windows 11 System</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamlessly-sync-your-linux-system-and-android-devices-with-our-premier-integration-tool/"><u>Seamlessly Sync Your Linux System & Android Devices with Our Premier Integration Tool</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-premiere-pro-solutions-to-perfect-iphone-hd-video-exposure-balance/"><u>[New] In 2024, Premiere Pro Solutions to Perfect iPhone HD Video Exposure Balance</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-quick-video-playback-with-vimeo-for-2024/"><u>[New] Quick Video Playback with Vimeo for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-prime-video-entries-the-best-16-to-maximize-viewership-for-2024/"><u>[Updated] Prime Video Entries The Best 16 to Maximize Viewership for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apple-unveils-revolutionary-in-house-ai-image-creator-magic-on-your-device-say-goodbye-to-dall-e/"><u>Apple Unveils Revolutionary In-House AI Image Creator - Magic on Your Device, Say Goodbye to DALL-E!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortlessly-edit-images-using-snapseed-tips/"><u>Effortlessly Edit Images Using Snapseed Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-genshin-impact-issue-understanding-error-4201/"><u>Fixing Genshin Impact Issue: Understanding Error 4201</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-resolving-nier-replicant-revived-version-boot-problems/"><u>Guide to Resolving NieR Replicant Revived Version Boot Problems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-infinix-gt-10-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Infinix GT 10 Pro Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-m6-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco M6 Pro 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-frame-drops-and-stutters-in-fallout-76-gaming-experience/"><u>How to Overcome Frame Drops and Stutters in Fallout 76 Gaming Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-chromecast-compatibility-how-to-stream-videos-in-any-format/"><u>New 2024 Approved Chromecast Compatibility How to Stream Videos in Any Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-crashes-during-gameplay-expert-guidance-for-running-far-cry-6-on-pc/"><u>Overcome Crashes During Gameplay: Expert Guidance for Running Far Cry 6 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-pacific-drive-not-working-effective-tips-and-tricks/"><u>Overcoming Pacific Drive Not Working: Effective Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolving-cmos-battery-failure-issues/"><u>Step-by-Step Guide: Resolving CMOS Battery Failure Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-microsoft-edge-stability-problems-for-a-smoother-windows-10-experience/"><u>Troubleshooting Microsoft Edge Stability Problems for a Smoother Windows 10 Experience</u></a></li>
 </ul></div>
 

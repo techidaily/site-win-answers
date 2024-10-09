@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition"
-date: 2024-09-30T16:22:10.047Z
-updated: 2024-10-03T16:47:21.136Z
+date: 2024-10-02T17:58:35.862Z
+updated: 2024-10-08T17:54:05.734Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 | Memory:           | 6 GB RAM                                    |
 | Graphics Card:    | Nvidia GeForce GTX 460 or AMD Radeon HD5770 |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 1. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
@@ -61,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/verify-files-r6s.jpg)
 2. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Epic Games Launcher**
 
 1. Select the game in your**Library** and click on the**three dots** at the button-right.
@@ -77,23 +77,9 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-verify-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once it completes, launch Rainbow Six Siege again to see if it solves the black screen problem.
 
 If not, then you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -124,10 +110,10 @@ Here are two ways you can try to update your graphics driver:
 If the black screen issue still remains, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows updates
@@ -142,6 +128,13 @@ If the black screen issue still remains, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Once the update is completed, restart your computer to apply changes.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can launch Rainbow Six Siege again to see if the black screen problem persists or not.
 
 If the problem still remains, you can try the following fixes.
@@ -154,17 +147,37 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/control-panel.jpg)
 2. In Control Panel, click**Hardware and Sound** .  
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hardware-sound.jpg)
 3. Click**Power Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/power-options.jpg)
 4. Then click**Change plan settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-power-settings.jpg)
@@ -194,13 +207,6 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/game-settings.jpg)
 4. **Save** the file and run Rainbow Six Siege to see if it fixes the black screen issue.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the issue remains, you can try the next fix below.
 
 ### Fix 6: Run the game in compatibility mode
@@ -216,10 +222,10 @@ If the issue remains, you can try the next fix below.
 4. Check the box of**Disable fullscreen optimizations** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility3-1.jpg)
@@ -240,10 +246,10 @@ If the issue still remains, here’s one last fix for you to try.
 3. Right-click Tom Clancy’s Rainbow Six Siege and select**Uninstall** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Reinstall** the game from where you purchased it.
@@ -272,18 +278,24 @@ If the issue still remains, here’s one last fix for you to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-why-hdr-is-a-game-changer-for-video-enthusiasts-and-professionals/"><u>[New] Why HDR Is a Game-Changer for Video Enthusiasts and Professionals</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-elevating-content-strategy-with-effective-youtube-partnerships-for-2024/"><u>[Updated] Elevating Content Strategy with Effective YouTube Partnerships for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/ace-your-viewing-experience-onboarding-av1-in-youtube/"><u>Ace Your Viewing Experience Onboarding AV1 in YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-latency-in-splitgate-a-step-by-step-guide-to-improve-frame-rate-and-reduce-stutters/"><u>Eliminating Latency in Splitgate: A Step-by-Step Guide to Improve Frame Rate and Reduce Stutters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-the-differences-between-mistral-ais-le-chat-and-chatgpt/"><u>Evaluating the Differences Between Mistral AI's Le Chat and ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-infinix-hot-40i-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Hot 40i Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-guide-to-free-music-for-mindfulness-and-serenity/"><u>In 2024, Guide to Free Music for Mindfulness & Serenity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/next-level-broadcast-software-beyond-streamlabs/"><u>Next-Level Broadcast Software Beyond StreamLabs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-league-of-legends-2024-connection-issue-patch-notes/"><u>Resolved: League of Legends' 2024 Connection Issue Patch Notes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-solutions-to-resolve-your-csgo-game-lagging-problems/"><u>Simple Solutions to Resolve Your CS:GO Game Lagging Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-robocop-rogue-city-glitches-a-guide-to-stable-play-on-your-computer/"><u>Solving RoboCop: Rogue City Glitches – A Guide to Stable Play on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-your-playstation-4-freeze-issues-with-easy-steps/"><u>Solving Your PlayStation 4 Freeze Issues with Easy Steps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-iphone-15-plus-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From iPhone 15 Plus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-getting-started-with-obs-on-apple-a-comprehensive-guide/"><u>[New] Getting Started with OBS on Apple A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-tiktok-edits-unleashed-crafting-engaging-video-reactions-with-filmoras-pro-mode/"><u>[Updated] In 2024, TikTok Edits Unleashed Crafting Engaging Video Reactions with Filmora's Pro Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertise-in-iphones-high-dynamic-range-photography/"><u>2024 Approved Expertise in iPhone's High-Dynamic Range Photography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-origin-syncing-expert-tips-to-skyrocket-download-speeds-now/"><u>Accelerate Origin Syncing - Expert Tips to Skyrocket Download Speeds Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-crash-expert-advice-to-keep-grounded-running-smoothly-on-your-pc/"><u>Beat the Crash: Expert Advice to Keep 'Grounded' Running Smoothly on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/cut-out-the-crackle-expert-strategies-to-resolve-sound-disturbances-in-logitech-g-pro-x-headsets/"><u>Cut Out the Crackle: Expert Strategies to Resolve Sound Disturbances in Logitech G Pro X Headsets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-wearables-with-ai-chatgpts-6-revolutionary-uses-in-watches/"><u>Enhancing Wearables with AI: ChatGPT's 6 Revolutionary Uses in Watches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-and-overcoming-error-0xc19001e1-on-windows-10-systems/"><u>Expert Tips for Correcting and Overcoming Error 0xC19001E1 on Windows 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006482521-football-manager-2020-stability-enhanced-no-more-crashing-issues/"><u>Football Manager 2020 Stability Enhanced - No More Crashing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-rocket-league-from-crashing-on-your-device-updated-guide/"><u>How to Prevent Rocket League From Crashing on Your Device (Updated Guide )</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-11-pro-max-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 11 Pro Max iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Oppo Reno 11 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rockstar-games-launcher-issues-top-fixes-and-solutions/"><u>Rockstar Games Launcher Issues : Top Fixes and Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-2-black-screen-error-now-fixed-a-comprehensive-guide/"><u>Star Wars Battlefront 2 Black Screen Error - Now Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/superior-frame-rate-in-languid-videos-for-2024/"><u>Superior Frame Rate in Languid Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008392729-troubleshoot-crashing-in-lol-easily-effective-fixes-inside/"><u>Troubleshoot Crashing in LoL Easily – Effective Fixes Inside!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/troubleshooting-sudden-shutdowns-in-no-rest-for-the-wicked-tips-and-solutions-for-pc-users/"><u>Troubleshooting Sudden Shutdowns in 'No Rest for the Wicked': Tips and Solutions for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warcraft-3-reforged-update-fixes-solutions-to-prevent-pc-crashes/"><u>Warcraft 3 Reforged Update Fixes: Solutions to Prevent PC Crashes</u></a></li>
 </ul></div>
 

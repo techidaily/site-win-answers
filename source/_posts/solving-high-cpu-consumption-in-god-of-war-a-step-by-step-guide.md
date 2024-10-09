@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2024-09-29T19:01:45.950Z
-updated: 2024-10-03T16:05:27.866Z
+date: 2024-10-03T19:55:56.744Z
+updated: 2024-10-09T01:20:06.555Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
@@ -48,29 +55,9 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Restart your computer and Steam to test your issue.
 
@@ -108,6 +95,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
@@ -117,10 +111,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
@@ -135,13 +129,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
@@ -154,20 +141,27 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -177,16 +171,22 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -214,22 +214,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-charting-a-path-to-youtube-wealth-cpm-analysis-for-2024/"><u>[New] Charting a Path to YouTube Wealth CPM Analysis for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-optimizing-video-output-the-adobe-presenter-way/"><u>[Updated] In 2024, Optimizing Video Output The Adobe Presenter Way</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beating-helldivers-2s-startup-glitch-a-complete-guide-to-restoring-gameplay-from-black-screen-errors/"><u>Beating Helldivers 2'S Startup Glitch: A Complete Guide to Restoring Gameplay From Black Screen Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-to-resolve-gta-vs-endless-freezing-and-crashing-problems/"><u>Comprehensive Fixes to Resolve GTA V's Endless Freezing & Crashing Problems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-converter-change-mov-file-into-flv-format-online-tool-by-movavi/"><u>Free Converter: Change MOV File Into FLV Format - Online Tool by Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-your-games-volume-back-troubleshooting-roblox-sound-issues-on-windows-11-and-10/"><u>Getting Your Game's Volume Back: Troubleshooting Roblox Sound Issues on Windows 11 & 10</u></a></li>
-<li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y78t-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y78t? Here Are Real Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-superior-sonic-aligner-android-version/"><u>In 2024, Superior Sonic Aligner, Android Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-gameplay-ultimate-solutions-for-lag-in-resident-evil-village-on-pc/"><u>Optimize Your Gameplay: Ultimate Solutions for Lag in Resident Evil Village on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-eac-launch-errors-a-guide-to-verifying-and-installing-the-necessary-anti-cheat-protection/"><u>Overcome EAC Launch Errors: A Guide to Verifying and Installing the Necessary Anti-Cheat Protection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-overcoming-constant-crashes-and-game-stability/"><u>Pathfinder: Wrath of the Righteous - Overcoming Constant Crashes & Game Stability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-origin-application-now-connects-successfully/"><u>Resolved: Origin Application Now Connects Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revamped-ultimate-solutions-for-stray-crash-issues-in-pc-top-6-tactics/"><u>Revamped: Ultimate Solutions for 'Stray Crash' Issues in PC - Top 6 Tactics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-itel-s23-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Itel S23 to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-invisible-mouse-cursor-problems-on-windows-11-solutions-inside/"><u>Troubleshooting the Invisible Mouse Cursor Problems on Windows 11 – Solutions Inside!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726028354319-tiktok/"><u>スムーズな投稿のためにTikTokウォーターマーク削除テクニック</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-how-to-use-preview-app-on-mac/"><u>[New] How to Use Preview App on Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snapshot-savvy-embellishing-photos-with-the-cartoon-lens/"><u>[New] Snapshot Savvy Embellishing Photos with the Cartoon Lens</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-laughlens-engine-for-2024/"><u>[Updated] LaughLens Engine for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/exploring-8-open-source-video-collaboration-software-picks-for-2024/"><u>Exploring 8 Open Source Video Collaboration Software Picks for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-rainbow-six-extraction-crash-issues-in-pc-gaming/"><u>Fixes for Rainbow Six Extraction Crash Issues in PC Gaming</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-spark-10c-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Spark 10C</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-xcover-7-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy XCover 7 Phones with/without a PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/naraka-online-experience-optimization-overcoming-game-lags-and-delays/"><u>Naraka Online Experience Optimization: Overcoming Game Lags and Delays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smooth-play-improve-your-frames-per-second-fps-on-elden-ring/"><u>Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-restoring-voice-chat-functionality-in-your-amidst-of-adventure-game-on-pc/"><u>Quick Fixes: Restoring Voice Chat Functionality in Your Amidst of Adventure Game on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-eliminate-lag-in-street-fighter-6-for-enhanced-pc-play-experience/"><u>Step-by-Step Tutorial to Eliminate Lag in Street Fighter 6 for Enhanced PC Play Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-image-processes-with-polarrs-compreeved-tools-for-2024/"><u>Streamlining Image Processes with Polarr's Compreeved Tools for 2024</u></a></li>
 </ul></div>
 

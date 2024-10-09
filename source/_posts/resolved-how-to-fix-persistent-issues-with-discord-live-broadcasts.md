@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Persistent Issues with Discord Live Broadcasts"
-date: 2024-09-30T17:33:12.883Z
-updated: 2024-10-03T17:19:12.577Z
+date: 2024-10-07T17:32:53.443Z
+updated: 2024-10-08T18:54:52.640Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -58,10 +51,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
@@ -73,16 +66,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 If Phasmophobia still crashes, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
@@ -97,15 +84,22 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
@@ -135,13 +129,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -163,6 +150,13 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -174,13 +168,6 @@ If the crash still occurs, go ahead with the next fix.
 3) Copy**\-force-feature-level-10-1** and paste it into the**LUNCH OPTIONS** under the General tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
 
@@ -199,6 +186,13 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -237,18 +231,20 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-must-play-openworld-experiences/"><u>[New] 2024 Approved Must-Play Openworld Experiences</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>[New] The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-spots-for-virtual-reality-experiences/"><u>[Updated] 2024 Approved Top Spots for Virtual Reality Experiences</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-metaverse-vs-multimeva-unveiling-their-comparative-features/"><u>[Updated] Metaverse Vs. Multimeva Unveiling Their Comparative Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-smoother-gameplay-strategies-to-address-satisfactory-fps-declines/"><u>Achieve Smoother Gameplay: Strategies to Address Satisfactory FPS Declines</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/easy-installation-of-sound-blaster-z-driver-on-windows-10-systems/"><u>Easy Installation of Sound Blaster Z Driver on Windows 10 Systems</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi A2 | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor X50i? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-errors-fast-fixes-for-rapid-restart/"><u>League of Legends Errors: Fast Fixes for Rapid Restart</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-freezes-solutions-for-stable-genshin-impact-on-pc/"><u>No More Freezes – Solutions for Stable Genshin Impact on PC</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-for-erasing-user-information-from-windows-11-systems-using-revo-uninstaller/"><u>Ultimate Guide for Erasing User Information From Windows 11 Systems Using Revo Uninstaller</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-winning-tactics-solving-the-perplexing-dev-error-e5573-on-your-gaming-console-and-pc/"><u>Warzone Winning Tactics: Solving the Perplexing Dev Error E5573 on Your Gaming Console and PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/0-best-yoga-youtube-channels-to-follow-keep-fit/"><u>[New] 10 Best Yoga YouTube Channels to Follow - Keep Fit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-streamlining-virtual-meetings-best-practices-for-teams/"><u>[New] Streamlining Virtual Meetings Best Practices for Teams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-vimeo-video-segmentation-adding-chapters-for-clarity-for-2024/"><u>[New] Vimeo Video Segmentation Adding Chapters for Clarity for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effortless-zoom-edge-management-your-visual-companion/"><u>[Updated] Effortless Zoom Edge Management Your Visual Companion</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/belgiums-linguistic-landscape-explored/"><u>Belgium’s Linguistic Landscape Explored</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/effortless-navigation-meets-dazzling-lights-the-leading-mouse-pad-choices-for-enhanced-productivity-in-246/"><u>Effortless Navigation Meets Dazzling Lights: The Leading Mouse Pad Choices for Enhanced Productivity in 2^46</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-vivo-y100t-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Vivo Y100t and Browser | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-c22-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C22 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-dates-in-excel-a-complete-tutorial-for-conditional-format-styles/"><u>Mastering Dates in Excel: A Complete Tutorial for Conditional Format Styles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-enhancements-with-microsoft-office-a-comprehensive-setup-and-usage-tutorial/"><u>Mastering Enhancements with Microsoft Office: A Comprehensive Setup & Usage Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-on-utilizing-and-understanding-the-outlier-feature/"><u>Mastering Microsoft Excel: A Comprehensive Guide on Utilizing and Understanding the Outlier Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-picture-cropping-techniques-in-microsoft-office-2010-programs/"><u>Mastering Picture Cropping Techniques in Microsoft Office 2010 Programs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-interdependent-combo-box-selections-within-ms-excel/"><u>Step-by-Step Guide: Crafting Interdependent Combo Box Selections Within MS Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-efficiently-duplicating-formulas-across-cells-in-ms-excel/"><u>Step-by-Step Guide: Efficiently Duplicating Formulas Across Cells in MS Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-drop-down-menus-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Drop-Down Menus From Your Microsoft Excel Spreadsheet</u></a></li>
 </ul></div>
 
