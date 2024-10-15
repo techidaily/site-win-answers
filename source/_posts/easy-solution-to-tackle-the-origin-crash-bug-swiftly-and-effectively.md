@@ -1,7 +1,7 @@
 ---
 title: Easy Solution to Tackle the 'Origin Crash' Bug Swiftly and Effectively!
-date: 2024-10-02T19:19:46.049Z
-updated: 2024-10-09T00:48:44.562Z
+date: 2024-10-14T04:22:13.830Z
+updated: 2024-10-15T07:26:00.689Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ For game players, Steam is the window to the world of gaming. But there are situ
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 7. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. If you do encounter the Steam black screen issue, updating your drivers especially the video card driver is a good step in troubleshooting.
@@ -54,10 +47,10 @@ OR
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
@@ -84,13 +77,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
@@ -104,13 +90,6 @@ Here’s how you can do this:
  1) Open your Steam client. From the menu bar, click Steam and select**Settings** .
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) From the left panel, click**Web Browser** . Then click**DELETE WEB BROWSER CACHE** . Once it’s done, click**DELETE ALL BROWSER COOKIES** . After it’s finished, simply click**OK** .  
   
@@ -133,10 +112,10 @@ Here’s how you can do this:
  4) Now you can**delete the appcache folder** in your Steam directory. Then try starting Steam again. If it works well, you can then go and delete the original backup appcache folder as a healthy new one will be created in its place.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Participate in the Steam Client beta
@@ -149,13 +128,6 @@ To participate in the Steam Client beta, follow the instructions below:
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
   
 ![participate in Steam Client beta](https://images.drivereasy.com/wp-content/uploads/2020/10/participate-in-Steam-Client-beta-1.jpg)
@@ -165,6 +137,13 @@ To participate in the Steam Client beta, follow the instructions below:
 
  After you’ve done this, try restarting Steam to see if the issue persists. If it didn’t do the trick for you, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Add –no-cef-sandbox in your Steam shortcut
 
  The command line argument**\-no-cef-sandbox** is exactly what you need if Steam is not loading properly. It would probably help you fix the issue by adding the argument in the shortcut. Here’s how you can do this:
@@ -173,6 +152,13 @@ To participate in the Steam Client beta, follow the instructions below:
   
 ![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/no-cef-sandbox.jpg)
@@ -180,10 +166,10 @@ To participate in the Steam Client beta, follow the instructions below:
 Now try opening Steam client to check if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Steam
@@ -195,6 +181,13 @@ Now try opening Steam client to check if it works.
   
 ![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
  3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
@@ -204,10 +197,10 @@ Now try opening Steam client to check if it works.
  5) Double-click**Steam.exe** and let it reinstall.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## If your problem persists…
@@ -221,6 +214,13 @@ Now try opening Steam client to check if it works.
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -244,14 +244,24 @@ Now try opening Steam client to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-awesome.techidaily.com/1725284786312-2024/"><u>【2024のおすすめ】高画質スキャンソフトウェアとサイトをご案内♪快適な機能付き無料版も利用可</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-your-downloads-top-tips-to-improve-ubisoft-connects-internet-speed/"><u>Boosting Your Downloads: Top Tips to Improve Ubisoft Connect's Internet Speed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cujnv1984george-orwells-1-984-an-unflinching-examination-of-the-dangers-posed-by-totalitarianism-that-remains-relevant-in-light-of-contemporary-political-la529/"><u>Cujnv1984George Orwell's 1 984 – An Unflinching Examination of the Dangers Posed by Totalitarianism that Remains Relevant in Light of Contemporary Political Landscapes and Has a Lasting Impact on Societal Discourse.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-persistent-game-crashes-in-valheim-for-windows-pc-users/"><u>How to Resolve Persistent Game Crashes in Valheim for Windows PC Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-v27e-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mobile-tech-wizardry-how-to-record-and-share-your-snapchat-stories/"><u>Mobile Tech Wizardry How to Record and Share Your Snapchat Stories</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/preserve-and-enjoy-6-proven-methods-to-transform-your-dvd-library-into-online-accessible-files/"><u>Preserve & Enjoy: 6 Proven Methods to Transform Your DVD Library Into Online Accessible Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-overcoming-steamvrs-obstacle-error-code-308/"><u>Step-by-Step Solution: Overcoming SteamVR's Obstacle - Error Code 308</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-using-system-restore-on-your-windows-10-device/"><u>The Ultimate Guide to Using System Restore on Your Windows 10 Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-sony-vegas-keeps-crashing/"><u>[FIXED] Sony Vegas Keeps Crashing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-film-the-face-of-your-fb-space/"><u>[New] Film the Face of Your FB Space</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-affordable-gopros-where-to-buy-with-best-price/"><u>[Updated] In 2024, Affordable GoPros Where to Buy with Best Price</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-fortnite-delays-proven-strategies-to-enhance-gaming-performance/"><u>Banish Fortnite Delays: Proven Strategies to Enhance Gaming Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-api-demystified-for-developers/"><u>ChatGPT API Demystified for Developers</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/detailed-insight-the-gecata-live-game-tracker-for-2024/"><u>Detailed Insight The Gecata Live Game Tracker for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-n-fixes-how-to-recover-game-audio-on-a-personal-computer/"><u>Fallout N' Fixes: How to Recover Game Audio on a Personal Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-risk-of-rain-2-steps-to-resolve-game-crashes/"><u>Fixing Risk of Rain 2: Steps to Resolve Game Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-v29-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V29 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/leveraging-live-images-in-ios-16-for-an-enhanced-iphone-experience/"><u>Leveraging Live Images in iOS 16 for an Enhanced iPhone Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-disco-elysium-overcoming-pc-system-crashes-and-glitches/"><u>Mastering 'Disco Elysium': Overcoming PC System Crashes and Glitches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-ios-steps-for-acquiring-itunes-subscriptions-for-2024/"><u>Mastering iOS Steps for Acquiring iTunes Subscriptions for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/raidreclamation-suite-reclaiming-raid-systems/"><u>RaidReclamation Suite: Reclaiming RAID Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-web-apps-launch-problems-instantly-a-step-by-step-guide/"><u>Resolve Your Web App's Launch Problems Instantly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-playstation-5-crashes-for-call-of-duty-black-ops-cold-war-game-in-2ndvember/"><u>Resolving PlayStation 5 Crashes for Call of Duty: Black Ops Cold War Game in 2nDvember</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-manor-lords-game-crash-issue-tips-and-tricks-for-stable-play/"><u>Solving the 'Manor Lords' Game Crash Issue: Tips & Tricks for Stable Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-samurai-warriors-5-from-crashing-a-complete-guide-for-players/"><u>Stop Samurai Warriors 5 From Crashing: A Complete Guide for Players</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-most-effective-authentic-promotion-techniques/"><u>The 8 Most Effective, Authentic Promotion Techniques</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/transitioning-to-solid-state-comprehensive-guide-for-switching-to-ssd-on-a-windows-11-laptop/"><u>Transitioning to Solid State: Comprehensive Guide for Switching to SSD on a Windows 11 Laptop</u></a></li>
 </ul></div>
 

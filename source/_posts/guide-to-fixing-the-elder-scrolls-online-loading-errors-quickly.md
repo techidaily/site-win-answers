@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing The Elder Scrolls Online Loading Errors Quickly
-date: 2024-10-08T00:06:51.127Z
-updated: 2024-10-08T23:47:08.524Z
+date: 2024-10-09T20:00:57.334Z
+updated: 2024-10-15T06:50:15.601Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Add ESO into exception
 
  The Elder Scrolls Online would not work properly when the program is blocked by your firewall or antivirus software. Therefore, please add an exception for the game through your Antivirus and Windows defender firewall.
@@ -43,29 +50,22 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Change settings** button and check both **Private**  and **Public** options for items related to ESO or ESO launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
 
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Delete the program data
 
@@ -76,6 +76,13 @@ Here’s how to allow the ESO launcher through the firewall.
 **Note** : THe file location might differ according to your configurations.
 3. Find and delete the ProgramData folder.
 4. Restart the ESO Launcher to check.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair the launcher
 
@@ -89,16 +96,10 @@ Here’s how to allow the ESO launcher through the firewall.
 5. Relaunch the game and check to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
@@ -126,13 +127,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
@@ -158,14 +152,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/compact-100-instant-capture-cameras-in-2s/"><u>Compact $100 Instant Capture Cameras in 2S</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deactivated-or-malfunctioned-steam-remote-play-proven-methods-to-restore-your-multiplayer-fun/"><u>Deactivated or Malfunctioned Steam Remote Play? Proven Methods To Restore Your Multiplayer Fun</u></a></li>
-<li><a href="https://win-answers.techidaily.com/halo-infinite-audio-glitch-solutions-a-comprehensive-guide/"><u>Halo Infinite Audio Glitch Solutions: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-capture-every-moment-to-perfection-with-sj7s-new-4k-star-camera-review/"><u>In 2024, Capture Every Moment to Perfection with SJ7’s New 4K Star Camera Review</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-skyline-success-on-iphone-top-landscape-shots-techniques/"><u>In 2024, Skyline Success on iPhone Top Landscape Shots Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-detective-skills-for-steam-vr-detection-6-proven-remedies/"><u>Master the Detective Skills for Steam VR Detection: 6 Proven Remedies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-roblox-launch-problems-top-5-solutions-for-getting-the-game-up/"><u>Mastering Roblox Launch Problems: Top 5 Solutions for Getting the Game Up</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-find-x7-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo Find X7 Android SIM Unlock APK</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-10-essential-methods-to-record-virtual-seminars-at-no-expense/"><u>[New] 2024 Approved 10 Essential Methods to Record Virtual Seminars at No Expense</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-six-visionaries-revolutionizing-the-nft-art-scene/"><u>[New] Six Visionaries Revolutionizing the NFT Art Scene</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-demystifying-data-first-steps-in-facebook-insights-for-2024/"><u>[Updated] Demystifying Data First Steps in Facebook Insights for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-g42-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009086108-banish-wow-lag-and-crash-glitches-with-these-painless-remedies/"><u>Banish WOW Lag and Crash Glitches with These Painless Remedies</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/eco-friendly-skullcandy-ecobuds-at-just-40-a-comprehensive-review-of-their-sound-quality/"><u>Eco-Friendly Skullcandy EcoBuds at Just $40 - A Comprehensive Review of Their Sound Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-rainbow-six-siege-running-flawlessly-issues-resolved/"><u>How to Get Rainbow Six Siege Running Flawlessly – Issues Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-addressing-common-crashes-in-the-tales-of-arise-gaming-experience/"><u>Resolved: Addressing Common Crashes in the 'Tales of Arise' Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-why-steam-wont-identify-my-gamepad-and-how-to-get-it-working-on-pc/"><u>Solved! Why Steam Won't Identify My Gamepad & How to Get It Working on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-oppo-a2-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Oppo A2 Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726224930149-m4a/"><u>ムービヴィ部門でのオンライン無償M4A形式ファイル再生変換 - モバヴィ</u></a></li>
 </ul></div>
 

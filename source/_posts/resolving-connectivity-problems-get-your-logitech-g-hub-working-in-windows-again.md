@@ -1,7 +1,7 @@
 ---
 title: "Resolving Connectivity Problems: Get Your Logitech G Hub Working in Windows Again!"
-date: 2024-10-02T01:12:41.780Z
-updated: 2024-10-08T18:56:40.484Z
+date: 2024-10-14T07:47:17.236Z
+updated: 2024-10-15T08:09:17.672Z
 tags:
   - win11
   - win10
@@ -39,19 +39,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 5. **[Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Flush your DNS and Renew your IP](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Reboot your network
 
  Before you try any of the fixes below, you may want to simply restart your game and router. If restarting the game multiple times failed to launch the game, you’ll need to restart your network:
@@ -64,6 +51,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -72,26 +66,26 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
@@ -137,10 +131,10 @@ OR
 3. Next time you open your game launcher, it will launch in admin mode.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
@@ -164,24 +158,30 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -209,18 +209,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ree-10-best-intro-maker-apps-for-iphone-and-android/"><u>[New] FREE 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-ultimate-guide-to-iphone-7-screen-recording-for-2024/"><u>[New] Ultimate Guide to iPhone 7 Screen Recording for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-quintessential-play-by-radio-stories/"><u>[Updated] 2024 Approved Quintessential Play-by-Radio Stories</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-synchronized-screenscapes-youtube-clips-in-tv-loops/"><u>[Updated] Synchronized Screenscapes YouTube Clips in TV Loops</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ultimate-guide-to-top-8-android-collaboration-platforms/"><u>2024 Approved Ultimate Guide to Top 8 Android Collaboration Platforms</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/50-popular-latin-phrases-to-impress-your-friends/"><u>50 Popular Latin Phrases to Impress Your Friends</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/av1-encoding-neueste-version-des-hardware-und-softwareencoders-zum-herunterladen-verfugbar-gemacht/"><u>AV1 Encoding: Neueste Version Des Hardware- Und Softwareencoders Zum Herunterladen Verfügbar Gemacht</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-review-lg-stylo-6-sleek-design-meets-precision-stylus/"><u>Comprehensive Review: LG Stylo 6 – Sleek Design Meets Precision Stylus</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-half-life-alyx-stutters-and-lags-optimized-gaming-experience/"><u>Fixes for 'Half-Life: Alyx' Stutters & Lags - Optimized Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-persistent-launch-failures-on-red-dead-redemption-2/"><u>Overcoming Persistent Launch Failures on Red Dead Redemption 2</u></a></li>
-<li><a href="https://blog-min.techidaily.com/three-ideal-ways-to-download-music-from-dailymotion-a-step-by-step-guide/"><u>Three Ideal Ways to Download Music From Dailymotion: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-nvidia-control-panel-malfunctions/"><u>Troubleshooting Steps: Resolving NVIDIA Control Panel Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unfreeze-your-strategy-tackling-cold-war-stuck-screens-in-video-game-consoles-and-computers/"><u>Unfreeze Your Strategy: Tackling 'Cold War' Stuck Screens in Video Game Consoles and Computers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-step-by-step-guide-to-mastering-windows-media-player-for-cd-management/"><u>[New] 2024 Approved Step-by-Step Guide to Mastering Windows Media Player for CD Management</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-superior-card-selection-for-4k-edit-workstations/"><u>[New] Superior Card Selection for 4K Edit Workstations</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-the-clear-path-to-crisp-videography-on-a-gopro-for-2024/"><u>[New] The Clear Path to Crisp Videography on a GoPro for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997679336-solved-world-of-warcraft-low-fps-2024-tips/"><u>[SOLVED] World of Warcraft Low FPS - 2024 Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-top-20-gags-and-laughter-on-youtube-for-downtime-delight/"><u>[Updated] In 2024, The Top 20 Gags & Laughter on YouTube for Downtime Delight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-hurdle-strategies-to-get-past-robloxs-loading-screen-problem/"><u>Bypassing the Hurdle: Strategies to Get Past Roblox's Loading Screen Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-civilization-vi-up-and-running-in-the-world-of-windows-11-tips-and-fixes/"><u>Getting Civilization VI Up and Running in the World of Windows 11 - Tips & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-repairing-the-issue-when-razer-synapse-fails-to-load/"><u>Guide to Repairing the Issue When Razer Synapse Fails to Load</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oppo-a2-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Oppo A2 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-inexpensive-pcs-optimized-video-settings-guide/"><u>In 2024, Inexpensive PCs Optimized Video Settings Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-riding-the-wave-strategies-for-high-likes-tiktok-unpacking-videos/"><u>In 2024, Riding the Wave Strategies for High-Likes TikTok Unpacking Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-your-gameplay-improve-frame-rate-and-cut-down-lag-on-fall-guys/"><u>Maximizing Your Gameplay: Improve Frame Rate and Cut Down Lag on Fall Guys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991385888-overcome-multiversus-crashes-with-these-8-proven-fixes-problem-solved/"><u>Overcome MultiVersus Crashes with These 8 Proven Fixes - Problem Solved</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/resolve-your-iphone-15-keeps-asking-for-outlook-password-by-drfone-ios/"><u>Resolve Your iPhone 15 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-your-pcs-wi-fi-woes-six-effective-steps-from-fixing-adapter-failure/"><u>Reviving Your PC's Wi-Fi Woes - Six Effective Steps From Fixing Adapter Failure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-your-gameplay-by-increasing-frames-per-second-fps-in-ring-of-elysium/"><u>Ultimate Guide: Enhancing Your Gameplay by Increasing Frames Per Second (FPS) in Ring of Elysium</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-your-discord-app-keep-crashing-issues/"><u>Ultimate Guide: Resolving Your Discord App Keep Crashing Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Game Glitch: Unraveling the Mystery of Consecutive System Failures"
-date: 2024-10-07T00:57:38.358Z
-updated: 2024-10-08T16:30:02.047Z
+date: 2024-10-08T07:35:18.773Z
+updated: 2024-10-15T07:27:27.461Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -58,6 +51,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 
 If this fix doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run as administrator
 
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
@@ -66,14 +66,21 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
@@ -87,15 +94,21 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -117,19 +130,25 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -141,25 +160,24 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -186,24 +204,24 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-heartfelt-cinematic-experiences-for-hopeful-hearts/"><u>[New] Heartfelt Cinematic Experiences for Hopeful Hearts</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-enhancing-winter-vlogs-with-five-heartwarming-backdrops/"><u>[Updated] Enhancing Winter Vlogs with Five Heartwarming Backdrops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-modern-warfare-2-how-to-solve-directx-errors-and-enhance-your-gaming-session/"><u>Call of Duty: Modern Warfare 2 - How to Solve DirectX Errors and Enhance Your Gaming Session</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-tech-remedies-successful-steps-in-getting-tekken-t-8-operational-on-personal-computers/"><u>DIY Tech Remedies - Successful Steps in Getting Tekken T 8 Operational on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-lag-no-more-solving-continuous-loop-problems-on-pc-windows-1110/"><u>Game Lag No More: Solving Continuous Loop Problems on PC (Windows 11/10)</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-input-device-not-recognized-by-monitor/"><u>How to Fix 'Input Device Not Recognized by Monitor'</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-lava-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Lava .</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-xs-max-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone XS Max Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-guide-updating-your-displaylink-drivers-on-windows-10-8-and-7/"><u>Latest Guide: Updating Your DisplayLink Drivers on Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000625110-left-4-dead-2-stability-enhancements-game-now-runs-without-interruptions-or-crashes/"><u>Left 4 Dead 2 Stability Enhancements - Game Now Runs Without Interruptions or Crashes!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-samsung-galaxy-a54-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-smart-8-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Smart 8 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-mystery-of-nvidia-geforce-experience-issue-error-code-0x0003/"><u>Resolving the Mystery of NVIDIA GeForce Experience Issue - Error Code 0X0003</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-unexpected-game-interruptions-in-the-witcher-3-wild-hunt-when-played-on-your-computer/"><u>Resolving Unexpected Game Interruptions in 'The Witcher 3: Wild Hunt' When Played on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/revolutionizing-the-remote-tech-industry-with-virtual-reality-and-digital-twin-technology-zdnet-insights/"><u>Revolutionizing the Remote Tech Industry with Virtual Reality & Digital Twin Technology | ZDNet Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-overcoming-nvidia-connection-error-on-your-pc-or-laptop/"><u>Solution Steps: Overcoming 'NVIDIA Connection Error' On Your PC or Laptop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-puzzle-effective-ways-to-get-your-google-meet-camera-working-again/"><u>Solving the Puzzle: Effective Ways to Get Your Google Meet Camera Working Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-solutions-to-resolve-issues-with-tiny-tinas-calm-kingdom-on-your-pc-build/"><u>Top Solutions to Resolve Issues with Tiny Tina's Calm Kingdom on Your PC Build</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-the-finest-airtag-wallets-of-2024-expert-opinions/"><u>Ultimate Guide to the Finest AirTag Wallets of 2024: Expert Opinions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ont-overlook-tags-in-video-description-for-2024/"><u>[New] Don't Overlook Tags in Video Description for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-integrate-srt-into-windowsmacos-operations/"><u>[Updated] Integrate SRT Into Windows/macOS Operations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting-in-2024/"><u>2023|How to Share Videos on Twitter on Your Phone Without Retweeting, In 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-the-one-way-outlook-issue-in-secure-environments/"><u>Addressing the One-Way Outlook Issue in Secure Environments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-fixing-error-code-5573-guide/"><u>Call of Duty: Vanguard - Fixing Error Code 5573 Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997418239-enhance-counter-strike-global-offensive-gaming-with-these-frame-rate-fixes-no-more-fps-fluctuations/"><u>Enhance Counter-Strike Global Offensive Gaming with These Frame Rate Fixes - No More FPS Fluctuations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-pc-experience-no-more-hell-let-loose-game-crashes-here/"><u>Enhance Your PC Experience - No More Hell Let Loose Game Crashes Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-dragons-dogma-nks-frame-rate-how-to-tackle-lag-and-stuttering-challenges/"><u>Enhancing Dragon's Dogma Nk's Frame Rate: How to Tackle Lag & Stuttering Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-minecraft-launcher-issue-resolving-exit-code-nought/"><u>Fixing Minecraft Launcher Issue: Resolving 'Exit Code ˈnought'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-minecraft-keeps-crashing-6-simple-steps/"><u>How to Fix Minecraft Keeps Crashing: 6 Simple Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-black-screen-problems-when-presenting-your-screen-in-discord-chats/"><u>How to Overcome Black Screen Problems When Presenting Your Screen in Discord Chats</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/lighten-up-on-slow-prints-quickly/"><u>Lighten Up on Slow Prints Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-your-fortnite-experience-tackle-persistent-pc-crashes/"><u>Master Your Fortnite Experience: Tackle Persistent PC Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-error-0xc0000001-in-windows-os/"><u>Solving Error 0xC0000001 in Windows OS</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-path-to-youtube-stardom-utilizing-sony-vegas-for-professional-cuts/"><u>The Path to YouTube Stardom Utilizing Sony Vegas for Professional Cuts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-consistent-breakdowns-in-pc-playthrough-of-watch-dogs-legion/"><u>Understanding and Fixing Consistent Breakdowns in PC Playthrough of 'Watch Dogs: Legion'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/vr-unleashed-in-depth-reviews-of-peripherals/"><u>VR Unleashed - In-Depth Reviews of Peripherals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
 </ul></div>
 

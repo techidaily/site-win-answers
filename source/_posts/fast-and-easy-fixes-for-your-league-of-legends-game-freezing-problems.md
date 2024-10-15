@@ -1,7 +1,7 @@
 ---
 title: Fast and Easy Fixes for Your League of Legends Game Freezing Problems
-date: 2024-10-02T20:08:28.654Z
-updated: 2024-10-08T17:03:23.420Z
+date: 2024-10-08T19:19:39.101Z
+updated: 2024-10-15T01:43:51.596Z
 tags:
   - win11
   - win10
@@ -88,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -100,9 +100,23 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -115,13 +129,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -139,29 +146,35 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -174,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/8c3061c39eb85dd875af824e1d1149fd13be54628
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -208,20 +214,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-channel-buying-made-simple-a-beginners-toolkit/"><u>[New] 2024 Approved Channel Buying Made Simple A Beginner’s Toolkit</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-intuitive-method-setting-up-snapchat-on-a-mac/"><u>[New] In 2024, Intuitive Method Setting up Snapchat on a Mac</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterclass-the-different-faces-of-hand-tracker/"><u>[New] Masterclass The Different Faces of Hand Tracker</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-follow-forward-guide-accumulating-1000-likesmonth-on-ig/"><u>[Updated] 2024 Approved The Follow-Forward Guide Accumulating 1,000 Likes/Month on IG</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-easy-video-calls-with-googles-hangouts-on-your-android/"><u>[Updated] Easy Video Calls with Google's Hangouts on Your Android</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-master-the-art-of-snapchats-boomerangs/"><u>[Updated] In 2024, Master the Art of Snapchat's Boomerangs</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-launching-a-successful-stream-on-discord-essential-steps-revealed/"><u>[Updated] Launching a Successful Stream on Discord Essential Steps Revealed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-solving-crashes-in-horizon-forbidden-west-full-version-on-your-pc/"><u>Complete Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Your PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-selection-free-on-track-racing-games/"><u>Discover the Ultimate Selection: Free On-Track Racing Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-issues-in-euro-truck-simulator-2-a-comprehve-solutions-compilation/"><u>Fixing PC Issues in Euro Truck Simulator 2 - A Comprehve Solutions Compilation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-launch-failed-a-guide-for-starfield-players-on-pc-and-xbox/"><u>Fixing the 'Launch Failed': A Guide for Starfield Players on PC and Xbox</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-repair-tips-for-the-error-microsoft-internet-explorer-has-stopped-working-issue/"><u>Step-by-Step Repair Tips for the 'Error - Microsoft Internet Explorer Has Stopped Working' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackling-elevated-cpu-demands-on-your-new-computer-system-a-guide/"><u>Tackling Elevated CPU Demands on Your New Computer System: A Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-stop-ready-or-not-from-failing-on-windowsmac/"><u>Troubleshooting Steps: How to Stop 'Ready or Not' From Failing on Windows/Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-mastering-facebook-video-sharing-essential-tips/"><u>[Updated] In 2024, Mastering Facebook Video Sharing Essential Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamlining-video-editing-on-windows-11s-movie-maker/"><u>2024 Approved Streamlining Video Editing on Windows 11'S Movie Maker</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-11-techniques-for-stunning-color-balance/"><u>2024 Approved Top 11 Techniques for Stunning Color Balance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024-ultimate-tips-for-immediate-resolution-of-battlefield-5-wont-start-glitch/"><u>2024 Ultimate Tips for Immediate Resolution of Battlefield 5 Won't Start Glitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-modern-warfare-running-smoothly-on-your-pc-common-fixes-and-tips/"><u>Get Modern Warfare Running Smoothly on Your PC : Common Fixes & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mount-and-blade-ii-bannerlord-resolving-the-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving the Game Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/online-account-access-restored-origin-sign-in-issues-resolved/"><u>Online Account Access Restored - Origin Sign-In Issues Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002964632-shader-compilation-woes-in-call-of-duty-black-ops-cold-war-heres-how-you-can-resolve-them/"><u>Shader Compilation Woes in Call of Duty: Black Ops Cold War? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-sign-in-difficulties-heres-how-you-can-fix-them/"><u>Steam Sign-In Difficulties? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://win-hot.techidaily.com/stratus/"><u>Stratus</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-ultimate-guide-incorporating-informative-commentary-in-youtube-videos/"><u>The Ultimate Guide Incorporating Informative Commentary in YouTube Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-7-must-try-iphone-vr-experiences-you-cant-miss/"><u>Top 7 Must-Try iPhone VR Experiences You Can’t Miss</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-iphone-auto-brightness-issues-top-7-solutions/"><u>Troubleshoot iPhone Auto-Brightness Issues: Top 7 Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-faulty-windows-spotlight-feature-in-windows-11/"><u>Troubleshooting Guide for Faulty Windows Spotlight Feature in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-full-access-to-your-vr-world-overcoming-startup-problems/"><u>Unlocking Full Access to Your VR World: Overcoming Startup Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wonderfox/"><u>WonderFox ウェブサイトでの購入が安全でしょうか?</u></a></li>
 </ul></div>
 

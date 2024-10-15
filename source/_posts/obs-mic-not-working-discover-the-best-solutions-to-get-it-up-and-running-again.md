@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2024-10-06T19:53:41.754Z
-updated: 2024-10-08T20:27:12.037Z
+date: 2024-10-09T03:35:02.215Z
+updated: 2024-10-15T06:37:03.407Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -45,21 +52,14 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Then close**Task Manager** .
@@ -73,22 +73,8 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
@@ -97,9 +83,23 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -143,20 +143,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-best-practices-for-secure-transfer-of-phones-camera-roll-content-to-snapchat/"><u>[New] 2024 Approved Best Practices for Secure Transfer of Phone's Camera Roll Content to Snapchat</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-leading-8-linux-programs-for-screenshots/"><u>[New] The Leading 8 Linux Programs for Screenshots</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-streamlining-short-form-content-leading-edits-for-iosandroid/"><u>[Updated] 2024 Approved Streamlining Short-Form Content Leading Edits for iOS/Android</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-7-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 7 Without a Passcode</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bring-your-videos-into-the-future-converting-sdr-to-hdr-with-ease-for-2024/"><u>Bring Your Videos Into the Future Converting SDR to HDR with Ease for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experience-the-thrill-avatar-frontier-journey-awaits-gamer-enthusiasts-on-pc-platform/"><u>Experience the Thrill: Avatar Frontier Journey Awaits Gamer Enthusiasts on PC Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-rust-from-continuously-crashing/"><u>Fixes & Solutions: How to Stop Rust From Continuously Crashing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-fix-nonfunctional-auto-brightness-feature-in-iphones-a-7-step-guide/"><u>How to Fix Nonfunctional Auto-Brightness Feature in iPhones: A 7-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobia-performance-tips-reducing-spiked-cpu-use-during-gameplay/"><u>Phasmophobia Performance Tips: Reducing Spiked CPU Use During Gameplay</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/quick-start-recording-audio-on-windows-11-for-2024/"><u>Quick Start Recording Audio on Windows 11 for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-effective-solutions-for-overcoming-lag-in-fortnite/"><u>Resolved: Effective Solutions for Overcoming Lag in Fortnite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-diablo-3-crashes-effective-troubleshooting-steps/"><u>Say Goodbye to Diablo 3 Crashes: Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-upgrading-graphics-driver-for-optimal-performance-in-forza-horizon-5/"><u>Step-by-Step: Upgrading Graphics Driver for Optimal Performance in Forza Horizon 5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-making-your-steam-controller-work-again-under-windows-os/"><u>Troubleshoot: Making Your Steam Controller Work Again Under Windows OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-after-fixing-steam-server-connection-problems/"><u>Troubleshooting Steps After Fixing Steam Server Connection Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-maximize-your-virtual-engagements-using-obs-and-zoom/"><u>[New] How to Maximize Your Virtual Engagements Using OBS & Zoom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-the-frustration-top-fixes-for-warcraft-3-reforged-continuous-crashing-on-windows/"><u>Avoid the Frustration! Top Fixes for Warcraft 3 Reforged Continuous Crashing on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-remedies-for-the-live-config-servers-connection-error-challenge/"><u>Effective Remedies for the 'Live Config Servers Connection Error’ Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hogwarts-legacy-troubleshooting-eliminate-stutter-with-our-6-effective-fixes-for-gamers/"><u>Hogwarts Legacy Troubleshooting: Eliminate Stutter with Our 6 Effective Fixes for Gamers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-v2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic V2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-five-tips-for-writing-dialogue-and-narrative-scripts/"><u>In 2024, Five Tips for Writing Dialogue and Narrative Scripts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-interruptions-death-strandings-pc-version-stabilizes-against-earlier-crash-reports/"><u>No More Interruptions: Death Stranding's PC Version Stabilizes Against Earlier Crash Reports</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-game-crashing-here-are-8-proven-fixes-for-marvels-guardians-of-the-galaxy-issues/"><u>PC Game Crashing? Here Are 8 Proven Fixes for Marvel's Guardians of the Galaxy Issues</u></a></li>
 </ul></div>
 

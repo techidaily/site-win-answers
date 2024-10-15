@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Enhance Performance: Stop Chrome Freezes in Windows Pressure"
-date: 2024-10-03T00:54:17.083Z
-updated: 2024-10-08T16:48:45.180Z
+date: 2024-10-14T02:38:49.392Z
+updated: 2024-10-14T16:18:24.173Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -54,13 +54,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -76,26 +69,27 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
 
@@ -117,13 +111,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
@@ -148,10 +135,10 @@ Here’s how you can check for updates manually:
 3. Click**Windows Update** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
@@ -160,10 +147,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -182,6 +169,14 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
 
@@ -204,24 +199,22 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-rhythmreview-music-and-dialogue-analysis/"><u>[Updated] 2024 Approved RhythmReview Music and Dialogue Analysis</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-androids-top-12-ultimate-wildlife-game-picks/"><u>[Updated] In 2024, Android's Top 12 Ultimate Wildlife Game Picks</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-pc-and-mac-techniques-utilizing-dslr-for-facebook-live/"><u>[Updated] PC & Mac Techniques Utilizing DSLR for Facebook LIVE</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-craftsmanship-weaving-voiceovers-into-visual-tapestries-for-2024/"><u>Audio Craftsmanship Weaving Voiceovers Into Visual Tapestries for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/data-salvage-pro-your-financial-friend/"><u>Data Salvage Pro - Your Financial Friend</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/digital-domain-decisions-short-form-content-for-2024/"><u>Digital Domain Decisions Short-Form Content for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-0xc0000022-on-adobe-causes-and-effective-resolution-steps/"><u>Error Code 0xC0000022 on Adobe: Causes and Effective Resolution Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-the-crashing-problem-in-frostpunk-solutions-unveiled/"><u>Fixes for the 'Crashing' Problem in Frostpunk: Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-ensuring-successful-launches-for-steam-games-on-windows-11/"><u>Guide: Ensuring Successful Launches for Steam Games on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999638756-immortals-of-the-fenyx-series-release-obstacles-overcome-and-launch-achieved/"><u>Immortals of the Fenyx Series – Release Obstacles Overcome & Launch Achieved!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>In 2024, Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-nokia-g42-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Nokia G42 5G Phone Pattern Lock</u></a></li>
-<li><a href="https://win-answers.techidaily.com/nier-automata-remake-wont-start-troubleshooting-tips/"><u>NieR: Automata Remake Won't Start - Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/prevent-and-resolve-pc-instances-of-hyper-scape-crashes/"><u>Prevent and Resolve PC Instances of Hyper Scape Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/preventing-and-fixing-game-crashes-on-windows-for-virtuality-v/"><u>Preventing and Fixing Game Crashes on Windows for 'Virtuality V'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-lags-and-stuttering-with-the-improved-version-of-cyberpunk-2077/"><u>Say Goodbye to Lags and Stuttering with the Improved Version of Cyberpunk 2077</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/ten-titles-that-triumph-top-8-apps-to-gain-facebook-likeability/"><u>Ten Titles That Triumph Top 8 Apps to Gain Facebook Likeability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-rainbow-six-extraction-pc-issues/"><u>Troubleshooting Tips for Resolving Rainbow Six Extraction PC Issues</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/unraveling-romance-rivalry-spains-spanish-versus-portugals-portuguese/"><u>Unraveling Romance Rivalry: Spain's Spanish Versus Portugal's Portuguese</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-instagrams-unusual-video-aspect-ratio-anomalies/"><u>[New] Examining Instagram's Unusual Video Aspect Ratio Anomalies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-video-moolah-anywhere-via-youtube-studios-tools/"><u>[New] Maximizing Video Moolah Anywhere via YouTube Studio's Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-darklight-studio-lightrooms-cheap-equivalents/"><u>2024 Approved Darklight Studio Lightroom's Cheap Equivalents</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enhance-your-yt-summary-top-notch-template-guides/"><u>2024 Approved Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>2024 Approved The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-solution-steps-stop-borderlands-3-from-crashing-and-hanging/"><u>Complete Solution Steps: Stop Borderlands 3 From Crashing and Hanging</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-frozen-code-cyberpunk-2077s-problem-solved/"><u>Cracking the Frozen Code: Cyberpunk 2077'S Problem Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-end-the-frontier-game-crash-cycle-on-your-computer-issue-fixed/"><u>Expert Advice: End the Frontier Game Crash Cycle on Your Computer - Issue Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-it-right-solving-non-launch-problems-with-pc-version-of-tekken-8/"><u>Fix It Right: Solving Non-Launch Problems with PC Version of Tekken 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/herbs-portuguese-cuisine-is-characterized-by-the-use-of-aromatic-herbs-like-coriander-parsley-basil-rosemary-thyme-and-bay-leaves-that-add-depth-to-stews-an612/"><u>Herbs: Portuguese Cuisine Is Characterized by the Use of Aromatic Herbs Like Coriander, Parsley, Basil, Rosemary, Thyme and Bay Leaves that Add Depth to Stews and Sauces, Infuse Olive Oil or Are Used as Garnishes for Fish Dishes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-s18e-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo S18e? Try These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003962714-mastering-back-4-blood-playtime-without-interruptions-stop-the-game-from-crashing-now/"><u>Mastering 'Back 4 Blood' Playtime Without Interruptions – Stop The Game From Crashing Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-the-maze-of-directx-errors-in-call-of-duty-modern-warfare-2/"><u>Navigating Through the Maze of DirectX Errors in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-masterclass-eliminating-stutters-and-lag-in-outlast-freedom-gaming-experience/"><u>PC Masterclass: Eliminating Stutters & Lag in Outlast Freedom Gaming Experience</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-apple-pay-glitches-in-minutes-with-these-10-troubleshooting-steps/"><u>Resolve Apple Pay Glitches in Minutes with These 10 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-problem-why-isnt-my-amazon-prime-video-playing/"><u>Resolving the Problem: Why Isn't My Amazon Prime Video Playing?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-itel-a60-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Itel A60 Fingerprint Not Working Solutions</u></a></li>
 </ul></div>
 
