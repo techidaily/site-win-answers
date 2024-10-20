@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2024-10-08T19:03:48.202Z
-updated: 2024-10-14T17:22:49.671Z
+date: 2024-10-18T18:42:14.550Z
+updated: 2024-10-20T20:26:08.794Z
 tags:
   - win11
   - win10
@@ -61,10 +61,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -90,13 +90,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -105,14 +98,21 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
@@ -121,10 +121,10 @@ To do so, first visit the website of your GPU manufacturer:
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
@@ -152,17 +152,19 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-your-content-from-instagram-vids-to-crisp-mp4-files/"><u>[Updated] Elevate Your Content From Instagram Vids to Crisp MP4 Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/advanced-strategies-to-prevent-obs-crashes-on-windows-10-and-windows-11-expert-advice/"><u>Advanced Strategies to Prevent OBS Crashes on Windows 10 and Windows 11 - Expert Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-easy-launch-guide-fixing-wont-launch-error-with-simple-troubleshooting-steps/"><u>Battlefield Easy Launch Guide : Fixing 'Won't Launch' Error with Simple Troubleshooting Steps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/catalonias-language-lifeline-daily-dips/"><u>Catalonia's Language Lifeline – Daily Dips</u></a></li>
-<li><a href="https://discover-best.techidaily.com/free-deinterlacing-techniques-mastering-video-conversion-with-handbrake/"><u>Free Deinterlacing Techniques: Mastering Video Conversion with HandBrake</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-download-torrents-step-by-step/"><u>How to Download Torrents Step by Step</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-restore-ringtones-and-fix-muted-phone-issues-on-iphone/"><u>How to Restore Ringtones and Fix Muted Phone Issues on iPhone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-solutions-to-tackle-divison-2s-lag-issues/"><u>Optimizing Performance: Solutions to Tackle Divison 2'S Lag Issues</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/seamless-audio-integration-in-instagram-visuals-and-stories/"><u>Seamless Audio Integration in Instagram Visuals & Stories</u></a></li>
-<li><a href="https://media-tips.techidaily.com/streamlining-your-viewing-choices-without-falling-for-the-hype-in-show-reviews/"><u>Streamlining Your Viewing Choices Without Falling for the Hype in Show Reviews</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/tailor-your-vocal-expression-masterful-techniques-for-snapchat-voices-for-2024/"><u>Tailor Your Vocal Expression Masterful Techniques for Snapchat Voices for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-amd-radeon-software-launch-issues/"><u>Troubleshooting Steps for Resolving AMD Radeon Software Launch Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-essential-steps-for-adding-videos-to-your-instagram-story/"><u>[New] Essential Steps for Adding Videos to Your Instagram Story</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-revealing-the-invisible-an-organized-exploration-of-youtubes-secrets/"><u>[Updated] 2024 Approved Revealing the Invisible An Organized Exploration of YouTube's Secrets</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-ipad-based-time-lapse-videos/"><u>[Updated] The Ultimate Guide to iPad-Based Time-Lapse Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-persistent-pc-issues-solving-arcadegeddons-crash-problem/"><u>Fixing the Persistent PC Issues: Solving Arcadegeddon's Crash Problem</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Realme C53? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Sony Xperia 5 V? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-xiaomi-redmi-note-12-4g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Xiaomi Redmi Note 12 4G FRP Without Computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-y17s-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo Y17s</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-league-of-legends-2024-connection-issue-patch-notes/"><u>Resolved: League of Legends' 2024 Connection Issue Patch Notes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-robocop-rogue-city-glitches-a-guide-to-stable-play-on-your-computer/"><u>Solving RoboCop: Rogue City Glitches – A Guide to Stable Play on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-playstation-4-freeze-issues-with-easy-steps/"><u>Solving Your PlayStation 4 Freeze Issues with Easy Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stabilized-five-nights-at-freddys-secure-gameplay-for-your-pc-now/"><u>Stabilized Five Nights at Freddy's: Secure Gameplay for Your PC Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-the-implications-of-violation-notifications-a-deep-dive-into-civ-n-exception-case-6/"><u>Understanding the Implications of Violation Notifications: A Deep Dive Into CIV N Exception, Case 6</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-high-res-sky-scenes-with-mi-drone-for-2024/"><u>Unveiling the High-Res Sky Scenes with Mi Drone for 2024</u></a></li>
 </ul></div>
 
