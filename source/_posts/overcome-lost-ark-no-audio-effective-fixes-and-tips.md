@@ -1,7 +1,7 @@
 ---
 title: "Overcome Lost Ark No Audio: Effective Fixes and Tips"
-date: 2024-09-11T05:45:40.672Z
-updated: 2024-09-12T05:45:40.672Z
+date: 2024-10-19T17:20:21.148Z
+updated: 2024-10-26T16:12:03.859Z
 tags:
   - win11
   - win10
@@ -32,19 +32,12 @@ Nothing is worse than having a game that crashes every time you launch it. Recen
 7. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your CSGO](https://tools.techidaily.com/drivereasy/download/)**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Restart your PC
 
@@ -64,39 +57,18 @@ Nothing is worse than having a game that crashes every time you launch it. Recen
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/csgo-not-launching-2.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** Delete the**autoexec.cfg file** in the current directory.
 
  CSGO uses an autoexec.cfg file to ensure some commands or settings are always set. The file is automatically executed on startup.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/csgo-not-launching.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **4)** Relaunch the game to see if this method worked.
 
@@ -137,19 +109,12 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1023.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -166,19 +131,12 @@ If the problem still exists, try the next fix below.
 
 If the launching problem continues to occur, go to the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Verify the integrity of CSGO files
 
@@ -189,26 +147,6 @@ If the launching problem continues to occur, go to the next fix.
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-355-604x79-1-4.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **3)**  Right-click **Counter-Strike: Global Offensive** and select **Properties** .
 
@@ -224,26 +162,6 @@ If the launching problem continues to occur, go to the next fix.
 
 If the game still won’t launch, try the next fix below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 6: Run **_CSGO_** as an administrator
 
 _CSGO_ may fail to access certain game files and folders if you’re running it under a standard user account. This can cause errors when launching a game. To fix it, you can run the game as an administrator to give it high integrity access. Here is how to do it:
@@ -258,20 +176,6 @@ _CSGO_ may fail to access certain game files and folders if you’re running it 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-353-4.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **4)** Launch _CSGO_ from Steam.
 
 If this didn’t work, then go ahead with the next fix.
@@ -284,9 +188,23 @@ If this didn’t work, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer after the update is complete, then try running _CSGO_ again. If the issue persists, try the fix, below.
 
@@ -304,37 +222,16 @@ If this didn’t work, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-136.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-137.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **5)** Exit Steam.
 
@@ -344,39 +241,18 @@ If this didn’t work, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/csgo-not-launching-3-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)**  Highlight the **Counter-Strike Global Offensive folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/csgo-not-launching-4.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **9)**  Relaunch Steam to download and reinstall_CSGO_ .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Conclusion
 
@@ -398,8 +274,6 @@ If this didn’t work, then go ahead with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -407,4 +281,24 @@ If this didn’t work, then go ahead with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-cutting-edge-edits-mastering-picart-backdrop-removal/"><u>[New] 2024 Approved Cutting-Edge Edits Mastering PicArt Backdrop Removal</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-god-of-war-fps-drops-on-pc/"><u>[SOLVED] God of War FPS Drops on PC</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-enhance-videos-naturally-free-9-youtube-thumbnail-crafting-tips/"><u>[Updated] 2024 Approved Enhance Videos Naturally - Free 9 YouTube Thumbnail Crafting Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/access-your-devices-the-complete-netgear-default-passwords-update-july-2024/"><u>Access Your Devices: The Complete NETGEAR Default Passwords Update – July 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alan-wake-2-crash-solutions-top-5-troubleshooting-steps-of-2024/"><u>Alan Wake 2 Crash Solutions: Top 5 Troubleshooting Steps of 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-or-google-translate-an-in-depth-comparison-of-translation-capabilities/"><u>ChatGPT or Google Translate? An In-Depth Comparison of Translation Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-when-your-voice-chat-content-warning-stops-responding/"><u>Expert Fixes for When Your Voice Chat Content Warning Stops Responding</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-motorola-razr-40-by-drfone-android/"><u>How to Bypass FRP from Motorola Razr 40?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-trouplem-cam-input-not-detected-problem-in-snap-app/"><u>How to Trouplem Cam Input Not Detected Problem in Snap App</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mkv-streaming-profi-lizenzfreier-videoplayer-fur-hochwertige-filme-und-serien/"><u>MKV Streaming Profi: Lizenzfreier Videoplayer Für Hochwertige Filme Und Serien</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/screencast-pro-efficient-recording-macpc-upload-to-youtube-for-2024/"><u>ScreenCast Pro Efficient Recording, Mac/PC Upload to YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-fixing-acrocefexe-application-glitches/"><u>Step-by-Step Solution for Fixing AcroCEF.exe Application Glitches</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723207720401-struggling-to-print-a-pdf-file-heres-how-to-resolve-it-swiftly/"><u>Struggling to Print a PDF File? Here's How to Resolve It Swiftly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-foundations-of-building-your-twitter-profile-for-2024/"><u>The Foundations of Building Your Twitter Profile for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixed-itunes-reveals-audio-config-errors/"><u>Troubleshooting Fixed: ITunes Reveals Audio Config Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-cant-i-start-age-of-empires-iv/"><u>Troubleshooting Guide: Why Can't I Start Age of Empires IV?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-sony-vegas-crashes-get-your-project-up-and-running/"><u>Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running!</u></a></li>
+</ul></div>
 

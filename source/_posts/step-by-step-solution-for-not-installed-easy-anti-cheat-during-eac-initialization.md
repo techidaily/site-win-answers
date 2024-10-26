@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization
-date: 2024-10-14T20:46:01.487Z
-updated: 2024-10-20T16:15:50.425Z
+date: 2024-10-24T17:27:06.280Z
+updated: 2024-10-26T16:56:45.593Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
 If Fortnite still fails, don’t worry. Try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Clear the Binaries folder
 
  Another quick fix to this issue is removing the Binaries folder for Fortnite. Follow the instructions below:
@@ -55,13 +48,6 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 **1)** On your keyboard, press the **Windows logo** **key**  and **E** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
@@ -74,6 +60,13 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 **4)** Relaunch Epic Games Launcher and try running your game again.
 
 If you still can’t open Fortnite, move on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
 
@@ -92,10 +85,10 @@ If you still can’t open Fortnite, move on and try the next fix.
  This process could take several minutes. Please wait for it to be complete. Then, try launching Fortnite to test your problem. If you still get the error message, don’t worry! There are still 2 fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair the EasyAntiCheat
@@ -106,20 +99,34 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-38.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type**easyanticheat** in the search box and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click **Repair Service** .
 
@@ -127,14 +134,14 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
 
- After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
 ### Fix 5: Reinstall Fortnite
 
@@ -145,6 +152,13 @@ If you still can’t open Fortnite, move on and try the next fix.
 **2)**  Click **Library** and then click the **Settings**  button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-42.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click **UNINSTALL.**
 
@@ -157,13 +171,6 @@ If you still can’t open Fortnite, move on and try the next fix.
 ---
 
  Do you know that simply updating the graphics driver can fix many common game issues such as game lags or crashes? Check the Bonus tip below to see how to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip: Update your graphics driver
 
@@ -180,13 +187,6 @@ OR
  Epson keeps updating drivers. To get them, you need to go to your graphics product manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update** your graphics driver
 
@@ -230,18 +230,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-spectral-control-enhancing-image-aesthetics-for-2024/"><u>[New] Spectral Control Enhancing Image Aesthetics for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a78-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A78 5G PC | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007590643-beat-tesos-launch-error-effective-troubleshooting-steps-inside/"><u>Beat TESO's Launch Error – Effective Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://games-able.techidaily.com/gear-evaluation-uniting-asus-tuf-proart-and-prime-insights/"><u>Gear Evaluation: Uniting Asus, Tuf, ProArt, and Prime Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-steams-inability-to-update-cloud-data-successfully/"><u>How to Fix Steam's Inability to Update Cloud Data Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-recurring-shutdowns-in-your-moonlight-user-interface/"><u>How To Stop Recurring Shutdowns in Your Moonlight User Interface</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-frame-rate-in-tainted-grail-conquest-top-strategies/"><u>Improving Frame Rate in Tainted Grail: Conquest - Top Strategies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/narrative-basics-explanation-for-2024/"><u>Narrative Basics Explanation for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidia-rtx-2n60-graphics-card-fresh-driver-downloads-for-all-windows-oses-including-win-11-10-8-and-7/"><u>NVIDIA RTX 2N60 Graphics Card - Fresh Driver Downloads for All Windows OSes Including Win 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-directx-challenges-to-optimize-your-fifa-20-performance/"><u>Overcoming DirectX Challenges to Optimize Your FIFA 20 Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-restoring-access-to-your-steam-contacts-network/"><u>Solution Guide: Restoring Access to Your Steam Contacts Network</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-tips-for-increasing-frames-per-second-fps-in-new-world-mmo/"><u>Top Tips for Increasing Frames per Second (FPS) in New World MMO</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-how-to-create-a-quick-google-collage-photo/"><u>[New] 2024 Approved How to Create a Quick Google Collage Photo</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-flip-the-script-on-classic-films-7-list/"><u>[New] In 2024, Flip the Script on Classic Films, #7 List</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-trick-for-effortless-video-playback-from-youtube-to-facebook-groups/"><u>[New] In 2024, Trick for Effortless Video Playback From Youtube to Facebook Groups</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-depth-motion-assessment-2023/"><u>[New] In-Depth Motion Assessment 2023</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/best-audio-file-converter-software-compatible-with-windows-11/"><u>Best Audio File Converter Software Compatible with Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-directx-compatibility-problems-in-call-of-dutys-latest-installment/"><u>Bypassing DirectX Compatibility Problems in Call of Duty's Latest Installment</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-camon-20-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Camon 20 Is Unlocked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-msi-afterburner-cant-recognize-your-graphics-card-in-windows-10-or-11/"><u>How to Fix: MSI Afterburner Can't Recognize Your Graphics Card in Windows 10 or 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-battlefield-conquering-chivalry-2-groggy-performance-and-slow-response-times-with-new-tricks-expert-insights/"><u>Master the Battlefield: Conquering Chivalry 2' Groggy Performance and Slow Response Times with New Tricks [Expert Insights]</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/spice-up-your-videos-7-premium-royalty-free-audio-clips-for-2024/"><u>Spice Up Your Videos 7 Premium, Royalty-Free Audio Clips for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/start-off-right-top-gear-for-aspiring-gopro-users/"><u>Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-fall-guys-wont-start-expert-solutions-to-launch-and-crash-issues/"><u>Why Fall Guys Won't Start? Expert Solutions to Launch and Crash Issues</u></a></li>
 </ul></div>
 

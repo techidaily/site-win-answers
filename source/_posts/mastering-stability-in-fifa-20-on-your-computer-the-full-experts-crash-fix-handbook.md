@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability in FIFA 20 on Your Computer: The Full Expert's Crash Fix Handbook"
-date: 2024-10-15T20:42:29.747Z
-updated: 2024-10-20T21:55:43.864Z
+date: 2024-10-22T16:19:22.989Z
+updated: 2024-10-26T17:58:59.479Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 4. [**Close in-game overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  At some point, 2K21 will crash if you have important game files missing or corrupted. To verify the integrity of your game files, simply follow these steps:
@@ -59,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 1. Open your Steam client. Navigate to the**LIBRARY** tab. Right-click**NBA 2K21** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
 3. Launch NBA 2K21 and check if it crashes again.
@@ -84,18 +84,18 @@ You can follow these steps to install all Windows updates:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
 After updating your system, you can open NBA 2K21 and test your gameplay.
 
 If 2K21 crashes again, simply move on to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -110,8 +110,22 @@ If 2K21 crashes again, simply move on to the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -120,10 +134,10 @@ If 2K21 crashes again, simply move on to the next method.
  If this fix doesn’t solve your problem, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Close in-game overlay
@@ -135,19 +149,6 @@ For example, you can use these steps to disable Steam overlay:
 1. Open your Steam client. On the top left corner, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Select**In-Game** from the left menu. Under the**Steam Overlay** section,**uncheck** these three boxes and click**OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch NBA 2K21 and see if the issue persists.
@@ -162,25 +163,18 @@ For example, you can use these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. From the menu on the left, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text to the right of **Vertical sync** and select **off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Second, you need to disable VSync in NBA 2K21\. Launch 2K21 and go to FEATURES > VIDEO SETTINGS. Then set**Vertical Sync** to**off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
 4. Restart NBA 2K21 and check if your problem has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -201,16 +195,20 @@ For example, you can use these steps to disable Steam overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-ballot-bonanza-5-best-political-game-line-ups/"><u>[New] 2024 Approved Ballot Bonanza 5 Best Political Game Line-Ups</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-best-9-virtual-mic-recorders-to-enhance-remote-sessions-23-for-2024/"><u>[New] Best 9 Virtual Mic Recorders to Enhance Remote Sessions ('23) for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ow-to-make-a-youtube-intro-with-best-youtube-intro-makers/"><u>[New] How to Make a YouTube Intro With Best YouTube Intro Makers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online/"><u>[New] Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-youtube-disruptions-effective-ways-to-play-without-interruption/"><u>Defeat YouTube Disruptions: Effective Ways to Play Without Interruption</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-fixes-overcome-issues-with-world-of-warships-on-pc-in-just-five-steps/"><u>Essential Fixes: Overcome Issues with World of Warships on PC in Just Five Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-frequent-crashes-of-cautionary-messages-during-web-sessions/"><u>Expert Tips for Resolving Frequent Crashes of Cautionary Messages During Web Sessions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-addressing-game-crash-problems-in-persona-3-portable-edition-for-pc-users/"><u>Expert Tips: Addressing Game Crash Problems in Persona 3: Portable Edition for PC Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-excessive-cpu-consumption-caused-by-wudfhostexe-on-windows-10/"><u>How to Resolve Excessive CPU Consumption Caused by WUDFHost.exe on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007489062-solution-found-la-noire-now-available-for-pc-gamers/"><u>Solution Found: L.A. Noire Now Available for PC Gamers!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-samsung-galaxy-note-9-evaluation-top-contender-in-large-display-smartphones/"><u>Ultimate Samsung Galaxy Note 9 Evaluation: Top Contender in Large-Display Smartphones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-creators-uniting-for-marvels-digital-future/"><u>[New] 2024 Approved Creators Uniting for Marvel's Digital Future</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-complete-guide-to-record-desktop-screen-on-windows-for-free-3-ways/"><u>[New] In 2024, Complete Guide to Record Desktop Screen on Windows for Free [3 Ways]</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-innovativescreens-newrecorderx-reviewed-and-rated-for-2024/"><u>[New] InnovativeScreens' NewRecorderX Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-art-of-thumbnail-design-choosing-best-fonts/"><u>[New] The Art of Thumbnail Design Choosing Best Fonts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>[Updated] Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-methods-for-troubleshooting-acrocefexe-application-malfunctions/"><u>Effective Methods for Troubleshooting acroCEF.exe Application Malfunctions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/essential-tips-installing-vrecorder-for-2024/"><u>Essential Tips Installing VRecorder for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-solving-gtfo-software-hangups-effectively/"><u>Expert Advice on Solving GTFO Software Hangups Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-correcting-the-error-of-steelseries-gg-game-controller-not-working-in-windows-systems/"><u>Expert Advice: Correcting the Error of SteelSeries GG Game Controller Not Working in Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-biomutant-pc-crashing-ultimate-guide-with-solutions/"><u>How to Prevent Biomutant PC Crashing - Ultimate Guide with Solutions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/immerse-slides-with-audio-harmony/"><u>Immerse Slides with Audio Harmony</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-gaming-by-fixing-shadows-of-mordor-lagging-issues-a-step-by-step-guide/"><u>Improve Your Gaming by Fixing Shadows of Mordor Lagging Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-comprehensive-manual-on-motion-detection-systems/"><u>In 2024, A Comprehensive Manual on Motion Detection Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/login-successful-origin-online-authentication-glitches-corrected/"><u>Login Successful: Origin Online Authentication Glitches Corrected</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterful-solutions-to-address-adobes-start-up-issue-handling-error-code-0xc0000022-effectively/"><u>Masterful Solutions to Address Adobe's Start Up Issue: Handling Error Code 0xC0000022 Effectively</u></a></li>
 </ul></div>
 

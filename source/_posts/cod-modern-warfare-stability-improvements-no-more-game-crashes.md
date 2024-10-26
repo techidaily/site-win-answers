@@ -1,7 +1,7 @@
 ---
 title: "Cod: Modern Warfare Stability Improvements - No More Game Crashes!"
-date: 2024-10-10T06:07:03.037Z
-updated: 2024-10-14T21:07:20.169Z
+date: 2024-10-25T16:08:51.736Z
+updated: 2024-10-26T17:51:48.724Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 5. [Disable add-ons](https://tools.techidaily.com/drivereasy/download/)
 6. [Change compatibility mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1\. Check your system requirement
 
  Make sure your PC meets the minimum system requirements, that’s the basic requirement.
@@ -63,6 +56,19 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 | DirectX:    | Version 9.0c                                                   |
 | Storage:    | 13 GB available space                                          |
 | Sound Card: | DirectX 9.0c compatible sound card                             |
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Update your driver
 
@@ -96,16 +102,16 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If it doesn’t work for you, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3\. Shut down background apps
 
@@ -127,15 +133,16 @@ If it doesn’t work for you, move to the next fix.
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
-5. Restart your computer and open the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
+5. Restart your computer and open the game to check.
 
 You can also disable Steam overlay in Left 4 Dead 2.
 
@@ -143,16 +150,23 @@ You can also disable Steam overlay in Left 4 Dead 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-34.jpg)
 2. Click**In-Game** , then disable “**Enable the Steam Overlay while in-game** ” and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If it doesn’t work for you, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Disable add-ons
 
@@ -182,13 +196,6 @@ To check if your add-ons are the fault, here the following things to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  I’ve provided most of the fixes that are proved by other users. But there’s no solution that is 100% effective for all PC users and Left 4 Dead 2 crashing causes can be various due to different situations. Hope one of the fixes would solve your issue, and if you have any questions or suggestions, you’re welcome to leave a comment. We’ll try our best to help.
@@ -208,17 +215,18 @@ To check if your add-ons are the fault, here the following things to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-quick-fix-to-spot-instagram-disconnects/"><u>[New] Quick Fix to Spot Instagram Disconnects</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ultra-quick-photo-inspector-app-for-2024/"><u>[New] Ultra-Quick Photo Inspector App for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unveiling-the-secrets-of-crafting-perfect-audio-for-videos/"><u>[Updated] Unveiling the Secrets of Crafting Perfect Audio for Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-addressing-game-instability-in-total-war-warhammer-ii/"><u>Comprehensive Guide to Addressing Game Instability in Total War: Warhammer II</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-ultimate-list-of-highest-rated-free-video-editing-apps-for-idevices/"><u>In 2024, Ultimate List of Highest-Rated Free Video Editing Apps for iDevices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-oneplus-9-pro-exceptional-design-performance-and-photography-capabilities/"><u>In-Depth Analysis of OnePlus 9 Pro: Exceptional Design, Performance, and Photography Capabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-troubleshooting-resolving-the-problem-of-red-dead-redemption-2-not-starting-properly/"><u>In-Depth Troubleshooting: Resolving the Problem of Red Dead Redemption 2 Not Starting Properly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-ffxiv-update-issues-fixes-for-unsuccessful-version-checks/"><u>Overcoming FFXIV Update Issues – Fixes for Unsuccessful Version Checks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/"><u>Quick Solution to Rectify Minecraft's Sudden Crash with Exit Code 0</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-enhancing-gameplay-by-resolving-stutters-and-increasing-fps-on-the-ascent/"><u>Ultimate Guide: Enhancing Gameplay by Resolving Stutters & Increasing FPS on 'The Ascent'</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-dull-to-delightful-text-that-tumbles-and-twirls-for-2024/"><u>[Updated] From Dull to Delightful Text that Tumbles and Twirls for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capture-studio-ultimate-professional-record/"><u>[Updated] In 2024, Capture Studio Ultimate Professional Record</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-best-20-words-for-marketing-success/"><u>[Updated] In 2024, The Best 20 Words for Marketing Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>2024 Approved Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/movand6/"><u>無料でMOVファイルのコンプレッションに最適！フリーウェア&オンライン圧縮ツールベスト6選</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-drones-for-gopro/"><u>Best Drones for GoPro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-the-most-compelling-5-iphone-friendly-podcast-services/"><u>Discover the Most Compelling 5 iPhone-Friendly Podcast Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-companion-device-needed-for-your-new-apple-vision-pro-top-picks-by-zdnet/"><u>Essential Companion Device Needed for Your New Apple Vision Pro - Top Picks by ZDNet</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/free-solutions-for-simple-fixes-of-a-damaged-hard-drive/"><u>Free Solutions for Simple Fixes of a Damaged Hard Drive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mp4itunes/"><u>MP4ファイルがiTunesに認識されない時の対策手順：ホットスポット解析</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/premier-5-language-pedagogy-applications/"><u>Premier 5 Language Pedagogy Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-on-converting-youtube-footage-into-high-quality-mp4/"><u>Quick Guide on Converting YouTube Footage Into High-Quality MP4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-how-to-speedily-save-prolonged-youtube-videos-for-offline-viewing/"><u>Quick Guide: How To Speedily Save Prolonged YouTube Videos For Offline Viewing</u></a></li>
 </ul></div>
 

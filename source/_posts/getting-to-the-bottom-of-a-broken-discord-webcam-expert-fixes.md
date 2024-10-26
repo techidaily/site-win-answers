@@ -1,7 +1,7 @@
 ---
 title: Getting to the Bottom of a Broken Discord Webcam - Expert Fixes
-date: 2024-10-14T21:12:23.817Z
-updated: 2024-10-20T18:44:41.520Z
+date: 2024-10-25T17:02:14.806Z
+updated: 2024-10-26T17:40:40.857Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check the privacy settings
@@ -48,33 +48,33 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
@@ -98,6 +98,13 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
 
@@ -141,26 +148,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
 If your camera is still not working on Discord, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -171,19 +171,19 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
@@ -218,21 +218,18 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-your-essential-guide-to-unmissable-gaming-adventures/"><u>[New] 2024 Approved Your Essential Guide to Unmissable Gaming Adventures</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-inventory-of-facebook-video-ratios-for-2024/"><u>[New] Inventory of Facebook Video Ratios for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-upgrade-your-photo-edits-the-ultimate-guide-to-pixlr-power/"><u>[Updated] 2024 Approved Upgrade Your Photo Edits The Ultimate Guide to Pixlr Power</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-guide-to-app-reviews-by-az-capture/"><u>[Updated] Ultimate Guide to App Reviews by AZ Capture</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-solve-crashing-problems-with-thaumaturge-on-computer-systems/"><u>Easy Steps to Solve Crashing Problems with Thaumaturge on Computer Systems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-novice-to-scholar-top-language-examination-guides/"><u>From Novice to Scholar: Top Language Examination Guides</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-eliminate-blur-in-zoom-calls-actionable-strategies/"><u>In 2024, Eliminate Blur in Zoom Calls – Actionable Strategies</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fusing-melodies-to-visuals-in-virtual-space/"><u>In 2024, Fusing Melodies to Visuals in Virtual Space</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-make-a-statement-crafting-memes-on-kapwing/"><u>In 2024, Make a Statement Crafting Memes on Kapwing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010819763-league-of-legends-game-crashes-fast-fix-solutions/"><u>League of Legends Game Crashes: Fast Fix Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/power-supply-issues-for-pc-an-inadequate-or-faulty-power-supply-unit-could-cause-the-computer-not-to-start-up-correctly-and-result-in-a-black-screen-checkin406/"><u>Power Supply Issues (for PC): An Inadequate or Faulty Power Supply Unit Could Cause the Computer Not to Start up Correctly and Result in a Black Screen. Checking Your PSU for Issues May Help.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-resolving-playstation-4-hang-ups/"><u>Step-by-Step Solutions for Resolving PlayStation 4 Hang-Ups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-complete-2024-solution-manual-for-overcoming-battlenet-startup-problems/"><u>The Complete 2024 Solution Manual for Overcoming Battle.net Startup Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixes-why-your-pc-doesnt-recognize-a-steam-controller-in-windows/"><u>Troubleshooting Fixes: Why Your PC Doesn't Recognize a Steam Controller in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-far-cry-6s-pc-gameplay-interruptions/"><u>Troubleshooting Steps for Fixing Far Cry 6'S PC Gameplay Interruptions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-fast-friending-mastering-the-art-of-profile-searches/"><u>[New] 2024 Approved Fast Friending Mastering the Art of Profile Searches</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-epicurean-envoys-the-best-food-vloggers-to-watch-for-2024/"><u>[New] Epicurean Envoys The Best Food Vloggers to Watch for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-11s-top-video-capture-tools-essentials-edition/"><u>[Updated] Windows 11'S Top Video Capture Tools Essentials Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/apples-financial-forecast-the-unpredictable-path-of-the-apple-card-as-cash-reserves-surpass-a-decade-long-milestone/"><u>Apple's Financial Forecast: The Unpredictable Path of the Apple Card as Cash Reserves Surpass a Decade-Long Milestone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/case-closed-absence-of-opengl-support-in-drivers/"><u>Case Closed: Absence of OpenGL Support in Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722979460352-definitive-strategies-for-stable-maplestory-gaming-on-windows-10-update-your-skills/"><u>Definitive Strategies for Stable MapleStory Gaming on Windows 10 - Update Your Skills!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-problem-troubleshooting-startup-glitches-in-resident-evil-village/"><u>Fixed Problem: Troubleshooting Startup Glitches in Resident Evil Village</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-playstation-5-and-pc-gaming-hiccups-a-closer-look-at-stabilizing-deathloop-performance/"><u>Fixing PlayStation 5 & PC Gaming Hiccups: A Closer Look at Stabilizing Deathloop Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-escape-from-tarkov-with-these-essential-fixes-for-the-connection-error/"><u>Master Escape From Tarkov with These Essential Fixes for the 'Connection Error'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-control-panel-not-responding-heres-how-you-can-get-it-running-smoothly-again/"><u>NVIDIA Control Panel Not Responding? Here's How You Can Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/samsung-ubd-k8500-refreshed-2023-overview/"><u>Samsung UBD-K8500 Refreshed - 2023 Overview</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silent-blocks-expert-tips-to-restore-audio-functionality-in-minecraft-gaming-on-windows-or-mac/"><u>Silent Blocks: Expert Tips to Restore Audio Functionality in Minecraft Gaming on Windows or Mac</u></a></li>
 </ul></div>
 

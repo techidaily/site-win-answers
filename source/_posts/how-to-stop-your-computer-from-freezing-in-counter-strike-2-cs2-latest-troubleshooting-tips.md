@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips
-date: 2024-10-19T22:02:00.367Z
-updated: 2024-10-20T19:37:37.761Z
+date: 2024-10-21T16:02:55.283Z
+updated: 2024-10-26T16:47:00.929Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ Here are the minimum and recommended system requirements for the game:
 
  In the bottom-left corner of your Windows desktop screen, click Start![](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) \> Settings![](https://images.drivereasy.com/wp-content/uploads/2020/09/settings-icon.png) . Then in the Windows Updates section, if you see there are**Updates available** , click**Download** and you should restart your computer to make it take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![check for Windows Update](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-updates-available-1200x718.png)
 
  If you’ve checked that your system perfectly meets these requirements but just can’t really run the game smoothly, don’t worry. You can try the fixes listed below.
@@ -104,6 +111,13 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -165,16 +179,16 @@ To do so, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Then navigate to the game’s installation folder and select**Sam4.exe** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Verify the integrity of game files
 
@@ -186,9 +200,23 @@ To do so, you can:
 
 ![This image has an empty alt attribute; its file name is steam-select-propertite.jpg](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click on the **LOCAL FILES**  tab and click **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![verify game files serious sam 4 crash or shutter](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This verification process would take a while to finish. After that, play your game to check if the issue is solved.
 
@@ -203,6 +231,13 @@ To do so, you can:
 2) In the**LIBRARY** tab, right-click on your game title and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Select the**GENERAL** tab and uncheck the box next to**Enable the Steam Overlay while in-game** .
 
@@ -222,47 +257,19 @@ To do so, you can:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**GENERAL** tab and click**SET LAUNCH OPTIONS…** .
 
 ![set launch options to fix Serious Sam 4 crashing and stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/Steam-set-launch-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the text box, type**+gfx\_strAPI Vulkan** and click**OK** .
 
 ![set launch options serious sam 4 crash or shutter](https://images.drivereasy.com/wp-content/uploads/2020/09/select-options-2-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If that didn’t work, you can type**+gfx\_strAPI D3D12** .
 
 After you’ve done these, relaunch your game.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 9: Adjust graphics options
 
@@ -287,15 +294,22 @@ After you’ve done these, relaunch your game.
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-4-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After applying the changes, close your game and launch it again to check if it fixes the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 10: Set priority to realtime
 
@@ -310,13 +324,6 @@ After you’ve done these, relaunch your game.
  2) Select the tab**Details** and scroll down the list. Right-click on**Sam4.exe** and then select**Set priority > Realtime** .
 
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/set-priority-as-real-time-2-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
@@ -339,13 +346,6 @@ Here’s how you can do this:
  3) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-3-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After restarting your computer, launch your game to see if it fixes the issue. If not, move on to the next method.
 
@@ -378,20 +378,20 @@ Here’s how you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-collage-wizardry-secrets-unveiled/"><u>[New] Collage Wizardry Secrets Unveiled</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-pinnacle-of-plotting-the-worlds-best-8-schools-for-writers/"><u>2024 Approved Pinnacle of Plotting The World's Best 8 Schools for Writers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtubes-monetary-system-monthly-or-quarterly/"><u>2024 Approved YouTube's Monetary System Monthly or Quarterly?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-review-analyzing-androids-lightroom/"><u>Comprehensive Review Analyzing Android's Lightroom</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-constant-crashes-in-valheim-pc-edition/"><u>Fixes & Solutions: Resolving Constant Crashes in Valheim PC Edition</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-xiaomi-redmi-k70e-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Xiaomi Redmi K70E For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lag-free-gaming-achieved-fixing-slowness-issues-in-league-of-legends/"><u>Lag-Free Gaming Achieved: Fixing Slowness Issues in League of Legends</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-play-experience-with-avatar-frontiers-of-pandora-fixing-low-fps-and-bottlenecks/"><u>Optimizing Your Play Experience with 'Avatar: Frontiers of Pandora': Fixing Low FPS and Bottlenecks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalize-folder-options-adding-movecopy-to-context-menu/"><u>Personalize Folder Options: Adding 'Move'/'Copy' To Context Menu</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-2k21-nba-basketball-game-freezing-problems-with-our-expert-fixes-202n4/"><u>Resolve Your 2K21 NBA Basketball Game Freezing Problems with Our Expert Fixes (202N4)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-borderlands-3-starting-problems-with-these-11-expert-strategies/"><u>Solve Your Borderlands 3 Starting Problems with These 11 Expert Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-saga-of-call-of-duty-modern-warfare-3s-troublesome-fps-drops-continues-expert-advice-and-fixes/"><u>The Saga of Call of Duty: Modern Warfare 3'S Troublesome FPS Drops Continues – Expert Advice & Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-smooth-valheim-gaming-on-personal-computers/"><u>Troubleshooting Steps for Smooth Valheim Gaming on Personal Computers</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-the-best-gaming-keyboard-options-for-2n24-full-tkl-and-compact/"><u>Ultimate Guide to the Best Gaming Keyboard Options for 2N24: Full, TKL & Compact</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-filmora-discount-code-finder-explore-the-best-deals-for-2024/"><u>Updated Filmora Discount Code Finder Explore the Best Deals for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-forge-partnerships-from-initial-contact-to-final-deal-on-youtube/"><u>[New] 2024 Approved Forge Partnerships From Initial Contact to Final Deal on Youtube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pursuing-peerless-speech-to-text-with-google-assistance/"><u>[New] Pursuing Peerless Speech-to-Text with Google Assistance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-iphone-11-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on iPhone 11</u></a></li>
+<li><a href="https://article-helps.techidaily.com/best-photo-and-video-display-apps-from-ix-to-ios12-for-2024/"><u>Best Photo & Video Display Apps From IX to IOS12 for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/cutting-edge-features-meet-frustrating-design-in-nikon-a10/"><u>Cutting-Edge Features Meet Frustrating Design in Nikon A10</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-asus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Asus Phones with/without a PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-integrating-azures-speech-recognition-into-development/"><u>In 2024, Integrating Azure’s Speech Recognition Into Development</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-printer-settings-and-outputs-in-adobe-photoshop/"><u>Mastering Printer Settings and Outputs in Adobe Photoshop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-problems-with-call-of-duty-black-ops-4/"><u>Overcoming Launch Problems with Call of Duty Black Ops 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-ntdlldll-file-malfunction-in-windows-11-and-windows-10/"><u>Resolved: Fixing the ntdll.dll File Malfunction in Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-scavengers-pc-game-issues-a-comprehensive-guide/"><u>Resolving Scavengers PC Game Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-game-audio-a-guide-for-lost-ark-players-facing-sound-problems/"><u>Restoring Game Audio: A Guide for Lost Ark Players Facing Sound Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-alan-wake-2-troubleshooting-steps-to-overcome-launch-failures/"><u>Solving Alan Wake 2: Troubleshooting Steps to Overcome Launch Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ark-survival-evolved-pc-crashes-with-top-9-solutions/"><u>Troubleshooting ARK: Survival Evolved PC Crashes with Top 9 Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-r6-solutions-for-resolving-your-rainbow-six-siege-server-connectivity-issues/"><u>Troubleshooting R6: Solutions for Resolving Your Rainbow Six Siege Server Connectivity Issues</u></a></li>
 </ul></div>
 

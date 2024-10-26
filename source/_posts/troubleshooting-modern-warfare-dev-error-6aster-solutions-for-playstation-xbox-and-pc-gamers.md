@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Modern Warfare Dev Error 6Aster: Solutions for PlayStation, Xbox, & PC Gamers"
-date: 2024-09-27T17:11:57.202Z
-updated: 2024-10-03T17:01:11.539Z
+date: 2024-10-22T16:46:03.825Z
+updated: 2024-10-26T16:41:06.482Z
 tags:
   - win11
   - win10
@@ -57,6 +57,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -64,6 +72,13 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -80,20 +95,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
@@ -104,25 +112,18 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
 
@@ -151,18 +152,20 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-insta-vid-techniques-scaling-videos-to-perfect-size-in-fcpx/"><u>[New] Insta-Vid Techniques Scaling Videos to Perfect Size in FCPX</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/decoding-bios-functionality-and-integration-with-revo-uninstaller-tools/"><u>Decoding BIOS Functionality and Integration With Revo Uninstaller Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-realme-11-pro-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Realme 11 Pro Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/gratuito-online-conversor-de-formatos-para-moveravi-desde-aiff-a-aac/"><u>Gratuito Online: Conversor De Formatos Para Moveravi Desde AIFF a AAC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-tecno-pova-6-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Tecno Pova 6 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-3-gaming-hitches-call-of-duty-frame-rate-fluctuations/"><u>Modern Warfare 3 Gaming Hitches - Call of Duty Frame-Rate Fluctuations</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-mp4/"><u>Movavi 브로드캐스트 소개: MP4 비디오를 원형으로 만들기 위한 단계별 지침</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-apex-legends-not-launching-easy-and-fast-fixes-available/"><u>Overcome Apex Legends Not Launching - Easy & Fast Fixes Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-century-age-of-ashes-game-crashes-on-windows-and-mac/"><u>Troubleshooting Guide for Century: Age of Ashes Game Crashes on Windows & Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-content-warning-issues-in-voice-chat-applications/"><u>Troubleshooting Steps: Resolving 'Content Warning' Issues in Voice Chat Applications</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-tp-link-re305-wifi-range-extender-features-and-performance-analysis/"><u>Ultimate Guide to TP-Link RE305 WiFi Range Extender: Features and Performance Analysis</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-launch-issues-in-division-2/"><u>Ultimate Guide: Resolving Launch Issues in Division 2</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-navigating-through-historical-twitter-data-for-2024/"><u>[New] Navigating Through Historical Twitter Data for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/common-problems-and-solutions-with-chatgpt-on-iphones-expert-tips-to-get-it-working-again/"><u>Common Problems & Solutions with ChatGPT on iPhones – Expert Tips to Get It Working Again</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/convert-and-download-aol-video-content-as-high-quality-mp4-avi-or-mov-files-tips-for-windows-and-macos/"><u>Convert and Download AOL Video Content as High-Quality MP4, AVI, or MOV Files: Tips for Windows & macOS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-x-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone X In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-10-popular-websites-to-download-aesthetic-wallpapers-for-laptop/"><u>In 2024, 10 Popular Websites to Download Aesthetic Wallpapers for Laptop</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-lightning-fast-method-for-double-exposure-filming/"><u>In 2024, Lightning-Fast Method for Double Exposure Filming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/kissanime-2024/"><u>KissAnime動画ダウンロード手順 - 最新ガイド2024年</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-ranking-ultimate-video-format-changer-for-microsoft-windows-users/"><u>Latest Ranking: Ultimate Video Format Changer for Microsoft Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/most-effective-videots-to-mpeg-conversion-tools-for-windows-11-top-picks-of-20232024/"><u>Most Effective VIDEO_TS to MPEG Conversion Tools for Windows 11 - Top Picks of 2023/2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/smooth-transition-to-updated-deathadder-drivers/"><u>Smooth Transition to Updated DeathAdder Drivers</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adult-content-streaming-with-fantasticc-add-on-in-kodi-19-matrix/"><u>Step-by-Step Guide: Adult Content Streaming with FantastiCC Add-On in Kodi 19 Matrix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-interstellar-dvd-2014-for-viewing-on-your-iphoneipad/"><u>Step-by-Step Guide: Converting Interstellar (DVD, 2014) for Viewing on Your iPhone/iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-facetune-review-transform-your-image-quality-for-2024/"><u>Ultimate Facetune Review Transform Your Image Quality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/livepc/"><u>アクタージャニーズLIVE配信のPC録画・確保テクニック</u></a></li>
 </ul></div>
 

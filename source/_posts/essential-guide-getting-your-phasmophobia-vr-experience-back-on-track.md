@@ -1,7 +1,7 @@
 ---
 title: "Essential Guide: Getting Your Phasmophobia VR Experience Back on Track"
-date: 2024-09-28T18:38:29.928Z
-updated: 2024-10-03T18:36:04.567Z
+date: 2024-10-21T17:34:08.198Z
+updated: 2024-10-26T17:15:22.807Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ Jump ahead to the section that best suits your needs:
 * **[I’m having frame rate problems](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **I’m having network problems**
 
@@ -122,6 +115,13 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-626.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand **View by:** and select **Category** . Then, click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-627.png)
@@ -129,6 +129,13 @@ ipconfig /flushdns
  3) In the next window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-628.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Right-click on your network and select **Properties** .
 
@@ -138,18 +145,18 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-483.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .
 
  For the **Preferred DNS server** , enter **8.8.8.8**  to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-484.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
 
@@ -162,6 +169,13 @@ ipconfig /flushdns
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **resmon** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive view of what process is now taking up the most of your network resources.
 
@@ -245,6 +259,13 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Launch Borderlands 3 and check if your lag issue still remains. In case it does, move down to the next fix.
@@ -257,29 +278,9 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-521.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Then **VISUALS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-523.png)
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On the **BASIC** tab, make sure you set **Display Mode** to **Full Screen** . As for other options, you can simply copy the following settings or modify them according to your taste.
 
@@ -314,10 +315,10 @@ Now I’ll list three of the fixes included:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-561.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you see instant improvements in FPS, you can either stop here or go on to try the next fix.
@@ -335,37 +336,30 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-414.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the Borderlands 3 Properties window, on the **Compatibility** tab, select the **Disable fullscreen optimizations** check box. Then, click **Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-419.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Check the **Override high DPI scaling behavior** box. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-417.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-421.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -389,20 +383,18 @@ Now I’ll list three of the fixes included:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-valheims-soil-secrets-premium-seed-guide/"><u>[New] 2024 Approved Unveiling Valheim's Soil Secrets Premium Seed Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-decoding-dimensions-the-key-to-perfect-aspect-ratios-in-video/"><u>[New] In 2024, Decoding Dimensions The Key to Perfect Aspect Ratios in Video</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-5-webcams-for-cutting-edge-twitch-live-streaming-quality-for-2024/"><u>[New] Top 5 Webcams for Cutting-Edge Twitch Live Streaming Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-webcapture-pro-live-chat-videos/"><u>[New] WebCapture Pro Live Chat Videos</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-filmoras-competitors-the-ultimate-list-of-top-notch-free-template-collections/"><u>[Updated] Filmora's Competitors The Ultimate List of Top-Notch, Free Template Collections</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-resolving-pc-gameplay-disruptions-in-wolcen-lords-of-mayhem/"><u>Effective Fixes for Resolving PC Gameplay Disruptions in Wolcen: Lords of Mayhem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-subnautica-below-zero-from-failing-at-launch-on-your-desktop-computer/"><u>How to Stop Subnautica: Below Zero From Failing at Launch on Your Desktop Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-system-restrictions-a-step-by-step-guide-to-modifying-trustedinstaller-in-windows-10-systems/"><u>Mastering System Restrictions: A Step-by-Step Guide to Modifying TrustedInstaller in Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-quick-solution-to-your-battlefield-n5-wont-start-dilemma/"><u>Mastering the Quick Solution to Your Battlefield N5 Won't Start Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-2-stability-fixes-resolve-pc-performance-hiccups/"><u>Modern Warfare 2 Stability Fixes - Resolve PC Performance Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-dead-by-daylight-fixing-error-code-8014/"><u>Resolved: Troubleshooting Guide for 'Dead By Daylight' - Fixing Error Code 8014</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-effective-methods-to-enhance-elden-rings-fps/"><u>Smooth Gaming Experience: Effective Methods to Enhance Elden Ring's FPS</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/trusted-logitech-cam-driver-release/"><u>Trusted Logitech Cam Driver Release</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/understanding-the-imsix-external-dependencies-in-software-development/"><u>Understanding the IMsix External Dependencies in Software Development</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-advanced-screen-recording-methods-on-dell-laptops-for-2024/"><u>[Updated] Advanced Screen Recording Methods on Dell Laptops for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-8-software-for-linux-video-editors/"><u>2024 Approved Leading 8 Software for Linux Video Editors</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-audio-equipment-reviewed-cops-gear/"><u>Best Audio Equipment Reviewed - Cops' Gear</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/complete-transfer-process-for-iphone-7-users-sync-files-with-your-mac-effortlessly/"><u>Complete Transfer Process for iPhone 7 Users: Sync Files with Your Mac Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-frequent-wwe-2k20-pc-game-crashes/"><u>Easy Fixes for Frequent WWE 2K20 PC Game Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/got-an-iphone-or-ipad-that-wont-update-try-these-9-helpful-tips-and-tricks/"><u>Got an iPhone or iPad That Won't Update? Try These 9 Helpful Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-fps-expert-tips-for-solving-valorants-frame-rate-challenges-202n/"><u>Maximize FPS: Expert Tips for Solving Valorant's Frame Rate Challenges (202N)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/strategies-to-rectify-freeze-in-obs-fullscreen-functionality-for-2024/"><u>Strategies to Rectify Freeze in OBS Fullscreen Functionality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-dauntless-crashes-on-your-windows-computer/"><u>Troubleshooting Tips: How to Fix 'Dauntless' Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-ipad-tools-for-enhanced-output-ace-your-productivity-with-expert-tips-by-zdnet/"><u>Ultimate Guide to iPad Tools for Enhanced Output: Ace Your Productivity with Expert Tips by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warframe-performance-problems-solved-no-more-endless-freezing/"><u>Warframe Performance Problems Solved – No More Endless Freezing</u></a></li>
 </ul></div>
 

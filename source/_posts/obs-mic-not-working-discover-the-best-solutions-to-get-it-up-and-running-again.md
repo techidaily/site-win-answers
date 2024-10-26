@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2024-10-19T19:05:40.275Z
-updated: 2024-10-20T21:03:40.777Z
+date: 2024-10-19T16:30:54.877Z
+updated: 2024-10-26T16:06:03.213Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -55,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 
@@ -83,15 +76,22 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
@@ -116,10 +116,10 @@ OR
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
@@ -143,16 +143,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-journeys-best-tools-top-10-vr-peripherals-guide/"><u>[New] Journey's Best Tools Top 10 VR Peripherals Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003650181-solved-sid-meiers-civilization-vi-crashing-issue/"><u>[Solved] Sid Meier's Civilization VI Crashing Issue</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-continuous-media-gatherers/"><u>[Updated] 2024 Approved Continuous Media Gatherers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-record-with-nvidia-screen-recorder/"><u>2024 Approved How to Record with NVIDIA Screen Recorder</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-failure-in-updates-due-to-0x800f0845/"><u>Avoiding Failure in Updates Due to 0X800f0845</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-pc-freezing-woes-heres-how-to-get-a-smooth-gaming-experience/"><u>Cyberpunk 2077 PC Freezing Woes? Here's How to Get a Smooth Gaming Experience!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enjoy-a-seamless-gaming-adventure-with-the-updated-flaw-free-yakuza-3-on-pc/"><u>Enjoy a Seamless Gaming Adventure with the Updated, Flaw-Free Yakuza 3 on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/metal-gear-solid-v-cold-war-launch-issues-on-consoles-and-computers-a-comprehensive-guide/"><u>Metal Gear Solid V: Cold War Launch Issues on Consoles and Computers – A Comprehensive Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/optimal-free-webcam-video-grabber-app-for-2024/"><u>Optimal Free Webcam Video Grabber App for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-fortnite-error-84-cannot-connect-to-parties/"><u>Troubleshooting Steps for Resolving Fortnite Error 84: Cannot Connect to Parties</u></a></li>
-<li><a href="https://win-dash.techidaily.com/upgrade-to-optimal-gameplay-secure-the-latest-geforce-drivers-for-windows-users-v11v10/"><u>Upgrade to Optimal Gameplay: Secure the Latest GeForce Drivers for Windows Users (V11/V10)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/"><u>[New] 2024 Approved High-End Downloads Best 10 Apps for Extracting Vimeo Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-innovative-activities-for-the-modern-podcaster-for-2024/"><u>[New] Innovative Activities for the Modern Podcaster for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-framework-for-crafting-compelling-live-video-thumbnails/"><u>[New] The Ultimate Framework for Crafting Compelling Live Video Thumbnails</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/access-winx-dvd-ripper-premium-features-with-a-complimentary-license-code/"><u>Access WinX DVD Ripper Premium Features with a Complimentary License Code</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008629249-epic-games-launcher-troubleshooting-resolve-issues-instantly/"><u>Epic Games Launcher Troubleshooting: Resolve Issues Instantly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-select-top-rated-learning-apps-for-2amidst/"><u>Explore Our Select Top-Rated Learning Apps for 2Amidst</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-gobi-fatal-error-in-black-mesa-mod-using-unreal-engine-4/"><u>Fixing Gobi Fatal Error in Black Mesa Mod Using Unreal Engine 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-preventing-and-correcting-no-rest-for-the-wicked-pc-malfunctions/"><u>Guide to Preventing and Correcting 'No Rest for the Wicked' PC Malfunctions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gold-glory-in-gameplay-5-prime-maps-for-riches/"><u>In 2024, Gold Glory in Gameplay 5 Prime Maps for Riches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-a-nonfunctional-or-unresponsive-nvidia-control-panel/"><u>Solving the Issue of a Nonfunctional or Unresponsive NVIDIA Control Panel</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/mline-your-watching-with-edge-free-youtube-content/"><u>Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-crashing-problems-in-cyberpunk-2077-on-your-computer/"><u>Troubleshooting and Solving Crashing Problems in Cyberpunk 2077 on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-your-clownfish-usb-microphone-issues/"><u>Troubleshooting Guide: Resolving Your Clownfish USB Microphone Issues</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-poco-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Poco F5 5G?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-20-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 20? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 

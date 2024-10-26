@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2024-10-14T17:11:43.601Z
-updated: 2024-10-20T21:08:33.222Z
+date: 2024-10-20T17:08:09.441Z
+updated: 2024-10-26T16:51:18.290Z
 tags:
   - win11
   - win10
@@ -34,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run in Windowed mode
 
@@ -64,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
@@ -99,18 +99,18 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Once your driver has been updated, restart your computer.
 
@@ -124,6 +124,13 @@ Now launch Dark Souls 3 and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -131,6 +138,13 @@ If you can’t access the in-game settings, try this:
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -146,13 +160,6 @@ Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -162,13 +169,6 @@ Then play your game to see if it works properly.
 2) Click**Library** \>**Games** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
@@ -203,21 +203,22 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-beginner-friendly-steps-to-record-your-mac-display/"><u>[New] Beginner-Friendly Steps to Record Your Mac Display</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mastering-minute-by-minute-srt-conversion-to-text-txt/"><u>[New] Mastering Minute-by-Minute SRT Conversion to Text (TXT)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-creative-music-videos-a-list-of-15-youtube-projects-for-2024/"><u>[Updated] Creative Music Videos A List of 15 YouTube Projects for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-seedling-selections-a-farmers-best-game-gems/"><u>2024 Approved Seedling Selections A Farmer's Best Game Gems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/apply-spiral-depth-enhancement-to-images-psx-for-2024/"><u>Apply Spiral Depth Enhancement to Images PSX for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battle-with-less-delay-fixing-network-latency-problems-in-bless-unleashed-on-the-pc/"><u>Battle with Less Delay: Fixing Network Latency Problems in Bless Unleashed on the PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-tecno-phantom-v-flip-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Tecno Phantom V Flip Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-analysis-of-the-ibuypower-gaming-computer-exceptional-strength-for-gamers-on-a-budget/"><u>Expert Analysis of the iBUYPOWER Gaming Computer - Exceptional Strength for Gamers on a Budget</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-stop-back-4-blood-from-crashing-on-your-pc/"><u>Fixing Issues: How to Stop 'Back 4 Blood' From Crashing on Your PC</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashing-master-the-tricks-to-run-cyberpunk-2077-on-pc-seamlessly/"><u>No More Crashing: Master the Tricks to Run Cyberpunk 2077 on PC Seamlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723000700788-overcoming-diablo-ii-resurrecteds-crash-problems-tips-and-fixes/"><u>Overcoming Diablo II Resurrected's Crash Problems - Tips and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-play-issues-in-diablo-2-the-updated-version-no-longer-crashes/"><u>Overcoming Play Issues in Diablo 2: The Updated Version No Longer Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-your-mordhau-crashes-with-these-proven-tips-and-tricks/"><u>Resolve Your Mordhau Crashes with These Proven Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-fix-amazon-prime-video-playback-issues/"><u>Troubleshooting Steps: How to Fix 'Amazon Prime Video' Playback Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-of-google-podcast-uploads-for-2024/"><u>Unlocking the Secrets of Google Podcast Uploads for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rafting-unique-content-to-differentiate-your-channel/"><u>[New] Crafting Unique Content to Differentiate Your Channel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unityflip-blend-ios-and-macos-media-artfully/"><u>[New] UnityFlip Blend iOS & macOS Media Artfully</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-innovative-water-world-leading-game-experience-hits/"><u>[Updated] 2024 Approved Innovative Water World Leading Game Experience Hits</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-concepts-behind-striking-fb-video-promos-for-2024/"><u>[Updated] Concepts Behind Striking FB Video Promos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-pros-secret-windows-11-gems-uncovered/"><u>[Updated] In 2024, Pro's Secret Windows 11 Gems Uncovered</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-guide-to-top-templates-for-youtube-previews/"><u>2024 Approved Guide to Top Templates for YouTube Previews</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-installation-hurdles-steps-to-get-minecraft-up-and-running-on-windows-11-systems/"><u>Beat Installation Hurdles: Steps to Get Minecraft Up and Running on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cant-access-steam-remote-play-here-are-effective-solutions-for-you/"><u>Can't Access Steam Remote Play? Here Are Effective Solutions for You</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-apex-legends-wont-load-issue-simple-solutions-inside/"><u>Fixing Apex Legends Won't Load Issue - Simple Solutions Inside!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-streaming-on-fire-stick-using-a-portable-wireless-network/"><u>How To Enable Streaming on Fire Stick Using A Portable Wireless Network</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-frequent-exiting-of-v-rising-game-while-playing-on-your-computer/"><u>How To Fix Frequent Exiting of V Rising Game While Playing on Your Computer</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-save-on-filmora-expert-tips-to-find-working-coupon-codes/"><u>In 2024, Save on Filmora Expert Tips to Find Working Coupon Codes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/is-aol-email-temporarily-unavailable-troubleshooting-steps-for-users/"><u>Is AOL Email Temporarily Unavailable? Troubleshooting Steps for Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-apex-legends-launch-problems-troubleshoot-now/"><u>Quick Fixes for Apex Legends Launch Problems - Troubleshoot Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamped-bioshock-2-remaster-version-resolved-issues-and-optimized-gameplay/"><u>Revamped Bioshock 2 Remaster Version – Resolved Issues and Optimized Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-the-connection-failed-in-minecraft-dilemam/"><u>Solution Guide: Overcoming the 'Connection Failed in Minecraft' Dilemam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-resolving-incomplete-version-verification-issues/"><u>Troubleshooting FFXIV: Resolving Incomplete Version Verification Issues</u></a></li>
 </ul></div>
 

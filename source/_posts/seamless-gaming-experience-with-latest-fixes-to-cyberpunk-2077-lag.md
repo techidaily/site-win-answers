@@ -1,7 +1,7 @@
 ---
 title: Seamless Gaming Experience with Latest Fixes to Cyberpunk 2077 Lag
-date: 2024-10-15T16:27:13.041Z
-updated: 2024-10-20T20:48:55.535Z
+date: 2024-10-25T16:10:46.545Z
+updated: 2024-10-26T17:07:08.611Z
 tags:
   - win11
   - win10
@@ -46,14 +46,14 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
 #### For mouse/keyboard users
 
@@ -65,13 +65,6 @@ If you’re not using the controller, check the below settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
@@ -79,6 +72,13 @@ If you’re not using the controller, check the below settings.
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -89,6 +89,19 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
@@ -96,20 +109,13 @@ If this fix doesn’t work, move to the next one.
 5. Launch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -139,15 +145,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -172,18 +178,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-social-media-app-selection-tiktok-or-youtubes-shorts-preference/"><u>[New] 2024 Approved Navigating Social Media App Selection TikTok or YouTubes' Shorts Preference</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-10-female-gamers-on-youtube/"><u>[New] In 2024, Top 10 Female Gamers on YouTube</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-captureconqueror-a-comprehensive-guide-to-screen-recording/"><u>[Updated] 2024 Approved CaptureConqueror A Comprehensive Guide to Screen Recording</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-sbepk-tn-tu-how-to-overcome-the-games-infamous-black-screen-problem/"><u>Cyberpunk ˈsɪbəˌpʌŋk Tɛn Tuː - How to Overcome the Game's Infamous Black Screen Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-lags-and-stutter-in-dragons-dogma-ii-with-these-tweaks/"><u>Eliminate Lags and Stutter in Dragon's Dogma II with These Tweaks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-boost-creativity-learn-how-to-insert-text-onto-digital-photographs-on-pcmac/"><u>In 2024, Boost Creativity Learn How to Insert Text Onto Digital Photographs on PC/Mac</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/midi-to-ogg-conversion-techniques-for-optimal-results/"><u>MIDI to OGG Conversion Techniques for Optimal Results</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/most-popular-action-cameras-on-the-market-2023-reviews-and-comparisons/"><u>Most Popular Action Cameras on the Market - 2023 Reviews and Comparisons</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-red-dead-redemption-2-load-screen-issues-a-comprehensive-guide/"><u>Resolving Red Dead Redemption 2 Load Screen Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-to-improve-slow-utorrent-download-performance-for-seamless-torrents/"><u>Solution Steps to Improve Slow uTorrent Download Performance for Seamless Torrents</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-for-smoothing-out-cyberpunk-2077s-performance-issues-fixing-lag-and-stutter/"><u>Tips for Smoothing Out Cyberpunk 2077'S Performance Issues: Fixing Lag and Stutter</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-city-skylines-game-crashes-expert-advice/"><u>Ultimate Guide: Solving City Skylines Game Crashes - Expert Advice</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/vimeo-and-youtube-a-compreayer-of-their-core-philosophies/"><u>Vimeo and YouTube A Compreayer of Their Core Philosophies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultimate-introductory-editor-software-devices-for-2024/"><u>[Updated] Ultimate Introductory Editor Software (Devices) for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/360-degree-rigging-solutions-vr-production-for-2024/"><u>360 Degree Rigging Solutions VR Production for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-free-phone-ringtone-tones-top-3-effortless-techniques-at-zero-charge/"><u>Download FREE Phone Ringtone Tones: Top 3 Effortless Techniques at Zero Charge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-eliminating-dev-error-5573-in-call-of-duty-vanguard-top-tips-and-solutions/"><u>Expert Advice for Eliminating Dev Error 5573 in Call of Duty: Vanguard - Top Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-errors-in-graphics-card-drivers-ryzen-edition-solutions/"><u>Fixing Errors in Graphics Card Drivers: Ryzen Edition Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-high-end-graphics-issues-optimizing-warzones-use-of-gpu-in-windows-10/"><u>Fixing High-End Graphics Issues: Optimizing Warzone's Use of GPU in Windows 10</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-6-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 6 Plus Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-huawei-nova-y91-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-eclectic-videoland-rating/"><u>In 2024, Eclectic Videoland Rating</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/maximizing-productivity-the-benefits-of-utilizing-the-native-ios-notes-app/"><u>Maximizing Productivity: The Benefits of Utilizing the Native iOS Notes App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-re-villages-full-screen-black-problem-on-your-computer-a-step-by-step-guide/"><u>Overcome RE Villages Full-Screen Black Problem on Your Computer – A Step by Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-troubleshooting-guide-when-your-google-meet-camera-wont-turn-on/"><u>Solved: Troubleshooting Guide - When Your Google Meet Camera Won't Turn On</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-pc-issues-effective-strategies-to-resolve-gray-zone-warfare-game-crashes/"><u>Solving PC Issues: Effective Strategies to Resolve Gray Zone Warfare Game Crashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/true-color-harmony-software/"><u>True Color Harmony Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-gameplay-uninterrupted-eliminating-pc-read-errors-in-versions-50-and-31/"><u>Warzone Gameplay Uninterrupted: Eliminating PC Read Errors in Versions 5.0 and 3.1</u></a></li>
 </ul></div>
 

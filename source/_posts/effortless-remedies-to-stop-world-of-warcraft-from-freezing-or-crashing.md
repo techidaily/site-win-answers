@@ -1,7 +1,7 @@
 ---
 title: Effortless Remedies to Stop World of Warcraft From Freezing or Crashing
-date: 2024-10-13T17:31:25.680Z
-updated: 2024-10-20T17:27:42.401Z
+date: 2024-10-24T17:27:35.203Z
+updated: 2024-10-26T17:17:37.018Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/a874c93816ae423dda167fa7dc747b04dfff15b3d
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix the error.
@@ -62,23 +69,9 @@ thumbnail: https://thmb.techidaily.com/a874c93816ae423dda167fa7dc747b04dfff15b3d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
@@ -94,10 +87,10 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 3. Click the**Options** button and select**Scan and Repair** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
@@ -119,19 +112,26 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -142,15 +142,21 @@ Here’s what you can do:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -174,24 +180,17 @@ Here’s what you can do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-digital-renaissance-spotlight-on-six-trailblazers-of-nfts-for-2024/"><u>[New] Digital Renaissance Spotlight on Six Trailblazers of NFTs for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-efficiently-redistributing-your-creative-works/"><u>[New] In 2024, Efficiently Redistributing Your Creative Works</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-how-much-money-can-you-make-via-youtube-ad-revenue-and-cpm-rates/"><u>[New] In 2024, How Much Money Can You Make via YouTube Ad Revenue and CPM Rates?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-clickbait-crafting-secrets-to-facebooks-favorites/"><u>[Updated] Clickbait Crafting Secrets to Facebook's Favorites</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cookiebot-advanced-personalization-for-dynamic-websites/"><u>Cookiebot: Advanced Personalization for Dynamic Websites</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722988151239-cyberpunk-2077-no-longer-freezes-how-the-issue-is-fixed/"><u>Cyberpunk 2077 No Longer Freezes: How the Issue Is Fixed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-darkness-in-your-game-resolving-halo-infinites-black-screen-issue/"><u>End Darkness in Your Game: Resolving Halo Infinite's Black Screen Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-that-frustrating-frame-rate-drop-in-overwatch-instantly/"><u>Fix That Frustrating Frame-Rate Drop in Overwatch, Instantly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-dota-2-crash-issues-once-and-for-all-with-these-proven-steps/"><u>Fix Your Dota 2 Crash Issues Once & For All with These Proven Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-frozen-screen-tips-and-tricks-for-smooth-play-in-borderlands-3/"><u>Fixing the Frozen Screen: Tips and Tricks for Smooth Play in Borderlands 3</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-apex-legends-internet-sync-issues-an-ultimate-guide/"><u>How to Overcome Apex Legends Internet Sync Issues: An Ultimate Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy F14 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-the-fitbit-versa-2-as-a-go-to-device-for-fitness-buffs-with-integrated-smartwatch-features/"><u>In-Depth Analysis: The Fitbit Versa 2 as a Go-To Device for Fitness Buffs with Integrated Smartwatch Features</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-toms-technology-world/"><u>Inside Tom's Technology World</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/maximize-impact-mastering-igtv-content-submission/"><u>Maximize Impact Mastering IGTV Content Submission</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-issue-of-far-cry-6-failing-to-start-on-windows/"><u>Resolved: Overcoming the Issue of Far Cry 6 Failing to Start on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-enabling-successful-startup-of-farming-simulator-22/"><u>Step-by-Step Solution: Enabling Successful Startup of Farming Simulator 22</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-rectify-last-epoch-not-starting-on-your-pc-tips-and-tricks-for-the-2024-update/"><u>The Ultimate Guide to Rectify Last Epoch Not Starting on Your PC: Tips and Tricks for the 2024 Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-the-finals-not-launching-in-202-cufflinks-expert-tips-and-advice/"><u>Ultimate Fixes for The Finals Not Launching in 202 Cufflinks: Expert Tips and Advice</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-essential-blueprint-for-home-based-podcasting/"><u>[New] The Essential Blueprint for Home-Based Podcasting</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-soundscape-auditions-for-videos/"><u>[Updated] Prime Soundscape Auditions for Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/choosing-the-perfect-app-platform-amazon-kids-or-google-kids-space-for-children/"><u>Choosing the Perfect App Platform: Amazon Kids or Google Kids Space for Children</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-discord-delays-with-this-expert-guide-to-uninterrupted-gaming/"><u>Ending Discord Delays with This Expert Guide to Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-the-mystery-of-the-minecraft-blackout-solutions-you-need-to-know/"><u>Ending the Mystery of The Minecraft Blackout: Solutions You Need to Know</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-a-reliable-choice-for-everyday-computing-needs/"><u>Evaluating the Dell Inspiron ^ 3671 Desktop: A Reliable Choice for Everyday Computing Needs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-picks-excellent-4k-displays-for-playing-games/"><u>In 2024, Top Picks Excellent 4K Displays for Playing Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-stabilizing-helldivers-ii-on-your-computer-proven-strategies-for-seamless-gaming/"><u>Master the Art of Stabilizing Helldivers II on Your Computer - Proven Strategies for Seamless Gaming.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-cortana-glitches-with-these-effective-troubleshooting-techniques/"><u>Say Goodbye to Cortana Glitches with These Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973569471-simplify-your-printing-experience-with-updated-drivers-for-brother-mfc-7360n-on-windows/"><u>Simplify Your Printing Experience with Updated Drivers for Brother MFC-7360N on Windows!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-linking-your-computer-with-bluetooth-speakers/"><u>Step-by-Step Guide: Linking Your Computer with Bluetooth Speakers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-up-space-how-to-convert-your-dvds-to-digital-video-files/"><u>Updated 2024 Approved Free Up Space How to Convert Your DVDs to Digital Video Files</u></a></li>
 </ul></div>
 
