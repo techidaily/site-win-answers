@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on How to Stop Your Code Veam Game From Freezing Up
-date: 2024-10-22T16:12:26.504Z
-updated: 2024-10-26T16:09:29.270Z
+date: 2024-10-27T17:40:37.065Z
+updated: 2024-11-01T04:10:00.957Z
 tags:
   - win11
   - win10
@@ -38,11 +38,25 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall State of Decay 2](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your Apps
 
  In order to function properly on a Windows 10 PC, State of Decay 2 requires three supporting apps:**Xbox** ,**Xbox Game Bar** ,**Xbox Live** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/xbox-supporting-apps.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have the**Xbox Console Companion** installed, please uninstall it. To do so:
 
@@ -51,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b
 2. Under Apps & features, click**Xbox Console Companion** and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-xbox-console-companion.jpg)
 3. Click**Uninstall** again.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 
@@ -108,13 +115,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 If this method doesn’t help, check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Reset State of Decay 2
 
  With Windows 10, you can reset an app’s data without uninstalling and reinstalling the app. This will restore an app to its default settings. So, before trying anything more complicated, you can reset State of Decay 2 to see if it can fix the crashing issue. Here’s how:
@@ -127,10 +127,10 @@ If this method doesn’t help, check out the next solution.
 3. Scroll down the page, then click**Reset** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
@@ -139,28 +139,15 @@ If this method doesn’t help, check out the next solution.
 5. Once the process is complete, restart your computer.
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Move State of Decay 2 to a different drive
 
@@ -179,13 +166,6 @@ If the crashing issue occurs again, continue to the next fix.
 
 If this method doesn’t do the trick, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Set English (United States) as the default language
 
  Some gamers have reported that they fixed the State of Decay 2 crashing issue by setting English (United States) as the default language. You can give it a try. To do so:
@@ -196,6 +176,13 @@ If this method doesn’t do the trick, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
@@ -217,18 +204,31 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
@@ -254,10 +254,10 @@ If this solution doesn’t work for you, continue to the next fix.
 3. Click**Uninstall** again.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
@@ -284,21 +284,22 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-elevate-your-feed-crafting-engaging-instagram-videos/"><u>[New] Elevate Your Feed Crafting Engaging Instagram Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-next-gen-editing-excellence-perfect-for-vimeo-content/"><u>[Updated] 2024 Approved Next-Gen Editing Excellence Perfect for Vimeo Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastery-start-essence-of-storyline-development/"><u>[Updated] In 2024, Mastery Start Essence of Storyline Development</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-ultimate-mac-video-converter-leading-the-pack-with-native-intel-qsv-acceleration-support/"><u>1) Ultimate Mac Video Converter: Leading the Pack with Native Intel QSV Acceleration Support</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-path-to-picsart-proficiency/"><u>2024 Approved The Ultimate Path to PicsArt Proficiency</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-game-halts-essential-tips-for-zipping-through-loading-screen-glitches-on-forza-horizon-5/"><u>Conquer Game Halts: Essential Tips for Zipping Through Loading Screen Glitches on Forza Horizon 5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-guide-to-preventing-and-repairing-pc-crashes-while-playing-fifa-19/"><u>Easy Guide to Preventing and Repairing PC Crashes While Playing FIFA 19</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fix-display-driver-nvlddmkm-stopped-responding-and-has-successfully-recovered/"><u>Fix: Display Driver Nvlddmkm Stopped Responding and Has Successfully Recovered</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ative-tactics-starting-your-youtube-enterprise-from-mobile/"><u>Innovative Tactics Starting Your YouTube Enterprise From Mobile</u></a></li>
-<li><a href="https://win-answers.techidaily.com/operation-translate-all-instances-of-inflammation-into-a-series-of-musical-notes-that-follow-the-pattern-found-in-beethovens-symphony-no5-first-movement-all541/"><u>Operation: Translate All Instances of Inflammation Into a Series of Musical Notes that Follow the Pattern Found in Beethoven's Symphony No.5, First Movement (Allegro Con Brio).</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-snap-camera-input-errors-comprehensive-fixes-and-guides/"><u>Overcome Snap Camera Input Errors – Comprehensive Fixes and Guides</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-prevent-praey-for-the-overlord-from-crashing-on-windowsmac/"><u>Step-by-Step Guide to Prevent Praey for the Overlord From Crashing on Windows/Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-iphone-not-detected-in-itunes-on-windows-11-fixed/"><u>Troubleshooting Guide: IPhone Not Detected in iTunes on Windows 11 (Fixed)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-resolving-frequent-usb-connection-drops/"><u>Troubleshooting Guide: Resolving Frequent USB Connection Drops</u></a></li>
-<li><a href="https://win-online.techidaily.com/windows-7-wbadmin-mastering-command-line-and-gui-versions/"><u>Windows 7 WBAdmin: Mastering Command Line and GUI Versions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcen-lords-of-mayhem-stuck-in-limbo-the-factors-causing-delay-in-launch-date/"><u>Wolcen: Lords of Mayhem Stuck in Limbo - The Factors Causing Delay in Launch Date</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-tidying-up-old-youtube-tracks-bar-free-viewing/"><u>[New] In 2024, Tidying Up Old YouTube Tracks Bar-Free Viewing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-reverse-revelations-instagrams-guide-to-rotating-images-for-engagement/"><u>[New] Reverse Revelations Instagram's Guide to Rotating Images for Engagement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-navigating-the-troubled-waters-of-zombie-army-4-on-your-computer-dead-war-edition/"><u>[SOLVED] Navigating the Troubled Waters of 'Zombie Army 4' On Your Computer - Dead War Edition</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-interlinked-networks-transferring-fb-videos-to-whatsapp/"><u>2024 Approved Interlinked Networks Transferring FB Videos to WhatsApp</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-practical-guide-to-creating-and-managing-a-win-11-hotspot/"><u>A Practical Guide to Creating and Managing a Win 11 Hotspot</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bug-free-gaming-solving-the-crashing-problems-of-madden-nfl-20-for-pc-users/"><u>Bug-Free Gaming: Solving the Crashing Problems of Madden NFL 20 for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-the-non-functional-engine-of-a-steelseries-gg-mouse-on-windows-computers/"><u>Effective Fixes for the Non-Functional Engine of a SteelSeries GG Mouse on Windows Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-unique-features-of-an-ipad-as-opposed-to-a-regular-tablet/"><u>Exploring the Unique Features of an iPad as Opposed to a Regular Tablet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-workarounds-for-smooth-fps-playthrough-on-your-computer-sifu-edition/"><u>Fixes & Workarounds for Smooth FPS Playthrough on Your Computer: Sifu Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-corsair-icue-not-working-on-windows-1111/"><u>How to Fix Corsair iCUE Not Working on Windows 11/11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-shine-brightly-youtubes-17-must-have-illumination/"><u>In 2024, Shine Brightly! YouTube's #17 Must-Have Illumination</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-iphone-xs-biometrics-addressing-face-id-glitches-for-2024/"><u>Navigating iPhone X's Biometrics Addressing Face ID Glitches for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-windows-11-camera-issue-fixing-error-f429f/"><u>Overcoming Windows 11 Camera Issue: Fixing Error F429F</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubles-resolved-overcoming-the-tower-of-fantasy-game-crashes/"><u>PC Troubles? Resolved: Overcoming the 'Tower of Fantasy' Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-minecraft-dungeon-glitches-pc-compatibility-and-troubleshooting-tips/"><u>Say Goodbye to Minecraft Dungeon Glitches: PC Compatibility & Troubleshooting Tips</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/simple-steps-for-creating-your-own-anniversary-celebration-video-at-home/"><u>Simple Steps for Creating Your Own Anniversary Celebration Video at Home</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-not-initialized-issue-a-guide-for-valorant-players/"><u>Solving the Not Initialized Issue - A Guide for Valorant Players</u></a></li>
 </ul></div>
 

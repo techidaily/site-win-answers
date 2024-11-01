@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Windows"
-date: 2024-10-25T16:30:50.718Z
-updated: 2024-10-26T17:28:18.880Z
+date: 2024-10-29T04:22:16.315Z
+updated: 2024-10-31T19:35:42.954Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -75,20 +68,27 @@ If this method doesn’t help, check out your graphics driver.
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -107,23 +107,16 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -135,28 +128,22 @@ If this method doesn’t help, check out your graphics driver.
 3. Click**Begin Scan** to process.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
- Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
-
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 ### Fix 5 – Turn off overlays
 
@@ -177,6 +164,13 @@ If this method doesn’t help, check out your graphics driver.
 2. Toggle off**In-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -202,15 +196,22 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-navigating-the-world-of-iphone-hdr-a-beginners-guide/"><u>[New] Navigating the World of iPhone HDR A Beginner's Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-effortlessly-incorporate-images-on-instagram/"><u>[Updated] 2024 Approved Effortlessly Incorporate Images on Instagram</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-premium-4k-action-cameras-our-elite-seven-list/"><u>[Updated] 2024 Approved Premium 4K Action Cameras Our Elite Seven List</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-simple-guide-how-to-download-your-favorite-party-tunes/"><u>1. Simple Guide: How to Download Your Favorite Party Tunes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/vlcyoutube-mrl/"><u>対処法：VLCでYouTube MRLが認識されない場合</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-vivo-v30-lite-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y200? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-ten-windows-phones-for-seamless-video-streaming-for-2024/"><u>Top Ten Windows Phones for Seamless Video Streaming for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/web3googleseo/"><u>Web会議簡単録音術3つのスキル:Google検索向けSEOタイトル</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windowsmov-6/"><u>WindowsでMOV動画スムーズ視聴! おすすめの6つの無料再生ソフトリスト🍿</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-logitech-wireless-mouse-not-working/"><u>[Solved] Logitech Wireless Mouse Not Working</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-bringing-text-to-life-3d-techniques-in-illustrator/"><u>[Updated] 2024 Approved Bringing Text to Life 3D Techniques in Illustrator</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-guide-to-oculus-rift-setup/"><u>2024 Approved Comprehensive Guide to Oculus Rift Setup</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-frost-giants-clash-gods-of-war-ragnarok-unleashed/"><u>2024 Approved Frost Giants Clash Gods of War, Ragnarok Unleashed</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-windows-flicker-disturbance/"><u>Addressing Windows Flicker Disturbance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-screen-woes-solved-effective-troubleshooting-guide/"><u>Black Screen Woes Solved: Effective Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-to-rectifying-far-cry-6s-pc-launch-error-a-comprehensive-fix/"><u>Easy Guide to Rectifying Far Cry 6'S PC Launch Error: A Comprehensive Fix</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-managing-microsofts-compatibility-telemetry-and-saving-storage-in-windows-11/"><u>Effective Solutions for Managing Microsoft's Compatibility Telemetry and Saving Storage in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-common-game-freezes-in-nier-replicant-tips-and-tricks-for-a-smooth-play/"><u>Fixing Common Game Freezes in NieR: Replicant – Tips & Tricks for a Smooth Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-phasmophobia-software-issues-updates-and-patch-notes-year-2024/"><u>How to Resolve Phasmophobia Software Issues: Updates and Patch Notes (Year 2024)</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005740495-mastering-dayz-speed-instantly-eliminate-those-frustrating-fps-drops/"><u>Mastering DayZ Speed - Instantly Eliminate Those Frustrating FPS Drops!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/precision-photo-repair-software-stellars-windows-friendly-restoration-kit/"><u>Precision Photo Repair Software: Stellar's Windows-Friendly Restoration Kit</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-cortana-not-functioning/"><u>Troubleshooting Guide: How to Fix 'Cortana Not Functioning'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995115910-valorant-playback-woes-heres-how-to-solve-them/"><u>Valorant Playback Woes? Here's How to Solve Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-after-effects-keep-freezing-or-crashing-solutions-for-windows-10-and-11-users/"><u>Why Does After Effects Keep Freezing or Crashing? Solutions for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

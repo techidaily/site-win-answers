@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips to Resolve Call of Duty: World War II Error Code 4128 Quickly"
-date: 2024-09-01T04:20:10.270Z
-updated: 2024-09-02T04:20:10.270Z
+date: 2024-10-27T11:18:46.683Z
+updated: 2024-10-31T23:13:59.803Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Recently as hundreds of thousands of players get their hands on the long awaited
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -53,9 +60,6 @@ Recently as hundreds of thousands of players get their hands on the long awaited
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -69,15 +73,16 @@ Here is how to verify the integrity of Borderlands 3:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Once completed, click to run Borderlands 3 to see if it launches properly. If yes, then congrats! If the issue still remains, please try**Fix 3** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3:**Run Epic Games Launcher and Borderlands 3 as administrator**
 
  In some cases, Borderlands 3 won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run**Epic Games Launcher** and**Borderlands 3** as administrator.
@@ -89,15 +94,23 @@ Here is how to run Epic Games Launcher as administrator:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab, tick the box for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Run Borderlands 3 to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run**Borderlands 3 as administrator** , the steps are similar as those for Epic Games Launcher.
 
  Once finished, don’t forget to check if the**Borderlands 3 LS-0013** error is resolved.
@@ -116,8 +129,6 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +136,24 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-1-3-in-ipad-voice-memos-and-recorders/"><u>[New] 1-3 in iPad Voice Memos & Recorders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-essential-guide-to-multistation-open-source-video-tools/"><u>[New] In 2024, Essential Guide to Multistation Open Source Video Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-guide-to-the-best-video-editors-not-on-youtoo/"><u>[New] In 2024, The Ultimate Guide to the Best Video Editors Not on YouToo</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/charting-the-course-a-comprehensive-guide-to-youtube-teaser-vids-for-2024/"><u>Charting the Course A Comprehensive Guide to YouTube Teaser Vids for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dead-by-daylight-2024-crash-chronicles-step-by-step-guide-for-uninterrupted-gameplay/"><u>Dead by Daylight 2024 Crash Chronicles: Step-by-Step Guide for Uninterrupted Gameplay</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-update-your-hp-deskjet-2540-printers-software-here/"><u>Find & Update Your HP DeskJet 2540 Printer's Software Here!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-xr21-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia XR21 Phone that is Locked?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-rogue-company-from-continuously-crashing-on-your-desktop-pc/"><u>How to Stop Rogue Company From Continuously Crashing on Your Desktop PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 mini Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/increase-frame-rate-like-a-pro-the-6-best-ways-to-fix-low-fps-in-escape-from-tarkov/"><u>Increase Frame Rate Like a Pro: The 6 Best Ways to Fix Low FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-gaming-improving-fps-and-addressing-lag-concerns/"><u>Lost Ark Gaming - Improving FPS & Addressing Lag Concerns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/madden-nfl-22-malfunctions-heres-how-you-can-fix-it-asap/"><u>Madden NFL '22 Malfunctions? Here's How You Can Fix It ASAP!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002347076-quick-fix-stop-titanfall-2-from-crashing-instantly/"><u>Quick Fix: Stop Titanfall 2 From Crashing Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamping-your-gaming-experience-resolving-risk-of-rain-2-sudden-shutdowns/"><u>Revamping Your Gaming Experience: Resolving 'Risk of Rain 2' Sudden Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-strategies-for-when-minecraft-wont-start-properly/"><u>Solution Strategies for When Minecraft Won't Start Properly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-get-sea-of-thieves-loading/"><u>Troubleshooting Guide: How to Get Sea of Thieves Loading</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-gta-5-online-connectivity-issues/"><u>Troubleshooting Steps: Resolving 'GTA 5 Online' Connectivity Issues</u></a></li>
+</ul></div>
 

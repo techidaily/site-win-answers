@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Forza Horizon 4 Won’t Launch | 2024 Tips"
-date: 2024-10-20T17:19:33.996Z
-updated: 2024-10-26T16:29:42.271Z
+date: 2024-10-25T21:38:10.379Z
+updated: 2024-11-01T01:38:48.090Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your system specs
 
  If your game won’t launch at all, chances are that you’re running a game that stretches your PC beyond its abilities.
@@ -68,6 +61,13 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 
  Make sure your PC is above the minimum system requirements to run the game, then move on and try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of the_Forza Horizon 4_ not launching problem is a faulty or outdated graphics driver. You should update your graphics driver to see if that’s the case for you.
@@ -83,6 +83,13 @@ Having trouble launching_Forza Horizon 4_ on your PC? You’re not alone! Many p
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_14-49-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
@@ -107,9 +114,23 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_15-58-21-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click your**USB’s name** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-00-27.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**ReadyBoost tab** , then select**Do not use this device** .
 
@@ -119,24 +140,18 @@ If your issue persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-19-03-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Disconnect**all USB devices** you don’t need from your PC.
 
 **6)** Relaunch your game to test your issue.
 
 If your issue still exists, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off unnecessary programs
 
@@ -158,13 +173,6 @@ Here is how to check and close programs you’re running:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-52-34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click the process you want to end and select **End task** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -174,6 +182,13 @@ Here is how to check and close programs you’re running:
 **4)** Try launching your game to test your issue.
 
 If your issue continues to occur, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -188,22 +203,15 @@ If your issue continues to occur, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-53-43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Restart**your computer and your game** after the update is complete.
 
 If your issue persists, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstalling your game
 
@@ -213,23 +221,9 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_16-54-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Download and install_Forza Horizon 4_ from Microsoft Store.
 
@@ -256,21 +250,24 @@ _Forza Horizon 4_ launching issues could happen when the game is not properly in
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-your-ultimate-guide-to-storing-and-saving-live-tv-broadcasts/"><u>[New] 2024 Approved Your Ultimate Guide to Storing and Saving Live TV Broadcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-excellent-ios-apps-the-ultimate-psp-emulators/"><u>[New] Excellent iOS Apps The Ultimate PSP Emulators</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-becoming-a-green-mastermind-with-kinemasters-gs-knowledge/"><u>[Updated] In 2024, Becoming a Green Mastermind with KineMaster's GS Knowledge</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-steps-to-confirm-and-secure-your-tiktok-videos-for-posting/"><u>[Updated] In 2024, Steps to Confirm and Secure Your TikTok Videos for Posting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/arcadegeddon-pc-crashes-troubleshooting-guide-what-you-need-to-know/"><u>Arcadegeddon PC Crashes Troubleshooting Guide - What You Need to Know!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-advanced-techniques-to-lower-ping-in-warzone-20-updated/"><u>Beat the Lag: Advanced Techniques to Lower Ping in Warzone 2.0 [Updated ]</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/comic-crafting-mastering-7-cheeky-content-strategies-for-2024/"><u>Comic Crafting Mastering 7 Cheeky Content Strategies for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/control-your-pcs-social-side-with-these-simple-tips-to-turn-on-or-off-network-discovery-on-windows-11/"><u>Control Your PC's Social Side with These Simple Tips to Turn On or Off Network Discovery on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/detailed-walkthrough-fixing-error-6-for-pc-gamers-in-battlefield-v-and-modern-warfare/"><u>Detailed Walkthrough: Fixing Error 6 for PC Gamers in Battlefield V and Modern Warfare</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/discerning-t-series-profit-mechanisms-from-youtube-views-for-2024/"><u>Discerning T-Series' Profit Mechanisms From Youtube Views for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-hardware-reviews-toms-tech-wisdom/"><u>Dive Into Hardware Reviews - Tom's Tech Wisdom</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-forza-horizon-4-up-and-running-again-expert-hacks-for-launch-issues/"><u>Get Your Forza Horizon 4 Up and Running Again! Expert Hacks for Launch Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-persistent-issues-with-nioh-2-complete-edition-on-windows/"><u>How to Fix Persistent Issues with Nioh 2 (Complete Edition) on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-cod-modern-warfare-insider-tips-on-fps-drops-and-enhanced-gaming-experience/"><u>Mastering COD: Modern Warfare - Insider Tips on FPS Drops and Enhanced Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997888357-rainbow-six-siege-not-opening-heres-how-to-resolve-it/"><u>Rainbow Six Siege Not Opening? Here's How to Resolve It</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-correcting-missing-gdxtools320dll-error-codes/"><u>The Ultimate Guide to Correcting Missing gdxtools320.dll Error Codes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-digital-display-delights-top-plugins-and-apps-for-photo-frames/"><u>[New] 2024 Approved Digital Display Delights Top Plugins & Apps for Photo Frames</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-three-methods-for-capturing-ps4-gaming-moments/"><u>[New] 2024 Approved Three Methods for Capturing PS4 Gaming Moments</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/resh-topics-to-cover-in-your-vlogs/"><u>[New] Fresh Topics to Cover in Your Vlogs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-sharpen-your-shots-canon-offers-freepaid-lut-edits/"><u>[New] Sharpen Your Shots Canon Offers Free/Paid LUT Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-ultimate-checklist-for-your-xbox-one-zooming-journey/"><u>[New] The Ultimate Checklist for Your Xbox One Zooming Journey</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-snap-game-15-must-try-tactics-for-2024/"><u>[Updated] Elevate Your Snap Game 15 Must-Try Tactics for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-art-of-podcast-scheduling/"><u>2024 Approved Mastering the Art of Podcast Scheduling</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-profits-demystified-from-clicks-to-credit/"><u>2024 Approved YouTube Profits Demystified From Clicks to Credit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ace-the-arena-with-easy-techniques-improve-apex-legends-performance-in-6-ways/"><u>Ace the Arena with Easy Techniques - Improve Apex Legends Performance in 6 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-your-game-time-frustrations-6-easy-solutions-for-persistent-minecraft-crashes/"><u>End Your Game Time Frustrations: 6 Easy Solutions for Persistent Minecraft Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-your-gaming-experience-solving-lost-arks-silent-problem/"><u>Enhancing Your Gaming Experience - Solving Lost Ark's Silent Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/forza-horizon-pc-translation-how-to-fix-forza-horizon-pc-crashes/"><u>Forza Horizon 지스트 필터링: PC 충돌에 대한 해결 방법 (Translation: How to Fix Forza Horizon PC Crashes)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-windows-11-taskbar-problems-a-step-by-step-guide/"><u>Resolving Windows 11 Taskbar Problems - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-overcome-rainbow-six-sieges-black-display-problem-on-your-pc/"><u>Step-by-Step Solutions to Overcome Rainbow Six Siege's Black Display Problem on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-dead-space-remake-not-starting-up-issue/"><u>Ultimate Guide: Resolving the 'Dead Space Remake Not Starting Up' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-launch-problems-with-lost-ark/"><u>Ultimate Guide: Solving Launch Problems with 'Lost Ark'</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-hidden-gems-of-iphones-discovering-apples-latest-understated-innovation/"><u>Unveiling the Hidden Gems of iPhones: Discovering Apple's Latest Understated Innovation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-isnt-my-google-chrome-starting-troubleshooting-steps-inside/"><u>Why Isn't My Google Chrome Starting? Troubleshooting Steps Inside</u></a></li>
 </ul></div>
 

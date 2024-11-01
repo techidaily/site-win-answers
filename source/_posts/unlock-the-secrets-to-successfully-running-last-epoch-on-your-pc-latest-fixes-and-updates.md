@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!
-date: 2024-10-24T16:25:58.381Z
-updated: 2024-10-26T17:14:59.069Z
+date: 2024-10-30T23:47:18.561Z
+updated: 2024-10-31T23:52:52.749Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -61,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 * If your internet speed is slow, it could lead to an unstable connection. You can google “Internet speed test” and pick a tool to **test your Internet speed** . When your Internet connection seems unreasonably slow, consider contacting your Internet service provider for help.
 
  If you’ve checked your internet connection but the ping is still high, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Close bandwidth-hogging programs
 
@@ -80,20 +66,13 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
@@ -137,35 +116,23 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -176,8 +143,22 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
@@ -185,16 +166,29 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
@@ -229,22 +223,15 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1723012292497-solved-fortnite-freezes-pc-2024-tips/"><u>[Solved] Fortnite Freezes PC - 2024 Tips</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-hire-wisdom-top-10-recruiting-video-guide/"><u>[Updated] 2024 Approved Hire Wisdom Top 10 Recruiting Video Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726221888955-mp3/"><u>「一鍋子MP3音樂編輯：最快、最簡單的播放列表自動化技術」</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-potential-crafting-dynamic-images-with-your-ipad/"><u>2024 Approved Unlocking Potential Crafting Dynamic Images with Your iPad</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/camera-shake-in-photographyvideo-what-you-need-to-know/"><u>Camera Shake In Photography/Video | What You Need to Know</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/deciphering-gopro-burst-mode-mechanics-for-2024/"><u>Deciphering GoPro Burst Mode Mechanics for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/gathering-the-good-times-easy-steps-to-download-and-store-twitters-animated-tweets/"><u>Gathering the Good Times Easy Steps to Download and Store Twitter's Animated Tweets</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-nokia-c32-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Nokia C32?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oneplus-ace-3-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast OnePlus Ace 3 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-stuck-on-boot-screen-fixes-and-solutions/"><u>Mass Effect Legendary Edition Stuck on Boot Screen - Fixes & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-game-interruptions-ultimate-2024-strategies-to-fix-dead-by-daylight-crashes/"><u>No More Game Interruptions: Ultimate 2024 Strategies to Fix Dead by Daylight Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-alan-wake-2s-crash-issues-advanced-troubleshooting-guide/"><u>Resolving Alan Wake 2'S Crash Issues - Advanced Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-destructive-glitches-in-unreal-engine-4-arise-development/"><u>Resolving Destructive Glitches in Unreal Engine 4 Arise Development</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-hogwarts-legacy-game-launch-failures-essential-fixes-players/"><u>Troubleshoot Your Hogwarts Legacy Game Launch Failures: Essential Fixes Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002510003-unable-to-access-doom-eternal-since-its-delayed-launch-find-remedies-and-get-gaming-now/"><u>Unable to Access DOOM Eternal Since Its Delayed Launch? Find Remedies and Get Gaming Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-optimization-techniques-boost-your-frame-rate-and-say-goodbye-to-stuttering/"><u>Warzone Optimization Techniques: Boost Your Frame Rate and Say Goodbye to Stuttering</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pixel-perfect-viewing-comparing-worlds-top-8k-televisions/"><u>[New] In 2024, Pixel-Perfect Viewing Comparing World's Top 8K Televisions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-cut-to-perfection-advanced-guide-to-cropping-videos-for-instagram/"><u>[Updated] 2024 Approved Cut to Perfection Advanced Guide to Cropping Videos for Instagram</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat/"><u>[Updated] 2024 Approved Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-perfectly-crafted-online-meeting-backdrops/"><u>[Updated] 2024 Approved Perfectly Crafted Online Meeting Backdrops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-your-ark-adventures-expert-strategies-for-higher-fps-performance-on-pc/"><u>Accelerate Your ARK Adventures: Expert Strategies for Higher FPS Performance on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-cyberpunk-2077-performance-with-these-tips-to-eliminate-frame-drops/"><u>Enhance Cyberpunk 2077 Performance with These Tips to Eliminate Frame Drops</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/guide-complet-comment-compresser-des-fichiers-video-lourds-pour-les-partager-via-whatsapp-en-maintenant-preserver-la-clarte-et-la-definition-originale-a-lai94/"><u>Guide Complet : Comment Compresser Des Fichiers Vidéo Lourds Pour Les Partager via WhatsApp En Maintenant Préserver La Clarté Et La Définition Originale À L'aide De WinZip Media Converter</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-achieving-maximum-fps-in-ark-survival-ascended-pc-gaming/"><u>Top Strategies for Achieving Maximum FPS in ARK: Survival Ascended PC Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-performance-problems-fixes-for-unresponsive-moments-2eepzing-issues/"><u>Troubleshooting Steam Performance Problems – Fixes for Unresponsive Moments, 2Eepzing Issues</u></a></li>
 </ul></div>
 

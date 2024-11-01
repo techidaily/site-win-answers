@@ -1,7 +1,7 @@
 ---
 title: "Resolving TOTAL WAR: WARHAMMER II Stability Problems - Fixes & Solutions"
-date: 2024-10-25T16:28:37.648Z
-updated: 2024-10-26T16:29:52.077Z
+date: 2024-10-27T12:24:53.624Z
+updated: 2024-11-01T11:15:29.170Z
 tags:
   - win11
   - win10
@@ -59,29 +59,22 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-43.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Check your operating system, processor,**and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-51.jpg)
 
  Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -100,6 +93,13 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 **2)**  Right-click the **Steam icon**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-40-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .
 
@@ -122,13 +122,6 @@ If your game crashes again, then try the next fix.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_10-28-13-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Type**devmgmt.msc** , then click**OK** .
 
@@ -158,6 +151,13 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-25.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -182,6 +182,13 @@ If your issue persists, then move on to the next fix below.
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-33.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
@@ -215,6 +222,19 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-53-08.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type**\-dx11** on the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
@@ -233,16 +253,16 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Allow an app or feature through Windows Defender Firewall** .
 
@@ -260,18 +280,18 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Relaunch Steam and your game.
 
 **9)** Firewall will prompt you to allow access to networks, click**Allow access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work for you, move on to try the fix below.
 
@@ -282,13 +302,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **1)** Right-click the**Total War: WARHAMMER II icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -302,13 +315,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
  If this didn’t work for you, you need to reopen the Properties Window and disable the Compatibility mode . Then, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Reinstall Steam
 
  If none of the fixes above worked, reinstalling Steam is very likely the solution to your problem. Here is how to do it:
@@ -321,6 +327,13 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-31-39.jpg)
@@ -328,13 +341,6 @@ If this method doesn’t work for you, move on to try the fix below.
 **4)** Under **View by** , select **Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -373,14 +379,20 @@ If this method doesn’t work for you, move on to try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-gameplay-win10-screen-record-tech-for-2024/"><u>[Updated] Streamline Your Gameplay Win10 Screen Record Tech for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-note-50-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme Note 50</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-3-top-notch-smartphones-excelling-at-video-capture/"><u>2024 Approved 3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvd20234/"><u>最新DVDイメージファイル入手法：202([[34年分]について学ぶ完全解析</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-updated-geforce-rtx-2070-drivers-optimized-performance-on-windows-11-8-and-7-devices/"><u>Download Updated Geforce RTX 2070 Drivers: Optimized Performance on Windows 11, 8 & 7 Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvd-isomp3/"><u>DVD ISOファイルをMP3形式に変換する詳しいガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-guide-converting-multiple-wmv-files-into-mov-format-at-once/"><u>Easy Guide: Converting Multiple WMV Files Into MOV Format at Once</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-guide-transferring-your-favorite-videos-from-vimeo-to-iphone-seamlessly/"><u>Easy Guide: Transferring Your Favorite Videos From Vimeo to iPhone Seamlessly</u></a></li>
-<li><a href="https://techidaily.com/open-group-policy-editor-gpeditmsc-in-windows-11-in-5-ways/"><u>Open Group Policy Editor (gpedit.msc) in Windows 11 in 5 Ways</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-brand-presence-effective-instagram-video-marketing-techniques/"><u>[Updated] 2024 Approved Elevate Brand Presence Effective Instagram Video Marketing Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-licensed-soundtracks-for-gamers-a-complete-list/"><u>2024 Approved Free, Licensed Soundtracks for Gamers - A Complete List</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-constant-crashes-while-playing-back-blood-on-your-pc/"><u>How to Prevent Constant Crashes While Playing Back ˋBlood on Your PC?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-frostpunk-from-crashing-effective-solutions-explored/"><u>How to Stop Frostpunk From Crashing - Effective Solutions Explored</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-messages-from-apple-iphone-6-plus-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Messages From Apple iPhone 6 Plus to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-15-pro-max-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 15 Pro Max? How to Fix it?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-performance-issues-master-guide-to-preventing-mass-effect-legendary-edition-freezes/"><u>Resolving Performance Issues: Master Guide to Preventing Mass Effect Legendary Edition Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ring-of-elysium-upgrades-a-step-by-step-guide-to-achieving-higher-fps-levels-for-smoother-gameplay/"><u>Ring of Elysium Upgrades: A Step-by-Step Guide to Achieving Higher FPS Levels for Smoother Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/rust-development-how-to-tackle-frequent-programming-crashes-effectively/"><u>Rust Development: How to Tackle Frequent Programming Crashes Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-early-access-discover-where-to-preorder-new-ipads-and-stylus-with-hottest-promotions-zdnet-insider-tips/"><u>Securing Early Access: Discover Where to Preorder New iPads & Stylus with Hottest Promotions | ZDNET Insider Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/solving-the-system-pte-misuse-and-bsod-a-comprehensive-guide/"><u>Solving the SYSTEM PTE Misuse & BSOD: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-fixing-game-crashes-on-your-windows-computer/"><u>Star Wars Jedi: Fallen Order - Fixing Game Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-errgfxstate-error-in-red-dead-redemption-2-step-by-step-guide/"><u>Ultimate Fixes for ERR_GFX_STATE Error in Red Dead Redemption 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/ultimate-guide-to-free-video-repair-apps-compatible-with-windows-11/"><u>Ultimate Guide to FREE Video Repair Apps Compatible with Windows 11</u></a></li>
 </ul></div>
 

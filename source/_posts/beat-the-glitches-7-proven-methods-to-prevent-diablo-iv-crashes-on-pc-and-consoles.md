@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitches: 7 Proven Methods to Prevent Diablo IV Crashes on PC and Consoles"
-date: 2024-10-22T17:16:46.977Z
-updated: 2024-10-26T17:52:06.922Z
+date: 2024-10-28T08:06:31.603Z
+updated: 2024-11-01T05:59:57.274Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify game files
@@ -53,6 +53,13 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 
 If it doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Put commands in the launch option
 
  You can fix the Stray crashing issue by putting commands in the Launch option. There are three commands, you can try it one-by-one to see which one fix your problem.
@@ -60,6 +67,13 @@ If it doesn’t work, move to the next fix.
 1. In Steam, right-click on Stray and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
@@ -71,6 +85,13 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Open Oculus app
 
@@ -84,13 +105,6 @@ If it doesn’t work, move to the next fix.
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphic driver
 
@@ -115,29 +129,22 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 5: Download and install file from GitHub
 
@@ -149,10 +156,10 @@ If it doesn’t work, move to the next fix.
 3. You need unzip tool (e.g. WinRAR) to extract the file.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
@@ -164,33 +171,20 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
 
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Lower graphic settings
 
@@ -215,22 +209,18 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevate-your-snap-game-15-must-try-tactics/"><u>[New] In 2024, Elevate Your Snap Game 15 Must-Try Tactics</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-elite-gamers-choice-top-4k-laptop-list-for-2024/"><u>[Updated] Elite Gamers' Choice Top 4K Laptop List for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-strategizing-the-open-door-to-market-success-for-2024/"><u>[Updated] Strategizing the Open Door to Market Success for 2024</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/1-ultimate-guide-top-techniques-for-perfectly-blurring-image-backgrounds/"><u>1. Ultimate Guide: Top Techniques for Perfectly Blurring Image Backgrounds</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-storytelling-game-on-snapchat-top-15-ideas/"><u>2024 Approved Elevate Your Storytelling Game on Snapchat (Top 15 Ideas)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-reducing-excessive-processor-use-on-the-most-recent-gaming-software/"><u>Effective Solutions for Reducing Excessive Processor Use on the Most Recent Gaming Software</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-acer-display-software-on-win11/"><u>Install Latest Acer Display Software on Win11</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ipados-18-unveiled-at-wwdc-2024-the-game-changing-features-that-could-persuade-you-to-choose-apples-tablet-today-insights/"><u>IPadOS 18 Unveiled at WWDC 2024: The Game-Changing Features That Could Persuade You to Choose Apple’s Tablet Today - Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-fps-on-tainted-grail-conquest-with-expert-tips-and-tricks/"><u>Maximize Your FPS on Tainted Grail: Conquest with Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-simple-guide-convert-your-flv-videos-into-gif-format-without-cost-movavis-solution/"><u>Quick & Simple Guide: Convert Your FLV Videos Into GIF Format Without Cost - Movavi's Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-you-do-not-have-permission-to-play-error-in-fortnite-how-to-fix-it/"><u>Resolved: 'You Do Not Have Permission to Play' Error in Fortnite - How to Fix It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-preventing-far-cry-6-from-freezing-on-your-desktop/"><u>Resolved: Fixes for Preventing Far Cry 6 From Freezing on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-recurrent-crashes-in-madden-nfl-21-gameplay-on-your-computer-helpful-strategies/"><u>Resolving Recurrent Crashes in Madden NFL 21 Gameplay on Your Computer - Helpful Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-dirt-5-game-stability-issues-no-more-crashes-on-desktop/"><u>Solving Dirt 5 Game Stability Issues: No More Crashes on Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-for-couldnt-retrieve-directory-information-in-your-kodi-setup/"><u>The Ultimate Fix for 'Couldn't Retrieve Directory Information' In Your Kodi Setup</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-3-iphone-data-rescue-apps-expert-reviews-and-comparisons/"><u>Top 3 iPhone Data Rescue Apps : Expert Reviews and Comparisons</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-getting-msi-afterburner-to-acknowledge-your-gpu-under-windows-10-and-11/"><u>Troubleshooting Tips: Getting MSI Afterburner to Acknowledge Your GPU Under Windows 10 and 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-insiders-method-for-rl-recording/"><u>[Updated] 2024 Approved The Insider's Method for RL Recording</u></a></li>
+<li><a href="https://games-able.techidaily.com/cyber-vulnerabilities-in-evolving-game-industry/"><u>Cyber Vulnerabilities in Evolving Game Industry</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-game-wont-open-error-on-grand-theft-auto-5/"><u>How to Fix 'Game Won't Open' Error on Grand Theft Auto 5</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-c12-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia C12 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-keep-starfield-running-smoothly-without-crashing-on-your-desktop-system/"><u>How to Keep Starfield Running Smoothly Without Crashing on Your Desktop System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-call-of-duty-black-ops-cold-war-from-freezing-your-pc-in-202n4/"><u>How to Stop Call of Duty Black Ops Cold War From Freezing Your PC in 202N4!</u></a></li>
+<li><a href="https://article-files.techidaily.com/immerse-in-ideas-multitasking-activities-for-podcast-fans/"><u>Immerse in Ideas Multitasking Activities for Podcast Fans</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovative-corporate-strategies-with-chatgpt-utilization/"><u>Innovative Corporate Strategies with ChatGPT Utilization</u></a></li>
+<li><a href="https://games-able.techidaily.com/learn-to-run-baldurs-gate-3-flawlessly-via-crossover-on-macos/"><u>Learn to Run Baldur’s Gate 3 Flawlessly via CrossOver on macOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stuck-or-errored-minecraft-launcher-update-process/"><u>Resolving Stuck or Errored Minecraft Launcher Update Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-problems-in-red-dead-redemption-2-solving-errgfxstate/"><u>Troubleshooting Graphics Problems in Red Dead Redemption 2: Solving ERR_GFX_STATE</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-fixing-resident-evil-village-crashes-on-windows-pc/"><u>Troubleshooting Tips for Fixing Resident Evil Village Crashes on Windows PC</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X9b | Dr.fone</u></a></li>
 </ul></div>
 

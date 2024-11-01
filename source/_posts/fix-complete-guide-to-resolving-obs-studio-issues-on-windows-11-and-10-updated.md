@@ -1,7 +1,7 @@
 ---
 title: "Fix: Complete Guide to Resolving OBS Studio Issues on Windows 11 & 10 (Updated )"
-date: 2024-10-20T16:07:19.208Z
-updated: 2024-10-26T17:36:29.340Z
+date: 2024-10-24T19:51:02.268Z
+updated: 2024-10-31T20:27:13.231Z
 tags:
   - win11
   - win10
@@ -46,37 +46,38 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
@@ -86,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Click**AppData** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
@@ -93,13 +101,6 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  8) Double-click the**Local**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Delete the**Origin**  folder in the **Local** folder.
 
@@ -110,6 +111,13 @@ thumbnail: https://thmb.techidaily.com/f9dfa57d80070d52083269f7e54688cbc55bc603d
  If Origin opens, you’ve resolved this issue. If not, try the next fix below to run the Program Compatibility Troubleshooter.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: update your graphics driver to the latest version**
 
@@ -150,13 +158,6 @@ Or
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
  This issue may occur if Origin is not compatible for your current Windows operating system. If you’re net sure, run the**Program Compatibility Troubleshooter** . The **Program Compatibility Troubleshooter**  can check whether that program is compatible for your current Windows operating system or not. Just follow the steps below to run the **Program Compatibility Troubleshooter** :
@@ -185,13 +186,6 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
@@ -216,16 +210,16 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select the**Startup** tab and click **Open Task Manager** .
 
@@ -235,13 +229,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
@@ -249,6 +236,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
@@ -274,13 +268,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 7: Reinstall Origin**
 
  If all the fixes above still don’t work, it’s time to uninstall Origin and reinstall it.
@@ -300,6 +287,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -327,15 +321,19 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-making.techidaily.com/duizenden-wegen-om-ios-note-backups-vanaf-icloud-te-borgen/"><u>Duizenden Wegen Om iOS-Note Backups Vanaf iCloud Te Borgen</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/eliminating-oculus-sickness-key-tactics/"><u>Eliminating Oculus Sickness Key Tactics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tutorial-on-free-downloading-and-using-hd-video-converter-factory-pro-without-cracks/"><u>Expert Tutorial on Free Downloading and Using HD Video Converter Factory Pro without Cracks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-track-techniques-for-turning-amv-files-into-high-quality-mp4-videos/"><u>Fast-Track Techniques for Turning AMV Files Into High-Quality MP4 Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/flexible-media-format-transformer-effortlessly-change-videos-into-flv-and-reverse-convert-flv-formats/"><u>Flexible Media Format Transformer: Effortlessly Change Videos Into FLV & Reverse Convert FLV Formats</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-your-free-trial-of-the-ultimate-3gp-video-converter-experience-safe-and-hassle-free-shopping-with-factory-pro/"><u>Get Your Free Trial of the Ultimate 3GP Video Converter: Experience Safe and Hassle-Free Shopping with Factory Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-reactivate-your-dolby-advanced-audio-driver-when-confronted-with-startup-problems-in-windows-11/"><u>How to Reactivate Your Dolby Advanced Audio Driver When Confronted with Startup Problems in Windows 11</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-to-transform-your-dat-videos-into-premium-mp4-format-a-step-by-step-guide/"><u>How to Transform Your DAT Videos Into Premium MP4 Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-7-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 7 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolved-essential-structural-compromise-issue-in-windows-11-operating-system/"><u>Resolved: Essential Structural Compromise Issue in Windows 11 Operating System</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-exploring-the-cutting-edge-of-uhd-with-lgs-27ud68/"><u>[New] Exploring the Cutting-Edge of UHD with LG's 27UD68</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-efficient-strategies-for-instagram-to-mp3-transformation/"><u>[Updated] In 2024, Efficient Strategies for Instagram to Mp3 Transformation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-tier-digital-workshop-title-maker/"><u>[Updated] Top-Tier Digital Workshop Title Maker</u></a></li>
+<li><a href="https://win-unique.techidaily.com/behebung-der-tatsache-der-papierkorb-scheint-leer-zu-sein-jedoch-ist-dies-ein-irrglaube/"><u>Behebung Der Tatsache: Der Papierkorb Scheint Leer Zu Sein – Jedoch Ist Dies Ein Irrglaube!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/behind-the-scenes-of-effective-online-streaming-for-2024/"><u>Behind the Scenes of Effective Online Streaming for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-detection-glitch-controller-setup-with-steam-in-windows-systems/"><u>Bypassing the Detection Glitch: Controller Setup with Steam in Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-cod-vanguards-hurdle-deciphering-and-fixing-pc-error-code-0x00001338-now-solved/"><u>Conquering CoD: Vanguard's Hurdle - Deciphering and Fixing PC Error Code '0X00001338' (NOW SOLVED)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-final-fantasy-xvs-pc-instability-and-crashing-woes/"><u>Expert Advice: Overcoming Final Fantasy XV's PC Instability and Crashing Woes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-quicktime-video-editing-101-tips-and-tricks-for-2024/"><u>New Mac QuickTime Video Editing 101 Tips and Tricks for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/say-laughs-say-free-mememakers-tutorial/"><u>Say Laughs, Say Free - MemeMaker's Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-cod-modern-warfares-newest-thrilling-fps-experience/"><u>Unlocking Cod: Modern Warfare's Newest Thrilling FPS Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/unstick-your-windows-10-update-dilemma-easy-repair-techniques-explained/"><u>Unstick Your Windows 10 Update Dilemma – Easy Repair Techniques Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vanguard-application-requires-upgraded-cpu-current-specs-fall-short/"><u>Vanguard Application Requires Upgraded CPU - Current Specs Fall Short</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/iuyngoq4icdrtotrn4k6ioupho2pro2escdquldsikaglsdruytrljtsmkqg66ma7yuw66plus47lm866as7ja07kee7zmuig/"><u>지금 분량: 도포터 기술 - 비디오 멀티미칼리어진화</u></a></li>
 </ul></div>
 

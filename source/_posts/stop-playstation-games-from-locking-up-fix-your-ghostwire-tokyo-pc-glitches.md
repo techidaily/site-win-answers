@@ -1,7 +1,7 @@
 ---
 title: "Stop PlayStation Games From Locking Up - Fix Your Ghostwire: Tokyo PC Glitches"
-date: 2024-10-22T17:14:30.068Z
-updated: 2024-10-26T17:59:08.011Z
+date: 2024-10-30T23:26:14.766Z
+updated: 2024-10-31T17:44:00.613Z
 tags:
   - win11
   - win10
@@ -56,6 +56,19 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -65,20 +78,13 @@ thumbnail: https://thmb.techidaily.com/522924ced0006a97e1c9e5d253d5bd56be4e5257c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update the graphics driver
 
@@ -98,26 +104,32 @@ If this doesn’t solve your problem, try the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’re still experiencing the freezing issue after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Scan and repair your game files
 
@@ -169,10 +181,10 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 4. Restart your PC to let it take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
@@ -188,10 +200,10 @@ If this doesn’t solve your problem, try the next fix.
 If the freezing issue persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
@@ -203,24 +215,30 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the **Advanced** tab, under the Performance section, click **Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the **Advanced** tab, under the Virtual memory section, click **Change** .  
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
@@ -255,15 +273,24 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-top-10-intro-maker-for-panzoid-for-2024/"><u>[New] Top 10 Intro Maker for Panzoid for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-guide-to-excellent-cricket-broadcasting/"><u>[Updated] In 2024, The Ultimate Guide to Excellent Cricket Broadcasting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swfhtml52/"><u>「SWFからHTML5へ：2つの最適化されたコンバートテクニック」</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-transforming-the-metaverse-essential-gear-to-consider-top-7/"><u>2024 Approved Transforming the Metaverse Essential Gear to Consider (Top 7)</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-to-snapchats-official-help-center-for-quick-solutions/"><u>Navigating to Snapchat's Official Help Center for Quick Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/seamlessly-enhance-g3000-on-windows-11-intel/"><u>Seamlessly Enhance G3000 on Windows 11, Intel.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-process-converting-dolby-truehd-soundtracks-to-dts-on-your-videos/"><u>Step-by-Step Process: Converting Dolby TrueHD Soundtracks to DTS on Your Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-when-vlc-cannot-adjust-video-zoom-heres-what-to-do/"><u>Step-by-Step Solution: When VLC Cannot Adjust Video Zoom, Here's What to Do!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamlining-photo-editing-processes-a-guide-for-2024/"><u>Streamlining Photo Editing Processes A Guide for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/struggling-to-rip-full-disks-using-handbrake-discover-effective-workarounds-now/"><u>Struggling to Rip Full Disks Using HandBrake? Discover Effective Workarounds Now!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-emancipate-your-engagement-facebook-restored/"><u>[New] 2024 Approved Emancipate Your Engagement Facebook Restored</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-screen-free-entertainment-top-10-best-offline-ipad-games/"><u>[New] 2024 Approved Screen-Free Entertainment Top 10 Best Offline iPad Games</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-maximize-marketing-youtubes-best-seo-aids-for-videos/"><u>[Updated] 2024 Approved Maximize Marketing - YouTube's Best SEO Aids for Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-affordable-overseas-vr-headsets-china/"><u>2024 Approved Affordable Overseas VR Headsets (China)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-story-remix-to-edit-a-video-in-windows-11-photos/"><u>2024 Approved How to Use Story Remix to Edit a Video in Windows 11 Photos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-solutions-to-repair-a-broken-paradox-launcher-and-enjoy-gaming-again/"><u>DIY Solutions to Repair a Broken Paradox Launcher and Enjoy Gaming Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-stop-chrome-from-crashing-in-windows-11/"><u>Effortless Solutions to Stop Chrome From Crashing in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-started-with-your-hp-officejet-5255-fresh-driver-download-instructions/"><u>Getting Started with Your HP OfficeJet 5255 - Fresh Driver Download Instructions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hacky-podcast-transmission-tactic-for-2024/"><u>Hacky Podcast Transmission Tactic for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-halo-infinite-audio-problems/"><u>How to Fix Halo Infinite Audio Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-nvidia-geforce-experience-error-code-0x0003/"><u>How to Fix the Nvidia GeForce Experience Error - Code 0X0003</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-tecno-spark-20c-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Tecno Spark 20C to Mac? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-honor-magic-v2-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Honor Magic V2 Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-mapleworld-advanced-techniques-to-fix-game-crashes-in-windows-11-insights/"><u>Mastering MapleWorld: Advanced Techniques to Fix Game Crashes in Windows 11 - Insights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-paradox-launcher-malfunctions-and-errors/"><u>Step-by-Step Solution for Paradox Launcher Malfunctions and Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-monster-hunter-stories-2-wings-of-ruin-startup-problems/"><u>Troubleshooting Guide: Resolving Issues with Monster Hunter Stories 2 - Wings of Ruin Startup Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ultimate-guide-to-resolving-baldurs-gate-game-lag-and-crashes/"><u>Troubleshooting: Ultimate Guide to Resolving Baldur's Gate Game Lag and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-the-issue-of-persona-3-ffi-failure-to-start/"><u>Ultimate Guide: Solving the Issue of Persona 3 FFI Failure to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-the-repeated-freezing-in-beat-saber-a-comprehensive-approach/"><u>Understanding and Resolving the Repeated Freezing in Beat Saber – A Comprehensive Approach</u></a></li>
 </ul></div>
 

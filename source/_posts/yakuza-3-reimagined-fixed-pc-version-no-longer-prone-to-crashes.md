@@ -1,7 +1,7 @@
 ---
 title: "Yakuza 3 Reimagined: Fixed PC Version No Longer Prone to Crashes"
-date: 2024-10-25T17:37:09.207Z
-updated: 2024-10-26T17:46:37.324Z
+date: 2024-10-29T12:18:28.125Z
+updated: 2024-10-31T16:54:33.147Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
  If there isn’t any problem on the server end, you can continue to troubleshoot.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Test your internet connection
 
  If you’re getting the “No ping to our data centers detected” error, you would need to check your internet connection. Here are some basic troubleshooting steps you can try:
@@ -63,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 
  If your internet connection is solid but the error persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify the game files
 
  If your local game files are missing or corrupted, it could trigger random issues. You can use the Steam client to scan and repair your game files. Although it’s hard to identify if this is the root cause of the no ping error, verifying the game files can help prevent other game issues. Here’s how:
@@ -72,24 +72,17 @@ thumbnail: https://thmb.techidaily.com/72f83f594e8347a65931f8cd6726d7752e9fa455e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties-1.jpg)
 3. Under the**local files** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files-1.jpg)
 4. This process may take a while. Once the scan is complete, restart the game to see if you still get the error.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the error returns, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -115,10 +108,10 @@ If the error returns, try the next fix.
  Restart your PC for the new drivers to take effect. If updating your network driver doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Configure DNS settings
@@ -144,10 +137,10 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -158,28 +151,28 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -187,6 +180,19 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing the DNS settings doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Use a VPN
 
@@ -219,18 +225,21 @@ If the error returns, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/can-apple-turn-things-around-for-disheartened-sonos-owners-expert-analysis-and-tips-by-zdnet/"><u>Can Apple Turn Things Around for Disheartened Sonos Owners? Expert Analysis and Tips by ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 12 4G</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-apple-synergy-vision-and-sound-merging/"><u>In 2024, Apple Synergy Vision and Sound Merging</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y27-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y27 5G by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-best-premiere-pro-transition-plugins-expert-picks/"><u>New In 2024, Best Premiere Pro Transition Plugins Expert Picks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/phasmophobia-voice-communication-woes-tips-and-solutions-to-get-it-working-again/"><u>Phasmophobia Voice Communication Woes: Tips and Solutions to Get It Working Again</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973719951-quick-guide-download-the-latest-logitech-m325-mouse-driver/"><u>Quick Guide: Download the Latest Logitech M325 Mouse Driver!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-on-altering-video-dimensions-within-premiere-pro-software/"><u>Step-by-Step Tutorial on Altering Video Dimensions Within Premiere Pro Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-selection-of-free-vr-media-viewing-applications-compatible-with-every-platform-including-pc-mac-iphone-and-android/"><u>The Ultimate Selection of Free VR Media Viewing Applications Compatible with Every Platform Including PC, Mac, iPhone, and Android</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-15-free-tools-for-converting-mp4-audio-files-into-mp3-format/"><u>Top 15 Free Tools for Converting MP4 Audio Files Into MP3 Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-18-must-have-plugins-for-boxing-and-wrestling-streams-on-kodi-watch-wwe-ufc-and-mma-events-free/"><u>Top 18 Must-Have Plugins for Boxing & Wrestling Streams on Kodi: Watch WWE, UFC, and MMA Events FREE</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-4-methods-for-converting-your-dvd-collection-into-high-quality-mp3-files/"><u>Top 4 Methods for Converting Your DVD Collection Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/2-proven-ways-to-increase-youtube-views-you-should-try/"><u>[New] 12 Proven Ways to Increase YouTube Views You Should Try</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-choices-for-professional-gopro-video-editing/"><u>[New] Top Choices for Professional GoPro Video Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-budgeted-skyvault-storing-mountains-of-data-for-2024/"><u>[Updated] Budgeted SkyVault Storing Mountains of Data for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/breaking-ice-the-peak-of-chinas-sports-showcase-2022/"><u>Breaking Ice The Peak of China's Sports Showcase, 2022</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-persistent-freezes-in-call-of-duty-warzone-20-on-windows-computers/"><u>Effective Solutions for Persistent Freezes in Call of Duty: Warzone 2.0 on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-playability-fixes-for-reduced-frames-per-second-fps-and-irregular-stutter-in-new-world/"><u>Enhancing Playability: Fixes for Reduced Frames Per Second (FPS) & Irregular Stutter in New World</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-converting-ephemeral-content-fb-messenger-video-secrets-revealed/"><u>In 2024, Converting Ephemeral Content FB Messenger Video Secrets Revealed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-streaming-stardom-unraveling-jake-pauls-youtube-rise/"><u>In 2024, Streaming Stardom Unraveling Jake Paul's YouTube Rise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lag-free-gameplay-achieved-effective-remedies-for-fortnite-slowdowns/"><u>Lag-Free Gameplay Achieved: Effective Remedies for Fortnite Slowdowns</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/masters-of-digital-avengers-realms/"><u>Masters of Digital Avengers Realms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003834344-pc-gamers-rejoice-pathfinders-latest-patch-resolves-freezing-issues/"><u>PC Gamers Rejoice! Pathfinder's Latest Patch Resolves Freezing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problem-fix-for-ue4-madness-error-in-outriders-game/"><u>Solving the Problem: Fix for 'UE4-Madness' Error in Outriders Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-gameplay-disruptions-quick-repairs-for-division-2-sudden-crashes/"><u>Stop Gameplay Disruptions: Quick Repairs for Division 2 Sudden Crashes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/successful-guide-mirroring-your-ipad-pro-air-and-mini-screen-on-mac-via-airplay/"><u>Successful Guide: Mirroring Your iPad (Pro, Air & Mini) Screen on Mac via AirPlay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-how-to-overcome-unexpected-shutdowns-and-crashes/"><u>Total War: Three Kingdoms - How to Overcome Unexpected Shutdowns and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-stop-manor-lords-from-crashing-now/"><u>Troubleshooting PC Issues - Stop Manor Lords From Crashing Now!</u></a></li>
 </ul></div>
 

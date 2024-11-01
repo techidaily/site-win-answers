@@ -1,7 +1,7 @@
 ---
 title: Resolving Lag and Stutter in Fortnite Gameplay on Your Computer
-date: 2024-10-21T16:27:55.957Z
-updated: 2024-10-26T17:37:00.688Z
+date: 2024-10-27T01:35:57.481Z
+updated: 2024-11-01T09:30:42.459Z
 tags:
   - win11
   - win10
@@ -51,23 +51,16 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
@@ -77,6 +70,13 @@ To keep your graphics driver up-to-date, here are two options for you:
 1. In the Windows search box, type**graphics settings** and select**Graphics settings** from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
@@ -98,22 +98,23 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
- It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
 ### Fix 4 – Disable Steam overlay
 
@@ -123,19 +124,32 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
@@ -148,32 +162,18 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the NVIDIA settings
@@ -184,17 +184,17 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -220,20 +220,15 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ighest-rated-smartphone-camera-and-recording-apps-iphone-vs-android-for-2024/"><u>[New] Highest Rated Smartphone Camera & Recording Apps IPhone vs Android for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-hitching-a-ride-in-high-flying-tiktok-live-shows/"><u>[New] In 2024, Hitching a Ride in High-Flying TikTok Live Shows</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-the-ultimate-guide-to-nikon-d500-4k-performance/"><u>[New] The Ultimate Guide to Nikon D500 4K Performance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-reclaiming-acoustics-lost-in-social-media-videos-for-2024/"><u>[Updated] Reclaiming Acoustics Lost in Social Media Videos for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-guide-to-excellence-full-screen-preview-in-premiere/"><u>Advanced Guide to Excellence Full Screen Preview in Premiere</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/come-generare-un-file-immagine-del-disco-rigido-con-windows-1011/"><u>Come Generare Un File Immagine Del Disco Rigido Con Windows 10/11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dominate-your-opponents-with-expert-techniques-for-roller-champions-multiplayer-on-pc-the-234-manual/"><u>Dominate Your Opponents with Expert Techniques for Roller Champions Multiplayer on PC – The 2^34 Manual</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-resolving-itunes-detected-audio-configuration-errors/"><u>Guide to Resolving iTunes' Detected Audio Configuration Errors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-v27-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo V27 Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-cannot-open-error-for-far-cry-6-on-windows-solution-guide/"><u>Overcoming 'Cannot Open' Error for Far Cry 6 on Windows – Solution Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persistent-sony-vegas-freezes-heres-how-to-resolve-them-permanently/"><u>Persistent Sony Vegas Freezes? Here's How to Resolve Them Permanently</u></a></li>
-<li><a href="https://win-answers.techidaily.com/red-dead-redemption-solved-game-launch-troubles-no-longer-a-concern/"><u>Red Dead Redemption [SOLVED] Game Launch Troubles No Longer a Concern</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-star-citizen-errors-enjoy-smooth-gaming-on-windows-today/"><u>Say Goodbye to Star Citizen Errors – Enjoy Smooth Gaming on Windows Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-for-call-of-duty-vanguard-glitch-decode-error-5573/"><u>Solution for Call of Duty Vanguard Glitch - Decode Error 5573</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-v30-lite-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo V30 Lite 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unparalleled-speech-conversion-via-google-platform-for-2024/"><u>[Updated] Unparalleled Speech Conversion via Google Platform for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/aomeis-collaboration-initiative-for-advanced-technological-partnerships/"><u>AOMEI's Collaboration Initiative for Advanced Technological Partnerships</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-black-ops-cold-war-stutter-solution-a-comprehensive-guide-to-smooth-gaming-performance/"><u>Call of Duty: Black Ops Cold War Stutter Solution: A Comprehensive Guide to Smooth Gaming Performance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-wacom-graphics-tablet-drivers-fast-a-step-by-step-tutorial/"><u>Download Wacom Graphics Tablet Drivers Fast - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-pro-max-by-phone-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 Pro Max by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/innovating-proposal-writing-through-ai-with-chatgpt/"><u>Innovating Proposal Writing Through AI with ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-smooth-gameplay-fix-stutters-elevate-frame-rates-in-call-of-dutys-warzone/"><u>Master Smooth Gameplay: Fix Stutters, Elevate Frame Rates in Call of Duty's Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prevent-and-rectify-pc-shutdowns-during-helldivers-2-gameplay-with-expert-fixes/"><u>Prevent and Rectify PC Shutdowns During Helldivers 2 Gameplay with Expert Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/prime-8-film-grabs-from-fb-2023-edition-for-2024/"><u>Prime 8 Film Grabs From FB 2023 Edition for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-ensures-seamless-start-of-your-adventure-in-maplestory/"><u>Update Ensures Seamless Start of Your Adventure in Maplestory</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-10-25T16:41:11.090Z
-updated: 2024-10-26T17:48:19.796Z
+date: 2024-10-25T19:22:22.754Z
+updated: 2024-11-01T04:09:51.973Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -87,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -103,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -116,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -130,10 +130,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -147,22 +147,15 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -181,6 +174,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -208,17 +208,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-video-virtuosos-guide-amplifying-iphone-hdri-clarity-using-four-editing-steps-for-2024/"><u>[New] [Video Virtuoso's Guide] Amplifying iPhone HDRI Clarity Using Four Editing Steps for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-quick-guide-to-capturing-moments-during-google-meets/"><u>[Updated] Quick Guide to Capturing Moments During Google Meets</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723964474459-enhance-your-pc-with-corsair-elite-6500-and-elite-nano-atx-motherboards-customizable-wood-or-aluminum-accent-panels-included/"><u>Enhance Your PC with Corsair Elite 6500 & Elite Nano ATX Motherboards: Customizable Wood or Aluminum Accent Panels Included</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-to-resolving-apex-legends-game-engine-problems-fixed/"><u>Expert Guide to Resolving Apex Legends Game Engine Problems [FIXED]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-issues-with-starting-steam-games-on-windows-11/"><u>Fixes and Solutions for Issues with Starting Steam Games on Windows 11</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-k70-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi K70 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls/"><u>In 2024, The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-lag-and-lockups-a-guide-to-fixing-call-of-duty-vanguard-freezing-problems/"><u>Overcoming Lag and Lockups - A Guide to Fixing Call of Duty: Vanguard Freezing Problems</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-windows-11-taskbar-freeze-top-rated-remedies-and-fixes/"><u>Overcoming Windows 11 Taskbar Freeze: Top-Rated Remedies and Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-ultimate-gamepad-my-unwavering-passion-despite-new-releases/"><u>Unveiling the Ultimate Gamepad: My Unwavering Passion Despite New Releases</u></a></li>
-<li><a href="https://win-answers.techidaily.com/whats-new-in-rainbow-six-siege-explore-the-2024-update-features/"><u>What’s New in Rainbow Six Siege? Explore the 2024 Update Features!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-discover-the-ultimate-free-subtitles-convertors/"><u>[New] Discover the Ultimate Free Subtitles Convertors</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[Updated] 2024 Approved How to Play YouTube in Background on iPhone and Android</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] In 2024, InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-for-memorable-youtube-names/"><u>2024 Approved Expert Tips for Memorable YouTube Names</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-resolving-the-issue-of-resident-evil-4-remake-game-crashes/"><u>Effective Solutions: Resolving the Issue of Resident Evil 4 Remake Game Crashes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-download-latest-epson-stylus-nx420-drivers-for-your-pc-with-windows-os-7810/"><u>Find & Download Latest Epson Stylus NX420 Drivers for Your PC with Windows OS (7/8/10)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-hell-let-loose-pc-stability-issues/"><u>Fixes and Solutions: Resolving Hell Let Loose PC Stability Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-night-light-feature-not-working-in-windows-1011-step-by-step-guide/"><u>How to Fix Night Light Feature Not Working in Windows 10/11 - Step by Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-palworld-keeps-crashing-on-pc/"><u>How to Fix Palworld Keeps Crashing on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-hot-40-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Hot 40 Lock Screen Password</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-guide-to-idevices-recording-tools/"><u>In 2024, Comprehensive Guide to iDevices Recording Tools</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-meizu-21-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Meizu 21 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998562436-troubleshooting-top-tech-problems-in-hearts-of-iron-4-solutions-revealed/"><u>Troubleshooting Top Tech Problems in Hearts of Iron 4 - Solutions Revealed!</u></a></li>
 </ul></div>
 

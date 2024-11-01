@@ -1,7 +1,7 @@
 ---
 title: Lost Ark PC Freezing Issues? Discover Proven Fixes!
-date: 2024-09-01T04:17:38.749Z
-updated: 2024-09-02T04:17:38.749Z
+date: 2024-10-29T22:45:22.933Z
+updated: 2024-11-01T07:35:33.598Z
 tags:
   - win11
   - win10
@@ -48,10 +48,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -62,15 +58,22 @@ The ultimate burning program for all your needs!</a>
 3. Under the**Advanced** tab, click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 7. Reboot your computer can check whether the crash will appear or not.
@@ -85,18 +88,33 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check the issue is solved or not.
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus: Update your drivers
 
  To get a better gaming experience, it’s very important to keep your drivers updated. There are two ways you can download your graphics and sound card drivers.
@@ -123,10 +141,14 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -138,8 +160,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +167,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-igtv-shutdown-for-beginners/"><u>[Updated] IGTV Shutdown for Beginners</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-streamline-creative-filmmaking-with-instagrams-background-swap/"><u>[Updated] In 2024, Streamline Creative Filmmaking with Instagram's Background Swap</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-game-crashes-speedy-tips-for-roboix-continuous-play-on-personal-computers-insights-for-2ergy/"><u>Avoid Game Crashes: Speedy Tips for Roboix Continuous Play on Personal Computers - Insights for 2Ergy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-startup-crashes-in-hogwarts-legacy-discover-the-8-key-methods/"><u>Avoid Startup Crashes in Hogwarts Legacy – Discover the 8 Key Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-fallout-76-crashing-glitch-masterful-fixes-for-a-seamless-experience/"><u>Conquer the Fallout 76 Crashing Glitch: Masterful Fixes for a Seamless Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-error-code-4201-in-genshin-impact-a-step-by-step-guide/"><u>Fixing Error Code 4201 in Genshin Impact: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-gionee-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Gionee FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-manipulating-photography-captions/"><u>In 2024, Manipulating Photography Captions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-solution-steps-to-overcome-minecraft-not-starting-up/"><u>In-Depth Solution Steps to Overcome Minecraft Not Starting Up</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimizing-apex-dive-deep-into-single-platform-solitude-for-2024/"><u>Optimizing Apex Dive Deep Into Single-Platform Solitude for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/origin-software-offline-heres-how-to-fix-it/"><u>Origin Software Offline? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-frame-rate-drop-in-dying-light-expert-solutions/"><u>Resolving the Frame Rate Drop in Dying Light: Expert Solutions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-instructions-how-to-project-your-laptops-screen-onto-your-tv/"><u>Step-by-Step Instructions: How to Project Your Laptop's Screen Onto Your TV</u></a></li>
+<li><a href="https://games-able.techidaily.com/striving-for-speed-i-suffered-the-cost/"><u>Striving for Speed, I Suffered the Cost</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/text-tactics-top-10-best-practices/"><u>Text Tactics Top 10 Best Practices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-asus-rog-phone-7-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Asus ROG Phone 7 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-way-through-the-persistent-launch-loop-in-madden-22-expert-tips-inside/"><u>Troubleshoot Your Way Through the Persistent Launch Loop in Madden 22 - Expert Tips Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-fixing-the-non-launch-of-alan-wake-part-ii/"><u>Unlock the Secrets: Fixing the Non-Launch of Alan Wake Part II</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-fits-in-the-criteria-for-facebook-neighborhood-group-membership/"><u>Who Fits In? - The Criteria for Facebook Neighborhood Group Membership</u></a></li>
+</ul></div>
 

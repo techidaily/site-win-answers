@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: When Rainbow Six Siege Refuses to Start"
-date: 2024-10-23T17:26:11.047Z
-updated: 2024-10-26T17:19:42.947Z
+date: 2024-10-26T20:50:22.663Z
+updated: 2024-10-31T20:04:53.122Z
 tags:
   - win11
   - win10
@@ -47,10 +47,16 @@ Century: Age of Ashes system requirements
  If you’re using a powerful PC but still suffer from game crashes, don’t worry. Just read on and try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -65,6 +71,13 @@ Century: Age of Ashes system requirements
 6. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  Century: Age of Ashes will crash if some of the game files are broken. Before trying anything more complicated, you can verify and repair game files easily in Steam:
@@ -73,6 +86,13 @@ Century: Age of Ashes system requirements
 2. **Right-click** on **Century: Age of Ashes** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -95,15 +115,16 @@ Century: Age of Ashes system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -126,14 +147,14 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Nvidia GeForce Experience, Discord, etc.), make sure you’ve disabled the in-game overlay in those apps feature:
 
@@ -149,13 +170,6 @@ Century: Age of Ashes system requirements
 3. Restart Windows to apply changes.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -189,13 +203,6 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair-1.png)  
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  Century: Age of Ashes will crash when there’s a certain app conflicting with it. If you don’t know exactly which app is conflicting with the game, just follow the steps below to perform a clean boot:
@@ -205,10 +212,10 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -216,15 +223,16 @@ If this fix didn’t work, try the next fix, below.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
-5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -264,18 +272,20 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-top-10-commercial-data-custodians/"><u>[Updated] In 2024, Top 10 Commercial Data Custodians</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-tech-reviews-with-a-focus-on-alternatives-for-2024/"><u>[Updated] Top Tech Reviews with a Focus on Alternatives for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-pc-game-crashes-in-nba-2k23-with-these-7-reliable-troubleshooting-tips/"><u>Banish PC Game Crashes in NBA 2K23 with These 7 Reliable Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722990942875-deathloop-on-pc-say-goodbye-to-crashing-with-these-simple-fixes/"><u>Deathloop on PC - Say Goodbye to Crashing with These Simple Fixes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/eliminate-lag-in-dying-light-a-comprehensive-solution-guide/"><u>Eliminate Lag In Dying Light - A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/end-the-frustration-of-non-scrolling-cells-ranges-and-sheets-excel-36516/"><u>End the Frustration of Non-Scrolling Cells, Ranges, and Sheets (Excel 365/16)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/examining-realities-intertwined-what-is-mixed-reality/"><u>Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
-<li><a href="https://win-web.techidaily.com/how-to-prevent-and-fix-dropouts-in-obs-streams-fast/"><u>How to Prevent and Fix Dropouts in OBS Streams Fast!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-cutting-edge-instagram-analysis-platforms-for-smarter-metrics-management/"><u>In 2024, Cutting-Edge Instagram Analysis Platforms for Smarter Metrics Management</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-unexpected-error-how-to-get-baldurs-gate-3-running-smoothly/"><u>Resolving the Unexpected Error - How to Get Baldur's Gate 3 Running Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-mystery-solved-inside-information-on-when-you-can-expect-assassins-creed-valhalla/"><u>The Mystery Solved: Inside Information on When You Can Expect Assassin's Creed Valhalla</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-solutions-for-unsticking-your-computers-keyboard-keys/"><u>Windows Solutions for Unsticking Your Computer's Keyboard Keys</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-advanced-settings-for-uniform-stream-lighting-for-2024/"><u>[New] Advanced Settings for Uniform Stream Lighting for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-ace-google-meet-selecting-ideal-video-call-bgs-for-2024/"><u>[Updated] Ace Google Meet Selecting Ideal Video Call BGs for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlock-the-secrets-to-stunning-and-shareable-tiktok-videos/"><u>[Updated] Unlock the Secrets to Stunning and Shareable TikTok Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-superior-suggestions-prime-platforms-for-grabbing-snapalert-rhythms/"><u>2024 Approved Superior Suggestions Prime Platforms for Grabbing SnapAlert Rhythms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arise-gamers-unite-proven-techniques-for-a-smooth-crisis-free-experience/"><u>Arise Gamers Unite! Proven Techniques for a Smooth, Crisis-Free Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-call-of-duty-warzone-gameplay-enabling-graphics-card-functionality-in-windows-11-systems/"><u>Boosting Call of Duty Warzone Gameplay: Enabling Graphics Card Functionality in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bring-your-astro-a50-detectable-again-by-the-command-centre-a-comprehensive-guide/"><u>Bring Your Astro A50 Detectable Again by the Command Centre: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-dota-2s-recent-anti-cheat-penalt-error-code-vac/"><u>Bypassing Dota 2'S Recent Anti-Cheat Penalt# Error Code: [VAC]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/lezione-pratica-su-come-recuperare-i-file-eliminati-da-chkdsk-con-4-metodi/"><u>Lezione Pratica Su Come Recuperare I File Eliminati Da Chkdsk Con 4 Metodi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-lag-free-gaming-essential-guide-to-fixing-dota-2s-connectivity-problems/"><u>Mastering Lag-Free Gaming: Essential Guide to Fixing Dota 2'S Connectivity Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-common-street-fighter-6-crashes-on-pc-with-these-effective-fixes/"><u>Overcome Common Street Fighter 6 Crashes on PC with These Effective Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-resolving-a-critical-system-error-in-ark/"><u>Step-by-Step Guide: Resolving a Critical System Error in Ark</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-end-of-an-era-memorializing-vs-removing-loved-ones-accounts/"><u>The End of an Era: Memorializing Vs. Removing Loved Ones' Accounts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unlocking-captivates-potential-for-video-creation-for-2024/"><u>Unlocking Captivate's Potential for Video Creation for 2024</u></a></li>
 </ul></div>
 

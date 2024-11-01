@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Againnst Lag: Proven Strategies for Optimizing Your Chivalry 2 Connection"
-date: 2024-10-23T17:35:31.940Z
-updated: 2024-10-26T17:36:00.452Z
+date: 2024-10-28T12:14:22.617Z
+updated: 2024-11-01T06:06:18.328Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 4. [**Run The Ascent on DirectX 11**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Disable Control Flow Guard](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check for game updates
 
  The devs of The Ascent are[aware of the stuttering issue](https://steamcommunity.com/app/979690/discussions/0/3050611107169701612/#c3050611107169718682) and are looking into it. So you might want to check if there’re any hotfixes before tuning your PC settings.
@@ -42,27 +49,14 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** . If there’re any new game files, Steam will download them for you.  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this doesn’t fix the stuttering issue, take a look at the next method.
@@ -79,10 +73,10 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
@@ -101,18 +95,25 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
 
  If this doesn’t give you any improvements, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run The Ascent on DirectX 11
 
@@ -124,13 +125,6 @@ If you don’t know how to switch, follow these steps:
 2. In the pop-up window, scroll down until you see**LAUNCH OPTIONS** . Click the input area and type**\-dx11** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-dx11.jpg)
 3. Now you can start The Ascent and test the gameplay.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
@@ -151,15 +145,15 @@ If you don’t know how to switch, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -180,19 +174,20 @@ If you don’t know how to switch, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-navigating-the-new-picsart-app-review-and-tutorial/"><u>[New] In 2024, Navigating the New PicsArt App – Review & Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-aps-hdr-essentials-for-professionals-and-enthusiasts-for-2024/"><u>[Updated] APS HDR Essentials for Professionals & Enthusiasts for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/broadcasting-conferences-with-no-expense-account/"><u>Broadcasting Conferences with No Expense Account</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-persistent-vrchat-issues-8-essential-troubleshooting-steps-for-pc-users/"><u>How to Resolve Persistent VRChat Issues: 8 Essential Troubleshooting Steps for PC Users</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-your-ricoh-mp-c4503-driver-guide-and-free-download-options/"><u>How to Update Your Ricoh MP C4503 Driver: Guide and Free Download Options</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/how-to-use-ntbackup-in-windows-10-8-and-7-a-complete-guide/"><u>How to Use NTBackup in Windows 10, 8 & 7: A Complete Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-complete-overview-of-full-scene-in-ppro/"><u>In 2024, Complete Overview of Full Scene in PPro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-v30t-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme V30T to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-media-management-tips-for-seamless-ripping-writing-and-backups-of-dvds-and-cds/"><u>Mastering Media Management: Tips for Seamless Ripping, Writing, and Backups of DVDs & CDs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/merge-audio-video-clips-without-cost-in-windows-10-and-11-a-step-by-step-guide/"><u>Merge Audio-Video Clips Without Cost in Windows 10 & 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4audacity/"><u>MP4動画から音声素材を抽出するAudacityユーザー向けレシピ</u></a></li>
-<li><a href="https://win-answers.techidaily.com/omamp4/"><u>OMA形式ファイルをMP4に正確に変換するためのテクニックと方法</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pcradiko/"><u>PCにおいてRadikoよりプログラム・オーディオコンテンツの安全なダウンロード手順</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203164294-struggling-with-pdf-printer-issues-heres-how-to-overcome-them/"><u>Struggling with PDF Printer Issues? Here's How to Overcome Them!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-grandview-media-mastering-the-art-of-selecting-a-cms/"><u>[Updated] 2024 Approved Grandview Media Mastering the Art of Selecting a CMS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-revolutionizing-your-webinar-recordings-a-blueprint/"><u>[Updated] 2024 Approved Revolutionizing Your Webinar Recordings A Blueprint</u></a></li>
+<li><a href="https://video-capture.techidaily.com/adjust-macs-captured-screen-storage-place-for-2024/"><u>Adjust Mac's Captured Screen Storage Place for 2024</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/cookiebot-enabled-enhancing-user-experience-through-smart-tracking/"><u>Cookiebot-Enabled: Enhancing User Experience Through Smart Tracking</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/craftsmanship-in-marvellous-marvel-creation-for-2024/"><u>Craftsmanship in Marvellous Marvel Creation for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-to-resolve-youtube-functionality-issues-on-google-chrome/"><u>Effective Strategies to Resolve YouTube Functionality Issues on Google Chrome</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-microsoft-edge-stability-issues-on-windows-10-easily/"><u>Fix Your Microsoft Edge Stability Issues on Windows 10 Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-elevated-cpu-consumption-in-cyberpunk-2077-tips-and-tricks/"><u>Fixing Elevated CPU Consumption in Cyberpunk 2077: Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-apex-legends-infinite-loading-screen-error/"><u>How to Fix Apex Legends Infinite Loading Screen Error</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inside-elgoog-unraveling-secrets-behind-the-world-renowned-ultimate-looking-glass-website/"><u>Inside ElgooG: Unraveling Secrets Behind the World-Renowned Ultimate Looking Glass Website</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-play-eliminating-forza-horizon-5s-pc-disruption-for-uninterrupted-gaming/"><u>Optimize Play: Eliminating Forza Horizon 5'S PC Disruption for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-troubleshoot-and-repair-fortnite-logon-glitches-easily/"><u>Quick Guide to Troubleshoot & Repair Fortnite Logon Glitches Easily</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/retaining-snaps-effortlessly-with-androidmac-technology/"><u>Retaining Snaps Effortlessly with Android/Mac Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012626166-unlock-the-mystery-behind-pc-launch-failures-of-resident-evil-5-and-get-playing-asap/"><u>Unlock the Mystery Behind PC Launch Failures of Resident Evil #5 and Get Playing ASAP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-error-84-in-fortnite-strategies-for-rejoining-your-battle-royale-party/"><u>Winning Against Error 84 in Fortnite: Strategies for Rejoining Your Battle Royale Party</u></a></li>
 </ul></div>
 

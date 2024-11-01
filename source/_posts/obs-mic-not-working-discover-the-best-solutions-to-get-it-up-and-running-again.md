@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2024-10-19T16:30:54.877Z
-updated: 2024-10-26T16:06:03.213Z
+date: 2024-10-31T01:48:22.292Z
+updated: 2024-11-01T06:45:14.166Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -48,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 2. Type_**%AppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
@@ -77,22 +84,15 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 7. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -115,16 +115,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
@@ -143,20 +143,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/"><u>[New] 2024 Approved High-End Downloads Best 10 Apps for Extracting Vimeo Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-innovative-activities-for-the-modern-podcaster-for-2024/"><u>[New] Innovative Activities for the Modern Podcaster for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-ultimate-framework-for-crafting-compelling-live-video-thumbnails/"><u>[New] The Ultimate Framework for Crafting Compelling Live Video Thumbnails</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/access-winx-dvd-ripper-premium-features-with-a-complimentary-license-code/"><u>Access WinX DVD Ripper Premium Features with a Complimentary License Code</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008629249-epic-games-launcher-troubleshooting-resolve-issues-instantly/"><u>Epic Games Launcher Troubleshooting: Resolve Issues Instantly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/explore-our-select-top-rated-learning-apps-for-2amidst/"><u>Explore Our Select Top-Rated Learning Apps for 2Amidst</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-gobi-fatal-error-in-black-mesa-mod-using-unreal-engine-4/"><u>Fixing Gobi Fatal Error in Black Mesa Mod Using Unreal Engine 4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-preventing-and-correcting-no-rest-for-the-wicked-pc-malfunctions/"><u>Guide to Preventing and Correcting 'No Rest for the Wicked' PC Malfunctions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-gold-glory-in-gameplay-5-prime-maps-for-riches/"><u>In 2024, Gold Glory in Gameplay 5 Prime Maps for Riches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-a-nonfunctional-or-unresponsive-nvidia-control-panel/"><u>Solving the Issue of a Nonfunctional or Unresponsive NVIDIA Control Panel</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mline-your-watching-with-edge-free-youtube-content/"><u>Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-crashing-problems-in-cyberpunk-2077-on-your-computer/"><u>Troubleshooting and Solving Crashing Problems in Cyberpunk 2077 on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-your-clownfish-usb-microphone-issues/"><u>Troubleshooting Guide: Resolving Your Clownfish USB Microphone Issues</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-poco-f5-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Poco F5 5G?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-tecno-spark-20-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Tecno Spark 20? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-novice-to-pro-youtube-shorts-guide/"><u>[New] In 2024, From Novice to Pro YouTube Shorts Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-garmin-ultra-30-in-action-an-in-depth-exploration-for-2024/"><u>[Updated] The Garmin Ultra 30 in Action An In-Depth Exploration for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-does-paying-regularly-for-youtube-premium-give-you-more-than-just-an-ad-free-view/"><u>2024 Approved Does Paying Regularly For YouTube Premium Give You More Than Just An Ad-Free View?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-immortal-pc-release-cancelled-detailed-update/"><u>Diablo Immortal PC Release Cancelled: Detailed Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-boosting-fps-levels-for-a-smoother-run-of-forza-horizon-5-on-windows/"><u>Enhance Gameplay: Boosting FPS Levels for a Smoother Run of Forza Horizon 5 on Windows</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-efficient-voice-tracking-techniques-on-ipad/"><u>In 2024, Efficient Voice Tracking Techniques on iPad</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-x100-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo X100 Is Unlocked</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-magic-6-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor Magic 6 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/mophies-top-end-powerstation-ac-an-affordable-choice-for-easy-charging-on-the-go/"><u>Mophie's Top-End Powerstation AC: An Affordable Choice for Easy Charging on the Go</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-interruptions-expert-advice-on-how-to-fix-recurring-multiversus-app-crashes-the-top-8-fixes/"><u>No More Interruptions: Expert Advice on How To Fix Recurring MultiVersus App Crashes - The Top 8 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-playback-issues-in-the-witcher-3-wild-hunt-helpful-solutions/"><u>Overcoming Playback Issues in The Witcher 3: Wild Hunt - Helpful Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005199534-resolve-controller-malfunctions-in-minutes-with-our-step-by-step-troubleshooting/"><u>Resolve Controller Malfunctions in Minutes with Our Step-by-Step Troubleshooting!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-constant-crashes-in-insurgency-sandstorm-troubleshooting-tips/"><u>Resolved: Constant Crashes in Insurgency: Sandstorm - Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-low-fps-drops-and-boost-lost-ark-gameplay/"><u>Resolved: How to Fix Low FPS Drops and Boost Lost Ark Gameplay</u></a></li>
 </ul></div>
 

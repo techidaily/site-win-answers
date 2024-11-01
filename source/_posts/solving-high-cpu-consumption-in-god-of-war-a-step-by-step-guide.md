@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2024-10-19T17:03:00.368Z
-updated: 2024-10-26T16:08:29.966Z
+date: 2024-10-26T12:16:53.396Z
+updated: 2024-10-31T18:53:18.091Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
@@ -88,28 +95,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -117,10 +111,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
@@ -131,42 +125,41 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -183,6 +176,13 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -214,21 +214,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-epic-browser-recording-tools-for-the-ultimate-surfers-dream/"><u>[Updated] 2024 Approved Epic Browser Recording Tools for the Ultimate Surfer's Dream</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-archive-hunt-accessing-yesteryears-facebook-stories/"><u>[Updated] In 2024, Archive Hunt Accessing Yesteryear's Facebook Stories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-zombification-extravaganza-8-epic-titles-ranked-for-2024/"><u>[Updated] Zombification Extravaganza - 8 Epic Titles Ranked for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ys-buzz-youtube-gurus-predicted-for-2024/"><u>Beauty's Buzz YouTube Gurus Predicted for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dead-by-daylight-crashing-issues-discover-easy-fixes-and-tips-for-stable-gameplay-update/"><u>Dead By Daylight Crashing Issues? Discover Easy Fixes and Tips for Stable Gameplay Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-eliminate-pixel-shimmering-issues-while-playing-call-of-duty-warzone/"><u>Expert Tips to Eliminate Pixel Shimmering Issues While Playing Call of Duty: Warzone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/life-is-strange-true-colors-bug-fixed-discover-the-quick-fixes-and-tips/"><u>Life Is Strange True Colors Bug Fixed? Discover the Quick Fixes and Tips!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-tips-and-tricks-to-prevent-battlefield-1-from-freezing/"><u>Master the Tips & Tricks to Prevent Battlefield 1 From Freezing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-helldivers-ii-pc-crashes-with-these-effective-solutions/"><u>Solve Helldivers II PC Crashes with These Effective Solutions!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-ac6-fires-of-rubicon-crash-issues-on-windowslinux-pcs/"><u>Solving AC6 'Fires of Rubicon' Crash Issues on Windows/Linux PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-minecraft-crashes-in-6-easy-steps-a-step-by-step-troubleshooting-guide/"><u>Stop Minecraft Crashes in 6 Easy Steps: A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-step-by-step-tutorial-for-watching-fubotv-on-your-fire-stick/"><u>The Complete Step-by-Step Tutorial for Watching FuboTV on Your Fire Stick</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-uninterrupted-fun-fixing-persistent-pc-issues-while-playing-slime-rancher-2/"><u>Unlock Uninterrupted Fun: Fixing Persistent PC Issues While Playing Slime Rancher 2</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/windows-aid-evolution-four-alternatives-to-cortana/"><u>Windows Aid Evolution, Four Alternatives to Cortana</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726226169770-gif-movavi/"><u>お使いのウェブカメラからフリーGIF画像への直接変換 - Movavi</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-hear-the-vibe-no-cost-online-tempo-trackers-for-2024/"><u>[New] Hear the Vibe – No Cost Online Tempo Trackers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-fortnites-endless-loading-screen-a-troubleshooting-guide/"><u>Bypassing Fortnite's Endless Loading Screen – A Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-fixing-the-witcher-3-wild-hunt-failed-startup-dilemma/"><u>Expert Advice for Fixing the Witcher 3: Wild Hunt Failed Startup Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cyberpunk-2077s-heavy-cpu-drain-problem-efficiently/"><u>Fixing Cyberpunk 2077'S Heavy CPU Drain Problem Efficiently</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-text-and-title-effect-types-in-after-effects/"><u>In 2024, Text and Title Effect Types in After Effects</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-preventing-alien-fireteam-elite-from-freezing-your-pc-screen/"><u>Mastering Stability: Preventing Alien: Fireteam Elite From Freezing Your PC Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-roblox-error-277-on-your-computer-proven-strategies-and-insights-from-2024/"><u>Solving Roblox Error 277 on Your Computer: Proven Strategies and Insights From 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-astro-a50-microphone-issue-a-step-by-step-guide/"><u>Solving the Astro A50 Microphone Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transferring-rss-content-onto-your-kindle-device-easy-steps-for-seamless-reading/"><u>Transferring RSS Content Onto Your Kindle Device - Easy Steps for Seamless Reading</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-5-iphone-x87-photoshoot-background-swappers/"><u>Ultimate 5 iPhone X/8/7 Photoshoot Background Swappers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-lenovo-ideapad-100-to-the-latest-drivers-compatible-with-windows-11/"><u>Update Your Lenovo IdeaPad 100 to the Latest Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-disc-reading-troubles-heres-how-to-solve-it-for-versions-50-and-31/"><u>Warzone Disc Reading Troubles? Here's How to Solve It for Versions 5.0 & 3.1</u></a></li>
 </ul></div>
 

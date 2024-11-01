@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2024-10-21T16:23:56.112Z
-updated: 2024-10-26T16:18:05.992Z
+date: 2024-10-30T10:26:05.258Z
+updated: 2024-11-01T11:34:57.666Z
 tags:
   - win11
   - win10
@@ -45,22 +45,15 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -102,6 +95,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
@@ -109,6 +109,13 @@ OR
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -118,20 +125,33 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
@@ -141,19 +161,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
@@ -161,19 +168,6 @@ OR
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -188,10 +182,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -220,18 +214,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-streaming-strategy-is-vlc-worthy-to-challenge-mpc/"><u>[Updated] Streaming Strategy Is VLC Worthy to Challenge MPC?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-quality-recording-of-your-roblox-journeys-on-mac/"><u>2024 Approved How-To Quality Recording of Your Roblox Journeys on Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-to-install-and-repair-tiny-tinas-calamitous-reign-on-pc/"><u>A Comprehensive Guide to Install and Repair Tiny Tina's Calamitous Reign on PC</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-likes-and-shares-a-new-perspective-on-fb-numbers/"><u>Beyond Likes and Shares - A New Perspective on FB Numbers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/destiny-2-online-gaming-overcoming-the-disconnect-errors-with-ease/"><u>Destiny 2 Online Gaming: Overcoming the Disconnect Errors with Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-black-ops-cold-war-error-successfully-overcoming-the-shader-compilation-hurdle/"><u>Fixing the Black Ops Cold War Error - Successfully Overcoming the Shader Compilation Hurdle</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-the-random-selection-of-default-windows-printer/"><u>Fixing the Random Selection of Default Windows Printer</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-enable-disable-and-change-safari-location-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>How to Enable, Disable, and Change Safari Location on Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-red-dead-online-freezing-problems-in-pc-gaming/"><u>Overcoming Red Dead Online Freezing Problems in PC Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-unresponsive-steelseries-gg-mouse-engine-on-a-pc-running-windows/"><u>Solving the Problem of Unresponsive SteelSeries GG Mouse Engine on a PC Running Windows</u></a></li>
-<li><a href="https://fox-links.techidaily.com/startling-audience-with-compelling-intros/"><u>Startling Audience with Compelling Intros</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-when-msi-afterburner-doesnt-detect-your-gpu-on-windows-11/"><u>Troubleshooting Tips for When MSI Afterburner Doesn't Detect Your GPU on Windows 11</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/visioncapture-prox-briefing-for-2024/"><u>VisionCapture ProX Briefing for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-premier-media-mover-mp4-to-fb/"><u>[New] 2024 Approved Premier Media Mover MP4-to-FB</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ideal-no-ads-screencap-maker-for-phones/"><u>[New] Ideal No-Ads Screencap Maker for Phones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>2024 Approved Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-ios-17-features-vs-current-version/"><u>Comparing iOS 17 Features vs Current Version</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a24-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A24 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007781605-reconfigured-cosmos-endures-intermittent-ice-age-problem-solved/"><u>Reconfigured Cosmos Endures Intermittent Ice Age - Problem Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-msvcr110dll-missing-file-issue-in-helldivers-2-step-by-step-guide/"><u>Resolving the 'msvcr110.dll' Missing File Issue in HellDivers 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-sims-4-display-problems-related-to-graphic-cards-a-step-by-step-guide/"><u>Resolving The Sims 4 Display Problems Related to Graphic Cards: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/schedule-success-top-free-tools-for-fb-post-timing/"><u>Schedule Success Top Free Tools for FB Post Timing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/streamline-updating-win10s-intel-graphics-drivers/"><u>Streamline Updating Win10's Intel Graphics Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-restarting-or-reviving-internet-explorer/"><u>Troubleshooting Tips: Restarting or Reviving Internet Explorer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-urban-planning-fixing-buildcraft-cities-2-non-startup-dilemma/"><u>Unlocking Urban Planning: Fixing BuildCraft Cities 2 Non-Startup Dilemma</u></a></li>
 </ul></div>
 

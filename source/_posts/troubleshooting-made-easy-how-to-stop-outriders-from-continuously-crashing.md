@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing"
-date: 2024-10-24T16:28:38.271Z
-updated: 2024-10-26T16:25:07.011Z
+date: 2024-10-27T19:45:24.415Z
+updated: 2024-11-01T01:05:20.227Z
 tags:
   - win11
   - win10
@@ -54,9 +54,23 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -69,22 +83,15 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -102,16 +109,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -123,22 +130,15 @@ The outdated or broken graphics driver often crashes the game.
 3. Copy and paste the commands below and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -170,21 +170,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-kinemaster-proficiency-unleashed-strategies-features-and-10-online-rivals/"><u>[New] 2024 Approved KineMaster Proficiency Unleashed Strategies, Features & 10 Online Rivals</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-choosing-between-obs-studio-and-bandicam-for-screen-capture-for-2024/"><u>[New] Choosing Between OBS Studio and Bandicam for Screen Capture for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/firefox/"><u>「Firefoxでビデオストリーミングを効率よくダウンロードするコツ」</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/acquiring-vivid-clipart-without-investment-for-2024/"><u>Acquiring Vivid Clipart Without Investment for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/chromebookdvd/"><u>Chromebookに最適なDVD再生ソフトウェアの選び方詳しく解説</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-mastering-every-download-technique-from-simple-links-to-complex-videos/"><u>Complete Guide: Mastering Every Download Technique From Simple Links to Complex Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-video-customization-with-stickers-a-comprehensive-guide-for-pc-and-mobile-devices/"><u>DIY Video Customization with Stickers - A Comprehensive Guide for PC and Mobile Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-to-edit-gopro-footage-using-an-intuitive-video-editing-tool/"><u>Easy Steps to Edit GoPro Footage Using an Intuitive Video Editing Tool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-video-editing-apps-ranked-for-starters-your-ultimate-list-of-the-years-top-picks/"><u>Essential Video Editing Apps Ranked for Starters: Your Ultimate List of the Year's Top Picks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-audio-formats-comparing-dts-with-dolby-digital-and-easily-converting-for-enhanced-sound-quality/"><u>Exploring Audio Formats: Comparing DTS with Dolby Digital and Easily Converting for Enhanced Sound Quality</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-honor-magic-5-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Honor Magic 5 Pro.</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-realme-gt-3-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Realme GT 3 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-iphone-6-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On iPhone 6 You Should Try Out</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-mkv-video-editing-software-top-cutting-tools/"><u>New 2024 Approved Free MKV Video Editing Software Top Cutting Tools</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-tech-by-tomgadgetreview/"><u>The Ultimate Guide to Tech by TomGadgetReview</u></a></li>
-<li><a href="https://win-updates.techidaily.com/transferring-your-ios-melodies-a-step-by-step-guide-to-moving-songs-from-iphone-to-itunes-on-windows-10/"><u>Transferring Your iOS Melodies: A Step-by-Step Guide to Moving Songs From iPhone to iTunes on Windows 10</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>[New] Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-premier-selection-of-vr-cycling-options/"><u>[Updated] 2024 Approved The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-holy-stone-hs170-predator-rc-helicopter-a-comprehensive-review-for-enthusiasts/"><u>Budget-Friendly Holy Stone HS170 Predator RC Helicopter: A Comprehensive Review for Enthusiasts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-presentations-harnessing-aiseesoft-screen-recordings-for-2024/"><u>Elevate Presentations Harnessing Aiseesoft Screen Recordings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-insights-into-valheim-planting-methods/"><u>Essential Insights Into Valheim Planting Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-unstartable-pacific-drive-top-solutions-revealed/"><u>Fixing the Unstartable Pacific Drive – Top Solutions Revealed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/graphics-driver-update-fixed-miracast-support-issues/"><u>Graphics Driver Update Fixed Miracast Support Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-valheim-running-smoothly-at-boot-time-issues-solved/"><u>How to Get Valheim Running Smoothly at Boot Time | Issues Solved</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-14-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi 14 Without PUK Codes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-facebooks-flash-video-frenzy/"><u>In 2024, Facebook's Flash Video Frenzy</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-mw3-crash-mystery-solved-overcome-the-dauntinig-error-6068/"><u>Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-windows-11/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-resolution-for-graphics-display-issues-in-the-sims-4-game/"><u>Step-by-Step Resolution for Graphics Display Issues in The Sims 4 Game.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-why-is-my-voice-chat-blocked-by-content-warnings/"><u>Step-by-Step Solution: Why Is My Voice Chat Blocked by Content Warnings?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-resolve-windows-chrome-screen-trembling-a-complete-walkthrough/"><u>Ultimate Solution: Resolve Window's Chrome Screen Trembling - A Complete Walkthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-persistent-pc-issues-in-the-ascent-video-game/"><u>Understanding and Fixing Persistent PC Issues in 'The Ascent' Video Game</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing the Unfixable? Your Comprehensive Solution for Nioh ˈt͡ʃeɪnɪŋ Problems
-date: 2024-10-20T17:00:04.838Z
-updated: 2024-10-26T17:25:10.256Z
+date: 2024-10-25T00:03:17.610Z
+updated: 2024-11-01T02:14:51.309Z
 tags:
   - win11
   - win10
@@ -45,15 +45,15 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
@@ -68,21 +68,14 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -90,6 +83,13 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -105,13 +105,6 @@ Here’s how you can check the file integrity on Steam:
 
  If this method doesn’t work for you, simply continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
  Resident Evil 5 runs on Microsoft’s Games for Windows LIVE (GFWL) platform, which has already been phased out on Windows 10\. That being said, there’s still a way you can run the game: To make Resident Evil 5 work on Windows 10, you need to install[**the latest GFWL**](https://community.pcgamingwiki.com/files/file/1012-microsoft-games-for-windows-live/) .
@@ -121,10 +114,10 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Replace game files with a fan-made patch
@@ -135,6 +128,13 @@ Here’s how you can check the file integrity on Steam:
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
@@ -153,10 +153,10 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -180,22 +180,18 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-new-year-new-lg-bp550-the-2023-review/"><u>[New] New Year, New LG BP550 The 2023 Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-twitch-stream-mastery-top-4-innovations-to-try-for-2024/"><u>[New] Twitch Stream Mastery Top 4 Innovations to Try for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-decoding-off-facebook-activities-review-and-security-implications/"><u>[Updated] Decoding Off-Facebook Activities Review and Security Implications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-glitches-with-the-clownfish-speech-changer/"><u>Expert Advice on Overcoming Glitches with the Clownfish Speech Changer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-startup-difficulties-in-genshin-impact-top-5-fixes/"><u>How to Overcome Startup Difficulties in Genshin Impact: Top 5 Fixes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-huawei-p60-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Huawei P60</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-vivo-x90s-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Vivo X90S FRP?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-swiftly-secure-your-favorite-tiktoks/"><u>In 2024, Swiftly Secure Your Favorite TikToks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-optimization-overcoming-performance-hiccups/"><u>Mass Effect Legendary Edition Optimization - Overcoming Performance Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-stutter-and-crash-issues-a-guide-to-smooth-mass-effect-legendary-ed-gaming-on-xbox-and-pc/"><u>Overcoming Stutter & Crash Issues: A Guide to Smooth Mass Effect Legendary Ed. Gaming on Xbox & PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-zooms-video-problems-5-effective-fixes-you-should-try-now/"><u>Overcoming Zoom's Video Problems: 5 Effective Fixes You Should Try Now</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/prove-your-expertise-with-these-windows-10-tricks-for-2024/"><u>Prove Your Expertise with These Windows 10 Tricks for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-resolution-boosting-shaders-effectively-in-star-wars-battlefront-ii/"><u>Quick Resolution: Boosting Shaders Effectively in Star Wars Battlefront II</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-origin-game-client-issues-on-windows-11-devices/"><u>Solution Guide: Origin Game Client Issues on Windows 11 Devices</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-gt-neo-5-se-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme GT Neo 5 SE without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-frequent-game-interruptions-in-lost-ark-on-desktop-systems/"><u>Understanding and Resolving Frequent Game Interruptions in Lost Ark on Desktop Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-blueprint-of-unique-recording-gadgets/"><u>2024 Approved Blueprint of Unique Recording Gadgets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bug-fix-announced-overcoming-league-of-legends-login-loophole-update-2024-edition/"><u>Bug Fix Announced: Overcoming League of Legends Login Loophole Update - 2024 Edition</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/exploring-the-functionality-of-symbol-files-tab-in-integrated-development-environments/"><u>Exploring the Functionality of Symbol Files Tab in Integrated Development Environments</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-fortnite-pc-crashes-expert-solutions-and-tips/"><u>Fix Your Fortnite PC Crashes : Expert Solutions & Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-oneplus-nord-ce-3-5g-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on OnePlus Nord CE 3 5G?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-play-days-gone-on-your-pc-common-problems-and-fixes/"><u>How To Successfully Play Days Gone on Your PC - Common Problems and Fixes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-artwork-accelerated-techniques-for-editing-photos-on-pc/"><u>In 2024, Master Artwork Accelerated Techniques for Editing Photos on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/joy-con-the-gateway-to-classic-games/"><u>Joy-Con: The Gateway to Classic Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-playstation-pixelation-resolving-resident-evil-villages-pc-display-issues/"><u>Overcome PlayStation Pixelation: Resolving Resident Evil Village's PC Display Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-discord-overlay-problems-in-seconds-a-step-by-step-guide/"><u>Solving Discord Overlay Problems in Seconds - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-smallest-high-performance-tablets-of-2024-vetted-and-analyzed-by-industry-experts-choice/"><u>Ultimate Guide to the Smallest High-Performance Tablets of 2024 - Vetted and Analyzed by Industry Experts Choice</u></a></li>
 </ul></div>
 

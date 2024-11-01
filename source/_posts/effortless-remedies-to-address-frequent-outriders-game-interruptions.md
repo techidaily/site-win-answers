@@ -1,7 +1,7 @@
 ---
 title: Effortless Remedies to Address Frequent Outriders Game Interruptions
-date: 2024-10-22T16:08:34.750Z
-updated: 2024-10-26T18:00:33.794Z
+date: 2024-10-26T07:52:15.233Z
+updated: 2024-10-31T18:44:33.356Z
 tags:
   - win11
   - win10
@@ -69,10 +69,10 @@ thumbnail: https://thmb.techidaily.com/ee509985fa8ab0e5a1522d3ddaaa35b579b8ee6b6
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
@@ -83,6 +83,13 @@ thumbnail: https://thmb.techidaily.com/ee509985fa8ab0e5a1522d3ddaaa35b579b8ee6b6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
@@ -92,6 +99,13 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -112,24 +126,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -138,10 +138,10 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -163,25 +163,31 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
@@ -196,13 +202,6 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -231,13 +230,6 @@ Here are the system requirements for Control:
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8: Verify the game file
 
  The faulty game files may also crash the game. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -257,6 +249,13 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -264,6 +263,13 @@ Here are the system requirements for Control:
 1. On your desktop,**right-click** on the shortcut of Control, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
@@ -296,24 +302,16 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-vlogs-with-high-quality-editing-premiere-pro-style/"><u>[New] In 2024, Elevating Your Vlogs with High-Quality Editing - Premiere Pro Style</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-in-depth-look-at-vsdc-plus-top-competitors/"><u>[Updated] In 2024, In-Depth Look at VSDC, Plus Top Competitors</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-streaming-showdown-obs-and-shadowtoolkit/"><u>[Updated] In 2024, Streaming Showdown OBS & ShadowToolkit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm56m25qw144gu44ky44o844of44oz44kw6yyy55s744k944ov44oi44ks6kal44gk44gr44ki44gg77yb6kmz44gx44gp6kej6kqs5luy44gn44ob44ol44o844oi44oq44ki44or44cn/"><u>「究極のゲーミング録画ソフトを見つけよう！詳しく解説付きチュートリアル」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44ot44oh44kq44g444gu55s75yop44o75yaz55yf57wx5zci44og44kv44ol44od44kv77ya5bcc6zaa5a6244gm5pwz44gi44kl44k544og44o844k644gq57eo6zug5pa55rov44cn/"><u>「ビデオへの画像・写真統合テクニック：専門家が教えるスムーズな編集方法」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029711682-aviutl/"><u>【AviUtl】手順を簡易化した、音声録音の高速解析: 最新トレーニング動画</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029145172-adobe-premiere-pro/"><u>Adobe Premiere Pro: 効果的にビデオアスペクト比調整ガイド</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-apple-iphone-11-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On Apple iPhone 11? 7 Mehtods You Cant-Miss</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028027720-clipchamp/"><u>Clipchampでビデオ圧縮が可能か調べましょう</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/debugging-dilemmas-in-tormented-souls-strategies-for-uninterrupted-gaming-on-your-computer/"><u>Debugging Dilemmas in 'Tormented Souls': Strategies for Uninterrupted Gaming on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028264960-dvd/"><u>DVD 地域コード制限解除のための効果的な手順</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/epson-printer-offline-solved/"><u>Epson Printer Offline [Solved]</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028907633-twitter/"><u>Twitter動画ダウンロードの最善策：ストリーミング無しで安全にビデオを保存する方法</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-solving-the-persistent-windows-11-spinner-problem-in-any-situation/"><u>Ultimate Guide to Solving the Persistent Windows 11 Spinner Problem in Any Situation</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unleash-creativity-personalizing-your-google-meet-interface-for-2024/"><u>Unleash Creativity Personalizing Your Google Meet Interface for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/why-the-iphone-15-pro-might-be-your-next-best-pick-for-portable-gaming/"><u>Why the iPhone 15 Pro Might Be Your Next Best Pick for Portable Gaming.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030026266-tiktok/"><u>ロゴ無しで効果的にTikTok動画をキャプチャ:ステップバイステップガイド</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leading-tools-to-uncover-trending-tags-on-fb-twt-and-ig-sites-for-2024/"><u>[New] Leading Tools to Uncover Trending Tags on FB, Twt & IG Sites for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-youtube-comment-settings-tips-and-tricks/"><u>[Updated] In 2024, Navigating YouTube Comment Settings Tips and Tricks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-streamlining-your-archive-converting-snapchats-ephemeral-snaps/"><u>[Updated] Streamlining Your Archive Converting Snapchat's Ephemeral Snaps</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-advice-for-capturing-evening-images/"><u>2024 Approved Expert Advice for Capturing Evening Images</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/audio-error-corrected-ensuring-proper-sound-routing-from-speaker-despite-connected-headphones/"><u>Audio Error Corrected: Ensuring Proper Sound Routing From Speaker Despite Connected Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/bypassing-steam-disconnection-in-windows-11/"><u>Bypassing Steam Disconnection in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-aborted-error-on-eft-platforms/"><u>How to Fix the 'Anticheat Connection Aborted' Error on EFT Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-buffering-problems-in-discord-streaming-services/"><u>Troubleshooting Continuous Buffering Problems in Discord Streaming Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-king-of-fighters-xvs-persistent-pc-crashes/"><u>Troubleshooting Guide: Fixing The King of Fighters XV's Persistent PC Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722989382853-unlock-smooth-gameplay-tips-for-fixing-fortnite-loading-glitches/"><u>Unlock Smooth Gameplay - Tips for Fixing Fortnite Loading Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-strategies-to-overcome-humankind-non-launch-challenges/"><u>Unveiling Strategies to Overcome Humankind Non-Launch Challenges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Detection Issues: Astro Command Center and the A50 Headset"
-date: 2024-10-24T16:34:26.778Z
-updated: 2024-10-26T16:29:41.930Z
+date: 2024-10-29T00:22:09.777Z
+updated: 2024-11-01T02:13:33.631Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -51,23 +44,25 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 1. Open your Steam client and go to**LIBRARY** . Right click **New World** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
-If the problem persists, take a look at the next fix below.
-
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If the problem persists, take a look at the next fix below.
 
 ### Fix 2: Update your graphics driver
 
@@ -82,8 +77,28 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -92,10 +107,10 @@ If the problem persists, take a look at the next fix below.
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
@@ -109,21 +124,14 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -146,13 +154,6 @@ If your system is already up to date, you can try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
@@ -165,33 +166,33 @@ Now you can play and check if the crash stops.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Delete specific game files
 
@@ -226,20 +227,24 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premier-video-editing-apps-for-the-gopro-community/"><u>[Updated] 2024 Approved Premier Video Editing Apps for the GoPro Community</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-cut-down-on-hassle-with-easy-ipad-recording-methods/"><u>[Updated] In 2024, Cut Down On Hassle With Easy iPad Recording Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-win-top-rated-rapid-image-zoomer/"><u>[Updated] Win Top-Rated Rapid Image Zoomer</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-virtual-playground-the-ultimate-samsung-gear-vr-list/"><u>2024 Approved Virtual Playground The Ultimate Samsung Gear VR List</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-expert-tips-to-address-and-fix-low-fps-in-valheim-for-2n24/"><u>Enhance Your Gaming Experience: Expert Tips to Address and Fix Low FPS in Valheim for 2N24</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/microsoft-surface-ergonomic-keyboard-review-high-quality/"><u>Microsoft Surface Ergonomic Keyboard Review: High-Quality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-discover-how-to-play-pathfinder-wrath-of-the-righteamaximized-for-pc/"><u>No More Crashes! Discover How to Play Pathfinder: Wrath of the Righteamaximized for PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003806187-optimizing-valorant-performance-clear-the-stutter-elevate-your-fps/"><u>Optimizing Valorant Performance: Clear the Stutter, Elevate Your FPS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-launch-failures-in-call-of-duty-modern-warfare-3-with-these-quick-fixes/"><u>Overcome Launch Failures in Call of Duty Modern Warfare 3 with These Quick Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-playing-avatar-frontiers-of-pandora-on-your-device/"><u>Step-by-Step Solutions for Playing Avatar: Frontiers of Pandora on Your Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-preventing-discord-app-crashes-for-smooth-gaming/"><u>Step-by-Step Solutions: Preventing Discord App Crashes for Smooth Gaming</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unseen-worlds-in-water-with-insta360-x2s-360-features/"><u>Unseen Worlds in Water with Insta360 X2's 360 Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upcoming-m4-mac-mini-details-revealed-release-schedule-and-pricing/"><u>Upcoming M4 Mac Mini Details Revealed: Release Schedule & Pricing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/update-your-logitech-g403-controller-firmware-on-pc-free-driver-downloads-available/"><u>Update Your Logitech G403 Controller Firmware on PC - Free Driver Downloads Available!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-innovative-pathways-broadcasting-facebook-videos-via-whatsapp/"><u>[New] In 2024, Innovative Pathways Broadcasting Facebook Videos via WhatsApp</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-precision-in-broadcasting-zoom-and-fb-live-strategies-for-2024/"><u>[New] Precision in Broadcasting ZOOM & FB Live Strategies for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-dying-light-lag-issue/"><u>[SOLVED] Dying Light Lag Issue</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-eye-catching-instagram-story-previews/"><u>[Updated] 2024 Approved Crafting Eye-Catching Instagram Story Previews</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tempo-adjustment-application-selection/"><u>2024 Approved Quick Tempo Adjustment Application Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-to-adding-subtitles-in-wmp/"><u>2024 Approved Step-by-Step Guide to Adding Subtitles in WMP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefront-ii-pc-issues-resolved-fixes-to-stop-game-from-crashing/"><u>Battlefront II PC Issues Resolved: Fixes to Stop Game From Crashing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/customer-testimonial-recovered-thousands-of-photos-from/"><u>Customer Testimonial: Recovered Thousands of Photos From</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-initial-load-failures-in-the-fall-guys-experience/"><u>Diagnosing and Fixing Initial Load Failures in the Fall Guys Experience</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/effortless-transformation-how-to-play-mkv-videos-on-an-ipad-using-a-windows-pc/"><u>Effortless Transformation: How to Play MKV Videos on an iPad Using a Windows PC</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/exclusive-list-of-8-leading-android-group-calling-apps/"><u>Exclusive List of 8 Leading Android Group Calling Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-getting-tech-savvy-with-tekken-8-solutions-when-the-game-doesnt-boot-up/"><u>Expert Advice on Getting Tech-Savvy with Tekken 8: Solutions When the Game Doesn’t Boot Up</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95908908-9781612834078-fortune-tellers-handbook/"><u>Fortune Teller's Handbook | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-solutions-to-continuous-crashing-in-halo-3-for-windows-users/"><u>Master the Solutions to Continuous Crashing in Halo 3 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-access-violation-in-civil-service-exam-2024-what-you-need-to-know-about-civ-6/"><u>Mastering 'Access Violation in Civil Service Exam 2024': What You Need To Know About CIV-6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-initialization-problems-in-monster-hunter-stories-curosity-and-a-drive-for-continuous-improvement-with-your-help-i-aim-to-provide-valuable-insigh399/"><u>Overcoming Initialization Problems in Monster Hunter Stories Curosity, and a Drive for Continuous Improvement. With Your Help, I Aim to Provide Valuable Insights Into Tech Topics.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-5-simple-techniques-to-keep-deathloop-running-smoothly-on-pc/"><u>Troubleshooting Guide: 5 Simple Techniques to Keep Deathloop Running Smoothly on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twitch-sound-not-working-heres-how-you-can-get-it-to-work-perfectly-now/"><u>Twitch Sound Not Working? Here's How You Can Get It to Work Perfectly Now</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-instructions-for-installing-and-using-the-revoapp-manager-successfully/"><u>Ultimate Instructions for Installing and Using the RevoApp Manager Successfully</u></a></li>
 </ul></div>
 

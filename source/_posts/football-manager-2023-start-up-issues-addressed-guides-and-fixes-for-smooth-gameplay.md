@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2023 Start-Up Issues Addressed - Guides and Fixes for Smooth Gameplay
-date: 2024-09-29T18:19:15.033Z
-updated: 2024-10-03T16:39:51.243Z
+date: 2024-10-28T16:47:10.963Z
+updated: 2024-10-31T16:08:56.555Z
 tags:
   - win11
   - win10
@@ -47,22 +47,8 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,13 +65,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
@@ -113,17 +92,17 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -132,20 +111,42 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -174,19 +175,22 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-speedy-precision-the-leading-video-control-software/"><u>[Updated] Speedy Precision The Leading Video Control Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-addressing-game-instability-in-total-war-warhammer-ii/"><u>Comprehensive Guide to Addressing Game Instability in Total War: Warhammer II</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/fixing-dvd-player-and-television-compatibility-issues-a-step-by-step-guide/"><u>Fixing DVD Player and Television Compatibility Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-dead-space-remake-wont-launch-2024-tips/"><u>How to Fix Dead Space Remake Won’t Launch – 2024 Tips</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-xr-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone XR iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-troubleshooting-resolving-the-problem-of-red-dead-redemption-2-not-starting-properly/"><u>In-Depth Troubleshooting: Resolving the Problem of Red Dead Redemption 2 Not Starting Properly</u></a></li>
-<li><a href="https://games-able.techidaily.com/integrating-sonys-gaming-pad-into-pc-environment/"><u>Integrating Sony's Gaming Pad Into PC Environment</u></a></li>
-<li><a href="https://extra-support.techidaily.com/meme-maniacs-your-comprerans-quick-start-guide-for-9gag-for-2024/"><u>Meme Maniacs Your Compreran's Quick-Start Guide for 9GAG for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-ffxiv-update-issues-fixes-for-unsuccessful-version-checks/"><u>Overcoming FFXIV Update Issues – Fixes for Unsuccessful Version Checks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solution-to-rectify-minecrafts-sudden-crash-with-exit-code-0/"><u>Quick Solution to Rectify Minecraft's Sudden Crash with Exit Code 0</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/smart-escort-ix-evaluation-the-revolutionary-self-learning-radar-detector/"><u>Smart Escort iX Evaluation: The Revolutionary Self-Learning Radar Detector</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-gameplay-interruptions-overcoming-stability-problems-in-metro-exodus-for-windows-users/"><u>Stop Gameplay Interruptions - Overcoming Stability Problems in Metro Exodus for Windows Users</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-list-groundbreayer-vr-gloves-reviewed/"><u>Ultimate List Groundbreayer VR Gloves Reviewed</u></a></li>
-<li><a href="https://techtrends.techidaily.com/winx-dvd-ripper-premium-online-video-converter-software-with-ultimate-format-support/"><u>WinX DVD Ripper - Premium Online Video Converter Software with Ultimate Format Support</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dynamic-arrangement-of-your-youtube-selections/"><u>[New] In 2024, Dynamic Arrangement of Your YouTube Selections</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212413001-solved-reclaim-lost-performance-eradicate-the-root-cause-of-high-system-load-shell-infrastructures/"><u>[Solved] Reclaim Lost Performance: Eradicate the Root Cause of High System Load – Shell Infrastructures!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[Updated] The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-glitch-effective-solutions-for-modern-warfare-es-pc-crashing-problems/"><u>Beat the Glitch: Effective Solutions for Modern Warfare E's PC Crashing Problems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-your-gameplay-how-updating-dell-g3-graphics-drivers-enhances-performance/"><u>Boost Your Gameplay: How Updating Dell G3 Graphics Drivers Enhances Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-strategies-for-fixing-fallout-3-boot-problems/"><u>Expert Strategies for Fixing Fallout 3 Boot Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-hogwarts-legacys-startup-issues-8-effective-troubleshooting-tips/"><u>Fix Hogwarts Legacy's Startup Issues: 8 Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-tarkov-server-issue-dealing-with-the-infamous-error-code-103003/"><u>Fix Tarkov Server Issue: Dealing with the Infamous Error Code 103003</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-gaming-machines-in-2n24-a-comprehensive-guide/"><u>Leading Gaming Machines in 2N24: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximum-gaming-clarity-innocn-39g1-r/"><u>Maximum Gaming Clarity: InnoCN 39G1 R</u></a></li>
+<li><a href="https://win-answers.techidaily.com/multiversus-no-more-master-the-art-of-fixing-crashes-with-our-top-8/"><u>MultiVersus No More! Master the Art of Fixing Crashes with Our Top 지정된 8 해결책</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-industry-titans-a-creators-guide-to-mnc-deals/"><u>Navigating Industry Titans A Creator's Guide to MNC Deals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silent-blocks-here-are-5-solutions-to-restarting-the-volume-on-your-minecraft-game-pc/"><u>Silent Blocks? Here Are 5 Solutions to Restarting the Volume on Your Minecraft Game PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-failed-connection-with-your-local-steam-applet/"><u>Solution Steps for 'Failed Connection' With Your Local Steam Applet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/spectral-savvy-applying-color-science-for-2024/"><u>Spectral Savvy Applying Color Science for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-software-guide-for-tempo-alteration-for-2024/"><u>Ultimate Software Guide for Tempo Alteration for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-from-the-launch-screen-a-comprehensive-fix-for-among-us-hanging-on-startup/"><u>Unstuck From the Launch Screen: A Comprehensive Fix for Among Us Hanging on Startup</u></a></li>
 </ul></div>
 

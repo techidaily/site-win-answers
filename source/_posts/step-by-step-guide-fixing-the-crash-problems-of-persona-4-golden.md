@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Fixing the Crash Problems of Persona 4 Golden"
-date: 2024-10-23T17:51:25.716Z
-updated: 2024-10-26T17:11:50.364Z
+date: 2024-10-29T17:36:19.953Z
+updated: 2024-10-31T18:49:19.067Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ If your issue continues to occur, then move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-03-45-1024x251.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the programs you want to close and select**End Task** . Specifically, if you have the Riva Statistics software or MSI Afterburner, try turning them off when you’re gaming to see if the issue persists.
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -113,31 +120,44 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Click your **C drive** .
 
@@ -149,6 +169,13 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click **Set** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
@@ -156,13 +183,6 @@ If it didn’t, read on and try Fix 3.
 **8)** Restart your computer and your game.
 
  If your issue still exists, don’t fret. Read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall your game
 
@@ -175,22 +195,21 @@ If it didn’t, read on and try Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_14-18-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_14-21-51.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
 
@@ -206,22 +225,15 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
@@ -250,16 +262,24 @@ If the issue continues to occur, go to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-achieve-uniqueness-with-character-vocal-changes-in-free-fire-at-zero-price-for-2024/"><u>[New] Achieve Uniqueness with Character Vocal Changes in Free Fire, at Zero Price for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-callers-audio-logger-iphone-24/"><u>[New] In 2024, Caller's Audio Logger IPhone '24</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-banishing-dark-pixels-from-youtube-views-for-2024/"><u>[Updated] Banishing Dark Pixels From YouTube Views for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/isops3ps4ps5/"><u>最新プレイステーションのゲームISOファイル再生手順：PS3、PS4、PS5用</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assisted-nutrition-delicious-healthy-creations/"><u>AI-Assisted Nutrition: Delicious, Healthy Creations</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/best-online-strategies-for-mastering-korean-language-skills/"><u>Best Online Strategies for Mastering Korean Language Skills</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-easily-download-audio-files-from-clypcom-using-four-simple-techniques/"><u>How To Easily Download Audio Files From Clyp.com Using Four Simple Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/installing-q-continuum-addon-for-an-enhanced-viewing-experience-on-kodi-version-19/"><u>Installing Q Continuum Addon for an Enhanced Viewing Experience on Kodi Version 19</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-the-4k-video-downloader-secure-and-reliable/"><u>Is the 4K Video Downloader Secure and Reliable?</u></a></li>
-<li><a href="https://win11.techidaily.com/re-enabling-razer-device-discovery-on-win1011/"><u>Re-Enabling Razer Device Discovery on Win10/11</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/start-speaking-filipino-today-with-easy-10-minute-lessons/"><u>Start Speaking Filipino Today with Easy 10-Minute Lessons</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-filming-made-easy-selecting-the-right-audio-devices/"><u>[New] In 2024, Filming Made Easy Selecting the Right Audio Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-collaboration-essential-zoom-video-alterations-for-2024/"><u>Boosting Collaboration Essential Zoom Video Alterations for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-to-fixing-crashes-and-freezes-during-your-deathloop-sessions-on-ps5pc/"><u>Complete Guide to Fixing Crashes & Freezes During Your Deathloop Sessions on PS5/PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/custom-building-vs-off-the-shelf-pc-which-option-fits-you-perfectly/"><u>Custom Building vs Off-the-Shelf PC: Which Option Fits You Perfectly?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-solving-utorrents-download-delays-and-peer-connectivity-issues/"><u>Expert Tips for Solving uTorrent's Download Delays & Peer Connectivity Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-asus-rog-phone-8-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Asus ROG Phone 8</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-xs-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone XS Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-innovative-photography-adding-stylish-borders-to-instagram-pics/"><u>In 2024, Innovative Photography Adding Stylish Borders to Instagram Pics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instant-solutions-for-when-your-epic-games-launcher-fails-to-start/"><u>Instant Solutions for When Your Epic Games Launcher Fails to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004401020-mastering-minecraft-how-to-defeat-the-frustrating-black-screen-issue-with-these-pro-tips-for-gamers/"><u>Mastering Minecraft: How to Defeat the Frustrating Black Screen Issue with These Pro Tips for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-pc-to-prevent-latency-and-stuttering-in-fallout-76/"><u>Optimizing Your PC to Prevent Latency and Stuttering in Fallout 76</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-overcoming-pc-issues-when-starting-world-of-warcraft/"><u>Resolved: Overcoming PC Issues When Starting World of Warcraft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-logitech-g-hub-fails-in-windows/"><u>Troubleshooting Steps When Logitech G Hub Fails in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-when-nox-player-wont-load-on-windows-or-mac/"><u>Troubleshooting Tips for When Nox Player Won't Load on Windows or Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-borderlands-3-ls-0013-troubleshooting-issue/"><u>Ultimate Guide: Resolving the Borderlands 3 LS-0013 Troubleshooting Issue</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-zooid-design-starter-packs-for-2024/"><u>Ultimate Zooid Design Starter Packs for 2024</u></a></li>
 </ul></div>
 

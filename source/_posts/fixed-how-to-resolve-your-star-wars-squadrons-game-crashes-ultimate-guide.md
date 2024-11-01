@@ -1,7 +1,7 @@
 ---
 title: "Fixed! How to Resolve Your Star Wars: Squadrons Game Crashes | Ultimate Guide"
-date: 2024-10-02T18:31:45.060Z
-updated: 2024-10-03T16:56:40.823Z
+date: 2024-10-25T05:50:18.878Z
+updated: 2024-11-01T10:31:04.302Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 | **High-Rez asset cache** | Up to 32 GB                                                     | Up to 32 GB                                  | Up to 32 GB                                                 | Up to 64 GB                                      |
 | **Video memory**         | 2 GB                                                            | 4 GB                                         | 8 GB                                                        | 10 GB                                            |
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Close background applications
 
  The first quick fix you can try is to shut down the programs running in the background. They may interfere with Vanguard and cause the game to freeze. Or, these applications may take up the resources that are required for Vanguard to run smoothly, thus triggering performance issues. You can kill the background processes via Task Manager:
@@ -72,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/0cf9688fb864217953ed20bc37cbae8628a2ed0f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
@@ -97,8 +90,28 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -134,35 +147,9 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing random freezes while playing Vanguard, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Make sure your system is up-to-date
 
@@ -176,10 +163,10 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
@@ -188,6 +175,13 @@ If Vanguard still freezes randomly on your PC, try the next fix.
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -200,10 +194,10 @@ If this doesn’t solve your problem, try the next fix.
 If the freezing issue persists, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Increase your virtual memory
@@ -220,22 +214,8 @@ If the freezing issue persists, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Uncheck the box of **Automatically manage paging file size for all drives** , then select **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 6. Use the below formulas to calculate the values you should set:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -243,8 +223,23 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 7. If you don’t know how much RAM you have, press the **Windows key** and **R** to invoke the Run box. Then type in **msinfo32** and click **OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 8. Calculate and fill in the **Initial size and Maximum size** , click **Set** then click **OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 9. Reboot your PC to see if Vanguard still freezes on your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -265,19 +260,19 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-chromebooks-premium-free-video-capture-extensions/"><u>[New] In 2024, Chromebook's Premium Free Video Capture Extensions</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-how-to-activatedeactivate-pip-in-ios-web-experience/"><u>[Updated] 2024 Approved How to Activate/Deactivate PIP in iOS Web Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-best-video-calls-uncompromising-security-and-ease-for-startups/"><u>[Updated] Best Video Calls Uncompromising Security & Ease for Startups</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-direct-obs-video-feed-for-instagram/"><u>[Updated] Direct OBS Video Feed for Instagram</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-choosing-the-right-platform-a-look-at-vimeo-youtube-and-dailymotion/"><u>[Updated] In 2024, Choosing the Right Platform A Look at Vimeo, YouTube & DailyMotion</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/capture-and-structure-knowledge-via-mematic-for-2024/"><u>Capture and Structure Knowledge via Mematic for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cloud-storage-pricing-comparison-and-best-price-recommendations/"><u>Cloud Storage Pricing Comparison and Best Price Recommendations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-solving-lost-ark-startup-issues-latest-fixes-for-2eruary-2024/"><u>Comprehensive Guide: Solving Lost Ark Startup Issues – Latest Fixes for 2Eruary 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhance-your-valheim-performance-tips-to-fix-high-ping-times-on-windows-devices/"><u>Enhance Your Valheim Performance: Tips to Fix High Ping Times on Windows Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-counter-strike-2-launch-issues-update-guide-2024/"><u>Fixes and Solutions for Counter-Strike 2 Launch Issues: Update Guide 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-mir4-game-crashing-issues-on-your-windows-pc/"><u>How to Fix Mir4 Game Crashing Issues on Your Windows PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-call-of-duty-warzone-pc-freeze-issues/"><u>Ultimate Guide: Solving Call of Duty Warzone PC Freeze Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-strategies-making-steam-games-work-again-on-windows-10/"><u>Winning Strategies: Making Steam Games Work Again on Windows 10</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-education-the-role-of-virtual-reality/"><u>[New] Immersive Education The Role of Virtual Reality</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-ultimate-record-assistant-az-audits-and-substitutes/"><u>[New] In 2024, Ultimate Record Assistant - AZ Audits & Substitutes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-aligning-content-quality-with-instagrams-user-base/"><u>[Updated] In 2024, Aligning Content Quality with Instagram's User Base</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-navigating-non-working-tiktok-videos-with-ease/"><u>2024 Approved Navigating Non-Working TikTok Videos with Ease</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/a-guide-to-top-screen-capture-for-zoom/"><u>A Guide to Top Screen Capture for Zoom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-troubleshooting-guide-to-connect-your-pc-with-the-fallout-76-servers-successfully/"><u>Complete Troubleshooting Guide to Connect Your PC with the Fallout 76 Servers Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-unexpectedly-stopped-error-on-your-cod-modern-warfare-3-app/"><u>Fixing the 'Unexpectedly Stopped' Error on Your Cod: Modern Warfare 3 App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/forza-horizon-4-bootup-problems-expert-fixes-and-solutions/"><u>Forza Horizon 4 Bootup Problems : Expert Fixes & Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-enhancing-android-viewing-latest-in-vr-and-360-videos/"><u>In 2024, Enhancing Android Viewing - Latest in VR & 360 Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-on-the-go-device-management-with-portable-driver-easy/"><u>Mastering On-the-Go Device Management With Portable Driver Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-disruptions-how-to-keep-overwatch-2-stable-and-avoid-frequent-pc-crashes/"><u>No More Disruptions: How to Keep Overwatch 2 Stable and Avoid Frequent PC Crashes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-picks-from-157-nations-by-apple/"><u>Top Picks From 157 Nations by Apple</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-a-non-functional-logitech-g733-headset-mic/"><u>Troubleshoot and Repair a Non-Functional Logitech G733 Headset Mic</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/uncovering-vidmas-video-recording-features-for-2024/"><u>Uncovering Vidma's Video Recording Features for 2024</u></a></li>
 </ul></div>
 

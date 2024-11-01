@@ -1,7 +1,7 @@
 ---
 title: "ARK: Survival Ascended - Troubleshooting Constant PC Game Crashes with These 9 Tips"
-date: 2024-10-25T16:00:21.893Z
-updated: 2024-10-26T17:06:06.029Z
+date: 2024-10-30T03:12:27.654Z
+updated: 2024-10-31T18:13:36.396Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  One of the common causes of A Total War Saga: Troy crashing issue is the corrupted game files. If it’s the case, you need to verify the game files. Here’s how to do it:
@@ -49,13 +42,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 2. Click**Verify** to start verifying the game files.  
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -84,10 +70,10 @@ There’re mainly two ways you can update your graphics drivers:
 Or
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -107,13 +93,6 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -124,6 +103,13 @@ Or
  Launch A Total War Saga: Troy to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -142,9 +128,23 @@ Or
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
 
@@ -155,13 +155,6 @@ Or
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  If this issue persists after you stopped overclocking, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair Epics Games launcher
 
@@ -176,6 +169,13 @@ Or
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -210,20 +210,20 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-cutting-down-complexity-the-simplified-guide-to-youtube-4k-submissions-for-2024/"><u>[Updated] Cutting Down Complexity The Simplified Guide to Youtube 4K Submissions for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-crafting-captivating-youtube-thumbnails-a-sizing-guide/"><u>[Updated] In 2024, Crafting Captivating YouTube Thumbnails A Sizing Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/chrome-extensions-now-available-on-web-panels-discover-features-of-vivaldi-66/"><u>Chrome Extensions Now Available on Web Panels: Discover Features of Vivaldi 6.6!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/creating-stunning-youtube-openings-best-tools-list-for-2024/"><u>Creating Stunning YouTube Openings - Best Tools List for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-the-mechanisms-of-noteworthy-youtube-discussions/"><u>Exploring the Mechanisms of Noteworthy YouTube Discussions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-in-touch-with-customer-service-today/"><u>Get in Touch With Customer Service Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/high-definition-photography-on-the-latest-ipod-touch-with-up-to-960-x/"><u>High-Definition Photography on the Latest iPod Touch with Up to 960 X 지원</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-easily-and-safely-download-xhamuter-videos-with-trusted-platforms/"><u>How To Easily And Safely Download Xhamuter Videos With Trusted Platforms</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-samsung-galaxy-f54-5g-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Samsung Galaxy F54 5G Pattern Lock Screen</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-professional-soundwaves-a-critical-analysis-of-the-top-6-mics-for-livestreaming/"><u>In 2024, Professional Soundwaves A Critical Analysis of the Top 6 Mics for Livestreaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ipod-songs-free-download-convert-your-tracks-to-mp3-on-pc-or-mac/"><u>IPod Songs Free Download: Convert Your Tracks to MP3 on PC or Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/is-owning-an-ipad-no-longer-a-trendy-choice-among-consumers/"><u>Is Owning an iPad No Longer a Trendy Choice Among Consumers?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-mp4-video-converter-a-step-by-step-guide-with-factory-pro/"><u>Mastering the MP4 Video Converter: A Step-by-Step Guide with Factory Pro</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-ultimate-list-of-accessories-to-enhance-your-sj4000/"><u>The Ultimate List of Accessories to Enhance Your SJ4000</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshoot-persistent-window-explorer-errors-with-these-7-tips/"><u>Troubleshoot Persistent Window Explorer Errors with These 7 Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-bard-the-deceptive-application-that-harbors-dangerous-malware-stay-away-from-this-threat/"><u>'Google Bard': The Deceptive Application That Harbors Dangerous Malware - Stay Away From This Threat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-updating-your-meet-name-easy-steps-for-pc-and-mobile-for-2024/"><u>[Updated] Updating Your Meet Name Easy Steps for PC & Mobile for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-virtual-frontier-flicks-the-most-inspiring-sci-fi-metaverse-movies-for-2024/"><u>[Updated] Virtual Frontier Flicks The Most Inspiring Sci-Fi Metaverse Movies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-exploring-the-law-recording-youtube-content-playback/"><u>2024 Approved Exploring the Law Recording YouTube Content Playback</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211165184-9781736821831-awakened-soul/"><u>Awakened Soul | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-updating-dilemma-in-microsoft-flight-simulator-202n-a-comprehensive-guide-to-fix-and-enjoy/"><u>Cracking the 'Updating' Dilemma in Microsoft Flight Simulator 202N: A Comprehensive Guide to Fix and Enjoy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-launch-labyrinth-in-madden-nfl-22-strategies-to-get-past-the-stalled-screen/"><u>End Launch Labyrinth in Madden NFL 22: Strategies to Get Past the Stalled Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-avoid-crashes-in-jurasseback-evolution-for-a-smooth-experience/"><u>How to Fix and Avoid Crashes in Jurasseback Evolution for a Smooth Experience</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-huawei-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Huawei Phone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-honor-90-gt-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Honor 90 GT Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-realme-narzo-60x-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Realme Narzo 60x 5G without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-video-recording-rumble-obs-versus-shadowreplay/"><u>In 2024, Video Recording Rumble OBS Versus ShadowReplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fix-overcoming-fifa-20-pc-stability-problems-comprehensive-instructions/"><u>Master the Fix: Overcoming FIFA 20 PC Stability Problems - Comprehensive Instructions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-phasmophobia-vr-stops-responding/"><u>Solutions for When Your Phasmophobia VR Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-assassins-creed-odyssey-pc-freeze-issues-a-step-by-step-guide/"><u>Troubleshooting Assassin's Creed Odyssey PC Freeze Issues: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

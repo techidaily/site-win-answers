@@ -1,7 +1,7 @@
 ---
 title: PUBG Not Working? Here’s How to Tackle Game Freezes and Lag Issues on PC
-date: 2024-09-05T09:00:14.850Z
-updated: 2024-09-06T09:00:14.850Z
+date: 2024-10-30T19:10:16.167Z
+updated: 2024-11-01T10:31:31.767Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes PUBG Not Working? Here’s How to Tackle Game Fr
 thumbnail: https://thmb.techidaily.com/a50a3cec0521fa6fb800284717c9122c07291a0277fd1f77229ad231586b5b14.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PUBG Freezing Woes on Windows? Here's How to Get Smooth Playback
 
 PlayerUnknown’s Battlegrounds (PUBG) is a famous online multiplayer battle royale game. Despite the fact that it has been out for a long time, issues like game freezing are still common. If you happened to be one of them and you’re done with restarting your computer, then you’ve come to the right place! We’ve put together some fixes for you to try.
@@ -35,17 +29,12 @@ PlayerUnknown’s Battlegrounds (PUBG) is a famous online multiplayer battle roy
 6. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Before getting started
 
  Before you take any attempts to fix the freezing issue, you need to make sure that your computer meets the minimum system requirements to play PUBG. But if you want to have a smoother gameplay experience, make sure to meet the recommended system requirements.
@@ -70,12 +59,6 @@ Recommended requirements for PUBG
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Install the latest patch
 
  PUBG keeps releasing its patches in order to fix some bugs. So you can install the new patches to keep your game up to date on the[Patch Note](https://lite.pubg.com/category/patch-note/) page.
@@ -86,30 +69,12 @@ Recommended requirements for PUBG
 
  There are mainly two options you can take to update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep updating drivers. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your drivers (recommended)
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -123,17 +88,12 @@ Recommended requirements for PUBG
 ![automatically update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -166,12 +126,6 @@ Here is how to enable this plan:
 
 ![change power options; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Under the**Hide additional plans** section, check the**Ultimate Performance** .
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-2.png)
@@ -186,6 +140,19 @@ The steps are as follows:
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-3-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the prompt, type the following command lines and hit**Enter** .
 
  **powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61**
@@ -193,25 +160,21 @@ The steps are as follows:
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After you successfully add the Ultimate Performance plan, go to the[settings](https://tools.techidaily.com/drivereasy/download/) to enable it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Delete temp files
 
  If your computer doesn’t have sufficient space to store the temp files, freezes would happen. So you can delete them by following these steps:
@@ -223,11 +186,12 @@ The steps are as follows:
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Select all the files in the folder and delete them.
 
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-3-1.png)
@@ -245,6 +209,13 @@ The steps are as follows:
  3) Once it’s finished, click **Start Repair** to start the repair process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -273,8 +244,6 @@ The steps are as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -282,4 +251,23 @@ The steps are as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-steps-to-fix-delayed-or-failing-video-posts-in-facebooks-chat-app-for-2024/"><u>[New] Steps to Fix Delayed or Failing Video Posts in Facebook's Chat App for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-clear-video-ultimate-guide-to-good-cams-mics/"><u>[Updated] 2024 Approved Clear Video Ultimate Guide to Good Cams' Mics</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/1728476996184-usbcmd/"><u>失去USB中的文件？CMD提供快速恢復方法</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-honor-magic-6-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Honor Magic 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bioshock-2-ultimate-fix-enhanced-graphics-and-stability-patch/"><u>Bioshock 2 Ultimate Fix: Enhanced Graphics & Stability Patch</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-logitech-m510-update-manual-ensuring-compatibility-and-performance/"><u>Comprehensive Logitech M510 Update Manual: Ensuring Compatibility and Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-fixes-critical-frame-rate-drops-for-gamers/"><u>Cyberpunk 2077 Update Fixes Critical Frame Rate Drops for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-fixes-for-uninterrupted-play-tackling-dreamlight-valley-pc-crashes/"><u>Essential Fixes for Uninterrupted Play: Tackling Dreamlight Valley PC Crashes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-8-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 8 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-x5-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Poco X5 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-pc-gaming-performance-effective-strategies-to-upgrade-your-ark-experience/"><u>Maximizing PC Gaming Performance: Effective Strategies to Upgrade Your ARK Experience</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from ZTE Blade A73 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/spotify-web-player-woes-heres-how-to-enhance-its-speed-and-functionality/"><u>Spotify Web Player Woes? Here's How to Enhance Its Speed & Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-issues-resolved-a-comprehensive-guide-to-fix-game-crashes/"><u>Total War: WARHAMMER II Issues Resolved – A Comprehensive Guide to Fix Game-Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-your-logitech-c920-webcam-issues/"><u>Troubleshooting Guide: Fixing Your Logitech C920 Webcam Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-filmora-for-beginners-a-comprehensive-guide-to-creating-stunning-reaction-videos/"><u>Updated In 2024, Filmora for Beginners A Comprehensive Guide to Creating Stunning Reaction Videos</u></a></li>
+</ul></div>
 

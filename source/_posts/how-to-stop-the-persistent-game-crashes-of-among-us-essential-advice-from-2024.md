@@ -1,7 +1,7 @@
 ---
 title: "How to Stop the Persistent Game Crashes of Among Us: Essential Advice From 2024"
-date: 2024-10-21T17:13:05.995Z
-updated: 2024-10-26T17:24:23.232Z
+date: 2024-10-25T05:48:16.870Z
+updated: 2024-10-31T19:58:52.394Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  Phasmophobia crashing issues might occur when there is bad or corrupted game data. To see if this is the case for you, you can verify the game file from Steam:
@@ -77,20 +70,33 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -115,6 +121,19 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -123,13 +142,6 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -143,6 +155,19 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -154,19 +179,6 @@ If the crash still occurs, go ahead with the next fix.
 3) Copy**\-force-feature-level-10-1** and paste it into the**LUNCH OPTIONS** under the General tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Launch the game to see if your problem has been resolved.
 
@@ -186,24 +198,18 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -218,10 +224,10 @@ If the problem still exists, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
@@ -243,17 +249,14 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-make-your-mark-personalized-brands-zero-price-tag/"><u>[New] 2024 Approved Make Your Mark - Personalized Brands, Zero Price Tag</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-fishermans-field-guide-to-prime-camers/"><u>[Updated] In 2024, The Fisherman's Field Guide to Prime Camers</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-step-by-step-guide-to-using-polarr-for-stunning-images/"><u>A Step-by-Step Guide to Using Polarr for Stunning Images</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-can-you-prevent-saving-slides-as-a-video-in-powerpoint/"><u>How Can You Prevent Saving Slides as a Video in PowerPoint?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-sharing-tiktok-on-twitter-quickly/"><u>In 2024, Sharing TikTok on Twitter Quickly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-snapscreen-scrutiny-a-deep-dive-into-recorders/"><u>In 2024, SnapScreen Scrutiny A Deep Dive Into Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/instant-video-creation-uploading-images-for-2024/"><u>Instant Video Creation Uploading Images for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-wtv-file-manipulation-top-tips-for-utilizing-a-high-performance-wtv-editor-on-windows-systems/"><u>Mastering the Art of WTV File Manipulation: Top Tips for Utilizing a High-Performance WTV Editor on Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4-mpeg/"><u>MP4, MPEGファイルが連携しやすくなる最新セットアップガイド</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/orion-spacecraft-returns-from-lunar-mission-a-closer-look-at-nasas-historic-journey/"><u>Orion Spacecraft Returns From Lunar Mission: A Closer Look at NASA’s Historic Journey</u></a></li>
-<li><a href="https://discover-community.techidaily.com/top-5-no-cost-mp3-editors-ideal-for-windows-10-users/"><u>Top 5 No-Cost MP3 Editors: Ideal for Windows 10 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mp4gif/"><u>ガイド: MP4ファイルから完全なGIFアニメーションへの変換手順</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-smartphone-savvy-capturing-and-storing-twitter-gifs/"><u>[New] 2024 Approved Smartphone Savvy Capturing & Storing Twitter GIFs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-surge-your-viewer-numbers-a-comprehensive-guide-to-youtube-growth/"><u>[New] Surge Your Viewer Numbers A Comprehensive Guide to YouTube Growth</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-authority-list-top-10-sports-and-football-streaming-applications-cutting-edge/"><u>[Updated] 2024 Approved Authority List Top 10 Sports & Football Streaming Applications, Cutting Edge</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-paving-the-way-to-youtube-stardom-through-effective-seo-keywords/"><u>[Updated] Paving the Way to YouTube Stardom Through Effective SEO Keywords</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-funny-photo-tinkering-tool/"><u>[Updated] Ultimate Funny Photo Tinkering Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-fnaf-security-breach-experience-no-more-pc-game-crashes/"><u>Enhanced FNAF Security Breach Experience – No More PC Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-ensuring-smooth-play-in-hearthstone-by-avoiding-pc-malfunctions/"><u>Master the Fixes: Ensuring Smooth Play in Hearthstone by Avoiding PC Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-the-spotify-browser-app-overcoming-lag-and-malfunction/"><u>Optimizing the Spotify Browser App: Overcoming Lag and Malfunction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-low-frames-per-second-fps-in-avatars-pandoran-adventures/"><u>Troubleshooting Low Frames Per Second (FPS) in Avatar's Pandoran Adventures</u></a></li>
 </ul></div>
 

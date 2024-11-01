@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Star Wars Battlefront II's Persistent Black Screen Issue"
-date: 2024-10-21T17:30:32.149Z
-updated: 2024-10-26T16:20:41.442Z
+date: 2024-10-31T02:23:11.329Z
+updated: 2024-10-31T16:29:10.433Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
@@ -72,6 +79,13 @@ Follow the instructions below to view your computer hardware information:
 **3)** Check your**Display Memory** here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
@@ -111,9 +125,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -137,29 +171,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -183,25 +197,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
- Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -229,16 +236,16 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -252,13 +259,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -267,25 +267,25 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **10)**  Relaunch Steam and your game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -354,24 +354,15 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-comprehensive-list-of-webinar-recording-methods/"><u>[New] 2024 Approved The Comprehensive List of Webinar Recording Methods</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-gigglygraphics-mememakers-haven/"><u>2024 Approved GigglyGraphics MemeMaker's Haven</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-mobile-media-a-guide-to-the-9-smartest-gadgets-for-filmmakers/"><u>2024 Approved Mastering Mobile Media A Guide to the 9 Smartest Gadgets for Filmmakers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-secrets-of-impressive-hdr-portraits/"><u>2024 Approved Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-when-dealing-with-persistent-crashes-in-nox-player-for-windows/"><u>Effective Solutions When Dealing With Persistent Crashes in Nox Player for Windows</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enthralling-readers-with-these-stellar-5-book-promo-videos/"><u>Enthralling Readers with These Stellar 5 Book Promo Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-tips-for-effortless-access-to-youtube-comments/"><u>Expert Tips for Effortless Access to YouTube Comments</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-overcoming-pc-issues-in-spellbreak/"><u>Fixes and Solutions: Overcoming PC Issues in Spellbreak</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebooks-micro-video-revolution-insights-into-2023-landscape/"><u>In 2024, Facebook's Micro-Video Revolution Insights Into 2023 Landscape</u></a></li>
-<li><a href="https://win-blog.techidaily.com/insider-look-at-fixing-cod-warzones-oceanic-glitch/"><u>Insider Look at Fixing COD: Warzone's Oceanic Glitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-easily-correcting-directx-problems-in-fifa-19/"><u>Master the Art of Easily Correcting DirectX Problems in FIFA 19</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-bloodhunt-performance-a-guide-to-stop-game-disruptions-and-delays/"><u>Optimizing Bloodhunt Performance: A Guide to Stop Game Disruptions and Delays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-dota-2-connectivity-issues-expert-advice-from-2024/"><u>Overcoming Dota 2 Connectivity Issues - Expert Advice From 2024</u></a></li>
-<li><a href="https://win-info.techidaily.com/restoring-deleted-iphone-voice-memo-files-a-simple-guide/"><u>Restoring Deleted iPhone Voice Memo Files: A Simple Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revive-the-sound-expert-tips-for-repairing-a-non-functional-clownfish-vocal-effect-device/"><u>Revive the Sound: Expert Tips for Repairing a Non-Functional Clownfish Vocal Effect Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steps-to-resolve-persistent-issues-with-days-gone-crashing-release/"><u>Steps to Resolve Persistent Issues with Days Gone Crashing Release</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swift-troubleshooting-guide-for-non-functioning-steamvr/"><u>Swift Troubleshooting Guide for Non-Functioning SteamVR</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-troubling-inefficiency-of-automated-writing-detection-tools-for-digital-originality/"><u>The Troubling Inefficiency of Automated Writing Detection Tools for Digital Originality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-initialization-problems-solving-errgfxd3dinit-on-gta-v/"><u>Troubleshooting GRAPHICS Initialization Problems: Solving ERR_GFX_D3D_INIT on GTA V</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-no-fee-android-chat-apps-rated/"><u>[Updated] Top No-Fee Android Chat Apps Rated</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-the-secrets-to-lengthy-exposure-with-iphone/"><u>2024 Approved Unlock the Secrets to Lengthy Exposure with iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007349963-enhance-gameplay-in-forza-horizon-5-with-the-latest-graphics-card-driver-updates/"><u>Enhance Gameplay in Forza Horizon 5 with the Latest Graphics Card Driver Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-addition-to-iphone-16-phones-the-new-camera-buttons-features-revealed/"><u>Exploring the Latest Addition to iPhone 16 Phones: The New Camera Button's Features Revealed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/improve-your-gaming-experience-download-steelseries-keyboard-engine-upgrades-today/"><u>Improve Your Gaming Experience: Download SteelSeries Keyboard Engine Upgrades Today</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-narrative-nuance-in-voiceovers-mastering-the-art-of-storytelling-on-ppts/"><u>In 2024, Narrative Nuance in Voiceovers Mastering the Art of Storytelling on PPTs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/masterful-methods-for-attaching-fb-story-links/"><u>Masterful Methods for Attaching FB Story Links</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-gpu-performance-for-warzone-on-windows-11-fixed/"><u>Optimizing GPU Performance for Warzone on Windows 11 - Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-black-screen-issue-when-starting-overwatch-a-comprehensive-guide/"><u>Resolving the 'Black Screen' Issue When Starting Overwatch - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-preventing-frequent-crashes-in-minecraft-dungeons-for-windows-users/"><u>Troubleshooting Tips: Preventing Frequent Crashes in Minecraft Dungeons for Windows Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC"
-date: 2024-10-21T16:33:41.138Z
-updated: 2024-10-26T17:39:26.034Z
+date: 2024-10-27T11:16:07.962Z
+updated: 2024-11-01T01:27:30.439Z
 tags:
   - win11
   - win10
@@ -47,17 +47,31 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 2. Scroll through and end each**NVIDIA** task.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
 
@@ -68,30 +82,16 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -163,20 +163,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[New] 2024 Approved From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-premier-hype-booster-maker/"><u>[New] 2024 Approved Premier Hype Booster Maker</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-beginners-pathway-prime-video-game-editing-applications/"><u>[Updated] 2024 Approved Beginner's Pathway Prime Video Game Editing Applications</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-mastering-iphones-screen-capture-features/"><u>[Updated] In 2024, Mastering iPhone's Screen Capture Features</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-simplified-methods-for-saving-screen-share-talks/"><u>[Updated] In 2024, Simplified Methods for Saving Screen-Share Talks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lets-note/"><u>「瞬時にLet's Noteでスクリーン記録の迅速ガイド」</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/5aac5l2v5oiq5yqf5zyw5bcg5l2g55qe6k6h566x5py657o757uf6l2s56e75yiw5lin5zcm55qe54mp55cg6k6plus5ash5lik/"><u>如何成功地将你的计算机系统转移到不同的物理设备上</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-narzo-60x-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo 60x 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-edge-2023-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/m4aogg/"><u>M4A形式へのOggファイル複数同時変換方法：最新ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-avi-videos-in-vlc-a-guide-to-smooth-playback-and-issue-resolution/"><u>Mastering AVI Videos in VLC: A Guide to Smooth Playback and Issue Resolution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/movmp4adobe-premiere-pro/"><u>MOV形式からMP4に変更:Adobe Premiere Proで効率よく行う方法</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/optimizing-ad-revenue-on-youtube-with-new-strategies-for-2024/"><u>Optimizing Ad Revenue on YouTube with New Strategies for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-on-converting-voice-messages-into-high-quality-mp3-audio/"><u>Quick Guide on Converting Voice Messages Into High-Quality MP3 Audio</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-dvd-decrypter-issues-methods-to-correct-failed-to-set-data-problem/"><u>Resolving DVD Decrypter Issues: Methods to Correct 'Failed to Set Data' Problem</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-cultivating-productive-collaboration-a-pathway-to-effective-collab-videos-for-2024/"><u>[New] Cultivating Productive Collaboration A Pathway to Effective Collab Videos for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-recapturing-moments-the-xiaomi-mi-11s-superior-screen-record/"><u>[Updated] 2024 Approved Recapturing Moments The Xiaomi Mi 11'S Superior Screen Record</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevate-your-photo-projects-techniques-for-adding-text-to-digital-images/"><u>2024 Approved Elevate Your Photo Projects Techniques for Adding Text to Digital Images</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphonesamsungpc/"><u>簡単に学ぶ！iPhoneやSamsungのようなスマートフォンでPCへ直接録音するテクニック</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-steps-removing-applications-from-your-samsung-smart-tv/"><u>Easy Steps: Removing Applications From Your Samsung Smart TV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-ring-of-elysium-errors-effective-methods-to-ensure-smooth-gameplay/"><u>End Ring of Elysium Errors: Effective Methods to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996303606-expert-fix-msi-afterburner-doesnt-detect-graphics-card-on-windows-now-it-will/"><u>Expert Fix: MSI Afterburner Doesn't Detect Graphics Card on Windows - Now It Will!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-high-speed-gaming-overcoming-lag-in-forza-horizon-5/"><u>Fixing High-Speed Gaming: Overcoming Lag in Forza Horizon 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2022-release-delay-solutions-and-workarounds/"><u>Football Manager 2022 Release Delay: Solutions & Workarounds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hassle-free-methods-to-resolve-outriders-persistent-crashing-issues/"><u>Hassle-Free Methods to Resolve Outriders' Persistent Crashing Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-your-stuck-huion-pen-problems-in-a-flash-5-essential-troubleshooting-steps/"><u>Resolve Your Stuck Huion Pen Problems in a Flash: 5 Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ultimate-guide-to-starting-zoom-chats-on-android-for-2024/"><u>The Ultimate Guide to Starting Zoom Chats on Android for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-solve-everspace-2-stability-issues-on-personal-computers/"><u>Troubleshoot and Solve Everspace 2 Stability Issues on Personal Computers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop 'Days Gone' From Crashing on Your PC"
-date: 2024-10-23T17:25:36.880Z
-updated: 2024-10-26T16:44:26.043Z
+date: 2024-10-25T05:20:35.090Z
+updated: 2024-10-31T23:41:32.204Z
 tags:
   - win11
   - win10
@@ -37,16 +37,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: **Check your computer specs**
@@ -66,16 +60,16 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
@@ -107,6 +101,13 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -124,6 +125,13 @@ If your problem still exists, then move on to the fix below.
 **1)** Right-click the **Hearts of Iron IV icon** on your desktop and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
@@ -182,6 +190,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Hearts of Iron IV**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
@@ -192,19 +207,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Change your PC power settings
 
  The power plan on all computers is set to Balanced by default to save more energy. When your CPU’s speed slows down automatically under Balanced mode, it can make_Hearts of Iron IV_ crash. In this case, try changing your PC Power option to High Performance. Here is how:
@@ -212,6 +214,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -227,13 +236,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8: **Check for Windows Updates**
 
  Always ensure that your computer has all of the latest recommended Windows updates to keep your applications running smoothly. Here is how to do it:
@@ -246,16 +248,16 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or Steam
 
@@ -281,10 +283,10 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-137.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall _Hearts of Iron IV_ .
@@ -321,29 +323,9 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)**  Restart_Hearts of Iron IV_ to test your problem.
 
@@ -370,19 +352,19 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-pair-phonetablet-and-computer-calendars-for-seamless-zoom-scheduling/"><u>[New] In 2024, Pair Phone/Tablet & Computer Calendars for Seamless Zoom Scheduling</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-shutterbug-simplified-iphone-tools-for-effective-cropping/"><u>[Updated] 2024 Approved Shutterbug Simplified IPhone Tools for Effective Cropping</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-skirting-watermarks-in-stock-photography/"><u>[Updated] Skirting Watermarks in Stock Photography</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-obs-vs-wirecast-ultimate-broadcast-showdown/"><u>2024 Approved OBS vs Wirecast Ultimate Broadcast Showdown</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-repairing-utorrent-connection-and-download-problems-with-peers/"><u>Effective Strategies for Repairing uTorrent Connection and Download Problems with Peers</u></a></li>
-<li><a href="https://win11.techidaily.com/finding-alternative-processes-to-start-your-programs-on-windows/"><u>Finding Alternative Processes to Start Your Programs on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-(httpswwwusgsgovspecial-topicwater-science467/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From <https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface></u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003577710-how-to-fix-common-graphic-driver-problems-solutions-inside/"><u>How to Fix Common Graphic Driver Problems - Solutions Inside</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-v30-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme V30 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-zooms-cannot-start-video-glitch-with-these-5-proven-fixes/"><u>Overcome Zoom's 'Cannot Start Video' Glitch with These 5 Proven Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-troubleshoot-preventing-outriders-game-crashes-effortlessly/"><u>Quick Troubleshoot: Preventing Outriders Game Crashes Effortlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/snapcutsolution-examination-extensive-review/"><u>SnapCutSolution Examination – Extensive Review</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-remarkable-escapades-of-yokus-island-express-rediscovered/"><u>The Remarkable Escapades of Yoku’s Island Express Rediscovered</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-warzone-freezing-a-comprehensive-guide-for-players/"><u>Winning the Battle Against Warzone Freezing: A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-cutting-edge-camera-and-recording-apps-for-smartphones-most-reliable-sources/"><u>[New] 2024 Approved Cutting-Edge Camera & Recording Apps for Smartphones' Most Reliable Sources</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-a-beginners-guide-to-producing-facebook-reels-for-2024/"><u>[New] A Beginner's Guide to Producing Facebook Reels for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-flipping-the-script-on-memes-with-kinemaster-for-2024/"><u>[New] Flipping the Script on Memes with KineMaster for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-and-fix-repeated-palworld-crashing-issues-on-computers/"><u>Expert Tips to Prevent and Fix Repeated Palworld Crashing Issues on Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-combat-frame-drops-and-hiccups-during-fortnite-matches-on-your-computer-system/"><u>How to Combat Frame Drops and Hiccups During Fortnite Matches on Your Computer System</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-jump-cut-like-a-pro-expert-techniques-for-final-cut-pro-x-editors/"><u>In 2024, Jump Cut Like a Pro Expert Techniques for Final Cut Pro X Editors</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-oneplus-ace-2-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing OnePlus Ace 2 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/master-the-techniques-for-optimizing-memory-use-in-windows-11-resolved/"><u>Master the Techniques for Optimizing Memory Use in Windows 11 [Resolved]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persona-3-fans-rejoice-pc-version-crashes-squashed-with-latest-fixes/"><u>Persona 3 Fans Rejoice! PC Version Crashes Squashed with Latest Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-mw3-from-crashing-on-your-pc-a-comprehensive-guide/"><u>Stop MW3 From Crashing on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-huawei-by-drfone-android/"><u>Top 10 Password Cracking Tools For Huawei</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-your-copy-of-modern-warfare-2-wont-start-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Your Copy of Modern Warfare 2 Won't Start & How To Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xbox-live-down-or-slow-heres-how-to-verify-its-current-server-status/"><u>Xbox Live Down or Slow? Here’s How To Verify Its Current Server Status!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/be-recommended-videos-block-the-videos-for-2024/"><u>YouTube Recommended Videos - Block the Videos for 2024</u></a></li>
 </ul></div>
 

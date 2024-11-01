@@ -1,7 +1,7 @@
 ---
 title: "Solving Latency Problems in Naraka Bladesword: A Comprehensive Guide"
-date: 2024-10-20T16:15:15.820Z
-updated: 2024-10-26T16:23:07.954Z
+date: 2024-10-31T01:43:46.313Z
+updated: 2024-11-01T11:15:07.290Z
 tags:
   - win11
   - win10
@@ -36,16 +36,10 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Launch the game in windowed mode
@@ -57,22 +51,29 @@ thumbnail: https://thmb.techidaily.com/80dbe73edcb9caed2b21ead0e410557adcd122855
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -91,11 +92,25 @@ There are mainly two ways to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -108,21 +123,14 @@ There are mainly two ways to update your graphics driver:
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
@@ -133,19 +141,6 @@ If the issue persists, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
@@ -166,13 +161,6 @@ If the issue persists, move on to the next fix.
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
 
@@ -211,24 +199,17 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-becoming-a-professional-editor-mastering-final-cut-pro/"><u>[New] 2024 Approved Becoming a Professional Editor Mastering Final Cut Pro</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-synthesizing-mood-an-ode-to-trailer-tunes/"><u>[New] 2024 Approved Synthesizing Mood An Ode to Trailer Tunes</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-upload-videos-to-igtv-for-2024/"><u>[New] How to Upload Videos to IGTV for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-visualeye-assessment-tool/"><u>[Updated] In 2024, VisualEye Assessment Tool</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-common-hurdles-starting-genshin-smoothly-every-time/"><u>Bypass Common Hurdles: Starting Genshin Smoothly Every Time</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-recurring-crashes-a-guide-for-world-of-tanks-blitz/"><u>Dealing with Recurring Crashes: A Guide for 'World of Tanks Blitz'</u></a></li>
-<li><a href="https://techidaily.com/expert-advice-how-to-get-your-google-chrome-up-and-running-after-an-unexpected-stop/"><u>Expert Advice: How to Get Your Google Chrome Up and Running After an Unexpected Stop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-the-issue-when-msi-afterburner-doesnt-identify-your-gpu-under-windows-11/"><u>How to Resolve the Issue When MSI Afterburner Doesn't Identify Your GPU Under Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-valorant-from-continuously-crashing-on-your-pc-guide/"><u>How to Stop Valorant From Continuously Crashing on Your PC - Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-40c-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 40C to Outlook | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-video-editing-best-tools-for-short-forms/"><u>In 2024, The Ultimate Guide to Video Editing Best Tools for Short Forms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-yi-cameras-edge-in-cinematic-quality-4k-capture/"><u>In 2024, Yi Camera's Edge in Cinematic Quality 4K Capture</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-issues-with-starting-assassins-creed-the-mirage-game-2024-edition-guide/"><u>Overcoming Issues with Starting Assassin's Creed: The Mirage Game - 2024 Edition Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-common-escape-from-tarkov-pc-game-crash-problem-a-detailed-guide/"><u>Overcoming the Common 'Escape From Tarkov' PC Game Crash Problem: A Detailed Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-quest-unblocked-solving-wrath-of-the-righteous-freezing-challenges-on-your-computer/"><u>Pathfinder Quest Unblocked: Solving 'Wrath of the Righteous' Freezing Challenges on Your Computer</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/quick-troubleshooting-tips-resolving-issues-with-windows-stap-paer-in-windows-7/"><u>Quick Troubleshooting Tips: Resolving Issues with Windows ˈstaʊp ɹɪpaɪər in WINDOWS 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-troubleshooting-failed-to-create-opengl-context-error/"><u>Resolved Issue: Troubleshooting 'Failed to Create OpenGL Context' Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unraveling-the-mystery-behind-avatars-pandora-adventure-and-pc-system-crashes/"><u>Unraveling the Mystery Behind Avatar's Pandora Adventure and PC System Crashes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/zoom-into-adventure-powershot-sx420-review-reveals-42x-focus/"><u>Zoom Into Adventure: PowerShot SX420 Review Reveals 42X Focus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unveiled-revelation-of-hidden-shorts/"><u>[New] 2024 Approved Unveiled Revelation of Hidden Shorts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-avoiding-aerial-blur-essential-tips-for-choosing-a-drone-gimbal/"><u>[New] Avoiding Aerial Blur Essential Tips for Choosing a Drone Gimbal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/edefining-your-viewing-experience-youtube-playlist-shuffle-for-2024/"><u>[New] Redefining Your Viewing Experience YouTube Playlist Shuffle for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zero-to-viral-video-top-10-user-friendly-youtube-concepts/"><u>[Updated] 2024 Approved From Zero to Viral Video Top 10 User-Friendly YouTube Concepts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/busting-the-biggest-misconceptions-the-leading-9-fallacies-about-ai-chatbots/"><u>Busting the Biggest Misconceptions: The Leading 9 Fallacies About AI Chatbots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/case-analysis-tackling-internal-system-breaches-civ-6-exceptional-access-issues-year-2024/"><u>Case Analysis: Tackling Internal System Breaches - CIV 6 Exceptional Access Issues (Year 2024)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-solve-fps-issues-for-an-uninterrupted-resident-evil-village-pc-adventure/"><u>Comprehensive Guide to Solve FPS Issues for an Uninterrupted Resident Evil Village PC Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-dayzones-video-game-crashes-2024-edition/"><u>How to Prevent and Fix DayZones Video Game Crashes - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-easy-with-fixed-pathfinder-wrath-of-the-righteeus/"><u>PC Gaming Made Easy with Fixed Pathfinder: Wrath of the Righteeus</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-how-to-resolve-missing-sound-devices-on-windows-10-8-and-7/"><u>Troubleshooting Audio Problems: How to Resolve Missing Sound Devices on Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-10-users-guide-resolving-recurrent-microsoft-edge-app-crashes-successfully/"><u>Windows 10 Users' Guide: Resolving Recurrent Microsoft Edge App Crashes Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/zoom-video-convenience-with-our-best-6-cams-selection/"><u>Zoom Video Convenience with Our Best 6 Cams Selection</u></a></li>
 </ul></div>
 

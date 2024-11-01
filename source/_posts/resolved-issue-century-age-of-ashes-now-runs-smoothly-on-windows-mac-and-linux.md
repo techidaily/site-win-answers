@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Century: Age of Ashes Now Runs Smoothly on Windows, Mac, & Linux"
-date: 2024-10-24T16:33:55.166Z
-updated: 2024-10-26T17:35:48.635Z
+date: 2024-10-31T10:57:33.147Z
+updated: 2024-10-31T18:59:38.950Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The game not launching problem could mean that some game files are missing or corrupted. In either cases, you can simply run an integrity check to get your game working:
@@ -41,13 +48,6 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 2. Navigate to the**LIBRARY** tab. Find**Hitman 3** and click the**three dots** icon.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-1.jpg)
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
 
@@ -65,24 +65,30 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
@@ -90,6 +96,13 @@ Here’s how:
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -139,41 +152,28 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -198,19 +198,20 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-trim-the-excessive-green-revamping-youtubes-on-a-mac/"><u>[New] Trim the Excessive Green Revamping YouTubes on a Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-enable-zoom-grid-on-google-meet/"><u>[Updated] In 2024, Enable Zoom Grid on Google Meet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-transforming-education-with-instructional-videos/"><u>2024 Approved Transforming Education with Instructional Videos</u></a></li>
-<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-m54-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy M54 5G in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-to-transform-webm-videos-into-wmv-file-type-without-internet-access/"><u>Effective Techniques to Transform WebM Videos Into WMV File Type without Internet Access</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-methods-how-to-transform-your-powerpoint-presentations-into-videos/"><u>Effortless Methods: How to Transform Your PowerPoint Presentations Into Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-streaming-with-webm-transform-your-dvds-into-digital-content/"><u>Effortless Streaming with WebM: Transform Your DVDs Into Digital Content</u></a></li>
-<li><a href="https://win-answers.techidaily.com/examining-freemake-video-editor-safety-checks-no-charge-usage-and-benefits/"><u>Examining Freemake Video Editor: Safety Checks, No Charge Usage & Benefits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-isolating-and-recording-game-audio-using-obs-software/"><u>Expert Guide: Isolating and Recording Game Audio Using OBS Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-organizing-tunes-with-ease-crafting-vlc-playlists-for-desktop-and-android-devices/"><u>Guide to Organizing Tunes with Ease: Crafting VLC Playlists for Desktop and Android Devices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ideal-image-recovery-suite/"><u>Ideal Image Recovery Suite</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-pdhdll-not-detected-comprehensive-solutions/"><u>Resolving pdh.dll Not Detected: Comprehensive Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-changing-a-different-accounts-password-on-windows/"><u>Step-by-Step Guide: Changing a Different Account's Password on Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-10-innovative-screencasting-solutions-for-modern-teachers/"><u>[New] 2024 Approved 10 Innovative Screencasting Solutions for Modern Teachers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-5-easy-ways-to-capture-and-save-your-youtube-content/"><u>[New] 2024 Approved 5 Easy Ways to Capture and Save Your YouTube Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-smart-guide-to-procuring-premium-image-banners/"><u>[New] 2024 Approved The Smart Guide to Procuring Premium Image Banners</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-shade-adjustments-simplified-learn-with-these-11-guides-for-2024/"><u>[New] Shade Adjustments Simplified - Learn with These 11 Guides for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamless-audio-edits-with-garageband-features/"><u>[Updated] 2024 Approved Seamless Audio Edits with GarageBand Features</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-12-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus 12 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994845767-breaking-news-mystery-solved-mafia-definitive-edition-hits-shelves-soon/"><u>Breaking News: Mystery Solved – Mafia: Definitive Edition Hits Shelves Soon!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-to-resolve-manor-lords-stalling-issues-in-pc-gaming/"><u>Complete Guide to Resolve Manor Lords Stalling Issues in PC Gaming</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-profits-youtubes-studio-monetization-simplified/"><u>Elevate Your Profits YouTube's Studio Monetization Simplified</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-70-lite-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor 70 Lite 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-samurai-warriors-5-from-crashing-on-your-windows-computer/"><u>How to Prevent Samurai Warriors 5 From Crashing on Your Windows Computer?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mordhau-crash-fix-step-by-step-solutions-to-stable-playing/"><u>Mordhau Crash Fix: Step-by-Step Solutions to Stable Playing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-launch-problems-in-call-of-duty-modern-warfare-3-quick-guide/"><u>Resolving Launch Problems in Call of Duty: Modern Warfare 3 - Quick Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-lag-in-fortnite-expert-tips-for-smoother-gameplay/"><u>Winning Against Lag in Fortnite: Expert Tips for Smoother Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Game Stability Guide: Eliminating 'Tribes of Midgard' Performance Problems and Crashes"
-date: 2024-09-01T04:17:55.416Z
-updated: 2024-09-02T04:17:55.416Z
+date: 2024-10-30T01:19:21.968Z
+updated: 2024-11-01T01:57:55.533Z
 tags:
   - win11
   - win10
@@ -26,15 +26,19 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 5. [Disable NVIDIA Turf Effects](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall your game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Do not overclock your CPU
 
  Overclocking your CPU will bring the best performance when playing games. However, this can cause your game to crash when increasing your CPU frequency.
 
  So if your computer is overclocking your CPU, try to**set it back to default** and see if it helps with your Final Fantasy crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify the game files
 
  Final Fantasy may crash if there is any corrupted game file, so you can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -45,16 +49,17 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right click on your game (for example, Final Fantasy XV), and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap35.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap36.jpg)
@@ -87,9 +92,6 @@ This requires time and computer skills.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  3) Click**Driver Restore** . Then click**Browse…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap39.jpg)
@@ -112,30 +114,32 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) When the**System Properties** pane pops up, click**Settings** under the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Click the**Advanced** tab on**Performance Options** , then click**Change** under the**Virtual memory** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap44.jpg)
@@ -158,6 +162,13 @@ To do so, follow these steps:
 
  Open Final Fantasy and see if it stops crashing. Still no luck? Don’t give up hope. There are other solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable NVIDIA Turf Effects
 
  NVIDIA Turf Effects simulates and renders large grass areas, which provides you with a best possible experience when playing Final Fantasy. However, Turf Effects may cause a memory problem and that could be a reason of your game crashing.
@@ -171,13 +182,24 @@ To resolve Final Fantasy crashing, you can disable NVIDIA Turf Effects.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap51.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Save your changes and relaunch FFXV.
 
  If you can’t open Settings in Final Fantasy XV, you can modify the game settings file in your computer, and change**NvidiaTurf=0** . This will disable NVIDIA Turf Effects for your game.
 
 Hopefully your game will be running up again properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your game
 
@@ -194,8 +216,6 @@ Hopefully your game will be running up again properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +223,23 @@ Hopefully your game will be running up again properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>[New] Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-a-gamers-guide-to-twisting-videos-on-youtube-2e/"><u>[Updated] In 2024, A Gamer's Guide to Twisting Videos on YouTube (2E)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-mastering-keywords-the-best-7-no-cost-youtube-taggers/"><u>[Updated] In 2024, Mastering Keywords The Best 7 No-Cost Youtube Taggers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024-ultimate-tips-for-immediate-resolution-of-battlefield-5-wont-start-glitch/"><u>2024 Ultimate Tips for Immediate Resolution of Battlefield 5 Won't Start Glitch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/artificial-intelligence-lexicon-breaking-down-complex-words/"><u>Artificial Intelligence Lexicon: Breaking Down Complex Words</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/black-friday-shockwave-how-virtual-reality-headsets-beat-apples-airpods-in-sales/"><u>Black Friday Shockwave: How Virtual Reality Headsets Beat Apple's AirPods in Sales!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009123796-centipede-glitch-in-destiny-2-heres-how-to-solve-it/"><u>Centipede Glitch in Destiny 2? Here's How to Solve It!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-the-ultimate-documentary-experience-for-2024/"><u>Crafting the Ultimate Documentary Experience for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-solutions-for-high-cpu-usage-spikes-when-gaming-on-phasmophobia/"><u>DIY Solutions for High CPU Usage Spikes When Gaming on Phasmophobia</u></a></li>
+<li><a href="https://fox-access.techidaily.com/harnessing-household-light-use-of-outdoor-elements-for-2024/"><u>Harnessing Household Light Use of Outdoor Elements for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-leveraging-likes-and-shares-for-viral-content/"><u>In 2024, Leveraging Likes and Shares for Viral Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mount-and-blade-ii-bannerlord-resolving-the-game-crash-issues/"><u>Mount & Blade II: Bannerlord - Resolving the Game Crash Issues</u></a></li>
+<li><a href="https://windows11.techidaily.com/trimming-excessive-load-reducing-the-burden-of-user-mode-services-on-pcs/"><u>Trimming Excessive Load: Reducing the Burden of User-Mode Services on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-constant-deathloop-game-crashes-on-windows-computers-a-comprehensive-guide/"><u>Troubleshooting and Resolving Constant DeathLoop Game Crashes on Windows Computers: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-full-access-to-your-vr-world-overcoming-startup-problems/"><u>Unlocking Full Access to Your VR World: Overcoming Startup Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-challenges-for-the-anticipated-diablo-ii-resurrected-rollout/"><u>Unveiling Challenges for the Anticipated Diablo II Resurrected Rollout</u></a></li>
+</ul></div>
 

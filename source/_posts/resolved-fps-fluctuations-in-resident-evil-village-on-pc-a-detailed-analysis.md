@@ -1,7 +1,7 @@
 ---
 title: "Resolved: FPS Fluctuations in Resident Evil Village on PC - A Detailed Analysis"
-date: 2024-10-20T16:45:20.984Z
-updated: 2024-10-26T17:34:11.660Z
+date: 2024-10-28T09:02:30.166Z
+updated: 2024-11-01T02:35:16.253Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Rename the exe file
@@ -50,10 +50,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Run the game as an administrator
@@ -83,14 +83,14 @@ There are mainly two ways you can do this:
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
-![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
@@ -114,44 +114,45 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -176,22 +177,15 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-10-speed-up-apps-for-mobile-music-and-podcasts/"><u>[Updated] 10 Speed-Up Apps for Mobile Music and Podcasts</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-tips-for-designing-and-updating-igtv-thumbnails-for-2024/"><u>[Updated] Tips for Designing & Updating IGTV Thumbnails for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/re-spectacular-video-on-youtube-top-webcam-picks-for-2024/"><u>Capture Spectacular Video on YouTube Top Webcam Picks for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-level-webcams-the-ultimate-choice-for-your-podcasts/"><u>In 2024, Pro Level Webcams The Ultimate Choice for Your Podcasts</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/iphone-podcast-downloading-essentials-a-complete-walkthrough/"><u>IPhone Podcast Downloading Essentials A Complete Walkthrough</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/learn-urdu-swiftly-with-daily-10-minute-intervals/"><u>Learn Urdu Swiftly with Daily 10-Minute Intervals</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-optimizing-video-output-a-comprehensive-guide-to-compressor-in-fcpx/"><u>New In 2024, Optimizing Video Output A Comprehensive Guide to Compressor in FCPX</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-conversion-transforming-your-avchd-video-to-prores-format/"><u>Seamless Conversion: Transforming Your AVCHD Video to ProRes Format</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/secure-the-latest-apple-watch-series-eax-before-release-with-expert-advice-and-money-saving-hacks-s-guide/"><u>Secure the Latest Apple Watch Series Eax Before Release with Expert Advice and Money-Saving Hacks 'S Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-steps-to-grab-your-and-others-twitch-channel-vods/"><u>Simple Steps to Grab Your and Others’ Twitch Channel VODs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-vts-file-compatibility-the-ultimate-windows-friendly-video-player/"><u>Simple VTS File Compatibility: The Ultimate Windows-Friendly Video Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-youtube-video-playback-issues-no-more-stutters-or-lags/"><u>Solve Your YouTube Video Playback Issues - No More Stutters or Lags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speedy-audio-editing-tips-switching-from-flac-to-ac3-in-no-time/"><u>Speedy Audio Editing Tips: Switching From FLAC to AC3 in No Time!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-recording-audio-with-a-built-in-microphone-on-windows-10/"><u>Step-by-Step Guide: Recording Audio with a Built-In Microphone on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-seamlessly-watching-usb-media-on-a-panasonic-tv-setup/"><u>Step-by-Step Guide: Seamlessly Watching USB Media on a Panasonic TV Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-watching-videos-from-a-usb-flash-drive-on-your-philips-television/"><u>Step-by-Step Guide: Watching Videos From a USB Flash Drive on Your Philips Television</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-mastering-ps4-captures-with-obs-studio-your-complete-guide/"><u>[Updated] 2024 Approved Mastering PS4 Captures with OBS Studio - Your Complete Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-the-art-of-acquiring-facebooks-prestigious-blue-badge/"><u>[Updated] In 2024, Mastering the Art of Acquiring Facebook's Prestigious Blue Badge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-problematic-warnings-on-voice-chats-a-step-by-step-guide/"><u>Fixing Problematic Warnings on Voice Chats: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-digital-canvas-unveiled-top-8-ipados-creators-choice/"><u>In 2024, Digital Canvas Unveiled Top 8 iPadOS Creators' Choice</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-realme-gt-3-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Realme GT 3</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-13-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone 13 to Android | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-subnautica-underwater-adventure-crash-problems-on-windows-machines/"><u>Overcoming Subnautica Underwater Adventure Crash Problems on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013442900-quick-solutions-overcome-battlefield-5-not-starting-problem-in-minutes/"><u>Quick Solutions: Overcome 'Battlefield 5 Not Starting' Problem in Minutes!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/swift-shadowing-secrets-for-2024/"><u>Swift Shadowing Secrets for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-resolving-call-of-duty-vanguards-pc-malfunctions-in-the-2-24-release/"><u>The Ultimate Guide to Resolving Call of Duty: Vanguard's PC Malfunctions in the 2지-24 Release</u></a></li>
 </ul></div>
 

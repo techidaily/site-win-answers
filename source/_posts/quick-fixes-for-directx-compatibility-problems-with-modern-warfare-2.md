@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2024-10-25T17:45:41.161Z
-updated: 2024-10-26T16:08:33.211Z
+date: 2024-10-28T07:10:51.807Z
+updated: 2024-11-01T09:21:38.255Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run WWE 2K20 as administrator
@@ -58,13 +58,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
@@ -72,6 +65,13 @@ Here is how to do it:
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -86,10 +86,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
@@ -110,13 +110,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -126,6 +119,13 @@ Here is how to do it:
 5) Run the game again to see if the crashing issue is solved. If yes, then congrats! If it still crashes, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -155,13 +155,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
@@ -171,15 +164,22 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -204,24 +204,17 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-a-simple-yet-effective-guide-for-starting-a-skype-group-discussion-across-different-os-platforms-for-2024/"><u>[New] A Simple yet Effective Guide for Starting a Skype Group Discussion Across Different OS Platforms for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-fixing-obscured-content-on-youtube-platform/"><u>[New] In 2024, Fixing Obscured Content on YouTube Platform</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-vision-quest-movies-in-augmented-reality/"><u>[New] In 2024, Vision Quest Movies in Augmented Reality</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-videos-integrating-into-ppt-4-techniques/"><u>[New] Mastering YouTube Videos Integrating Into PPT (4 Techniques)</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-empower-your-content-advanced-techniques-in-youtube-editing/"><u>[Updated] Empower Your Content Advanced Techniques in YouTube Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-6-free-software-to-convert-youtube-to-mp3-for-iphone/"><u>[Updated] In 2024, 6 Free Software to Convert YouTube to MP3 for iPhone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-enhancement-on-windows-n-the-gpu-factor/"><u>Cyberpunk 2077 Performance Enhancement on Windows N: The GPU Factor</u></a></li>
-<li><a href="https://windows11.techidaily.com/essential-notepad-tools-winning-for-pen-tablets/"><u>Essential Notepad Tools: Winning For Pen-Tablets</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-fixing-battlefront-ii-crash-issues-on-windows-systems/"><u>Fixes for Fixing 'Battlefront II' Crash Issues on Windows Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-revive-your-apple-watchs-touch-screen-when-it-wont-respond-anymore/"><u>How to Revive Your Apple Watch's Touch Screen When It Won't Respond Anymore</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-samurai-in-yakuza-like-a-dragon-now-flourishing-on-steam/"><u>Master the Art of Samurai in 'Yakuza: Like a Dragon' - Now Flourishing on Steam</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-mordhau-stalling-issues-with-these-proven-fix-techniques/"><u>Overcome Mordhau Stalling Issues with These Proven Fix Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-ending-the-nightmare-of-recurring-hell-let-loose-crashes/"><u>PC Gamers Rejoice! Ending the Nightmare of Recurring Hell Let Loose Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rapid-remedies-for-when-fortnite-wont-load-correctly/"><u>Rapid Remedies for When Fortnite Won't Load Correctly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simplifying-bandw-videography-the-best-no-fuss-editors-for-professionals/"><u>Simplifying B&W Videography: The Best No-Fuss Editors for Professionals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-for-pathfinder-game-crashes-and-freezes-on-desktop-computers/"><u>Solution Found for Pathfinder Game Crashes and Freezes on Desktop Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-for-when-minecraft-refuses-to-start-easy-solutions-unveiled/"><u>The Ultimate Fix for When Minecraft Refuses to Start: Easy Solutions Unveiled</u></a></li>
-<li><a href="https://fox-access.techidaily.com/transforming-your-content-delivery-the-power-of-onestream-for-2024/"><u>Transforming Your Content Delivery The Power of OneStream for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-fix-sea-of-thieves-persistent-loading-screens-easily/"><u>Troubleshoot & Fix Sea of Thieves Persistent Loading Screens Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-elite-portables-cutting-edge-4k-video-creation-machines/"><u>[New] Elite Portables Cutting-Edge 4K Video Creation Machines</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos/"><u>[New] In 2024, Perfecting Motion Capture A Guide to GoPro Time Lapse Photos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024-guide-overcoming-persistent-gameplay-issues-with-call-of-duty-vanguard-on-pc/"><u>2024 Guide: Overcoming Persistent Gameplay Issues with Call of Duty Vanguard on PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/beginning-anew-on-social-media-crafting-your-x-account-from-scratch/"><u>Beginning Anew on Social Media: Crafting Your X Account From Scratch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/best-in-class-tools-merging-gpt-with-vs-code-effortlessly/"><u>Best-in-Class Tools: Merging GPT with VS Code Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-color-shifts-and-image-distortion-problems-with-your-monitor/"><u>How to Resolve Color Shifts and Image Distortion Problems with Your Monitor</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-hurdles-successful-steps-to-get-warzone-running-smoothly-again/"><u>Overcoming Hurdles: Successful Steps to Get Warzone Running Smoothly Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-fixing-the-easyais-anti-cheat-not-found-on-eac/"><u>Resolved Issue: Fixing the 'EasyAI's Anti-Cheat Not Found' On EAC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-hurdle-of-launching-steam-games-on-windows-11/"><u>Solved! Overcoming the Hurdle of Launching Steam Games on Windows 11</u></a></li>
+<li><a href="https://win11.techidaily.com/swipe-right-apk-installation-on-win-11-with-one-click/"><u>Swipe Right: APK Installation on Win 11 with One Click</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-gzw-game-crashes-for-pc-users-tips-and-solutions/"><u>Troubleshooting GZW Game Crashes for PC Users - Tips & Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unleash-your-creative-potential-free-voice-effects-at-hand-for-2024/"><u>Unleash Your Creative Potential Free Voice Effects at Hand for 2024</u></a></li>
 </ul></div>
 

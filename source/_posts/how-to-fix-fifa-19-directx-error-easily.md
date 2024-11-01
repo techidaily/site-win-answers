@@ -1,7 +1,7 @@
 ---
 title: How To Fix FIFA 19 DirectX Error Easily
-date: 2024-10-19T17:32:43.063Z
-updated: 2024-10-26T17:20:06.514Z
+date: 2024-10-26T01:55:09.932Z
+updated: 2024-10-31T21:59:33.572Z
 tags:
   - win11
   - win10
@@ -33,16 +33,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 3. [**Check if your PC meets the system requirements for FIFA 19**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -63,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -70,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 5) Play FIFA and check to see if the DirectX error is resolved. If yes, then great! If it still occurs, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update DirectX
 
@@ -121,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -132,16 +126,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -172,18 +160,17 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-tying-iphone-videos-in-seamless-bundles/"><u>[New] 2024 Approved Tying IPhone Videos in Seamless Bundles</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-the-square-wave-of-facebook-video-popularity/"><u>[New] Navigating the Square Wave of Facebook Video Popularity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-for-enhanced-kinemaster-frame-focus/"><u>[Updated] Expert Tips for Enhanced Kinemaster Frame Focus</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-virtual-trips-unveiled-top-10-iphoneandroid-apps-for-2024/"><u>[Updated] Virtual Trips Unveiled Top 10 iPhone/Android Apps for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/amd-woes-in-eft-simple-cure/"><u>AMD Woes in EFT, Simple Cure</u></a></li>
-<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteeous-crash-troubleshooting-guide/"><u>Pathfinder: Wrath of the Righteeous Crash Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-enjoy-flv-content-without-hitches-on-ios-devices/"><u>Step-by-Step Tutorial: Enjoy FLV Content without Hitches on iOS Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-transforming-mp4-videos-into-mkv-format-for-pc-and-mac-users/"><u>Step-by-Step Tutorial: Transforming MP4 Videos Into MKV Format for PC and Mac Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-selecting-optimal-youtube-video-frame-rates/"><u>The Ultimate Guide: Selecting Optimal YouTube Video Frame Rates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-12-high-quality-mp3-players-unleash-free-music-downloads/"><u>Top 12 High-Quality MP3 Players: Unleash Free Music Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-8-recommended-sites-for-streaming-dubbed-anime-online/"><u>Top 8 Recommended Sites for Streaming Dubbed Anime Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-rated-mp4-converters-from-dvd-compatible-with-windows-10-and-11/"><u>Top-Rated MP4 Converters From DVD : Compatible with Windows 10 & 11</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-edit-and-organize-mp4-video-tags-with-ease/"><u>Updated Edit and Organize MP4 Video Tags with Ease</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-invisible-viewers-of-fb-episodes/"><u>[New] 2024 Approved Invisible Viewers of Fb Episodes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximize-profitability-the-dos-and-donts-of-youtube-monetization-for-2024/"><u>[New] Maximize Profitability – The Do's and Don'ts of YouTube Monetization for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-10-engaging-screen-free-mobile-games-for-android-users/"><u>[New] Top 10 Engaging Screen-Free Mobile Games for Android Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-streaming-for-performance-artists/"><u>2024 Approved Premiere Streaming for Performance Artists</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-call-of-duty-warzones-erroneous-readings-a-guide-for-code-50-31-on-pc/"><u>Bypassing Call of Duty: Warzone's Erroneous Readings - A Guide for Code [5.0, 3.1] on PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-benefits-of-the-oneplus-6t-a-balance-of-price-and-power/"><u>Discovering the Benefits of the OnePlus 6T - A Balance of Price and Power</u></a></li>
+<li><a href="https://win11.techidaily.com/expert-guide-to-adjusting-directory-displays-on-windows-11/"><u>Expert Guide to Adjusting Directory Displays on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/liberating-your-media-experience-free-movplay-software/"><u>Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-2024s-challenges-with-finale-launch-troubleshooting-techniques/"><u>Overcoming 2024'S Challenges with Finale Launch Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011690030-resident-evil-village-pc-stability-fixes-get-uninterrupted-gaming/"><u>Resident Evil Village PC Stability Fixes - Get Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-amd-radeon-software-launch-failures/"><u>Troubleshooting Steps for Resolving 'AMD Radeon Software' Launch Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolve-crashes-in-diablo-4-for-pc-ps5-and-xbox/"><u>Ultimate Troubleshooting Guide: Resolve Crashes in Diablo 4 for PC, PS5 & Xbox</u></a></li>
 </ul></div>
 

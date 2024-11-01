@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Launcher Fix: How to Get Past a Perpetual Loading Screen"
-date: 2024-10-22T17:42:13.393Z
-updated: 2024-10-26T17:44:48.713Z
+date: 2024-10-29T18:09:56.422Z
+updated: 2024-10-31T21:31:08.251Z
 tags:
   - win11
   - win10
@@ -53,13 +53,6 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
@@ -76,15 +69,28 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right click**Anthem** , and click**Move game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
@@ -110,6 +116,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
@@ -119,6 +132,13 @@ Here’s how to do it:
  6) Once finished, restart your computer and launch Anthem.
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 3: Update your drivers
 
@@ -166,22 +186,15 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart Origin and Anthem to see how it works.
@@ -200,29 +213,9 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Re-launch your game and see if how it works.
 
@@ -239,10 +232,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
@@ -250,6 +243,13 @@ Here’s what you need to do:
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -275,19 +275,22 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-efficient-methods-for-android-screen-recordings/"><u>[New] In 2024, Efficient Methods for Android Screen Recordings</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ceased-shorts-missing-on-youtube-screen-for-2024/"><u>[Updated] Ceased Shorts Missing on YouTube Screen for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-core-auditory-stimulation-channels/"><u>2024 Approved Core Auditory Stimulation Channels</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-perfect-your-videos-captions-with-10plus-top-free-converters/"><u>2024 Approved Perfect Your Videos' Captions with 10+ Top FREE Converters</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-vuephoto-ai-enhancement-showcase/"><u>2024 Approved VuePhoto AI Enhancement Showcase</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/implement-now-eight-cutting-edge-ai-language-models-for-personalization/"><u>Implement Now: Eight Cutting-Edge AI Language Models for Personalization</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>In 2024, Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-transforming-raw-footage-into-masterpieces-sony-camcorder-video-editing/"><u>New Transforming Raw Footage Into Masterpieces Sony Camcorder Video Editing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-integration-of-the-rogue-one-add-on-into-kodis-leia-framework/"><u>Seamless Integration of the Rogue One Add-On Into Kodi's LEIA Framework</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-media-playback-across-all-device-formats/"><u>Seamless Media Playback Across All Device Formats</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamlessly-change-your-dvd-format-a-step-by-step-guide-on-converting-pal-to-ntsc-using-handbrake/"><u>Seamlessly Change Your DVD Format: A Step-by-Step Guide on Converting PAL to NTSC Using Handbrake</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speed-up-your-hd-content-rip-and-convert-dvds-using-format-factory-to-mp4-or-avi/"><u>Speed Up Your HD Content: Rip & Convert DVDs Using Format Factory to MP4 or AVI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/spread-the-love-share-your-favorite-free-swf-video-converter/"><u>Spread the Love - Share Your Favorite Free SWF Video Converter!</u></a></li>
-<li><a href="https://windows11.techidaily.com/top-7-fixes-for-rename-restrictions-on-files-and-directories-of-windows-11/"><u>Top 7 Fixes for Rename Restrictions on Files and Directories of Windows 11</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-tweet-transformation-techniques-for-free-gifs-for-2024/"><u>[New] Tweet Transformation Techniques for Free GIFs for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-start-off-right-top-gear-for-aspiring-gopro-users/"><u>2024 Approved Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/apods-made-simple-the-ultimate-audio-solution/"><u>APods Made Simple The Ultimate Audio Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deploying-ai-agents-using-agentgpt-from-a-web-browser-a-comprehensive-guide/"><u>Deploying AI Agents Using AgentGPT From a Web Browser: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-control-woes-in-resident-evil-village-a-guide-for-mouse-troubleshooting/"><u>Fix Your Control Woes in Resident Evil Village: A Guide for Mouse Troubleshooting</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/fixing-network-path-not-found-and-pxe-issues-effective-strategies-for-users/"><u>Fixing 'Network Path Not Found' & PXE Issues: Effective Strategies for Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-issues-troubleshooting-guide-for-windows-users/"><u>Fixing Logitech G Hub Issues: Troubleshooting Guide for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-repairing-steam-cloud-disconnection-errors-successfully/"><u>Guide to Repairing Steam Cloud Disconnection Errors Successfully</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-14-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi 14 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-scoop-the-real-reason-behind-assassins-creed-valhallas-postponed-launch/"><u>Inside Scoop: The Real Reason Behind Assassin's Creed Valhalla's Postponed Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-beware-how-to-prevent-the-ascent-from-malfunctioning-and-crashing/"><u>PC Gamers Beware! How to Prevent 'The Ascent' From Malfunctioning and Crashing</u></a></li>
+<li><a href="https://fox-that.techidaily.com/pharmacogenomics-is-becoming-increasingly-important-in-understanding-individual-responses-to-beta-blockers-based-on-genetic-differences-in-drug-metabolism.m8/"><u>Pharmacogenomics Is Becoming Increasingly Important in Understanding Individual Responses to Beta Blockers Based on Genetic Differences in Drug Metabolism.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-game-freezes-effective-solutions-to-prevent-titanfall-2-crashes/"><u>Resolving Game Freezes: Effective Solutions to Prevent Titanfall 2 Crashes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/revealing-the-secrets-behind-tesla-vehicle-range-estimations-and-algorithm-designs/"><u>Revealing the Secrets Behind Tesla Vehicle Range Estimations and Algorithm Designs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-call-of-duty-warzone-launching-issues/"><u>Solution Steps for Call of Duty Warzone Launching Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-proven-effective-for-stabilizing-aow-planetfall-performance-on-pc-systems/"><u>Solutions Proven Effective for Stabilizing AoW Planetfall Performance on PC Systems</u></a></li>
 </ul></div>
 

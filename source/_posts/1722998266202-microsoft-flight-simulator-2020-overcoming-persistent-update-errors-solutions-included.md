@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Flight Simulator 2020: Overcoming Persistent Update Errors - Solutions Included!"
-date: 2024-10-20T17:52:57.226Z
-updated: 2024-10-26T16:30:30.383Z
+date: 2024-10-29T16:33:12.714Z
+updated: 2024-11-01T03:18:13.105Z
 tags:
   - win11
   - win10
@@ -55,13 +55,6 @@ thumbnail: https://thmb.techidaily.com/05c8c6fd73c6fec22a2f538188954b893a706bcf3
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
@@ -104,20 +97,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
@@ -138,10 +124,10 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
@@ -182,6 +168,14 @@ on Windows 10:
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 
@@ -192,19 +186,19 @@ on Windows 10:
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 on Windows 11:
@@ -214,28 +208,28 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
@@ -283,6 +277,13 @@ If this method doesn’t solve your problem, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -326,22 +327,19 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-streaming-fb-content-on-apple-tv-a-step-by-step-guide/"><u>[New] In 2024, Streaming FB Content on Apple TV A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-tickler-toolkit-image-mashup/"><u>[Updated] Tickler Toolkit Image Mashup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44oh44kj44k644ol44o844ox44op44k544gu44k344on44o844oi44kr44od44oi44gn5yq5546h44ki44gp6kiy6yyy44gz44kl5oml5byv44gn44cn/"><u>「ディズニープラスのショートカットで効率よく記録する手引き」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/5yuv55s744g444gu44k44kk44oi44or5luy44gric0g5pya6ygp44gq5oim55wl/"><u>動画へのタイトル付け - 最適な戦略</u></a></li>
-<li><a href="https://win-answers.techidaily.com/advanced-dvd-unpacking-tool-transform-low-res-dvds-into-high-definition-format/"><u>Advanced DVD Unpacking Tool: Transform Low-Res DVDs Into High-Definition Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-8-compatible-audio-converters-ac3-devices-and-apps-for-all-your-os-needs/"><u>Best 8 Compatible Audio Converters (AC3) Devices & Apps for All Your OS Needs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-dvd-intros-tips-for-skipping-previews-commercials-and-alert-messages/"><u>Bypassing DVD Intros: Tips for Skipping Previews, Commercials & Alert Messages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cfrvfr2024/"><u>CFRへのVFR変換技術：最新版「2024年３方法をご案内」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-walkthrough-for-installing-mad-titan-sports-extension-on-kodis-latest-version-nexus/"><u>Complete Walkthrough for Installing Mad Titan Sports Extension on Kodi's Latest Version (Nexus)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-concept-to-creation-making-a-dynamic-podcast-teaser-for-2024/"><u>From Concept to Creation Making a Dynamic Podcast Teaser for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-8-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-calming-harmonics-windowsmac-direction/"><u>In 2024, Calming Harmonics Windows/Mac Direction</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-poco-x5-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Poco X5 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-converting-ogm-video-format-into-mp4/"><u>Step-by-Step Guide: Converting OGM Video Format Into MP4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44or44k944kz44oz44gr44gm5yuv55s76zplusz6yep6kq5pw0ic0g5pya6ygp5yyw44ks44kk44oj/"><u>パソコンにて動画音量調整 - 最適化ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005077392-solved-fortnite-login-failed-quickly-and-easily/"><u>[SOLVED] | Fortnite Login Failed | Quickly & Easily</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-download-free-preview-clip-kits/"><u>[Updated] 2024 Approved Download Free Preview Clip Kits</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-design-memes-in-adobe-for-2024/"><u>[Updated] Design Memes in Adobe for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-eco-editing-tools-no-charge-for-2024/"><u>[Updated] Eco Editing Tools No Charge for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/descargas-gratuitas-de-conversion-a-linea-para-archivos-aac/"><u>Descargas Gratuitas De Conversión a Línea Para Archivos AAC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dota-tot-2022-anti-cheat-alert-steps-to-restore-and-recover-your-gaming-status/"><u>Dota ˈToʊt 2022 Anti-Cheat Alert: Steps to Restore and Recover Your Gaming Status</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/get-ahead-of-the-curve-everything-you-need-to-know-about-apples-series-8-smartwatch-specs-release-timeline-and-price-tag/"><u>Get Ahead of the Curve: Everything You Need to Know About Apple's Series 8 Smartwatch – Specs, Release Timeline & Price Tag</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-broadcast-gaming-sessions-successfully-a-complete-guide-to-live-streaming-on-hitbox/"><u>How to Broadcast Gaming Sessions Successfully: A Complete Guide to Live Streaming on Hitbox</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/julys-exclusive-apple-product-deals-iphones-watches-and-tablets-at-unbeatable-prices-discover-the-best-offers-with-zdnet/"><u>July's Exclusive Apple Product Deals: IPhones, Watches, and Tablets at Unbeatable Prices | Discover the Best Offers with ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-performance-boost-resolving-server-latency-issues-once-and-for-all/"><u>League of Legends Performance Boost: Resolving Server Latency Issues Once & For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990481086-minecraft-display-woes-clear-the-darkness-with-our-latest-fixes/"><u>Minecraft Display Woes? Clear the Darkness with Our Latest Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mobile-users-manual-how-to-run-driver-easy-in-a-portable-format/"><u>Mobile User’s Manual: How to Run Driver Easy in a Portable Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobia-update-woes-solutions-for-the-notorious-stuck-at-warty-90-screen-problem/"><u>Phasmophobia Update Woes? Solutions for the Notorious Stuck at Warty 90% Screen Problem!</u></a></li>
+<li><a href="https://discover-data.techidaily.com/step-by-step-tutorial-saving-magic-stream-content-as-mp4-or-avi-on-macos-and-windows-systems/"><u>Step-by-Step Tutorial: Saving Magic Stream Content as MP4 or AVI on macOS and Windows Systems</u></a></li>
 </ul></div>
 

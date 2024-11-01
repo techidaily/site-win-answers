@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Boost FPS in Ring of Elysium"
-date: 2024-10-20T16:25:09.899Z
-updated: 2024-10-26T17:21:34.071Z
+date: 2024-10-30T11:17:48.256Z
+updated: 2024-11-01T07:23:59.847Z
 tags:
   - win11
   - win10
@@ -45,20 +45,27 @@ You may not have to try them all. Just choose the one you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-26.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Quality** tab, and then modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**Apply** , then relaunch your game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
 
@@ -98,29 +105,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Change the power option
 
@@ -131,10 +118,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
@@ -151,6 +138,13 @@ OR
 
  Restart your computer, and then relaunch your game to see if this worked for you.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 4: Configure your graphics settings
 
  Another method to boost your game’s FPS is to optimize your graphics settings. Here is how to do it:
@@ -165,16 +159,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
 <!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Click**Manage 3D settings** , then**Program Settings** .
@@ -190,28 +178,28 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Gaming** , then**Global Settings** .
 
@@ -222,10 +210,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
@@ -257,24 +245,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-art-of-hiding-while-livestreaming-on-instagram/"><u>[New] 2024 Approved The Art of Hiding While Livestreaming on Instagram</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-to-acquire-standardized-thumbnails-from-youtube-online-and-desktop-options-for-2024/"><u>[New] How To Acquire Standardized Thumbnails From Youtube Online & Desktop Options for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-sifting-through-the-elements-of-instagram-stories/"><u>[New] In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleash-content-potential-how-to-increase-video-views-on-youtube/"><u>[New] Unleash Content Potential How to Increase Video Views on YouTube</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-leading-5-photo-background-modifier-tools-x87-series/"><u>[Updated] 2024 Approved Leading 5 Photo Background Modifier Tools X/8/7 Series</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-androids-free-video-chat-alternatives-top-list/"><u>[Updated] In 2024, Android's Free Video Chat Alternatives Top List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-vigorous-voice-examination-iteration-no-8/"><u>2024 Approved Vigorous Voice Examination - Iteration No. 8</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-sony-xperia-10-v-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Sony Xperia 10 V Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-update-fixing-persistent-directx-error-messages/"><u>Battlefield 2042 Update: Fixing Persistent DirectX Error Messages</u></a></li>
-<li><a href="https://win-dash.techidaily.com/disabling-internet-explorers-smartscreen-protection-on-windows-108-a-comprehensive-tutorial/"><u>Disabling Internet Explorer's SmartScreen Protection on Windows 10/8 - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Discord Overlay Not Responding? Here's How to Get It Working Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-strategies-to-combat-last-epoch-crashing-on-your-pc/"><u>Expert Strategies to Combat 'Last Epoch Crashing' On Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-horizon-zero-dawn-pc-crashes-with-this-simple-solution/"><u>Fix Horizon Zero Dawn PC Crashes with This Simple Solution!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-black-screen-issue-when-launching-elden-ring-troubleshooting-guide/"><u>Fixing the 'Black Screen' Issue When Launching Elden Ring: Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-doom-eternal-continuous-crashes-proven-techniques-inside/"><u>Mastering the Fix for DOOM Eternal Continuous Crashes - Proven Techniques Inside</u></a></li>
-<li><a href="https://win-answers.techidaily.com/online-functionality-restored-for-origin-platform/"><u>Online Functionality Restored for Origin Platform</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/star-wars-swtor-launch-errors-top-resolution-techniques-covered/"><u>Star Wars SWTOR Launch Errors – Top Resolution Techniques Covered</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-dayzoned-crashes/"><u>Ultimate Guide: Resolving DayZoned Crashes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-crafting-engaging-voiceovers-for-powerpoint-slides-for-2024/"><u>[New] Crafting Engaging Voiceovers for PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-navigating-instas-archive-maze-for-optimal-results-for-2024/"><u>[New] Navigating Insta’s Archive Maze for Optimal Results for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-10-best-free-video-conferencing-tools-for-business-and-education/"><u>[Updated] 10 Best Free Video Conferencing Tools for Business and Education</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-quick-tips-for-iphones-screen-recording-for-2024/"><u>[Updated] Quick Tips for iPhones Screen Recording for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-smoother-gameplay-how-to-cut-down-on-delays-and-up-your-frame-rates-in-fall-guys/"><u>Achieve Smoother Gameplay: How to Cut Down on Delays and Up Your Frame Rates in Fall Guys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-battlenet-errors-the-definitive-2024-strategy-to-get-you-playing-asap/"><u>Beat Battle.net Errors: The Definitive 2024 Strategy to Get You Playing ASAP</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721959713861-chatgpt-desktop-on-hold-discover-this-top-quality-open-source-chat-app-as-your-go-to-solution/"><u>ChatGPT Desktop on Hold? Discover This Top-Quality Open Source Chat App as Your Go-To Solution!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-guide-on-d-link-powerline-adapter-speed-test-swift-installation-and-excellent-throughput/"><u>Comprehensive Guide on D-Link Powerline Adapter Speed Test: Swift Installation & Excellent Throughput</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-oppo-find-n3-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Oppo Find N3 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-unplugged-delight-your-guide-to-free-screen-free-games-for-android/"><u>In 2024, Unplugged Delight Your Guide to Free Screen-Free Games for Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launch-of-apple-vision-pro-brings-integrated-access-to-word-excel-and-full-microsoft-office-suite/"><u>Launch of Apple Vision Pro Brings Integrated Access to Word, Excel & Full Microsoft Office Suite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-quick-fixes-for-minecrafts-prolonged-launch-time/"><u>Mastering Quick Fixes for Minecraft's Prolonged Launch Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-voice-chat-hurdles-a-guide-to-dealing-with-persistent-content-warning-messages/"><u>Overcoming Voice Chat Hurdles: A Guide to Dealing with Persistent 'Content Warning' Messages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-eliminating-stuttering-problems-in-halo-infinite-gameplay/"><u>Resolved: Eliminating Stuttering Problems in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-origin-platform-now-successfully-connected/"><u>Resolved: Origin Platform Now Successfully Connected</u></a></li>
+<li><a href="https://games-able.techidaily.com/retrieving-cash-for-unwanted-fortnite-items/"><u>Retrieving Cash for Unwanted Fortnite Items</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-silent-twitch-channels-expert-tips-for-casters/"><u>Troubleshooting & Fixing Silent Twitch Channels - Expert Tips for Casters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-restoring-game-sounds-in-fallout-4-for-windows-users/"><u>Ultimate Guide: Restoring Game Sounds in Fallout 4 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-the-frozen-moment-fixing-cold-wars-persistent-load-screen-on-gaming-systems/"><u>Unstuck the Frozen Moment: Fixing Cold War's Persistent Load Screen on Gaming Systems</u></a></li>
 </ul></div>
 

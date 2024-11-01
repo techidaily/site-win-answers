@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Ready or Not Keeps Crashing on PC"
-date: 2024-10-24T16:40:26.721Z
-updated: 2024-10-26T17:29:43.920Z
+date: 2024-10-26T18:55:59.930Z
+updated: 2024-10-31T20:19:30.497Z
 tags:
   - win11
   - win10
@@ -73,16 +73,23 @@ First, check your current Microsoft Visual C++ version:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-13.jpg)
 3. Click **Programs and Features** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-23.jpg)
 4. Now check your Microsoft Visual C++ Redistributable version.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your Microsoft Visual C++ version is outdated, follow the steps to update it:
@@ -92,28 +99,22 @@ First, check your current Microsoft Visual C++ version:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-12_17-14-05.jpg)
 3. Open the downloaded file and click **Repair** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-03_14-59-54.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-03_14-59-54.jpg)
 
 If the Cult of the Lamb continues to crash, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2 Repair HDD bad sectors
@@ -133,10 +134,10 @@ If the Cult of the Lamb continues to crash, try the next fix.
  If it fails to find any bad sector or this fix doesn’t work for you, continue to try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3 Run the game as an administrator
@@ -147,14 +148,14 @@ If the Cult of the Lamb continues to crash, try the next fix.
 2. Choose the**Compatibility** tab. Then tick the box**Run this program as an administrator** , and click **Apply**  and **OK**  to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_16-55-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  That’s it. Now you can run the game in the way you normally do, and it will automatically run as an administrator. Launch the game to see if the crashing issue is solved.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 Update graphics driver
 
@@ -173,22 +174,16 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart your PC to make changes apply. Then relaunch the game to check for any improvement.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 Verify game files integrity
 
@@ -200,13 +195,6 @@ If the Cult of the Lamb continues to crash, try the next fix.
 3. Select **LOCAL FILES** on the left and click **Verify integrity of game files…**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam will verify the files of this game for you. Once done, exit the software client and launch it again. Have a test to see if the crashing issue is gone.
 
@@ -260,10 +248,10 @@ Still no luck? Try this final fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Return to the game to check if the problem is solved. If it fails to tackle the problem, you can try to update your Windows or reinstall the game.
@@ -290,20 +278,20 @@ Still no luck? Try this final fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-foundations-of-a-youtube-venture-a-comprehensive-guide/"><u>[New] 2024 Approved The Foundations of a YouTube Venture A Comprehensive Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-visionaryzoom-7-x-perfect-photo-amplification/"><u>[Updated] In 2024, VisionaryZoom 7-X Perfect Photo Amplification</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat10/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-seamless-action-in-watch-dogs-legion-techniques-for-increasing-fps-and-eliminating-lag/"><u>Achieve Seamless Action in Watch Dogs: Legion - Techniques for Increasing FPS and Eliminating Lag</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fix-guide-for-the-fatal-steamuidll-missing-on-steam-platforms/"><u>Comprehensive Fix Guide for the Fatal 'steamui.dll' Missing on Steam Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cutting-through-crashing-curtains-remedies-for-chronic-loading-in-among-us/"><u>Cutting Through Crashing Curtains: Remedies for Chronic Loading in 'Among Us'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-6-solutions-boost-your-gameplay-in-modern-warfare-and-warzone-pc-edition/"><u>Error Code 6 Solutions – Boost Your Gameplay in Modern Warfare & Warzone, PC Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gourmet-guide-mastering-nutritious-recipes-with-ai/"><u>Gourmet Guide: Mastering Nutritious Recipes with AI</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-infinix-note-30-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Infinix Note 30 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-xiaomi-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Xiaomi FRP In 3 Different Ways</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-a-smooth-experience-with-age-of-empires-iv-fixes-for-pc-game-crashes/"><u>Mastering a Smooth Experience with Age of Empires IV – Fixes for PC Game Crashes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-remote-play-issues-top-solutions/"><u>Troubleshooting Steam Remote Play Issues: Top Solutions</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-samsung-galaxy-s23-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Samsung Galaxy S23 Ultra FRP Bypass</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-1616-pro-case-selection-expert-ratings-and-reviews/"><u>Ultimate Guide to iPhone 16/16 Pro Case Selection: Expert Ratings and Reviews</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-warzone-the-top-10-free-online-fps-games-on-the-web/"><u>Ultimate Warzone: The Top 10 Free Online FPS Games on the Web</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-leveraging-zoom-in-email-chats-a-guide-to-gmail-users/"><u>[Updated] 2024 Approved Leveraging Zoom in Email Chats – A Guide to Gmail Users</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crack-solved-how-to-release-your-steam-games-blocked-data/"><u>Crack Solved: How to Release Your Steam Game's Blocked Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-resolving-pc-gameplay-disruptions-in-wolcen-lords-of-mayhem/"><u>Effective Fixes for Resolving PC Gameplay Disruptions in Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-crash-in-forza-horizon-4-when-playing-on-pc/"><u>How to Fix a Crash in Forza Horizon 4 When Playing on PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-youtube-product-endorsements/"><u>In 2024, Navigating the World of YouTube Product Endorsements</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-unveiling-hidden-truths-about-instagram-viewers/"><u>In 2024, Unveiling Hidden Truths About Instagram Viewers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-stability-fixes-resolve-pc-performance-hiccups/"><u>Modern Warfare 2 Stability Fixes - Resolve PC Performance Hiccups</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/move-beyond-ms-phone-link-with-our-exceptional-mobile-connectivity-app/"><u>Move Beyond MS Phone Link with Our Exceptional Mobile Connectivity App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-resolving-common-issues-with-winwordexe/"><u>Quick Solutions: Resolving Common Issues with Winword.exe</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-guide-for-dead-by-daylight-fixing-error-code-8014/"><u>Resolved: Troubleshooting Guide for 'Dead By Daylight' - Fixing Error Code 8014</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rise-and-shine-brighter-in-depth-analysis-of-the-ihome-zenergy-restful-nights-system/"><u>Rise and Shine Brighter: In-Depth Analysis of the IHome Zenergy Restful Nights System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-effective-methods-to-enhance-elden-rings-fps/"><u>Smooth Gaming Experience: Effective Methods to Enhance Elden Ring's FPS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-search-for-prime-video-making-experts-for-2024/"><u>The Search for Prime Video Making Experts for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/virtual-fantasy-the-essential-samsung-gear-vr-games/"><u>Virtual Fantasy The Essential Samsung Gear VR Games</u></a></li>
 </ul></div>
 

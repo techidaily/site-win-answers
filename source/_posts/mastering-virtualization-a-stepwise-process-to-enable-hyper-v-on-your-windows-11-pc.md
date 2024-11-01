@@ -1,7 +1,7 @@
 ---
 title: "Mastering Virtualization: A Stepwise Process to Enable Hyper-V on Your Windows 11 PC"
-date: 2024-10-20T16:16:48.317Z
-updated: 2024-10-26T16:36:22.990Z
+date: 2024-10-28T12:45:34.290Z
+updated: 2024-10-31T16:24:07.649Z
 tags:
   - win11
   - win10
@@ -55,16 +55,10 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -72,10 +66,10 @@ The outdated or broken graphics driver often crashes the game.
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
@@ -89,7 +83,27 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -109,13 +123,6 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
@@ -128,22 +135,15 @@ The outdated or broken graphics driver often crashes the game.
 3. Copy and paste the commands below and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -175,17 +175,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-boost-visibility-and-engagement-with-smart-social-media-videos/"><u>[New] Boost Visibility and Engagement with Smart Social Media Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/44cm57ch5y2y44gr44ot44oh44kq44ov44kp44o844oe44od44oi44ks5yih44kk5pu44gi44klic0g56m25qw144gu44kz44oe6zug44kb44gplus44gx44gf44cn/"><u>「簡単にビデオフォーマットを切り替える - 究極のコツ集めました」</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-gifs-to-stickers-full-guide-for-social-channels/"><u>From GIFs to Stickers Full Guide for Social Channels</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-honor-magic-vs-2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Honor Magic Vs 2 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>In 2024, Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-gadgets-with-toms-expert-guides/"><u>Mastering Gadgets with Tom's Expert Guides</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/um-opening-scenes-top-16-youtube-intros-for-popularity-for-2024/"><u>Premium Opening Scenes Top 16 YouTube Intros for Popularity for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-fitness-downloads-get-your-hands-on-exercise-tutorials-from-multiple-websites-with-ease/"><u>Seamless Fitness Downloads: Get Your Hands on Exercise Tutorials From Multiple Websites with Ease!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-mxf-to-mov-file-transformation-for-windows-mac-users-and-web-applications/"><u>Seamless MXF-to-MOV File Transformation for Windows, Mac Users & Web Applications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-methods-to-save-your-favorite-vevo-music-clips/"><u>Simple Methods to Save Your Favorite Vevo Music Clips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-flac-files-to-m4a-format-using-windows-tools-and-web-services/"><u>Step-by-Step Guide: Converting FLAC Files to M4A Format Using Windows Tools & Web Services</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/top-5-strategies-for-leveraging-chatgpts-tailored-guidelines/"><u>Top 5 Strategies for Leveraging ChatGPT's Tailored Guidelines</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-12plus-ways-to-immerse-in-international-cricket-via-streaming/"><u>[New] 2024 Approved 12+ Ways to Immerse in International Cricket via Streaming</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/are-you-getting-the-most-out-of-your-wi-fi-with-mesh-networking-technology/"><u>Are You Getting the Most Out of Your Wi-Fi with Mesh Networking Technology?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-continuous-killing-of-your-playtime-halo-infinite-pc-edition/"><u>Effective Fixes for Continuous Killing of Your Playtime - Halo Infinite PC Edition</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-full-screen-capabilities-of-steam/"><u>Exploring the Full-Screen Capabilities of Steam</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gopro-hero5-experience-recap-for-2024/"><u>GoPro Hero5 Experience Recap for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a78-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A78 5G Fingerprint Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-canon-mx340-software-updates-for-windows-operating-systems-win-1087/"><u>Latest Canon MX340 Software Updates for Windows Operating Systems (Win 10/8/7)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-solutions-for-cbow-lag-spike-and-frame-rate-issues/"><u>Optimizing Your Gameplay: Solutions for CBOW Lag Spike & Frame Rate Issues</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oneplus-nord-ce-3-lite-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Nord CE 3 Lite 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-overcome-latency-and-improve-battlefield-5-performance/"><u>Step-by-Step Solutions: Overcome Latency and Improve Battlefield 5 Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-like-a-dragon-now-fully-functional-and-ready-for-gaming-enthusiasts/"><u>Yakuza: Like a Dragon - Now Fully Functional and Ready for Gaming Enthusiasts</u></a></li>
 </ul></div>
 

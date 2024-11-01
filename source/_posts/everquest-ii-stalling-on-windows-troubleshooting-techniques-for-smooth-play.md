@@ -1,7 +1,7 @@
 ---
 title: "EverQuest II Stalling on Windows: Troubleshooting Techniques for Smooth Play"
-date: 2024-10-21T16:17:11.709Z
-updated: 2024-10-26T17:54:49.426Z
+date: 2024-10-29T16:21:19.720Z
+updated: 2024-11-01T05:26:07.313Z
 tags:
   - win11
   - win10
@@ -29,19 +29,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
 
@@ -74,21 +61,35 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -99,13 +100,6 @@ There are mainly two ways you can update the graphics driver:
 2) Click**SETTINGS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
@@ -136,10 +130,10 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
@@ -169,14 +163,16 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-dive-into-camtasias-ken-burns-feature-rich-tutorial-for-2024/"><u>[Updated] Dive Into Camtasia’s Ken Burns Feature-Rich Tutorial for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-most-recent-compatible-brother-hl-c2240-driver-on-windows-systems/"><u>Get the Most Recent Compatible Brother HL-C2240 Driver on Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-enjoy-dvd-content-on-your-new-ps5-console/"><u>How to Enjoy DVD Content on Your New PS5 Console</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-properly-access-a-prx-file-identifying-suitable-programs-for-execution/"><u>How To Properly Access a PRX File: Identifying Suitable Programs for Execution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-use-soap2day-downloader-for-movie-acquisition/"><u>How to Use Soap2day Downloader for Movie Acquisition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Phantom V Flip</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y100i-power-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y100i Power 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/leading-no-cost-mp4-video-transcoder-applications-for-windows-users/"><u>Leading No-Cost MP4 Video Transcoder Applications for Windows Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/melody-meters-your-guide-to-free-online-pulse-detectors-for-2024/"><u>Melody Meters Your Guide to Free Online Pulse Detectors for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-best-panzoid-intro-maker-templates/"><u>[New] Best Panzoid Intro Maker Templates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-achieve-smooth-aquatic-vids-with-these-seven-steps/"><u>[Updated] 2024 Approved Achieve Smooth Aquatic Vids with These Seven Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-achieve-smooth-aquatic-vids-with-these-seven-steps/"><u>[Updated] In 2024, Achieve Smooth Aquatic Vids with These Seven Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-you-need-to-know-about-the-newly-leaked-google-pixel-fold-2-price-release-date-and-specs-revealed/"><u>All You Need to Know About the Newly Leaked Google Pixel Fold 2: Price, Release Date & Specs Revealed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-obs-how-to-stop-app-crashes-in-windows-11-or-10-updated-for-2ndqr/"><u>Fixing OBS: How to Stop App Crashes in Windows 11 or 10 (Updated for 2nDQr)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-organization-setting-finder-options-for-optimal-file-management/"><u>Mastering Organization: Setting Finder Options for Optimal File Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-stability-restored-troubleshooting-steps-for-cult-of-the-lamb-issues/"><u>PC Stability Restored: Troubleshooting Steps for Cult of the Lamb Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-guide-how-to-prevent-deathloop-from-continuously-crashing-on-pc-systems/"><u>Quick Fix Guide: How to Prevent Deathloop From Continuously Crashing on PC Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-internet-explorer-has-stopped-working-errors-a-step-by-step-guide/"><u>Resolving 'Internet Explorer Has Stopped Working' Errors: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-modifying-windows-1011-nat-settings/"><u>Understanding and Modifying Windows 10/11 NAT Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/win-the-battle-against-dev-error-6634-in-warzone-with-these-proven-strategies-2022-techniques/"><u>Win the Battle Against Dev Error 6634 in Warzone with These Proven Strategies (2022 Techniques)</u></a></li>
 </ul></div>
 

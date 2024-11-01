@@ -1,7 +1,7 @@
 ---
 title: "Busting the Code: Diagnosing and Repairing Armored Core 6 - The Rubicon Edition on Your Computer"
-date: 2024-10-22T16:41:20.104Z
-updated: 2024-10-26T17:14:02.483Z
+date: 2024-10-28T18:11:50.643Z
+updated: 2024-10-31T16:36:28.856Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -60,28 +67,35 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
@@ -90,10 +104,17 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
@@ -121,19 +142,6 @@ OR
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Run your game as an administrator
 
  This might be triggered by limited administrative rights. So to make sure you can access all the game files, you can run Hitman 3 and Epic Games Launcher as administrators. Here’s how to run it as admin permanently:
@@ -142,13 +150,6 @@ OR
 2. Select the tab **Compatibility** and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .  
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
 
@@ -177,13 +178,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
  If the fixes above didn’t solve your Hitman 3 “connection failed” error, the culprit might be their end. You can keep an eye on[IO Interactive](https://twitter.com/IOInteractive) Twitter updates for more information.
@@ -209,20 +203,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1723001129587-fixed-outriders-unreal-process-has-crashed-ue4-madness-error/"><u>[Fixed] Outriders 'Unreal Process Has Crashed: UE4-Madness' Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-steam-keeps-freezing-not-responding-2024/"><u>[SOLVED] Steam Keeps Freezing/ Not Responding 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beauty-tutorials-unveiled-creating-a-youtube-channel-from-scratch/"><u>[Updated] 2024 Approved Beauty Tutorials Unveiled Creating a YouTube Channel From Scratch</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-best-twitter-tools-for-purifying-and-personalizing-your-timeline/"><u>[Updated] In 2024, Best Twitter Tools for Purifying & Personalizing Your Timeline</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-instantly-connect-with-viewers-uploading-short-films-online-for-2024/"><u>[Updated] Instantly Connect with Viewers Uploading Short Films Online for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-strategic-branding-techniques-for-higher-youtube-followings/"><u>[Updated] Strategic Branding Techniques for Higher YouTube Followings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-hurdles-in-forza-horizon-5-discover-these-7-effective-fixes-for-persistent-loading-problems/"><u>Bypassing Hurdles in Forza Horizon 5? Discover These 7 Effective Fixes for Persistent Loading Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004275276-defeat-the-game-crashing-issue-in-call-of-duty-warzone-error-6328-with-our-expert-advice/"><u>Defeat the Game-Crashing Issue in Call of Duty: Warzone (Error 6328) with Our Expert Advice</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/experience-flawless-videos-every-time-using-winxvideos-artificial-intelligence-stabilizer/"><u>Experience Flawless Videos Every Time Using Winxvideo's Artificial Intelligence Stabilizer</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/nailing-the-perfect-aspect-ratio-on-tweets-for-2024/"><u>Nailing the Perfect Aspect Ratio on Tweets for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-errors-effective-solutions-to-prevent-pacific-drive-from-crashing-on-your-desktop/"><u>Overcoming Errors: Effective Solutions to Prevent Pacific Drive From Crashing on Your Desktop</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-fixes-for-hyper-scape-crashes/"><u>Resolving PC Issues: Fixes for Hyper Scape Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-utorrent-connection-issues-steps-to-restore-downloadpeer-connectivity/"><u>Solving uTorrent Connection Issues: Steps to Restore Download/Peer Connectivity</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/start-making-money-today-top-13-easy-methods-for-newbies/"><u>Start Making Money Today! Top 13 Easy Methods for Newbies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/top-3-affordable-switch-game-counterparts/"><u>Top 3 Affordable Switch Game Counterparts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-mobile-smartphones-and-youtube-success/"><u>[New] Maximizing Mobile Smartphones & YouTube Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/androids-superior-hd-vids-discover-the-best-apps/"><u>Android's Superior HD Vids Discover the Best Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/boost-graphics-performance-with-updated-geforce-rtx-2080-ti-drivers-for-gamers/"><u>Boost Graphics Performance with Updated GeForce RTX 2080 Ti Drivers for Gamers</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-pdf-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free electronic signatures for PDF</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-your-discord-up-and-running-solutions-to-the-common-application-errors/"><u>Getting Your Discord Up and Running: Solutions to the Common Application Errors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/holdscreen-rapid-snapshot-manual/"><u>HoldScreen Rapid Snapshot Manual</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-stop-final-fantasy-xiv-from-suddenly-crashing-on-your-computer/"><u>How to Fix and Stop Final Fantasy XIV From Suddenly Crashing on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nubia-red-magic-8s-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nubia Red Magic 8S Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-science-of-attractiveness-building-engaging-audio-introductions/"><u>In 2024, The Science of Attractiveness Building Engaging Audio Introductions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-list-of-androids-best-music-video-apps/"><u>In 2024, The Ultimate List of Android's Best Music Video Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/path-of-exile-connection-woes-bypassing-errors-with-easy-fixes-for-gamers/"><u>Path of Exile Connection Woes? Bypassing Errors with Easy Fixes for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-access-denied-cannot-play-fortnite-fix-guide/"><u>Resolved: 'Access Denied - Cannot Play Fortnite' Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-rainbow-six-siege-game-crash-error-code-3-0x0001000b-explained/"><u>Solve Your Rainbow Six Siege Game Crash: Error Code 3-0X0001000B Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-silence-a-step-by-step-guide-to-restoring-audio-in-fallout-4/"><u>Solving Silence: A Step-by-Step Guide to Restoring Audio in Fallout 4</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-pinnacle-of-led-strip-tech/"><u>The Pinnacle of LED Strip Tech</u></a></li>
 </ul></div>
 

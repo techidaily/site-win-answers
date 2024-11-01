@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Resolve Issues with Corsair iCUE on Windows 11
-date: 2024-09-27T16:45:05.008Z
-updated: 2024-10-03T16:25:35.177Z
+date: 2024-10-26T10:47:41.716Z
+updated: 2024-11-01T03:50:41.032Z
 tags:
   - win11
   - win10
@@ -48,20 +48,27 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -75,42 +82,36 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -126,21 +127,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -169,14 +156,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -219,18 +214,24 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-rx-graphics-retrospect-and-report/"><u>[New] RX Graphics Retrospect & Report</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-make-better-facebook-video-ads-for-2024/"><u>[Updated] How to Make Better Facebook Video Ads for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-mix-techniques-for-crossfading-sounds-with-audacity/"><u>2024 Approved Professional Mix Techniques for Crossfading Sounds with Audacity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dealing-with-fatal-freezing-fixing-ghostrunner-stuck-scenes-on-windows-10-systems/"><u>Dealing with Fatal Freezing: Fixing Ghostrunner Stuck Scenes on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-reconnecting-with-kodi-eliminating-directory-information-problems/"><u>Expert Tips on Reconnecting with Kodi – Eliminating Directory Information Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-what-to-do-if-your-google-meet-webcam-is-malfunctioning/"><u>Fixing the Issue: What to Do If Your Google Meet Webcam Is Malfunctioning</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-connect-with-stars-write-inspiring-biographies-on-whatsapp/"><u>In 2024, Connect with Stars – Write Inspiring Biographies on WhatsApp</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-photographic-archives/"><u>In 2024, Top Tier Photographic Archives</u></a></li>
-<li><a href="https://os-tips.techidaily.com/inside-look-at-apples-latest-innovations-from-the-202-similar-problem-for-us-audience/"><u>Inside Look at Apple's Latest Innovations From the 202 # Similar Problem for U.S. Audience</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/long-talks-short-wait-unveiling-jabra-talk-25-specs/"><u>Long Talks, Short Wait: Unveiling Jabra Talk 25 Specs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-troubleshooting-how-to-fix-recurring-crashes-in-alien-fireteam-elite/"><u>PC Troubleshooting: How to Fix Recurring Crashes in Alien: Fireteam Elite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-game-breaking-bug-causing-dauntless-to-crash-on-desktop/"><u>Solved: Overcoming the Game-Breaking Bug Causing Dauntless to Crash on Desktop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-noisy-headphones-with-our-easy-fixes/"><u>Troubleshoot Your Noisy Headphones with Our Easy Fixes</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-elevate-your-channels-youtubes-partner-program/"><u>[New] 2024 Approved Elevate Your Channels - YouTube's Partner Program</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-zero-price-point-video-capturer/"><u>[New] Prime Zero-Price Point Video Capturer</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-spark-the-motivation-top-inspirational-youtube-videos/"><u>[Updated] Spark the Motivation Top Inspirational YouTube Videos</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bid-goodbye-to-fluctuating-screens-our-best-tips-for-a-smooth-display/"><u>Bid Goodbye to Fluctuating Screens: Our Best Tips for a Smooth Display</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fix-for-when-your-pacific-drive-wont-launch-expert-tips-and-tricks/"><u>Easy Fix for When Your Pacific Drive Won’t Launch: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-continuous-palworld-game-stability-issues-in-windows/"><u>Effective Solutions for Continuous PalWorld Game Stability Issues in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-lagging-freezing-and-glitches-in-serious-sam-4-for-pc-gaming/"><u>Fixes for Persistent Lagging, Freezing, and Glitches in Serious Sam 4 for PC Gaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-a59-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo A59 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://games-able.techidaily.com/linux-terminal-guide-to-gb-advance-games/"><u>Linux Terminal Guide to GB Advance Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013203873-online-user-authentication-service-is-active-again-all-systems-go/"><u>Online User Authentication Service Is Active Again – All Systems Go!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-system-settings-for-seamless-samurai-warriors-5-gaming-experience-on-pc/"><u>Optimizing System Settings for Seamless Samurai Warriors 5 Gaming Experience on PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/polish-english-pronunciation-and-expression-heres-how/"><u>Polish English Pronunciation and Expression, Here's How</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-team-fortress-2-wont-start-up-issues/"><u>Resolved: How to Fix 'Team Fortress 2 Won't Start Up' Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-edge-browser-crash-issues-on-windows-11-systems/"><u>Resolving Edge Browser Crash Issues on Windows 11 Systems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-the-buzz-simple-tricks-to-cure-your-speakers/"><u>Silence the Buzz: Simple Tricks to Cure Your Speakers</u></a></li>
+<li><a href="https://win11.techidaily.com/synergizing-technology-the-role-of-ai-in-windows-11-dynamics/"><u>Synergizing Technology: The Role of AI in Windows 11 Dynamics</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-insight-into-tvs-with-internet-access-what-you-need-to-know/"><u>The Ultimate Insight Into TVs with Internet Access: What You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-unfreeze-chrome-for-smooth-windows-11-sessions/"><u>Troubleshoot and Unfreeze Chrome for Smooth Windows 11 Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-hearthstone-keep-freezing-solutions-for-a-smooth-pc-gaming-adventure/"><u>Why Does Hearthstone Keep Freezing? Solutions for a Smooth PC Gaming Adventure</u></a></li>
 </ul></div>
 

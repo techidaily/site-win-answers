@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting YouTube Videos: How to Restore Playback Sync Between Visuals and Sound on Browsers"
-date: 2024-10-19T17:38:26.752Z
-updated: 2024-10-26T17:54:46.734Z
+date: 2024-10-27T23:56:22.318Z
+updated: 2024-10-31T21:48:15.044Z
 tags:
   - win11
   - win10
@@ -75,6 +75,13 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your graphics driver
 
  When you have a black screen, whether on your computer or any app, your outdated or faulty graphics driver might be the culprit. If you can’t remember when was the last time you updated your graphics driver, then you should do it. And you can benefit a lot from updating the graphics driver. Because it can fix performance bottlenecks and introduce improvements that make games run significantly faster.
@@ -103,13 +110,6 @@ Here’s how you can do this:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -157,13 +157,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
 
  If the problem persists, then select**No, try again using different settings** .
@@ -181,13 +174,6 @@ Here’s how you can do this:
  9) Check**Yes, try again using different settings,** and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-8.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) Click**Test the program…** \>**Next** .
 
@@ -239,13 +225,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
@@ -263,10 +242,10 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Click**Use the following DNS server addresses:** .  
@@ -277,6 +256,19 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Flush the DNS cache
 
@@ -289,10 +281,10 @@ To do this, simply follow the instructions below:
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) When a prompt appears, simply click **Yes** .
@@ -315,18 +307,32 @@ To do this, simply follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Check the box**Override high DPI scaling behavior** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 10: Use a VPN
 
@@ -350,10 +356,10 @@ Below is the VPN we would like to recommend:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [black screen](https://tools.techidaily.com/drivereasy/download/)
@@ -374,18 +380,20 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-enhance-your-viewing-with-ease-utilizing-the-pip-mode-on-netflix/"><u>[Updated] In 2024, Enhance Your Viewing with Ease Utilizing the PIP Mode on Netflix</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-foremost-recommendations-audio-customization-pros/"><u>2024 Approved Foremost Recommendations Audio Customization Pros</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-dynamics-of-home-security-manycam-vs-single-camera-tech/"><u>2024 Approved The Dynamics of Home Security ManyCam Vs. Single-Camera Tech</u></a></li>
-<li><a href="https://win-answers.techidaily.com/6zplusz5qw944ov44kh44kk44or44ks5yplusw5b6x44gx44cb44ot44oh44kq57eo6zug44ox44ot44k444kn44kv44oi44gn5rs755so44gz44kl44og44kv44ol44od44kv/"><u>音楽ファイルを取得し、ビデオ編集プロジェクトで活用するテクニック</u></a></li>
-<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-on-converting-ultra-hd-content-down-to-full-hd-resolution/"><u>A Comprehensive Guide on Converting Ultra HD Content Down to Full HD Resolution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/av1-decoding-error-on-nvidia-shield-swift-fixes-to-enable-smooth-streaming/"><u>AV1 Decoding Error on Nvidia Shield: Swift Fixes to Enable Smooth Streaming!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/beware-the-web-of-counterfeit-subscriber-networks-online-for-2024/"><u>Beware the Web of Counterfeit Subscriber Networks Online for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-tutorial-on-how-to-convert-and-save-movies-in-mov-format-with-adobe-premiere-pro/"><u>Complete Tutorial on How to Convert and Save Movies in MOV Format with Adobe Premiere Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-tecno-spark-10-4g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Tecno Spark 10 4G to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oppo-reno-9a-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Oppo Reno 9A to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-photoshops-stabilization-capabilities-real-advantage/"><u>In 2024, Photoshop's Stabilization Capabilities Real Advantage?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-adventure-tackling-frames-per-second-fps-problems-for-a-seamless-red-dead-2-experience/"><u>Maximize Your Adventure - Tackling Frames Per Second (FPS) Problems for a Seamless Red Dead 2 Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/step-by-step-approach-to-understanding-and-using-telegram-online-for-2024/"><u>Step-By-Step Approach to Understanding and Using Telegram Online for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-oculus-has-detected-a-problem-with-your-graphics-drivers/"><u>[Solved] Oculus Has Detected a Problem with Your Graphics Drivers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>[Updated] In 2024, Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-virtual-realms-equip-yourself-with-these-tech/"><u>[Updated] Pioneering Virtual Realms - Equip Yourself With These Tech</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-engaging-in-the-moment-of-a-tiktok-life/"><u>2024 Approved Engaging in the Moment of a TikTok Life</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004405247-conquer-the-skies-on-the-ground-advanced-fps-enhancement-methods-for-war-thunder-gamers/"><u>Conquer the Skies, On The Ground: Advanced FPS Enhancement Methods for War Thunder Gamers !</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 13T Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-reno-11f-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Reno 11F 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-x5-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco X5 Pro Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-wont-open-expert-solutions-and-fixes-launch-problems/"><u>Lost Ark Won't Open? Expert Solutions and Fixes Launch Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-sea-of-thieves-loading-screen-troubleshooting-techniques/"><u>Mastering Sea of Thieves Loading Screen Troubleshooting Techniques</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-errors-with-your-current-software-suite/"><u>Resolving Unsupported Hardware Errors with Your Current Software Suite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-freezes-in-rocket-league-tips-and-solutions/"><u>Troubleshooting Freezes in Rocket League - Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-solving-persistent-crashes-in-final-fantasy-xiv-for-pc-users/"><u>Understanding and Solving Persistent Crashes in Final Fantasy XIV for PC Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unleash-the-power-of-obs-in-live-gaming-streams-for-2024/"><u>Unleash the Power of OBS in Live Gaming Streams for 2024</u></a></li>
 </ul></div>
 

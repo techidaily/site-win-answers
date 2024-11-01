@@ -1,7 +1,7 @@
 ---
 title: "Battle Through Anthem's Infinite Loading Screens: A Comprehveled Guide to Smooth Playing"
-date: 2024-10-23T17:36:58.057Z
-updated: 2024-10-26T17:11:02.356Z
+date: 2024-10-25T17:50:55.367Z
+updated: 2024-11-01T10:57:53.854Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -64,6 +57,13 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  Here is a detailed post for your reference if your computer is overheating: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
@@ -75,19 +75,33 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Modify your network settings
 
@@ -114,37 +128,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -154,6 +141,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
@@ -162,6 +156,13 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -197,13 +198,6 @@ and your network card manufacturer:
 
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -214,6 +208,14 @@ and your network card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -234,24 +236,17 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Consider hardware upgrade
 
@@ -280,24 +275,16 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[New] 2024 Approved Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-photo-magic-weaving-text-into-your-imagery-journey/"><u>[Updated] Photo Magic Weaving Text Into Your Imagery Journey</u></a></li>
-<li><a href="https://fox-within.techidaily.com/1728481550086-onedrive/"><u>搜索失去的 OneDrive 文件: 四大解决方案用于取回删除丢失信息</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accurate-timekeeping-at-your-fingertips-winning-windows-timers/"><u>Accurate Timekeeping at Your Fingertips: Winning Windows Timers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-as-a-tool-for-advancing-personal-emotional-intelligence-skills/"><u>ChatGPT as a Tool for Advancing Personal Emotional Intelligence Skills</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-rescue-missing-data-in-windows-11-a-step-by-step-file-restoration-tutorial/"><u>How to Rescue Missing Data in Windows 11: A Step-by-Step File Restoration Tutorial</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-embracing-metaverse-characters-a-guide-to-seamless-avatars/"><u>In 2024, Embracing Metaverse Characters A Guide to Seamless Avatars</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-stream-like-a-pro-optimizing-your-360-youtube-broadcasts/"><u>In 2024, Stream Like a Pro Optimizing Your 360° Youtube Broadcasts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-expert-approved-audio-editing-tools-top-10-list-for-2024/"><u>New Expert-Approved Audio Editing Tools Top 10 List for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-converting-mts-files-into-videos-online-or-on-windowsmac-os/"><u>Step-by-Step Guide to Converting MTS Files Into Videos Online or on Windows/Mac OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-importing-mov-files-into-vegas-pro-a-troubleshooting-guide/"><u>Successfully Importing MOV Files Into Vegas Pro: A Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swfmp3/"><u>SWFオーディオ抽出手順：免費スワッファイルからMP3への変換ガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-top-rated-free-video-subtitling-tools-for-seamless-captioning/"><u>The Ultimate Guide to Top-Rated, Free Video Subtitling Tools for Seamless Captioning</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-for-high-quality-low-size-video-compression-optimized-for-youtube/"><u>Top Strategies for High-Quality, Low-Size Video Compression Optimized for YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-techniques-to-transform-arf-files-using-leading-arf-conversion-tools/"><u>Top Techniques to Transform ARF Files Using Leading ARF Conversion Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-the-vdvu-disk-to-digital-conversion-issue/"><u>Troubleshooting Tips: Fixing the vDVU Disk-to-Digital Conversion Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-vlc-for-mov-files-ultimate-guide-and-free-conversion-tools/"><u>Troubleshooting VLC for MOV Files: Ultimate Guide & Free Conversion Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/video-downloadhelper/"><u>Video DownloadHelperで落ちるビデオのダウンロード対策: 頼りがいる方法</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/winxvideo-ai-ultimate-screen-record-solution-with-video-webcam-and-audio-capture/"><u>Winxvideo AI - Ultimate Screen Record Solution with Video, Webcam & Audio Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[New] 2024 Approved Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-microphone-list-for-best-asmr-sound/"><u>[New] In 2024, The Ultimate Microphone List for Best ASMR Sound</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-xiaomi-11-a-new-era-of-high-fidelity-video-recording/"><u>[New] In 2024, Xiaomi 11 A New Era of High Fidelity Video Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elite-upgrades-top-picks-of-vr-handwear-devices/"><u>[Updated] Elite Upgrades Top Picks of VR Handwear Devices</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-the-trustworthiness-of-health-data-from-chatgpt/"><u>Evaluating the Trustworthiness of Health Data From ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-resolving-escape-from-tarkovs-slow-frame-rate-issues/"><u>Expert Advice on Resolving Escape From Tarkov's Slow Frame Rate Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-netflix-functionality-back-after-glitches-on-xbox-platforms/"><u>Getting Netflix Functionality Back After Glitches on Xbox Platforms</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-flying-tech-at-its-best-minuscule-uavs-ranked/"><u>In 2024, Flying Tech at Its Best Minuscule UAVs Ranked</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-snowrunner-performance-effective-techniques-to-avoid-frequent-crashes-on-your-computer/"><u>Mastering SnowRunner Performance: Effective Techniques to Avoid Frequent Crashes on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-your-gameplay-essential-fixes-to-get-forza-horizon-4-up-and-running/"><u>Maximize Your Gameplay: Essential Fixes to Get Forza Horizon 4 Up and Running</u></a></li>
 </ul></div>
 

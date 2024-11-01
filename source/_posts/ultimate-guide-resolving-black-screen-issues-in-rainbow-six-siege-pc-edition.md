@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition"
-date: 2024-10-20T17:43:49.835Z
-updated: 2024-10-26T17:24:51.995Z
+date: 2024-10-30T06:24:57.257Z
+updated: 2024-11-01T05:26:18.664Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/verify-files-r6s.jpg)
 2. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Epic Games Launcher**
 
 1. Select the game in your**Library** and click on the**three dots** at the button-right.
@@ -67,15 +74,15 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-1.jpg)
 3. Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-verify-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once it completes, launch Rainbow Six Siege again to see if it solves the black screen problem.
 
@@ -109,13 +116,6 @@ Here are two ways you can try to update your graphics driver:
 
 If the black screen issue still remains, you can try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install the latest Windows updates
 
  If you’re on Windows 10, you might fix the black screen error by installing the latest Windows updates. That’s because every Windows update will fix mostly all the latest bugs. Here’s how to do it:
@@ -140,24 +140,32 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/control-panel.jpg)
 2. In Control Panel, click**Hardware and Sound** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hardware-sound.jpg)
 3. Click**Power Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/power-options.jpg)
 4. Then click**Change plan settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-power-settings.jpg)
 5. Click**Change advanced power settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/advanced.jpg)
 6. In the pop-up window, double click**PCI Express** , then extend**Link State Power Management** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/link.jpg)
 7. Open the drop-down menu next to**On battery** and**Plugged in** orderly, then select**Off** .  
 
@@ -165,22 +173,28 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. Click**Apply** and**OK** to save settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can relaunch Rainbow Six Siege. This should fix your black screen issue. But if not, then you should try the next fix.
 
@@ -197,6 +211,13 @@ If the problem still remains, you can try the following fixes.
 
 If the issue remains, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Run the game in compatibility mode
 
  Sometimes the Windows update may conflict with Rainbow Six Siege. If that’s the case, you can try to run the game in compatibility mode. To do so:
@@ -206,39 +227,19 @@ If the issue remains, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility1-1.jpg)
 3. In the drop-down menu beneath that, select**Windows 7** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility2-1.jpg)
 4. Check the box of**Disable fullscreen optimizations** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility3-1.jpg)
 5. Click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility4-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then you can launch Rainbow Six Siege to see if the black screen issue is fixed or not.
@@ -280,14 +281,17 @@ If the issue still remains, here’s one last fix for you to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-fine-tuning-your-fly-top-tips-for-choosing-drone-propellers/"><u>[New] In 2024, Fine-Tuning Your Fly Top Tips for Choosing Drone Propellers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-navigating-the-speed-control-interface-on-snapchat/"><u>2024 Approved Navigating The Speed Control Interface on Snapchat</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-transform-screen-shots-to-videos-mastery-in-aiseesofts-screencast-tools/"><u>2024 Approved Transform Screen Shots to Videos Mastery in Aiseesoft's Screencast Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-correcting-crashes-in-thaumaturge-while-playing-on-personal-computer/"><u>Diagnosing and Correcting Crashes in Thaumaturge While Playing on Personal Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-common-problems-in-madden-22-fast-and-easy-troubleshooting-tips/"><u>Fixing Common Problems in Madden 22 - Fast and Easy Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-crashes-in-house-flipper-2-top-troubleshooting-techniques/"><u>Fixing PC Crashes in House Flipper 2 – Top Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-pc-problems-how-to-prevent-no-rest-for-the-wicked-from-constant-interruptions-during-gameplay/"><u>Fixing PC Problems: How to Prevent 'No Rest for the Wicked' From Constant Interruptions During Gameplay</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-solutions-for-when-winhttpdll-is-unavailable-or-lost/"><u>Quick Solutions for When Winhttp.dll Is Unavailable or Lost</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/tailoring-your-videography-with-personalized-instagram-captions-for-2024/"><u>Tailoring Your Videography with Personalized Instagram Captions for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-access-your-fb-links-easily-download-8-best-online-utilities/"><u>[New] In 2024, Access Your FB Links Easily Download 8 Best Online Utilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-titles-your-gateway-to-open-worlds/"><u>[Updated] 2024 Approved Essential Titles Your Gateway to Open Worlds</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-20plus-fresh-collages-elevate-your-environment/"><u>[Updated] In 2024, 20+ Fresh Collages Elevate Your Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eradicate-your-wow-connection-lags-with-ease-and-speed/"><u>Eradicate Your WoW Connection Lags with Ease & Speed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-sudden-shutdowns-keeping-xcom-2-running-smoothly-in-windows/"><u>How to Resolve Sudden Shutdowns: Keeping XCOM 2 Running Smoothly in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-utilize-split-view-feature-for-seamless-workflows-on-macbook-air/"><u>How to Utilize Split View Feature for Seamless Workflows on MacBook Air</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-for-starting-your-doom-eternal-game/"><u>Master the Fixes for Starting Your DOOM Eternal Game</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-strategies-for-tracking-down-exe-files-on-a-windows-10-system/"><u>Speedy Strategies for Tracking Down EXE Files on a Windows 10 System</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-samsung-galaxy-m34-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Samsung Galaxy M34 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-free-and-open-source-video-encoders-of-2023-ideal-choices-for-pc-and-mac-enthusiasts/"><u>Top Free & Open Source Video Encoders of 2023: Ideal Choices for PC and Mac Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-atomic-heart-crashes-on-system-boot-up-a-detailed-guide/"><u>Troubleshooting Atomic Heart Crashes on System Boot-Up - A Detailed Guide</u></a></li>
 </ul></div>
 

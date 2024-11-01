@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: How to Stop FIFA 19 From Crashing on Windows PCs"
-date: 2024-10-24T16:38:15.284Z
-updated: 2024-10-26T17:30:26.568Z
+date: 2024-10-31T06:57:15.198Z
+updated: 2024-11-01T06:25:01.038Z
 tags:
   - win11
   - win10
@@ -54,16 +54,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Disable your antivirus software
@@ -85,10 +79,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 4. After the process, relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change your save files location
@@ -96,19 +90,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable Steam Overlay
 
@@ -118,6 +99,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -143,10 +131,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -173,22 +161,19 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-streamline-your-viewing-turn-onoff-picture-in-picture-on-iphones/"><u>[Updated] In 2024, Streamline Your Viewing Turn On/Off Picture in Picture on iPhones</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-pc-issues-with-age-of-wonders-planetfall/"><u>Fixes & Solutions for PC Issues with Age of Wonders: Planetfall</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-premier-funny-photo-tool/"><u>In 2024, Premier Funny Photo Tool</u></a></li>
-<li><a href="https://fox-http.techidaily.com/is-it-possible-to-quick-review-on-windows-heres-how-for-2024/"><u>Is It Possible to Quick Review on Windows? Here’s How for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/livestream-elite-top-equipment-for-youtube-content-creators/"><u>Livestream Elite Top Equipment For YouTube Content Creators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-not-launching-hurdles-in-call-of-duty-warzone/"><u>Overcoming 'Not Launching' Hurdles in Call of Duty: Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-extraction-crash-fix-optimizing-gameplay-on-your-computer-system/"><u>Rainbow Six Extraction Crash Fix - Optimizing Gameplay on Your Computer System</u></a></li>
-<li><a href="https://win11.techidaily.com/saving-yourself-from-install-error-in-discord-set-up/"><u>Saving Yourself From Install Error in Discord Set-Up</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/selfie-to-world-stage-mastering-the-art-of-instagram-captions/"><u>Selfie to World Stage Mastering the Art of Instagram Captions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-strategies-for-persistent-connections-errors-in-apex-legends/"><u>Solution Strategies for Persistent Connections Errors in Apex Legends</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-new-world-connection-issue-a-comprehensive-guide/"><u>Solving the New World Connection Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y27-4g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y27 4G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-oneplus-open-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your OnePlus Open Phone Hassle-Free</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-tricks-to-prevent-freezing-optimizing-your-path-of-exile-experience/"><u>Tips and Tricks to Prevent Freezing: Optimizing Your Path of Exile Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-the-issue-when-humankind-app-wont-start/"><u>Troubleshooting Steps: Resolving the Issue When 'Humankind' App Won't Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-wsappx-causes-and-solutions-for-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Causes & Solutions for Excessive Memory and Processor Consumption</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-quip-kernel-memomaker-suite/"><u>[New] 2024 Approved Quip Kernel MemoMaker Suite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-create-powerful-biz-decks-with-no-cost-templates/"><u>[New] Create Powerful Biz Decks with No-Cost Templates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-ultimate-smartphone-selection-for-superior-video-recording-for-2024/"><u>[New] Ultimate Smartphone Selection for Superior Video Recording for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-your-roadmap-to-creating-top-notch-srt-files/"><u>[Updated] Your Roadmap to Creating Top-Notch SRT Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-video-lag-on-youtube-with-these-proven-fixes/"><u>Conquer Video Lag on YouTube with These Proven Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-fixes-for-chrome-crashes-on-windows-10-systems/"><u>Effortless Fixes for Chrome Crashes on Windows 10 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/maximizing-your-channels-earnings-a-guide-to-creating-impactful-trailers/"><u>Maximizing Your Channel's Earnings A Guide to Creating Impactful Trailers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-endless-startup-screen-problem-solved/"><u>Troubleshooting Fortnite's Endless Startup Screen Problem (Solved!)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-recurring-warzone-20-computer-failures-on-pc/"><u>Troubleshooting Guide for Recurring Warzone 2.0 Computer Failures on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-when-your-qbittorent-gets-stuck/"><u>Troubleshooting Steps: Resolving When Your qBittorent Gets Stuck</u></a></li>
+<li><a href="https://solve-info.techidaily.com/wonderfoxdvdprofactory-pro/"><u>WonderFoxストアで最新DVDコンバータProとFactory Pro両方ご利用いただけます!</u></a></li>
 </ul></div>
 

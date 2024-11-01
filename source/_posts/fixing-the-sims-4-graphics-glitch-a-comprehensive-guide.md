@@ -1,7 +1,7 @@
 ---
 title: "Fixing The Sims 4 Graphics Glitch: A Comprehensive Guide"
-date: 2024-09-05T09:00:14.790Z
-updated: 2024-09-06T09:00:14.790Z
+date: 2024-10-28T02:43:53.693Z
+updated: 2024-10-31T19:31:21.561Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59
 
 If you’re presented with an error message ‘_**DirectX Encountered an Unrecoverable Error**_ ‘, don’t worry. It’s quite easy to fix and the following are all the possible solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Close unnecessary background apps](https://tools.techidaily.com/drivereasy/download/)**
@@ -38,6 +32,13 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 * **Apps that support overlay features** (you can disable Discord Overlay or GeForce Experience Overlay etc.)
 
  Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Update your device drivers
 
@@ -73,22 +74,17 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4\. Once complete, restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3\. Repair your game files
 
  It’s possible that a corrupted game file cause the Warzone DirectX error. It’s easy to verify the integrity of your game files; all be done within a few clicks.
@@ -102,21 +98,16 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4\. Click**Begin Scan** , and wait for the process to complete.
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Play the game in DirectX 11 mode
 
  If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
@@ -127,22 +118,17 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click **Done** .
 
 ---
@@ -160,8 +146,6 @@ There are mainly two ways of updating your device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +153,26 @@ There are mainly two ways of updating your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-the-path-to-accessing-fb-status-video-footage/"><u>[Updated] 2024 Approved Navigating the Path to Accessing FB Status Video Footage</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-streamline-your-fb-feeds-with-these-5-video-grabbers/"><u>[Updated] 2024 Approved Streamline Your FB Feeds with These 5 Video Grabbers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-audio-compilations-for-video-production/"><u>2024 Approved Ultimate Audio Compilations for Video Production</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-streaming-error-free-tips-and-techniques-after-the-breakdown/"><u>Discord Streaming Error-Free: Tips and Techniques After the Breakdown</u></a></li>
+<li><a href="https://win-dash.techidaily.com/enhance-your-pc-geforce-rtx-3080-ti-driver-downloads-for-windows-versions-10-8-and-7/"><u>Enhance Your PC: GeForce RTX 3080 Ti Driver Downloads for Windows Versions 10, 8 & 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-gaming-overcoming-the-0x00001338-glitch-in-call-of-duty-vanguard-pc/"><u>Error-Free Gaming: Overcoming the 0X00001338 Glitch in Call of Duty Vanguard (PC)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-online-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Online Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990763562-fix-the-issue-playing-robocop-rogue-city-failed-on-windows-solutions-inside/"><u>Fix the Issue! Playing RoboCop: Rogue City Failed on Windows - Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-your-origin-app-back-up-and-running-on-pcs-fixes-for-windows-10-11-users/"><u>Getting Your Origin App Back Up and Running on PCs - Fixes for Windows 10-11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-the-cyberpunk-urtle-2077s-input-lag-dilemma-has-been-solved/"><u>How the Cyberpunk Urtle 2077'S Input Lag Dilemma Has Been Solved</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-13-pro-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 13 Pro - 4 Easy Ways</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-free-camera-apps-for-high-quality-slo-mo-photos-for-2024/"><u>Leading Free Camera Apps for High-Quality Slo-Mo Photos for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/leading-group-chat-tools-for-seamless-online-communication/"><u>Leading Group Chat Tools for Seamless Online Communication</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fixes-ensuring-smooth-gameplay-of-forza-horizon-5-on-your-computer/"><u>Mastering Fixes: Ensuring Smooth Gameplay of Forza Horizon 5 on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-productivity-how-to-utilize-chatgpt-as-a-remote-professional/"><u>Maximize Productivity: How to Utilize ChatGPT as a Remote Professional</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/optimizing-audio-output-solutions-for-low-sound-levels-on-windows-11-systems/"><u>Optimizing Audio Output: Solutions for Low Sound Levels on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-crashes-in-cyberpunk-2am-a-troubleshooters-handbook/"><u>Overcoming Game Crashes in Cyberpunk 2Am: A Troubleshooter's Handbook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010242351-speed-at-impact-the-higher-the-speed-the-more-severe-the-damage-tends-to-be/"><u>Speed at Impact - The Higher the Speed, the More Severe the Damage Tends to Be</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-gpu-usage-for-cyberpunk-2077-players-running-windows-11/"><u>Troubleshooting GPU Usage for Cyberpunk 2077 Players Running Windows 11</u></a></li>
+</ul></div>
 

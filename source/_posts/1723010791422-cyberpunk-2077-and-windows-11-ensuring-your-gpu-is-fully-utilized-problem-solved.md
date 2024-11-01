@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 and Windows 11: Ensuring Your GPU Is Fully Utilized - Problem Solved"
-date: 2024-10-22T16:08:26.953Z
-updated: 2024-10-26T17:50:02.624Z
+date: 2024-10-27T01:03:18.409Z
+updated: 2024-10-31T16:05:34.850Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -76,13 +83,6 @@ To do so, first visit the website of your graphics card manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -94,46 +94,39 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this trick doesn’t solve your problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -144,6 +137,13 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -170,14 +170,16 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-spark-20-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Spark 20 Pro FRP</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-10-replacement-tools-for-screenpal-on-pc-and-mac-platforms/"><u>Best 10 Replacement Tools for ScreenPal on PC & Mac Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/best-free-dvd-creation-tools-of-2024-top-picks-for-quick-and-easy-use-on-windows-11/"><u>Best Free DVD Creation Tools of 2024: Top Picks for Quick & Easy Use on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/buy-wonderfoxs-top-rated-nokia-video-transcoder-software-factory-pro-edition/"><u>Buy WonderFox's Top-Rated Nokia Video Transcoder Software – Factory Pro Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/capturing-live-webcast-audio-in-windows-10-a-step-by-step-guide/"><u>Capturing Live Webcast Audio in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/deciphering-cryptocurrency-the-essential-guide-to-understanding-tokens-vs-coins/"><u>Deciphering Cryptocurrency: The Essential Guide to Understanding Tokens Vs. Coins</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-complete-roadmap-implementing-subtitle-track-within-mp4s/"><u>In 2024, Complete Roadmap Implementing Subtitle Track Within MP4s</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-iconic-gaming-themes-the-ultimate-template-collection/"><u>In 2024, Iconic Gaming Themes The Ultimate Template Collection</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/king-your-youtube-success-story-a-comprehensive-guide-to-creative-studio/"><u>Unlocking Your Youtube Success Story A Comprehensive Guide to Creative Studio</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-mastering-your-fb-profile-picture-update/"><u>[New] 2024 Approved Mastering Your FB Profile Picture Update</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>[Updated] 2024 Approved Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-error-code-727e66ac-in-nba-2mysql-ultimate-guide-to-enhancing-your-2024-gaming-experience/"><u>Beat Error Code 727E66AC in NBA 2MySQL: Ultimate Guide to Enhancing Your 2024 Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-13-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi 13 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-the-troubles-how-to-stop-avatar-game-from-collapsing-on-windows-and-mac/"><u>Ending the Troubles - How to Stop Avatar Game From Collapsing on Windows & Mac</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-capabilities-comprehensive-review-of-the-highly-functional-samsung-gear-s3-frontier-smartwatch/"><u>Exploring the Capabilities: Comprehensive Review of the Highly Functional Samsung Gear S3 Frontier Smartwatch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-everspace-npc-version-from-crashing-solution-found/"><u>How To Stop Everspace nPC Version From Crashing (Solution Found)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-pc-instability-in-escape-from-tarkov-game/"><u>Resolved: Fixes for PC Instability in 'Escape From Tarkov' Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-not-responding-errors-in-your-pacific-drive-installation/"><u>Solving 'Not Responding' Errors in Your Pacific Drive Installation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-motorola-one-amoled-with-the-fastest-5g-speeds-and-best-battery-life-expertly-reviewed/"><u>The Motorola One Amoled with the Fastest 5G Speeds & Best Battery Life, Expertly Reviewed!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722885360867-trouble-with-error-code-0x8000-heres-your-ultimate-fix-manual/"><u>Trouble with Error Code 0X800([0])? Here's Your Ultimate Fix Manual!</u></a></li>
 </ul></div>
 

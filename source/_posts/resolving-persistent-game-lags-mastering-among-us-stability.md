@@ -1,7 +1,7 @@
 ---
 title: "Resolving Persistent Game Lags: Mastering 'Among Us' Stability"
-date: 2024-10-20T16:25:20.559Z
-updated: 2024-10-26T16:25:21.133Z
+date: 2024-10-27T20:40:41.838Z
+updated: 2024-11-01T03:24:43.758Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 3. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Verify integrity of game files
 
  When you have trouble launching your game properly, you need to check whether your game files are corrupted or missing. To do this, you can utilize the tool of verifying integrity of game files by following the steps below:
@@ -36,6 +43,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties…** .  
   
 ![verify integrity of game files Among Us](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-properties.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
@@ -50,6 +64,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -74,23 +95,16 @@ Here’s how to update drivers with Driver Easy:
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -99,10 +113,10 @@ Here’s how to update drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Delete temp files
@@ -119,18 +133,24 @@ Here’s how to update drivers with Driver Easy:
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
@@ -148,23 +168,9 @@ Here’s how to update drivers with Driver Easy:
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -191,16 +197,16 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-fb-soundbank-freeness-central/"><u>[Updated] 2024 Approved FB Soundbank Freeness Central</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps-for-2024/"><u>[Updated] Ace Your Screens The Premium Guide to Android’s Top 8 Capture Apps for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/achieve-peak-performance-in-games-with-a-new-asus-970-pro-gpu-upgrade/"><u>Achieve Peak Performance in Games with a New Asus 970 Pro GPU Upgrade</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-ways-to-prevent-and-fix-pacific-drive-crashes-on-desktops/"><u>Effective Ways to Prevent and Fix Pacific Drive Crashes on Desktops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eternal-cycle-of-resurgence-the-ultimate-guide-to-black-community-endurance/"><u>Eternal Cycle of Resurgence: The Ultimate Guide to Black Community Endurance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-game-nightmares-dealing-with-star-wars-jedi-fallen-order-not-starting/"><u>Fix Your Game Nightmares: Dealing with Star Wars Jedi: Fallen Order Not Starting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-call-of-duty-black-ops-4-failed-startup-issues/"><u>Fixes for Call of Duty Black Ops 4 Failed Startup Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-troubleshoot-a-non-responsive-rockstar-games-launcher/"><u>Fixing the Issue: How to Troubleshoot a Non-Responsive Rockstar Games Launcher</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-infinix-smart-8-plus-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Infinix Smart 8 Plus to Protect Your Individual Information</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/narrative-navigators-face-off-gpt-versus-google-bard/"><u>Narrative Navigators Face-Off: GPT Versus Google Bard</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[New] In 2024, Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-quick-fix-kinemaster-for-top-memes/"><u>[New] Quick-Fix KineMaster for Top Memes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-iii-stable-gaming-experience-on-pc-no-more-freezes/"><u>Crusader Kings III - Stable Gaming Experience on PC (No More Freezes)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/decibel-documentation-system-and-speech/"><u>Decibel Documentation System and Speech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-microphone-glitches-while-playing-among-us-pc/"><u>Fixing the Microphone Glitches While Playing Among Us (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-destiny-2-a-guide-to-fixing-error-code-centipede/"><u>Mastering Destiny 2: A Guide to Fixing Error Code Centipede</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/proven-techniques-to-enhance-subscriber-count-with-effective-channel-branding-for-2024/"><u>Proven Techniques to Enhance Subscriber Count with Effective Channel Branding for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-persistent-system-failures-with-the-thunder-tier-one-game/"><u>Resolved: Persistent System Failures with the Thunder Tier One Game</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screen-snatching-solution/"><u>Screen Snatching Solution</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-ultimate-on-the-go-clicker-experience-unmatched-precision-and-connectivity-with-the-sabrent-mini-mouse/"><u>The Ultimate On-the-Go Clicker: Experience Unmatched Precision and Connectivity with the Sabrent Mini Mouse</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-your-steam-vr-recognized-again/"><u>Troubleshooting Tips: How to Get Your Steam VR Recognized Again</u></a></li>
 </ul></div>
 

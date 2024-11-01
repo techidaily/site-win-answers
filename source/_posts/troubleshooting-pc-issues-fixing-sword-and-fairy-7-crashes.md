@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Issues: Fixing Sword and Fairy 7 Crashes"
-date: 2024-10-25T16:24:34.922Z
-updated: 2024-10-26T16:21:42.324Z
+date: 2024-10-26T23:24:19.820Z
+updated: 2024-10-31T19:12:27.783Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 – Turn off the preview window
@@ -46,13 +46,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Run OBS as an administrator
 
@@ -63,28 +70,15 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Close unnecessary background programs
 
@@ -93,13 +87,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
@@ -118,21 +105,28 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
 
@@ -177,22 +171,18 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-superior-global-stage-viewings/"><u>[New] 2024 Approved Superior Global Stage Viewings</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-apowersofts-latest-capture-tech-for-efficient-pc-recording/"><u>[New] Apowersoft's Latest Capture Tech for Efficient PC Recording</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-movie-swaps-top-7-alternate-films/"><u>2024 Approved Best Movie Swaps Top 7 Alternate Films</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-vlc-mp4-and-various-format-conversion-techniques/"><u>2024 Approved Mastering VLC MP4 & Various Format Conversion Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/amplifying-interactions-harmonizing-tunes-boomboxs-facebook-spotify-synergy/"><u>Amplifying Interactions, Harmonizing Tunes: Boombox's Facebook-Spotify Synergy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boosting-your-rainbow-six-extraction-gameplay-overcoming-fps-drops/"><u>Boosting Your Rainbow Six Extraction Gameplay: Overcoming FPS Drops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/code-combatants-unite-defeating-dev-error-n-2024-mw-black-ops-cold-war-warzone-insights/"><u>Code Combatants Unite! Defeating Dev Error N 2024: MW (Black Ops Cold War) - Warzone Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-resolve-dayz-fps-dips-or-hitches/"><u>Effortless Solutions to Resolve DayZ FPS Dips or Hitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exclusive-insight-the-fix-to-the-notorious-destiny-anguishing-centipede-problem/"><u>Exclusive Insight: The Fix to the Notorious Destiny Anguishing Centipede Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ghost-recon-breakpoint-stability-swift-solutions-to-avoid-game-disruptions/"><u>Ghost Recon Breakpoint Stability: Swift Solutions to Avoid Game Disruptions!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722985559033-how-to-fix-cod-black-ops-cold-war-error-code-887a0005-instantly/"><u>How to Fix COD Black Ops Cold War Error Code 887A0005 Instantly!</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/illustrate-like-a-pro-selecting-superior-vector-image-creators-for-2024/"><u>Illustrate Like a Pro Selecting Superior Vector Image Creators for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-playtime-pauses-getting-csglobal-offensive-running-again/"><u>Overcoming Playtime Pauses: Getting CS:Global Offensive Running Again</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/recover-lost-files-with-ease-using-these-top-3-free-tools-on-windows-11/"><u>Recover Lost Files with Ease Using These Top 3 Free Tools on Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-opening-rar-compressed-folders-without-costs-on-pc-and-mac-systems/"><u>Step-by-Step Tutorial: Opening RAR Compressed Folders Without Costs on PC & Mac Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-ping-issues-for-a-smoother-experience-in-bless-unleashed-on-pc/"><u>Troubleshooting Ping Issues for a Smoother Experience in Bless Unleashed on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-frame-rate-drop-problems-in-pc-games/"><u>Ultimate Guide to Resolving Frame Rate Drop Problems in PC Games</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-ensuring-effective-monetization-strategies-for-yt-channels/"><u>[Updated] Ensuring Effective Monetization Strategies for YT Channels</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premium-terraria-enhancements-guide/"><u>[Updated] In 2024, Premium Terraria Enhancements Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-guide-resolving-wwe-2k20-pc-game-crashes-in-minutes/"><u>Effortless Guide: Resolving WWE 2K20 PC Game Crashes in Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-fallout-new-vegas-stuttering-problems/"><u>Expert Tips for Correcting Fallout New Vegas Stuttering Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-voice-chat-glitches-in-among-us-for-windows-users/"><u>Fixing Voice Chat Glitches in Among Us for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-persistent-war-thunder-game-crashes-expert-advice/"><u>How to Resolve Persistent War Thunder Game Crashes: Expert Advice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-apples-m1-max-attachments-a-detailed-guide/"><u>In 2024, Apple’s M1 Max Attachments A Detailed Guide</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-vivo-v30-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Vivo V30 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-complete-guide-for-posting-photos-online/"><u>In 2024, The Complete Guide for Posting Photos Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-quiet-twitch-live-streams-how-to-restore-your-sound/"><u>No More Quiet Twitch Live Streams: How to Restore Your Sound</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-missing-msstfmtdll-error-a-comprehensive-guide/"><u>Resolving 'Missing msstfmt.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-unexpected-downtime-in-tribes-of-midgard/"><u>Troubleshooting the Unexpected Downtime in 'Tribes of Midgard'</u></a></li>
 </ul></div>
 

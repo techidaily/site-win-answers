@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2024-10-20T16:35:15.424Z
-updated: 2024-10-26T16:40:56.503Z
+date: 2024-10-31T04:01:47.273Z
+updated: 2024-11-01T07:31:33.692Z
 tags:
   - win11
   - win10
@@ -87,13 +87,6 @@ If your game isn’t on the list, follow these steps:
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -106,10 +99,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -119,38 +112,38 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -169,22 +162,29 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -224,22 +224,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-youtubes-secret-to-success-a-compre-ffive-essential-keyword-tools/"><u>[New] In 2024, YouTube's Secret to Success A Compre FFive Essential Keyword Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unveiling-the-most-innovative-free-video-editors-for-idevices/"><u>[Updated] 2024 Approved Unveiling the Most Innovative Free Video Editors for iDevices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-closing-with-panache-free-youtubes-1-six/"><u>[Updated] Closing with Panache Free YouTube's #1 Six!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-started-streaming-learn-obs-for-youtube-now/"><u>2024 Approved Started Streaming? Learn OBS for Youtube Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bicycle-becomes-bicycles/"><u>Bicycle Becomes Bicycles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capture-call-transcript-for-study-for-2024/"><u>Capture Call Transcript for Study for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-strives-performance-lags-solutions-explored/"><u>Fixing Strive's Performance Lags: Solutions Explored</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-eliminate-web-browsing-distractions-a-step-by-step-guide-to-stop-chromiums-erratic-behavior-on-windows/"><u>How to Eliminate Web Browsing Distractions: A Step-by-Step Guide to Stop Chromium's Erratic Behavior on Windows</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/how-to-upload-3gp-files-to-youtube-conversion-guide/"><u>How to Upload 3GP Files to YouTube - Conversion Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/navigating-updated-youtube-money-strategies/"><u>Navigating Updated YouTube Money Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/re-establishing-play-fixing-lost-connections-on-blizzard-servers/"><u>Re-Establishing Play: Fixing Lost Connections on Blizzard Servers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-sony-vegas-media-studio-from-crashing/"><u>Resolved! How to Stop Sony Vegas Media Studio From Crashing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-blueprint-for-youtube-educational-video-success-stories-for-2024/"><u>The Blueprint for YouTube Educational Video Success Stories for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-stability-guide-resolving-the-game-crash-dilemma/"><u>Total War: Three Kingdoms Stability Guide: Resolving the Game Crash Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-of-the-content-warning-tool-on-desktop-systems/"><u>Troubleshooting Persistent Crashes of the Content Warning Tool on Desktop Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-finding-solutions-for-pc-instances-of-slime-rancher-ncrashes-and-stalls/"><u>Ultimate Guide to Finding Solutions for PC Instances of Slime Rancher nCrashes and Stalls</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/1728495052216-windows-10/"><u>Windows 10 のインストール失敗を解消する：新パソコンへのクローニング後</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-success-the-leading-25-tagging-tactics-for-2024/"><u>[New] Instagram Success The Leading 25 Tagging Tactics for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-save-youtube-playback-a-comprehensive-screencast-guide-at-no-cost/"><u>[Updated] Save YouTube Playback A Comprehensive Screencast Guide at No Cost</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/audience-friendly-guide-to-dji-inspire-2-for-2024/"><u>Audience-Friendly Guide to DJI Inspire 2 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bottleneck-overcoming-dying-lights-lag-challenges/"><u>Beat the Bottleneck: Overcoming Dying Light's Lag Challenges</u></a></li>
+<li><a href="https://games-able.techidaily.com/digital-delights-or-dilemmas-discover-the-pros-and-cons-of-games/"><u>Digital Delights or Dilemmas? Discover the Pros & Cons of Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dreaded-steamvr-error-code-308-a-comprehensive-guide/"><u>Fixing the Dreaded SteamVR Error Code 308: A Comprehensive Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-12-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-strategy-for-fixing-conflict-zones-problematic-error-103003/"><u>In-Depth Strategy for Fixing Conflict Zone's Problematic Error 103003</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-performance-in-new-games-fixing-low-fps-for-smoother-play/"><u>Optimize Performance in New Games: Fixing Low FPS for Smoother Play</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utionize-your-audience-youtube-marketing-101-for-2024/"><u>Revolutionize Your Audience YouTube Marketing 101 for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sonic-immersion-for-static-snapshots-for-2024/"><u>Sonic Immersion for Static Snapshots for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-stabilize-the-unreliable-fuser-program-on-your-desktop-computer/"><u>Step-by-Step Guide to Stabilize the Unreliable Fuser Program on Your Desktop Computer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/step-by-step-guide-setting-up-a-portable-version-of-aomei-backupper/"><u>Step-by-Step Guide: Setting Up a Portable Version of AOMEI Backupper</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-fixing-amazon-prime-video-streaming-issues/"><u>Troubleshooting Steps: Fixing Amazon Prime Video Streaming Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998391754-windows-1110-spatial-audio-problems-heres-how-you-can-get-it-working-again/"><u>Windows 11/10 Spatial Audio Problems? Here's How You Can Get It Working Again</u></a></li>
 </ul></div>
 

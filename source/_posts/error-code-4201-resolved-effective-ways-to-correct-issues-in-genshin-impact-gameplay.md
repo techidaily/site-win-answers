@@ -1,7 +1,7 @@
 ---
 title: "Error Code 4201 Resolved: Effective Ways to Correct Issues in Genshin Impact Gameplay"
-date: 2024-09-01T04:20:15.249Z
-updated: 2024-09-02T04:20:15.249Z
+date: 2024-10-25T16:13:35.331Z
+updated: 2024-11-01T04:10:48.064Z
 tags:
   - win11
   - win10
@@ -47,8 +47,12 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -74,8 +78,12 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Configure DNS settings
 
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
@@ -83,15 +91,41 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Preferred DNS server:** **9.9.9.9**  
  Alternate DNS server:**149.112.112.112**  
@@ -100,9 +134,6 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Update your network adapter driver
 
  If you’ve tried the fixes above but nothing worked, you may try to update your network adapter driver. Making sure your network adapter driver is working properly could help solve Error 4201 on Genshin Impact.
@@ -117,26 +148,11 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update your graphics driver as well (see as below.)  
  (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -156,8 +172,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +179,18 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-virtual-paths-to-fitness-ranking-elite-treadmills/"><u>[Updated] 2024 Approved Virtual Paths to Fitness Ranking Elite Treadmills</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-strategic-approaches-to-mass-acquirement-of-tiktok-videos/"><u>[Updated] In 2024, Strategic Approaches to Mass Acquirement of TikTok Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-stream-like-a-pro-integrate-your-obs-setup-for-youtube-and-twitch/"><u>[Updated] In 2024, Stream Like a Pro Integrate Your OBS Setup for YouTube & Twitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994018039-borderlands-3-stuck-easy-fixes-to-revive-your-epic-gaming-experience/"><u>Borderlands 3 Stuck? Easy Fixes to Revive Your Epic Gaming Experience!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/euro-truck-simulator-2-how-to-fix-and-prevent-common-pc-crash-issues/"><u>Euro Truck Simulator 2: How to Fix and Prevent Common PC Crash Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-new-msi-audio-device-drivers-on-your-window-pc/"><u>How to Install New MSI Audio Device Drivers on Your Window PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-error-42eb8-in-genshin-impact-step-by-step-troubleshooting/"><u>How to Overcome Error 42Eb8 in Genshin Impact: Step-by-Step Troubleshooting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-to-pay-for-apple-books-purchases-on-iphone-se-2020-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID to Pay for Apple Books Purchases on iPhone SE (2020)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ideal-slide-show-tools-for-iphone-series-10-13-upgrades-for-2024/"><u>Ideal Slide Show Tools For iPhone Series 10-13 Upgrades for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-frequent-new-world-pc-crashes-a-step-by-step-guide/"><u>Overcoming Frequent 'New World' PC Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-for-origin-game-client-failure-to-start-on-windows-11-systems/"><u>Solution for Origin Game Client Failure to Start on Windows 11 Systems</u></a></li>
+</ul></div>
 

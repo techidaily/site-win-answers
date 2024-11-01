@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Halo Infinity: Solutions for the Undetected Data Center Connection Failure"
-date: 2024-10-22T16:58:31.667Z
-updated: 2024-10-26T16:52:24.967Z
+date: 2024-10-29T21:58:04.265Z
+updated: 2024-11-01T12:20:27.642Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -66,17 +59,23 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -88,29 +87,30 @@ If this fix doesn’t work, move to the next fix.
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -150,24 +150,24 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -192,17 +192,16 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-cut-to-the-chase-techniques-for-tightening-youtube-content-for-2024/"><u>[New] Cut to the Chase Techniques for Tightening YouTube Content for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-10-lost-and-found-techniques-for-iphone-x/"><u>[Updated] Top 10 Lost and Found Techniques for iPhone X</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-best-7-live-streaming-apps-to-amplify-your-youtube-presence-on-iphone-and-android/"><u>2024 Approved Best 7 LIVE Streaming Apps to Amplify Your YouTube Presence on iPhone and Android</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comment-puis-je-recreer-une-image-sur-un-support-different-a-laide-daomei-backupper/"><u>Comment Puis-Je Recréer Une Image Sur Un Support Différent À L'aide D'AOMEI Backupper ?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-versatile-capabilities-an-in-depth-look-at-the-samsung-gear-s3-frontier-smartwatch-review/"><u>Exploring the Versatile Capabilities - An In-Depth Look at the Samsung Gear S3 Frontier Smartwatch Review</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-process-for-transforming-twitch-vods-clips-and-uploads-into-audio-format-mp3/"><u>Step-by-Step Process for Transforming Twitch VODs, Clips & Uploads Into Audio Format (MP3)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/steps-to-secure-unmarked-stock-photos-for-business/"><u>Steps to Secure Unmarked Stock Photos for Business</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/the-insiders-guide-to-instagram-video-engagement-for-2024/"><u>The Insider’s Guide to Instagram Video Engagement for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-4k-video-software-select-the-top-4-editors-picks-for-superior-viewing/"><u>The Ultimate Guide to 4K Video Software : Select the Top 4 Editors' Picks for Superior Viewing!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-11-reliable-websites-for-legal-free-mp3-download-choices/"><u>Top 11 Reliable Websites for Legal Free MP3 Download Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-9-unpaid-flac-format-transformers-the-ultimate-guide/"><u>Top 9 Unpaid FLAC Format Transformers: The Ultimate Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-mastering-tiktok-identity-ultimate-profile-transformation-guide/"><u>[New] 2024 Approved Mastering TikTok Identity Ultimate Profile Transformation Guide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolution-control-reducing-windows-11-screen-width/"><u>[RESOLUTION CONTROL] Reducing Windows 11 Screen Width</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-local-audiences-with-social-media-videos/"><u>[Updated] 2024 Approved Engaging Local Audiences with Social Media Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-journey-into-cinematic-precision-with-windows-high-dynamic-range-support/"><u>[Updated] Journey Into Cinematic Precision with Windows High-Dynamic Range Support</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-gameplay-the-right-system-build/"><u>Maximizing Gameplay - The Right System Build</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/problembehebung-bei-der-apple-id-authentifizierungsfehler/"><u>Problembehebung Bei Der Apple ID Authentifizierungsfehler</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-dying-light-performance-lags-tips-and-tricks/"><u>Resolving Dying Light Performance Lags: Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-frame-rate-issues-in-fallout-76/"><u>Resolving Frame Rate Issues in Fallout 76</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-tricks-to-fast-track-your-synaptics-ps2-touchpad-driver-update-process/"><u>Simple Tricks to Fast-Track Your Synaptics PS/2 Touchpad Driver Update Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-in-high-fidelity-gaming-why-the-nvidia-geforce-gtx-1080-ti-reigns-supreme/"><u>The Ultimate in High-Fidelity Gaming: Why the NVIDIA GeForce GTX 1080 Ti Reigns Supreme</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unable-to-open-nier-recomplete-version-expert-guidance-inside/"><u>Unable to Open NieR Re;Complete Version? Expert Guidance Inside</u></a></li>
 </ul></div>
 

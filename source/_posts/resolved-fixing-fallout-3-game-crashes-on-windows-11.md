@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2024-10-22T16:55:21.433Z
-updated: 2024-10-26T17:00:59.434Z
+date: 2024-10-26T05:45:27.023Z
+updated: 2024-10-31T19:21:59.007Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
@@ -88,24 +95,31 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -116,10 +130,16 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-click **Path of Exile** and select **Properties** .
@@ -137,10 +157,10 @@ In case this fix didn’t help, please move on to Fix 4.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
@@ -158,24 +178,18 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change certain in-game configurations
 
@@ -189,25 +203,11 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -237,17 +237,20 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-correct-facebook-status-update-delays/"><u>[Updated] 2024 Approved Correct Facebook Status Update Delays</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-leading-downloader-software-facebooks-top-choices-5/"><u>[Updated] 2024 Approved Leading Downloader Software Facebook's Top Choices #5</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-precision-and-power-a-filmmakers-guide-to-professional-voice-over-techniques/"><u>[Updated] Precision and Power A Filmmaker's Guide to Professional Voice-Over Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-pc-issue-no-more-with-these-fixes-for-error-code-0x00001338-resolved/"><u>Call of Duty Vanguard PC Issue? No More with These Fixes for Error Code 0X00001338 [RESOLVED]</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhanced-by-cookiebot-solutions-boosting-website-analytics-and-seo-success/"><u>Enhanced By Cookiebot Solutions: Boosting Website Analytics and SEO Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-incessant-load-solutions-for-overcoming-red-dead-redemption-2-freeze/"><u>Fixing the Incessant Load: Solutions for Overcoming Red Dead Redemption 2 Freeze</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-nokia-xr21-devices-by-drfone-android/"><u>How to Reset Gmail Password on Nokia XR21 Devices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>In 2024, Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-solutions-for-connecting-iphone-to-itunes-in-windows-11/"><u>Resolved! Solutions for Connecting iPhone to iTunes in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999296929-the-secret-to-preventing-star-wars-squadron-clashes-a-comprehensive-guide-for-gamers/"><u>The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-affordable-headphones-for-march-2024-shop-smart-with-zdnet/"><u>Ultimate Guide to Affordable Headphones for March 2024 | Shop Smart with ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-oneplus-ace-2v-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On OnePlus Ace 2V? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-key-principles-to-deliver-dynamic-ppt-in-online-meets-for-2024/"><u>[Updated] Key Principles to Deliver Dynamic PPT in Online Meets for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-hidden-dynamics-of-live-video-images-on-youtube/"><u>[Updated] The Hidden Dynamics of Live Video Images on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-screen-capture-unveiled-with-irecorder/"><u>2024 Approved Screen Capture Unveiled with iRecorder</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/easy-and-secure-disk-cloning-with-hirens-the-ultimate-step-by-step-tutorial/"><u>Easy and Secure Disk Cloning with HIRENS - The Ultimate Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-strategies-expert-tips-on-streamlining-shader-performance-in-star-wars-battlefront-ii/"><u>Efficient Strategies: Expert Tips on Streamlining Shader Performance in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-gaming-experience-with-horizon-zero-dawn-performance-tweaks/"><u>Elevate Your Gaming Experience with Horizon Zero Dawn Performance Tweaks</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhancements-in-windows-10-unveiled/"><u>Enhancements in Windows 10 Unveiled</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y77t-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y77t Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-x50iplus-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor X50i+ Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-2-fixed-improving-pc-performance-no-more-dropping-frames-or-stuttering-during-gameplay/"><u>Modern Warfare 2 Fixed: Improving PC Performance, No More Dropping Frames or Stuttering During Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-interruptions-resolving-unexpected-freezes-in-fallout-3-gameplay-for-windows-10-users/"><u>No More Interruptions: Resolving Unexpected Freezes in Fallout 3 Gameplay for Windows 10 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/oculus-link-display-malfunction-correct-it-quickly-with-these-6-tips/"><u>Oculus Link Display Malfunction? Correct It Quickly with These 6 Tips!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012357338-resolved-issues-with-destiny-2-pc-startup-play-without-interruptions/"><u>Resolved Issues with Destiny 2 PC Startup – Play Without Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-guide-to-mastering-shader-optimization-in-star-wars-battlefront-ii/"><u>Speedy Guide to Mastering Shader Optimization in Star Wars Battlefront II</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncovering-historical-facebook-bonds/"><u>Uncovering Historical Facebook Bonds</u></a></li>
 </ul></div>
 

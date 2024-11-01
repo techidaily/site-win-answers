@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2024-10-24T17:26:01.487Z
-updated: 2024-10-26T16:49:20.152Z
+date: 2024-10-25T06:56:11.164Z
+updated: 2024-11-01T05:08:05.994Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -78,13 +71,26 @@ Here’s how:
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -117,11 +123,25 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -133,21 +153,7 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -172,18 +178,15 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-easy-walkthrough-for-old-facebook-stories-on-laptops-and-phones/"><u>[New] In 2024, Easy Walkthrough for Old Facebook Stories on Laptops & Phones</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-breaking-boundaries-top-10-novel-facebook-memes/"><u>2024 Approved Breaking Boundaries Top 10 Novel Facebook Memes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-online-gameplay-glitches-mastering-high-ping-solutions-for-an-epic-chivalry-2-adventure-latest-fixes/"><u>Conquering Online Gameplay Glitches: Mastering High Ping Solutions for an Epic Chivalry 2 Adventure (Latest Fixes)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-persistent-black-screen-problem-in-rainbow-six-siege-pc/"><u>Effective Solutions for the Persistent Black Screen Problem in Rainbow Six Siege (PC)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-fix-stop-0x0000007b-errors/"><u>How to Fix STOP 0X0000007B Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/installing-the-newest-logitech-g403-software-on-your-computer/"><u>Installing the Newest Logitech G403 Software on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-fix-ultimate-guide-to-preventing-game-crashes-in-paladins-latest-updates/"><u>Master the Fix: Ultimate Guide to Preventing Game Crashes in Paladins - Latest Updates</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-locations-to-grab-snapchat-chime-downloads/"><u>Prime Locations to Grab Snapchat Chime Downloads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-solve-your-kernelbasedll-crashes-instantly/"><u>Quick Fix: Solve Your KernelBase.dll Crashes Instantly!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-apple-vision-pro-at-a-surprising-low-price-of-just-200-down-from-regular-retail-exclusive-amazon-blowout-sale/"><u>Secure Your Apple Vision Pro at a Surprising Low Price of Just $200 Down From Regular Retail – Exclusive Amazon Blowout Sale!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/starfield-crashing-problem-solved-for-smooth-gaming-experience-on-desktop/"><u>Starfield Crashing Problem Solved for Smooth Gaming Experience on Desktop</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/synchronize-successfully-a-comprehensive-method-for-wireless-samsung-earbuds-and-laptop-integration/"><u>Synchronize Successfully: A Comprehensive Method for Wireless Samsung Earbuds and Laptop Integration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-the-postponement-of-guilty-gear-strives-official-launch-date/"><u>Understanding the Postponement of Guilty Gear Strive's Official Launch Date</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iscover-top-10-flv-to-youtube-conversion-tools/"><u>[New] Discover Top 10 Flv-to-YouTube Conversion Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-raw-to-refined-youtube-thumbnail-creation-for-mobile-users-for-2024/"><u>[New] From Raw to Refined YouTube Thumbnail Creation for Mobile Users for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alien-fireteam-elite-stability-issues-on-pc-solutions-inside/"><u>Alien: Fireteam Elite Stability Issues on PC - Solutions Inside!</u></a></li>
+<li><a href="https://discover-community.techidaily.com/best-free-substitutes-to-pinnacle-studio-top-5-options-compatible-with-both-windows-and-macos/"><u>Best Free Substitutes to Pinnacle Studio: Top 5 Options Compatible with Both Windows & macOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-solving-launch-issues-in-armored-core-vi-the-fires-of-rubicon-not-opening-dilemma/"><u>Expert Tips for Solving Launch Issues in Armored Core VI - The 'Fires of Rubicon Not Opening' Dilemma</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://discover-best.techidaily.com/handbrake-capability-can-you-merge-multiple-videos-into-one/"><u>HandBrake Capability: Can You Merge Multiple Videos Into One?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-latency-issues-ultimate-guide-to-reducing-lag-in-street-fighter-6/"><u>Resolving Latency Issues: Ultimate Guide to Reducing Lag in Street Fighter 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-among-us-from-freezing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop 'Among Us' From Freezing! Expert Tips for a Smooth Gaming Experience</u></a></li>
 </ul></div>
 

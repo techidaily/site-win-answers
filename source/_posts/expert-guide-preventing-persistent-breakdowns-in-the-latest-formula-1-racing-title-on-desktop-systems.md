@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Preventing Persistent Breakdowns in the Latest Formula 1 Racing Title on Desktop Systems"
-date: 2024-10-19T17:08:17.159Z
-updated: 2024-10-26T17:51:23.800Z
+date: 2024-10-26T04:26:42.250Z
+updated: 2024-10-31T23:59:45.630Z
 tags:
   - win11
   - win10
@@ -36,10 +36,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -61,9 +61,23 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -80,10 +94,16 @@ The outdated or broken graphics driver often crashes the game.
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -94,13 +114,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -109,21 +122,7 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
@@ -135,6 +134,13 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -170,19 +176,19 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-video-editors-alternatives-to-inshot/"><u>[New] In 2024, Video Editors Alternatives to Inshot</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-storage-space-used-daily-extended-video-size/"><u>[New] Storage Space Used Daily Extended Video Size</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-5-ps3-emulation-software-pc-edition-2023/"><u>2024 Approved Top 5 Ps3 Emulation Software - PC Edition, 2023</u></a></li>
-<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-delay-clarified-what-gamers-need-to-know/"><u>Assassin's Creed Valhalla Delay Clarified - What Gamers Need to Know</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-lag-reducing-cpu-strain-while-playing-phasmophobia/"><u>Beat the Lag: Reducing CPU Strain While Playing Phasmophobia</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-preventing-recurring-crashes-while-playing-f1-2021-on-windows/"><u>Expert Advice: Preventing Recurring Crashes While Playing F1 2021 on Windows</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/free-guide-how-to-download-videos-from-flickr-without-hacking/"><u>FREE GUIDE: How to Download Videos From Flickr without Hacking</u></a></li>
-<li><a href="https://win-answers.techidaily.com/granblue-fantasy-help-corrective-steps-to-get-your-relink-feature-running-smoothly/"><u>Granblue Fantasy Help: Corrective Steps to Get Your 'Relink' Feature Running Smoothly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-creating-a-virtual-office-space-with-google-meet/"><u>In 2024, Creating a Virtual Office Space with Google Meet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-powerful-ring-doorbell-proplus-unit/"><u>In-Depth Analysis of the Powerful Ring Doorbell Pro+ Unit</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gameplay-solutions-to-combat-frame-rate-drops-and-stutters-in-aoe-iv/"><u>Smooth Gameplay: Solutions to Combat Frame Rate Drops and Stutters in AoE IV</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-top-8-remedies-for-guardians-of-the-galaxy-pc-game-crashes/"><u>Solving the Issue: Top 8 Remedies for 'Guardians of the Galaxy' PC Game Crashes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-figmas-bg-elimination-mastery-for-2024/"><u>Unveiling Figma's BG Elimination Mastery for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-proper-techniques-for-easy-iphone-screen-recording/"><u>[New] 2024 Approved Proper Techniques for Easy iPhone Screen Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-fb-videos-made-quick-proximity-tricks-for-instant-uploaddownload/"><u>[Updated] In 2024, FB Videos Made Quick Proximity Tricks for Instant Upload/Download</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-finest-6-economical-4k-hd-projector-picks/"><u>2024 Approved Finest 6 Economical 4K HD Projector Picks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-official-konica-minolta-printer-software-for-windows-operating-systems-windows-111087/"><u>Download Official Konica Minolta Printer Software for Windows Operating Systems (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stabilize-and-repair-phoenix-point-performance-glitches/"><u>How to Stabilize and Repair Phoenix Point Performance Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-mordhau-from-crashing-on-your-pc-or-console/"><u>How to Stop Mordhau From Crashing on Your PC or Console</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-nubia-z50-ultra-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Nubia Z50 Ultra Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-microsoft-quick-fixes-for-a-broken-start-menu-on-windows-11/"><u>Mastering Microsoft: Quick Fixes for a Broken Start Menu on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/metro-exodus-pc-version-stabilization-techniques-no-more-unwanted-restarts/"><u>Metro Exodus PC Version Stabilization Techniques – No More Unwanted Restarts</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-dub-like-a-pro-top-6-video-dubbing-apps-for-funny-videos/"><u>New In 2024, Dub Like a Pro Top 6 Video Dubbing Apps for Funny Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/spectacular-8k-cameras-top-picks-for-quality-for-2024/"><u>Spectacular 8K Cameras Top Picks for Quality for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speeding-up-utorrent-effective-strategies-to-improve-transfer-rates/"><u>Speeding Up uTorrent: Effective Strategies to Improve Transfer Rates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-fixing-the-graphics-driver-errors-on-your-oculus-device/"><u>Success Story - Fixing The Graphics Driver Errors On Your Oculus Device</u></a></li>
 </ul></div>
 

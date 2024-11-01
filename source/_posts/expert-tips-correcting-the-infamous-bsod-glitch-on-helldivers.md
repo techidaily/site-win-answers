@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️"
-date: 2024-10-20T17:09:31.851Z
-updated: 2024-10-26T16:51:59.600Z
+date: 2024-10-28T18:46:13.944Z
+updated: 2024-10-31T16:59:50.667Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  Before we dive into anything advanced, please try to restart the game and your PC to see if it’s a random one-time error.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check Destiny 2 server status
 
  Since the Error Centipede is a general networking error, the first thing you can do is to check if the server is down. If Destiny 2 is undergoing maintenance, you won’t be able to connect to the server and thus may get the Centipede Error.
@@ -54,6 +47,19 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
  You can refer to the[Bungie Help page](https://help.bungie.net/hc/en-us/articles/360049199271-Destiny-Server-and-Update-Status) and[Bungie Help official Twitter](https://twitter.com/BungieHelp) for upcoming maintenance schedules and real-time notifications.
 
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Check your Internet connection
 
@@ -65,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 * You can also**run an Internet speed test** to see if there’s anything wrong. If your Internet speed appears to be unreasonably low, you may need to contact your Internet Service Provider for help.
 
 If you still get the Error Centipede, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Choose NAT Type 1/Open NAT
 
@@ -84,13 +97,6 @@ If you still get the Error Centipede, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
 6. Once you’re logged in, look for UPnP settings. The location may differ on different brands, you can refer to user manuals or turn to specialists for help.
 7. **Enable UPnP** , and save the changes.
@@ -108,19 +114,6 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
 #### Step 2: Assign a static IP address
@@ -131,17 +124,31 @@ You can now test a game to see if you still get the Centipede Error.
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
 
@@ -180,13 +187,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -212,10 +212,10 @@ You can now test a game to see if you still get the Centipede Error.
  Restart your PC for the new drivers to take effect. If this doesn’t solve the Error Centipede for you, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Use a VPN when your Internet access is restricted
@@ -253,16 +253,21 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-extract-facebooks-most-viewed-videos-anywhere-2023-for-2024/"><u>[New] Extract Facebook's Most Viewed Videos Anywhere, 2023 for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-mts/"><u>2024年度の最新 MTS 統合型無料アプリランキング - お勧め選品</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/halo-infinite-blackout-blues-heres-how-to-fix-it-once-and-for-all/"><u>Halo Infinite Blackout Blues? Here's How to Fix It Once and For All</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Xiaomi Redmi A2+? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030473110-mp38/"><u>MP3データを効率良く分けるためのベストフリーウェアランキング：トップ8推薦!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029249642-pc/"><u>PCでジャニーズのライブストリーミング動画記録・保管方法</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/quick-profits-in-the-digital-realm-a-beginners-guide-to-digiarty-software-affiliate-programs/"><u>Quick Profits in the Digital Realm: A Beginner's Guide to Digiarty Software Affiliate Programs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-vivo-s18e-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Vivo S18e Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/ultimate-iphone-video-editor-comparison-cameo-or-filmorago/"><u>Ultimate iPhone Video Editor Comparison Cameo or FilmoraGo</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028937589-youtube/"><u>YouTubeアップロード時のエラー解決法:動画が公開されない理由</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030273131-audacity/"><u>プロ級の音楽編集: Audacity使いこく！: 最新テクニックとヒント</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ace-search-engine-rankings-on-youtube-11-proven-seo-methods/"><u>[New] In 2024, Ace Search Engine Rankings on YouTube 11 Proven SEO Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-addressed-persistent-app-failures-for-wot-blitz-users/"><u>[RESOLVED ISSUE] Addressed Persistent App Failures for WoT Blitz Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-free-high-quality-youtube-banner-samples-inside/"><u>[Updated] In 2024, Free High-Quality YouTube Banner Samples Inside!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/adopt-a-romanian-heart-through-our-app/"><u>Adopt a Romanian Heart Through Our App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/beyond-rote-learning-how-ai-is-revolutionizing-software-development-with-advanced-intelligence-insights-from-zdnet/"><u>Beyond Rote Learning: How AI Is Revolutionizing Software Development with Advanced Intelligence - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-encountered-an-error-message-on-geforce-experience-easily/"><u>Fixing the 'Encountered an Error' Message on GeForce Experience Easily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-google-pixel-fold-to-mac-drfone-by-drfone-android/"><u>How to Mirror Google Pixel Fold to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-smooth-gameplay-essential-tips-to-resolve-2024s-dota-2-latency-problems/"><u>Mastering Smooth Gameplay: Essential Tips to Resolve 2024'S Dota 2 Latency Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/modernizing-ai-assessment-are-there-up-to-date-alternatives-to-the-classic-turing-test/"><u>Modernizing AI Assessment: Are There Up-to-Date Alternatives to the Classic Turing Test?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavimovogg/"><u>Movavi提供：圧縮なしでMOVファイルをOGGに変換する無料オンラインツール</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-disrupt-the-norm-top-glitch-art-video-editing-apps-for-ios-and-android-creators/"><u>New In 2024, Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-top-10-hd-webcams-and-buyers-advice-for-2024/"><u>Professional Top 10 HD Webcams & Buyer's Advice for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speed-up-your-steam-experience-essential-fixes-for-slow-running-issues/"><u>Speed up Your Steam Experience – Essential Fixes for Slow Running Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/struggling-to-get-into-game-mode-solving-your-rocket-league-startup-woes/"><u>Struggling to Get Into Game Mode? Solving Your Rocket League Startup Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-constant-crashes-in-the-latest-version-of-insurgency-sandstorm/"><u>Troubleshooting Guide: Fixing Constant Crashes in the Latest Version of Insurgency: Sandstorm</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-payday-2-pc-launch-problems/"><u>Troubleshooting Steps for Fixing 'Payday 2' PC Launch Problems</u></a></li>
 </ul></div>
 

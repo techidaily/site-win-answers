@@ -1,7 +1,7 @@
 ---
 title: "Beat the Crashes: Ultimate Guide to Running Hearts of Iron IV Stably"
-date: 2024-10-25T17:08:29.650Z
-updated: 2024-10-26T17:58:52.151Z
+date: 2024-10-29T07:15:34.039Z
+updated: 2024-10-31T20:35:23.379Z
 tags:
   - win11
   - win10
@@ -35,23 +35,9 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
 
@@ -64,13 +50,20 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
@@ -100,7 +93,21 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -114,10 +121,10 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
@@ -130,13 +137,6 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -164,22 +164,18 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-photo-finesse-leading-edits-for-social-media-savvy/"><u>[New] Photo Finesse Leading Edits for Social Media Savvy</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-selecting-the-optimal-mac-microphone-recorders-our-expert-picks-of-5/"><u>[Updated] 2024 Approved Selecting the Optimal Mac Microphone Recorders Our Expert Picks of 5</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-photobooth-hiccups-resolving-frozen-playback-issues-for-2024/"><u>[Updated] Photobooth Hiccups Resolving Frozen Playback Issues for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/academic-dedication-rejecting-unfair-help-from-ai/"><u>Academic Dedication: Rejecting Unfair Help From AI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/burning-iso-files-to-dvd-in-windows-top-2-no-cost-techniques-for-windows-11-and-earlier-versions/"><u>Burning ISO Files to DVD in Windows - Top 2 No-Cost Techniques for Windows 11 & Earlier Versions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-regional-lockout-for-region-2-dvds-enjoy-unrestricted-access-and-playback/"><u>Bypass Regional Lockout for Region 2 DVDs: Enjoy Unrestricted Access and Playback</u></a></li>
-<li><a href="https://win-answers.techidaily.com/convert-your-favorite-mp3-into-an-iphone-ringtone-with-these-2-proven-techniques/"><u>Convert Your Favorite MP3 Into an iPhone Ringtone with These 2 Proven Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/convert-your-videos-to-audio-files-at-no-cost-with-easy-mp4-to-mp3-tools-in-windows-11/"><u>Convert Your Videos to Audio Files at No Cost with Easy MP4 to MP3 Tools in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dvdisowindows-1011/"><u>DVDディスクをISOファイルに変換:Windows 10/11の「イメージ化」テキスト</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-video-trimming-techniques-using-the-vlc-media-player/"><u>Easy Video Trimming Techniques Using the VLC Media Player</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-converting-ts-video-files-to-mkv-using-top-free-tools/"><u>Effective Strategies for Converting TS Video Files to MKV Using Top Free Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-methods-for-transforming-high-quality-flac-tracks-into-mp3-format-with-audacity-tools/"><u>Effortless Methods for Transforming High-Quality FLAC Tracks Into MP3 Format with Audacity Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/how-to-make-your-facebook-video-stand-out-for-2024/"><u>How to Make Your Facebook Video Stand Out for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-in-depth-analysis-of-slomo-video-capture-tool/"><u>In 2024, In-Depth Analysis of SloMo Video Capture Tool</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/the-insiders-guide-to-quieting-ambient-sounds-on-stage-or-studio-setup/"><u>The Insiders Guide to Quieting Ambient Sounds on Stage or Studio Setup</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ltimate-smartphone-filmmakers-handbook-for-youtube-thumbnails-for-2024/"><u>The Ultimate Smartphone Filmmaker's Handbook for YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-strategies-for-securely-saving-your-digital-files/"><u>Top 5 Strategies for Securely Saving Your Digital Files</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-cadence-in-clips-the-guide-to-musical-integration-on-ig/"><u>[Updated] Cadence in Clips The Guide to Musical Integration on IG</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-science-of-scheduling-your-best-view-days/"><u>[Updated] The Science of Scheduling Your Best-View Days</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-tricks-to-eliminate-stuttering-and-maximize-frames-per-second-fps-in-cod-warzone/"><u>Achieve Seamless Gameplay: Tricks to Eliminate Stuttering and Maximize Frames Per Second (FPS) in COD Warzone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guidelines-to-help-you-change-windows-11-wallpaper-for-2024/"><u>Guidelines to Help You Change Windows 11 Wallpaper for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-14-battery-woes-heres-everything-you-need-to-know/"><u>IPhone 14 Battery Woes? Here’s Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/monthly-income-for-content-creators-on-youtube-in-2024/"><u>Monthly Income for Content Creators on YouTube, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-tips-to-reduce-phasmophobias-cpu-usage/"><u>Optimizing Performance: Tips to Reduce Phasmophobia's CPU Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-on-transforming-your-dvr-recordings-into-high-quality-mp4-format/"><u>Step-by-Step Guide on Transforming Your DVR Recordings Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002963261-the-definitive-bioshock-2-experience-freshly-patched-and-ready-for-action/"><u>The Definitive BioShock 2 Experience - Freshly Patched and Ready for Action</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-with-palworld-here-are-swift-fixes/"><u>Trouble with Palworld? Here Are Swift Fixes!</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-ace-2v-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus Ace 2V Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993015588-why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now!</u></a></li>
 </ul></div>
 

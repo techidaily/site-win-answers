@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Internet Explorer Not Responding' Errors"
-date: 2024-10-21T17:25:50.316Z
-updated: 2024-10-26T17:15:22.068Z
+date: 2024-10-25T20:34:49.172Z
+updated: 2024-10-31T17:05:46.628Z
 tags:
   - win11
   - win10
@@ -67,14 +67,14 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
-If this doesn’t solve your problem, try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If this doesn’t solve your problem, try the next fix.
 
 ## Fix 2: Update your graphics driver
 
@@ -95,13 +95,6 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -134,13 +127,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -159,27 +145,14 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
@@ -193,16 +166,10 @@ If this doesn’t solve your problem, try the next fix.
 2. Use the below formulas to calculate the values you should set:  
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
@@ -215,7 +182,21 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If your game still crashes, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -225,6 +206,13 @@ If your game still crashes, try the next fix.
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
@@ -249,10 +237,10 @@ If this doesn’t solve your problem, try the last fix.
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
@@ -296,10 +284,10 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -325,24 +313,24 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/1722998035369-fixed-you-do-not-have-permission-to-play-fortnite-error/"><u>[FIXED] You Do Not Have Permission to Play Fortnite Error</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-complete-guide-to-capturing-and-storing-youtube-livestreams-seamlessly/"><u>[New] 2024 Approved The Complete Guide to Capturing and Storing YouTube Livestreams Seamlessly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-youtubes-role-in-shaping-brands-and-collaborations-for-2024/"><u>[New] YouTube's Role in Shaping Brands & Collaborations for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-minecraft-keeps-freezing-on-pc-2024-tips/"><u>[Solved] Minecraft Keeps Freezing on PC – 2024 Tips</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-how-to-correct-fisheye-lens-distortion-from-gopro-footage-for-2024/"><u>[Updated] How to Correct Fisheye (Lens Distortion) From GoPro Footage for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-convenient-and-quality-passport-images-top-free-tools-listed-here/"><u>2024 Approved Convenient & Quality Passport Images - Top Free Tools Listed Here</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-the-challenge-of-valorants-failed-launch-on-pc-systems-proven-techniques/"><u>Addressing the Challenge of Valorant's Failed Launch on PC Systems : Proven Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensuring-smooth-gaming-sessions-fixes-for-the-finals-keep-breaking-down-on-pc/"><u>Ensuring Smooth Gaming Sessions: Fixes for The Finals Keep Breaking Down on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/final-fantasy-xiv-online-no-longer-causes-pc-freezes-heres-why/"><u>Final Fantasy XIV Online No Longer Causes PC Freezes – Here's Why</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-giggle-grove-memetic-magic-for-all-ages/"><u>In 2024, Giggle Grove Memetic Magic for All Ages</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/orchestrating-peak-canon-temporal-scenes-for-2024/"><u>Orchestrating Peak Canon Temporal Scenes for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-warframe-launch-difficulties-a-comprehensive-fix-guide/"><u>Overcome Warframe Launch Difficulties - A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-dolby-advanced-audio-troubles-steps-to-reactivate-the-dolby-driver-in-windows-10/"><u>Overcoming Dolby Advanced Audio Troubles: Steps to Reactivate the Dolby Driver in Windows 10</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-samsung-galaxy-a25-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Samsung Galaxy A25 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-packet-loss-issues-on-discord-a-comprehensive-guide/"><u>Resolving Packet Loss Issues on Discord: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-minecraft-installation-problems-on-windows-11/"><u>Step-by-Step Guide to Fixing Minecraft Installation Problems on Windows 11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/stop-facebook-video-pause-during-streaming-for-2024/"><u>Stop Facebook Video Pause During Streaming for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-rainbow-six-siege-connectivity-issues/"><u>Troubleshooting Steps: Resolving Rainbow Six Siege Connectivity Issues</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-running-windows-and-mac-os-video-editing-apps-on-chrome-os-for-2024/"><u>Updated The Ultimate Guide to Running Windows and Mac OS Video Editing Apps on Chrome OS for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-professional-voice-capture-on-mac-compiling-the-best-5-apps/"><u>[New] 2024 Approved Professional Voice Capture on Mac Compiling The Best 5 Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-from-sketches-to-high-end-graphics-best-software-reviewed/"><u>[New] From Sketches to High-End Graphics Best Software Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tactical-steps-to-obtain-top-notch-pictorial-content/"><u>[Updated] Tactical Steps to Obtain Top-Notch Pictorial Content</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-into-professional-photoshop-mastering-luts-in-cs6cc/"><u>2024 Approved Step Into Professional Photoshop Mastering LUTs in CS6/CC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2eremys-guide-solving-the-game-crash-problem-for-pc-users/"><u>Battlefield 2Eremy's Guide: Solving the Game Crash Problem for PC Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-tutorial-how-to-install-latest-ati-driver-for-windows-users/"><u>Easy Tutorial: How to Install Latest ATI Driver for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-eliminate-stutter-and-pause-in-starfields-soundtrack/"><u>Enhance Your Gaming: Eliminate Stutter & Pause in Starfield's Soundtrack</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-diagnosing-and-repairing-your-phasmophobia-vr-setup-when-its-not-working-correctly/"><u>Guide to Diagnosing and Repairing Your Phasmophobia VR Setup When It's Not Working Correctly</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-note-12-4g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi Note 12 4G Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-k11-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008038135-local-steam-client-connections-fixed-say-goodbye-to-connectivity-issues/"><u>Local Steam Client Connections Fixed – Say Goodbye to Connectivity Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-discord-speed-issues-the-definitive-2ertofix-your-lagging-problems-now/"><u>Mastering Discord Speed Issues: The Definitive 2Ertofix Your Lagging Problems Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-understanding-and-fixing-error-code-23-in-apex-legends/"><u>Resolved: Understanding and Fixing Error Code 23 in Apex Legends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-how-to-get-your-iphone-detected-by-itunes-in-windows-11/"><u>Solution Guide: How to Get Your iPhone Detected by iTunes in Windows 11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/by-step-legally-convert-youtube-to-mp4-format-for-2024/"><u>Step-by-Step Legally Convert YouTube to MP4 Format for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-constant-crashes-of-f1-2021-game-on-windows-pcs/"><u>Troubleshooting Tips for Resolving Constant Crashes of F1 2021 Game on Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/welcome-back-seamless-access-reinstated-for-web-account-logins/"><u>Welcome Back: Seamless Access Reinstated for Web Account Logins</u></a></li>
 </ul></div>
 

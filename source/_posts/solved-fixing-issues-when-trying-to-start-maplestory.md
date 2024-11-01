@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing Issues When Trying to Start MapleStory"
-date: 2024-10-22T16:05:21.677Z
-updated: 2024-10-26T17:44:00.079Z
+date: 2024-10-31T03:42:56.735Z
+updated: 2024-11-01T04:10:45.282Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -110,6 +117,13 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to boost FPS in the game. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
@@ -121,20 +135,20 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
@@ -170,16 +184,16 @@ See if you can play the game smoothly. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Temporarily disable the third-party antivirus application
 
@@ -194,10 +208,10 @@ See if you can play the game smoothly. If not, try the next fix, below.
 Try the next fix below if this fix didn’t work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Change the power plan of your PC
@@ -212,23 +226,9 @@ Try the next fix below if this fix didn’t work for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Adjust your Windows system for the best performance
 
@@ -239,10 +239,10 @@ Try the next fix below if this fix didn’t work for you.
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
@@ -273,24 +273,20 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-refine-visuals-effortlessly-editing-videos-using-storyremix-in-windows-11/"><u>[Updated] 2024 Approved Refine Visuals Effortlessly Editing Videos Using StoryRemix in Windows 11</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-chromes-fullscreen-mode-a-complete-guide-to-pip-usage/"><u>[Updated] Chrome's Fullscreen Mode A Complete Guide to PIP Usage</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-and-directx-troubleshooting-techniques-for-smooth-gaming/"><u>Battlefield 2042 and DirectX Troubleshooting Techniques for Smooth Gaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-magic-6-lite-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor Magic 6 Lite Fingerprint Lock</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dragons-dogma-cufflinks-but-it-is-a-significant-step-towards-achieving-that-goal-of-creating-an-inclusive-society-where-everyone-has-the-right-to-live-with-586/"><u>Dragon's Dogma Cufflinks, but It Is a Significant Step Towards Achieving that Goal of Creating an Inclusive Society Where Everyone Has the Right to Live with Dignity.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-address-and-repair-missing-jvm-dll-errors/"><u>Expert Advice: How To Address and Repair Missing JVM DLL Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-gpeditmsc-not-found-error-in-windows-10-home-edition-systems/"><u>Fixing 'gpedit.msc Not Found' Error in Windows 10 Home Edition Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-your-last-epoch-game-from-non-launch-errors-pc-user-solutions-release/"><u>Fixing Your Last Epoch Game From Non-Launch Errors: PC User Solutions Release</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-scavengers-crashing-on-your-pc-a-step-by-step-guide/"><u>How To Fix Scavengers Crashing On Your PC: A Step-By-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-googles-enhanced-technique-for-flawless-speech-transcription/"><u>In 2024, Google's Enhanced Technique for Flawless Speech Transcription</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-record-streaming-audio-online/"><u>In 2024, How to Record Streaming Audio Online</u></a></li>
-<li><a href="https://ai-editing-video.techidaily.com/new-in-2024-make-a-tattoo-disappear-like-a-magic/"><u>New In 2024, Make A Tattoo Disappear Like A Magic</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-gameplay-in-dragons-dogma-2-overcoming-frames-per-second-lag-and-jitter/"><u>Optimizing Gameplay in Dragon's Dogma 2: Overcoming Frames Per Second Lag and Jitter</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-lifeline-fixing-broken-game-files-with-ease/"><u>PC Gamers' Lifeline: Fixing Broken Game Files with Ease</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-warcraft-3-reforgeds-sudden-shutdown-problem-on-your-pc-with-our-proven-tips/"><u>Resolve Warcraft 3 Reforged's Sudden Shutdown Problem on Your PC with Our Proven Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-lag-and-freezing-in-fortnite-optimized-tips-for-smooth-gameplay/"><u>Resolving Lag and Freezing in Fortnite: Optimized Tips for Smooth Gameplay</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/sharing-tactics-igtv-for-a-larger-fb-audience-for-2024/"><u>Sharing Tactics IGTV for a Larger FB Audience for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-insiders-view-advanced-strategies-for-successful-storytelling-in-social-media-for-2024/"><u>The Insider’s View Advanced Strategies for Successful Storytelling in Social Media for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-ultimate-guide-to-swift-periscope-broadcasting-for-2024/"><u>The Ultimate Guide to Swift Periscope Broadcasting for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-archive-of-authentic-activities/"><u>[New] Archive of Authentic Activities</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-get-creative-a-comprehensive-guide-to-the-best-free-slideshow-patterns/"><u>[New] Get Creative A Comprehensive Guide to the Best Free Slideshow Patterns</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-panoramic-precision-battle-gear-vs-lgcam-showdown-for-2024/"><u>[Updated] Panoramic Precision Battle Gear Vs LGCam Showdown for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/balancing-post-frequency-in-multiple-social-platforms/"><u>Balancing Post Frequency in Multiple Social Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-glitch-discover-the-best-8-strategies-to-keep-multiversus-running-smoothly/"><u>Beat the Glitch: Discover the Best 8 Strategies to Keep MultiVersus Running Smoothly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-dvd-copying-and-saving-as-iso-with-winx-dvd-copy-pro-a-step-by-step-guide/"><u>Effortless DVD Copying & Saving as ISO with WinX DVD Copy Pro - A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/engaging-podcast-openers-captivating-intro-lines-for-2024/"><u>Engaging Podcast Openers Captivating Intro Lines for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/examining-chatgpts-privacy-concerns/"><u>Examining ChatGPT's Privacy Concerns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-minecraft-launch-problems-efficiently/"><u>Expert Tips for Fixing Minecraft Launch Problems Efficiently</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/full-screen-pro-tips-and-tricks-for-editors-for-2024/"><u>Full Screen Pro Tips and Tricks for Editors for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012773379-how-to-successfully-start-far-cry-n6-on-your-pc-no-more-worry/"><u>How To Successfully Start Far Cry N6 on Your PC – No More Worry!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013015098-sea-of-thieves-stability-solution-no-more-crashes/"><u>Sea of Thieves Stability Solution – No More Crashes</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-quickest-quarter-mile-sochi-22/"><u>The Quickest Quarter Mile - Sochi '22</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001711771-troubleshooting-shadowplay-recording-issues-on-windows-fixed/"><u>Troubleshooting Shadowplay Recording Issues on Windows - Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-deathloop-stutter-and-lag-on-both-pc-and-ps5-platforms/"><u>Troubleshooting Tips for Resolving Deathloop Stutter and Lag on Both PC and PS5 Platforms</u></a></li>
 </ul></div>
 

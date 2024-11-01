@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Performance Hurdles: Essential Troubleshooting Steps for a Smooth State of Decay 2"
-date: 2024-10-22T17:09:27.230Z
-updated: 2024-10-26T17:36:31.864Z
+date: 2024-10-27T01:45:13.236Z
+updated: 2024-11-01T10:59:58.545Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 3. Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -62,15 +62,22 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 4. Relaunch Cyberpunk 2077 to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If your issue continues to occur, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: End unnecessary programs
 
@@ -86,10 +93,10 @@ If your issue continues to occur, you can move to the next fix.
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this fix doesn’t help your case, simply take a look at the next one.
@@ -103,11 +110,31 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-04-01.jpg)
 3. Right-click **Cyberpunk 2077**  and select **Properties** .
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** . This could take several minutes. Wait for the process to be complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
 5. Relaunch Cyberpunk 2077 to check the issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Adjust your virtual memory
 
@@ -127,19 +154,6 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
 
@@ -150,16 +164,23 @@ If your issue continues to occur, you can move to the next fix.
 7. Click **Set** , then **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 8. Restart your computer and test your game.
 
 If your issue still exists, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your game
 
@@ -173,13 +194,6 @@ If your issue still exists, move to the next fix.
 5. Reinstall the game on your PC, then restart the game.
 
 If the issue continues to occur, go to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -197,25 +211,11 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC and check if Cyberpunk 2077 freezing again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -238,22 +238,17 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>[New] 2024 Approved Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-innovative-approaches-to-powerpoint-video-capture/"><u>[Updated] Innovative Approaches to PowerPoint Video Capture</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-yuneec-typhoon-h-dive-professional-takeaways/"><u>[Updated] The Yuneec Typhoon H Dive Professional Takeaways</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/come-copiare-la-tua-partizione-uefi-sul-tuo-pc-con-windows-10-8-o-7-guida-esatta/"><u>Come Copiare La Tua Partizione UEFI Sul Tuo PC Con Windows 10, 8 O 7 - Guida Esatta</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-crashes-overcome-modern-warfare-stuttering-issues-on-your-pc/"><u>Fixing Crashes: Overcome 'Modern Warfare' Stuttering Issues on Your PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Samsung Galaxy S23 FE | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-class-eliminate-stuttering-for-smoother-age-of-empires-4-gaming-experience/"><u>Master Class: Eliminate Stuttering for Smoother Age of Empires 4 Gaming Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/revolutionizing-advertising-top-20-influential-expressions/"><u>Revolutionizing Advertising Top 20 Influential Expressions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/roblox-not-working-get-it-running-again-in-minutes-with-these-6-fixes-new-tips/"><u>Roblox Not Working? Get It Running Again in Minutes with These 6 Fixes - New Tips</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/stepwise-blueprint-converting-everyday-gifs-to-sticker-status-in-discord-and-other-chat-apps-for-2024/"><u>Stepwise Blueprint Converting Everyday GIFs to Sticker Status in Discord & Other Chat Apps for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/synthesizing-success-in-metaverse-sales-techniques/"><u>Synthesizing Success in Metaverse Sales Techniques</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-melodic-brilliance-of-blueant-soundblade-an-in-depth-look-at-its-volume-and-aesthetics/"><u>The Melodic Brilliance of BlueAnt Soundblade - An In-Depth Look at Its Volume & Aesthetics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-the-dreaded-steam-error-code-130-successfully/"><u>Troubleshooting and Fixing the Dreaded Steam Error Code 130 Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-helldivides-2-solutions-for-prevented-steam-launch/"><u>Troubleshooting Helldivides 2: Solutions for Prevented Steam Launch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/update-minecraft-drivers-successfully-tips-and-tricks-for-a-seamless-gaming-experience/"><u>Update Minecraft Drivers Successfully: Tips and Tricks for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-over-graphics-card-detection-issues-msi-afterburner-on-windows-11-unveiled/"><u>Winning Over Graphics Card Detection Issues: MSI Afterburner on Windows 11 Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wonderfox-dvd/"><u>WonderFox DVDコンバータ完全な移行成功 - ありがとうございまして</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-glimpses-identifying-who-sees-your-pics/"><u>[New] In 2024, Instagram Glimpses Identifying Who Sees Your Pics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-avoiding-the-blank-thumbnail-scenario-in-shorts/"><u>[Updated] 2024 Approved Avoiding the Blank Thumbnail Scenario in Shorts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-decoding-effective-tiktok-advertising-methods/"><u>[Updated] In 2024, Decoding Effective TikTok Advertising Methods</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-navigate-to-the-premier-android-tools-for-ps2-games/"><u>[Updated] In 2024, Navigate to the Premier Android Tools for PS2 Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/double-error-debugged-resolving-two-pc-collisions-successfully/"><u>Double Error Debugged: Resolving Two PC Collisions Successfully</u></a></li>
+<li><a href="https://blog-min.techidaily.com/dvd-regional-code-bypass-fur-windows-1087-konvertieren-sie-ihre-disk-kostengunstig-in-die-gewunschte-region/"><u>DVD Regional Code Bypass Für Windows 10/8/7: Konvertieren Sie Ihre Disk Kostengünstig in Die Gewünschte Region!</u></a></li>
+<li><a href="https://facebook.techidaily.com/guidelines-to-ponder-prior-to-unfollowing-online-worlds/"><u>Guidelines to Ponder Prior to Unfollowing Online Worlds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-play-resolving-fallout-3s-crashing-on-windows-11-systems/"><u>How to Ensure Smooth Play: Resolving Fallout 3'S Crashing on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-immortals-fenyx-rising-persistent-crashes-on-your-pcps4xbox/"><u>How to Fix Immortal's Fenyx Rising Persistent Crashes on Your PC/PS4/Xbox</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-20-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Tecno Spark 20 Pro Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-star-wars-battlefront-ii-error-message-327/"><u>Resolved: Fixes for 'Star Wars Battlefront II' Error Message 327</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000075997-unlock-seamless-gaming-tackle-and-correct-apex-legends-startup-glitches-swiftly/"><u>Unlock Seamless Gaming - Tackle and Correct Apex Legends' Startup Glitches Swiftly!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Tackling Excessive CPU Use in Discord"
-date: 2024-10-01T16:56:47.569Z
-updated: 2024-10-03T18:34:04.297Z
+date: 2024-10-29T12:26:57.032Z
+updated: 2024-10-31T17:15:38.141Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/d5809cec83da0092a50835917e7ac3c3a1061e52f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest Adobe Flash Player
@@ -67,17 +67,37 @@ Here’s how you can do it:
 
  2) Click**Advanced** at the very bottom. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962bcf12143.png)
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Disabled **Use hardware acceleration when available** by switching the icon to grey. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962c009cac7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Relaunch Chrome and then re-play the YouTube video to see if it plays smoothly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
@@ -98,19 +118,6 @@ You can update your video driver either manually or automatically.
 
  2) Run Driver Easy and click the**Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)Click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support** and a **30-day money back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 Note: You can do it   **for free**  if you like, but it’s partly manual.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
@@ -118,6 +125,13 @@ Note: You can do it   **for free**  if you like, but it’s partly manual.
  Restart your computer and re-play the YouTube to see if it plays smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Clear your browsing data and update your browser
 
@@ -135,25 +149,11 @@ Here we take Chrome as an example to giving a step-by-step guide:
 4) Click the**More options**  icon on the top right of Chrome. Select **Help** , then click **About Chrome** .
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b962f8c7e584.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Chrome will check for updates automatically.
 
  Once it’s done, relaunch Chrome and then re-play the YouTube video to see if it plays smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your network connection
 
@@ -188,24 +188,21 @@ Here are some tips you can try for this case:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-comparing-360-immersion-to-vr-experience-for-2024/"><u>[New] Comparing 360° Immersion to VR Experience for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-the-hidden-gems-in-asmr-creation-for-2024/"><u>[New] Discovering the Hidden Gems in ASMR Creation for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-war-thunder-keeps-crashing-2024-tips/"><u>[Solved] War Thunder Keeps Crashing | 2024 Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-recording-audio-for-impactful-ppts-and-presentations/"><u>[Updated] Recording Audio For Impactful PPTs & Presentations</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-bug-step-by-step-tips-on-resolving-last-epoch-failures-for-pc-users-year-2eightyfour-edition/"><u>Beat the Bug: Step-by-Step Tips on Resolving Last Epoch Failures for PC Users - Year 2Eightyfour Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-meizu-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Meizu</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-ensuring-smooth-game-startups-by-checking-your-game-files/"><u>Expert Tips: Ensuring Smooth Game Startups by Checking Your Game Files</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/find-and-grab-spectacularly-low-priced-samsung-devices-this-prime-day-exclusive-steals-inside/"><u>Find and Grab Spectacularly Low-Priced Samsung Devices This Prime Day: Exclusive Steals Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-recurring-freezes-and-crashes-on-insurgency-sandstorm-after-patch/"><u>How to Resolve Recurring Freezes and Crashes on Insurgency: Sandstorm After Patch?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-se-2022-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone SE (2022) Swipe-Up? Try These 11 Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-crafting-gmail-alternate-emails-for-privacy/"><u>Mastering the Art of Crafting Gmail Alternate Emails for Privacy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-steam-crashes-correcting-steamuidll-not-found-for-a-smooth-gaming-experience/"><u>Overcoming Steam Crashes: Correcting 'steamui.dll Not Found' For a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revitalized-bioshock-2-updated-for-optimal-performance-and-visuals/"><u>Revitalized Bioshock 2 - Updated for Optimal Performance and Visuals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-problems-when-alienware-command-center-is-unresponsive/"><u>Solving Problems When Alienware Command Center Is Unresponsive</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-when-your-voice-chat-faces-a-content-warning/"><u>Step-by-Step Solution: When Your Voice Chat Faces a Content Warning</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-importance-of-chatgpts-translation-engine-in-ai-conversations/"><u>The Importance of ChatGPT's Translation Engine in AI Conversations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-admin-managed-feature-issues-in-windows-11/"><u>Troubleshooting Admin-Managed Feature Issues in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solution-steps-for-when-star-wars-the-old-republic-wont-open/"><u>Ultimate Solution Steps for When Star Wars The Old Republic Won't Open</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-enhancing-youtube-content-via-finalcut-pro-techniques/"><u>[Updated] In 2024, Enhancing YouTube Content via FinalCut Pro Techniques</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-a-step-by-step-approach-to-discord-messaging/"><u>2024 Approved A Step-by-Step Approach to Discord Messaging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-asian-miniature-villages-in-creative-sphere-of-mc/"><u>2024 Approved Asian Miniature Villages in Creative Sphere of MC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>2024 Approved Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://games-able.techidaily.com/assessing-repair-vs-exchange-for-broken-nintendo-switches/"><u>Assessing Repair Vs. Exchange for Broken Nintendo Switches</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-infinix-smart-8-hd-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://discover-help.techidaily.com/de-mysterieus-handhaving-van-bestanddeel-terugleggingen-4-tactieken-in-windows-11/"><u>De Mysterieus Handhaving Van Bestanddeel Terugleggingen: 4 Tactieken in Windows 11</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-apple-devices-face-off-iphone-15-plus-against-pro-max-explored/"><u>Elite Apple Devices Face-Off: IPhone 15 Plus Against Pro Max Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-your-steam-login-issues/"><u>Fixes and Solutions: Resolving Your Steam Login Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-dauntless-stutter-and-crashes-in-your-pc-adventure/"><u>Overcoming Dauntless Stutter and Crashes in Your PC Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-stable-gameplay-in-battlefield-1/"><u>Quick Fixes for Stable Gameplay in Battlefield 1</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-persistent-pc-game-crashes-a-step-by-step-guide-to-optimizing-diablo-immortal/"><u>Solving the Persistent PC Game Crashes: A Step-by-Step Guide to Optimizing Diablo Immortal</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-fix-for-when-your-pc-wont-cooperate-with-pubg-a-users-survival-tips/"><u>The Fix for When Your PC Won’t Cooperate with PUBG – A User's Survival Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-for-resolving-firefox-unresponsive-problems/"><u>Top 8 Solutions for Resolving Firefox Unresponsive Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-overcome-ark-program-crashes-successfully/"><u>Troubleshooting Guide - How to Overcome ARK Program Crashes Successfully</u></a></li>
 </ul></div>
 

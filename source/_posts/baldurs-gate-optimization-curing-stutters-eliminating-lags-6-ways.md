@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate Optimization: Curing Stutters, Eliminating Lags (6 Ways)"
-date: 2024-10-22T16:06:58.144Z
-updated: 2024-10-26T16:11:09.594Z
+date: 2024-10-30T22:22:12.246Z
+updated: 2024-11-01T07:53:42.429Z
 tags:
   - win11
   - win10
@@ -57,7 +57,21 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-28.png)
 4. Click the **Display**  tab to check the graphics details.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-34.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
 
@@ -75,23 +89,9 @@ To ascertain your computer’s specifications:
  Or, you can click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-graphics-card-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart the computer and relaunch the game to see if the problem persists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 Change the power plan setting
 
@@ -106,10 +106,10 @@ To ascertain your computer’s specifications:
 4. Choose the**High performance** power plan.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
@@ -127,23 +127,17 @@ Open the game to check for any improvement.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/details.jpg)
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Note: You may need to repeat this process each time you launch the game.
 
@@ -155,42 +149,35 @@ Note: You may need to repeat this process each time you launch the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-18.png)
 2. Click**Browse** and add Baldur’s Gate 3.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
 Launch the game again to check if the problem has been fixed.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 End unnecessary tasks
 
@@ -208,10 +195,10 @@ Launch the game again to check if the problem has been fixed.
 Go back to your game to see if it works smoother.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
@@ -227,6 +214,19 @@ Go back to your game to see if it works smoother.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -251,17 +251,21 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-elevate-your-vlogging-skills-with-pro-gopro-tips/"><u>[New] 2024 Approved Elevate Your Vlogging Skills with Pro GoPro Tips</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-engaging-story-starter-toolkit/"><u>[New] 2024 Approved Engaging Story Starter Toolkit</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-essentials-acquiring-quality-unboxing-soundtracks/"><u>[New] In 2024, Essentials Acquiring Quality Unboxing Soundtracks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-camstudio-live-streaming-and-screen-capturing-review/"><u>2024 Approved CamStudio Live Streaming & Screen Capturing Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/acquire-and-setup-windows-xp-movie-creator/"><u>Acquire & Setup Windows XP Movie Creator</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-solving-crashes-in-horizon-forbidden-west-full-version-on-your-pc/"><u>Complete Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Your PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cortana-malfunction-heres-what-you-need-to-know/"><u>Cortana Malfunction? Here's What You Need to Know!</u></a></li>
-<li><a href="https://os-tips.techidaily.com/decoding-macos-requests-for-your-icloud-key-uncover-causes-and-find-fixes-easily/"><u>Decoding macOS Requests for Your iCloud Key: Uncover Causes and Find Fixes Easily</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhanced-performance-using-advanced-cookie-technology/"><u>Enhanced Performance Using Advanced Cookie Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcome-your-cyberpunk-2077-sound-problems-in-windows-11-expert-fixes-revealed/"><u>Overcome Your Cyberpunk 2077 Sound Problems in Windows 11 – Expert Fixes Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-tips-to-fix-deadly-errors-and-endless-freezes-in-batman-arkham-knight/"><u>Quick Tips to Fix Deadly Errors and Endless Freezes in Batman: Arkham Knight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-streaming-achieved-how-to-fix-netflix-glitches-on-xbox-one/"><u>Smooth Streaming Achieved: How to Fix Netflix Glitches on Xbox One</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-guide-mastering-zoom-on-a-windows-10-device/"><u>[Updated] Step-by-Step Guide Mastering Zoom on a Windows 10 Device</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/americas-most-popular-second-language-initiatives/"><u>America's Most Popular Second Language Initiatives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arma-n-assemble-resolving-crash-errors-with-expert-hacks/"><u>Arma N' Assemble: Resolving Crash Errors with Expert Hacks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-guide-to-vf-video-transformation-in-vegas-suite-for-professionals-and-enthusiasts/"><u>Complete Guide to VF Video Transformation in Vegas Suite for Professionals and Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gas-station-tycoon-simulator-continuously-fails-on-windows-fixes-and-solutions/"><u>Gas Station Tycoon Simulator Continuously Fails on Windows: Fixes & Solutions</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-change-monitor-1-and-2-in-windows/"><u>How to Change Monitor 1 and 2 in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/master-the-quick-fix-learn-easily-to-reset-a-stuck-or-broken-keyboard/"><u>Master the Quick Fix: Learn Easily to Reset a Stuck or Broken Keyboard</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-cod-black-ops-4-frame-rate-hiccups-and-performance-dips/"><u>Resolved: Fixes for Cod Black Ops 4 Frame Rate Hiccups & Performance Dips</u></a></li>
+<li><a href="https://win-lab.techidaily.com/simple-guide-how-to-record-your-entire-mac-screen-as-a-video/"><u>Simple Guide: How to Record Your Entire Mac Screen as a Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-connectivity-problems-in-the-latest-game-version-a-step-by-step-guide/"><u>Solving Connectivity Problems in the Latest Game Version: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-the-dark-display-dilemma-in-overwatch-launch/"><u>Step-by-Step Guide: Eliminating the Dark Display Dilemma in Overwatch Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-crusader-kings-3-from-freezing-on-your-desktop-computer/"><u>Stop Crusader Kings 3 From Freezing on Your Desktop Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-barnes-and-nobles-nook-glowlight-3-your-go-to-e-reader-for-nighttime-reading/"><u>The Ultimate Guide to Barnes & Noble's Nook Glowlight ^3: Your Go-To E-Reader for Nighttime Reading</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-opengl32dll-mistakes-fixes-for-missingnotfound-issues/"><u>Troubleshooting OpenGL32.dll Mistakes - Fixes for Missing/NotFound Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-delays-effective-strategies-to-halt-minecrafts-load-screen-woes/"><u>Winning Against Delays: Effective Strategies to Halt Minecraft's Load Screen Woes</u></a></li>
 </ul></div>
 

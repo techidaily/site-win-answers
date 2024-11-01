@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Mute Challenges: A Guide to Enable Audio in Roblox Gaming on PCs with Windows 11 and 10 OS"
-date: 2024-10-01T17:08:06.553Z
-updated: 2024-10-03T17:40:19.491Z
+date: 2024-10-25T03:58:14.819Z
+updated: 2024-10-31T16:15:41.930Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 5. [Reinstall codecs and plugins](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall / update After Effects](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Temporarily disable hardware acceleration
 
  GPU acceleration is one of the common causes of After Effects crashing. If you’re running into After Effects crashing on your Windows computer, just temporarily disable GPU acceleration to see if you can fix this issue. Here is how to do it:
@@ -58,19 +45,6 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
@@ -82,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -98,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/5078b6aad02ae129a31526ccfe9c91c4fe1b8842e
  In other words, the latest graphics driver will unlock the full potential of your graphics card and give you a better experience for creating and gaming.
 
 There’re mainly two ways you can update your graphics drivers:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -116,10 +104,10 @@ There’re mainly two ways you can update your graphics drivers:
 **Or**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
@@ -151,10 +139,10 @@ There’re mainly two ways you can update your graphics drivers:
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Purge memory & disk cache
@@ -165,19 +153,19 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Delete the temp folder of After Effects
 
@@ -189,6 +177,13 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If After Effects still crashes, try the next fix, below.
 
 ## Fix 5: Reinstall codecs and plugins
@@ -196,13 +191,6 @@ If After Effects still crashes, try the next fix, below.
  Codecs are used to encode and decode your video files in After Effects. When codecs are corrupted or installed incorrectly, it may trigger the After Effects crashing issue. To fix crashing caused by codecs, you should try reinstall or update them.
 
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
 
@@ -236,24 +224,24 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-canva-creative-editor-exploration/"><u>[New] 2024 Approved Canva Creative Editor Exploration</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-uncomplicated-method-fast-clearance-of-online-discussions/"><u>[New] Uncomplicated Method Fast Clearance of Online Discussions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/access-granted-online-login-now-fully-operational-issue-resolved/"><u>Access Granted: Online Login Now Fully Operational - Issue Resolved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/borderlands-3-troubleshooting-fixing-persistent-game-freeze-problems/"><u>Borderlands 3 Troubleshooting: Fixing Persistent Game-Freeze Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/busting-the-six-most-effective-solutions-to-recover-from-terrarias-loss-of-connectivity/"><u>Busting the Six Most Effective Solutions to Recover From Terraria's Loss of Connectivity</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discover-powerful-tagging-tactics-a-guide-to-amplifying-freegame-content/"><u>Discover Powerful Tagging Tactics A Guide to Amplifying FreeGame Content</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-excellence-with-samsungs-2019-model-qn55q6f-a-next-gen-smart-led-television-review/"><u>Discovering Excellence with Samsung's 2019 Model QN55Q6F - A Next-Gen Smart LED Television Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-detection-issue-wd-my-passport-ultra-and-windows-compatibility-woes/"><u>Fixing the Detection Issue: WD My Passport Ultra and Windows Compatibility Woes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/gtfo-fps-issues-gone-strategies-to-fix-gameplay-stutter-and-boost-quality/"><u>GTFO FPS Issues Gone: Strategies to Fix Gameplay Stutter and Boost Quality</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>In 2024, Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/next-gen-gaming-unleashed-a-comprehensive-review-of-the-alienware-aurora-r9-by-dell/"><u>Next-Gen Gaming Unleashed: A Comprehensive Review of the Alienware Aurora R9 by Dell</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-initial-load-problems-with-palworld-a-users-guide/"><u>Overcoming Initial Load Problems with Palworld - A User’s Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-your-streams-audio-the-6-best-fixes-for-an-obs-microphone-that-wont-work/"><u>Revive Your Stream's Audio : The 6 Best Fixes for an OBS Microphone That Won't Work</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-lost-ark-server-connection-issues-a-step-by-step-guide/"><u>Solutions for Lost Ark Server Connection Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/time-tested-tactics-storing-slides-in-ppt/"><u>Time-Tested Tactics Storing Slides in PPT</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723203241341-trouble-with-your-wireless-mouse-on-windows-heres-how-to-fix-it-in-w11w10/"><u>Trouble with Your Wireless Mouse on Windows? Here's How to Fix It in W11/W10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-the-persistent-fortnite-freeze-problems-on-pc/"><u>Ultimate Fixes for the Persistent Fortnite Freeze Problems on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010610989-update-your-logitech-g403-controller-firmware-on-pc-free-driver-downloads-available/"><u>Update Your Logitech G403 Controller Firmware on PC - Free Driver Downloads Available</u></a></li>
-<li><a href="https://win-answers.techidaily.com/world-of-tanks-blitz-stability-improvements-overcoming-frequent-app-failures/"><u>World of Tanks Blitz Stability Improvements: Overcoming Frequent App Failures</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-art-of-condensation-editing-youtube-video-durations/"><u>[New] 2024 Approved The Art of Condensation Editing YouTube Video Durations</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-virtual-lands-the-best-10-smartphone-vr-headsets/"><u>[New] Explore Virtual Lands The Best 10 Smartphone VR Headsets</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-from-basics-to-bonus-elevate-your-cam-game/"><u>[Updated] 2024 Approved From Basics to Bonus Elevate Your Cam Game</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-complete-guide-to-crafting-youtube-masterpieces/"><u>[Updated] 2024 Approved The Complete Guide to Crafting YouTube Masterpieces</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-what-exactly-is-periscope-free-access-and-registration-details/"><u>[Updated] In 2024, What Exactly Is Periscope? Free Access & Registration Details</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-streamlining-call-logs-the-4-step-guide-for-fb-calls/"><u>[Updated] Streamlining Call Logs The 4-Step Guide for FB Calls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blackout-expert-tips-for-correcting-cyberpunk-2077s-critical-display-issue/"><u>Beat the Blackout: Expert Tips for Correcting Cyberpunk 2077’S Critical Display Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-annoying-minecraft-hurdle-clearing-up-the-mystery-of-exit-code-0-error/"><u>Defeat the Annoying Minecraft Hurdle: Clearing Up the Mystery of 'Exit Code 0' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-the-issue-of-prolonged-launch-times-in-fallout-4-gaming/"><u>Diagnosing and Fixing the Issue of Prolonged Launch Times in Fallout 4 Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-panera-bread-deliveries-alexas-new-feature-that-eases-meal-orders/"><u>Effortless Panera Bread Deliveries: Alexa's New Feature That Eases Meal Orders!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-the-infamous-phoenix-point-sudden-shutdown-issue/"><u>Expert Advice on Fixing the Infamous Phoenix Point Sudden Shutdown Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-infinite-stutter-and-shutdowns-on-pc-how-to-ensure-smooth-gameplay/"><u>Halo Infinite Stutter and Shutdowns on PC - How to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-8-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 8 Space | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-thunder-tier-one-from-continuously-failing-on-your-computer/"><u>How to Stop Thunder Tier One From Continuously Failing on Your Computer</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211636160-overcoming-volume-control-issues-on-your-windows-11-system-easy-fixes-inside/"><u>Overcoming Volume Control Issues on Your Windows 지구 11 System - Easy Fixes Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-lagging-and-low-fps-in-red-dead-redemption-2/"><u>Solved: How to Fix Lagging & Low FPS in Red Dead Redemption 2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-vivo-x-flip-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Vivo X Flip Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009911833-trouble-starting-pathfinder-wrath-of-the-righteous-heres-how-to-fix-it/"><u>Trouble Starting Pathfinder: Wrath of the Righteous? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-making-cortana-function-again/"><u>Troubleshooting Tips: Making Cortana Function Again</u></a></li>
 </ul></div>
 

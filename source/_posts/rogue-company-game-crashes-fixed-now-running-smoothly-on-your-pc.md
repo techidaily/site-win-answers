@@ -1,7 +1,7 @@
 ---
 title: "Rogue Company Game Crashes Fixed: Now Running Smoothly on Your PC"
-date: 2024-10-23T17:11:42.426Z
-updated: 2024-10-26T16:03:34.691Z
+date: 2024-10-25T04:21:03.088Z
+updated: 2024-11-01T02:58:03.515Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/de76a8c110eaff7a166a09fee629e954d26d490c5
 7. **[Check your DLC](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Scan and repair Windows](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the integrity of your game
 
  When troubleshooting game issues, first**check if your game files are intact** . This is especially true for new games as patches roll out almost every day. Verifying your game checks for the latest updates as well.
@@ -72,21 +65,7 @@ Here’s how to disable Steam Overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Uncheck the box before**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check if you can play Halo Infinite normally.
 
@@ -111,10 +90,10 @@ Now check if you can play Halo Infinite normally.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -122,6 +101,13 @@ Now check if you can play Halo Infinite normally.
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
 
  If the latest GPU driver doesn’t fix your issue, you can try to[uninstall the graphics driver using DDU](https://tools.techidaily.com/drivereasy/download/) and reinstall the previous versions of driver. Or you can move on to the next fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Check for conflicting programs
 
@@ -142,15 +128,15 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-1.jpg)
 3. Right click the**HaloInfinite** launcher and select**Property** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
@@ -158,10 +144,10 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now restart your game and check the gameplay.
@@ -169,28 +155,35 @@ Now restart your game and check the gameplay.
 If this trick doesn’t give you luck, simply try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Check for system updates
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -204,6 +197,13 @@ If this trick doesn’t give you luck, simply try the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -232,6 +232,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -257,18 +264,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/2024-approved-attenuating-audio-gradually-in-fl-projects/"><u>2024 Approved Attenuating Audio Gradually in FL Projects</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/can-you-trust-pornhub-essential-tips-for-securely-exploring-adult-websites/"><u>Can You Trust Pornhub? Essential Tips for Securely Exploring Adult Websites</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-4201-resolved-effective-ways-to-correct-issues-in-genshin-impact-gameplay/"><u>Error Code 4201 Resolved: Effective Ways to Correct Issues in Genshin Impact Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-call-of-duty-world-war-ii-error-code-4128-quickly/"><u>Expert Tips to Resolve Call of Duty: World War II Error Code 4128 Quickly</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr-for-2024/"><u>Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR) for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-resolving-game-breaking-errors-in-robocop-rogue-city-on-your-computer/"><u>Guide to Resolving Game-Breaking Errors in 'RoboCop: Rogue City' On Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-galaxy-s23plus-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Galaxy S23+.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 6 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/navigating-the-future-of-arb-in-finance-unveiling-strategies-from-abbyy-white-paper-on-digital-transformation/"><u>Navigating the Future of ARB in Finance – Unveiling Strategies From ABBYY White Paper on Digital Transformation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-steams-content-blockage-solutions-for-the-locked-error-message/"><u>Overcoming Steam's Content Blockage: Solutions for the 'Locked' Error Message</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-players-handbook-fixing-the-relink-bug-in-granblue-fantasy/"><u>PC Players' Handbook: Fixing the Relink Bug in Granblue Fantasy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-problem-of-cyberpunk-2077s-failed-initial-release/"><u>Resolving the Problem of Cyberpunk 2077'S Failed Initial Release</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-what-is-omegle-is-omegle-safe/"><u>Updated 2024 Approved What Is Omegle, Is Omegle Safe？</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-twitch-broadcasts-recording-essentials-for-2024/"><u>[Updated] Mastering Twitch Broadcasts Recording Essentials for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-honor-90-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Honor 90 Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/access-granted-online-login-now-fully-operational-issue-resolved/"><u>Access Granted: Online Login Now Fully Operational - Issue Resolved</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/addressing-msi-afterburner-gpu-detection-problems-in-windows-11-a-step-by-step-guide/"><u>Addressing MSI Afterburner GPU Detection Problems in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-six-most-effective-solutions-to-recover-from-terrarias-loss-of-connectivity/"><u>Busting the Six Most Effective Solutions to Recover From Terraria's Loss of Connectivity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war-gameplay/"><u>Bypassing the Error Code 0xC0000005 in Call of Duty Black Ops Cold War Gameplay</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-hp-deskjet-ink-advantage-printer-driver-for-your-windows-computer/"><u>Get the Latest HP DeskJet Ink Advantage Printer Driver for Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gtfo-fps-issues-gone-strategies-to-fix-gameplay-stutter-and-boost-quality/"><u>GTFO FPS Issues Gone: Strategies to Fix Gameplay Stutter and Boost Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-rainbow-six-extraction-no-compatible-driverhardware-found/"><u>How to Fix Rainbow Six Extraction No Compatible Driver/Hardware Found</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-update-your-iphone-emails-overcoming-sync-and-update-problems/"><u>How to Update Your iPhone Emails: Overcoming Sync and Update Problems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-perfecting-sound-with-advanced-audacity-methods/"><u>In 2024, Perfecting Sound with Advanced Audacity Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-optimization-guide-overcoming-low-fps-challenges/"><u>Outriders Optimization Guide: Overcoming Low FPS Challenges</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-interruption-nightmares-keeping-your-ps4-remote-connected/"><u>Overcoming Interruption Nightmares: Keeping Your PS4 Remote Connected</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rogue-company-end-the-frustration-of-frequent-pc-game-disruptions-with-these-fixes/"><u>Rogue Company: End the Frustration of Frequent PC Game Disruptions with These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-fix-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>The Definitive Fix to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/troubleshooting-ryzen-master-solving-improper-installation-issues/"><u>Troubleshooting Ryzen Master: Solving Improper Installation Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720063745927-universal-adb-drivers-effortless-connectivity-comes-first/"><u>Universal ADB Drivers: Effortless Connectivity Comes First</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010610989-update-your-logitech-g403-controller-firmware-on-pc-free-driver-downloads-available/"><u>Update Your Logitech G403 Controller Firmware on PC - Free Driver Downloads Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/world-of-tanks-blitz-stability-improvements-overcoming-frequent-app-failures/"><u>World of Tanks Blitz Stability Improvements: Overcoming Frequent App Failures</u></a></li>
 </ul></div>
 

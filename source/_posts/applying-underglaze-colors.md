@@ -1,7 +1,7 @@
 ---
 title: Applying Underglaze Colors
-date: 2024-10-19T16:09:22.951Z
-updated: 2024-10-26T17:54:11.461Z
+date: 2024-10-25T00:51:20.913Z
+updated: 2024-11-01T02:45:09.878Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Don’t panic. Here�
 
 If Mount & Blade 2 still crashes, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 2: Update your graphics driver
 
  One of the most common causes of game issues is a missing or outdated graphics driver. So, if you’re encountering any issues with Mount & Blade 2: Bannerlord, such as game crashes and lags, try updating your graphics driver. There are two ways you can do this:
@@ -78,10 +71,10 @@ If Mount & Blade 2 still crashes, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -107,30 +100,37 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Rename the**Bannerlord folder** to**old\_Bannerlord** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-50-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Relaunch Steam to reinstall the game.
@@ -157,6 +157,13 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
@@ -164,19 +171,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click your **C drive** .
 
@@ -190,16 +184,10 @@ If the Bannerlord is still unplayable, continue with the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
@@ -207,13 +195,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
 **9)** Restart your computer and your game.
 
  You should be able to run Mount & Blade 2: Bannerlord without crashing now. If not, check the solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 5: Check for Windows updates
 
@@ -224,15 +205,22 @@ If the Bannerlord is still unplayable, continue with the next solution.
 ![This image has an empty alt attribute; its file name is image-575.jpg](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Restart your computer after the update is complete, then try running the game again.
 
@@ -253,17 +241,17 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-optimize-video-production-with-adobe-presenter/"><u>[New] How to Optimize Video Production with Adobe Presenter</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-amped-arcs-and-zigzags-in-olympic-speed/"><u>[Updated] Amped Arcs & Zigzags in Olympic Speed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-youtube7/"><u>「2024新品種」におすすめ! YouTubeダウンロードを自由に、これが7つの最適解である!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44kq44o844oh44kj44kq5qmf5zmo44gn5puy44gm6kqn6k2y44gv44km44gq44ge5pmc44gu5aplusplus562w5pa55rov44cn/"><u>「オーディオ機器で曲が認識されない時の対策方法」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/44cm44k544k44oh44kj44oz44kw5yuv55s744oa44km44oz44ot44o844oj5oml6acg44ks44kk44oj44cn/"><u>「スタディング動画ダウンロード手順ガイド」</u></a></li>
-<li><a href="https://win-answers.techidaily.com/5yuv55s757eo6zug77ya5pmc6zat44go6kgo56s644gr44ki44kl44ot44oh44kq5yig5ymy5oqa6kgt/"><u>動画編集：時間と表示によるビデオ分割技術</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/becoming-an-insta-star-with-simple-steps-for-2024/"><u>Becoming an Insta-Star with Simple Steps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-why-the-discounted-apple-watch-ultra-2-is-my-ideal-smartwatch-pick-this-labor-day-insights-from-zdnet/"><u>Exploring Why the Discounted Apple Watch Ultra 2 Is My Ideal Smartwatch Pick This Labor Day - Insights From ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-se-2022-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone SE (2022) After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726030645663-mkv/"><u>MKV映像ファイルの容量削減手順「シンプルガイド」</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-fortnites-video-memory-problems/"><u>Troubleshooting Guide: Resolving Fortnite's Video Memory Problems</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-voice-activated-data-collection-on-ios-ranking-the-top-10-apps/"><u>Updated 2024 Approved Voice-Activated Data Collection on iOS Ranking the Top 10 Apps</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-logic-x-lore-guides-to-creating-crossfading-audio/"><u>[New] In 2024, Logic X Lore Guides to Creating Crossfading Audio</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-overcoming-absence-of-color-in-game-feed-for-2024/"><u>[Updated] Overcoming Absence of Color in Game Feed for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-the-definitive-guide-to-flawless-morphvox-technique/"><u>2024 Approved The Definitive Guide to Flawless MorphVOX Technique</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-smooth-gaming-experience-in-fixed-cyberpunk-2077-release/"><u>Enhanced Smooth Gaming Experience in Fixed Cyberpunk 2077 Release</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-samsung-ve-driver-software-free-now/"><u>Get the Latest Samsung ˈɛvə Driver Software Free Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-your-game-blockade-battlefield-5-launch-fixes-for-gamers/"><u>Overcome Your Game Blockade: Battlefield 5 Launch Fixes for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-how-to-troubleshoot-and-resolve-discord-overlay-issues/"><u>Quick Fixes: How to Troubleshoot and Resolve Discord Overlay Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reducing-resource-consumption-tips-for-edge-view2-process/"><u>Reducing Resource Consumption: Tips for Edge View2 Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-resolving-unable-to-launch-game-errors-by-checking-game-files/"><u>Step-by-Step Solution: Resolving 'Unable to Launch Game' Errors by Checking Game Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-performance-issues-steady-frames-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Performance Issues: Steady Frames in Call of Duty Modern Warfare ^2 on PC</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tweet-transformation-techniques-for-free-gifs-for-2024/"><u>Tweet Transformation Techniques for Free GIFs for 2024</u></a></li>
 </ul></div>
 

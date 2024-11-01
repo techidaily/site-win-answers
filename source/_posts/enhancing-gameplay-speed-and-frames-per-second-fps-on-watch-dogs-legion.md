@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Gameplay Speed & Frames Per Second (FPS) on Watch Dogs: Legion"
-date: 2024-09-01T04:17:56.650Z
-updated: 2024-09-02T04:17:56.650Z
+date: 2024-10-26T08:21:35.033Z
+updated: 2024-11-01T11:28:19.301Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 4. **[Disable auto proxy settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Repair the Steam service](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Turn off unwanted programs
 
@@ -69,11 +76,15 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Try running Steam to see if it can work faster now. If Steam still works slow, there are 5 more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Clear Steam cache and cookies
 
  Over time, your PC accumulates Steam cache files and cookies. These files and cookies may affect your PC performance and cause Steam to slow down.
@@ -84,9 +95,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 **2)** Click**Steam** , and then select**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
@@ -95,19 +103,20 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 **5)** Click**DELETE ALL BROWSER COOKIES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Click**OK.**
 
@@ -121,16 +130,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **9)** **Restart** Steam.
 
  Check if this method helped in speeding up Steam. If Steam still runs slow, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Outdated or faulty device drivers can also cause Steam to lag. To see if that’s the problem for you, try updating your drivers. There are two ways you can do this:
@@ -145,13 +148,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-17_12-11-59-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the driver you need to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -177,9 +173,6 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-806.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **2)** Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
@@ -198,10 +191,6 @@ If your problem persists, then move on and try the fix below.
 
 If this didn’t resolve your problem, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 5: Repair the Steam service
 
  Corrupt or missing Steam files may also Steam performance issues. To fix it, you’ll need to verify Steam files. Here is how:
@@ -212,9 +201,6 @@ If this didn’t resolve your problem, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_17-42-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** You’ll see a window appears. (It may take a few minutes to repair Steam service, please wait for the process to be complete. Don’t close the window.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_17-44-26.jpg)
@@ -222,6 +208,13 @@ If this didn’t resolve your problem, move on and try the next fix.
 **4)** Restart Steam to test your issue.
 
 If your issue continues to occur, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
 
@@ -235,35 +228,46 @@ If your issue continues to occur, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-768-1024x724.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-774.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Under**View b** y, select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-773.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **5)** Select**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-772.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Right-click**Steam** , and then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-771.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **7)** Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-769.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -271,18 +275,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **10)** Move the backup**steamapps** folder you create before to your current directory location. Then, restart Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-764.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Hopefully, this article helped in speeding up Steam! If you have any questions or suggestions, please feel free to leave a comment below.
 
 * [Steam](https://tools.techidaily.com/drivereasy/download/)
@@ -296,8 +299,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -305,4 +306,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlock-the-potential-of-your-gaming-experience-with-these-top-techniques-on-windows-11/"><u>[New] 2024 Approved Unlock the Potential of Your Gaming Experience with These Top Techniques on Windows 11</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-turn-dvd-discs-into-iso-images-in-windows-version-11-10-8-or-7-and-macos/"><u>Easy Steps to Turn DVD Discs Into ISO Images in Windows (Version 11, 10, 8, or 7) and macOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-modern-warfare-running-smoothly-on-your-pc-common-fixes-and-tips/"><u>Get Modern Warfare Running Smoothly on Your PC : Common Fixes & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-your-rust-code-from-crashing-solutions-unveiled/"><u>How to Prevent Your Rust Code From Crashing - Solutions Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-holistic-locomotion-scrutiny-report/"><u>In 2024, Holistic Locomotion Scrutiny Report</u></a></li>
+<li><a href="https://win-answers.techidaily.com/online-account-access-restored-origin-sign-in-issues-resolved/"><u>Online Account Access Restored - Origin Sign-In Issues Resolved</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-mini-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 mini Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-performance-issues-solutions-for-halo-infinite-stuttering/"><u>Resolving Performance Issues: Solutions for Halo Infinite Stuttering</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002964632-shader-compilation-woes-in-call-of-duty-black-ops-cold-war-heres-how-you-can-resolve-them/"><u>Shader Compilation Woes in Call of Duty: Black Ops Cold War? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-instrucuions-on-how-to-update-microsoft-sculpt-keyboard-software/"><u>Step-by-Step Instrucuions on How to Update Microsoft Sculpt Keyboard Software</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/tackle-intermittent-fb-reels-display-for-2024/"><u>Tackle Intermittent FB Reels Display for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-faulty-windows-spotlight-feature-in-windows-11/"><u>Troubleshooting Guide for Faulty Windows Spotlight Feature in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Master the Fight Without Glitches: Eliminating King of Fighters XV's Persistent Crash Problem on PC"
-date: 2024-10-19T17:30:23.901Z
-updated: 2024-10-26T16:52:45.129Z
+date: 2024-10-26T16:55:17.438Z
+updated: 2024-10-31T21:17:07.847Z
 tags:
   - win11
   - win10
@@ -82,13 +82,6 @@ Make sure that Anthem is closed and not running in the background.
 
 All good now? That’s great!
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -103,22 +96,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
@@ -152,13 +139,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
@@ -183,16 +163,16 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 5: Run Anthem as an administrator
 
@@ -207,10 +187,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
@@ -218,10 +198,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Re-launch your game and see if how it works.
@@ -229,10 +209,10 @@ Here’s what you need to do:
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
@@ -245,11 +225,25 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -275,14 +269,22 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-hidden-gems-in-graphic-design-basics/"><u>[Updated] 2024 Approved Hidden Gems in Graphic Design Basics</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-best-game-video-recording-and-editing-software-for-beginners/"><u>[Updated] 2024 Approved The Best Game Video Recording and Editing Software for Beginners</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-playstation-issues-how-to-resolve-armored-core-vi-not-loading-problems/"><u>Addressing PlayStation Issues: How to Resolve 'Armored Core VI Not Loading' Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-world-of-warships-pc-issues-5-rapid-remedies-for-unexpected-crashes/"><u>Beat World of Warships PC Issues: 5 Rapid Remedies for Unexpected Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-on-without-interruption-troubleshooting-street-fighter-6-crashes/"><u>Game On Without Interruption: Troubleshooting Street Fighter 6 Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-recurring-obs-issues-on-windows-11-and-windows-1n-comprehensive-guide/"><u>How to Resolve Recurring OBS Issues on Windows 11 and Windows 1N - Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/screen-recorder-freedom-top-10-no-cost-choices-for-cameras-for-2024/"><u>Screen Recorder Freedom Top 10 No-Cost Choices for Cameras for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-tecno-pova-5-pro-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Tecno Pova 5 Pro Device</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-full-review-capturing-every-angle-in-one-device-samsung/"><u>[New] 2024 Approved Full Review Capturing Every Angle in One Device - Samsung</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-reason-behind-the-mafia-definitive-edition-launch-delay/"><u>Decoding the Reason Behind the Mafia: Definitive Edition Launch Delay</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-neo-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-activate-grid-in-google-meet-for-full-participant-display/"><u>In 2024, Activate Grid in Google Meet for Full-Participant Display</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-the-instagram-way-of-showcasing-youtube-videos/"><u>In 2024, The Instagram Way of Showcasing YouTube Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-online-play-in-depth-guide-to-using-kinemaster-and-its-rivals/"><u>Mastering Online Play In-Depth Guide to Using KineMaster and Its Rivals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-3-gaming-hitches-call-of-duty-frame-rate-fluctuations/"><u>Modern Warfare 3 Gaming Hitches - Call of Duty Frame-Rate Fluctuations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-apex-legends-not-launching-easy-and-fast-fixes-available/"><u>Overcome Apex Legends Not Launching - Easy & Fast Fixes Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-repairing-your-madden-nfl-22-game-when-it-stops-responding/"><u>Quick Solutions: Repairing Your Madden NFL 22 Game When It Stops Responding</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/simplified-steps-for-effective-text-communication-on-an-ipad/"><u>Simplified Steps for Effective Text Communication on an iPad</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/skin-care-secrets-unveiled/"><u>Skin Care Secrets Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-restore-audio-in-forza-horizon-4-enjoy-full-volume/"><u>Solved! How to Restore Audio in Forza Horizon 4 – Enjoy Full Volume</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-century-age-of-ashes-game-crashes-on-windows-and-mac/"><u>Troubleshooting Guide for Century: Age of Ashes Game Crashes on Windows & Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-content-warning-issues-in-voice-chat-applications/"><u>Troubleshooting Steps: Resolving 'Content Warning' Issues in Voice Chat Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-launch-issues-in-division-2/"><u>Ultimate Guide: Resolving Launch Issues in Division 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstick-your-red-dead-redemption-2-game-tips-to-resolve-persistent-loading-issues/"><u>Unstick Your Red Dead Redemption 2 Game: Tips to Resolve Persistent Loading Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-infinix-note-30-vip-racing-edition-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Infinix Note 30 VIP Racing Edition Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

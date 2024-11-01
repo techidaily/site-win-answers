@@ -1,7 +1,7 @@
 ---
 title: "Unstick Your Football Manager 2021 Launch: Solutions for the Endless Load Screen Problem"
-date: 2024-10-21T16:07:36.835Z
-updated: 2024-10-26T16:46:02.370Z
+date: 2024-10-25T06:13:07.672Z
+updated: 2024-10-31T20:19:59.791Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-3-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After resetting the resolution, open the launcher to check if it’s loading correctly. If not, try the next fix.
 
 ---
@@ -88,6 +81,13 @@ Here’s how you can do this:
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , and[Intel](https://downloadcenter.intel.com/product/80939/Graphics-Drivers) keep updating drivers. To get them, you need to go to the official websites, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the drivers manually.
@@ -105,6 +105,13 @@ Here’s how you can do this:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -126,10 +133,10 @@ Here’s how you can do this:
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the tab**Compatibility** and check the box**Run this program in compatibility mode for:** and make sure that**Windows 8** is selected. Then check the box**Disable fullscreen optimizations** . After that, click**Apply > OK** .
@@ -164,13 +171,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
 
  If the problem persists, then select**No, try again using different settings** .
@@ -185,13 +185,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Check**Yes, try again using different settings,** and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-8.png)
@@ -201,10 +194,10 @@ Here’s how you can do this:
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  11) Click**Yes, save these settings for this program** .
@@ -218,19 +211,6 @@ Here’s how you can do this:
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Allow the launcher through the firewall
 
@@ -254,6 +234,13 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Change your DNS server to the Google Public DNS
 
  Sometimes changing the DNS server can fix many issues. So here you can also do this to fix the black screen issue.
@@ -261,6 +248,19 @@ Here’s how you can do this:
  1) In the**Search** box, type**control panel** and click**Control Panel** from the results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.png)
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Network and Internet** . (Note: make sure that it’s**View by: Category** .)
 
@@ -277,13 +277,6 @@ Here’s how you can do this:
  5) Click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
@@ -318,6 +311,13 @@ To do this, simply follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 9: Change high DPI settings
 
  1) Right-click on the launcher’s shortcut and select**Properties** .
@@ -327,13 +327,6 @@ To do this, simply follow the instructions below:
  2) Select the**Compatibility** tab and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Check the box**Override high DPI scaling behavior** and click**OK** .
 
@@ -362,6 +355,13 @@ Below is the VPN we would like to recommend:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * [black screen](https://tools.techidaily.com/drivereasy/download/)
 * [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
 
@@ -380,22 +380,16 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-uninterrupted-snapstreaks-achievable-or-impossible-for-2024/"><u>[New] Uninterrupted Snapstreaks Achievable or Impossible for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>2024 Approved Evolving Videography Redefining Social Sharing with Periscope Alternatives</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-how-to-convert-a-spotify-playlist-to-youtube-music/"><u>2024 Approved How to Convert A Spotify Playlist To YouTube Music</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-oculus-game-collection-top-8-popular-picks/"><u>2024 Approved Oculus Game Collection Top 8 Popular Picks</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 with a Broken Screen?</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-firmware-hp-laserjet-m506-printer-drivers/"><u>Download the Latest Firmware: HP LaserJet M506 Printer Drivers</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/solving-non-connecting-wi-fi-usb-on-windows-devices/"><u>Solving Non-Connecting Wi-Fi USB on Windows Devices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/sony-walkman/"><u>Sony Walkman動画再生不能のトラブルシューティングガイド</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-transforming-dvd-vob-files-into-mp3-playable-videos/"><u>Step-by-Step Guide to Transforming DVD VOB Files Into MP3 Playable Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adding-background-tunes-to-your-google-slides-deck/"><u>Step-by-Step Guide: Adding Background Tunes to Your Google Slides Deck</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-setting-up-the-adult-content-extension-in-kodi/"><u>Step-by-Step Guide: Setting Up the Adult Content Extension in Kodi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-turning-screen-recordings-into-gifs-for-pc-users/"><u>Step-by-Step Guide: Turning Screen Recordings Into GIFs for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-on-converting-dvd-soundtracks-into-aac-files/"><u>Step-by-Step Tutorial on Converting DVD Soundtracks Into AAC Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-enable-dvd-player-compatibility-with-mkv-format/"><u>Step-by-Step Tutorial: Enable DVD Player Compatibility with MKV Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/streamlining-your-audio-conversion-a-simple-guide-to-changing-webm-files-into-m4a-format/"><u>Streamlining Your Audio Conversion: A Simple Guide to Changing WebM Files Into M4A Format</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/usbmp4-mts-2/"><u>USBを使わずにMP4ファイル変換が簡単! MTS からのアップグレード - 最適なサイト2選</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-danger-lurking-online-spotting-the-falsehood-of-fake-viewers-on-youtube/"><u>[New] In 2024, Danger Lurking Online Spotting the Falsehood of Fake Viewers on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/complete-motion-survey-2023/"><u>Complete Motion Survey 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-dealing-with-persistent-crashes-in-phoenix-point/"><u>Comprehensive Strategies for Dealing with Persistent Crashes in Phoenix Point</u></a></li>
+<li><a href="https://win-web.techidaily.com/convert-biqle-adult-content-save-hd-movies-in-mp4movaviflv-for-pc-and-mac/"><u>Convert Biqle Adult Content - Save HD Movies in MP4/MOV/AVI/FLV for PC & MAC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722983140787-dark-souls-eboot-fixes-how-to-stop-game-crashes-once-and-for-all/"><u>Dark Souls Eboot Fixes: How to Stop Game Crashes Once and for All</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-download-top-3-optimal-film-viewer-apps-for-macos-users/"><u>Free Download: Top 3 Optimal Film Viewer Apps for macOS Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-queries-sidestep-these-6-frequent-slip-ups/"><u>Mastering ChatGPT Queries: Sidestep These 6 Frequent Slip-Ups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-pc-crashes-top-2024-fixes-for-uninterrupted-gaming/"><u>Minecraft PC Crashes: Top 2024 Fixes for Uninterrupted Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-funny-image-processing-app/"><u>Top Funny Image Processing App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-solving-fps-drop-problems-in-dota-2-with-windows-11-update/"><u>Understanding and Solving FPS Drop Problems in Dota 2 with Windows 11 Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wolcen-lords-of-mayhem-reasons-behind-the-delayed-release/"><u>Wolcen: Lords of Mayhem - Reasons Behind the Delayed Release</u></a></li>
 </ul></div>
 

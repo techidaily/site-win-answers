@@ -1,7 +1,7 @@
 ---
 title: "Resolving Connectivity Problems: Get Your Logitech G Hub Working in Windows Again!"
-date: 2024-10-24T16:13:34.816Z
-updated: 2024-10-26T16:30:40.830Z
+date: 2024-10-25T17:36:12.270Z
+updated: 2024-11-01T02:13:26.979Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
 
@@ -74,14 +67,21 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 5. Click**Allow another app…**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
    * Click on the game title in your library.  
    * Select _**Properties**_ from the menu on the left.  
@@ -110,23 +110,16 @@ OR
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Run your game as an administrator
 
@@ -138,10 +131,10 @@ OR
 3. Next time you open your game launcher, it will launch in admin mode.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
@@ -161,22 +154,29 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -203,24 +203,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-backtrack-broadcasts-effortlessly-with-these-20-stream-steps/"><u>[New] Backtrack Broadcasts Effortlessly with These 20 Stream Steps</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-effortlessly-fast-forward-focus-in-video-content/"><u>[New] Effortlessly Fast-Forward Focus in Video Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-customize-your-video-to-fit-seamlessly-in-instagram/"><u>[Updated] Customize Your Video to Fit Seamlessly in Instagram</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-dive-into-vimeos-free-premium-and-pro-plans-and-their-benefits/"><u>[Updated] In 2024, Dive Into Vimeo's Free, Premium & Pro Plans and Their Benefits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/corrupted-game-files-heres-how-to-repair-and-get-back-into-the-action-by-2024/"><u>Corrupted Game Files? Here's How to Repair and Get Back Into the Action by 2024!</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/dive-into-the-world-of-yakuza-like-a-dragon-a-captivating-jrpg-you-ought-to-play-now/"><u>Dive Into the World of Yakuza: Like a Dragon - A Captivating JRPG You Ought to Play Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-gaming-with-halo-infinite-top-7-ways-to-resolve-pc-performance-problems/"><u>Effortless Gaming with Halo Infinite: Top 7 Ways to Resolve PC Performance Problems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/fix-this-device-doesnt-support-receiving-miracast-2024-tips/"><u>Fix ‘This Device Doesn’t Support Receiving Miracast’ 2024 Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-solve-mir4-issues-on-your-windows-pc/"><u>How to Prevent and Solve MIR/4 Issues on Your Windows PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-11-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 11 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-the-art-of-syncing-audio-and-video-alignment-techniques-in-fcpx-2024/"><u>New The Art of Syncing Audio and Video Alignment Techniques in FCPX 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-experience-addressing-lag-in-dragons-dogma-2-fps-and-stutter-fix-guide/"><u>Optimizing Your Gameplay Experience: Addressing Lag in Dragon's Dogma ˹2˺ - FPS and Stutter Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-discords-screen-share-blackout-problem/"><u>Resolved: Troubleshooting Discord's Screen Share Blackout Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-tarkovs-trouble-a-step-by-step-guide-to-solving-error-103003/"><u>Resolving Tarkov's Trouble: A Step-by-Step Guide to Solving Error 103003</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/seamless-mac-file-synchronization-the-complete-step-by-step-manual/"><u>Seamless Mac File Synchronization: The Complete Step-by-Step Manual</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/taming-the-beast-conquering-crashes-in-windows-df/"><u>Taming the Beast: Conquering Crashes in Windows DF</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-crashes-in-stardew-valley-for-windows-and-mac-users/"><u>Troubleshooting Continuous Crashes in Stardew Valley for Windows and Mac Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-is-my-obs-not-recording/"><u>Troubleshooting Guide: Why Is My OBS Not Recording?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-your-pcs-frame-rate-drops-by-two-fps-explained/"><u>Why Your PC's Frame Rate Drops by Two FPS - Explained</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-secure-total-visual-display-for-2024/"><u>[Updated] Secure Total Visual Display for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-show-audio-waveform-and-add-waveform-animation-in-premiere-protutorial/"><u>New 2024 Approved Show Audio Waveform and Add Waveform Animation in Premiere ProTutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-geforce-experience-fixes-resolving-the-issue-with-error-code-0x0003/"><u>Nvidia GeForce Experience Fixes - Resolving the Issue with Error Code 0X0003</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-error-code-0xc19001e1-on-your-windows-11-machine/"><u>Resolving the 'Error Code 0xC19001E1' On Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/risk-of-rain-eblocks-steps-to-enhance-game-performance-and-avoid-crashes/"><u>Risk of Rain Eblocks: Steps to Enhance Game Performance and Avoid Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010050687-the-ultimate-guide-to-unfreeze-fallout-4-and-enjoy-seamless-gaming-experience/"><u>The Ultimate Guide to Unfreeze Fallout 4 and Enjoy Seamless Gaming Experience!</u></a></li>
+<li><a href="https://facebook.techidaily.com/troubleshooting-stuck-facebook-video-top-10-solutions/"><u>Troubleshooting: Stuck Facebook Video – Top 10 Solutions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-7-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 7 has bad ESN or blacklisted IMEI?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/zero-dollar-mac-capture-mastery/"><u>Zero-Dollar Mac Capture Mastery</u></a></li>
 </ul></div>
 

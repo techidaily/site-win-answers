@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Modern Warfare Dev Error 6Aster: Solutions for PlayStation, Xbox, & PC Gamers"
-date: 2024-10-22T16:46:03.825Z
-updated: 2024-10-26T16:41:06.482Z
+date: 2024-10-26T05:36:08.917Z
+updated: 2024-10-31T16:25:53.779Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -58,27 +65,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -98,10 +98,10 @@ To do so, first visit the website of your GPU manufacturer:
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
@@ -112,15 +112,15 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
@@ -152,20 +152,22 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-through-historical-twitter-data-for-2024/"><u>[New] Navigating Through Historical Twitter Data for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/common-problems-and-solutions-with-chatgpt-on-iphones-expert-tips-to-get-it-working-again/"><u>Common Problems & Solutions with ChatGPT on iPhones – Expert Tips to Get It Working Again</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/convert-and-download-aol-video-content-as-high-quality-mp4-avi-or-mov-files-tips-for-windows-and-macos/"><u>Convert and Download AOL Video Content as High-Quality MP4, AVI, or MOV Files: Tips for Windows & macOS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-x-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone X In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-10-popular-websites-to-download-aesthetic-wallpapers-for-laptop/"><u>In 2024, 10 Popular Websites to Download Aesthetic Wallpapers for Laptop</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-lightning-fast-method-for-double-exposure-filming/"><u>In 2024, Lightning-Fast Method for Double Exposure Filming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/kissanime-2024/"><u>KissAnime動画ダウンロード手順 - 最新ガイド2024年</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-ranking-ultimate-video-format-changer-for-microsoft-windows-users/"><u>Latest Ranking: Ultimate Video Format Changer for Microsoft Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/most-effective-videots-to-mpeg-conversion-tools-for-windows-11-top-picks-of-20232024/"><u>Most Effective VIDEO_TS to MPEG Conversion Tools for Windows 11 - Top Picks of 2023/2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/smooth-transition-to-updated-deathadder-drivers/"><u>Smooth Transition to Updated DeathAdder Drivers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-tecno-spark-10-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adult-content-streaming-with-fantasticc-add-on-in-kodi-19-matrix/"><u>Step-by-Step Guide: Adult Content Streaming with FantastiCC Add-On in Kodi 19 Matrix</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-interstellar-dvd-2014-for-viewing-on-your-iphoneipad/"><u>Step-by-Step Guide: Converting Interstellar (DVD, 2014) for Viewing on Your iPhone/iPad</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-facetune-review-transform-your-image-quality-for-2024/"><u>Ultimate Facetune Review Transform Your Image Quality for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/livepc/"><u>アクタージャニーズLIVE配信のPC録画・確保テクニック</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-evolving-narratives-in-virtual-cinema-landscapes/"><u>[New] Evolving Narratives in Virtual Cinema Landscapes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-streamline-your-soundtrack-exchanging-playlists-seamlessly/"><u>[New] Streamline Your Soundtrack Exchanging Playlists Seamlessly</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-transforming-scripted-words-into-powerful-video-soundtracks-for-2024/"><u>[New] Transforming Scripted Words Into Powerful Video Soundtracks for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-live-streaming-tools-discover-manycam-the-ultimate-video-software-and-online-camera-alternative/"><u>Best Live Streaming Tools: Discover ManyCam – The Ultimate Video Software and Online Camera Alternative</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-football-manager-2022-pc-crashing-problems-step-by-step-fix-guide-for-gamers/"><u>Conquer Football Manager 2022 PC Crashing Problems: Step-by-Step Fix Guide for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-your-xgs-issues-on-cod-modern-warfare-2/"><u>Easy Fixes for Your XGS Issues on COD: Modern Warfare 2</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/elevate-your-diy-game-indispensable-articles-and-hacks-from-the-stellar-toolkit-collection/"><u>Elevate Your DIY Game - Indispensable Articles & Hacks From the Stellar Toolkit Collection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-no-more-crashes-in-naraka-bladebreakers-gameplay-session/"><u>Fix Implemented: No More Crashes in Naraka: Bladebreakers Gameplay Session</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Nokia C02? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012992381-left-4-dead-out-of-the-woods-no-more-crashes/"><u>Left 4 Dead ² Out of the Woods - No More Crashes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-iphone-screen-casts-with-ease/"><u>Mastering iPhone Screen Casts with Ease</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/professional-filming-made-simple-the-essentials-of-logitech-webcam-setup-for-2024/"><u>Professional Filming Made Simple The Essentials of Logitech Webcam Setup for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-freezing-frames-expert-advice-for-resolving-stuck-loading-in-minecraft/"><u>Say Goodbye to Freezing Frames: Expert Advice for Resolving 'Stuck' Loading in Minecraft</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/top-10-highest-grossing-films-winning-an-academy-award/"><u>Top 10 Highest-Grossing Films Winning an Academy Award</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-solve-the-fifa-22-freezes-or-crashes-issue-on-desktop-systems/"><u>Troubleshooting Steps - Solve the 'FIFA 22 Freezes or Crashes' Issue on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-minecraft-dungeon-pc-stability-issues/"><u>Ultimate Guide to Resolving Minecraft Dungeon PC Stability Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-players-manual-mastering-roller-champions-crossplay/"><u>Ultimate Player's Manual: Mastering Roller Champions Crossplay</u></a></li>
 </ul></div>
 

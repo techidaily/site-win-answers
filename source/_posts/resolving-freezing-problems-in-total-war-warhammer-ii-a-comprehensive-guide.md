@@ -1,7 +1,7 @@
 ---
 title: "Resolving Freezing Problems in Total War: WARHAMMER II – A Comprehensive Guide"
-date: 2024-10-20T17:07:57.766Z
-updated: 2024-10-26T17:32:47.540Z
+date: 2024-10-25T19:32:21.345Z
+updated: 2024-11-01T03:37:48.929Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
@@ -66,20 +73,13 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -124,23 +131,29 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 ### 2: Switch to a public DNS server
 
@@ -153,37 +166,30 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -217,17 +223,24 @@ thumbnail: https://thmb.techidaily.com/2bedac5967dc2670719be619f6173feb9adb05006
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-editing-unlimited-free-audio-samples/"><u>[New] 2024 Approved Enhance Editing Unlimited Free Audio Samples</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-breaking-the-code-30-novel-window-11-strategies-exposed-for-2024/"><u>[New] Breaking the Code 30 Novel WINDOW 11 Strategies Exposed for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-social-media-savvy-top-101-bio-tips-and-techniques-for-facebookers-for-2024/"><u>[Updated] Social Media Savvy Top 101 Bio Tips & Techniques for Facebookers for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-cloud-gaming-a-comprehensive-tutorial-on-using-the-xbox-game-pass-ultimate/"><u>Mastering Cloud Gaming: A Comprehensive Tutorial on Using the Xbox Game Pass Ultimate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-unreal-engine-4-fixing-the-unreal-process-has-crashed-ue4-madness-bug/"><u>Resolved Issue: Unreal Engine 4 - Fixing the 'Unreal Process Has Crashed: UE4 Madness' Bug</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-guide-to-computer-hardware-toms-tech-wisdom/"><u>The Ultimate Guide to Computer Hardware - Tom's Tech Wisdom</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-for-converting-mov-videos-to-mp4-with-windows-10-a-comprehensive-how-to/"><u>Top Strategies for Converting MOV Videos to MP4 with Windows 10 - A Comprehensive How-To</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-skyline-city-builder-solutions-for-game-starts-failure/"><u>Troubleshooting Skyline City Builder – Solutions for Game Starts Failure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tubitv-ultimate-guide-easy-installation-and-hdr-streaming-with-the-kodi-add-on/"><u>TubiTV Ultimate Guide: Easy Installation & HDR Streaming with the Kodi Add-On</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-list-of-the-top-11-best-pc-sound-capture-tools-for-home-studios/"><u>Ultimate List of the Top 11 Best PC Sound Capture Tools for Home Studios</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-full-potential-essential-guidance-for-using-winx-dvd-ripper-platinum-freely/"><u>Unlock the Full Potential: Essential Guidance for Using WinX DVD Ripper Platinum Freely</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-simplified-tech-livestreaming-of-facebook-using-obs-studio/"><u>[New] Simplified Tech Livestreaming of Facebook Using OBS Studio</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-how-to-make-asmr-videos-all-you-need-to-know-for-2024/"><u>[Updated] How to Make ASMR Videos All You Need to Know for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-exploring-trending-video-reactions/"><u>[Updated] In 2024, Exploring Trending Video Reactions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-clearing-up-your-video-quality-issues/"><u>2024 Approved Clearing Up Your Video Quality Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-steer-clear-of-targeted-commercial-content-in-browsing/"><u>2024 Approved Steer Clear of Targeted Commercial Content in Browsing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/aiffmp3/"><u>AIFF形式への高品質MP3ファイル変換手順</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/efficient-guide-to-transforming-gifs-into-engaging-whatsapp-and-telegram-stickers/"><u>Efficient Guide to Transforming GIFs Into Engaging WhatsApp & Telegram Stickers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/estimated-duration-fully-powering-up-your-electric-vehicle-how-long-will-it-take/"><u>Estimated Duration: Fully Powering Up Your Electric Vehicle – How Long Will It Take?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-crashes-when-streaming-on-discord/"><u>Expert Tips for Fixing Crashes When Streaming on Discord</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993873226-football-manager-2022-release-delay-explained-solved/"><u>Football Manager 2022 Release Delay Explained: Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-repair-msvcr110dll-not-found-error-for-helldivers-game-enthusiasts/"><u>Guide to Repair 'MSVCR110.dll Not Found' Error for Helldivers Game Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-starfield-from-halting-or-collapsing-mid-play-on-personal-laptops-and-desktops/"><u>How to Prevent Starfield From Halting or Collapsing Mid-Play on Personal Laptops and Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-2024-say-goodbye-to-reconnection-loops-with-latest-fixes/"><u>League of Legends 2024: Say Goodbye to Reconnection Loops with Latest Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gaming-experience-on-avatar-frontiers-of-pandora-fixing-stutter-and-improving-fps/"><u>Optimizing Your Gaming Experience on Avatar: Frontiers of Pandora - Fixing Stutter and Improving FPS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-sail-in-the-digital-ocean-the-first-quintet-of-steps-for-your-latest-tech-gadget/"><u>Setting Sail in the Digital Ocean: The First Quintet of Steps for Your Latest Tech Gadget</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-eradicating-full-black-screen-problems-in-rainbow-six-siege-for-windows-users/"><u>Step-by-Step Solution: Eradicating Full Black Screen Problems in Rainbow Six Siege for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-strategies-for-dealing-with-red-dead-redemption-2s-unyielding-start-up-hurdle/"><u>Successful Strategies for Dealing with Red Dead Redemption 2'S Unyielding Start-Up Hurdle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-oculus-link-display-issues-in-minutes-with-these-6-methods/"><u>Troubleshooting Oculus Link Display Issues in Minutes with These 6 Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fix-microsoft-flight-simulator-2020-no-more-pc-crashes/"><u>Ultimate Guide to Fix Microsoft Flight Simulator 2020: No More PC Crashes!</u></a></li>
 </ul></div>
 
