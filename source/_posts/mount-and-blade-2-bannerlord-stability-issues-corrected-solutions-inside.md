@@ -1,7 +1,7 @@
 ---
 title: "Mount & Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside"
-date: 2024-09-01T04:15:17.599Z
-updated: 2024-09-02T04:15:17.599Z
+date: 2024-10-31T23:59:02.980Z
+updated: 2024-11-06T16:13:00.736Z
 tags:
   - win11
   - win10
@@ -51,6 +51,13 @@ Mount & Blade 2: Bannerlord keeps crashing to the desktop? Don’t panic. Here�
 
 If Mount & Blade 2 still crashes, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 2: Update your graphics driver
 
  One of the most common causes of game issues is a missing or outdated graphics driver. So, if you’re encountering any issues with Mount & Blade 2: Bannerlord, such as game crashes and lags, try updating your graphics driver. There are two ways you can do this:
@@ -80,6 +87,13 @@ If Mount & Blade 2 still crashes, try the next solution.
 
 If the Bannerlord is still unplayable, continue with the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Reinstall the game
 
  If your game was working previously but is now crashing and you have completed verifying the game files with no results, try this next.
@@ -88,43 +102,50 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)**  Rename the**Bannerlord folder** to**old\_Bannerlord** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-50-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Relaunch Steam to reinstall the game.
 
  If the Bannerlord still crashes on your PC, move on and try the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 4: Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive.
@@ -137,16 +158,17 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
@@ -155,23 +177,14 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.
@@ -193,6 +206,13 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![This image has an empty alt attribute; its file name is image-575.jpg](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
@@ -207,8 +227,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +234,24 @@ If the Bannerlord is still unplayable, continue with the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-expressive-mac-screenshot-recorder-with-soundtrack/"><u>[New] 2024 Approved Expressive Mac Screenshot Recorder with Soundtrack</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-screen-streaming-showdown-go-obs-vs-shadowtoolkit/"><u>[New] 2024 Approved Screen Streaming Showdown Go OBS! Vs ShadowToolkit</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-from-small-screens-to-big-screen-success-fb-video-guide-2023/"><u>[Updated] In 2024, From Small Screens to Big Screen Success FB Video Guide 2023</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-rethinking-social-media-presence-in-light-of-instagrams-new-algorithm/"><u>[Updated] In 2024, Rethinking Social Media Presence in Light of Instagram's New Algorithm</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-discover-the-power-of-handbrakes-gpu-acceleration-a-comprehensive-qanda-guide/"><u>1. Discover the Power of HandBrake's GPU-Acceleration: A Comprehensive Q&A Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-fixes-for-gpts-six-most-prevalent-errors/"><u>Essential Fixes for GPT's Six Most Prevalent Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-exception-access-problems-in-civilization-vi-civ-6-by-year-2024/"><u>Expert Tips for Correcting Exception Access Problems in Civilization VI (Civ 6) by Year 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/festplattenubertragung-von-windows-881-auf-ein-upgraded-storage-medium-anleitung/"><u>Festplattenübertragung Von Windows 8/8.1 Auf Ein Upgraded Storage Medium - Anleitung</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-lags-and-stalls-in-fall-guys-when-played-on-pc/"><u>Fixes for Persistent Lags and Stalls in Fall Guys When Played on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-geforce-experience-malfunction-how-to-solve-unexpected-closure-issues/"><u>Fixing GeForce Experience Malfunction - How to Solve Unexpected Closure Issues</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-smart-tv-meets-social-networks-televising-fb-content/"><u>In 2024, Smart TV Meets Social Networks Televising FB Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-mlb-the-show-21-server-errors-with-these-expert-tips-and-solutions/"><u>Overcome MLB The Show 21 Server Errors with These Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/perfect-playtime-essential-fixes-for-a-smooth-gaming-experience-with-pacific-drive-on-pc/"><u>Perfect Playtime: Essential Fixes for a Smooth Gaming Experience with Pacific Drive on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-directx-issues-in-fifa-20-gameplay-smoothening/"><u>Resolved: Troubleshooting DirectX Issues in FIFA 20 - Gameplay Smoothening</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-far-cry-6-pc-stability-issues-and-preventing-crashes/"><u>Solving Far Cry 6 PC Stability Issues and Preventing Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999572007-ultimate-tricks-for-a-buttery-smooth-valorant-experience-raise-your-fps-and-eliminate-hitches/"><u>Ultimate Tricks for a Buttery Smooth Valorant Experience - Raise Your FPS & Eliminate Hitches</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unraveling-the-versatility-of-patekfly-12-tripod/"><u>Unraveling the Versatility of Patekfly 12 Tripod</u></a></li>
+</ul></div>
 

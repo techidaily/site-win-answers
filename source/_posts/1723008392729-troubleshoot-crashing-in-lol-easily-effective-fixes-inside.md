@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Crashing in LoL Easily – Effective Fixes Inside!
-date: 2024-09-01T04:14:56.230Z
-updated: 2024-09-02T04:14:56.230Z
+date: 2024-11-05T01:30:26.230Z
+updated: 2024-11-06T21:11:25.350Z
 tags:
   - win11
   - win10
@@ -58,8 +58,12 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
  If this didn’t resolve your issue, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Steam as an administrator
 
  Risk of Rain 2 might not have full access to your PC’s game files or folders in normal user mode. To check if this is the cause of the crashing issue, try running Steam with administrator privileges.
@@ -70,18 +74,19 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-24-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Disable your antivirus temporarily
 
  Sometimes, antivirus software can interfere with game performance. Temporarily disabling your antivirus can help determine if it’s causing the problem. You can consult your antivirus documentation for instructions on disabling it.
@@ -90,9 +95,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Verify the integrity of game files
 
  Occasionally, game files can become corrupted or altered due to malware on your PC. If your game is crashing for no obvious reason, consider verifying the integrity of your game files through Steam.
@@ -103,19 +105,44 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Run your game in compatibility mode
 
  Incompatibility with Windows updates can lead to game crashes. If you experience crashes after updating Windows, try running Risk of Rain 2 in compatibility mode:
@@ -127,9 +154,18 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-49.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
@@ -138,12 +174,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Relaunch your game to check if your issue has been resolved.
 
 If your problem still exists, go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
 
@@ -153,9 +193,6 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
@@ -172,9 +209,6 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the**Steam icon** and select**Open file location** .
@@ -185,9 +219,6 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -202,8 +233,6 @@ If your problem still exists, go ahead with the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +240,20 @@ If your problem still exists, go ahead with the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unleash-potential-stardews-premium-mod-lineup-7-14-for-2024/"><u>[Updated] Unleash Potential Stardew's Premium Mod Lineup #7-14 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-zombie-invasion-on-your-computer-a-guide-to-fixing-cold-war-gameplay-bugs/"><u>Beat Zombie Invasion on Your Computer - A Guide to Fixing Cold War Gameplay Bugs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/discreetly-discover-anonymously-observe-for-2024/"><u>Discreetly Discover, Anonymously Observe for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-adjust-your-photos-on-win-11-top-six-techniques-explored/"><u>Efficiently Adjust Your Photos on Win 11: Top Six Techniques Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-league-of-legends-crashes-fast-a-simple-guide/"><u>Fix League of Legends Crashes Fast: A Simple Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-vivo-y100i-power-5g-easily-by-drfone-android/"><u>How To Unlock a Vivo Y100i Power 5G Easily?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastery-in-radio-theatre-craftsm-written-for-2024/"><u>Mastery in Radio-Theatre Craftsm Written for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-msedgeexe-hiccups-strategies-to-optimize-your-web-browser-performance/"><u>Navigating Through MsEdge.exe Hiccups: Strategies to Optimize Your Web Browser Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-locating-electric-vehicle-charge-stations-via-google-maps/"><u>Step-by-Step Tutorial for Locating Electric Vehicle Charge Stations via Google Maps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixes-and-tips-for-successful-aoe-iv-download-from-the-microsoft-store/"><u>Troubleshooting: Fixes and Tips for Successful AoE IV Download From the Microsoft Store</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-valorants-stutter-and-drop-out-problems-on-computer-systems-step-by-step-solutions/"><u>Ultimate Fix for Valorant's Stutter and Drop-Out Problems on Computer Systems - Step by Step Solutions</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1726227027185-flacm4a-movavi/"><u>オンライン音楽ファイルの容易なFLAC/M4A変換 - Movavi無料ツール</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Oculus Link Screen Problem Fast - Top Six Fixes
-date: 2024-09-01T04:11:01.179Z
-updated: 2024-09-02T04:11:01.179Z
+date: 2024-11-02T05:44:42.478Z
+updated: 2024-11-06T22:17:14.267Z
 tags:
   - win11
   - win10
@@ -36,8 +36,12 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Run OBS as an administrator
 
  If OBS doesn’t have proper administrator privileges, it will fail to record your screen as expected, but you could run it as an administrator to fix the issue.
@@ -45,14 +49,31 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click the**OBS icon** on your desktop and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Close unnecessary background programs
 
  Software conflicts can also be a cause. To avoid this, you should shut down all unneeded programs running in the background before using OBS. Here are the steps:
@@ -60,15 +81,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4 – Change the graphics settings
 
  For users who are running OBS on a laptop or a multi-GPU system, using the wrong graphics card will trigger performance issues with the specific capture type. So OBS may not capture your screen. To fix this, you can select the dedicated graphics card manually via Windows settings.
@@ -76,9 +101,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Click the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
@@ -87,16 +109,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
+
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -110,9 +140,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -132,8 +159,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +166,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-advanced-strategies-for-soundless-video/"><u>[Updated] 2024 Approved Advanced Strategies for Soundless Video</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-your-music-collection-youtube-playlists-guide-for-2024/"><u>[Updated] Crafting Your Music Collection YouTube Playlists Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/creating-compelling-hauls-techniques-for-an-engaging-viewing-experience/"><u>Creating Compelling Hauls Techniques for an Engaging Viewing Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-overcoming-the-sims-nvidia-gpu-problems/"><u>Effective Solutions for Overcoming The Sims nVIDIA GPU Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-everestandia-2-pc-game-crash-issues/"><u>Fixes for Everestandia 2 PC Game Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-cities-skylines-crashing-issue-2024-tips/"><u>How to Fix Cities: Skylines Crashing Issue [2024 Tips]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-secure-your-privacy-with-easy-to-follow-picscanner-methods/"><u>In 2024, Secure Your Privacy with Easy-to-Follow PicScanner Methods</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-final-cut-pro-x-image-editing-cropping-made-easy/"><u>New Final Cut Pro X Image Editing Cropping Made Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-playstation-and-xbox-exclusive-game-issues-mw-freezes-no-more/"><u>Resolving PlayStation and Xbox-Exclusive Game Issues: MW Freezes No More!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-ranked-android-song-curator/"><u>Top-Ranked Android Song Curator</u></a></li>
+<li><a href="https://blog-min.techidaily.com/virtueel-toonladderen-van-ape-delen-leesbaar-and-vervoegd-met-gratis-movavi-service/"><u>Virtueel Toonladderen Van APE-Delen Leesbaar & Vervoegd Met Gratis Movavi Service</u></a></li>
+</ul></div>
 

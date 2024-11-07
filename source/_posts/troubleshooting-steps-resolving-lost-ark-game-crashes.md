@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Lost Ark' Game Crashes"
-date: 2024-10-26T01:43:45.873Z
-updated: 2024-11-01T09:01:46.385Z
+date: 2024-10-31T22:36:31.887Z
+updated: 2024-11-07T02:28:50.995Z
 tags:
   - win11
   - win10
@@ -34,19 +34,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Disable your X-Fi sound card (If you have an X-Fi sound card)**](https://www.drivereasy.com/knowledge/how-to-fix-gears-of-war-5-crash/#F7)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics driver
 
  This problem may occur if you are using the wrong graphicsdriver or it’s out of date. So you should update your graphicsdriver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -61,15 +48,28 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -90,27 +90,20 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
@@ -124,6 +117,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -135,10 +135,10 @@ Here is how to reset the Microsoft Store cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2) Wait until the whole Windows store cache reset process finishes.
@@ -148,6 +148,19 @@ Here is how to reset the Microsoft Store cache:
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -164,6 +177,13 @@ Here is how to do it:
  1) On your keyboard, press the **Windows logo key** and **I** at the same time. Once the **Windows Settings** window pops up, click **Updates & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In Windows Update, click **Check for updates** .
 
@@ -188,13 +208,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall the game
 
  If the above steps didn’t , then it’s time to reinstall the game to see if it works. To do so, simply uninstall the game from your PC, then head to Microsoft Store, search the game, download and install it.
@@ -202,13 +215,6 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -235,24 +241,20 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-swift-playback-in-tiktok-enhancing-performance/"><u>[New] In 2024, Swift Playback in TikTok Enhancing Performance</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-unleash-your-creativity-with-mobile-blur-tools/"><u>[Updated] 2024 Approved Unleash Your Creativity with Mobile Blur Tools</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-live-action-top-9-gaming-portals/"><u>[Updated] Live Action Top 9 Gaming Portals</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1726225683445-aacwmv-movavi/"><u>直通網路無成本轉化AAC音訊為WMV - 利用Movavi的即時音頻轉換工具</u></a></li>
-<li><a href="https://win-answers.techidaily.com/arise-game-guide-fixing-notorious-errors-in-unreal-engine-4/"><u>Arise Game Guide: Fixing Notorious Errors in Unreal Engine 4</u></a></li>
-<li><a href="https://techtrends.techidaily.com/effective-fixes-for-persistent-unreal-engine-4-shutdowns-on-personal-computers/"><u>Effective Fixes for Persistent Unreal Engine 4 Shutdowns on Personal Computers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-optimal-performance-a-how-to-for-driver-updates-on-windows-operating-systems/"><u>Ensuring Optimal Performance: A How-To for Driver Updates on Windows Operating Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-overcome-ios-update-issues-on-your-iphone-or-ipad-top-9-tips/"><u>How to Overcome iOS Update Issues on Your iPhone or iPad - Top 9 Tips</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-xiaomi-redmi-note-12-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Xiaomi Redmi Note 12 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-frequent-outlook-program-failures-and-shutdowns/"><u>How to Stop Frequent Outlook Program Failures and Shutdowns</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-digital-frontier-assessing-current-vr-landscape/"><u>In 2024, The Digital Frontier Assessing Current VR Landscape</u></a></li>
-<li><a href="https://win-answers.techidaily.com/leguminous-plants-and-nitrogen-fixing-bacteria-form-a-mutualistic-relationship-where-the-bacteria-convert-atmospheric-nitroebgen-into-usable-forms-for-the-p502/"><u>Leguminous Plants and Nitrogen-Fixing Bacteria Form a Mutualistic Relationship Where the Bacteria Convert Atmospheric Nitroebgen Into Usable Forms for the Plant, Benefiting Both Organisms</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/outdoor-viewing-excellence-sealinks-4k-slim-silver-55/"><u>Outdoor Viewing Excellence: Sealink's 4K Slim Silver 55</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-game-bugs-squashed-ultimate-guide-to-resolve-constant-freezes-in-your-favorite-titles/"><u>PC Game Bugs Squashed: Ultimate Guide to Resolve Constant Freezes in Your Favorite Titles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-continuous-valorant-game-crashes-on-windowsmac/"><u>Solutions for Continuous Valorant Game Crashes on Windows/Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-puzzle-your-complete-guide-to-overcoming-new-world-connection-issues/"><u>Solving the Puzzle: Your Complete Guide to Overcoming New World Connection Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speedy-fixes-for-overcoming-lag-issues-in-assassins-creed-valhalla/"><u>Speedy Fixes for Overcoming Lag Issues in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-fix-your-city-skylines-game-from-continuous-crashing-2024-edition/"><u>Top Strategies to Fix Your City Skylines Game From Continuous Crashing - 2024 Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wrc-10-for-personal-computers-troubleshooting-tips-to-ensure-seamless-gaming-sessions/"><u>WRC 10 for Personal Computers: Troubleshooting Tips to Ensure Seamless Gaming Sessions</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-review-of-apeaksoft-for-video-capture-technology/"><u>[New] Expert Review of Apeaksoft for Video Capture Technology</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-apple-media-access-and-download-youtube-videos-on-iphoneipad/"><u>[Updated] 2024 Approved Apple Media Access and Download YouTube Videos on iPhone/iPad</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-to-acquiring-elite-instagram-soundtracks-and-building-perfect-alarms/"><u>2024 Approved A Step-by-Step Guide to Acquiring Elite Instagram Soundtracks and Building Perfect Alarms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-essential-facetune-walkthrough-for-stunning-photos/"><u>2024 Approved The Essential Facetune Walkthrough for Stunning Photos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-realme-12-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Realme 12 Pro 5G</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-maximizing-video-reach-sharing-twitters-content-on-facebooks/"><u>In 2024, Maximizing Video Reach Sharing Twitters' Content on Facebooks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-cell-referencing-techniques-in-microsoft-excel/"><u>Mastering Cell Referencing Techniques in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-data-visualization-how-to-craft-scatter-plots-with-microsoft-excel/"><u>Mastering Data Visualization: How To Craft Scatter Plots with Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-excel-techniques-for-efficiently-computing-rise-per-centages/"><u>Mastering Excel: Techniques for Efficiently Computing Rise Per Centages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-microsoft-excel-effortless-date-autocompletion-techniques/"><u>Mastering Microsoft Excel: Effortless Date Autocompletion Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-structure-fundamental-tips-on-crafting-formulas-in-excel/"><u>Mastering Structure: Fundamental Tips on Crafting Formulas in Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-eliminating-vacant-lines-from-microsoft-excel-workbooks/"><u>Mastering the Art of Eliminating Vacant Lines From Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-image-tool-a-step-by-step-guide-to-images-in-microsoft-excel/"><u>Mastering the Image Tool: A Step-by-Step Guide to Images in Microsoft Excel</u></a></li>
+<li><a href="https://games-able.techidaily.com/miniaturize-game-boy-fun-with-a-psp-modification-protocol/"><u>Miniaturize Game Boy Fun with a PSP Modification Protocol</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pros-and-cons-is-it-worth-switching-to-the-new-iphone-16-insights-experts/"><u>Pros & Cons: Is It Worth Switching to the New iPhone 16? Insights Experts</u></a></li>
 </ul></div>
 

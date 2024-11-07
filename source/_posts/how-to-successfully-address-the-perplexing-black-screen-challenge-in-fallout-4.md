@@ -1,7 +1,7 @@
 ---
 title: How To Successfully Address The Perplexing Black Screen Challenge in Fallout 4
-date: 2024-09-01T04:16:56.798Z
-updated: 2024-09-02T04:16:56.798Z
+date: 2024-10-30T23:51:03.813Z
+updated: 2024-11-07T00:31:04.008Z
 tags:
   - win11
   - win10
@@ -45,9 +45,23 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
@@ -71,23 +85,21 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Flush your DNS
 
  Flushing your DNS is another fix that may help you resolve this issue. If you don’t know how to do it, you can follow the steps below:
@@ -101,8 +113,12 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
@@ -117,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  4\. Click**Sign in through Steam** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
@@ -132,8 +145,12 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair Apex Legends in Origin
 
  Corrupted game files can also be the cause of this issue. In this case, you can try repairing Apex Legends in Origin to see if you can fix it. Here is how to do it:
@@ -147,6 +164,13 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
@@ -174,19 +198,17 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Apex Legends
 
  If none of the fixes above works, you may need to try reinstalling Apex Legends. Here is how to do it:
@@ -209,8 +231,6 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +238,23 @@ thumbnail: https://thmb.techidaily.com/c275eb5c1cd312c42c74269cfb4e1589d2e9cb8ca
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-photo-perfection-seamless-text-integration-on-pc-and-mac-systems/"><u>[New] Photo Perfection Seamless Text Integration on PC & Mac Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ps4-to-video-complete-obs-broadcasting-guide-for-2024/"><u>[New] PS4 to Video Complete OBS Broadcasting Guide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007184819-solved-steamvr-not-working-easily-and-quickly/"><u>[SOLVED] SteamVR Not Working - Easily & Quickly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dominating-the-digital-space-with-trending-content-for-2024/"><u>[Updated] Dominating the Digital Space with Trending Content for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-empires-4-lag-solutions-techniques-for-uninterrupted-play/"><u>Age of Empires 4 Lag Solutions: Techniques for Uninterrupted Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-resolved-fixing-the-drop-in-frames-per-second-fps/"><u>Cyberpunk 2077 Resolved: Fixing the Drop in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://fox-search.techidaily.com/download-free-malware-protection-discover-how-malwarefox-keeps-your-android-device-safe/"><u>Download Free Malware Protection: Discover How MalwareFox Keeps Your Android Device Safe</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012971993-eliminating-the-lag-issues-of-deathloop-on-next-gen-consoles-and-personal-computers/"><u>Eliminating the Lag Issues of Deathloop on Next-Gen Consoles & Personal Computers.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/five-proactive-tactics-to-rectify-network-key-errors-on-windows-11-systems/"><u>Five Proactive Tactics to Rectify Network Key Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-palworlds-eos-error-during-login-with-these-6-remedies/"><u>How to Resolve Palworld's EOS Error During Login with These ➡️6 Remedies</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/hp-printers-white-sheets-cured-with-new-solution/"><u>HP Printer’s White Sheets Cured with New Solution</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pioneering-usability-unearthed-strategies-for-amplified-windows-11-capabilities/"><u>In 2024, Pioneering Usability Unearthed Strategies for Amplified Windows 11 Capabilities</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-yt-microphone-match-wallet-friendly-finds-and-favorites/"><u>In 2024, YT Microphone Match Wallet-Friendly Finds & Favorites</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999591280-pro-tips-for-attaining-rare-equipment-through-fps-drops-in-the-mass-effect-series/"><u>Pro Tips for Attaining Rare Equipment Through FPS Drops in the Mass Effect Series.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-resolving-wallpaper-engine-stability-issues-in-windows-11-and-10/"><u>Troubleshooting Tips for Resolving Wallpaper Engine Stability Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/your-pathway-to-a-clutter-free-device-with-video-deletion-tips/"><u>Your Pathway to a Clutter-Free Device with Video Deletion Tips</u></a></li>
+</ul></div>
 

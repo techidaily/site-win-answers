@@ -1,7 +1,7 @@
 ---
 title: "Success Story: Correctly Installing the DS4 Driver for Windows and Enjoying Uninterrupted Gameplay"
-date: 2024-09-01T04:16:18.691Z
-updated: 2024-09-02T04:16:18.691Z
+date: 2024-11-03T22:31:58.663Z
+updated: 2024-11-06T23:04:44.825Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -63,37 +60,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Set the power plan of your PC for high performance
 
  Windows power plans are designed to manage how your computer consumes and conserves power. You may encouter FPS drops when your computer is using the balanced or power saver plan.
@@ -105,16 +79,31 @@ Key features:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel would also boost the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -140,12 +129,22 @@ Key features:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays are handy, but according to many PC gamers, they sometimes may interfere with GTFO and even introduces performance issues and compatibility issues. If the fixes above didn’t give you a obvious FPS boost, then try disabling overlays before playing the game.
@@ -156,6 +155,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -174,6 +180,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Launch GTFO to see you can play it smoothly.
 
 ---
@@ -190,8 +203,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +210,24 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-zoom-segregation-techniques-quickstart/"><u>[Updated] 2024 Approved Mastering Zoom Segregation Techniques Quickstart</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-discovering-superior-alternatives-to-cyberlink/"><u>[Updated] Discovering Superior Alternatives to Cyberlink</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-persistent-issues-with-thunder-tier-one-stability-improvements-for-pc-users/"><u>Eliminating Persistent Issues with Thunder TIER One - Stability Improvements for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-hack-troubleshooting-the-anticheat-connection-error/"><u>Escape From Tarkov Hack: Troubleshooting the Anticheat Connection Error</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/facebook-favoritism-at-your-fingertips-the-top-8-app-list-for-2024/"><u>Facebook Favoritism at Your Fingertips The Top 8 App List for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-eliminate-stuttering-and-lag-in-rainbow-six-siege/"><u>How To Eliminate Stuttering and Lag in Rainbow Six Siege</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-xiaomi-redmi-note-13-pro-5g-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Xiaomi Redmi Note 13 Pro 5G Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/in-2024-windows-movie-maker-tutorial-from-beginner-to-pro/"><u>In 2024, Windows Movie Maker Tutorial From Beginner to Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-seamless-gaming-in-v-rising-solving-stutter-issues-on-your-pc/"><u>Mastering the Art of Seamless Gaming in V Rising: Solving Stutter Issues on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-game-crashing-centipede-error-in-destiny/"><u>Overcoming the Game-Crashing Centipede Error in Destiny</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/override-standard-user-restrictions-now/"><u>Override Standard User Restrictions Now</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/resolve-your-iphones-invisibility-issue-on-windows-pc-a-guide-with-6-effective-solutions/"><u>Resolve Your iPhone's Invisibility Issue on Windows PC: A Guide with 6 Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-steam-login-issues-a-step-by-step-guide/"><u>Resolved: Fixing Steam Login Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-found-overcoming-the-challenge-of-unreachable-steam-game-libraries/"><u>Solution Found: Overcoming the Challenge of Unreachable Steam Game Libraries</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-ark-survival-adventure-pc-game-crashes-using-these-9-effective-fixes/"><u>Solve Your ARK: Survival Adventure PC Game Crashes Using These 9 Effective Fixes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996211483-tactical-fixes-for-continuous-stability-in-total-war-three-kingdoms-no-more-crashing/"><u>Tactical Fixes for Continuous Stability in Total War: Three Kingdoms – No More Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-starts-problems-with-fall-guys-tips-and-solutions/"><u>Troubleshooting Starts Problems with Fall Guys – Tips & Solutions</u></a></li>
+</ul></div>
 

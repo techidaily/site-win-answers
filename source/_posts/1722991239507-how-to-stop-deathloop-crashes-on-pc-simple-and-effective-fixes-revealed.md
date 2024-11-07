@@ -1,7 +1,7 @@
 ---
 title: How to Stop Deathloop Crashes on PC - Simple and Effective Fixes Revealed!
-date: 2024-09-01T04:15:15.084Z
-updated: 2024-09-02T04:15:15.084Z
+date: 2024-11-01T04:37:55.517Z
+updated: 2024-11-07T01:12:15.937Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Put commands in the launch option
 
  You can fix the Stray crashing issue by putting commands in the Launch option. There are three commands, you can try it one-by-one to see which one fix your problem.
@@ -50,24 +47,31 @@ If it doesn’t work, move to the next fix.
 1. In Steam, right-click on Stray and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Open Oculus app
 
  Still facing the problem? If you have the Oculus app installed on your PC, launch this app and the crashing will be fixed. We don’t know why, but it did work for many players.
@@ -76,9 +80,24 @@ If it doesn’t work, move to the next fix.
 2. Open the Oculus app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphic driver
 
@@ -105,8 +124,12 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 5: Download and install file from GitHub
@@ -117,29 +140,39 @@ If it doesn’t work, move to the next fix.
 2. Download**dxvk-1.10.2.tar.gz** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
 
@@ -157,8 +190,6 @@ If it doesn’t work, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +197,16 @@ If it doesn’t work, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-building-your-hyperlapse-filmmaking-toolkit/"><u>[New] Building Your Hyperlapse Filmmaking Toolkit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-tips-for-clearer-audio-in-home-based-podcasts/"><u>2024 Approved Tips for Clearer Audio in Home-Based Podcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-high-quality-gameplay-in-the-division-2-fixing-stutter-and-low-fps-problems/"><u>Achieve High-Quality Gameplay in The Division 2 - Fixing Stutter & Low FPS Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blues-with-obs-tips-for-overcoming-window-1110-app-crashes/"><u>Beat the Blues with OBS: Tips for Overcoming Window 11/10 App Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-persistent-black-screen-issue-in-fortnite-tips-and-solutions/"><u>Fixing the Persistent Black Screen Issue in Fortnite: Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004192507-fixing-valheims-pc-performance-stop-freezing-and-stuttering-issues/"><u>Fixing Valheim's PC Performance: Stop Freezing & Stuttering Issues!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fresh-driver-updates-and-downloads-for-lenovo-ideapad-100-enhance-performance-on-windows-10/"><u>Fresh Driver Updates & Downloads for Lenovo IdeaPad 100: Enhance Performance on Windows 10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-inside-the-world-of-digital-screen-recording/"><u>In 2024, Inside the World of Digital Screen Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-troubleshooting-made-easy-correct-installation-of-ds4-controller-drivers-for-seamless-gaming-experience/"><u>Windows Troubleshooting Made Easy: Correct Installation of DS4 Controller Drivers for Seamless Gaming Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "TOTAL WAR: WARHAMMER III Stability Issues Resolved – No More PC Freezes!"
-date: 2024-09-01T04:12:29.192Z
-updated: 2024-09-02T04:12:29.192Z
+date: 2024-11-02T04:50:56.163Z
+updated: 2024-11-06T22:38:39.352Z
 tags:
   - win11
   - win10
@@ -65,14 +65,17 @@ Once done, restart your game and see if it crashes again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After updating your drivers, restart your PC and check if Back 4 Blood crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 3: Check for conflicting programs
 
  Some software, especially**hardware tuning utilities** such as MSI Afterburner and Razer Synapse 3, could undermine the stability of your system and thus crash 3D programs. To avoid these interferences, you can do a clean boot and see how it goes.
@@ -82,26 +85,40 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Now you can start Back 4 Blood and see if it crashes again. If it doesn’t, you can locate the trouble makers by repeating these steps and disabling half of the programs and services.
 
 If the issue lingers on, you can continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Make sure Windows is up to date
 
  Microsoft rolls out system updates for Windows every now and then, mainly addressing compatibility issues and improving overall performance. To get the most of your hardware, you should always make sure your system is up to date.
@@ -111,26 +128,31 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’re sure Windows is up to date, restart your PC and test the gameplay in Back 4 Blood.
 
  If your system is already the latest, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Move game files to your Steam drive
 
@@ -140,16 +162,10 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-browse-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Some players also reported that having the**Epic Games** client opened might get the game working. You can try the same and see how things go.
 
  If this method doesn’t work for you, you can try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Change in-game graphics settings
 
  There’re reports showing that**NVIDIA DLSS** might be the culprit of Back 4 Blood crashing. If you have this feature enabled, you can turn it off and see if the game stops crashing.
@@ -161,6 +177,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-disable-dlss.jpg)
 3. Now you can start a game in Back 4 Blood and see if it becomes stable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
  Hopefully, this post helps you fix the crashing issue in Back 4 Blood. If you have any questions or ideas, just give us a shout in the comments below.
@@ -171,8 +194,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +201,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-ultimate-list-of-non-fbx-game-recording-solutions/"><u>[New] In 2024, Ultimate List of Non-FBX Game Recording Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-essential-steps-for-gopro-hero5-timelapse-cinematography/"><u>[Updated] 2024 Approved Essential Steps for GoPro Hero5 Timelapse Cinematography</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-samsung-galaxy-a34-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Samsung Galaxy A34 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-distinctive-ai-art-with-microsoft-copilot-an-in-depth-guide/"><u>Creating Distinctive AI Art with Microsoft Copilot: An In-Depth Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/discreetly-share-life-with-instagram-live/"><u>Discreetly Share Life with Instagram Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enabling-virtualization-features-how-to-install-hyper-v-on-windows-11/"><u>Enabling Virtualization Features: How to Install Hyper-V on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-eradicating-ps4-halted-operations-with-simple-fixes/"><u>Expert Advice: Eradicating PS4 Halted Operations with Simple Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-frequent-crashes-of-cautionary-messages-during-web-sessions/"><u>Expert Tips for Resolving Frequent Crashes of Cautionary Messages During Web Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-infinite-audio-fixes-tips-and-tricks-to-improve-your-gaming-experience/"><u>Halo Infinite Audio Fixes: Tips and Tricks to Improve Your Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-choose-a-low-size-high-definition-video-file-format-efficiently/"><u>How to Choose a Low-Size, High-Definition Video File Format Efficiently?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-glitches-in-rust-a-step-by-step-guide/"><u>How to Overcome Graphics Glitches in Rust: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-realme-c51-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Realme C51 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-optimal-free-cam-viewer-with-snatch-feature/"><u>In 2024, Optimal Free Cam Viewer with Snatch Feature</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-troubleshooting-for-the-2024-finals-not-opening-helpful-hints/"><u>In-Depth Troubleshooting for The 2024 Finals Not Opening: Helpful Hints!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-easy-fixes-to-stop-graphics-driver-crash-in-valorant-gaming/"><u>Quick and Easy Fixes to Stop 'Graphics Driver Crash' In Valorant Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-techniques-to-prevent-maplestory-from-crashing-in-the-new-windows-11-environment/"><u>Top Techniques to Prevent MapleStory From Crashing in the New Windows 11 Environment</u></a></li>
+</ul></div>
 

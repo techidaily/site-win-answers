@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Stuttering Issues in Age of Empires IV
-date: 2024-10-26T09:50:17.000Z
-updated: 2024-10-31T19:41:04.503Z
+date: 2024-11-02T21:45:55.209Z
+updated: 2024-11-07T05:24:50.499Z
 tags:
   - win11
   - win10
@@ -81,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -99,11 +99,25 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
 
@@ -116,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
  3\. Open the browsing history in your browser, then search_<https://accounts.respawn.com/steam\_login.php?securityToken>_ to locate the URL of the page you used when linking your EA and Steam account. Click that URL to open it. Normally, you should see a page like the following:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Click**Sign in through Steam** .
 
@@ -156,13 +163,20 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
@@ -185,13 +199,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
@@ -199,20 +206,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -223,6 +216,13 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
  2\. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
 
@@ -245,18 +245,16 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-packing-list-film-your-excursions/"><u>[New] Packing List Film Your Excursions</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-conquer-video-quality-with-best-3-transcoder-methods-for-zoom/"><u>[Updated] Conquer Video Quality with Best 3 Transcoder Methods for Zoom</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-mastering-the-art-of-professional-gopro-cinematography/"><u>[Updated] Mastering the Art of Professional Gopro Cinematography</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-your-digital-footprint-facebook-lives-made-easy-for-2024/"><u>[Updated] Mastering Your Digital Footprint Facebook Lives Made Easy for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-fix-resolving-dayz-shooting-issues-in-seconds/"><u>Fast Fix: Resolving DayZ Shooting Issues in Seconds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997702510-fixing-game-crashing-woes-wolcen-lords-of-mayhem-stability-improved/"><u>Fixing Game-Crashing Woes: Wolcen Lords of Mayhem Stability Improved</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 Pro Max</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-tecno-spark-10c-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Tecno Spark 10C to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-2-starting-troubles-heres-your-solution/"><u>Modern Warfare 2 Starting Troubles? Here's Your Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fix-assassins-creed-valhalla-lagging/"><u>Quick Fix: Assassin’s Creed: Valhalla Lagging</u></a></li>
-<li><a href="https://win-answers.techidaily.com/success-destiny-2-for-pc-is-finally-playable-overcome-the-past-issues/"><u>Success! Destiny 2 for PC Is Finally Playable – Overcome the Past Issues!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-y100-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo Y100 5G Location | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-handling-discord-js-errors-with-ease/"><u>Troubleshoot Like a Pro: Handling Discord JS Errors with Ease</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-flip-fundamentals-understanding-video-angles-for-max-impact/"><u>[Updated] 2024 Approved Insta-Flip Fundamentals Understanding Video Angles for Max Impact</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aesthetic-ambience-selecting-premium-backgrounds-from-the-comfort-of-home/"><u>[Updated] Aesthetic Ambience Selecting Premium Backgrounds From the Comfort of Home</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-embrace-the-art-of-timelapses-a-comprehensive-ipad-tutorial/"><u>[Updated] In 2024, Embrace the Art of Timelapses A Comprehensive iPad Tutorial</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-meets-android-worldwide/"><u>ChatGPT Meets Android Worldwide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-escape-from-tarkov-from-frequently-failing-on-your-desktop/"><u>How to Stop Escape From Tarkov From Frequently Failing on Your Desktop</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-gag-galore-a-treasury-of-no-cost-memes/"><u>In 2024, Gag Galore A Treasury of No-Cost Memes</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-more-unprinted-pages-on-hp-printer-now/"><u>No More Unprinted Pages on HP Printer Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-issues-with-origin-game-platform-on-windows-1011/"><u>Overcoming Startup Issues with Origin Game Platform on Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999353652-solving-the-star-wars-battlefront-2-bug-resolve-error-code-aturated-with-technical-details-and-solutions-for-gamers-facing-this-issue/"><u>Solving the Star Wars Battlefront 2 Bug – Resolve Error Code Aturated with Technical Details and Solutions for Gamers Facing This Issue.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-madden-21-from-crashing-expert-tips-and-tricks-for-stable-gameplay-on-your-desktop-computer/"><u>Stop Madden 21 From Crashing: Expert Tips and Tricks for Stable Gameplay on Your Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-pc-freezing-solutions-expert-advice-and-fixes-for-202-4/"><u>Warzone PC Freezing Solutions: Expert Advice and Fixes for 202 4</u></a></li>
 </ul></div>
 

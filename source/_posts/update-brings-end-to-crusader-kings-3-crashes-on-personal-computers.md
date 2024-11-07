@@ -1,7 +1,7 @@
 ---
 title: Update Brings End to Crusader Kings 3 Crashes on Personal Computers
-date: 2024-09-01T04:13:52.292Z
-updated: 2024-09-02T04:13:52.292Z
+date: 2024-11-04T05:56:21.178Z
+updated: 2024-11-07T02:54:21.804Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 5. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Install the latest game patch
 
@@ -57,8 +64,23 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -66,10 +88,12 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -78,14 +102,8 @@ The powerful video editing program for your Windows PC</a>
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
@@ -104,19 +122,18 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
 `**CUDA – GPUs** : set it to _your dedicated GPU_  
@@ -131,16 +148,23 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Lower in-game graphics settings
 
  By defualt, It Takes Two will automatically select the graphics settings that suits your hardware. If you want to get some extra FPS and performance, you can play with the graphics settings in the game.
@@ -158,11 +182,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Click**Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
@@ -175,14 +204,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
  A power plan is a collection of hardware and system settings that manages how your computer use power. In most cases, the power plan on PCs are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU.
@@ -209,8 +232,6 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +239,23 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-kinemaster-advanced-perfecting-visual-continuity/"><u>[New] Kinemaster Advanced Perfecting Visual Continuity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-windows-movie-maker-downloading/"><u>[New] Ultimate Guide Windows Movie Maker Downloading</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-dissecting-dji-flyer-x20-fpv-headset-capabilities/"><u>[Updated] 2024 Approved Dissecting DJi Flyer X20 FPV Headset Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-control-youtube-audio-mobiledesktop-approach/"><u>[Updated] In 2024, Control YouTube Audio Mobile/Desktop Approach</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-premier-low-carbon-screen-recording-solutions/"><u>[Updated] Premier Low-Carbon Screen Recording Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/breaking-news-developers-confirm-diablo-immortal-coming-soon-to-personal-computers/"><u>Breaking News: Developers Confirm Diablo Immortal Coming Soon to Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crack-the-code-to-solve-warzones-dev-error-ebx-8-top-fixes/"><u>Crack the Code to Solve Warzone's Dev Error Ebx-8 - Top Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-overhead-cooling-system-mo-ra-iv-600-featuring-nine-powerful-200mm-fans-and-a-massive-weight-of-over-35lbs-for-only-600/"><u>Cutting-Edge Overhead Cooling System: MO-RA IV 600 Featuring Nine Powerful 200Mm Fans and a Massive Weight of over 35Lbs for Only $600</u></a></li>
+<li><a href="https://discover-community.techidaily.com/discover-the-leading-8-free-opus-audio-converters-online-no-cost/"><u>Discover the Leading 8 FREE Opus Audio Converters Online – No Cost!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-proper-hardware-and-driver-setup-for-playing-rainbow-six-extraction/"><u>Ensuring Proper Hardware and Driver Setup for Playing Rainbow Six Extraction</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/maximizing-engagement-in-your-tiktok-unpacking-sessions-for-2024/"><u>Maximizing Engagement in Your TikTok Unpacking Sessions for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-razer-synapse-start-up-errors-easily/"><u>Overcoming Razer Synapse Start-Up Errors Easily!</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-call-of-duty-wwii-error-code-4128-a-complete-guide/"><u>Resolving Call of Duty: WWII Error Code 4128 - A Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-frame-rate-issues-the-ultimate-guide-to-boosting-your-gaming-performance/"><u>Solving Frame Rate Issues: The Ultimate Guide to Boosting Your Gaming Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-guide-advanced-shader-techniques-for-battlefront-ii/"><u>Speedy Guide: Advanced Shader Techniques for Battlefront II</u></a></li>
+</ul></div>
 

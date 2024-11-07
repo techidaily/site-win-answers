@@ -1,7 +1,7 @@
 ---
 title: Cracking the Code on Persistent Frostpunk Crashes - A Comprehensive Fix Guide
-date: 2024-09-01T04:16:14.836Z
-updated: 2024-09-02T04:16:14.836Z
+date: 2024-11-03T21:54:20.500Z
+updated: 2024-11-06T18:01:36.549Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/33d2c913be55d31e549acb89b4370208c20960b47
 4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -68,15 +75,16 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -94,8 +102,12 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -118,20 +130,21 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
@@ -139,8 +152,12 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
 ---
@@ -155,8 +172,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +179,26 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-calls-of-tomorrow-iphones-audio-archive/"><u>[New] Calls of Tomorrow - iPhone's Audio Archive</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-audio-liberation-from-youtube-three-safe-methods/"><u>[Updated] 2024 Approved Audio Liberation From YouTube Three Safe Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-comprehensive-guide-to-great-ig-videos-for-2024/"><u>[Updated] The Comprehensive Guide to Great IG Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beyond-light-bugs-fixed-for-pc-players-in-destiny-2-patch-notes/"><u>Beyond Light Bugs Fixed for PC Players in Destiny 2 Patch Notes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elite-tactics-for-smoother-gameplay-in-chivalry-2-overcoming-network-lag-and-high-ping-innovative-fixes/"><u>Elite Tactics for Smoother Gameplay in Chivalry 2: Overcoming Network Lag & High Ping (Innovative Fixes)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-audio-volume-a-comprehensive-tutorial-on-joining-various-bluetooth-speakers-to-a-single-source/"><u>Enhancing Audio Volume: A Comprehensive Tutorial on Joining Various Bluetooth Speakers to a Single Source</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-strategies-for-maximizing-your-experience-with-google-gemini/"><u>Expert Strategies for Maximizing Your Experience with Google Gemini</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-now-team-fortress-2-wont-quit-on-you-mid-game/"><u>Fix Implemented: Now, Team Fortress 2 Won't Quit On You Mid-Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-found-resolving-constant-pc-crashes-in-f1-2021/"><u>Fixes Found: Resolving Constant PC Crashes in F1 2021</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-missing-camera-feature-in-snap-photography/"><u>How to Overcome the Missing Camera Feature in Snap Photography</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlocking-youtube-potential-expert-tips-for-wirecast-streaming/"><u>In 2024, Unlocking YouTube Potential Expert Tips for WireCast Streaming</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/incorporating-live-streaming-your-ultimate-website-guide-for-2024/"><u>Incorporating Live Streaming Your Ultimate Website Guide for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-app-removal-guide-step-by-step-instructions/"><u>Mac App Removal Guide: Step-by-Step Instructions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-pro-fullscreen-techniques-compendium/"><u>Premier Pro Fullscreen Techniques Compendium</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010149092-quick-solutions-resolving-winwordexe-errors-in-seconds/"><u>Quick Solutions: Resolving WINWORD.EXE Errors in Seconds!</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-y55s-5g-2023-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo Y55s 5G (2023) Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-for-successful-loading-of-the-elder-scrolls-online-game/"><u>Solution Guide for Successful Loading of The Elder Scrolls Online Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-common-directdraw-graphics-glitches-easily/"><u>Solving Common DirectDraw Graphics Glitches Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991396196-troubleshoot-oculus-links-black-screen-in-just-5-steps/"><u>Troubleshoot Oculus Link's Black Screen in Just 5 Steps!</u></a></li>
+</ul></div>
 

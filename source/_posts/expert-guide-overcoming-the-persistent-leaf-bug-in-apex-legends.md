@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Overcoming the Persistent 'Leaf' Bug in Apex Legends"
-date: 2024-09-01T04:09:42.179Z
-updated: 2024-09-02T04:09:42.179Z
+date: 2024-11-01T00:29:15.313Z
+updated: 2024-11-06T22:19:10.555Z
 tags:
   - win11
   - win10
@@ -64,12 +64,16 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
@@ -87,27 +91,38 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
 
@@ -129,9 +144,6 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
@@ -141,12 +153,12 @@ Windows Registry Editor Version 5.00
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Click**Yes** once you’re prompted about the message.
 
  6) Run Apex Legends again to see if the Engine error has been fixed.
@@ -164,8 +176,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +183,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-essential-steps-for-clear-ipad-recording/"><u>[New] In 2024, Essential Steps for Clear iPad Recording</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-transform-your-feed-a-comprehensive-guide-to-videos/"><u>[New] Transform Your Feed A Comprehensive Guide to Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-downloader-apps-youtube-videos-on-android-compared/"><u>[Updated] Top Downloader Apps YouTube Videos on Android Compared</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bluestacks-hiccups-heres-how-you-can-fix-them-quickly-and-easily/"><u>BlueStacks Hiccups? Here's How You Can Fix Them Quickly and Easily</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/drive-more-see-clearer-5-upgraded-headlights/"><u>Drive More, See Clearer: 5 Upgraded Headlights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-methods-to-overcome-delays-in-naraka-bladepoint-gameplay/"><u>Effective Methods to Overcome Delays in Naraka Bladepoint Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-logitech-devices-to-work-again-solutions-for-windows-system-errors/"><u>Getting Logitech Devices to Work Again: Solutions for Windows System Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hassle-free-guide-to-fixing-discord-install-problems-fast/"><u>Hassle-Free Guide to Fixing Discord Install Problems Fast</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-setup-for-wacom-graphics-tablets-quick-driver-installation/"><u>Hassle-Free Setup for Wacom Graphics Tablets: Quick Driver Installation</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-quicktime-stop-screen-recording-guide/"><u>In 2024, Quicktime Stop Screen Recording (Guide)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/permanent-solution-to-cod-modern-warfares-persistent-crashing-problems/"><u>Permanent Solution to COD: Modern Warfare's Persistent Crashing Problems</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/prufung-von-systembackups-in-windows-t-effektive-methoden-verstehen/"><u>Prüfung Von Systembackups in Windows T - Effektive Methoden Verstehen</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/step-by-step-guide-converting-aep-files-into-high-quality-mp4-videos-using-adobe-after-effects/"><u>Step-by-Step Guide: Converting .AEP Files Into High-Quality MP4 Videos Using Adobe After Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-fix-hitching-games-with-steady-high-fps-streams/"><u>The Ultimate Guide: Fix Hitching Games with Steady High FPS Streams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-bug-free-experience-in-madden-22/"><u>Troubleshooting Tips for a Bug-Free Experience in Madden 22</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twitch-audio-problems-resolved-learn-the-steps-to-restore-sound-during-broadcasts/"><u>Twitch Audio Problems Resolved? Learn the Steps to Restore Sound During Broadcasts</u></a></li>
+</ul></div>
 

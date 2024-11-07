@@ -1,7 +1,7 @@
 ---
 title: Tekken 8 Won't Open? PC Setup Fixes for Successful Game Start-Up
-date: 2024-10-30T09:45:22.801Z
-updated: 2024-10-31T17:12:32.701Z
+date: 2024-10-31T04:30:35.286Z
+updated: 2024-11-06T23:52:19.622Z
 tags:
   - win11
   - win10
@@ -65,32 +65,26 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
@@ -100,13 +94,6 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -146,13 +133,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify the integrity of your game files
 
  Damaged or missing game files might also cause your game to fail. If you’re running the game on Steam, try verifying the integrity of your game files. Here is how to do it:
@@ -162,13 +142,6 @@ OR
 **2)** Click **LIBRARY.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
@@ -200,6 +173,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
@@ -211,10 +197,10 @@ OR
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
@@ -234,10 +220,10 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
@@ -250,20 +236,33 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
@@ -272,6 +271,13 @@ Follow the instructions below to stop the automatic downloads:
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -354,16 +360,21 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-streamlining-console-experience-through-computer-recording/"><u>[New] Streamlining Console Experience Through Computer Recording</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-the-essentials-of-creating-memorable-fb-slideshows/"><u>[New] The Essentials of Creating Memorable FB Slideshows</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitters-best-binge-friends-amazon-primes-most-liked-shows-23/"><u>2024 Approved Twitter's Best Binge-Friends Amazon Prime's Most Liked Shows, '23</u></a></li>
-<li><a href="https://win-answers.techidaily.com/destiny-2-centipede-code-problem-solved-a-step-by-step-guide/"><u>Destiny 2 Centipede Code Problem Solved - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-ways-to-stop-your-deathloop-from-freezing-and-crashing-on-your-pc-detailed-steps-inside/"><u>Effortless Ways to Stop Your Deathloop From Freezing & Crashing on Your PC – Detailed Steps Inside!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722978884888-fixing-samsung-all-in-one-printer-connectivity-problems-on-pc-solved/"><u>Fixing Samsung All-in-One Printer Connectivity Problems on PC - Solved!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/house-flipper-angs-ensuring-smooth-performance-without-pc-glitches/"><u>House Flipper Angs: Ensuring Smooth Performance Without PC Glitches</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/les-differentes-methodes-de-programmation-pour-le-demarrage-et-lextinction-sous-windows-10/"><u>Les Différentes Méthodes De Programmation Pour Le Démarrage Et L'Extinction Sous Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-the-anarchy-troubleshooting-tips-for-crash-free-play-in-persona-5-strikers-pc/"><u>Stop the Anarchy - Troubleshooting Tips for Crash-Free Play in Persona 5 Strikers (PC)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/synchronize-sound-with-sight-integrating-audio-into-videos-across-devices-and-platforms/"><u>Synchronize Sound with Sight: Integrating Audio Into Videos Across Devices and Platforms</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-10t-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme 10T 5G Location | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-the-depths-of-video-talks-on-youtube-for-2024/"><u>[New] Exploring the Depths of Video Talks on YouTube for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-save-the-scene-techniques-for-transcribing-live-videos-for-2024/"><u>[New] Save the Scene Techniques for Transcribing Live Videos for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unleash-vibrant-canvas-cropping-adding-and-editing-sound-effectively-for-2024/"><u>[Updated] Unleash Vibrant Canvas Cropping, Adding, & Editing Sound Effectively for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/conquering-french-independently-methods-and-gear/"><u>Conquering French Independently - Methods and Gear</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-origin-application-failing-to-launch-in-windows-11/"><u>How to Fix the 'Origin' Application Failing to Launch in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-your-intel-graphics-drivers-working-again-on-windows-1011/"><u>How to Get Your Intel Graphics Drivers Working Again on Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-audio-issues-in-your-live-twitch-streams/"><u>How to Overcome Audio Issues in Your Live Twitch Streams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-review-experience-the-samsung-galaxy-budsplus/"><u>In-Depth Review: Experience the Samsung Galaxy Buds+</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mic-testing-how-to-test-your-microphone-quickly-and-easily/"><u>Mic Testing: How to Test Your Microphone Quickly & Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-interruptions-how-to-ensure-stable-gameplay-of-elite-dangerous-on-personal-computers/"><u>No More Interruptions: How to Ensure Stable Gameplay of Elite Dangerous on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-rainbow-six-sieges-latency-problems-a-step-by-step-guide/"><u>Resolving Rainbow Six Siege's Latency Problems - A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/shopping-spree-chronicles-the-editors-blueprint/"><u>Shopping Spree Chronicles The Editor's Blueprint</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-bypass-gpts-limits-considerations/"><u>Should You Bypass GPT's Limits? Considerations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-call-of-duty-warzone-dev-error-6634/"><u>Troubleshooting Steps to Resolve Call of Duty: Warzone Dev Error 6634</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138570316-9781450297080-your-guide-to-earths-pivotal-years/"><u>Your Guide to Earth's Pivotal Years | Free Book</u></a></li>
 </ul></div>
 

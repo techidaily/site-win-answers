@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Warzone Won't Open and How to Solve It"
-date: 2024-09-01T04:12:48.174Z
-updated: 2024-09-02T04:12:48.174Z
+date: 2024-11-01T01:11:07.698Z
+updated: 2024-11-07T05:48:29.585Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -42,7 +49,33 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
@@ -71,9 +104,20 @@ If this doesn’t do the trick, try the next fix below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
@@ -100,19 +144,19 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
 
@@ -133,11 +177,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you find out the brand of your graphics card, visit the manufacturer’s website to get the most up-to-date driver. All you have to do is follow the on-screen instructions to download and install the driver for your system.
 
 * [NVIDIA](http://www.nvidia.com/drivers)
@@ -155,9 +203,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
@@ -167,9 +212,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 6\. Run a full system scan
 
  If none of the methods outlined above work, it’s time to make some tweaks on the system level. It’s that you need to check if you have any corrupted system files, which may be the culprit of your certain programs not functioning properly. To verify if that’s your case, you can use the**System File Checker** tool by running the sfc /scannow command. However, most of the time, it only scans major files and may miss minor issues that could also make your PC error-prone.
@@ -183,8 +225,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
 ---
@@ -197,8 +243,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +250,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-spring-screens-a-deep-dive-into-desktop-capturing-pro/"><u>[New] 2024 Approved Spring Screens A Deep Dive Into Desktop Capturing Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-becoming-a-broadcast-guru-1080p-facebook-streaming-essentials-for-2024/"><u>[New] Becoming a Broadcast Guru 1080P Facebook Streaming Essentials for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-video-growth-booster-top-seo-tools-uncovered/"><u>[Updated] Video Growth Booster – Top SEO Tools Uncovered</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sailing-the-skies-easily-how-to-pair-drones-and-propellers/"><u>2024 Approved Sailing the Skies Easily How to Pair Drones and Propellers</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-leaf-hurdle-in-apex-legends-comprehensive-fixes-users/"><u>Beat the 'Leaf' Hurdle in Apex Legends – Comprehensive Fixes Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-helldivers-ii-collapsing-in-pc-effective-solutions/"><u>Resolving Issues with Helldivers II Collapsing in PC - Effective Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-tips-and-fixes-for-persistent-halo-3-crashes-on-pcs/"><u>Solved! Tips and Fixes for Persistent Halo 3 Crashes on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-jurassnack-world-evolution-crashes-step-by-step-solutions-revealed/"><u>Ultimate Fix for Jurassnack World Evolution Crashes: Step-by-Step Solutions Revealed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unraveling-the-mystery-of-vr-gear-selection-wireless-elegance-versus-cable-convenience-for-2024/"><u>Unraveling the Mystery of VR Gear Selection Wireless Elegance versus Cable Convenience for 2024</u></a></li>
+</ul></div>
 

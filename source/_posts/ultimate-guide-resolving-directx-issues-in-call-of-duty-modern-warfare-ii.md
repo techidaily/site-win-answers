@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving DirectX Issues in Call of Duty: Modern Warfare II"
-date: 2024-09-01T04:16:54.348Z
-updated: 2024-09-02T04:16:54.348Z
+date: 2024-10-30T23:01:08.139Z
+updated: 2024-11-07T02:41:13.536Z
 tags:
   - win11
   - win10
@@ -60,9 +60,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -77,15 +74,16 @@ To do so, first visit the website of your GPU manufacturer:
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -93,21 +91,40 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -125,8 +142,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +149,26 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/1723208435044-fixed-this-device-is-not-present-code-24-windows-10-8-or-7/"><u>[Fixed] This Device Is Not Present (Code 24) – Windows 10, 8 or 7</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-mastering-vimeo-recorder-capturing-screens-and-cameras-on-streams-for-2024/"><u>[New] Mastering Vimeo Recorder Capturing Screens & Cameras on Streams for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-shorts-and-tiktok-which-one-is-better-for-personal-usage/"><u>[Updated] YouTube Shorts & TikTok Which One Is Better for Personal Usage?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/18-breakthrough-metaverse-models-for-enhanced-perspective/"><u>18 Breakthrough Metaverse Models for Enhanced Perspective</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-fixing-microsoft-edge-crashes-on-windows-10/"><u>Comprehensive Guide to Fixing Microsoft Edge Crashes on Windows 10.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/convert-swf-files-into-high-quality-wav-audio-for-free-with-movavis-web-service/"><u>Convert SWF Files Into High-Quality WAV Audio for Free with Movavi's Web Service!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-your-experience-latest-drivers-for-dell-devices/"><u>Elevate Your Experience: Latest Drivers for Dell Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-blue-screen-of-death-a-solution-to-guilty-gear-strive-pc-issues/"><u>Fixing the Blue Screen of Death: A Solution to Guilty Gear Strive PC Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-poco-c55-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Poco C55 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-s24-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy S24 Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-cyberpunk-2077s-chilling-bug-comprehensive-guide/"><u>How to Fix Cyberpunk 2077'S Chilling Bug - Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-rapidly-resolve-apex-legends-not-launching-issues/"><u>How To Rapidly Resolve 'Apex Legends Not Launching' Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-shutter-stillness-strategies-for-photos/"><u>In 2024, Shutter Stillness Strategies for Photos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-users-report-recurring-bugs-in-tormented-souls-how-to-fix/"><u>PC Users Report Recurring Bugs in 'Tormented Souls' – How to Fix?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/pivotal-vr-films-for-your-watchlist/"><u>Pivotal VR Films for Your Watchlist</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-overcoming-issues-with-genshin-impact-startup/"><u>Quick Solutions: Overcoming Issues with Genshin Impact Startup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-tackle-cod-vanguard-pc-mishap-error-0x00001338-n-a-step-by-step-solution/"><u>Resolved! How to Tackle CoD Vanguard PC Mishap: Error 0X00001338 (N) – A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-connection-issues-solving-minecraft-cannot-connect-to-the-server-error/"><u>Troubleshooting Connection Issues: Solving 'Minecraft Cannot Connect to the Server' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-fallout-3-crashes-on-windows-10/"><u>Troubleshooting Guide: Fixing Fallout 3 Crashes on Windows 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!"
-date: 2024-10-25T21:20:50.863Z
-updated: 2024-10-31T20:47:33.829Z
+date: 2024-11-05T06:14:08.161Z
+updated: 2024-11-06T20:02:46.802Z
 tags:
   - win11
   - win10
@@ -43,23 +43,9 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 wireless router
 
@@ -78,13 +64,6 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -92,13 +71,6 @@ wireless router
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
 
@@ -111,6 +83,13 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -128,27 +107,41 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -170,13 +163,26 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -202,20 +208,22 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-comparative-analysis-the-leading-edge-with-active-for-2024/"><u>[New] Comparative Analysis The Leading Edge with Active for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-ultimate-non-twitter-social-sites-of-the-year/"><u>[New] In 2024, Ultimate Non-Twitter Social Sites of the Year</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-step-by-step-process-to-create-impressive-gopro-timelapses-for-2024/"><u>[New] Step-by-Step Process to Create Impressive GoPro Timelapses for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-premier-video-breakdown-fifa-analysis-graphs/"><u>2024 Approved Premier Video Breakdown FIFA Analysis Graphs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-stubborn-loading-screen-in-far-cry-5-solutions-inside/"><u>Bypassing the Stubborn Loading Screen in Far Cry 5 – Solutions Inside</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-resolution-for-code-12707-in-call-of-dutys-modern-warfare-3-a-comprehensive-solution/"><u>Error Resolution for Code 12707 in Call of Duty's Modern Warfare 3: A Comprehensive Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-persistent-valorant-pc-game-crashes/"><u>Expert Tips for Resolving Persistent Valorant PC Game Crashes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/innovative-interface-intensity-for-2024/"><u>Innovative Interface Intensity for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/smart-assistants-showdown-distinguishing-the-amazon-echo-dot-from-apples-homepod-mini/"><u>Smart Assistants Showdown: Distinguishing the Amazon Echo Dot From Apple's HomePod Mini</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-awaited-launch-of-immortals-fenyx-rising-problem-solved-and-game-is-live/"><u>The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-successfully-dealing-with-genshin-impact-error-4201/"><u>Troubleshooting Guide: Successfully Dealing With Genshin Impact Error 4201</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-street-fighter-6-lag-and-improving-pc-ping/"><u>Troubleshooting Steps: Resolving Street Fighter 6 Lag & Improving PC Ping</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-rainbow-six-extractions-pc-game-crashes/"><u>Troubleshooting Tips for Fixing Rainbow Six Extraction's PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unfreeze-chrome-easily-master-these-fixes-for-a-smooth-browsing-experience/"><u>Unfreeze Chrome Easily! Master These Fixes for a Smooth Browsing Experience</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2023s-leading-cost-free-fb-picture-and-video-developer-tools/"><u>[New] 2023'S Leading, Cost-Free FB Picture and Video Developer Tools</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-childs-fortune-the-wealthy-world-of-youtubes-youngest-star-for-2024/"><u>[New] A Child’s Fortune The Wealthy World of YouTube’s Youngest Star for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-best-budget-friendly-player-showdown-free-video-warriors-vlc-and-mpc/"><u>[New] In 2024, Best Budget Friendly Player Showdown Free Video Warriors (VLC & MPC)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-implement-google-meets-grid-view-feature/"><u>[Updated] In 2024, How to Implement Google Meet's Grid View Feature</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-science-of-captivating-audience-with-mukbang-videos/"><u>[Updated] The Science of Captivating Audience with Mukbang Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mold-sharable-imagery-in-adobe-software/"><u>2024 Approved Mold Sharable Imagery in Adobe Software</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-python-tips-for-gpt-3-use/"><u>Essential Python Tips for GPT-3 Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-microsoft-edge-unresponsiveness-and-frequent-clashes-in-windows-11/"><u>Fixing Microsoft Edge Unresponsiveness & Frequent Clashes in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-cyberpunk-2077-from-freezing-on-your-system/"><u>How To Prevent Cyberpunk 2077 From Freezing on Your System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-connectivity-problems-with-rockstar-services-on-your-desktop-computer/"><u>Overcoming Connectivity Problems with Rockstar Services on Your Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-destiny-2s-beyond-light-crashing-issues-now-solved/"><u>PC Gamers Rejoice: Destiny 2'S Beyond Light Crashing Issues Now Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-correct-the-easy-anti-cheat-not-installed-error-on-your-pc/"><u>Quick Guide: Correct the Easy Anti-Cheat Not Installed Error on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-compatibility-problems-with-metro-exodus/"><u>Resolving PC Compatibility Problems with Metro Exodus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-technical-difficulties-during-helldivers-2-playthroughs-on-pc/"><u>Resolving Technical Difficulties During Helldivers 2 Playthroughs on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-xiaomi-13t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Xiaomi 13T FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-6-risoluzioni-rapide-quando-la-riparazione-di-windows-11-fallisce/"><u>Top 6 Risoluzioni Rapide: Quando La Riparazione Di Windows 11 Fallisce</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-for-battlenet-connectivity-problems/"><u>Ultimate Troubleshooting for Battle.net Connectivity Problems</u></a></li>
 </ul></div>
 

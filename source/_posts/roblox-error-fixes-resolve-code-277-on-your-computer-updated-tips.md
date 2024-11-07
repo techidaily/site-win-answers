@@ -1,7 +1,7 @@
 ---
 title: "Roblox Error Fixes: Resolve Code 277 on Your Computer (Updated Tips)"
-date: 2024-09-01T04:08:41.714Z
-updated: 2024-09-02T04:08:41.714Z
+date: 2024-10-30T23:38:47.936Z
+updated: 2024-11-07T05:35:04.719Z
 tags:
   - win11
   - win10
@@ -48,11 +48,15 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 2\. Revisit your network settings
 
  If you’ve made sure that Roblox’s server is running just fine, but you’re still getting the error code 277 on your side, it’s probably an issue with your network settings.
@@ -81,13 +85,17 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 3. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste **%USERPROFILE%AppDataLocalLowRbxLogs** and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-16.png)
 4. Also, press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all files here.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then try to launch your Roblox again to see if the error code 277 remains. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run Roblox as admin
 
@@ -96,14 +104,8 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 1. Right-click your **Roblox** **Player** icon and select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-17.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-18.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Now open Roblox again (it should be opened with administrative permission), to see if error code 277 is st. If the problem remains, please move on to the next fix.
 
 ---
@@ -116,29 +118,50 @@ thumbnail: https://thmb.techidaily.com/28465b8c38f841bc90d82827dc716baf4b925631d
 2. Type**cmd** , then press**Shift** and**Enter** at the same time. If prompted for permission, click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then switch to a public DNS server, and we recommend the Google DNS server as it’s fast and secure. Here’s how you can change the DNS server:
 
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -152,8 +175,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Repair corrupted or damaged system files
 
  If you are facing persistent issues and none of the previous solutions have proven effective, it’s possible that your corrupted system files are to blame. To rectify this, repairing the system files becomes crucial. The System File Checker (SFC) tool can assist you in this process. By executing the “sfc /scannow” command, you can initiate a scan that identifies problems and repairs missing or corrupted system files. However, it is important to note that   **the SFC tool primarily focuses on scanning major files and may overlook minor issues** .
@@ -164,9 +197,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -185,8 +229,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +236,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-formulating-fascinating-film-moments/"><u>[New] Formulating Fascinating Film Moments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insta-photography-enhancement-hacks-for-professionals/"><u>[New] Insta-Photography Enhancement Hacks for Professionals</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-free-photo-manipulation-software-top-picks/"><u>[Updated] 2024 Approved Free Photo Manipulation Software Top Picks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-stepwise-approach-affordable-creation-of-engaging-youtube-intros/"><u>[Updated] 2024 Approved Stepwise Approach Affordable Creation of Engaging YouTube Intros</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-list-11-premium-sound-recording-tools/"><u>[Updated] In 2024, The Ultimate List 11 Premium Sound Recording Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mobile-magic-instagram-covers-iphone-plus-android/"><u>2024 Approved Mobile Magic Instagram Covers IPhone + Android</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-cod-warzone-error-code-6328-expert-fixes-and-game-boosting-advice/"><u>Conquering Cod Warzone Error Code 6328 : Expert Fixes and Game-Boosting Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-fifa-21-from-crashing-on-windows-expert-fixes-and-tips/"><u>How to Stop FIFA 21 From Crashing on Windows - Expert Fixes and Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984250953-how-to-stop-garrys-mod-from-crashing-expert-solutions-revealed/"><u>How To Stop Garry's Mod From Crashing - Expert Solutions Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-purchase-by-apple-points-to-potential-ai-integration-in-coming-iphone-models-gadget-central/"><u>Innovative Purchase by Apple Points to Potential AI Integration in Coming iPhone Models | Gadget Central</u></a></li>
+<li><a href="https://techtrends.techidaily.com/live-streaming-with-manycam-top-notch-video-editing-and-online-cam-features/"><u>Live Streaming with ManyCam: Top-Notch Video Editing and Online Cam Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-years-resolution-for-gamers-destiny-2-broccoli-glitch-fixed-in-latest-patch/"><u>New Year's Resolution for Gamers: Destiny 2 Broccoli Glitch Fixed in Latest Patch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-crashing-on-windows-computers/"><u>Top 8 Solutions to Prevent Marvel's Guardians of the Galaxy From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-call-of-duty-warzones-disc-read-error-codes-50-31-on-your-computer/"><u>Troubleshooting Steps for Resolving Call of Duty: Warzone's Disc Read Error Codes [5.0, 3.1] on Your Computer</u></a></li>
+</ul></div>
 

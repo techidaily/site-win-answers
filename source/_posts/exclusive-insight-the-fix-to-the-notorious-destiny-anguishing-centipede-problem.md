@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Insight: The Fix to the Notorious Destiny Anguishing Centipede Problem"
-date: 2024-09-01T04:09:17.050Z
-updated: 2024-09-02T04:09:17.050Z
+date: 2024-11-04T04:19:44.247Z
+updated: 2024-11-06T23:46:50.598Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -65,8 +72,12 @@ Here is how to grant administrative privileges to Apex Legends:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
@@ -77,9 +88,6 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify game files
 
  You should also check the integrity of the game files to see if any of them are corrupt or missing.
@@ -91,19 +99,33 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
@@ -129,16 +151,10 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
@@ -160,8 +176,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +183,22 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-real-time-voice-to-action-no-price-tag/"><u>[New] 2024 Approved Real-Time Voice to Action, No Price Tag</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-top-15-youtube-openers-that-boost-viewership-and-engagement/"><u>[Updated] 2024 Approved Top 15 YouTube Openers That Boost Viewership and Engagement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>[Updated] Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>2024 Approved Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-realme-gt-neo-5-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Realme GT Neo 5 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/newly-fixed-broccoli-impact-error-in-destiny-2-update-guide-2024/"><u>Newly Fixed 'Broccoli Impact' Error in Destiny 2 [Update Guide, 2024]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-black-screen-problems-on-your-persona-5-strikers-gameplay/"><u>Resolving Black Screen Problems on Your Persona 5 Strikers Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-tricks-to-stop-world-of-warcraft-from-unexpectedly-crashing/"><u>Simple Tricks to Stop World of Warcraft From Unexpectedly Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-nier-reach-edition-failure-to-boot/"><u>Solving the Issue of NieR Reach Edition Failure to Boot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-psvr-headset-with-windows-pc/"><u>Step-by-Step Guide: Linking Your PSVR Headset with Windows PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/take-control-prevent-facebooks-oversee-usage/"><u>Take Control: Prevent Facebook’s Oversee Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-armored-core-eb-fires-of-rubicon-crashes-on-pc/"><u>Troubleshooting Steps for 'Armored Core Eb: Fires of Rubicon' Crashes on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-horizon-forbidden-west-full-game-crashes-on-windows/"><u>Troubleshooting Steps: Resolving 'Horizon Forbidden West' Full Game Crashes on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-launch-errors-in-the-pc-version-of-a-total-war-troy/"><u>Understanding and Fixing Launch Errors in the PC Version of 'A Total War: Troy'</u></a></li>
+</ul></div>
 

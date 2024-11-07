@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving Fix: Mechs vs Minions Starts but Then Crashes"
-date: 2024-09-01T04:10:44.248Z
-updated: 2024-09-02T04:10:44.248Z
+date: 2024-11-01T23:59:37.265Z
+updated: 2024-11-06T18:02:17.323Z
 tags:
   - win11
   - win10
@@ -29,9 +29,23 @@ thumbnail: https://thmb.techidaily.com/792170e0e2370b90ed364449dbb33c6317a0c77d0
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -41,29 +55,52 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -77,9 +114,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
@@ -104,6 +138,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -112,9 +153,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -127,16 +165,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)
@@ -148,8 +180,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +187,22 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-hand-held-balance-for-sharp-images-for-2024/"><u>[New] Hand-Held Balance for Sharp Images for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-practical-approach-to-hymnal-phone-tones/"><u>[Updated] A Practical Approach to Hymnal Phone Tones</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-embedding-audio-in-instant-storytelling-platforms-for-2024/"><u>[Updated] Embedding Audio in Instant Storytelling Platforms for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-convert-mobile-social-media-watch-to-home-tv/"><u>2024 Approved Convert Mobile Social Media Watch to Home TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-leading-portable-photo-printer-picks-expert-ratings-and-buyers-guide-by-zdnet/"><u>2024'S Leading Portable Photo Printer Picks: Expert Ratings & Buyer's Guide by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/amelioration-des-processus-de-traitement-documentaire-chez-bretagne-ateliers-a-travers-abbyy-flexicapture-solution-adaptee-aux-besoins-des-clients/"><u>Amélioration Des Processus De Traitement Documentaire Chez Bretagne Ateliers À Travers ABBYY FlexiCapture, Solution Adaptée Aux Besoins Des Clients</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-frontier-no-longer-crashing-on-your-pc-complete-guide/"><u>Fix Frontier No Longer Crashing on Your PC - Complete Guide!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-continuous-crashing-of-pacific-drive-software-on-pcs/"><u>Guide to Fixing Continuous Crashing of Pacific Drive Software on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-access-to-palworld-on-eos-platform-discover-these-6-fixes-for-login-errors/"><u>Mastering Access to Palworld on EOS Platform - Discover These 6 Fixes for Login Errors</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximize-your-mobile-experience-with-unparalleled-5g-velocity-and-enduring-battery-life-motorola-one-5g-ace-analysis/"><u>Maximize Your Mobile Experience with Unparalleled 5G Velocity and Enduring Battery Life: Motorola One 5G Ace Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-experience-tackling-high-cpu-consumption-on-baldurs-gate-iii-fixes-for-gamers/"><u>Optimizing Your Experience: Tackling High CPU Consumption on Baldur’s Gate III – Fixes for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-failed-to-log-into-palworld-on-eos-a-guide-to-six-effective-fixes/"><u>Overcome the 'Failed to Log Into Palworld on EOS': A Guide to Six Effective Fixes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/showcase-your-brand-with-our-50-free-youtube-banners-for-2024/"><u>Showcase Your Brand with Our 50 Free YouTube Banners for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ue4-b4b-gobi-error-expert-tips-to-resolve-and-prevent-critical-game-crashes/"><u>UE4 B4B Gobi Error: Expert Tips to Resolve and Prevent Critical Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-troubleshooting-bypassing-xbox-and-pcs-notorious-error-0-1766/"><u>Warzone Troubleshooting: Bypassing Xbox and PC's Notorious Error 0-1766</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Your League of Legends Game Crashes: Fast Solutions Inside"
-date: 2024-09-01T04:12:51.936Z
-updated: 2024-09-02T04:12:51.936Z
+date: 2024-11-05T18:02:55.479Z
+updated: 2024-11-07T06:17:03.879Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -59,15 +66,19 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Install the latest game patch
 
  Gearbox Software (the developer of Borderlands 3) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crash issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Perform a Windows Update
 
  According to Gearbox Software, to ensure compatibility, you will need to update your Microsoft C++ redistributables and .NET Framework. If your PC is running on Windows 10, you just need to perform a Windows Update. Here’s how to do it:
@@ -77,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  If there are no updates related to MS Visual C++ or .NET Framework, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Visual C++ Redistributable 2013:**
@@ -90,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Borderlands 3 to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Modify the graphics settings in the game
 
  If your PC fails to meet the recommended system requirements for Borderlands 3, you should use a reduced settings profile for graphics related features, because higher settings will increase the workload for your PC, which may even lead to game crash issue.
@@ -105,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  Launch the game again in a reduced settings to see it it crashes or not. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
@@ -112,8 +124,12 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
  Some players reported that the game may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Verify the game file
 
  The game crash issue can also be triggered by the faulty game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -121,6 +137,20 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 1. In Epic Game Launcher, navigate to your **Library** . Click **the cog icon** on the lower-right corner of **Borderlands 3** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-26_11-12-38.png)
 2. Click **Verify** to start verifying the game files.  
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Borderlands 3 after verifying the game file to see if this fix works. If not, try the next fix, below.
@@ -133,9 +163,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Perform a clean boot
 
  You may need to **perform a clean boot**  if the Borderlands 3 crashing issue persists. The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can   **find out the problematic software that makes your game keep crashing** . Once you find it out, just uninstall it, and then the this issue will be solved. Here’s how to do it:
@@ -143,23 +170,22 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and run Borderlands 3 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -167,8 +193,12 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 9: Reinstall the game
 
  If none of the fixes above works for you, you may need to try reinstalling the game to see if it would crash again. Normally, Borderlands 3 won’t crash after you reinstall it.
@@ -186,8 +216,6 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +223,19 @@ thumbnail: https://thmb.techidaily.com/f93e229fc5f13225e3ec37018bd561a2847508d52
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-expert-tips-on-tracking-your-videos-view-counts-and-earnings-potential/"><u>[New] 2024 Approved Expert Tips on Tracking Your Video's View Counts & Earnings Potential</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-backup-your-memories-camera-roll-to-snapchat-explained/"><u>[New] In 2024, Backup Your Memories Camera Roll to Snapchat Explained</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-superior-practices-for-mute-videography-for-2024/"><u>[New] Superior Practices for Mute Videography for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-twitter-jokes-made-accessible-with-3-simple-steps-pc-for-2024/"><u>[New] Twitter Jokes Made Accessible with 3 Simple Steps (PC) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-resident-evil-4-remake-crashing/"><u>[Solved] How to Fix Resident Evil 4 Remake Crashing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-mastering-the-name-game-for-top-podcast-titles/"><u>[Updated] 2024 Approved Mastering the Name Game for Top Podcast Titles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-revolutionizing-video-views-conquering-youtube-millions/"><u>2024 Approved Revolutionizing Video Views, Conquering YouTube Millions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/directdraw-problem-solved-in-depth-guide-on-rectifying-graphics-errors-in-software-applications/"><u>DirectDraw Problem Solved? In-Depth Guide on Rectifying Graphics Errors in Software Applications</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>New In 2024, Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problem-of-cs-go-failure-to-start/"><u>Solving the Problem of CS: GO Failure to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-nox-player-from-crashing-effective-fixes-and-tips-for-a-smooth-gaming-experience/"><u>Stop Nox Player From Crashing: Effective Fixes and Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-steam-from-freezing-and-crashing-in-no-time/"><u>Stop Steam From Freezing and Crashing in No Time!</u></a></li>
+</ul></div>
 

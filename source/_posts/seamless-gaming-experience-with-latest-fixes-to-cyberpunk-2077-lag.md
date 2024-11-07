@@ -1,7 +1,7 @@
 ---
 title: Seamless Gaming Experience with Latest Fixes to Cyberpunk 2077 Lag
-date: 2024-10-27T11:24:15.329Z
-updated: 2024-11-01T00:10:51.187Z
+date: 2024-10-31T21:39:34.629Z
+updated: 2024-11-06T19:33:50.149Z
 tags:
   - win11
   - win10
@@ -42,24 +42,24 @@ Don’t worry, here’re fixes may help you solve the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-50-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### For mouse/keyboard users
@@ -72,20 +72,27 @@ If you’re not using the controller, check the below settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -99,23 +106,17 @@ If this fix doesn’t work, move to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
 
 If it doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update the device driver
 
@@ -148,13 +149,6 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -178,15 +172,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-immutable-tiktok-hyperlink-process-for-profiles/"><u>[Updated] 2024 Approved Immutable TikTok Hyperlink Process for Profiles</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-get-back-to-seamless-transfers-fixing-faulty-airdrop-links/"><u>2024 Approved Get Back to Seamless Transfers Fixing Faulty Airdrop Links</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-resolve-dragons-dogma-2-pc-game-crashes/"><u>Comprehensive Guide to Resolve Dragon's Dogma 2 PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/curing-infinite-loops-in-anthem-step-by-step-troubleshooting-process/"><u>Curing Infinite Loops in Anthem: Step-by-Step Troubleshooting Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-unresponsive-gameplay-tips-to-enhance-pubg-mobile-performance/"><u>Fixing Unresponsive Gameplay: Tips to Enhance PUBG Mobile Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-itel-p55-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Itel P55? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-face-fluidity-masterclass-perfecting-the-art-of-motion-blur-via-picsart/"><u>In 2024, Face Fluidity Masterclass Perfecting the Art of Motion Blur via Picsart</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-game-now-fixing-battlefield-e-launch-failures-with-ease/"><u>Troubleshoot Your Game Now! Fixing Battlefield E Launch Failures with Ease</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-review-of-logitech-g-pro-x-2-with-lightspeed-technology-a-must-have-for-serious-gamers/"><u>Ultimate Review of Logitech G Pro X 2 with Lightspeed Technology: A Must-Have for Serious Gamers</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/utilizing-emeditor-for-targeted-file-cleanup-delete-only-select-line-patterns/"><u>Utilizing EmEditor for Targeted File Cleanup: Delete Only Select Line Patterns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-world-ultimate-troubleshooting-guide-putting-an-end-to-incessant-pc-game-crashes/"><u>'New World': Ultimate Troubleshooting Guide - Putting an End to Incessant PC Game Crashes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-boosting-impact-in-instagram-tv-key-size-strategies-unveiled/"><u>[Updated] In 2024, Boosting Impact in Instagram TV Key Size Strategies Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/5pya5paw/"><u>最新</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/advanced-game-monitoring-tools-for-diverse-formats-for-2024/"><u>Advanced Game Monitoring Tools for Diverse Formats for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dragons-dogma-2-performance-issues-solved-tackling-low-fps-and-frame-drops/"><u>Dragon's Dogma 2 Performance Issues Solved: Tackling Low FPS & Frame Drops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-steps-to-repair-fifa-19-directx-glitches-no-tech-expertise-needed/"><u>Effortless Steps to Repair FIFA 19 DirectX Glitches - No Tech Expertise Needed!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-12-proplus-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme 12 Pro+ 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-format-selection-elevating-your-youtube-content/"><u>In 2024, The Ultimate Format Selection – Elevating Your YouTube Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/srt-mastery-curating-the-best-mac-and-windows-turbo-boosts-for-2024/"><u>SRT Mastery Curating the Best Mac & Windows Turbo Boosts for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-g42-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia G42 5G without backup.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-correcting-infinity-launch-issues-in-apex-legends/"><u>Troubleshooting Steps for Correcting Infinity Launch Issues in Apex Legends</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-quik-for-pc-a-guide-to-using-gopros-video-editor-and-its-alternatives/"><u>Updated 2024 Approved Quik for PC A Guide to Using GoPros Video Editor and Its Alternatives</u></a></li>
 </ul></div>
 

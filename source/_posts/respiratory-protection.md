@@ -1,7 +1,7 @@
 ---
 title: Respiratory Protection
-date: 2024-09-01T04:10:14.755Z
-updated: 2024-09-02T04:10:14.755Z
+date: 2024-11-03T21:22:12.391Z
+updated: 2024-11-07T01:59:47.914Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 
  Wait until the process completes and then test your peripheral. If the issue persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Check for connection
 
  In most cases, your devices might not be detected by the operating system due to poor connections. So it’s necessary to double-check if your headset is firmly and properly connected. Here are a few basic steps to take:
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  Plug your Link Box into a**UBS 2.0 port** on your computer as some USB 3.0 and 3.1 chipsets will cause connection issues.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/change-usb-ports.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Connect your headset directly into the PC
 
@@ -63,15 +77,9 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 2. Launch SteamVR and go to**Settings > Developer** . Click**Remove All SteamVR USB Devices** , and this will clear your SteamVR device memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-remove-all-devices.jpg)
 3. Wait until it completes and plug all the cords back in after a couple of minutes.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The steps above can help you troubleshoot the USB port, Link Box and connection. If they’re not the cause, take a look at Fix 3.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your device drivers
 
  Drivers are responsible for communication between your system and headset. If there’s something wrong with your device drivers (especially the monitor and USB drivers), the headset may not connect to PC and Steam. To get the most out of SteamVR, you should always keep the drivers intact and up to date.
@@ -94,8 +102,12 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
  Restart SteamVR and see if the problem is fixed. If not, continue to more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Disable Power Management
 
  Enabling the SteamVR Power Management will power off your USB devices when they’re not in use and may affect the headset detection. To turn it off, follow the steps:
@@ -104,9 +116,6 @@ thumbnail: https://thmb.techidaily.com/dadc574a72620fb10d26a05d18b7bc541d4008da3
 2. Choose the**Developer** tab and click**Disable Power Management** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-power-management-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 See if the headset is detected now. If not, go on to the next solution.
 
 ### Fix 5 – Run Steam as an administrator
@@ -116,17 +125,32 @@ See if the headset is detected now. If not, go on to the next solution.
 1. Right-click**Steam** on your desktop and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now that the settings are applied. Check if your headset works now. If not, there is one more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6 – Opt into SteamVR Beta
 
  When SteamVR isn’t performing the right way, consider switching to the Beta version and see how it works. It usually delivers the latest features and comes with some bug fixes.
@@ -135,9 +159,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Hover your mouse over the**Library** tab and click**Tools** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-tools.jpg)
 3. Right-click**SteamVR** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 4. Select the BETAS tab from the left panel. Choose **beta – SteamVR Beta Update** from the drop-down list under Select the beta you would like to opt into.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta.jpg)
@@ -157,8 +178,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +185,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/detroit-become-human-triumphant-fixes-for-a-seamless-pc-experience/"><u>'Detroit: Become Human': Triumphant Fixes for a Seamless PC Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlock-full-screen-potential-on-youtube-videos/"><u>[New] 2024 Approved Unlock Full Screen Potential on YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-your-first-stride-into-snapseed-land/"><u>[New] Navigating Your First Stride Into Snapseed Land</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories/"><u>[Updated] Mastering Narratives The Science and Art of Crafting Memorable FB Stories</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comparative-analysis-of-youtubes-ownership-vs-cc-licenses-for-2024/"><u>A Comparative Analysis of Youtube's Ownership Vs. CC Licenses for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-iii-stability-fixes-for-a-smooth-gaming-experience-on-your-pc/"><u>Baldur's Gate III Stability Fixes for a Smooth Gaming Experience on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chrome-and-elevated-cpu-usage-resolved-a-comprehensive-guide/"><u>Chrome and Elevated CPU Usage Resolved: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-fixing-the-steam-failed-to-load-dll-issue-and-restoring-gameplay/"><u>Comprehensive Guide: Fixing the Steam 'Failed to Load DLL' Issue and Restoring Gameplay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-instant-access-step-by-step-to-download-your-validity-fingerprint-sensors-driver-now/"><u>Get Instant Access: Step-by-Step to Download Your Validity Fingerprint Sensor's Driver Now</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/optimal-room-decorations-for-livestreams/"><u>Optimal Room Decorations for Livestreams</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-v-purse-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of V Purse</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-guide-to-overcome-civilization-vi-errors-in-the-latest-2024-game-patch/"><u>The Complete Guide to Overcome 'Civilization VI' Errors in the Latest 2024 Game Patch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-low-fps-in-cyberpunk-2077-strategies-for-a-smoother-gaming-experience/"><u>Troubleshooting Low FPS in Cyberpunk 2077: Strategies for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-preventing-ultra-heroes-overload-on-pcs/"><u>Troubleshooting Steps for Preventing 'Ultra Heroes' Overload on PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-steps-to-restore-keyboard-functionality-on-login-screen/"><u>Troubleshooting Steps to Restore Keyboard Functionality on Login Screen</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Call of Duty Vanguard PC Issue? No More with These Fixes for Error Code 0X00001338 [RESOLVED]
-date: 2024-09-01T04:09:58.503Z
-updated: 2024-09-02T04:09:58.503Z
+date: 2024-11-06T01:55:25.707Z
+updated: 2024-11-07T03:35:17.378Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -38,8 +45,18 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -50,8 +67,12 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -82,20 +103,18 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
@@ -104,9 +123,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -121,8 +137,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +144,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-assessing-effectiveness-of-reduced-shaking-in-adobe-photos/"><u>[Updated] 2024 Approved Assessing Effectiveness of Reduced Shaking in Adobe Photos</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-screen-to-share-mastering-youtubes-thumbnail-artistry/"><u>[Updated] In 2024, From Screen to Share Mastering YouTubes' Thumbnail Artistry</u></a></li>
+<li><a href="https://win-answers.techidaily.com/current-status-of-xbox-live-is-the-service-running-smoothly/"><u>Current Status of Xbox Live: Is the Service Running Smoothly?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensure-successful-modern-warfare-launch-on-pc-2024-error-fixes-and-advice-this-title-emphasizes-a-successful-launch-outcome-ensure-success/"><u>Ensure Successful Modern Warfare Launch on PC: 2024 Error Fixes and Advice - This Title Emphasizes a Successful Launch Outcome (Ensure Success</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/generation-rapide-et-gratuite-de-gifs-a-partir-de-fichiers-mkv-en-ligne-avec-laide-de-movavi/"><u>Génération Rapide Et Gratuite De GIFs À Partir De Fichiers MKV en Ligne Avec L'aide De Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guide-to-top-free-vectors-graphics-sites-worldwide-for-2024/"><u>Guide to Top Free Vectors, Graphics Sites Worldwide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-activating-the-group-policy-editor-on-windows-home-computers/"><u>Guide: Activating the Group Policy Editor on Windows Home Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-crashing-far-cry-6-on-your-windows-computer/"><u>How to Fix Crashing Far Cry 6 on Your Windows Computer</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-poco-x5-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Poco X5 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>In 2024, Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-stabilizing-fallout-3-gameplay-on-windows-10-systems/"><u>No More Crashes: Stabilizing Fallout 3 Gameplay on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/spectral-revelations-drone-cams-overview/"><u>Spectral Revelations Drone Cams Overview</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-stop-starfield-from-closing-unexpectedly-on-your-desktop/"><u>Step-by-Step Guide to Stop Starfield From Closing Unexpectedly on Your Desktop</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/teaching-english-as-a-second-language/"><u>Teaching English As A Second Language</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/thrashing-rivals-in-fifa-19-a-definitive-guide-to-winning-at-online-soccer/"><u>Thrashing Rivals in FIFA 19: A Definitive Guide to Winning at Online Soccer</u></a></li>
+</ul></div>
 

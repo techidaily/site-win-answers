@@ -1,7 +1,7 @@
 ---
 title: Eliminate Slow Startup Issues – Optimize Your Fallout 4 Gaming Experience
-date: 2024-09-01T04:13:45.663Z
-updated: 2024-09-02T04:13:45.663Z
+date: 2024-11-05T06:13:51.559Z
+updated: 2024-11-06T17:47:59.830Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
 
 1. Select the **Startup**  tab. Right-click the apps that you want to stop from running automatically at startup and select **Disable** .  
@@ -60,8 +67,12 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
+
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
@@ -69,15 +80,16 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
 ## 3\. Stop overclocking
@@ -97,25 +109,41 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable hardware-accelerated GPU scheduling
 
@@ -129,23 +157,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Optimize in-game settings
 
  Sure, you can settle for the default presets, but there are some settings that are worth tweaking, which give you a significant performance boost. Read on for more information…
@@ -162,8 +181,12 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Then apply the changes and test your gameplay.
 
 ---
@@ -176,8 +199,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +206,21 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-fraps-revolutionizing-gamers-screen-recording/"><u>[New] 2024 Approved Fraps Revolutionizing Gamer's Screen Recording</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-empower-your-application-with-microsoft-azure-speech-services-for-2024/"><u>[New] Empower Your Application with Microsoft Azure Speech Services for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unveiling-the-25-most-followed-insta-prodigies/"><u>[New] In 2024, Unveiling the 25 Most-Followed Insta Prodigies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-make-every-gaming-moment-count-top-5-ways-to-record-in-minecraft-on-a-mac-for-2024/"><u>[New] Make Every Gaming Moment Count Top 5 Ways to Record in Minecraft on a Mac for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-video-conferencing-with-zoom-and-gmail/"><u>[Updated] Seamless Video Conferencing with Zoom & Gmail</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-advanced-zoom-strategies-for-clarity-in-web-meetings/"><u>2024 Approved Advanced Zoom Strategies for Clarity in Web Meetings</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-8-music-apps-on-ios-enjoy-free-tunes-anywhere/"><u>Best 8 Music Apps on iOS: Enjoy Free Tunes Anywhere</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-5-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 5 Pro Phone without PIN</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-your-game-how-to-get-diablo-ii-resurrected-running-smoothly/"><u>Mastering Your Game: How to Get Diablo II: Resurrected Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-game-performance-addressing-fps-drops-in-the-2021-formula-one-racing-game/"><u>Optimizing Game Performance: Addressing FPS Drops in the 2021 Formula One Racing Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-no-more-crashes-expert-advice-on-stability-and-performance/"><u>Rocket League No More Crashes - Expert Advice on Stability and Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solutions-to-resolve-stuttering-in-counter-strike-global-offensive/"><u>Simple Solutions to Resolve Stuttering in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-your-ark-gaming-experience-on-pc-solve-crashing-with-9-effective-fixes/"><u>Smooth Your ARK Gaming Experience on PC – Solve Crashing with 9 Effective Fixes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-the-magic-of-time-lapse-photography-on-samsung-gear/"><u>Unleash the Magic of Time-Lapse Photography on Samsung Gear</u></a></li>
+</ul></div>
 

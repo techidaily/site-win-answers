@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot and Enhance Performance: Stop Chrome Freezes in Windows Pressure"
-date: 2024-10-27T19:22:24.672Z
-updated: 2024-10-31T22:33:15.445Z
+date: 2024-11-02T16:13:22.395Z
+updated: 2024-11-07T07:10:47.530Z
 tags:
   - win11
   - win10
@@ -47,6 +47,19 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -60,6 +73,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
@@ -72,10 +92,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  If this trick doesn’t give you luck, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
@@ -89,10 +109,10 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  If this fix doesn’t help you, simply move on to the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -109,31 +129,11 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your GPU driver, restart your PC and test your gameplay.
 
  If the latest driver doesn’t do the trick, you can continue to the next method.
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -154,10 +154,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -167,10 +167,10 @@ Here’s how you can check for updates manually:
 If this method failed to fix the lag, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
@@ -206,24 +206,24 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-balance-aesthetics-and-functionality-on-instagram/"><u>[New] 2024 Approved Balance Aesthetics and Functionality on Instagram</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>[New] In 2024, Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-latest-instagram-photo-and-video-size-checklist/"><u>[New] Latest Instagram Photo and Video Size Checklist</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-your-top-tools-for-facebook-video-retrieval-revealed-for-2024/"><u>[Updated] Your Top Tools for Facebook Video Retrieval Revealed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-troubleshooting-ensuring-connection-with-the-command-center/"><u>Astro A50 Troubleshooting: Ensuring Connection with the Command Center</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/el-identity-reimagined-best-name-generators-listed-for-2024/"><u>Channel Identity Reimagined Best Name Generators Listed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-performance-improved-how-the-latest-patch-boosted-fps-for-smoother-gameplay/"><u>Cyberpunk 2077 Performance Improved: How the Latest Patch Boosted FPS for Smoother Gameplay</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/discover-the-best-video-dubbing-software-for-pc-free-trials/"><u>Discover the Best Video Dubbing Software for PC - Free Trials</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-fixes-for-the-division-2-crash-bug-expert-advice/"><u>Easy Fixes for the Division 2 Crash Bug - Expert Advice</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exclusive-softbox-kit-reviews-photographers-favorites-2024/"><u>Exclusive Softbox Kit Reviews - Photographers' Favorites 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/find-out-which-phones-make-the-best-friends-with-gear-vr/"><u>Find Out Which Phones Make the Best Friends with Gear VR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-stuck-on-loading-issue-in-minecraft/"><u>How to Overcome the 'Stuck on Loading' Issue in Minecraft</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-valorants-potential-techniques-to-boost-fps-and-eliminate-stutters/"><u>Maximizing Valorant's Potential: Techniques to Boost FPS and Eliminate Stutters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persistent-troubles-overcome-launching-glitches-in-persona-3-fe-edition/"><u>Persistent Troubles? Overcome Launching Glitches in Persona 3: FE Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-non-working-dolby-atmos-on-windows-1110-systems/"><u>Step-by-Step Fix for Non-Working Dolby Atmos on Windows 11/10 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-to-overcoming-android-wi-fi-sign-in-challenges/"><u>Step-by-Step Guide to Overcoming Android Wi-Fi Sign-In Challenges</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-keeping-your-contacts-hidden-in-android-settings/"><u>Step-by-Step Tutorial: Keeping Your Contacts Hidden in Android Settings</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-civilization-vi-solutions-for-launch-issues-on-windows-10/"><u>Troubleshooting Civilization VI: Solutions for Launch Issues on Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-the-persistent-error-0xc19001e1-in-windows-navigating-through-fixes/"><u>Troubleshooting Tips for the Persistent 'Error 0xC19001E1' In Windows Navigating Through Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024-tips-rocket-league-keeps-crashing/"><u>[2024 Tips] Rocket League Keeps Crashing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-best-streaming-cameras-to-boost-viewer-interaction-on-twitch-for-2024/"><u>[Updated] The Best Streaming Cameras to Boost Viewer Interaction on Twitch for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-performance-at-a-glance-top-4k-laptops/"><u>2024 Approved Best Performance at a Glance - Top 4K Laptops</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1728499689144-windows-11/"><u>如何解决 Windows 11 上系统保护图标显示为灰色的问题并恢复功能</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-assistants-face-off-snapchats-my-ai-versus-chatgpt-for-optimal-performance/"><u>AI Assistants Face-Off: Snapchat's My AI Versus ChatGPT for Optimal Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dead-by-daylight-update-2024-comprehensive-guide-to-resolving-persistent-crashes/"><u>Dead by Daylight Update 2024: Comprehensive Guide to Resolving Persistent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/forza-horizon-4-startup-problems-beat-them-with-these-proven-techniques/"><u>Forza Horizon 4 Startup Problems? Beat Them with These Proven Techniques</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/free-nodejs-admin-and-control-panel-themes-from-creativetim/"><u>Free Node.js Admin & Control Panel Themes From CreativeTim</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-playground-to-pro-how-mavic-air-challenges-the-spark-dominance-for-2024/"><u>From Playground to Pro How Mavic Air Challenges the Spark Dominance for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-errors-in-modern-warfare-2-expert-advice-and-fixes/"><u>How to Overcome Launch Errors in Modern Warfare 2: Expert Advice and Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-fps-in-lost-ark-fixing-the-previous-lagging-issues/"><u>Improved FPS in Lost Ark - Fixing the Previous Lagging Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-honor-magic5-ultimate-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-performance-addressing-and-resolving-outriders-lag-issues/"><u>Maximize Performance: Addressing and Resolving Outriders' Lag Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012680848-maximizing-your-experience-in-mass-effect-legendary-edition-unlocking-spectacular-frame-per-second-bonuses/"><u>Maximizing Your Experience in Mass Effect Legendary Edition - Unlocking Spectacular Frame-Per-Second Bonuses</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/run-interrupted-script-halted/"><u>Run Interrupted: Script Halted</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-launch-starfield-successfully-on-your-console-or-pc/"><u>Step-by-Step Solutions to Launch Starfield Successfully on Your Console or PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-for-repairing-battlenet-not-opening/"><u>Step-by-Step Tutorial for Repairing 'Battle.net Not Opening'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/swift-solution-guide-fixing-unable-to-start-fortnite-issues/"><u>Swift Solution Guide: Fixing 'Unable to Start Fortnite' Issues</u></a></li>
 </ul></div>
 

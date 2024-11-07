@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Repairing the 'Internet Explorer Has Stopped Working' Problem Quickly
-date: 2024-09-01T04:15:09.931Z
-updated: 2024-09-02T04:15:09.931Z
+date: 2024-11-04T01:43:13.519Z
+updated: 2024-11-06T22:46:50.872Z
 tags:
   - win11
   - win10
@@ -77,9 +77,6 @@ Make sure that Anthem is closed and not running in the background.
 
 All good now? That’s great!
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -95,15 +92,23 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
  6) Once finished, restart your computer and launch Anthem.
@@ -130,9 +135,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
@@ -140,8 +142,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
@@ -158,6 +164,13 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
@@ -167,15 +180,16 @@ Now launch Anthem on your computer, and your game should be loading.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 5: Run Anthem as an administrator
 
  If Anthem keeps sticking on infinite loading screen, running it as an administrator will help.
@@ -188,12 +202,16 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Re-launch your game and see if how it works.
 
@@ -208,6 +226,13 @@ Here’s what you need to do:
  2) Under**Display Settings** , change your screen resolution to the one that is the same with your monitor resolution. Switch to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
@@ -230,8 +255,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +262,22 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-express-thanks-free-and-premium-video-farewells/"><u>[New] Express Thanks Free and Premium Video Farewells</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-permanent-name-shift-on-google-meet-devices/"><u>[New] In 2024, Permanent Name Shift on Google Meet Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-screener-solution-for-flawless-youtube-content-creation/"><u>[Updated] 2024 Approved Top Screener Solution For Flawless YouTube Content Creation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-and-simplify-a-user-friendly-approach-to-shorts-thumbnails/"><u>[Updated] Streamline & Simplify A User-Friendly Approach to Shorts Thumbnails</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-rainbow-six-extraction-performance-fixing-low-fps-problems/"><u>Enhancing Rainbow Six Extraction Performance - Fixing Low FPS Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-crashes-during-gaming-on-modern-operating-systems/"><u>Expert Advice on Preventing Crashes During Gaming on Modern Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-game-crashes-expert-tips-for-running-guilty-gear-strive-smoothly-on-a-computer/"><u>Fixing Game Crashes: Expert Tips for Running Guilty Gear Strive Smoothly on a Computer</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/high-definition-wonders-with-the-nikon-d500-for-2024/"><u>High Definition Wonders with the Nikon D500 for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-your-avis-quick-conversion-to-gif-on-windows-and-macos-via-filmora-app/"><u>In 2024, Optimize Your AVIs Quick Conversion to GIF on Windows & macOS via Filmora App</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-fixing-hlalyx-graphics-glitches-for-a-smoother-experience/"><u>Optimizing Your Gameplay: Fixing HL:Alyx Graphics Glitches for a Smoother Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-stuck-loading-screen-at-90-for-phasmophobia-players/"><u>Overcoming the Stuck Loading Screen at 90% for Phasmophobia Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-to-prevent-bdo-black-desert-online-pc-crashes-effectively/"><u>Troubleshooting Guide to Prevent BDO (Black Desert Online) PC Crashes Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-smooth-naraka-bladepoint-gaming-experience-with-no-more-crashes/"><u>Troubleshooting Tips for a Smooth Naraka: Bladepoint Gaming Experience with No More Crashes</u></a></li>
+</ul></div>
 

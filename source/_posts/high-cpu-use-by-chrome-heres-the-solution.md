@@ -1,7 +1,7 @@
 ---
 title: High CPU Use by Chrome? Here's the Solution!
-date: 2024-09-01T04:16:26.391Z
-updated: 2024-09-02T04:16:26.391Z
+date: 2024-11-03T17:19:42.545Z
+updated: 2024-11-06T18:58:32.537Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
  When Cyberpunk seems to not be using your GPU, first you need to make sure your**CPU has an integrated graphics card** . In the past few years, Intel rolled out the**F-series CPUs** , such as the i5-10400F and the i3-9100F, which are cheaper than the regular ones for not having integrated graphics. In addition, some**Intel Xeon E3 Processors** designed for servers might not have an integrated GPU. If you’re not sure about your CPU model, contact your supplier.
@@ -33,6 +40,13 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  You also need to make sure that the video output comes from your dedicated graphics card. That means your monitor should be connected with your graphics card.
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -66,17 +80,18 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -86,22 +101,28 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
@@ -117,13 +138,6 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
 ---
@@ -138,8 +152,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +159,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-bland-to-breatited-the-ultimate-video-title-guide/"><u>[Updated] From Bland to Breatited The Ultimate Video Title Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-vlc-video-recording-performance-study/"><u>2024 Approved VLC Video Recording Performance Study</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-nubia-red-magic-8s-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Nubia Red Magic 8S Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/april-2sory-no-more-errors-the-2024-league-of-legends-update-resolves-reconnection-bugs/"><u>April 2Sory, No More Errors: The 2024 League of Legends Update Resolves Reconnection Bugs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-persistent-pc-crashes-in-tower-of-fantasy-for-a-seamless-gaming-experience/"><u>Conquer the Persistent PC Crashes in Tower of Fantasy for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-for-starfield-failure-to-start-up-on-your-gaming-platforms-steamxbox/"><u>Expert Fixes for Starfield Failure to Start Up on Your Gaming Platforms (Steam/Xbox)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ideal-computer-accessories-finding-the-right-mouse-for-your-ipad/"><u>Ideal Computer Accessories: Finding the Right Mouse for Your IPad</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-realme-12-proplus-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Realme 12 Pro+ 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-pc-game-crash-problems-effective-strategies/"><u>Overcoming PC Game Crash Problems - Effective Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-solution-cod-modern-warfares-first-person-shooter-update-released/"><u>Unveiling the Solution: Cod: Modern Warfare's First-Person Shooter Update Released</u></a></li>
+</ul></div>
 

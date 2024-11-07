@@ -1,7 +1,7 @@
 ---
 title: "Star Wars Battlefront 2 Black Screen Error - Now Fixed: A Comprehensive Guide"
-date: 2024-09-01T04:14:58.922Z
-updated: 2024-09-02T04:14:58.922Z
+date: 2024-11-01T21:36:38.229Z
+updated: 2024-11-06T16:57:16.558Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ thumbnail: https://thmb.techidaily.com/4ce3e09b6be16a4bedfe22789f63cbe3ee4e3f00e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-repair-game.jpg)
 3. Origin will automatically verify game files and download any replacement or missing files.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **Steam**
 
 1. Go to your Steam**LIBRARY** . Then Right-click Battlefield 4 and select**Properties…** .  
@@ -70,6 +77,13 @@ If the issue remains, check out the next solution.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with_full technical support_ . If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) **.**
 
  After updating your drivers, restart your computer and test if Battlefield 4 launches now.
@@ -84,23 +98,40 @@ If the issue remains, check out the next solution.
 2. Go to**_C:\\Program Files (x64)\\Origin Games\\Battlefield 4_** . Then right-click the**Bf4.exe** file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Properties1.jpg)
 3. Navigate to the**Compatibility** tab, Then check the box next to**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
 4. On your desktop, right-click the Origin client icon and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-properties.jpg)
 5. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-origin-as-administrator.jpg)
 
 Check if Battlefield 4 launches properly.
 
  If this method doesn’t help you resolve the problem, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change game properties
 
  Many players have reported that they fixed the launching issue by changing game properties for Battlefield 4\. It can be done with a few simple clicks via the Origin client. Here’s how:
@@ -110,24 +141,22 @@ Check if Battlefield 4 launches properly.
 2. Right-click Battlefield 4 and select**Game Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-game-properties-1.jpg)
 3. Under When launching this game, select**Battlefield 4™ (x86)** from the drop-down menu and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-86.jpg)
 4. Close Origin and start it again.
 5. Repeat step1 and step 2, then change game properties back to**Battlefield 4™ (x64)** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/bf4-64.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Restart your computer and check if you can launch Battlefield 4 successfully.
 
 If this fix doesn’t help, go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Toggle offline and online mode in Origin
 
  Another solution that has been proved useful to some players is to set Origin to offline mode and launch Battlefield 4 once that way. Here’s how:
@@ -135,35 +164,27 @@ If this fix doesn’t help, go ahead with the next fix below.
 1. Launch Origin. Then click the Origin menu and select**Go Offline** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-offline.jpg)
 2. Run Battlefield 4 in this instance.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Once the menu says you’re offline, switch windows to the Origin menu, then click**Go online** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-online.jpg)
 4. Return to the game and try to launch it again.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If Battlefield 4 is still not launching, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall the game
 
  If all methods mentioned above fail to resolve your problem of Battlefield 4 not launching, try reinstalling the game as a last resort. Here’s how:
@@ -171,9 +192,6 @@ If Battlefield 4 is still not launching, continue to the next fix below.
 1. Run the Origin client and select**My Game Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/my-games-library-origin.jpg)
 2. Right-click the**Battlefield 4** tile from the list, and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-uninstall.jpg)
 3. After the process finishes, reinstall the game from Origin.
 
@@ -192,8 +210,6 @@ Check if Battlefield 4 could launch normally.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +217,24 @@ Check if Battlefield 4 could launch normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-top-youtube-name-makers-plus-creative-idea-sparking-techniques/"><u>[New] In 2024, Top YouTube Name Makers + Creative Idea Sparking Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-guide-to-identifying-recent-instagram-leavers/"><u>[Updated] Guide to Identifying Recent Instagram Leavers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-revolutionary-collages-made-simple-by-picshot/"><u>[Updated] Revolutionary Collages Made Simple by Picshot</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722988151239-cyberpunk-2077-no-longer-freezes-how-the-issue-is-fixed/"><u>Cyberpunk 2077 No Longer Freezes: How the Issue Is Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-stabilizing-your-elite-dangerous-gaming-experience-on-pc/"><u>Effective Solutions for Stabilizing Your Elite Dangerous Gaming Experience on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-that-frustrating-frame-rate-drop-in-overwatch-instantly/"><u>Fix That Frustrating Frame-Rate Drop in Overwatch, Instantly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-13-pro-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 13 Pro Passcode not Working?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-apex-legends-internet-sync-issues-an-ultimate-guide/"><u>How to Overcome Apex Legends Internet Sync Issues: An Ultimate Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-itel-p55-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Itel P55 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://some-tips.techidaily.com/is-photoshops-image-smoothing-worth-the-hype-in-2024/"><u>Is Photoshop's Image Smoothing Worth the Hype, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-how-to-fix-windows-crashes-in-final-fantasy-xv/"><u>Resolving Issues: How to Fix Windows Crashes in Final Fantasy XV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-the-thrill-in-dying-light-addressing-and-overcoming-performance-hiccups/"><u>Reviving the Thrill in Dying Light - Addressing and Overcoming Performance Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-overcoming-pc-startup-issues-with-hitman-3/"><u>Solution Steps: Overcoming PC Startup Issues with Hitman 3</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-enabling-successful-startup-of-farming-simulator-22/"><u>Step-by-Step Solution: Enabling Successful Startup of Farming Simulator 22</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comprehensive-guide-to-ultimate-video-editing-vivacut-24-edition-for-2024/"><u>The Comprehensive Guide to Ultimate Video Editing VivaCut '24 Edition for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-endgame-for-deactivating-an-instagram-profile-for-2024/"><u>The Endgame for Deactivating an Instagram Profile for 2024</u></a></li>
+</ul></div>
 

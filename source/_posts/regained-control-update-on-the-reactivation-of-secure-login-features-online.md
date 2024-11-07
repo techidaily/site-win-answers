@@ -1,7 +1,7 @@
 ---
 title: "Regained Control: Update on the Reactivation of Secure Login Features Online"
-date: 2024-09-01T04:13:22.830Z
-updated: 2024-09-02T04:13:22.830Z
+date: 2024-11-02T03:25:13.739Z
+updated: 2024-11-06T22:28:06.108Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ Steam not recognizing your controller? You’re definitely not alone. Many playe
 4. [**Update your Steam client**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your controller is working
 
  Before working with your computer, first you need to**make sure your controller is functioning** . Check if your controller is fully charged if on wireless connection, and maybe change the USB cable if on wired connection. And if possible, test your controller on another console or PC.
@@ -49,15 +62,22 @@ Steam not recognizing your controller? You’re definitely not alone. Many playe
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you’ve updated all the drivers, reboot your PC and check if your controller is working now.
 
  If the latest drivers didn’t give you luck, simply continue to the next fix.
@@ -73,30 +93,38 @@ Steam not recognizing your controller? You’re definitely not alone. Many playe
 2. Select**LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-2.jpg)
 3. In the left pane, select**Installed** . Then select the target game.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-3.jpg)
 4. From the left menu, select**Manage Game Options** . Under the**Steam Input** section, select**Controller Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-4.jpg)
 5. In the pop up window, set**Steam Input Per-Game Setting** to**Forced Off** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-big-picture-5.jpg)
+
 Now you can launch your game and check if the controller is working.
 
 If this solution doesn’t work for you, try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your Steam client
 
  You’ll likely run into trouble if you’re using an outdated Steam client. To rule out the possibility, you need to make sure your Steam version is the latest.
@@ -106,6 +134,13 @@ Here’s how
 1. Launch your Steam client.
 2. At the top left corner, click**Steam** and select**Check for Steam Client Updates…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-check-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your Steam client is already up to date, take a look at the next solution.
 
@@ -118,14 +153,8 @@ Here’s a quick guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  After installing all the system updates, restart your PC and check if your controller is working with Steam.
@@ -142,8 +171,6 @@ Here’s a quick guide for that:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +178,19 @@ Here’s a quick guide for that:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-use-youcam-webcam-recorder-for-2024/"><u>[New] How to Use YouCam Webcam Recorder for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations/"><u>[Updated] 2024 Approved Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-essential-manual-to-measure-youtube-success-metrics/"><u>[Updated] In 2024, The Essential Manual to Measure YouTube Success Metrics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-pinnacle-display-top-5-high-definition-hdmi-21-pcmonitor/"><u>[Updated] Pinnacle Display Top 5 High-Definition (HDMI 2.1) PC/Monitor</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-fundamentals-made-simple-top-8-learning-resources/"><u>2024 Approved YouTube Fundamentals Made Simple Top 8 Learning Resources</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/audio-wizardry-in-action-techniques-for-professional-video-sound-recording-for-2024/"><u>Audio Wizardry in Action Techniques for Professional Video Sound-Recording for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eac-launch-fails-solve-your-not-installed-error-with-these-tips-on-installing-easy-anti-cheat-correctly/"><u>EAC Launch Fails? Solve Your 'Not Installed' Error with These Tips on Installing Easy Anti-Cheat Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-gzw-gray-zone-warfare-bugs-causing-pc-instability-expert-advice/"><u>How to Fix GZW (Gray Zone Warfare) Bugs Causing PC Instability: Expert Advice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-assassins-creed-odyssey-game-crashes-in-windows-2024-update/"><u>How to Resolve Assassin's Creed Odyssey Game Crashes in Windows - 2024 Update</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-fishing-cameras-the-essentials-of-5/"><u>In 2024, Premier Fishing Cameras - The Essentials of 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-wsappx-identifying-the-cause-behind-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Identifying the Cause Behind Excessive Memory & Processor Consumption</u></a></li>
+</ul></div>
 

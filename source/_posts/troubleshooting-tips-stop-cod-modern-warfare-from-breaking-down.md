@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2024-10-29T23:58:57.798Z
-updated: 2024-11-01T03:13:12.358Z
+date: 2024-11-03T23:52:44.095Z
+updated: 2024-11-06T20:08:13.034Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -72,13 +65,6 @@ To do so, first visit the website of your GPU manufacturer:
  After updating all your drivers, restart your PC and check if the issue persists.
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
 
@@ -95,13 +81,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick, you can take a look at the next one.
 
 ### Fix 3: Remove Multiplayer game packs
@@ -113,19 +92,46 @@ To do so, first visit the website of your GPU manufacturer:
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this trick doesn’t help you, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -152,24 +158,20 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-color-theory-and-how-to-use-it/"><u>[Updated] 2024 Approved Color Theory And How To Use It</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-leveraging-zoom-features-for-improved-tiktok-videos/"><u>[Updated] Leveraging Zoom Features for Improved TikTok Videos</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/amd-epyc-9755-turin-conquering-multi-threading-performance-with-record-breaking-scores-above-108000-in-cpu-z/"><u>AMD EPYC 9755 Turin: Conquering Multi-Threading Performance with Record-Breaking Scores Above 108,000 in CPU-Z</u></a></li>
-<li><a href="https://article-files.techidaily.com/bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>Bring Life to Your Photos Motion Blur Techniques for Illustration</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-the-chill-effective-fixes-for-cod-black-ops-cold-war-bug/"><u>Bypassing the Chill: Effective Fixes for CoD: Black Ops Cold War Bug</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/capture-every-moment-premium-no-cost-windowsmac-tools/"><u>Capture Every Moment Premium, No-Cost Windows/Mac Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-magicard-rio-pro-driver-new-version-compatible-with-windows-11-81-and-7/"><u>Download Magicard Rio Pro Driver - New Version Compatible with Windows 11, 8.1 & 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/firefox-freezing-no-more-the-comprehensive-2024-guide-to-smooth-browsing/"><u>Firefox Freezing No More: The Comprehensive 2024 Guide to Smooth Browsing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-endless-loop-how-to-overcome-anthems-persistent-load-screen-issue/"><u>Fixing the Endless Loop: How to Overcome Anthem's Persistent Load Screen Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-ai-generated-prompts-tools-you-cant-miss/"><u>Leading AI Generated Prompts Tools You Can't Miss</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-fallout-4-performance-for-lightning-fast-loads/"><u>Optimizing Fallout 4 Performance for Lightning-Fast Loads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-your-obs-lag-issues-solutions-for-live-stream-and-record-functionality/"><u>Overcome Your OBS Lag Issues - Solutions for Live Stream & Record Functionality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012841855-perform-the-multiplication-on-both-sides/"><u>Perform the Multiplication on Both Sides</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/proven-tactics-to-amplify-your-youtube-popularity-for-2024/"><u>Proven Tactics to Amplify Your YouTube Popularity for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-far-cry-5s-perpetual-boot-loop-a-step-by-step-guide/"><u>Resolving Far Cry 5'S Perpetual Boot Loop - A Step-by-Step Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/samsung-phone-battery-lifespan-analysis-and-maintenance-tips/"><u>Samsung Phone Battery Lifespan Analysis and Maintenance Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tips-and-hacks-how-to-prevent-continuous-crashes-of-hell-let-loose-on-your-computer/"><u>Tips & Hacks: How to Prevent Continuous Crashes of Hell Let Loose on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-how-to-resolve-modern-warfare-3-mw3-startup-issues/"><u>Troubleshooting Steps: How to Resolve Modern Warfare 3 (MW3) Startup Issues</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-list-of-no-cost-video-format-changers-for-windows-users-xp-vista-7/"><u>Ultimate List of No-Cost Video Format Changers for Windows Users (XP, Vista, 7)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-revolutionize-your-channels-thumbnails-with-these-tools/"><u>[New] 2024 Approved Revolutionize Your Channel's Thumbnails with These Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-complete-lowdown-on-using-showmores-recorder/"><u>2024 Approved The Complete Lowdown on Using ShowMore's Recorder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/cutting-edge-single-pass-3d-printing-unveils-operational-robotic-hand-advancing-the-dream-of-at-home-limb-fabrication/"><u>Cutting-Edge Single-Pass 3D Printing Unveils Operational Robotic Hand: Advancing the Dream of At-Home Limb Fabrication</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-rust-from-continuously-crashing/"><u>Fixes & Solutions: How to Stop Rust From Continuously Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-anticheat-connection-fault-issue-a-guide-for-escape-from-tarkov-players/"><u>Fixing the Anticheat Connection Fault Issue - A Guide for Escape From Tarkov Players</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11x-5g-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11X 5G by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-without-passcode-by-drfone-ios/"><u>How to Unlock Apple iPhone SE Without Passcode?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-6s-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 6s Plus without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mid-range-showdown-compare-samsung-galaxy-tab-s9-lite-vs-ipad-10th-generation/"><u>Mid-Range Showdown: Compare Samsung Galaxy Tab S9 Lite vs iPad 10Th Generation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210861012-9781454950844-numerology/"><u>Numerology | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobia-performance-tips-reducing-spiked-cpu-use-during-gameplay/"><u>Phasmophobia Performance Tips: Reducing Spiked CPU Use During Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-effective-solutions-for-overcoming-lag-in-fortnite/"><u>Resolved: Effective Solutions for Overcoming Lag in Fortnite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-upgrading-graphics-driver-for-optimal-performance-in-forza-horizon-5/"><u>Step-by-Step: Upgrading Graphics Driver for Optimal Performance in Forza Horizon 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-making-your-steam-controller-work-again-under-windows-os/"><u>Troubleshoot: Making Your Steam Controller Work Again Under Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-after-fixing-steam-server-connection-problems/"><u>Troubleshooting Steps After Fixing Steam Server Connection Problems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Gameplay Frame Rate: Expert Tips for Increasing FPS in Tainted Grail - Conquest"
-date: 2024-09-01T04:10:16.003Z
-updated: 2024-09-02T04:10:16.003Z
+date: 2024-11-02T06:26:35.692Z
+updated: 2024-11-07T05:11:20.863Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ After you save the changes, test your gameplay.
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 **Verify game files integrity on Steam**
@@ -91,18 +98,12 @@ After you save the changes, test your gameplay.
 
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -111,6 +112,13 @@ After you save the changes, test your gameplay.
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -155,9 +163,6 @@ To run Mass Effect in high priority, follow these steps:
 
 If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Enable high-performance power plan
 
  High-performance mode is a particular feature that may give you noticeable improvements during gameplay. To enable this mode, follow the instructions below:
@@ -165,6 +170,13 @@ If this didn’t give you any luck, try the next fix below.
  1) In the Search box, type **graphics settings** . Then click **Graphics settings**  from the results.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click on the **Browse**  button.  
   
@@ -176,9 +188,6 @@ If this didn’t give you any luck, try the next fix below.
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
@@ -187,7 +196,21 @@ If this didn’t give you any luck, try the next fix below.
   
 ![set high performance power plan Genshin Impact](https://images.drivereasy.com/wp-content/uploads/2021/01/high-performance.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Still can’t fix your issues? No worries! There are other effective methods below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Turn off hardware acceleration
 
@@ -196,33 +219,52 @@ If this didn’t give you any luck, try the next fix below.
  Here’s how to turn off hardware acceleration in Chrome and Discord:
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### In Chrome
 
  1) At the top right, click on the three lines and then select **Settings** .  
   
 ![disable Chrome hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-hardware-acceleration-Google-Chrome-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Scroll down to the bottom and click on **Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### In Discord
 
  1) Open Discord app. Click on **Settings** (the gear icon beside your avatar).  
@@ -235,9 +277,6 @@ The powerful video editing program for your Windows PC</a>
 
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Disable Windows 10 gaming features
 
  Game Mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to make gaming a much better experience, but it seems the opposite is true. And if you have background recording enabled on your system, it may make your game laggy and even your FPS suffers. To get rid of framerate drops, you need to disable the background recording feature and turn off Game Mode.
@@ -254,23 +293,14 @@ Here’s how to do this:
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
 ---
@@ -283,8 +313,6 @@ Here’s how to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -292,4 +320,20 @@ Here’s how to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-bridging-games-and-friends-xbox-live-to-facebook-broadcasting-for-2024/"><u>[New] Bridging Games and Friends Xbox Live to Facebook Broadcasting for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-12-interactive-pc-adventures-to-boost-your-clicking/"><u>[New] In 2024, Top 12 Interactive PC Adventures to Boost Your Clicking</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-best-online-choice-for-quick-hassle-free-gif-conversion-to-video/"><u>[New] The Best Online Choice for Quick, Hassle-Free GIF Conversion to Video</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-black-ops-understanding-the-black-screen-and-error-code-0xc0000005/"><u>Fixing Black Ops: Understanding the 'Black Screen' And 'Error Code 0xC0000005'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-freezing-glitches-in-borderlands-3-for-a-smooth-gaming-experience/"><u>How to Overcome Freezing Glitches in Borderlands 3 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-free-luts-a-pathway-to-improved-obs-streaming/"><u>In 2024, Leveraging Free LUTs A Pathway to Improved OBS Streaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-nokia-g310-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Nokia G310 has been deleted</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolve-the-mystery-ultimate-guide-to-fixing-google-chromes-missing-display/"><u>Resolve the Mystery: Ultimate Guide to Fixing Google Chrome's Missing Display</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-black-ops-cold-war-error-code-0xc0000005-on-steam/"><u>Resolved: Fixing the 'Black Ops Cold War - Error Code 0xC0000005' On Steam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-persistent-game-crashes-in-alien-fireteam-elite-on-windows-systems/"><u>Ultimate Fix for Persistent Game Crashes in Alien: Fireteam Elite on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-flicker-problems-solved-ultimate-troubleshooting-steps-for-gamers/"><u>Warzone Flicker Problems Solved? Ultimate Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-tips-on-developing-your-own-coding-portfolio-successfully/"><u>ZDNet’s Expert Tips on Developing Your Own Coding Portfolio Successfully</u></a></li>
+</ul></div>
 

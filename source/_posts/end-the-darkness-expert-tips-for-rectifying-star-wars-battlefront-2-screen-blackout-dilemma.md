@@ -1,7 +1,7 @@
 ---
 title: "End the Darkness: Expert Tips for Rectifying Star Wars Battlefront 2 Screen Blackout Dilemma"
-date: 2024-09-01T04:11:28.493Z
-updated: 2024-09-02T04:11:28.493Z
+date: 2024-11-05T18:23:00.403Z
+updated: 2024-11-06T23:02:39.598Z
 tags:
   - win11
   - win10
@@ -35,17 +35,30 @@ thumbnail: https://thmb.techidaily.com/4c4986b04e4e4ffb246b5a08b4cb8ab42716db3ec
 1. Right-click the**Minecraft Launcher** icon, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of Minecraft and cause the black screen issue. To ensure the game functions properly, you should **add Minecraft Launcher as an exception to your antivirus software** . This will vary depending on the antivirus software you’re using.
@@ -66,11 +79,15 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -79,8 +96,12 @@ If the issue remains, move on to the next fix.
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Set the anti-aliasing to default
 
  If you had changed the Minecraft anti-aliasing settings from default, you may experience a black screen on launch. To fix it, you can reset your video settings to default. Here’s how:
@@ -91,9 +112,14 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 6. Relaunch Minecraft to see if the problem is solved.
@@ -103,8 +129,12 @@ If the issue remains, move on to the next fix.
 If this method doesn’t do the trick, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Close unnecessary programs
 
  If you’re running multiple programs at the same time when playing Minecraft, there is a chance that one of your programs conflicts with the game. Besides, too many applications running in the background will consume more resources, which could cause the black screen issue. So we recommend that you close all unnecessary programs during the gameplay. To do so:
@@ -126,9 +156,6 @@ If not, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke the Run box, type**%appdata%.minecraft** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
@@ -136,9 +163,6 @@ If not, try the next fix.
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -155,8 +179,6 @@ If not, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +186,23 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-visual-vault-visitor/"><u>[New] 2024 Approved Visual Vault Visitor</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-exhaustive-breakdown-of-vsco-photography-tool/"><u>[Updated] In 2024, Exhaustive Breakdown of VSCO Photography Tool</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-vivo-x-fold-2-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Vivo X Fold 2 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-against-league-of-legends-connectivity-problems-overcoming-the-202reconnect-loop/"><u>Battle Against League of Legends Connectivity Problems: Overcoming the 202^Reconnect Loop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2e42-pc-upgrades-solving-the-challenges-of-fps-dips-and-inconsistent-frame-drops/"><u>Battlefield 2E42 PC Upgrades: Solving the Challenges of FPS Dips and Inconsistent Frame Drops</u></a></li>
+<li><a href="https://techidaily.com/engage-more-with-bing-chats-enhanced-dialogue-capabilities/"><u>Engage More with Bing Chat's Enhanced Dialogue Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-compiling-shaders-errors-for-call-of-duty-black-ops-cold-war-now-solved/"><u>Fixing 'Compiling Shaders' Errors for Call of Duty Black Ops Cold War - Now Solved!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-tecno-spark-10-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Tecno Spark 10 Pro PIN</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-start-fallout-3-latest-strategies-and-solutions/"><u>How to Successfully Start Fallout 3? Latest Strategies & Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-gadgets-and-pcs-the-toms-expertise-collection/"><u>Mastering Gadgets and PCs: The Tom's Expertise Collection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-mobility-the-ultimate-guide-to-using-portable-driver-easy/"><u>Mastering Mobility: The Ultimate Guide to Using Portable Driver Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-directx-challenges-easy-fixes-for-fifa-aturated-but-they-can-be-managed-with-appropriate-treatment-and-care-strategies/"><u>Overcoming DirectX Challenges: Easy Fixes for FIFA Aturated, but They Can Be Managed with Appropriate Treatment and Care Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/smartphone-selection-head-to-head-is-iphone-or-android-your-best-bet/"><u>Smartphone Selection Head-to-Head: Is iPhone or Android Your Best Bet?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723262284445-sticking-to-plans-the-much-awaited-ryzen-5000xt-series-drops-this-month-as-promised-by-amd/"><u>Sticking to Plans: The Much-Awaited Ryzen 5000XT Series Drops This Month, as Promised by AMD.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-hitman-3-from-crashing-on-your-computer-essential-fixes-and-tips-for-players-2024-edition/"><u>Stop HITMAN 3 From Crashing on Your Computer: Essential Fixes & Tips for Players, 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-hitman-3-connection-refused-problems/"><u>Troubleshooting Steps for Hitman 3 'Connection Refused' Problems</u></a></li>
+</ul></div>
 

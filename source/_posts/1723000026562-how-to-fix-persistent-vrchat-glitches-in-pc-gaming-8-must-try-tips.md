@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent VRChat Glitches in PC Gaming - 8 Must-Try Tips
-date: 2024-09-01T04:15:32.951Z
-updated: 2024-09-02T04:15:32.951Z
+date: 2024-11-05T01:50:56.554Z
+updated: 2024-11-06T18:13:20.314Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 7. [**Turn off SteamVR Beta**](https://tools.techidaily.com/drivereasy/download/)
 8. [**Use VPN**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Reset your avatar to fix VRChat crashing
 
  If you can still access the game, you can press**Ctrl** + (the slash under Backspace) to reset your avatar to default. In most cases, the VRChat crashing issue can be simply caused by avatar issues.
@@ -42,11 +49,23 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 2. Right-click VRChat and select **Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/02/VRChat-Properties.jpg)
 3. Select the **Installed Files** tab and click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Update your GPU drivers
 
  For game players, the GPU driver plays a significant role in improving your game performance and ensuring a wonderful gaming experience. If the graphics card driver is outdated or corrupt, you will bump into various game issues such as the game crashing or not launching, and in your particular case – VRChat crashing.
@@ -59,6 +78,13 @@ There are two ways for you to update your drivers:
 
  Option 2 – **[Automatically (Recommended](https://www.drivereasy.com/knowledge/fix-vrchat-crashing/#o2)**  ) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  Graphics card manufacturers like NVIDIA and AMD keep releasing new drivers to fix bugs and improve performance, so you can always get the latest driver on their official website.
@@ -66,14 +92,16 @@ There are two ways for you to update your drivers:
 * [NVIDIA Driver Downloads](https://www.nvidia.com/Download/index.aspx?lang=en-us)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-driver-1.jpg)
 * [AMD Driver Downloads](https://www.amd.com/en/support)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/02/AMD-driver-downloads-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/02/AMD-driver-downloads-1.jpg)
+
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver. After that, don’t forget to restart your computer for the changes to take effect.
 
 ### Option 2: Update your graphics driver automatically
@@ -92,53 +120,54 @@ There are two ways for you to update your drivers:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Allow VRChat through firewalls
 
  VRChat crashing issue can also be caused by firewall blocking, so you need to allow your VRChat through Windows Firewall and any installed third-party antivirus applications.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 1: Add your VRChat through the firewall
 
 1. On your keyboard, press the **Windows** key and the**R** key simultaneously to open the Run box.
 2. Type **control firewall.cpl**  and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **VRChat** is on the list.
 5. If not, click the **Change settings** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**VRChat** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
  If you don’t know what the installation folder is for your VRChat, simply right-click on its shortcut and select **Open file location** .
 8. Find **VRChat.exe** and follow the on-screen instructions to make sure VRChat is added to the list and tick **Domain** , and **Public** . Once you’re done, click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Add VRChat as an exception in the Antivirus application
 
  If you’ve ever installed an antivirus program, you should follow the links below to exclude your VRChat in your antivirus app.
@@ -174,9 +203,6 @@ There are two ways for you to update your drivers:
 
  You can also check its **[support article](https://help.vrchat.com/kb/article/17-i-crashedcant-launch-vrchatother-issues/)**  to learn how to do it manually if the command doesn’t work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Create a VRChat account
 
  If the methods above failed to help, then you can try creating a new VRChat account then link your Steam/Oculus account with your VRChat account on[VRChat official website](https://www.vrchat.com/) .
@@ -210,8 +236,6 @@ To merge your Steam account with your VRChat account:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +243,23 @@ To merge your Steam account with your VRChat account:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-the-art-of-crafting-engaging-spotify-promos/"><u>[New] Mastering the Art of Crafting Engaging Spotify Promos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-maximize-page-reach-on-facebook-for-2024/"><u>[New] Maximize Page Reach on Facebook for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sensual-sequence-capturing-culinary-creativity-on-camera/"><u>[New] Sensual Sequence Capturing Culinary Creativity on Camera</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-upload-youtube-shorts-video-from-computer-and-mobile/"><u>[Updated] How to Upload YouTube Shorts Video From Computer and Mobile?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-igtv-essential-knowledge-and-usage/"><u>[Updated] In 2024, Navigating IGTV Essential Knowledge & Usage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-advanced-techniques-for-proximity-viewing-in-roblox/"><u>2024 Approved Advanced Techniques for Proximity Viewing in Roblox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/back-4-blood-and-ubisofts-battle-against-the-gobi-deadly-bug-solutions-for-unreal-engine-4-users/"><u>Back 4 Blood & Ubisoft's Battle Against the Gobi Deadly Bug: Solutions for Unreal Engine 4 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000054758-battlefield-2042-performance-optimized-no-more-fps-dips-or-hitches-on-your-computer/"><u>Battlefield 2042 Performance Optimized: No More FPS Dips or Hitches on Your Computer!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-re-establishing-connection-between-ps4-and-mic/"><u>Effective Solutions: Re-Establishing Connection Between PS4 and Mic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-common-problems-with-non-working-hp-displays/"><u>Expert Advice: Resolving Common Problems with Non-Working HP Displays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-ahead-of-the-game-rainbow-six-sieges-exciting-2024-line-up-what-to-look-forward-to/"><u>Get Ahead of the Game: Rainbow Six Siege’s Exciting 2024 Line-Up – What to Look Forward To</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-nvidia-geforce-overlay-problem-today-with-these-expert-tips/"><u>Resolve Your Nvidia GeForce Overlay Problem Today with These Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-arma-3-game-freezes-innovative-fixes-and-optimization-tips-released/"><u>Say Goodbye to Arma 3 Game Freezes: Innovative Fixes & Optimization Tips Released</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-vivo-y100i-power-5g-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-the-freezing-glitch-in-halo-infinite/"><u>Troubleshooting Tips: How to Fix the Freezing Glitch in Halo Infinite</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/webm-and-m4v-movavi/"><u>オンラインで免責提供のWebM & M4Vファイル変換 - Movavi</u></a></li>
+</ul></div>
 

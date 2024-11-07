@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Defeat Anthem's Persistent Startup Hurdle Successfully
-date: 2024-10-30T22:00:16.418Z
-updated: 2024-11-01T04:12:33.413Z
+date: 2024-11-04T18:27:17.040Z
+updated: 2024-11-06T19:20:17.067Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-defender-firewall-1.jpg)
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
@@ -58,10 +51,10 @@ thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
@@ -81,17 +74,17 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
 
@@ -116,6 +109,13 @@ Now see if you could start the game. If not, try the next method.
 
  A driver update should greatly improve your game experience. But if this doesn’t resolve the problem, check out the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Run Lost Ark as an administrator
 
  Due to the lack of administrative rights, a program or game may not access certain files and therefore fails to launch. To avoid permission issues like this, you should run Lost Ark as an administrator as follow.
@@ -139,15 +139,22 @@ Now see if you could start the game. If not, try the next method.
 2. Select the program and click**End task** until you close all the unneeded applications.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
 
@@ -160,16 +167,23 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
+
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7 – Repair the system files
 
@@ -183,30 +197,16 @@ Now see if you could start the game. If not, try the next method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your game and check if Lost Ark goes back to the normal state.
 
@@ -232,18 +232,19 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-do-evaluation-blogs-get-payments-for-products/"><u>[New] 2024 Approved Do Evaluation Blogs Get Payments for Products?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/"><u>[Updated] 2024 Approved The Blueprint for Designing Eye-Catching Thumbnails for Your YouTube Channel</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/acclaimed-strategies-for-video-repair/"><u>Acclaimed Strategies for Video Repair</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-lowering-ping-rates-for-a-better-experience-in-co-op-shooter-back-4-blood/"><u>Expert Tips on Lowering Ping Rates for a Better Experience in Co-Op Shooter 'Back 4 Blood'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-lost-ark-from-crashing-on-your-computer/"><u>Fixes and Solutions: How To Stop 'Lost Ark' From Crashing on Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-samsung-galaxy-a25-5g-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Samsung Galaxy A25 5G using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-the-social-media-symphony-composing-jake-pauls-youtube-success/"><u>In 2024, The Social Media Symphony Composing Jake Paul's YouTube Success</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722991489146-pc-users-rejoice-sword-stories-volume-7-crash-issues-now-fixed-on-desktop-gaming/"><u>PC Users Rejoice: Sword Stories Volume 7 Crash Issues Now Fixed on Desktop Gaming!</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-spark-10-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-infinix-note-30-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Infinix Note 30 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-top-virtualdub-replacements-for-video-editing-for-2024/"><u>Updated Top VirtualDub Replacements for Video Editing for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/verification/"><u>Verification</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-elevate-photos-selecting-a-robust-text-editor/"><u>[New] 2024 Approved Elevate Photos Selecting a Robust Text Editor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-alchemy-transforming-videos-through-music-addition-and-cutting/"><u>[Updated] Audio Alchemy Transforming Videos Through Music Addition & Cutting</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-v27-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo V27 Pro without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-v-purse-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor V Purse</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/is-product-review-vlog-paid/"><u>Is Product Review Vlog Paid</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-clean-data-a-step-by-step-guide-to-applying-the-trim-function-in-ms-excel/"><u>Mastering the Art of Clean Data: A Step-by-Step Guide to Applying the TRIM Function in MS Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastery-tip-seamlessly-integrating-data-across-columns-in-ms-excel/"><u>Mastery Tip: Seamlessly Integrating Data Across Columns in MS Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-conditional-formulas-with-isxl-functions-in-excel/"><u>Navigating Through Conditional Formulas with ISXL Functions in Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-collaboration-using-google-drive-for-microsoft-office-file-management/"><u>Seamless Collaboration: Using Google Drive for Microsoft Office File Management</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sharing-and-implementing-consistent-style-templates-across-excel-spreadsheets/"><u>Sharing and Implementing Consistent Style Templates Across Excel Spreadsheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/spotting-redundancies-with-ease-effective-strategies-for-conditional-formatting-in-excel/"><u>Spotting Redundancies with Ease: Effective Strategies for Conditional Formatting in Excel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/standout-book-trailer-highlights/"><u>Standout Book Trailer Highlights</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-c53-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme C53 | Dr.fone</u></a></li>
 </ul></div>
 

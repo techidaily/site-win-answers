@@ -1,7 +1,7 @@
 ---
 title: How to Prevent 'Tales of Arise' From Crashing – Best Troubleshooting Methods
-date: 2024-09-01T04:08:45.447Z
-updated: 2024-09-02T04:08:45.447Z
+date: 2024-11-02T19:21:47.615Z
+updated: 2024-11-07T04:18:59.534Z
 tags:
   - win11
   - win10
@@ -45,11 +45,21 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 3. It may take a while for Steam to complete the scan. If any game files are found corrupted or missing, Steam will replace or add the new game files for you.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If verifying and repairing the game files doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Close unnecessary background programs
 
  Applications running in the background could interfere with Lost Ark and cause the crashing issue. Or, these programs may take up the resources that are required for the game and thus throttle the game performance. You can kill the processes via the Task Manager and see if it helps. Here’s how:
@@ -57,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 1. Press**Ctrl** and**Shift** and**Esc** at the same time to open the Task Manager.
 2. Under the**Processes** tab, look for the processes that are eating up the resources. Right-click the process and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  PS: there are some known**programs that may interfere with Steam games** . If you’re not sure which programs seem to have triggered the crashing issue, feel free to refer to the list below and check your PC.
 
@@ -70,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
  Launch Lost Ark to test if the crashing issue is fixed now. If the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your graphics driver
 
  Lost Ark crashing may suggest a driver issue because the latest GPU drivers are essential for video games. If your graphics driver is outdated or faulty, it could affect your gaming performance, and you may even get errors and crashes.
@@ -87,8 +101,12 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -96,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/d1a4704b31151e9550e9b3ab1b575cfa25b0e8f64
 
 If this doesn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Fix 4: Make sure your system is up-to-date
 
  Another quick but effective fix is to install all the Windows updates. You want to make sure your system is up-to-date so the known system bugs can be fixed. It may also solve compatibility issues with programs on your PC, especially a large game like Lost Ark, and help with the crashing issue.
@@ -109,9 +123,6 @@ If this doesn’t help, move on to the next fix.
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  It’s important that Lost Ark is not running while Windows is installing the updates in the background. When Windows is writing data into the drive, it could interfere with the gameplay.  
   
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check that the Windows Update client is not running while you’re playing Lost Ark.
@@ -132,9 +143,6 @@ If the crashing issue persists, try the next fix.
 
  Some players found that overlays have caused Lost Ark to crash randomly, and the issue didn’t return when they turned off the overlays. You can give it a try as well to see if it helps with your crashing issue. Here’s how:
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Steam
 
 1. Launch Steam, and navigate to **Settings >> In-game** .
@@ -147,10 +155,14 @@ If the crashing issue persists, try the next fix.
 1. In your Steam library, right-click Lost Ark and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties.jpg)
 2. Under the **General tab** ,**toggle off Enable the Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
 ### Discord
@@ -158,19 +170,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Launch Discord. On the bottom-left, click the**gear-shaped icon** to open the user settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find**Game Overlay** . Toggle off**Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
 3. Run Lost Ark and test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
  If disabling the overlays doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Fix 7: Perform a clean boot
 
  The fixes above mostly cover the interference by the third-party programs, but we need to check Windows services as well. By doing a clean boot, you can identify if there’s any background service messing with Lost Ark.
@@ -182,19 +195,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run dialog box. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Go to the**Startup** tab, click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
  You can now launch Lost Ark to test if you still get errors and crashes. If the issue persists, jump to the[last fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -205,11 +227,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run dialog box. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch Lost Ark. If the game once again crashes, then you know that one of the services you ticked above is conflicting with it. If Lost Ark runs just fine, then the above five services are fine, and you’ll have to keep looking for the offending service.
@@ -224,6 +241,14 @@ The powerful video editing program for your Windows PC</a>
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Lost Ark.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with Lost Ark.
 5. Disable the problem program and reboot your PC.
 
@@ -245,28 +270,8 @@ The powerful video editing program for your Windows PC</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -283,8 +288,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -292,4 +295,20 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-decoding-twitter-archived-content-for-clarity/"><u>[New] 2024 Approved Decoding Twitter Archived Content for Clarity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-reimagined-review-sonys-s6700-overhaul/"><u>[New] 2024 Approved Reimagined Review Sony's S6700 Overhaul</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-defeat-dev-error-6068-mastering-the-fix-for-microsoft-wow64-issue-on-fortnite-battle-royale-2024-techniques/"><u>[Solution Guide] Defeat Dev Error #6068: Mastering the Fix for Microsoft WOW64 Issue on Fortnite Battle Royale - 2024 Techniques</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/audiophiles-companion-best-cd-players-and-changers-24/"><u>Audiophile’s Companion: Best CD Players & Changers '24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-teardown-troubleshooting-end-crash-issues-forever/"><u>Comprehensive Teardown Troubleshooting: End Crash Issues Forever!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-restarting-and-repairing-intel-graphics-assistant-functionality/"><u>Expert Advice on Restarting and Repairing Intel Graphics Assistant Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fixing-compatibility-solutions-for-realtek-alc887-sound-drivers-in-windows/"><u>Fixing Compatibility: Solutions for Realtek ALC887 Sound Drivers in Windows</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-mobilesync-facebook-video-grabber/"><u>In 2024, Mobilesync Facebook Video Grabber</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000200757-no-more-lags-resolving-fps-drops-eradicating-gameplay-hiccups-and-boosting-performance/"><u>No More Lags: Resolving FPS Drops, Eradicating Gameplay Hiccups & Boosting Performance.</u></a></li>
+<li><a href="https://win11.techidaily.com/resolve-javascript-catastropes-windows-11-and-11-s-solutions-for-discord/"><u>Resolve Javascript Catastropes: Windows 11 & 11 S Solutions for Discord</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-scaffolding-platforms-that-build-community-bonds/"><u>Social Scaffolding: Platforms That Build Community Bonds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-division-2-enhancing-gameplay-by-tackling-low-fps-and-smoothing-out-stutters/"><u>The Division 2: Enhancing Gameplay by Tackling LOW FPS and Smoothing Out Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-fifa-21-wont-start-up/"><u>Troubleshooting: Why FIFA 21 Won't Start Up</u></a></li>
+</ul></div>
 

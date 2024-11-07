@@ -1,7 +1,7 @@
 ---
 title: "Mastering COD: Modern Warfare - Insider Tips on FPS Drops and Enhanced Gaming Experience"
-date: 2024-09-01T04:09:51.363Z
-updated: 2024-09-02T04:09:51.363Z
+date: 2024-11-01T19:55:36.225Z
+updated: 2024-11-06T21:33:51.370Z
 tags:
   - win11
   - win10
@@ -66,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -86,9 +93,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-csan-screen-2.png)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
@@ -107,10 +111,6 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to boost FPS in the game. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
@@ -120,21 +120,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Lower the in-game graphics settings
 
 1. Launch DayZ and modify the following in-game video settings:  
@@ -163,9 +169,23 @@ See if you can play the game smoothly. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Temporarily disable the third-party antivirus application
 
@@ -188,22 +208,20 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Adjust your Windows system for the best performance
 
  If your PC fails to meet the recommended system requirements for DayZ, try adjusting your Windows system for the best performance. Here is how to do it:
@@ -211,12 +229,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
 
@@ -233,8 +255,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +262,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-creative-curvature-enhancing-imagery-with-text-shaping/"><u>[New] 2024 Approved Creative Curvature Enhancing Imagery with Text Shaping</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>[New] 2024 Approved Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-premium-free-lut-options-a-guide-to-quality-tools/"><u>[New] Exploring Premium-Free LUT Options A Guide to Quality Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-perfecting-ephemeral-fades-in-digital-recording-software-audacity/"><u>[Updated] 2024 Approved Perfecting Ephemeral Fades in Digital Recording Software Audacity</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-flashback-snapshot/"><u>[Updated] 2024 Approved Vimeo Flashback Snapshot</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-resolve-logitech-g-hub-connectivity-problems-on-windows/"><u>Comprehensive Guide: Resolve Logitech G Hub Connectivity Problems on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000700193-cyberpunk-2077-encounters-fatal-error-2amf5-update-now/"><u>Cyberpunk 2077 Encounters Fatal Error 2Amf5 - Update Now!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/effortless-guide-to-retrieving-lost-or-vanished-documents-on-windows-10/"><u>Effortless Guide to Retrieving Lost or Vanished Documents on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-slow-gameplay-and-enhance-fps-on-watch-dogs-legion-expert-techniques/"><u>Fix Slow Gameplay & Enhance FPS on Watch Dogs: Legion – Expert Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-state-of-decay-2-crashes-ultimate-troubleshooting-guide/"><u>Fix Your State of Decay 2 Crashes : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-wmvm4v/"><u>Movaviの無料ツール - WMVとM4Vビデオ変換機能</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-utorrent-unresponsive-problems-with-these-7-reliable-methods/"><u>Solving 'UTorrent Unresponsive' Problems with These 7 Reliable Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-getting-tekken-8-running-on-your-pc-again/"><u>Step-by-Step Guide: Getting Tekken 8 Running on Your PC Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-installed-eac-required-message-during-game-bootup/"><u>Troubleshooting Guide: Installed EAC Required Message During Game Bootup</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-repairing-non-functional-subtitles-on-amazon-prime-videos/"><u>Troubleshooting Guide: Repairing Non-Functional Subtitles on Amazon Prime Videos</u></a></li>
+</ul></div>
 

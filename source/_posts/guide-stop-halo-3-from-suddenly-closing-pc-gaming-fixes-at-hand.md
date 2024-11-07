@@ -1,7 +1,7 @@
 ---
 title: "[Guide] Stop Halo 3 From Suddenly Closing – PC Gaming Fixes at Hand"
-date: 2024-09-01T04:16:34.027Z
-updated: 2024-09-02T04:16:34.027Z
+date: 2024-11-02T02:07:32.472Z
+updated: 2024-11-06T18:47:00.632Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 5. **[Change your game mode and correct the resolutions by modifying your game file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the frame rate](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify your game cache
 
  If your game freezes on Fallout 4 startup, it’s possible that the installation of Fallout 4 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -60,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Remove incompatible programs
 
  If you newly installed some thrid-party programs recently, it is possible they are incompatible with the Fallout 4 and cause the freezing issue. Also, some antivirus software (like Bitdefender) may block some features in Fallout 4 so that you’re encountering Fallout 4 freezing issue.  
@@ -72,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 
  If this resolves your problem, you may need to remove the program or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run your game in compatibility mode
 
  You may be having compatibility issues with your Fallout 4 so the game frozen in the midway. To fix these issues, you should try running your game in compatibility mode. Here’s how you can do it:
@@ -82,15 +83,16 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 1. Right click the _executable (.exe) file_ or the _shortcut_ for your game, then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cae670797.png)
 2. Click the **Compatibility** tab, check **Run this program in compatibility mode** , and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
 3. Run your game to see if this works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Outdated graphics drivers may cause the “Fallout 4 freezing” issue. So you can try to update the graphics driver to fix the problem.
@@ -108,8 +110,12 @@ thumbnail: https://thmb.techidaily.com/2387718b8db3694a51e607975c051578189e680f7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Change your game mode and correct the resolutions by modifying your game file
 
  If the above fixes fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
@@ -129,8 +135,12 @@ Here’s how you can do it:
 4. Run Fallout 4 to see if it goes smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will **slow down** or even**frozen** . **58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
@@ -155,8 +165,6 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +172,24 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-simplify-information-storage-via-mematic/"><u>[New] Simplify Information Storage via Mematic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-technicality-of-srgb-vs-rgb/"><u>[New] The Technicality of Srgb vs Rgb</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-the-complete-reference-to-display-recording-methods-for-2024/"><u>[Updated] The Complete Reference to Display Recording Methods for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-premiere-10-battle-royale-titles/"><u>2024 Approved Premiere 10 Battle Royale Titles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013034261-bid-farewell-to-devoltage-loop-crashes-on-pc-with-these-easy-fix-techniques/"><u>Bid Farewell To DeVoltage Loop Crashes on PC With These Easy Fix Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-2-fixing-lag-issues-and-frame-rate-drops-for-an-optimal-gaming-experience-on-pc/"><u>Dying Light 2: Fixing Lag Issues and Frame Rate Drops for an Optimal Gaming Experience on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tricks-for-a-smooth-launch-of-overwatch-2-addressing-common-problems/"><u>Expert Tricks for a Smooth Launch of Overwatch 2: Addressing Common Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/face-off-fun-the-coolest-two-person-phone-games-top-15/"><u>Face-Off Fun: The Coolest Two-Person Phone Games (Top 15)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-guide-to-mastering-zero-cost-timer-functionality/"><u>In 2024, Expert Guide to Mastering Zero Cost Timer Functionality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-hand-tracking-reference-guide/"><u>In 2024, The Ultimate Hand-Tracking Reference Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-baldurs-gate-performance-avoid-frustrations-learn-6-fixes-for-seamless-gameplay/"><u>Mastering Baldur's Gate Performance: Avoid Frustrations - Learn 6 Fixes for Seamless Gameplay!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/riconvertimento-gratuito-di-video-mpe-in-avi-su-internet-usando-movavi/"><u>Riconvertimento Gratuito Di Video MPE in AVI Su Internet Usando Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-launch-issues-with-pathfinder-wrath-of-the-righteous-game/"><u>Solving Launch Issues with Pathfinder: Wrath of the Righteous Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-troubleshooting-multiversus-startup-problems-on-your-computer/"><u>Solving The Issue: Troubleshooting MultiVersus Startup Problems On Your Computer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-blueprint-for-flawless-srt-construction-for-2024/"><u>The Ultimate Blueprint for Flawless SRT Construction for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-apex-legends-loading-problems-in-a-jiffy/"><u>Troubleshoot Apex Legends Loading Problems in a Jiffy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-freezing-issues-in-call-of-duty-warzone-20/"><u>Troubleshooting Persistent Freezing Issues in Call of Duty: Warzone 2.0</u></a></li>
+</ul></div>
 

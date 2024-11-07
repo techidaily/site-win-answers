@@ -1,7 +1,7 @@
 ---
 title: "Fixing Game Loop Issues: Resolving Crashes in Games on Windows 11 & 10"
-date: 2024-09-01T04:13:21.726Z
-updated: 2024-09-02T04:13:21.726Z
+date: 2024-11-02T19:06:39.237Z
+updated: 2024-11-06T22:07:41.205Z
 tags:
   - win11
   - win10
@@ -52,24 +52,23 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
  The privilege issue might be the reason for Fallout 3 freezing issue. With high integrity access, Fallout 3 can make full use of its features, so run it as an administrator to see if this fixes your freezes.
@@ -78,22 +77,40 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your graphics card drivers
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, your game may encounter freezes. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -125,14 +142,31 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -150,8 +184,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +191,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-chart-your-course-to-youtube-success-with-these-techniques/"><u>[New] In 2024, Chart Your Course to YouTube Success with These Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-step-by-step-locating-your-next-social-video-fb-2023/"><u>[New] Step-by-Step Locating Your Next Social Video (FB 2023)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-comprehensive-walkthrough-posting-imovie-videos-to-vimeo/"><u>[Updated] In 2024, Comprehensive Walkthrough Posting iMovie Videos to Vimeo</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-audiophiles-companion-to-top-tier-audio-equipment/"><u>[Updated] The Audiophile's Companion to Top-Tier Audio Equipment</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/best-wireless-lan-usb-devices-a-comprehensive-guide-to-2024s-top-picks/"><u>Best Wireless LAN USB Devices: A Comprehensive Guide to 2024'S Top Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-fixes-to-stop-crashes-during-your-battles-in-samurai-warriors-5-on-desktop/"><u>Common Fixes to Stop Crashes During Your Battles in Samurai Warriors #5 on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dayz-survival-master-the-art-of-looting-fast-and-effectively/"><u>DayZ Survival: Master the Art of Looting Fast & Effectively</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Huawei support AVCHD video?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-to-install-your-ricoh-printer-driver-in-windows-environment/"><u>Easy Steps to Install Your Ricoh Printer Driver in Windows Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-valorant-experience-5-essential-tips-for-overcoming-lag-and-boosting-fps-as-of-2024/"><u>Enhance Your 'Valorant' Experience: 5 Essential Tips for Overcoming Lag and Boosting FPS as of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-warframe-running-smoothly-fixes-for-game-launch-errors/"><u>Get Your Warframe Running Smoothly: Fixes for Game Launch Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007321465-how-to-fix-sims-4-lagging-on-pc-pro-tips-2024/"><u>How to Fix Sims 4 Lagging on PC - Pro Tips 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-repair-robocop-rogue-city-pc-game-from-unexpectedly-crashing/"><u>How To Prevent and Repair RoboCop: Rogue City PC Game From Unexpectedly Crashing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-90-pro-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor 90 Pro online without jailbreak</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-master-controls-navigating-the-world-of-switch-pro-and-steam-gaming/"><u>In 2024, Master Controls Navigating the World of Switch Pro and Steam Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-world-troubleshooting-how-to-fix-persistent-connection-errors-effectively/"><u>New World Troubleshooting: How to Fix Persistent Connection Errors Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-game-crashes-in-modern-warfare-2-6-essential-fixes-for-a-smoother-pc-experience/"><u>Overcome Game Crashes in Modern Warfare 2: 6 Essential Fixes for a Smoother PC Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2219139-9781608683376-sidewalk-oracles/"><u>Sidewalk Oracles | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-the-secrets-to-resolving-game-lag-in-call-of-duty-vanguard-for-free/"><u>Unlocking the Secrets to Resolving Game Lag in Call of Duty: Vanguard for Free</u></a></li>
+</ul></div>
 

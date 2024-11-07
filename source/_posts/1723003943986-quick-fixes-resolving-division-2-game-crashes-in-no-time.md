@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Resolving Division 2 Game Crashes in No Time!"
-date: 2024-09-01T04:17:13.498Z
-updated: 2024-09-02T04:17:13.498Z
+date: 2024-11-01T01:42:29.121Z
+updated: 2024-11-06T19:37:49.552Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 4. **[Repair damaged system files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Microsoft Office](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Update Windows
 
  If your system isn’t updated regularly, there could be compatibility issues between your computer and the applications, and thus with problems like the WINWORD.EXE application error. To make sure that you have the latest available updates installed:
@@ -36,13 +43,18 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try your MS Office Word again to see if the WINWORD.EXE application error remains. If the problem still persists, please move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Repair Microsoft Office Installation
 
  If you haven’t tried to reinstall your Steam to fix the corrupt disk error, it’s time to do it now: it’s fast and easy, and it’s usually the easiest way to fix minor bugs. To make sure the reinstallation is done correctly, please do the following:
@@ -52,21 +64,20 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Click**Microsoft 365** , and then click**Change** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-84.png)
 4. Click**QuickRepair** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-87.png)
 5. Then click**Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-86.png)
 6. You may have to restart your computer after the repair process is complete.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run MS Office Word again to see if the WINWORD.EXE application error is gone. If not, please continue.
 
@@ -81,8 +92,12 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt window, copy and paste the following command and hit**Enter** .
@@ -93,11 +108,20 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  4) After the scan, try to open your MS Office Word again to see if the crashing problem still persists. If so, move on to the next test:
+
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3.2 Run dism.exe
 
@@ -105,9 +129,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt window, copy and paste the following commands and hit**Enter** after each line:
@@ -129,8 +150,12 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  When these tests are done, run your MS Office Word again to see if it the WINWORD.EXE application error is fixed. If the problem still persists, please move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Repair damaged system files
 
  If the built-in SFC and DISM tools don’t help to fix the WINWORD.EXE application error, you may need a more powerful tool to**repair corrupted or damaged system files** .
@@ -147,6 +172,13 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Reinstall Microsoft Office
 
  If you haven’t tried to reinstall your Steam to fix the corrupt disk error, it’s time to do it now: it’s fast and easy, and it’s usually the easiest way to fix minor bugs. To make sure the reinstallation is done correctly, please do the following:
@@ -156,9 +188,14 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 2. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 3. Right-click**Microsoft Office 365** , then select **Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-88.png)
 4. Restart your computer afterward.
 5. Then **[download Microsoft 365](https://tools.techidaily.com/drivereasy/download/)**  again.
@@ -179,8 +216,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +223,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-boost-your-instagram-influence-5-key-tactics-for-enhanced-followers/"><u>[New] In 2024, Boost Your Instagram Influence 5 Key Tactics for Enhanced Followers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-inshot-showdown-expert-review-of-best-editing-software/"><u>2024 Approved InShot Showdown Expert Review of Best Editing Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-premium-cutter-writers-the-top-8-linux-software/"><u>2024 Approved Premium Cutter' Writers The Top 8 Linux Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-woes-conquer-dev-error-6328-with-our-in-depth-troubleshooting-guide-year-2024/"><u>Call of Duty Warzone Woes? Conquer Dev Error 6328 with Our In-Depth Troubleshooting Guide - Year 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/choosing-a-smart-doorbell-a-comparison-between-ring-and-nest-models/"><u>Choosing a Smart Doorbell: A Comparison Between Ring and Nest Models</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/english-accents-from-queens-english-to-aussie/"><u>English Accents: From Queen’s English to Aussie</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-fifa-22-gameplay-tips-to-prevent-crashing-on-desktop-systems/"><u>Enhance Your FIFA 22 Gameplay: Tips to Prevent Crashing on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-error-0x80131904-the-missing-fortnite-entry-dilemma/"><u>Expert Advice on Fixing Error 0X80131904 – The Missing Fortnite Entry Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-overcoming-game-errors-in-naraka-bladepoint/"><u>Expert Tips for Overcoming Game Errors in Naraka: Bladepoint</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-se-2020-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2020) Without Passcode Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashes-in-call-of-duty-modern-warfare-ii-for-pc/"><u>How to Fix Continuous Crashes in Call of Duty: Modern Warfare II for PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-vivo-v30-pro-easily-by-drfone-android/"><u>In 2024, How To Unlock a Vivo V30 Pro Easily?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-image-caption-manipulation/"><u>Innovative Image Caption Manipulation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004838263-outriders-visual-clarity-enhanced-resolving-blurry-issues/"><u>Outriders Visual Clarity Enhanced - Resolving Blurry Issues!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-guide-for-immediate-solution-to-division-2-game-crashes/"><u>Quick-Fix Guide for Immediate Solution to Division 2 Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-hogwarts-legacy-wont-start-problem-essential-troubleshooting-guide/"><u>Solving 'Hogwarts Legacy' Won't Start Problem : Essential Troubleshooting Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-10-insights-for-creating-hits-with-music-reaction-videos-for-2024/"><u>Top 10 Insights for Creating Hits with Music Reaction Videos for 2024</u></a></li>
+</ul></div>
 

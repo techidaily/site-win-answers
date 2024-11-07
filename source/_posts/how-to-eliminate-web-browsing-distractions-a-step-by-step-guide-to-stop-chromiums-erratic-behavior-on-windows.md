@@ -1,7 +1,7 @@
 ---
 title: "How to Eliminate Web Browsing Distractions: A Step-by-Step Guide to Stop Chromium's Erratic Behavior on Windows"
-date: 2024-09-01T04:10:30.498Z
-updated: 2024-09-02T04:10:30.498Z
+date: 2024-11-05T05:43:17.271Z
+updated: 2024-11-06T21:30:23.506Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check If your PC meets the minimum system requirements for Forza Horizon 4**
 
  Forza Horizon 4 may crash if your PC fails to meet its minimum hardware requirements. Check if your PC meets its minimum hardware requirements first:
@@ -69,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 
 **You may need to upgrade your hardware** if your PC fails to meet the minimum system requirements for Forza Horizon 4.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of Forza Horizon 4 release regular game patches to fix bugs.   **It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it** .
@@ -93,23 +107,34 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Update-drivers.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 4: Clear your standby memory before playing**
 
  If Forza Horizon 4 keeps crashing on your PC, it may also be triggered by some RAM issues. In this case, it is necessary to clear your standby memory before you play Forza Horizon 4\. You can clear your standby memory by using**RAMMap** , a freeware from Microsoft. Here is how to do it:
@@ -120,18 +145,10 @@ thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e708
 3. Extract the downloaded .zip file.**Right-click RAMMap.exe** and select**Run as administrator** . You’ll be prompted for permission. Click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap831.png)
 4. In RAMMap, click**Empty** and select**Empty Standby List** to clear your standby memory. This action would instantly restore free memory.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap832.png)
 
  Launch Forza Horizon 4 after you clear your standby memory. If the game doesn’t crash, congratulations! You’ve fixed this problem. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### **Fix 5: Disable your microphone for Forza Horizon 4**
 
  If you’ve enabled your microphone for Forza Horizon 4, it may be the cause of the crash issue. Just disable it to see whether the game will keep crashing or not. Here is how to do it:
@@ -139,14 +156,8 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. On your keyboard, press **the Windows logo key**  and **I**  at the same time to open the **Windows Settings** , and then click **Privacy**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap833.png)
 2. On the left panel, click**Microphone** . Then on the right,**Turn off** the toggle next to**Forza Horizon 4** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap834-1.png)
 3. Restart your Windows system and launch Forza Horizon 4 again.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if you resolved this problem. If it still keeps crashing, try the next fix, below.
 
@@ -164,6 +175,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap837.png)
 
  Launch Forza Horizon 4 to see if you fixed this issue. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 7: Add Forza Horizon 4 as an exception to your third-party antivirus application**
 
@@ -186,8 +204,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 9: Update your Windows system to the latest version**
 
  Sometimes the crash issue may occur if your Windows system is not the latest version. try updating your Windows system to the latest version and this issue may get resolved. Here is how to do it:
@@ -199,9 +221,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Restart your PC and launch Forza Horizon 4 again. See if you fixed this issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### **Fix 10: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can   **find out the problematic software that makes your game keep crashing** . Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -213,24 +232,22 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap845.png)
 6. Click **Restart**  to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap846.png)
 
 **Restart** your PC and run Forza Horizon 4 to check whether the problem reappears. If not, you need to open the **System Configuration**  window again to enable services and applications **one by one**  until you find the problematic software. After enabling each services, you need to restart  your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall**  it in order to resolve this  issue.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 11: Reinstall Forza Horizon 4**
 
@@ -239,15 +256,22 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press **the Windows logo key**  and type **Forza Horizon 4** . When you see **Forza Horizon 4**  in the list of results,**right-click** it and then select **Uninstall**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap847-1.png)
 2. Click **Uninstall**  to uninstall Forza Horizon 4.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap848.png)
 3. Open the**Microsoft** **Store**  app. In the search bar, type **f** **orza horizon 4** and click the **Search**  button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap850.png)
 4. Select the game you purchased before to start installing the game.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
@@ -264,8 +288,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +295,20 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-from-zero-to-twitter-an-instagram-guide/"><u>[New] From Zero to Twitter An Instagram Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/treaming-tunes-quick-methods-for-youtube-videos-in-imovie/"><u>[New] Streaming Tunes Quick Methods for Youtube Videos in iMovie</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-picks-timeless-melodies-from-iconic-animes/"><u>[New] Top Picks Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-quick-guide-to-starting-an-instagram-live-show/"><u>[Updated] Quick Guide to Starting an Instagram Live Show</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-audio-techniques-capturing-clear-sound/"><u>2024 Approved Essential Audio Techniques Capturing Clear Sound</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/7-exceptional-drone-gimbals-unveiled/"><u>7 Exceptional Drone Gimbals Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-confrontation-analysis-how-does-chatgpt-measure-up-to-google-bard/"><u>AI Confrontation Analysis: How Does ChatGPT Measure Up to Google Bard?</u></a></li>
+<li><a href="https://win-unique.techidaily.com/benefits-of-creating-a-clone-copy-of-your-windows-10-system/"><u>Benefits of Creating a Clone Copy of Your Windows 10 System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gameplay-ultimate-tips-to-enhance-fps-and-eliminate-stutters-in-valorant/"><u>Boost Your Gameplay: Ultimate Tips to Enhance FPS & Eliminate Stutters in Valorant</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-2-wont-start-heres-how-to-resolve-the-problem/"><u>Crusader Kings 2 Won't Start? Here's How to Resolve the Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992127345-discord-and-javascript-woes-heres-how-to-fix-them/"><u>Discord and JavaScript Woes? Here’s How to Fix Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-missing-msvcr110dll-issue-in-helldivers-2/"><u>Resolving the Missing MSVCR110.DLL Issue in Helldivers 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/starcraft-2-pc-compatibility-fixing-instances-of-the-game-shutting-down-unexpectedly/"><u>Starcraft 2 PC Compatibility: Fixing Instances of the Game Shutting Down Unexpectedly</u></a></li>
+</ul></div>
 

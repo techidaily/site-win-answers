@@ -1,7 +1,7 @@
 ---
 title: Solving the Issue of Frequent Crashes in Forza Horizon 5 on Your Windows Computer
-date: 2024-09-01T04:09:20.979Z
-updated: 2024-09-02T04:09:20.979Z
+date: 2024-11-06T01:42:53.805Z
+updated: 2024-11-06T22:56:39.360Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. If you’re using an outdated graphics driver, it could result in game glitches and long rendering time. So try updating your graphics driver and then running the game again.
@@ -65,18 +62,18 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -87,8 +84,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 If Disco Elysium still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4 – Disable extraneous software
 
  Game performance issues will happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -101,9 +102,6 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -124,12 +122,16 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -140,6 +142,13 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 **5)**  Relaunch Disco Elysium.
 
 If your game still crashes after this, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 – Stop overclocking
 
@@ -159,6 +168,13 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Restart Steam and reinstall the game.
 
 **5)** Relaunch your game.
@@ -173,21 +189,21 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
 If the game still crashes, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 9 – Run as administrator
 
  Running your computer under a standard user mode can give a hard time to gameplay as limited user rights may cause problems when your game tries to access certain game files.
@@ -199,15 +215,16 @@ To run your game as administrator, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Repeat steps 1-2 to grant Steam admin rights.
 
 5) Relaunch the game to see if it works now.
@@ -224,8 +241,6 @@ To run your game as administrator, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +248,23 @@ To run your game as administrator, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-exploring-the-new-frontier-a-comparative-study-on-tiktok-and-triller-for-2024/"><u>[New] Exploring the New Frontier A Comparative Study on TikTok & Triller for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/inancial-gains-the-youtube-money-flow-from-1m-views-for-2024/"><u>[New] Financial Gains The Youtube Money Flow From 1M Views for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-streamlining-communication-utilizing-masks-and-filters/"><u>[New] In 2024, Streamlining Communication Utilizing Masks and Filters</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-enhancing-social-media-strategy-facebook-whatsapp-video-sharing/"><u>[Updated] 2024 Approved Enhancing Social Media Strategy Facebook-WhatsApp Video Sharing</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-itel-s23plus-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Itel S23+ FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-resolving-rdr2s-errgfxstate-error-for-a-smoother-gameplay-experience/"><u>Expert Advice on Resolving RDR2's ERR_GFX_STATE Error for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-hitman-3-error-connectivity-trouble-no-more/"><u>Expert Tips for Fixing Hitman 3 Error: Connectivity Trouble No More</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>In 2024, Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
+<li><a href="https://win-answers.techidaily.com/kodi-keeps-crashing-fixed/"><u>Kodi Keeps Crashing [Fixed]</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/meet-fistn-balumbu-your-go-to-midmarket-sales-strategist-at-leading-software-giant-abbyy/"><u>Meet Fistn Balumbu - Your Go-To Midmarket Sales Strategist at Leading Software Giant, ABBYY</u></a></li>
+<li><a href="https://win-answers.techidaily.com/next-level-fixes-for-the-infamous-mw-warzone-error-6066-in-preparation-gaming-season/"><u>Next-Level Fixes for the Infamous MW: Warzone Error 6066 in Preparation Gaming Season</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722986091869-overwatch-stuttering-heres-the-fix/"><u>Overwatch Stuttering? Here’s the Fix!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-infinix-hot-30i-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Infinix Hot 30i</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721267906437-revive-your-crashed-photographs-with-no-cost-repair-software-download-today/"><u>Revive Your Crashed Photographs with No Cost Repair Software - Download Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-connectivity-issues-in-mlb-the-show-21/"><u>Troubleshooting Guide: Overcoming Connectivity Issues in MLB The Show 21</u></a></li>
+<li><a href="https://win-answers.techidaily.com/use-ovenproof-gloves-when-handling-hot-tiles-to-avoid-burns/"><u>Use Ovenproof Gloves when Handling Hot Tiles to Avoid Burns.</u></a></li>
+</ul></div>
 

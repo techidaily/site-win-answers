@@ -1,7 +1,7 @@
 ---
 title: Cod Warzone Error Code 6328 Decoded - Best Fixes and Tips for Gamers
-date: 2024-09-01T04:13:54.836Z
-updated: 2024-09-02T04:13:54.836Z
+date: 2024-11-04T16:59:59.404Z
+updated: 2024-11-07T04:08:55.797Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ This can be done by verifying the game files in Steam.
 
  That will scan your game directory and compare it to the most updated version to find file differences and download files it’s missing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 2\. Check if you’re playing different styles
 
  This error**Terraria Lost Connection** will occur if you don’t have a character to coordinate with the type of map.
@@ -67,16 +64,25 @@ This can be done by verifying the game files in Steam.
 2. From the left menu, select **Turn Windows Defender Firewall on or off** .  
 ![turn off firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/Turn-on-or-off.jpg)
 3. Select **Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network, and Public network. Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![turn off firewall for all](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After turning off your firewall, restart Terraria to check if the**Connection Lost in Terraria** has been solved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 4\. Update your network adapter driver
 
  If the network adapter driver you’re using is faulty or outdated, you will possibly encounter this ‘Lost Connection’ error in Terraria. To fix the potential problems and ensure less lagging, you should install the latest network driver on your computer.
@@ -94,10 +100,21 @@ This can be done by verifying the game files in Steam.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 4. Restart your PC and try to start your Terraria to see if this helps get rid of the ‘Lost Connection’ error.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Enable port forwarding
 
@@ -116,14 +133,24 @@ This can be done by verifying the game files in Steam.
 1. Type**cmd** in the Windows search bar and select**Command Prompt** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win-11-cmd-command-prompt.jpg)
 2. Type in**ipconfig /all** and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take note of the following:**IPv4 Address, Subnet Mask, Default Gateway** and**DNS Servers** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste it to your browser’s address bar.
@@ -134,9 +161,6 @@ This can be done by verifying the game files in Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click**Internet Protocol Version 4 (TCP/IPv4)** from the list.  
@@ -148,6 +172,13 @@ This can be done by verifying the game files in Steam.
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click**OK** to apply.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 3\. Set up Port Forwarding
 
 1. On your web browser, enter the IP address of the router (**Gateway Address** ).
@@ -156,9 +187,6 @@ This can be done by verifying the game files in Steam.
 
 ![server](https://images.drivereasy.com/wp-content/uploads/2021/07/servers.jpg)
 4. Enter the IP Address of your PC in the relevant box.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose both **TCP** and**UDP** ports for your games in the appropriate box (we suggest a number above 5,000 and usually**7777** ).  
 
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
@@ -172,9 +200,14 @@ This can be done by verifying the game files in Steam.
 2. Type in**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 3. Right-click Terraria and select**Uninstall** .
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Download and install Terraria again, and restart your computer to check if the ‘Lost Connection’ issue is fixed by now.
 
 ---
@@ -192,8 +225,6 @@ This can be done by verifying the game files in Steam.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +232,21 @@ This can be done by verifying the game files in Steam.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-innovative-5-tech-solutions-for-capturing-video-calls/"><u>[New] 2024 Approved Innovative 5 Tech Solutions for Capturing Video Calls</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mac-to-snapchat-creating-compact-shareable-content/"><u>[New] 2024 Approved Mac to Snapchat Creating Compact, Shareable Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-secrets-revealed-mastering-minecraft-recordings-on-a-macbook-pro/"><u>[New] 2024 Approved Secrets Revealed Mastering Minecraft Recordings on a MacBook Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-record-wizard-for-win11-enthusiasts-for-2024/"><u>[New] Screen Record Wizard for Win11 Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-detailed-analysis-djis-raptor-4-vr-goggle-features/"><u>2024 Approved A Detailed Analysis DJi's Raptor 4 VR Goggle Features</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acurite-pro-weather-station-01036m-review-simple-setup-robust-design/"><u>AcuRite Pro Weather Station 01036M Review: Simple Setup, Robust Design</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-helldivers-2s-startup-glitch-a-complete-guide-to-restoring-gameplay-from-black-screen-errors/"><u>Beating Helldivers 2'S Startup Glitch: A Complete Guide to Restoring Gameplay From Black Screen Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-gaming-performance-in-warzone-by-fixing-gpu-recognition-on-windows-11/"><u>Boosting Gaming Performance in Warzone by Fixing GPU Recognition on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-gameplay-with-these-tips-to-resolve-low-fps-in-splitgate/"><u>Enhance Your Gameplay with These Tips to Resolve Low FPS in Splitgate</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hartelijk-dank-voor-jouw-inspanningen-en-hulpverlening/"><u>Hartelijk Dank Voor Jouw Inspanningen En Hulpverlening!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-smooth-gameplay-resolving-frame-rate-problems-on-avatars-frontier-adventure/"><u>Mastering Smooth Gameplay: Resolving Frame Rate Problems on Avatar’s Frontier Adventure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-gameplay-ultimate-solutions-for-lag-in-resident-evil-village-on-pc/"><u>Optimize Your Gameplay: Ultimate Solutions for Lag in Resident Evil Village on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/proven-strategies-for-successful-youtube-shorts-for-2024/"><u>Proven Strategies for Successful YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-pc-issues-with-resident-evil-village-a-comprehensive-guide/"><u>Resolve Your PC Issues with Resident Evil Village: A Comprehensive Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips
-date: 2024-10-26T02:27:46.086Z
-updated: 2024-11-01T05:24:08.237Z
+date: 2024-11-04T01:08:10.021Z
+updated: 2024-11-06T18:37:35.799Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Serious Sam 4 is available now! But players have reported some issues like crash
 10. **[Set priority to realtime](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 12. **[Disable overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your PC meets the specs
 
@@ -77,6 +84,13 @@ Here are the minimum and recommended system requirements for the game:
 
  In the bottom-left corner of your Windows desktop screen, click Start![](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) \> Settings![](https://images.drivereasy.com/wp-content/uploads/2020/09/settings-icon.png) . Then in the Windows Updates section, if you see there are**Updates available** , click**Download** and you should restart your computer to make it take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![check for Windows Update](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-updates-available-1200x718.png)
 
  If you’ve checked that your system perfectly meets these requirements but just can’t really run the game smoothly, don’t worry. You can try the fixes listed below.
@@ -94,10 +108,16 @@ Here are the minimum and recommended system requirements for the game:
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) release updates for their drivers regularly. All you need to do is go to the official website of your graphics card manufacturer. Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers. For Nvidia users, you can also use GeForce Experience to check for the driver.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
@@ -129,6 +149,13 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Run Steam as an administrator
 
  Granting Steam with administrator rights can solve many issues including the crashing issue. So you should run Steam as an administrator.
@@ -148,13 +175,6 @@ Here’s how to update drivers with Driver Easy:
 If this didn’t work, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Allow your game through controlled folder access
 
@@ -178,13 +198,6 @@ To do so, you can:
  4) Click**Add an allowed app** **\> Browse all apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Then navigate to the game’s installation folder and select**Sam4.exe** .
 
@@ -240,13 +253,6 @@ To do so, you can:
 
 ![set launch options to fix Serious Sam 4 crashing and stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/Steam-set-launch-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the text box, type**+gfx\_strAPI Vulkan** and click**OK** .
 
 ![set launch options serious sam 4 crash or shutter](https://images.drivereasy.com/wp-content/uploads/2020/09/select-options-2-1.png)
@@ -265,13 +271,6 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-1-1200x516.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Then select**GRAPHICS OPTIONS** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-2-1200x540.png)
@@ -281,6 +280,19 @@ After you’ve done these, relaunch your game.
  After this, click**APPLY** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-5.png)
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**YES** when you’re asked**DO YOU WANT TO KEEP THESE SETTINGS?** .
 
@@ -305,22 +317,15 @@ After you’ve done these, relaunch your game.
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/set-priority-as-real-time-2-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 11: Perform a clean boot
 
@@ -336,15 +341,22 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-3-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After restarting your computer, launch your game to see if it fixes the issue. If not, move on to the next method.
@@ -378,21 +390,24 @@ Here’s how you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mobile-led-photography-transform-your-images-easily/"><u>[New] Mobile-Led Photography Transform Your Images Easily</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-tops-in-vocal-transformation-tech-featuring-magic/"><u>[New] Tops in Vocal Transformation Tech, Featuring Magic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gaming-for-everyone-accessible-channels/"><u>[Updated] 2024 Approved Gaming for Everyone Accessible Channels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-jumpstart-your-journey-learning-snapseed-techniques-for-2024/"><u>[Updated] Jumpstart Your Journey Learning Snapseed Techniques for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-enhancing-photos-with-top-10-screenshot-charmers/"><u>[Updated] Ultimate Guide to Enhancing Photos with Top 10 Screenshot Charmers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-gopro-karma-drone-review/"><u>2024 Approved GoPro Karma Drone Review</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992658234-easy-solution-to-tackle-the-origin-crash-bug-swiftly-and-effectively/"><u>Easy Solution to Tackle the 'Origin Crash' Bug Swiftly and Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-fatal-error-in-apex-legends-masterclass-guide-for-ue4-users/"><u>Fixing 'Fatal Error' In Apex Legends - Masterclass Guide for UE4 Users</u></a></li>
-<li><a href="https://network-issues.techidaily.com/optimal-screen-resolution-fix-available-windows-10/"><u>Optimal Screen Resolution: Fix Available, Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-roblox-pc-freezing-issues-top-six-strategies-fast-fixes/"><u>Solve Roblox PC Freezing Issues: Top Six Strategies | Fast Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-troubleshooting-step-by-step-solutions-for-fixing-error-code-130/"><u>Steam Troubleshooting: Step-by-Step Solutions for Fixing Error Code 130</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-review-of-hp-omnibook-x-extending-workdays-with-its-powerful-16-hour-battery-life-and-innovative-xpower-tech/"><u>The Ultimate Review of HP OmniBook X: Extending Workdays with Its Powerful 16-Hour Battery Life and Innovative XPower Tech</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-station-reviews-comprehensive-analysis-by-industry-experts-techradar/"><u>Top Rated Portable Power Station Reviews : Comprehensive Analysis by Industry Experts | TechRadar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-forza-horizon-5-pc-game-crashes/"><u>Troubleshooting Steps for Resolving Forza Horizon 5 PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-city-skylines-game-crashes/"><u>Ultimate Guide to Resolving City Skylines Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-fight-against-ntdlldll-crashes-on-windows-1110-solution-successfully-implemented/"><u>Winning the Fight Against ntdll.dll Crashes on Windows 11/10 – Solution Successfully Implemented!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unleash-creative-fb-ad-videos-access-free-video-tools-now/"><u>[New] 2024 Approved Unleash Creative FB Ad Videos - Access FREE Video Tools Now</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-secrets-revealed-how-to-convert-facebooks-hd-videos-to-mp4-for-free/"><u>[New] Secrets Revealed How to Convert Facebook's HD Videos to MP4 for Free</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cutting-edge-gear-for-aspiring-youtube-stars-for-2024/"><u>[Updated] Cutting-Edge Gear for Aspiring YouTube Stars for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-master-your-online-presence-the-ultimate-guide-to-effective-freefire-tags/"><u>2024 Approved Master Your Online Presence The Ultimate Guide to Effective FreeFire Tags</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/analyzing-the-pros-and-cons-of-criacrs-bluetooth-fm-transmitter-cp24-stylish-size-with-notable-flaws/"><u>Analyzing the Pros & Cons of Criacr's Bluetooth FM Transmitter CP24 - Stylish Size with Notable Flaws</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-remedies-for-fixing-the-non-responsive-steelseries-gg-engine-on-windows-systems/"><u>Effective Remedies for Fixing the Non-Responsive SteelSeries GG Engine on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-delays-and-latency-troubleshooting-for-guilty-gear-strive-gameplay/"><u>Fixing Delays & Latency Troubleshooting for 'Guilty Gear - Strive' Gameplay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-meizu-21-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Meizu 21 Pro Face Lock?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-persona-nought-failure-to-loadlaunch-in-version-3-reloaded/"><u>Guide to Fixing Persona Nought Failure to Load/Launch in Version 3 Reloaded</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-fortnites-video-memory-crash-issue-solutions-inside/"><u>How to Fix Fortnite's Video Memory Crash Issue - Solutions Inside!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-from-apple-iphone-15-plus-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number From Apple iPhone 15 Plus</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/leveraging-obs-streaming-capabilities-on-facebook-platform/"><u>Leveraging OBS Streaming Capabilities on Facebook Platform</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-iphone-photo-fixes-expert-hacks-for-better-snapshots/"><u>Quick iPhone Photo Fixes Expert Hacks for Better Snapshots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-superpeople-collisions-in-your-windows-computer/"><u>Resolving 'SuperPeople' Collisions in Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-relink-not-launching-error-in-granblue-fantasy-a-step-by-step-guide/"><u>Solving the 'Relink Not Launching' Error in Granblue Fantasy – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-overcoming-warzone-error-code-5573-across-consoles-and-pcs/"><u>Step-by-Step Guide: Overcoming Warzone Error Code 5573 Across Consoles and PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-gatekeepers-to-hell-the-devil-and-heaven-michael-both-have-their-own-music-when-they-appear-on-stage-and-michael-is-portrayed-with-a-halo-over-his-head-459/"><u>The Gatekeepers to Hell (the Devil) and Heaven (Michael); Both Have Their Own Music when They Appear on Stage, and Michael Is Portrayed with a Halo over His Head Like an Angelic Figure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-dev-error-5573-in-call-of-duty-warzone-across-pc-and-consoles/"><u>Troubleshooting Guide: Resolving Dev Error 5573 in Call of Duty: Warzone Across PC and Consoles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valheim-desync-troubleshooting-guide-eliminating-frames-per-second-fps-drops-and-hitches/"><u>Valheim Desync Troubleshooting Guide: Eliminating Frames Per Second (FPS) Drops and Hitches</u></a></li>
 </ul></div>
 

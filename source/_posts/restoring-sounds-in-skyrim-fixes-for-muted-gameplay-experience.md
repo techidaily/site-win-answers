@@ -1,7 +1,7 @@
 ---
 title: "Restoring Sounds in Skyrim: Fixes for Muted Gameplay Experience"
-date: 2024-10-26T19:36:34.758Z
-updated: 2024-11-01T03:04:29.369Z
+date: 2024-11-03T19:32:01.770Z
+updated: 2024-11-07T04:25:53.967Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/how-to-fix-Pathfinder-Wrath-of-the-Righteous-freezing-on-PC.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Add your game as an exception to your antivirus
 
  Some gamers reported on Reddit that it turned out the antivirus application was quarantining the game every time they ran it. They solved the freezing issue by whitelisting the game. To make sure your antivirus is not blocking your game from launching properly, you should disable your antivirus or add your game as an exception. Otherwise, your antivirus might identify the game as a Trojan.
@@ -42,10 +49,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
@@ -93,26 +100,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
@@ -121,18 +115,18 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable overlays
 
@@ -147,32 +141,26 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -183,13 +171,6 @@ However, if it doesn’t give you any luck, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
@@ -204,6 +185,13 @@ Once done, restart your game and test the gameplay.
 3. Once it’s finished, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -224,18 +212,20 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-bringing-your-outdoor-experiences-home-gopro-livestreams-on-facebookperiscope/"><u>[New] Bringing Your Outdoor Experiences Home GoPro Livestreams on Facebook/Periscope</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-elevate-your-content-top-8-no-cost-video-editing-software/"><u>[Updated] 2024 Approved Elevate Your Content Top 8 No-Cost Video Editing Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-transform-your-zoom-presentations-with-stunning-visuals/"><u>2024 Approved Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-screen-tic-tac-chrome-flickering-solutions-exclusively-for-windows-users/"><u>Fixing the Screen Tic-Tac: Chrome Flickering Solutions Exclusively for Windows Users</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-essential-guide-to-dslr-and-live-streaming-on-computers/"><u>In 2024, Essential Guide to DSLR and Live Streaming on Computers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-logo-blueprint-tailor-and-share-your-brand-identity/"><u>In 2024, Free Logo Blueprint Tailor and Share Your Brand Identity</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-mocking-sponge-bob-meme-generator-for-2024/"><u>New Mocking Sponge Bob Meme Generator for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-top-10-4k-screens/"><u>The Ultimate Guide to #Top 10 4K Screens</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-eliminating-resident-evil-villages-pc-performance-hiccups/"><u>Troubleshooting Guide: Eliminating Resident Evil Village's PC Performance Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/twitch-streaming-sound-troubles-heres-why-it-works-perfectly-now/"><u>Twitch Streaming Sound Troubles? Here's Why It Works Perfectly Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-excessive-cpu-consumption-by-discord/"><u>Ultimate Guide: Resolving Excessive CPU Consumption by Discord</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unified-tint-harmonizer/"><u>[New] Unified Tint Harmonizer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-optimal-techniques-for-verbal-note-taking-expertise/"><u>[Updated] Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dissecting-the-t6-dslr-photography-on-a-shoestring/"><u>Dissecting the T6 DSLR: Photography on a Shoestring</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-for-getting-the-most-out-of-among-us-voice-chat-on-your-computer/"><u>Expert Tips and Tricks for Getting the Most Out of Among Us Voice Chat on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-a78-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo A78 5G?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-building-your-first-simple-form-with-microsoft-excel/"><u>Step-by-Step Guide: Building Your First Simple Form with Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-changing-your-google-doc-into-microsoft-word-or-excel-file/"><u>Step-by-Step Guide: Changing Your Google Doc Into Microsoft Word or Excel File</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-constructing-a-histogram-using-microsoft-excel/"><u>Step-by-Step Guide: Constructing a Histogram Using Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-constructing-a-radar-plot-in-microsoft-excel/"><u>Step-by-Step Guide: Constructing a Radar Plot in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-your-excel-spreadsheet-into-a-dynamic-powerpoint-organizational-structure/"><u>Step-by-Step Guide: Transforming Your Excel Spreadsheet Into a Dynamic PowerPoint Organizational Structure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-visualizing-modifications-in-excel-for-windows-users/"><u>Step-by-Step Tutorial: Visualizing Modifications in Excel for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/streamline-data-management-by-linking-your-microsoft-forms-with-excel-online-instantly/"><u>Streamline Data Management by Linking Your Microsoft Forms with Excel Online Instantly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/swift-film-techniques-for-at-home-creators/"><u>Swift Film Techniques for At-Home Creators</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/transform-your-on-screen-identity-into-a-brand-on-youtube-for-2024/"><u>Transform Your On-Screen Identity Into a Brand on YouTube for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/which-media-supersedes-the-other-podcasts-or-youtube/"><u>Which Media Supersedes the Other Podcasts or YouTube?</u></a></li>
 </ul></div>
 

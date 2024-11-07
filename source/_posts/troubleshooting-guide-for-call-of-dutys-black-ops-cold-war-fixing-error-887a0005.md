@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Call of Duty's Black Ops Cold War - Fixing Error 887A0005
-date: 2024-09-01T04:08:46.584Z
-updated: 2024-09-02T04:08:46.584Z
+date: 2024-11-04T02:04:54.071Z
+updated: 2024-11-07T00:59:46.496Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/c7a57ea0c6d875a784d917881bf9f1dac3c811b03
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair game files
 
  The 887a0005 error code could indicate**an integrity issue** **with your game files** . In that case, you’ll need to scan and repair all the corrupted or missing files.
@@ -42,13 +49,24 @@ Here’s a quick guide for that:
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of this error is that you’re using**a faulty or outdated graphics driver** . If you want to fully enjoy a new AAA title, first make sure your graphics driver is up to date.
@@ -61,20 +79,29 @@ If this trick doesn’t help you, simply continue to the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Microsoft has just released the 20H2 update for Windows 10, including some regular security patches and loads of new features. We always recommend players to**keep their system up to date** , as it could help avoid lots of troubles.
@@ -110,13 +137,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If this method doesn’t fix your issue, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable in-game Ray Tracing
 
  In some cases, this error code shows up when your GPU is overloaded. Aside from that, Black Ops Cold War is still a new title, which means there’s still room for improvement. Ray Tracing might sound fancy, but according to some gamers it can be unstable on Black Ops Cold War. So you can try disabling this feature and check if the error code disappears.
@@ -127,9 +155,6 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -143,8 +168,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +175,24 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-tiktok-content-preservation-gallery-access-on-smartphones/"><u>[New] TikTok Content Preservation Gallery Access on Smartphones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-eternal-methodology-for-instantaneous-tiktok-linking/"><u>2024 Approved The Eternal Methodology for Instantaneous TikTok Linking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-top-fixes-for-a-non-functional-obs-microphone-updated-guide-2024/"><u>6 Top Fixes for a Non-Functional OBS Microphone - Updated Guide 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-proven-fixes-for-high-network-delay-in-valheim-for-windows-users/"><u>Beat the Lag: Proven Fixes for High Network Delay in Valheim for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-back-to-back-crashes-a-comprehensive-guide-for-your-pc-woes/"><u>Bypassing Back-to-Back Crashes: A Comprehensive Guide for Your PC Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009673356-effortless-solutions-for-nonfunctional-discord-overlays-fix-them-now/"><u>Effortless Solutions for Nonfunctional Discord Overlays: Fix Them Now</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/ejecucion-secura-de-windows-11-mejorando-tu-experiencia-con-la-configuracion-del-gestor-de-arranque-y-acerca-de-la-uefi-guia-incluida/"><u>Ejecución Secura De Windows 11: Mejorando Tu Experiencia Con La Configuración Del Gestor De Arranque Y Acerca De La UEFI (Guía Incluida)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-v30-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme V30 Phone When You Forget the Password</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-easy-access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>In 2024, Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instant-fix-for-your-sekiro-crashing-woes-a-user-friendly-guide/"><u>Instant Fix for Your Sekiro Crashing Woes - A User-Friendly Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pioneering-the-soundtrack-adding-editing-and-cropping-music/"><u>Pioneering the Soundtrack Adding, Editing, and Cropping Music</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-cod-trailer-gone-wrong-fixing-modern-warfare-3-app-errors/"><u>Resolved: Cod Trailer Gone Wrong - Fixing 'Modern Warfare 3' App Errors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-apple-watch-offers-for-july-2024-exclusive-bargains-featured/"><u>Top Apple Watch Offers for July 2024 - Exclusive Bargains Featured</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-optimizing-graphics-settings-for-better-fps-in-outriders/"><u>Troubleshooting & Optimizing Graphics Settings for Better FPS in Outriders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-gpu-support-for-enhanced-graphics-in-call-of-duty-warzone-on-windows-10/"><u>Troubleshooting GPU Support for Enhanced Graphics in Call of Duty: Warzone on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-slow-startup-issues-in-star-wars-battlefront-ii-for-pc-players/"><u>Troubleshooting Slow Startup Issues in Star Wars: Battlefront II for PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-wsappx-solutions-to-address-excessive-disk-and-cpu-consumption/"><u>Understanding WSAPPX: Solutions to Address Excessive Disk & CPU Consumption</u></a></li>
+</ul></div>
 

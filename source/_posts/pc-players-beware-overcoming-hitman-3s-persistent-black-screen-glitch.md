@@ -1,7 +1,7 @@
 ---
 title: "PC Players Beware: Overcoming Hitman 3’S Persistent Black Screen Glitch"
-date: 2024-09-01T04:14:41.955Z
-updated: 2024-09-02T04:14:41.955Z
+date: 2024-11-04T03:03:40.688Z
+updated: 2024-11-07T04:13:34.623Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Try a different display mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Check that your PC is capable
 
@@ -54,9 +61,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Allow Hitman 3 through firewall
 
  Windows firewall and anti-virus software are intended to protect your computer from malware attacks. However, there’s a possibility that your game is perceived as viruses and they stop it from booting up. In this cause, you need to make sure the firewall is not blocking your game. Follow the steps to do this:
@@ -67,16 +71,17 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Now you need to scroll down until you can find**HITMAN 3** . Make sure it’s ticked for Private and Public.
 
  If HITMAN 3 isn’t on the list, take the steps below to add the game to the list.
@@ -97,9 +102,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -122,21 +124,29 @@ Here’s how to update drivers with Driver Easy:
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and play your game to see if it looks much better.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify integrity of game files
 
@@ -162,9 +172,6 @@ Here’s how:
   
 ![try a different display mode](https://images.drivereasy.com/wp-content/uploads/2021/01/full-screen-mode-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
@@ -172,6 +179,13 @@ Here’s how:
  If you’ve tried the other display modes but the game still just shows you a black screen, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Disable unnecessary programs
 
@@ -185,6 +199,13 @@ Here’s how to disable programs in Task Manager:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-from-the-taskbar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **Processes** tab, check the programs that are using more CPU from the list. Then right-click on those programs and select **End task** .  
   
 ![check cpu usage and end the tasks that are using more cpu](https://images.drivereasy.com/wp-content/uploads/2020/10/check-cpu-usage-and-end-the-task.jpg)
@@ -193,9 +214,6 @@ Here’s how to disable programs in Task Manager:
   
 ![stop-programs-running-at-startup](https://images.drivereasy.com/wp-content/uploads/2020/10/stop-programs-running-at-startup-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  After you’ve done these, try to launch Hitman 3 and you should be able to load into the game.
 
 ---
@@ -210,8 +228,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +235,18 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ailoring-your-content-youtube-video-length-reduction-guide-for-2024/"><u>[New] Tailoring Your Content YouTube Video Length Reduction Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-trending-14-moving-text-design-illustrations/"><u>[New] Trending 14 Moving Text Design Illustrations</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-building-blocks-for-a-stellar-documentary-storyline/"><u>[Updated] 2024 Approved Building Blocks for a Stellar Documentary Storyline</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-building-impressive-pixelated-photo-combinations-for-2024/"><u>[Updated] Building Impressive Pixelated Photo Combinations for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/clearing-up-the-permission-denied-issue-for-smooth-fortnite-gameplay/"><u>Clearing Up the Permission Denied Issue for Smooth Fortnite Gameplay</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-security-by-safe-disabling-of-windows-11-features/"><u>Enhancing Security by Safe Disabling of Windows 11 Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>In 2024, From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-fix-and-enhance-fall-guys-experience-for-a-lag-free-desktop-play/"><u>Optimizing Performance: Fix & Enhance Fall Guys Experience for a Lag-Free Desktop Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-problems-with-windows-spotlight-on-windows-11-systems/"><u>Overcoming Common Problems with Windows Spotlight on Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-to-resolve-live-server-connection-failure-issue/"><u>Solutions to Resolve Live Server Connection Failure Issue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-benefits-and-drawbacks-of-ankers-roav-dashcam-c1-a-comprehensive-evaluation/"><u>Unpacking the Benefits and Drawbacks of Anker's Roav Dashcam C1 – A Comprehensive Evaluation</u></a></li>
+</ul></div>
 

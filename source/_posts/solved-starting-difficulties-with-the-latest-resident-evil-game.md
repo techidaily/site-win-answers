@@ -1,7 +1,7 @@
 ---
 title: "Solved: Starting Difficulties with the Latest Resident Evil Game"
-date: 2024-10-25T21:54:07.731Z
-updated: 2024-10-31T18:38:58.800Z
+date: 2024-11-03T19:57:19.354Z
+updated: 2024-11-06T21:21:34.572Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -51,32 +44,45 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -90,6 +96,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
@@ -115,10 +128,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -151,19 +164,19 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -174,14 +187,14 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -208,18 +221,18 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-exploring-the-unspoken-rules-of-instagram-mastery/"><u>[New] 2024 Approved Exploring the Unspoken Rules of Instagram Mastery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-master-list-of-premium-9-multi-platform-video-communication-apps/"><u>[New] 2024 Approved Master List of Premium 9 Multi-Platform Video Communication Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elevate-your-chat-with-discord-recording-techniques-for-2024/"><u>[Updated] Elevate Your Chat with Discord Recording Techniques for 2024</u></a></li>
-<li><a href="https://solve-info.techidaily.com/cookiebot-enhanced-user-experience-optimize-your-sites-performance/"><u>Cookiebot-Enhanced User Experience: Optimize Your Site's Performance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-lenovo-x230-drivers-fast-complete-guide/"><u>Download Lenovo X230 Drivers Fast - Complete Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/cing-visual-impact-a-guide-to-jump-cut-techniques-for-2024/"><u>Enhancing Visual Impact A Guide to Jump Cut Techniques for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-fixes-for-call-of-duty-vanguards-persistent-pc-crashing-issues-updated-guide/"><u>Expert Fixes for Call of Duty Vanguard's Persistent PC Crashing Issues - Updated Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Samsung Galaxy S23? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-performance-glitches-in-minecraft-dungeons-for-optimal-gaming-experience/"><u>Resolving Performance Glitches in Minecraft Dungeons for Optimal Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-qsurfaceformat-opengl-creation-failures/"><u>Solution Guide: Overcoming QSurfaceFormat OpenGL Creation Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-is-alan-wake-ii-delayed-and-what-can-be-done/"><u>Why Is Alan Wake II Delayed and What Can Be Done?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-against-common-errors-why-civilization-6-wont-start-on-windows-10/"><u>Winning Against Common Errors: Why Civilization 6 Won't Start on Windows 10?</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/mp2-mov-movevideo/"><u>자이로닝 속도에서 MP2 MOV 전환 – 무료 간소화 방법 - MoveVideo</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-youtube-studio-optimization-device-agnostic-approaches/"><u>[New] 2024 Approved Youtube Studio Optimization Device-Agnostic Approaches</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-intro-to-digital-realms-vr-simplified-for-2024/"><u>An Intro to Digital Realms VR Simplified for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-pc-game-crash-errors-in-sons-of-heavenwood-ultimate-fix-strategies/"><u>Defeating PC Game Crash Errors in Sons of Heavenwood: Ultimate Fix Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-obs-when-it-wont-record-your-screen-anymore-solved/"><u>How to Fix OBS When It Won't Record Your Screen Anymore - Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-dead-by-daylight-from-continuously-crashing-essential-tips-and-solutions/"><u>How To Stop Dead By Daylight From Continuously Crashing | Essential Tips & Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211253282-9781958997567-los-fundamentos/"><u>Los Fundamentos | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-lost-arks-persistent-crash-problems-for-a-smoother-gaming-experience/"><u>Overcome Lost Ark's Persistent Crash Problems for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-10-best-gimbals-for-4k-dsrlmirrorless-cameras-for-2024/"><u>Top 10 Best Gimbals for 4K DSRL/Mirrorless Cameras for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-value-choices-the-finest-1440p-displays-for-gamers-on-a-budget/"><u>Top Value Choices: The Finest 1440P Displays for Gamers on a Budget</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-nvidia-control-panel-malfunctions/"><u>Troubleshooting Steps: Resolving NVIDIA Control Panel Malfunctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-artific/"><u>Understanding Artific</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-troubleshooting-guide-put-an-end-to-pc-game-crashes-now/"><u>Valorant Troubleshooting Guide - Put an End to PC Game Crashes Now!</u></a></li>
 </ul></div>
 

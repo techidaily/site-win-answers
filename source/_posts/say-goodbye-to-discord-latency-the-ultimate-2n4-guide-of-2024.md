@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Discord Latency - The Ultimate 2N4 Guide of 2024
-date: 2024-10-31T11:38:05.136Z
-updated: 2024-10-31T23:19:09.340Z
+date: 2024-10-30T16:40:04.001Z
+updated: 2024-11-06T19:17:15.197Z
 tags:
   - win11
   - win10
@@ -43,8 +43,22 @@ thumbnail: https://thmb.techidaily.com/fc6a682db0e3d4f0e7a82dcc086d1d5b243871658
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-appdata.jpg)
 2. Go to **Local > Hotta > Saved > Config > WindowsNoEditor** . Right click**GameUserSettings.ini** and rename it to**GameUserSettings.ini.backup.**  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-config-1.jpg)
 3. **Right-click the empty** area and create a new .txt file with the name**GamerUserSettings.ini** . Edit the file and paste the following:  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [D3DRHIPreference]  
 bPreferD3D12InGame=False  
@@ -56,10 +70,10 @@ Now you can restart Tower of Fantasy and check the results.
 If the game still crashes, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2:**Update your graphics driver**
@@ -72,6 +86,13 @@ If the game still crashes, take a look at the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
@@ -91,20 +112,13 @@ If the game still crashes, take a look at the next fix.
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -125,16 +139,16 @@ If Tower of Fantasy still crashes, you can try the next fix below.
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Modify your Registry (Advanced)
@@ -148,10 +162,10 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 2. In the address bar, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
@@ -178,33 +192,7 @@ If this fix doesn’t give you luck, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -227,21 +215,24 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/xcellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[New] Excellent Video & Picture Capture for iPhones & Androids Here!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/effective-blog-advertising-techniques-on-buysellads-tips-for-maximizing-profits/"><u>Effective Blog Advertising Techniques on BuySellAds: Tips for Maximizing Profits</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-kernelbasedll-crash-problems-fast-and-simple/"><u>Fix KernelBase.dll Crash Problems Fast and Simple!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/get-your-chatgpt-app-up-and-running-again-9-proven-troubleshooting-tips-for-iphones/"><u>Get Your ChatGPT App Up and Running Again: 9 Proven Troubleshooting Tips for iPhones.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-dreamlight-valley-from-crashing-a-guide-with-six-essential-fixes/"><u>How To Stop Dreamlight Valley From Crashing: A Guide With Six Essential Fixes</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-trust-the-right-sources-for-safe-and-effective-view-count-increase/"><u>In 2024, Trust the Right Sources for Safe and Effective View Count Increase</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/mastering-real-time-photo-sharing-in-google-meet-for-2024/"><u>Mastering Real-Time Photo Sharing in Google Meet for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-pc-hiccups-in-persona-trilogy-p3s-edition-now-stable/"><u>Overcome PC Hiccups in Persona Trilogy – P3S Edition Now Stable!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-dark-side-of-star-wars-battlefront-ii-fixes-for-the-infamous-black-screen-issue/"><u>Resolved: Dark Side of Star Wars Battlefront II - Fixes for the Infamous Black Screen Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-permanent-image-retention-tips-for-every-screen-type/"><u>Resolving Permanent Image Retention: Tips for Every Screen Type</u></a></li>
-<li><a href="https://win-answers.techidaily.com/status-check-for-xbox-live-services-are-they-online-today/"><u>Status Check for Xbox Live Services – Are They Online Today?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-activating-wi-fi-voice-calls-on-your-android-device/"><u>Step-by-Step Guide: Activating Wi-Fi Voice Calls on Your Android Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-curtailing-discords-cpu-overuse-for-optimal-performance/"><u>Step-by-Step Tutorial: Curtailing Discord's CPU Overuse for Optimal Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-ranking-windows-11-video-player-stream-ultra-high-definition-uhd-and-hd-movies-music-and-dvds/"><u>Top-Ranking Windows 11 Video Player: Stream Ultra High Definition (UHD) & HD Movies, Music, and DVDs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-fallout-76-server-connectivity-problems-for-windows-users/"><u>Troubleshooting Fallout 76 Server Connectivity Problems for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/turbocharge-your-watch-dogs-legion-adventure-expert-hacks-to-eliminate-lags-and-surge-frame-rates/"><u>Turbocharge Your Watch Dogs: Legion Adventure – Expert Hacks to Eliminate Lags & Surge Frame Rates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/insurgency-sandstorm-update-eliminates-persistent-crashing-problems/"><u>'Insurgency: Sandstorm' Update Eliminates Persistent Crashing Problems</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-remedying-silent-tweets-with-audio-integration/"><u>[New] In 2024, Remedying Silent Tweets with Audio Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-blissful-clip-grabber-insight/"><u>[Updated] 2024 Approved Blissful Clip Grabber Insight</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-musical-alchemy-transforming-previews-into-memories/"><u>[Updated] Musical Alchemy Transforming Previews Into Memories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chronological-order-a-step-by-step-approach-to-see-all-superman-classics/"><u>Chronological Order: A Step-by-Step Approach to See All Superman Classics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-overcoming-the-gobi-fatal-error-in-ue4-back-4-blood-gameplay-tips/"><u>Comprehensive Guide to Overcoming The 'Gobi Fatal Error' In UE4 - Back 4 Blood Gameplay Tips</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-repair-tips-overcoming-dxgkrnl-catastrophic-errors-on-windows-machines/"><u>DIY Repair Tips: Overcoming Dxgkrnl Catastrophic Errors on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-bless-unleashed-adventure-effective-solutions-to-combat-high-ping-and-lag-on-pc/"><u>Enhance Your Bless Unleashed Adventure: Effective Solutions to Combat High Ping and Lag on PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-tech-mac-screenshoting-basics/"><u>Essential Tech Mac Screenshoting Basics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-11-pro-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-realme-gt-neo-5-se-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Realme GT Neo 5 SE FRP In 3 Different Ways</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-motorola-razr-40-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Motorola Razr 40 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-gta-5-stutter-and-crashes-a-comprehensive-guide/"><u>Resolving GTA 5 Stutter and Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006920435-safety-features-in-place-the-use-of-seat-belts-airbags-and-other-safety-features-can-significantly-reduce-injury-risks-during-a-crash/"><u>Safety Features in Place - The Use of Seat Belts, Airbags, and Other Safety Features Can Significantly Reduce Injury Risks During a Crash</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-stability-issues-a-guide-to-preventing-guilty-gear-strive-from-crashing-on-pc/"><u>Solving Stability Issues: A Guide to Preventing Guilty Gear Strive From Crashing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-correcting-error-code-4128-in-call-of-duty-wwii-game/"><u>Step-by-Step Guide: Correcting Error Code 4128 in Call of Duty WWII Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-starfield-from-crashing-on-your-computer/"><u>Troubleshooting Tips: Stop Starfield From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-the-ready-or-not-game-from-freezing-and-crashing-on-windowsmac/"><u>Troubleshooting Tips: Stop the 'Ready or Not' Game From Freezing and Crashing on Windows/Mac</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Realme GT 5 (240W)? | Dr.fone</u></a></li>
 </ul></div>
 

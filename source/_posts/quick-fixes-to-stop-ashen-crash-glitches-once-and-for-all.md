@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes to Stop Ashen Crash Glitches Once and For All!
-date: 2024-09-01T04:14:52.376Z
-updated: 2024-09-02T04:14:52.376Z
+date: 2024-10-31T23:35:04.407Z
+updated: 2024-11-06T18:24:33.531Z
 tags:
   - win11
   - win10
@@ -38,15 +38,19 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
 
 3) Launch Discord again. It should be open normally.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Set your date/time automatically
 
  It may sound weird to you but it does help many users fix the problem. If you’ve already set your time automatically, you can move to the next fix. Or you can follow the steps below.
@@ -57,9 +61,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
@@ -75,21 +76,12 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Use Task Manager
 
  Use Task Manager to close Discord tasks entirely and restart it could help you fix this problem.
@@ -100,10 +92,14 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 3) Restart Discord. It should open.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your proxies
 
@@ -114,6 +110,19 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
@@ -123,8 +132,12 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
@@ -134,17 +147,12 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6) Relaunch the Discord and it should open.
 
 ### Fix 6: Flushing your DNS
@@ -158,9 +166,6 @@ If it doesn’t work, move to the next fix.
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
 **ipconfig /flushdns**
@@ -179,11 +184,25 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click Discord in the list and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -215,11 +234,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -239,8 +261,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +268,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-crafting-an-irresistible-brand-image-on-your-fb-page/"><u>[New] Crafting an Irresistible Brand Image on Your FB Page</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-complete-overview-what-is-google-podcast-app/"><u>[New] In 2024, Complete Overview What Is Google Podcast App?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-youtube-cash-flow-8-simple-money-making-tips/"><u>[New] YouTube Cash Flow 8 Simple Money-Making Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-outriders-lag-issue/"><u>[Solved] Outriders Lag Issue</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-methods-for-effectful-tiktok-videos/"><u>2024 Approved Innovative Methods for Effectful TikTok Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-origin-file-transfers-expert-advice-and-tips-for-faster-downloads-updated-for-2hren-4/"><u>Accelerate Origin File Transfers: Expert Advice and Tips for Faster Downloads (Updated for 2Hren-4)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bugs-a-guide-to-ensuring-smooth-launches-of-saints-row-on-pc-systems/"><u>Beat the Bugs: A Guide to Ensuring Smooth Launches of Saints Row on PC Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2593854-9781683250456-el-tarot/"><u>El tarot | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gaming-smoothly-again-rectifying-the-easy-anti-cheat-not-detected-for-flawless-gaming-experience/"><u>Gaming Smoothly Again! Rectifying the 'Easy Anti-Cheat Not Detected' For Flawless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-severe-programming-mistakes-in-modern-warfarewarzone/"><u>How to Fix Severe Programming Mistakes in Modern Warfare/Warzone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-macos-the-ultimate-guide-to-activating-and-utilizing-hot-corners-boost-efficiency-with-expert-tips/"><u>Mastering macOS: The Ultimate Guide to Activating & Utilizing Hot Corners - Boost Efficiency with Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722981415973-resolved-halo-infinites-frame-rate-and-stuttering-problem-solved/"><u>Resolved: Halo Infinite's Frame Rate & Stuttering Problem Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-valheim-pc-performance-issues-with-freezing-and-stuttering/"><u>Resolved: How to Fix Valheim PC Performance Issues with Freezing & Stuttering</u></a></li>
+<li><a href="https://win-answers.techidaily.com/streamline-your-gaming-experience-fixing-the-problem-of-disco-elysium-downloads-not-working-properly-on-pcs/"><u>Streamline Your Gaming Experience: Fixing the Problem of Disco Elysium Downloads Not Working Properly on PCs</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/update-your-epson-xp-420-drivers-free-downloads-available-here/"><u>Update Your Epson XP 420 Drivers - Free Downloads Available Here!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-revolutionize-your-content-10-top-rated-animated-text-generators-for-2024/"><u>Updated Revolutionize Your Content 10 Top-Rated Animated Text Generators for 2024</u></a></li>
+</ul></div>
 

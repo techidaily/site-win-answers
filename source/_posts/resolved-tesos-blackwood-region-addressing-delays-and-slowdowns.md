@@ -1,7 +1,7 @@
 ---
 title: "Resolved: TESO's Blackwood Region - Addressing Delays and Slowdowns"
-date: 2024-10-30T18:07:57.893Z
-updated: 2024-11-01T05:13:48.585Z
+date: 2024-10-30T19:45:31.160Z
+updated: 2024-11-07T00:33:58.127Z
 tags:
   - win11
   - win10
@@ -38,6 +38,19 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -45,13 +58,6 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -70,15 +76,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -113,13 +119,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -143,7 +142,21 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Change Windows power plan
 
@@ -153,13 +166,26 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
@@ -188,22 +214,8 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -232,22 +244,20 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-faithful-melodies-how-to-install-christian-chimes/"><u>[New] Faithful Melodies How to Install Christian Chimes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-boost-iphone-visual-quality-selective-photo-and-video-tools/"><u>[New] In 2024, Boost iPhone Visual Quality Selective Photo and Video Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-record-audio-on-windows-11/"><u>[Updated] How To Record Audio on Windows 11?</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/astro-a50-headset-recognition-problems-fixes-for-astro-command-system-failures/"><u>Astro A50 Headset Recognition Problems: Fixes for Astro Command System Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-6-effective-ways-to-optimize-cpu-use-in-the-latest-game-version/"><u>Baldur's Gate 3 - 6 Effective Ways to Optimize CPU Use in the Latest Game Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cut-down-on-starfields-resource-hogging-behavior-advanced-tweaks-and-settings-adjustments-for-a-better-pc-gaming-experience/"><u>Cut Down on Starfield’s Resource Hogging Behavior: Advanced Tweaks and Settings Adjustments for a Better PC Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-to-overcome-frontiers-crash-problems-on-a-computer-system/"><u>Effective Solutions to Overcome Frontier's Crash Problems on a Computer System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-crash-issue-how-to-play-fallout-3-smoothly-on-windows-11/"><u>Fixing the 'Crash' Issue: How to Play Fallout 3 Smoothly on Windows 11</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-windows-update-service-a-comprehensive-guide/"><u>Fixing Windows Update Service: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-for-victory-overcoming-common-performance-drops-and-stuttering-in-gtfo-games/"><u>Optimizing for Victory: Overcoming Common Performance Drops and Stuttering in GTFO Games</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-it-takes-two-silent-computer-troubleshooting-guide/"><u>Resolving 'It Takes Two' Silent Computer: Troubleshooting Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-no-sound-problem-with-jabra-g435-wireless-headset-expert-advice/"><u>Solving No Sound Problem with Jabra G435 Wireless Headset: Expert Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-unwanted-shutdowns-in-your-halo-3-gaming-experience-on-computer/"><u>Step-by-Step Guide to Fixing Unwanted Shutdowns in Your Halo 3 Gaming Experience on Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-overcome-xbox-error-0xc0000005-in-call-of-duty-black-ops-cold-war/"><u>Step-by-Step Solution to Overcome Xbox Error 0xC0000005 in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-asus-rog-phone-7-ultimate-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Asus ROG Phone 7 Ultimate Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1726221135878-gif-jpg-movavi/"><u>쉽게 GIF 에서 JPG로 변환하기 – Movavi의 가이드</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024s-guide-to-profit-youtube-monetization-with-joshi/"><u>[Updated] 2024'S Guide to Profit YouTube Monetization with Joshi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-optimal-zoom-techniques-for-efficient-skype-communication/"><u>[Updated] Optimal Zoom Techniques for Efficient Skype Communication</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/alternative-recreation-in-the-firstrow-rankings/"><u>Alternative Recreation in the Firstrow Rankings</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-faster-home-networking-with-the-orbi-wifi-6-whole-home-solution-review/"><u>Comprehensive Guide to Faster Home Networking with the Orbi WiFi 6 Whole Home Solution Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-to-solve-your-discord-app-malfunctions/"><u>Comprehensive Strategies to Solve Your Discord App Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-down-on-catastrophe-effective-strategies-for-resolving-ark-game-ending-errors/"><u>Cracking Down on Catastrophe: Effective Strategies for Resolving ARK Game-Ending Errors</u></a></li>
+<li><a href="https://win-popular.techidaily.com/expert-tips-for-successfully-factory-restoring-your-acer-nitro-5-running-windows-11/"><u>Expert Tips for Successfully Factory Restoring Your Acer Nitro 5 Running Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-copycatting-charisma-making-ingenious-parodies/"><u>In 2024, Copycatting Charisma Making Ingenious Parodies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/is-splitcam-the-pinnacle-of-recording-capabilities-in-2024/"><u>Is SplitCam The Pinnacle of Recording Capabilities, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/los-santos-confidential-resolved-the-missing-pc-release-of-la-noire/"><u>Los Santos Confidential: Resolved – The Missing PC Release of L.A. Noire</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-how-to-prevent-common-titanfall-2-game-crashes/"><u>Mastering Stability: How to Prevent Common Titanfall 2 Game Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210533594-9781398814547-scorpio/"><u>Scorpio | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-a-smooth-sims/"><u>Top Strategies for a Smooth Sims</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-steams-troublesome-error-130-issue/"><u>Troubleshooting and Repairing Steam's Troublesome Error 130 Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-internet-explorer-has-crashed-error/"><u>Troubleshooting Steps: Resolving 'Internet Explorer Has Crashed' Error</u></a></li>
 </ul></div>
 

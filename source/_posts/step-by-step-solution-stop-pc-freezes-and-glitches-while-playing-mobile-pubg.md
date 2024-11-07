@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-10-27T21:48:42.111Z
-updated: 2024-11-01T02:33:40.659Z
+date: 2024-11-02T16:09:48.285Z
+updated: 2024-11-07T06:59:04.505Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -68,31 +61,11 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
 
@@ -103,16 +76,16 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -145,30 +118,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Use your integrated graphics card
 
@@ -190,6 +150,20 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 6: Unblock the game from Windows Firewall
 
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
@@ -198,8 +172,22 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
@@ -228,24 +216,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-swift-techniques-for-shifting-iphone-media-to-pc/"><u>[New] Swift Techniques for Shifting iPhone Media to PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-evil-genius-2-no-sound/"><u>[Solved] Evil Genius 2 No Sound</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-5-ways-to-record-vr-gameplay/"><u>2024 Approved 5 Ways to Record VR Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/chivalry-ii-troubleshooting-resolving-game-crashes/"><u>Chivalry II Troubleshooting: Resolving Game Crashes</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/conversione-online-a-wma-da-file-ape-senza-costi-utilizzo-di-servizi-movavi-gratuiti/"><u>Conversione Online a WMA Da File APE Senza Costi: Utilizzo Di Servizi Movavi Gratuiti</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722987743481-dealing-with-immortals-of-fenyx-rising-crashes-solutions-inside/"><u>Dealing with Immortals of Fenyx Rising Crashes – Solutions Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-restarting-and-fixing-internet-explorer-failures/"><u>Expert Advice on Restarting and Fixing Internet Explorer Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-bless-unleashed-performance-dips-and-elevate-your-gameplay-experience-on-pc/"><u>Expert Tips to Overcome Bless Unleashed Performance Dips and Elevate Your Gameplay Experience on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-critical-error-causing-bsod-on-helldivers-vein-thrombosis/"><u>Fixing the Critical Error Causing BSOD on Helldivers Vein Thrombosis?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ghostwire-tokyo-stability-guide-preventing-your-pc-from-keeping-on-crashing/"><u>Ghostwire: Tokyo Stability Guide – Preventing Your PC From Keeping on Crashing</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/gratis-winx-media-konvertierer-premium-videobearbeitung-und-audio-umwandlung-ohne-kosten/"><u>Gratis WinX Media Konvertierer: Premium Videobearbeitung Und Audio-Umwandlung Ohne Kosten</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/how-to-generate-speech-from-text-the-best-text-to-speech-converters-for-2024/"><u>How To Generate Speech From Text | The Best Text-to-Speech Converters for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-quickly-fix-launch-issues-in-hogwarts-legacy-essential-steps-and-tips/"><u>How To Quickly Fix Launch Issues in 'Hogwarts Legacy': Essential Steps & Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-heaviest-inflight-lifters-unveiled-top-10-list/"><u>In 2024, Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-toolwiz-explored-detailed-review-for-image-enthusiasts/"><u>In 2024, Toolwiz Explored Detailed Review for Image Enthusiasts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-the-reliability-of-the-halo-bolt-multi-functional-chargerjump-starter-unleashed/"><u>In-Depth Review: The Reliability of the Halo Bolt Multi-Functional Charger/Jump Starter Unleashed</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/on-the-move-fun-with-mobile-need-for-speed-game-copies/"><u>On-the-Move Fun with Mobile Need for Speed Game Copies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-ensuring-your-controller-works-with-steam-on-windows-computers/"><u>Step-by-Step Solutions: Ensuring Your Controller Works with Steam on Windows Computers</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-cable-modem-models-for-2e24-a-comprehensive-guide/"><u>Top-Rated Cable Modem Models for 2E24: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-diy-tricks-for-professional-quality-homemade-films/"><u>[New] Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-cod-warzone-pacific-crashing/"><u>[Solved] COD: Warzone Pacific Crashing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-a-course-to-success-youtube-studio-blueprint-for-2024/"><u>[Updated] Chart a Course to Success YouTube Studio Blueprint for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/convertendo-musicas-aac-em-ogg-ao-vivo-e-gratuitamente-tecnicas-do-movavi/"><u>Convertendo Músicas AAC Em OGG Ao Vivo E Gratuitamente - Técnicas Do Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-gpu-issues-for-optimal-performance-of-cyberpunk-2077-on-windows-10-systems/"><u>Fixing GPU Issues for Optimal Performance of Cyberpunk 2077 on Windows 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ie-browser-error-troubleshooting-webpage-not-displayed-issues/"><u>Fixing IE Browser Error: Troubleshooting 'Webpage Not Displayed' Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-computer-from-freezing-while-playing-the-witcher-3-a-comprehensive-guide/"><u>How to Stop Your Computer From Freezing While Playing 'The Witcher 3': A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>In 2024, Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-numeric-precision-the-art-of-editing-tiktok-counts/"><u>In 2024, Numeric Precision The Art of Editing TikTok Counts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-playstation-error-codes-in-destiny-2-a-comprehensive-fixers-guide-for-pc-gamers/"><u>Overcoming PlayStation Error Codes in Destiny 2 - A Comprehensive Fixer's Guide for PC Gamers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/profiesteuernder-kostenloser-mkv-player-unter-windows-1087-kafkaeske-mkv-datei-abspielen-vereinfacht/"><u>Profiesteuernder Kostenloser MKV Player Unter Windows 10/8/7 - Kafkaeske MKV Datei Abspielen Vereinfacht!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-when-your-corsair-icue-stops-functioning-in-windows-10-or-11/"><u>Solutions for When Your Corsair iCUE Stops Functioning in Windows 10 or 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-long-awaited-arrival-how-immortals-fenyx-rising-became-available/"><u>The Long-Awaited Arrival: How Immortal's Fenyx Rising Became Available</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tormented-souls-game-stability-issues-fixed-now-running-smoothly-on-pc/"><u>Tormented Souls Game Stability Issues Fixed: Now Running Smoothly on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-get-your-windows-11-start-menu-running-again/"><u>Troubleshooting Guide: How to Get Your Windows 11 Start Menu Running Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-assassins-creed-unity-freezing-issues/"><u>Troubleshooting Steps for Assassin's Creed Unity Freezing Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/which-to-choose-side-by-side-review-of-ipad-mini-and-ipad-air-models/"><u>Which to Choose? Side-by-Side Review of IPad Mini and iPad Air Models</u></a></li>
 </ul></div>
 

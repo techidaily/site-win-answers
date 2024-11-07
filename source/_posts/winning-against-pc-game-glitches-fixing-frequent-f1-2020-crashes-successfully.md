@@ -1,7 +1,7 @@
 ---
 title: "Winning Against PC Game Glitches: Fixing Frequent F1 2020 Crashes Successfully"
-date: 2024-10-25T05:46:18.533Z
-updated: 2024-11-01T03:44:43.996Z
+date: 2024-10-31T23:09:50.932Z
+updated: 2024-11-06T22:17:46.762Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -48,10 +48,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -63,6 +63,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 2) Right-click Phasmophobia and select**Properties** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
@@ -124,6 +131,13 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -135,13 +149,6 @@ If the crash still occurs, go ahead with the next fix.
 3) Turn down everything as low as possible.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
 
@@ -155,20 +162,27 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -186,13 +200,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 If the problem still exists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -204,13 +211,6 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -231,14 +231,14 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unlocking-youtube-chat-insights/"><u>[New] 2024 Approved Unlocking YouTube Chat Insights</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-unmatched-video-upload-aides-to-twitter/"><u>[Updated] In 2024, Unmatched Video Upload Aides to Twitter</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-infusing-realism-in-spark-ar-worlds-via-application-of-luts/"><u>2024 Approved Infusing Realism in Spark AR Worlds via Application of LUTs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-immortal-crashing-woes-discover-proven-fixes-and-enhancements-to-elevate-your-gaming-experience-on-pc/"><u>Diablo Immortal Crashing Woes? Discover Proven Fixes and Enhancements to Elevate Your Gaming Experience on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-samsung-galaxy-a23-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Samsung Galaxy A23 5G PC | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-usb-data-loss-on-windows-platforms/"><u>Overcoming USB Data Loss on Windows Platforms</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-connect-to-your-steam-friends-again/"><u>Resolved! How to Connect to Your Steam Friends Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-solution-to-the-ashen-error-fast-and-effective-fixes-revealed/"><u>Trouble-Free Solution to the Ashen Error – Fast and Effective Fixes Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-days-gone-wont-start-on-your-pc-successfully/"><u>Troubleshooting Steps When Days Gone Won't Start on Your PC Successfully</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-bite-the-dessert-bullet-tiktoks-sweetest-treats/"><u>[Updated] In 2024, Bite the Dessert Bullet TikTok's Sweetest Treats</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-do-consumer-feedbacks-get-paid-in-vlogs/"><u>2024 Approved Do Consumer Feedbacks Get Paid in Vlogs?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/exploring-google-pixels-audio-landscape/"><u>Exploring Google Pixel's Audio Landscape</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-mobile-hotspot-not-working-in-windows-11/"><u>How to Fix the Mobile Hotspot Not Working in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-review-of-lenovos-yoga-slim-abies-with-x-elite-chip-the-ultimate-rival-to-apples-macbook-air/"><u>In-Depth Review of Lenovo's Yoga Slim Abies with X Elite Chip: The Ultimate Rival to Apple's MacBook Air?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/key-bios-configuration-adjustments-what-changes-make-a-difference/"><u>Key BIOS Configuration Adjustments: What Changes Make a Difference?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lenovo-yoga-slim-n7-experience-analysis-assessing-the-readiness-of-windows-and-snapdragon-combo/"><u>Lenovo Yoga Slim N7 Experience Analysis: Assessing the Readiness of Windows & Snapdragon Combo</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-windows-11-dpc-watchdog-violations-a-step-by-step-guide/"><u>Resolving Windows 11 DPC Watchdog Violations - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-your-xbox-one-signal-issues-a-step-by-step-guide/"><u>Solving Your Xbox One Signal Issues: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

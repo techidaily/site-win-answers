@@ -1,7 +1,7 @@
 ---
 title: Enhancing Gameplay Quality by Resolving Framerate Drops & Stuttering Issues
-date: 2024-09-01T04:09:06.770Z
-updated: 2024-09-02T04:09:06.770Z
+date: 2024-11-03T18:09:17.142Z
+updated: 2024-11-06T17:04:06.011Z
 tags:
   - win11
   - win10
@@ -40,7 +40,21 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
 
@@ -63,33 +77,32 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update your graphics driver
 
  A driver is an essential piece of software that lets your system communicate with your hardware. If it is outdated or misconfigured, it would cause noticeable performance issues. When you have low FPS or encounter constant stutters during the gameplay, you need to check for graphics driver updates. A new graphics driver comes with bug fixes and brings new features.
@@ -112,9 +125,12 @@ Here’s how to update drivers with Driver Easy:
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Enable hardware-accelerated GPU scheduling
 
  Hardware-accelerated GPU scheduling is a feature that comes with a recent Windows update designed to boost in-game FPS. For some gamers, they do get an FPS boost after enabling this feature. So you can give it a shot.  
@@ -125,17 +141,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
@@ -156,6 +179,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then apply the changes and test your gameplay.
 
 ---
@@ -168,8 +198,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +205,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-skype-recording-procedures-streamlined-techniques-for-windows-and-os-x/"><u>[New] 2024 Approved Skype Recording Procedures - Streamlined Techniques for Windows & OS X</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-sculpt-the-subject-mastering-the-art-of-background-takedown/"><u>[Updated] Sculpt the Subject Mastering the Art of Background Takedown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-top-virtual-reality-games-oculus-vs-htc-vive-vs-playstation-vr-showdown/"><u>[Updated] Top Virtual Reality Games Oculus vs HTC Vive vs PlayStation VR Showdown</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-exclusive-fb-picturevid-producer-no-fee/"><u>2024 Approved Exclusive FB Picture/Vid Producer - No Fee</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-warzone-20s-pc-stability-issues-and-game-interruptions/"><u>Expert Tips for Resolving Warzone 2.0'S PC Stability Issues and Game Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-discord-how-to-restore-audio-during-screen-sharing/"><u>Fixing Discord: How to Restore Audio During Screen Sharing</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to View GPX Files Online and Offline Solutions Of Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-14-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi 14 Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y200-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y200 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-iphone-x-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on iPhone X online without jailbreak</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-unraveling-the-postponement-of-elden-ring/"><u>In Depth: Unraveling the Postponement of Elden Ring</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-how-to-troubleshoot-and-fix-world-of-warships-crashes-on-pc/"><u>Quick Solutions: How to Troubleshoot and Fix World of Warships Crashes on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-cod-black-ops-cold-war-failed-start-up-issues-on-windows/"><u>Troubleshooting Steps for Cod: Black Ops Cold War Failed Start-Up Issues on Windows</u></a></li>
+</ul></div>
 

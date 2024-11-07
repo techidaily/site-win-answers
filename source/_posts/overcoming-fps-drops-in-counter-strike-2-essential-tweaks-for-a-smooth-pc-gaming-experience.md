@@ -1,7 +1,7 @@
 ---
 title: "Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience"
-date: 2024-10-31T01:10:38.689Z
-updated: 2024-11-01T06:57:02.677Z
+date: 2024-10-31T21:48:09.201Z
+updated: 2024-11-06T19:39:26.069Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -54,15 +47,22 @@ modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
@@ -108,21 +108,14 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
@@ -132,36 +125,30 @@ wireless router
 5. Select**C drive** and check **Custom size** .  
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -172,6 +159,13 @@ wireless router
 2. Delete the **Battle.net**  and **Blizzard Entertainment** folder.
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
 
@@ -208,20 +202,21 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-ios-and-android-tips-for-silent-youtube-viewing-for-2024/"><u>[Updated] IOS & Android Tips for Silent YouTube Viewing for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-your-troubles-solving-steams-persistent-crash-problem-quickly/"><u>End Your Troubles: Solving Steam's Persistent Crash Problem Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-remedies-resolving-vrchat-pc-malfunctions-in-8-steps/"><u>Essential Remedies: Resolving VRChat PC Malfunctions in 8 Steps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixes-and-solutions-accelerate-your-windows-11-updates/"><u>Fixes & Solutions: Accelerate Your Windows 11 Updates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Huawei Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-secondary-shots-a-filmmakers-blueprint/"><u>In 2024, Integrating Secondary Shots A Filmmaker's Blueprint</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-rapid-assembly-of-google-image-mosaics/"><u>In 2024, Rapid Assembly of Google Image Mosaics</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/in-depth-insight-how-to-navigate-and-optimize-your-samsung-tv-apps-experience/"><u>In-Depth Insight: How to Navigate and Optimize Your Samsung TV Apps Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/reconnecting-fallout-76-on-windows-a-step-by-step-guide-to-restoring-server-links/"><u>Reconnecting Fallout 76 on Windows: A Step-by-Step Guide to Restoring Server Links</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-stabilize-your-dota-2-gaming-experience-by-stopping-crashes/"><u>Step-by-Step: Stabilize Your Dota 2 Gaming Experience by Stopping Crashes.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-solutions-for-a-non-functional-ubisoft-connect-platform/"><u>Top Solutions for a Non-Functional Ubisoft Connect Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-no-more-solving-the-common-problem-of-fifa-19-freezing-or-crashing/"><u>Trouble No More: Solving the Common Problem of FIFA 19 Freezing or Crashing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/upgrading-to-iphone-16-pro-a-comprehensive-comparison-with-the-iphone-14-pro-on-zdnet/"><u>Upgrading to iPhone 16 Pro? A Comprehensive Comparison with the iPhone 14 Pro on ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-isnt-alan-wake-2-releasing-and-solutions/"><u>Why Isn't Alan Wake 2 Releasing and Solutions?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-tips-and-hacks-for-using-instagram-filters-effectively/"><u>[New] 2024 Approved Tips & Hacks for Using Instagram Filters Effectively</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-achieve-impact-innovative-imovie-techniques-for-youtube-startups/"><u>[New] In 2024, Achieve Impact Innovative iMovie Techniques for YouTube Startups</u></a></li>
+<li><a href="https://win-trending.techidaily.com/2021-ultimate-shopping-manual-navigating-black-friday-and-cyber-monday-deals-on-zdnet/"><u>2021 Ultimate Shopping Manual: Navigating Black Friday & Cyber Monday Deals on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008108871-beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-reducing-stutter-and-improving-v-rising-performance-on-desktops/"><u>Effective Fixes for Reducing Stutter and Improving V-Rising Performance on Desktops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-resolving-the-blue-screen-of-death-in-hell-divers-2/"><u>Effective Solutions for Resolving the Blue Screen of Death in Hell Divers 2</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-guide-to-recover-from-endless-booting-and-complete-setup-screens/"><u>Expert Guide to Recover From Endless Booting and Complete Setup Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-audio-error-message-in-itunes-for-optimal-playback-experience/"><u>Fixing the Audio Error Message in iTunes for Optimal Playback Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-y200e-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo Y200e 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-ghost-runner-critical-crash-issue-in-windows-11/"><u>Resolving the Ghost Runner Critical Crash Issue in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-meizu-21-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Meizu 21 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-continuous-crashes-of-after-effects-in-windows-10-and-11-systems/"><u>Ultimate Guide to Fixing Continuous Crashes of After Effects in Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/universal-aiff-file-playback-software-for-pcs-and-mobile-devices-windows-mac-ios-android/"><u>Universal AIFF File Playback Software for PCs and Mobile Devices (Windows, Mac, iOS, Android)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-online-authentication-for-origin-players-fully-operational-now/"><u>Update: Online Authentication for Origin Players Fully Operational Now</u></a></li>
 </ul></div>
 

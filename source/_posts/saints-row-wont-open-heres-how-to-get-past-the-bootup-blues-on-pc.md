@@ -1,7 +1,7 @@
 ---
 title: Saints Row Won't Open? Here's How to Get Past the Bootup Blues on PC
-date: 2024-09-01T04:12:33.102Z
-updated: 2024-09-02T04:12:33.102Z
+date: 2024-11-04T21:31:31.658Z
+updated: 2024-11-06T20:31:52.834Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 
  Whether you’re running into the MTG Arena black screen issue on your computer or your mobile phone, before we dive into anything advanced, make sure you’ve restarted your device. – A simple restart will reset your system environment and can often fix software glitches like this.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Make Sure Your Device Meets MTGA Minimum Specs
 
  If the black screen issue still exists after the reboot, you might want to check your PC specifications and make sure it can handle the demands of the game. Here’re the minimum system requirements for MTGA:
@@ -65,18 +62,12 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 
  If this doesn’t do the trick for you, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Download the Latest Visual C++ Redistributable
 
  Another fix that works for many players is to update the Microsoft Visual C++ Redistributable. Just **[download the latest version of Visual C++ vc_redist. x86.exe](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-160)**  from the Microsoft official website and install it on your PC.
 
 If this does fix your issue, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Update Your Graphics Driver
 
  If the blacking screen issue keeps coming up, it might be that your graphics driver is not compatible or gets corrupted somehow. So you want to make sure that you’re using the right driver.
@@ -91,11 +82,25 @@ If this does fix your issue, try the next solution.
 
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you want, but it’s partly manual.
 
@@ -106,9 +111,6 @@ If this does fix your issue, try the next solution.
 
 If you still have the problem, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Reinstall the Game
 
  If you still can’t get MTGA to work correctly, it could be an issue with game installation files. In this case, uninstalling the game then reinstalling it might help.
@@ -124,14 +126,21 @@ If you still have the problem, then try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-14_11-19-29.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) [**Download**](https://magic.wizards.com/) and reinstall the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus Tip: Use a VPN
 
  Gaming can take up a lot of bandwidth. To prevent network congestion, your internet service provider (ISP) may limit your connection speed to balance all connections – which can cause issues for you.
@@ -148,6 +157,13 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Run your game and enjoy a better gaming experience!
 
  Hopefully, one of the fixes above has solved your problem! Please feel free to leave a comment if you have any questions or suggestions, or let us know if you manage to resolve this issue in some other way!
@@ -160,8 +176,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +183,16 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/comprehensive-fix-addressing-missing-coprocessor-drivers-in-your-windows-10-machine/"><u>Comprehensive Fix: Addressing Missing Coprocessor Drivers in Your Windows 10 Machine</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-vocal-volumes-the-most-emotional-songs-for-engagement/"><u>In 2024, Vocal Volumes The Most Emotional Songs for Engagement</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010819763-league-of-legends-game-crashes-fast-fix-solutions/"><u>League of Legends Game Crashes: Fast Fix Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/power-supply-issues-for-pc-an-inadequate-or-faulty-power-supply-unit-could-cause-the-computer-not-to-start-up-correctly-and-result-in-a-black-screen-checkin406/"><u>Power Supply Issues (for PC): An Inadequate or Faulty Power Supply Unit Could Cause the Computer Not to Start up Correctly and Result in a Black Screen. Checking Your PSU for Issues May Help.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-regain-access-to-world-of-warcraft-servers-after-disconnect/"><u>Solution: Regain Access to World of Warcraft Servers After Disconnect</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/spinning-tales-in-sound-your-ultimate-guide-to-podcast-scripts/"><u>Spinning Tales in Sound Your Ultimate Guide to Podcast Scripts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-choosing-a-portable-charger-and-jump-starter-why-halo-bolt-is-the-best-on-the-market/"><u>The Ultimate Guide to Choosing a Portable Charger and Jump Starter: Why Halo Bolt Is the Best on the Market</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-far-cry-6s-pc-gameplay-interruptions/"><u>Troubleshooting Steps for Fixing Far Cry 6'S PC Gameplay Interruptions</u></a></li>
+</ul></div>
 

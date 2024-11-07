@@ -1,7 +1,7 @@
 ---
 title: Solve League of Legends Crashes Quick and Hitch-Free - Your Guide to Uninterrupted Gameplay
-date: 2024-10-27T03:21:19.675Z
-updated: 2024-11-01T06:36:24.197Z
+date: 2024-11-04T23:15:57.365Z
+updated: 2024-11-07T00:57:28.723Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -95,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -110,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -130,10 +130,16 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -146,13 +152,6 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -162,6 +161,19 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -175,16 +187,16 @@ thumbnail: https://thmb.techidaily.com/0e72ae7670739d2aa724a5c1676e3ea5eb7af36bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,19 +220,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>[New] 2024 Approved The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-four-basic-techniques-for-adjusting-photo-hues/"><u>[New] Four Basic Techniques for Adjusting Photo Hues</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-decode-your-youtube-preferences-with-these-6-fan-favorite-questionnaires-for-2024/"><u>[Updated] Decode Your YouTube Preferences with These 6 Fan-Favorite Questionnaires for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-resolving-full-game-crashes-in-horizon-forbidden-west-pc-tips/"><u>Complete Guide: Resolving Full Game Crashes in Horizon Forbidden West - PC Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deathloop-game-crashing-follow-this-guide-for-quick-and-simple-repairs-to-enhance-your-gaming-experience/"><u>Deathloop Game Crashing? Follow This Guide for Quick and Simple Repairs to Enhance Your Gaming Experience!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-hp-officejet-pro-6970-driver-version-compatible-with-windows-systems/"><u>Get the Newest HP OfficeJet Pro 6970 Driver Version Compatible with Windows Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-windows-spotlight-feature-on-windows-11-devices/"><u>How To Restore Windows Spotlight Feature On Windows 11 Devices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-and-simple-solutions-repairing-madden-nfl-22-glitches/"><u>Quick and Simple Solutions: Repairing Madden NFL 22 Glitches</u></a></li>
-<li><a href="https://win11.techidaily.com/reimagining-your-login-experience-opting-for-stronger-protection-over-windows-11s-default-pin/"><u>Reimagining Your Login Experience: Opting for Stronger Protection over Windows 11'S Default PIN</u></a></li>
-<li><a href="https://os-tips.techidaily.com/1723620269005-rescue-your-drenched-iphone-expert-methods-for-preventing-water-harm/"><u>Rescue Your Drenched iPhone - Expert Methods for Preventing Water Harm</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-problems-reactivate-mic-for-microsoft-teams-users-on-windows/"><u>Troubleshooting Audio Problems: Reactivate Mic for Microsoft Teams Users on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-microsoft-flight-simulator-2020-persistent-pc-crashes/"><u>Troubleshooting Tips for Microsoft Flight Simulator 2020 Persistent PC Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-troubleshooting-dead-space-remake-launch-issues/"><u>Ultimate Guide: Troubleshooting Dead Space Remake Launch Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-top-6-mac-capture-software-selections/"><u>[Updated] In 2024, Discover Top 6 Mac Capture Software Selections</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-step-by-step-guide-to-perfecting-iphones-hdr-shots-for-2024/"><u>[Updated] Step-by-Step Guide to Perfecting iPhone's HDR Shots for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-xiaomi-14-ultra-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Xiaomi 14 Ultra without App | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-guide-crafting-quick-invoices-with-excel-tips-and-tricks/"><u>DIY Guide: Crafting Quick Invoices with Excel Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/duplicating-an-excel-sheet-a-step-by-step-guide-to-cloning-with-or-without-formulas/"><u>Duplicating an Excel Sheet: A Step-by-Step Guide to Cloning with or without Formulas</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easier-reading-6-essential-strategies-for-organizing-your-excel-data/"><u>Easier Reading: 6 Essential Strategies for Organizing Your Excel Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-generate-basic-invoices-in-microsoft-excel/"><u>Easy Steps to Generate Basic Invoices in Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-building-histograms-with-microsoft-excel/"><u>Easy Tutorial on Building Histograms with Microsoft Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-tutorial-on-uploading-and-converting-your-excel-file-into-google-sheets/"><u>Easy Tutorial on Uploading and Converting Your Excel File Into Google Sheets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-excel-techniques-how-to-locate-and-update-textual-content-and-numerical-values-instantly/"><u>Efficient Excel Techniques: How to Locate and Update Textual Content and Numerical Values Instantly</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-subjects-for-consistent-vlogging-for-2024/"><u>Engaging Subjects for Consistent Vlogging for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-take-on-iphone-15-insights-and-endorsement-for-seasoned-tech-aficionados-zdnet/"><u>Expert Take on iPhone 15: Insights and Endorsement for Seasoned Tech Aficionados - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insider-information-on-googles-new-pixel-9-discover-expected-costs-release-schedule-and-tech-specs/"><u>Insider Information on Google's New Pixel 9! Discover Expected Costs, Release Schedule, and Tech Specs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-how-to-for-harnessing-hd-video-from-facebook-feeds-for-2024/"><u>The How-To for Harnessing HD Video From Facebook Feeds for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-recommended-video-codecs-and-formats-for-optimal-performance-on-windows-11-mobile/"><u>Top Recommended Video Codecs and Formats for Optimal Performance on Windows 11 Mobile</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-how-to-install-new-tempered-glass-on-your-mobile-screen/"><u>Ultimate Guide: How To Install New Tempered Glass On Your Mobile Screen</u></a></li>
 </ul></div>
 

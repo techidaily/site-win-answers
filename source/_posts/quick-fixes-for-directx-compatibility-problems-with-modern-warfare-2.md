@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2024-10-28T07:10:51.807Z
-updated: 2024-11-01T09:21:38.255Z
+date: 2024-11-05T00:33:51.373Z
+updated: 2024-11-07T03:28:41.128Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ thumbnail: https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c6248025904
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run WWE 2K20 as administrator
 
  In some cases, WWE 2K20 won’t run properly because it is not granted the necessary access to running the game. To make sure your game does not crash because of insufficient rights, you should run it as administrator.
@@ -58,6 +51,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
@@ -65,13 +65,6 @@ Here is how to do it:
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -86,15 +79,28 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -120,13 +126,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable your antivirus program
 
  Running WWE 2K20 consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -151,35 +150,48 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -204,17 +216,24 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-elite-portables-cutting-edge-4k-video-creation-machines/"><u>[New] Elite Portables Cutting-Edge 4K Video Creation Machines</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos/"><u>[New] In 2024, Perfecting Motion Capture A Guide to GoPro Time Lapse Photos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-guide-overcoming-persistent-gameplay-issues-with-call-of-duty-vanguard-on-pc/"><u>2024 Guide: Overcoming Persistent Gameplay Issues with Call of Duty Vanguard on PC</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/beginning-anew-on-social-media-crafting-your-x-account-from-scratch/"><u>Beginning Anew on Social Media: Crafting Your X Account From Scratch</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-in-class-tools-merging-gpt-with-vs-code-effortlessly/"><u>Best-in-Class Tools: Merging GPT with VS Code Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-resolve-color-shifts-and-image-distortion-problems-with-your-monitor/"><u>How to Resolve Color Shifts and Image Distortion Problems with Your Monitor</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-hurdles-successful-steps-to-get-warzone-running-smoothly-again/"><u>Overcoming Hurdles: Successful Steps to Get Warzone Running Smoothly Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-fixing-the-easyais-anti-cheat-not-found-on-eac/"><u>Resolved Issue: Fixing the 'EasyAI's Anti-Cheat Not Found' On EAC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-overcoming-the-hurdle-of-launching-steam-games-on-windows-11/"><u>Solved! Overcoming the Hurdle of Launching Steam Games on Windows 11</u></a></li>
-<li><a href="https://win11.techidaily.com/swipe-right-apk-installation-on-win-11-with-one-click/"><u>Swipe Right: APK Installation on Win 11 with One Click</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-gzw-game-crashes-for-pc-users-tips-and-solutions/"><u>Troubleshooting GZW Game Crashes for PC Users - Tips & Solutions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/unleash-your-creative-potential-free-voice-effects-at-hand-for-2024/"><u>Unleash Your Creative Potential Free Voice Effects at Hand for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210004001-9781761035043-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-rust-a-look-into-correcting-the-visual-bugs-in-the-hitman-series/"><u>Fixing [RUST] - A Look Into Correcting the Visual Bugs in the Hitman Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-persistent-pauses-and-hitches-tips-for-smooth-warframe-gameplay/"><u>Fixing Persistent Pauses and Hitches: Tips for Smooth Warframe Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-failed-issue-in-escape-from-tarkov/"><u>How to Fix the 'Anticheat Connection Failed' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-identify-and-setup-unrecognized-audio-devices-on-your-windows-11-pc/"><u>How to Identify & Setup Unrecognized Audio Devices on Your Windows 11 PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-a60s-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel A60s FRP Bypass Instantly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-connections-fixed-overcoming-world-access-problems/"><u>Minecraft Connections Fixed - Overcoming World Access Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-a-non-functioning-google-meet-webcam/"><u>Resolved: Troubleshooting Steps for a Non-Functioning Google Meet Webcam</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/secure-fb-links-8plus-comprehensive-no-cost-downloaders-for-23/"><u>Secure FB Links 8+ Comprehensive, No-Cost Downloaders for '23</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/stability-in-the-click-quashing-jitter-for-2024/"><u>Stability in the Click Quashing Jitter for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stabilized-bioshock-2-remaster-discover-the-improved-adventure/"><u>Stabilized BioShock 2 Remaster: Discover the Improved Adventure!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successfully-fixed-launch-issues-for-steam-on-your-windows-10-machine/"><u>Successfully Fixed? Launch Issues for Steam on Your Windows 10 Machine</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-ranked-reviews-of-google-wifi-the-go-to-choice-for-seamless-wireless-mesh-router-systems/"><u>Top-Ranked Reviews of Google WiFi - The Go-To Choice for Seamless Wireless Mesh Router Systems</u></a></li>
+<li><a href="https://win-info.techidaily.com/top-rate-klonierungssoftware-fur-laufwerksverschiebung-von-c-zu-externer-festplatte-in-windows/"><u>Top-Rate Klonierungssoftware Für Laufwerksverschiebung Von C: Zu Externer Festplatte in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-code-vein-from-freezing-on-your-console-or-pc/"><u>Troubleshooting Guide: Stop Code Vein From Freezing on Your Console or PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-to-resolve-stray-impact-pc-crash-errors-with-these-5-proven-strategies/"><u>Ultimate Fix Guide to Resolve 'Stray: Impact' PC Crash Errors with These 5 Proven Strategies</u></a></li>
 </ul></div>
 

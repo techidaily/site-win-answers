@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Reducing Discord's CPU Consumption
-date: 2024-09-01T04:14:39.302Z
-updated: 2024-09-02T04:14:39.302Z
+date: 2024-10-31T17:39:20.014Z
+updated: 2024-11-07T01:04:03.760Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 
 Follow the steps below to fix the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Check the requirements
 
  Make sure your PC has meet the minimum requirements of Yakuza 6: The Song of Life.
@@ -45,9 +42,6 @@ Follow the steps below to fix the crashing issue.
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Update your drivers
 
  Make sure your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing or black screen issues.
@@ -60,8 +54,18 @@ Follow the steps below to fix the crashing issue.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -72,9 +76,6 @@ Follow the steps below to fix the crashing issue.
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 3: Install beta patch
 
  The SEGA Team released a new patch to fix the crashes. Follow the steps below to solve the issues with the latest patch.
@@ -82,16 +83,18 @@ Restart your computer for the changes to take effect.
 1. Launch Steam, right-click the game in the LIBRARY, and go to**Properties** .  
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -103,20 +106,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Edit Settings
 
  This fix is working for most of the users, follow the steps to edit your Advanced Performance Settings.
@@ -124,23 +133,44 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Press the**Windows logo key + I** together and click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,8 +182,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +189,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/sifu-resolved-frame-rate-hiccups-and-freezing-issues-on-the-pc-version/"><u>'Sifu': Resolved Frame Rate Hiccups and Freezing Issues on the PC Version</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-a-step-by-step-guide-to-collecting-excellent-visual-content/"><u>[New] 2024 Approved A Step-by-Step Guide to Collecting Excellent Visual Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-15-pro-gopro-cutting-tools/"><u>[Updated] Top 15 Pro GoPro Cutting Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985284896-evil-genius-2-no-audio-heres-how-you-can-get-sound-back/"><u>Evil Genius 2 No Audio? Here's How You Can Get Sound Back</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-continuous-crashes-during-the-gameplay-loop-on-widows-1110-systems/"><u>Fixing Continuous Crashes During the Gameplay Loop on Widows 11/10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-recurring-crashes-in-games-for-your-desktop-computer-a-deep-dive/"><u>How to Fix Recurring Crashes in Games for Your Desktop Computer - A Deep Dive</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-from-delivery-to-discovery-enhancing-initial-encounters/"><u>In 2024, From Delivery to Discovery Enhancing Initial Encounters</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-f04-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy F04 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor Magic Vs 2? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211180368-9798218341862-life-in-a-week/"><u>Life in a Week | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastery-of-rust-debugging-techniques-eradicate-unresponsive-codes/"><u>Mastery of Rust Debugging Techniques - Eradicate Unresponsive Codes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peak-creation-suite-insightful-2023-analysis-for-2024/"><u>Peak Creation Suite Insightful 2023 Analysis for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-redemption-stopped-frame-rate-drops-and-hitches-troubleshooting-guide/"><u>Red Dead Redemption ([STOPPED]) Frame Rate Drops & Hitches Troubleshooting Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-earbuds-driver-accessibility/"><u>Streamlined Earbuds Driver Accessibility</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rofit-generating-online-entertainer/"><u>Top Profit Generating Online Entertainer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-high-processor-demand-in-new-world-a-step-by-step-guide/"><u>Troubleshooting High Processor Demand in 'New World': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-diablo-immortal-is-still-missing-from-your-pc-gaming-library/"><u>Why Diablo Immortal Is Still Missing From Your PC Gaming Library</u></a></li>
+</ul></div>
 

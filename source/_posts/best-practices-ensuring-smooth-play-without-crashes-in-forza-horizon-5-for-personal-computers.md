@@ -1,7 +1,7 @@
 ---
 title: "Best Practices: Ensuring Smooth Play Without Crashes in Forza Horizon 5 for Personal Computers"
-date: 2024-10-28T00:52:55.215Z
-updated: 2024-11-01T01:44:31.680Z
+date: 2024-11-05T03:11:09.702Z
+updated: 2024-11-06T18:01:36.203Z
 tags:
   - win11
   - win10
@@ -44,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/0afc969a260468b6e52b6a33d1ca7e6eed63bd07e
 
  Launch Forza Horizon 5 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing Forza Horizon 5 FPS dropping issue.
@@ -78,20 +65,27 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Set the Power Plan of your PC for high performance
 
@@ -105,23 +99,23 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -137,6 +131,13 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -161,6 +162,19 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 1. Open **AMD Radeon Settings** .
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
@@ -195,21 +209,7 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -235,22 +235,19 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlock-video-potential-the-best-10-flv-to-youtube-tools-at-a-glance/"><u>[New] In 2024, Unlock Video Potential The Best 10 Flv to YouTube Tools at a Glance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-new-era-for-mobile-photography-iphone-x-explored/"><u>[New] New Era for Mobile Photography IPhone X Explored</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-best-5-quick-video-capture-tools/"><u>[Updated] Best 5 Quick Video Capture Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-insider-tips-skyrocketing-your-canva-experience-for-2024/"><u>[Updated] Insider Tips Skyrocketing Your Canva Experience for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mastering-youtube-link-building-a-strategic-guide/"><u>2024 Approved Mastering YouTube Link Building A Strategic Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/borderlands-3-troubleshooting-fixing-persistent-game-freeze-problems/"><u>Borderlands 3 Troubleshooting: Fixing Persistent Game-Freeze Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-issues-and-solutions-fixing-a-non-resplicable-thaumaturge-in-pc-software/"><u>Common Issues & Solutions: Fixing a Non-Resplicable Thaumaturge in PC Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722999983212-fixing-the-endless-loading-screen-in-minecraft-ultimate-solutions/"><u>Fixing the Endless Loading Screen in Minecraft: Ultimate Solutions!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-initial-load-problems-with-palworld-a-users-guide/"><u>Overcoming Initial Load Problems with Palworld - A User’s Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-fixing-detroit-become-human-pc-malfunctions-and-crashes/"><u>Solutions for Fixing Detroit: Become Human PC Malfunctions and Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-lost-ark-server-connection-issues-a-step-by-step-guide/"><u>Solutions for Lost Ark Server Connection Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-frame-rate-issues-in-age-of-empires-iv-a-comprehensive-guide/"><u>Solving Frame Rate Issues in Age of Empires IV: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-for-connecting-airpods-with-windows-11-latest-techniques/"><u>Step-by-Step Troubleshooting for Connecting AirPods with Windows 11 - Latest Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/superior-sd-cards-that-power-up-your-gopro-hero-78/"><u>Superior SD Cards that Power Up Your GoPro Hero 7/8</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-reviews-in-depth-computer-and-gadget-analysis-t17238628805324/"><u>Tom's Tech Reviews: In-Depth Computer and Gadget Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-accessories-comprehensive-reviews-by-experts-zdnet/"><u>Top Rated MagSafe Accessories : Comprehensive Reviews by Experts | ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-the-persistent-fortnite-freeze-problems-on-pc/"><u>Ultimate Fixes for the Persistent Fortnite Freeze Problems on PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/op-choices-premier-video-cutting-tools-for-online-streaming/"><u>[New] Top Choices Premier Video Cutting Tools For Online Streaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-elevate-your-snap-game-15-must-try-tactics/"><u>[Updated] 2024 Approved Elevate Your Snap Game 15 Must-Try Tactics</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-getting-started-with-windows-11s-in-built-high-dynamic-range-auto-hdr-for-2024/"><u>[Updated] Getting Started with Windows 11'S In-Built High Dynamic Range (Auto HDR) for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-instagrams-guide-to-intellectual-property-in-music/"><u>2024 Approved Instagram's Guide to Intellectual Property in Music</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-hack-resolving-download-problems-with-cyberpunk-2077-on-steam-platform/"><u>Complete Hack: Resolving Download Problems with Cyberpunk 2077 on Steam Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-fortnite-load-failures-fast-expert-solutions/"><u>Fix Fortnite Load Failures Fast: Expert Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-overcome-the-usb-interface-problem-with-260ci-model-from-linksysbelkin/"><u>Guide to Overcome the USB Interface Problem with 260Ci Model From Linksys/Belkin</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>In 2024, First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-steam-content-file-blocked-issue/"><u>Resolved: Fixing the 'Steam Content File Blocked' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamp-your-gaming-expert-troubleshooting-tips-for-when-minecraft-wont-start/"><u>Revamp Your Gaming: Expert Troubleshooting Tips for When Minecraft Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-when-fallout-76-fails-on-pc/"><u>Solution Steps for When Fallout 76 Fails on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-playing-assassins-creed-mirage-essential-launch-issues-and-solutions/"><u>Trouble Playing Assassin's Creed: Mirage ? Essential Launch Issues and Solutions!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/u-are-u-scanner-fp-450-driver-instructions/"><u>U-Are-U Scanner FP 4.50 Driver Instructions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-selection-of-top-4k-uhd-media-players-on-pcmac-comprehensive-guide-and-download-options/"><u>Ultimate Selection of Top 4K UHD Media Players on PC/Mac: Comprehensive Guide and Download Options</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Graphic Glitches: A Comprehensive Guide for the Latest Forza Horizon ⁵ Driver Upgrade"
-date: 2024-09-01T04:11:15.088Z
-updated: 2024-09-02T04:11:15.088Z
+date: 2024-10-31T03:10:19.150Z
+updated: 2024-11-06T19:32:52.358Z
 tags:
   - win11
   - win10
@@ -23,6 +23,13 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 2. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1\. Close unnecessary background apps
 
@@ -66,17 +73,18 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4\. Once complete, restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3\. Repair your game files
 
  It’s possible that a corrupted game file cause the Warzone DirectX error. It’s easy to verify the integrity of your game files; all be done within a few clicks.
@@ -90,15 +98,16 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4\. Click**Begin Scan** , and wait for the process to complete.
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Play the game in DirectX 11 mode
 
  If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
@@ -110,29 +119,16 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click **Done** .
 
 ---
@@ -150,8 +146,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +153,21 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-itunes-recording-proven-techniques-for-success/"><u>[New] 2024 Approved ITunes Recording Proven Techniques for Success</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-best-free-webm-players-how-to-play-webm-video-files-for-2024/"><u>[New] Best Free WebM Players How to Play WebM Video Files for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-seamless-shift-to-graphics-mastering-the-art-of-tiktok-to-gif/"><u>[New] In 2024, Seamless Shift to Graphics Mastering the Art of TikTok to GIF</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-expert-video-editing-techniques-for-instagram-success/"><u>2024 Approved Expert Video Editing Techniques for Instagram Success</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-invalid-service-installation-parameters-in-inf/"><u>Fixing Invalid Service Installation Parameters in INF</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-resolving-discord-delays-and-stutter-tips/"><u>Guide to Resolving Discord Delays & Stutter: Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-get-up-close-with-video-chat-colleagues-for-2024/"><u>How to Get Up Close with Video Chat Colleagues for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-nwstoreexe-hiccups-a-user-friendly-walkthrough-for-faster-repairs/"><u>Overcoming Common nw_store.exe Hiccups - A User-Friendly Walkthrough for Faster Repairs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-warning-message-hurdle-during-voice-communication-sessions/"><u>Overcoming the 'Warning Message' Hurdle During Voice Communication Sessions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-voice-chat-issues-mastering-overwatchs-push-to-talk-mechanism/"><u>Resolving Voice Chat Issues – Mastering Overwatch's Push-to-Talk Mechanism</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002902962-tech-troubles-fix-your-game-instant-solutions-to-stop-titanfall-2-from-crashing/"><u>Tech Troubles? Fix Your Game: Instant Solutions to Stop Titanfall 2 From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-out-of-video-memory-in-fortnite-with-these-proven-techniques/"><u>Troubleshoot 'Out of Video Memory' In Fortnite with These Proven Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-addressing-the-witcher-3-pc-performance-problems-for-smooth-gaming/"><u>Ultimate Fix Guide: Addressing 'The Witcher 3' PC Performance Problems for Smooth Gaming</u></a></li>
+</ul></div>
 

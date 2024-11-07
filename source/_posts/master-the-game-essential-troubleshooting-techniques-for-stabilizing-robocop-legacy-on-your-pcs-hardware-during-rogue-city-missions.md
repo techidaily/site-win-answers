@@ -1,7 +1,7 @@
 ---
 title: "Master the Game: Essential Troubleshooting Techniques for Stabilizing Robocop: Legacy on Your PC's Hardware During Rogue City Missions"
-date: 2024-09-01T04:13:36.218Z
-updated: 2024-09-02T04:13:36.218Z
+date: 2024-11-01T06:27:46.931Z
+updated: 2024-11-07T03:33:10.676Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
@@ -69,22 +66,34 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience, and your graphics driver is essential for getting top performance from your GPU.
@@ -102,6 +111,19 @@ If the game still crashes, try the next fix below.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -129,9 +151,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -144,18 +163,23 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
@@ -176,9 +200,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 If the problem still exists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -192,22 +213,12 @@ If the problem still exists, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -218,8 +229,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +236,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-digital-layer-combinations-at-home/"><u>[New] In 2024, Mastering Digital Layer Combinations at Home</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-first-home-frontier-top-6-beginner-friendly-mc-abodes/"><u>[Updated] First Home Frontier Top 6 Beginner-Friendly MC Abodes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-from-zero-to-hero-solo-podcast-trendsetters-secrets-for-2024/"><u>[Updated] From Zero to Hero Solo Podcast Trendsetters' Secrets for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos/"><u>[Updated] In 2024, Top Tips to Flawlessly Integrate Timely Text in Your FB Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/correcting-life-threatening-coding-issues-within-modern-warfare-and-battle-royale-experience/"><u>Correcting Life-Threatening Coding Issues Within Modern Warfare & Battle Royale Experience</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-updating-your-epson-xp-245-printer-on-various-windows-versions-7-8-and-10/"><u>Easy Guide: Updating Your Epson XP 245 Printer on Various Windows Versions (7, 8 & 10)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-correct-the-detected-graphics-driver-issues-in-oculus-devices/"><u>Easy Steps to Correct the Detected Graphics Driver Issues in Oculus Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-dayz-experience-immediate-fixes-for-framerate-drops-and-tips/"><u>Elevate Your DayZ Experience - Immediate Fixes for Framerate Drops & Tips</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/essential-factors-to-evaluate-prior-to-investing-in-a-brand-new-printer/"><u>Essential Factors to Evaluate Prior to Investing in a Brand-New Printer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-unlocking-the-solution-for-rzae-synapse-app-not-opening/"><u>Expert Advice: Unlocking the Solution for Rzae Synapse App Not Opening</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashes-in-the-insurgency-sandstorm-update/"><u>How to Fix Continuous Crashes in the Insurgency: Sandstorm Update</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-en-2022-puede-editar-todos-los-videos-inmediatamente-despues-de-capturarlos-pero-primero-debe-descubrir-una-aplicacion-de-edicion-de-vlogs-que-realmente/"><u>New En 2022, Puede Editar Todos Los Videos Inmediatamente Después De Capturarlos, Pero Primero Debe Descubrir Una Aplicación De Edición De Vlogs Que Realmente Le Guste Usar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-dilemma-top-7-simple-solutions-to-unfreeze-halo-infinite-on-your-computer/"><u>Solving the Dilemma: Top 7 Simple Solutions to Unfreeze Halo Infinite on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-restoring-functionality-to-a-broken-hp-screen/"><u>Success Story: Restoring Functionality to a Broken HP Screen</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/time-honored-tricks-top-1980s-visual-effects-to-elevate-your-edits-for-2024/"><u>Time-Honored Tricks Top 1980S Visual Effects to Elevate Your Edits for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-preventing-gas-station-simulator-from-pc-failures/"><u>Troubleshooting Guide: Preventing Gas Station Simulator From PC Failures</u></a></li>
+<li><a href="https://win-online.techidaily.com/ultimate-step-by-step-tutorial-top-2-free-tools-for-secure-data-retrieval-from-microsd-cards/"><u>Ultimate Step-by-Step Tutorial: Top 2 Free Tools for Secure Data Retrieval From MicroSD Cards</u></a></li>
+</ul></div>
 

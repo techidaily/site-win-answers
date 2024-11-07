@@ -1,7 +1,7 @@
 ---
 title: Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!
-date: 2024-10-27T08:15:28.710Z
-updated: 2024-11-01T05:21:33.334Z
+date: 2024-11-02T18:03:43.641Z
+updated: 2024-11-07T04:08:37.351Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Scan and repair game files
 
  The 887a0005 error code could indicate**an integrity issue** **with your game files** . In that case, you’ll need to scan and repair all the corrupted or missing files.
@@ -47,19 +54,6 @@ Here’s a quick guide for that:
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can now launch Black Ops Cold War and see if it crashes again.
 
@@ -77,13 +71,6 @@ If this trick doesn’t help you, simply continue to the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -103,21 +90,7 @@ And it’s fairly easy to update:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -126,10 +99,10 @@ And it’s fairly easy to update:
  If the updates don’t stop the crash, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
@@ -144,28 +117,43 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t fix your issue, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable in-game Ray Tracing
 
@@ -199,22 +187,18 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-jokester-jukebox-selecting-sources-for-funny-ringtones/"><u>[New] 2024 Approved Jokester Jukebox Selecting Sources for Funny Ringtones</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-business-boosters-the-ultimate-highlight-enhancement-guide/"><u>[New] In 2024, Business Boosters The Ultimate Highlight Enhancement Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-complete-manual-of-adding-captions-on-vimeo/"><u>[Updated] 2024 Approved The Complete Manual of Adding Captions on Vimeo</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-how-to-choose-the-right-thumbnail-size-for-impact/"><u>[Updated] How to Choose the Right Thumbnail Size for Impact</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-pioneering-televised-facebook-interactions-via-live-streams/"><u>[Updated] Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95715792-9781351947305-critical-spirituality/"><u>Critical Spirituality | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defying-disaster-triumphantly-tackling-detroit-become-human-on-a-desktop-device/"><u>Defying Disaster: Triumphantly Tackling Detroit: Become Human on a Desktop Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-steps-for-a-smooth-mortal-kombat-11-experience-avoid-crashes-now/"><u>Easy Steps for a Smooth Mortal Kombat 11 Experience: Avoid Crashes Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fallout-76-optimization-guide-enhance-your-frames-per-second-fps-for-a-smoother-gaming-experience/"><u>Fallout 76 Optimization Guide - Enhance Your Frames Per Second (FPS) for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-frozen-save-solving-persistent-frostpunk-game-crashing-concerns/"><u>Fix Your Frozen Save: Solving Persistent Frostpunk Game Crashing Concerns</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009869306-how-to-fix-warzone-black-screen-2024-tips/"><u>How to Fix Warzone Black Screen - 2024 Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-reduce-startup-delays-in-star-wars-battlefront-ii-on-windows-machines/"><u>How to Reduce Startup Delays in Star Wars: Battlefront II on Windows Machines</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-n55-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo N55 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/integrating-chatgpt-into-your-android-device-a-step-by-step-guide/"><u>Integrating ChatGPT Into Your Android Device – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-preventing-terminal-cycle-crashes-on-pcs-fresh-insights/"><u>Mastering Stability: Preventing Terminal Cycle Crashes on PCs - Fresh Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tackle-slow-response-times-in-back-4-blood-expert-tips-for-lowering-lag/"><u>Tackle Slow Response Times in Back 4 Blood - Expert Tips for Lowering Lag</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-the-smart-way-to-save-youtube-sections/"><u>[New] 2024 Approved The Smart Way to Save YouTube Sections</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>[Updated] In 2024, Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-harness-free-software-to-broadcast-virtual-events/"><u>[Updated] In 2024, Harness Free Software to Broadcast Virtual Events</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-dayz-gameplay-with-a-swift-and-easy-fps-solutions/"><u>Boost Your DayZ Gameplay with a Swift & Easy FPS Solutions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/excellent-screen-capture-apps-for-linux-enthusiasts-for-2024/"><u>Excellent Screen Capture Apps for Linux Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-no-available-camera-error-on-snapchat-troubleshooting-steps/"><u>Fixing 'No Available Camera' Error on Snapchat: Troubleshooting Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-tower-of-fantasy-game-crashes-on-your-windows-computer/"><u>How to Fix the 'Tower of Fantasy' Game Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-webcam-powered-recording-revolutionize-your-ppts/"><u>In 2024, Webcam-Powered Recording Revolutionize Your PPTs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/reimagining-gender-portrayal-in-social-media-images-for-2024/"><u>Reimagining Gender Portrayal in Social Media Images for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-when-call-of-duty-modern-warfare-3-stops-running/"><u>Troubleshooting Guide for When Call of Duty Modern Warfare 3 Stops Running</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-smooth-fifa-22-experience-on-windows-and-mac/"><u>Troubleshooting Tips for a Smooth FIFA 22 Experience on Windows and Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-overcome-cod-warzone-error-6328-tips-and-tricks-for-gamers-in-202e/"><u>Ultimate Fixes to Overcome Cod: Warzone Error 6328 - Tips & Tricks for Gamers in 202E</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/winx-dvd-author-dvddvd/"><u>WinX DVD Author: 無料の高機能DVD組み立てソフトウェアで手軽にDVD作成</u></a></li>
 </ul></div>
 

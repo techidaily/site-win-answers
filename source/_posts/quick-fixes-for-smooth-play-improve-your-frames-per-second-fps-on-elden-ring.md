@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring"
-date: 2024-09-01T04:09:28.768Z
-updated: 2024-09-02T04:09:28.768Z
+date: 2024-11-04T04:03:31.477Z
+updated: 2024-11-06T21:23:17.772Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-620.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
@@ -63,8 +70,12 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Use “flushdns” command
 
  This command is pretty useful to solve network-related issues. When you’re having major lag spikes in games or just feel that your network connection is unstable/stops working, you should always give this fix a try.
@@ -73,9 +84,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click **Yes** if you’re prompted about permission.
 
 2) In your command prompt window, enter the following command:
@@ -119,8 +127,12 @@ modem
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 wireless router
 
 2) Wait at least 30 seconds to let the two machines cool down a bit.
@@ -135,9 +147,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Update network adapter drivers
 
  Your network latency is sometimes caused by an outdated or corrupt driver. If you’re not sure whether your network card driver is up-to-date, you should check.
@@ -167,9 +176,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### 5\. Swap Wifi to Ethernet connection
 
  If none of the fixes above work out for you, then maybe you should shift your focus to the Wi-Fi signals around (only if you’re a Wi-Fi user). Admittedly, the wireless network is not as stable as a wired network so you’ll get more interruptions for having your computer connected to Wi-Fi. Say, when you’re streaming videos or playing games far away from your router, the Wi-Fi signals you receive can be rather weak and hence the reason for latency.
@@ -180,9 +186,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## OBS lags when recording
 
  Overloaded GPU is the main cause reason for the lag issue. Luckily, below you will find some solutions that do work for many OBS users:
@@ -191,6 +194,13 @@ wireless router
 2. **[Update graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Shut down unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Adjust OBS settings
 
@@ -209,6 +219,13 @@ wireless router
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Update graphics card drivers
 
  Updating drivers is the solution to various issues, including graphics lag. You can update your GPU driver from either Windows Device Manager or the manufacturer’s website. But if you don’t have the time, skills, and patience to do that, simply use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  – a reliable and powerful driver updater tool – to help you manage all the driver updates.
@@ -217,9 +234,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Shut down unnecessary programs
 
  If you have too many GPU-intensive programs running in the background, that will definitely slow down the processing speed of your computer and lead to graphics lag. It’s not hard to shut down unnecessary programs, but have you noticed a Windows 10 feature called “Game Bar” that may render poor performance in OBS? If you haven’t, it’s about time you turned it off.
@@ -228,24 +242,39 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-452.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now check to see whether your lag issue with OBS has been mitigated or resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### 4\. Lower in-game graphics settings
 
  To free up some resources on your GPU, you should turn down the graphics settings of any games running in the meantime. (Surely there’s no need to do that if you’re not streaming a game.) Then, wait to see if you’re still experiencing lag issues with OBS.
@@ -264,8 +293,6 @@ wireless router
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +300,26 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-revolutionize-traffic-flows-with-innovative-facebook-video-tactics-for-2024/"><u>[New] Revolutionize Traffic Flows with Innovative Facebook Video Tactics for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-15-essential-color-filters-to-elevate-gopro-cinematography/"><u>[Updated] 15 Essential Color Filters to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mobiles-leading-free-image-enhancement-and-layer-apps-ranked/"><u>[Updated] 2024 Approved Mobile's Leading Free Image Enhancement & Layer Apps Ranked</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-your-pathway-to-mastery-in-youtube-vids-on-twitter-for-2024/"><u>[Updated] Your Pathway to Mastery in YouTube Vids on Twitter for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bid-goodbye-to-f1-202-pc-issues-expert-fixes-for-stable-gaming-performance/"><u>Bid Goodbye to F1 202# PC Issues - Expert Fixes for Stable Gaming Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-steam-efficiency-expert-advice-on-improving-stream-speed/"><u>Boosting Steam Efficiency: Expert Advice on Improving Stream Speed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effective-chatgpt-verifier-solutions-for-academic-staff/"><u>Effective ChatGPT Verifier Solutions for Academic Staff</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 7 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improperly-sealed-joints/"><u>Improperly Sealed Joints:</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-screen-time-into-cash-the-youtube-way/"><u>In 2024, Turning Screen Time Into Cash The YouTube Way</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-troubleshooters-handbook-fixing-affected-video-game-data-on-pc/"><u>Modern Troubleshooter's Handbook: Fixing Affected Video Game Data on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-overcoming-valheim-pc-stutters-and-freezes/"><u>Optimizing Your Gameplay - Overcoming Valheim PC Stutters & Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-persistent-stalling-and-closing-of-the-starfield-game-on-your-computer/"><u>Solutions for Persistent Stalling and Closing of the Starfield Game on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-rise-of-smart-crime-exploring-5-ai-techniques-used-by-hackers/"><u>The Rise of Smart Crime: Exploring 5 AI Techniques Used by Hackers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tormented-souls-pc-version-now-bug-free-and-running-without-interruptions/"><u>Tormented Souls PC Version Now Bug-Free and Running without Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-unresponsive-websites-in-google-chrome-a-complete-guide/"><u>Troubleshooting Unresponsive Websites in Google Chrome: A Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unexpected-ways-to-top-up-your-phones-battery-without-a-conventional-charger/"><u>Unexpected Ways to Top Up Your Phone's Battery Without a Conventional Charger</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-20-lag-solutions-top-tricks-and-strategies-for-stable-connections/"><u>Warzone 2.0 Lag Solutions: Top Tricks & Strategies for Stable Connections</u></a></li>
+</ul></div>
 

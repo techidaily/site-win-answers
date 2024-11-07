@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Smoothing Out Stutters and Improving FPS on The Division 2
-date: 2024-09-01T04:11:13.834Z
-updated: 2024-09-02T04:11:13.834Z
+date: 2024-11-05T17:11:10.227Z
+updated: 2024-11-07T02:58:28.271Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -58,6 +55,13 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -79,8 +83,18 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
@@ -91,23 +105,21 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -118,11 +130,15 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Fix 5: Change NVIDIA resolution
 
  Open the NVIDIA control panel and change the resolution from 4k to 1440p. Click**Apply > Yes** to save the change.
@@ -139,8 +155,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +162,23 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-13t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi 13T Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-t2-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo T2 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-genshin-error-code-4201-for-a-smoother-gameplay-experience/"><u>How to Overcome Genshin Error Code 4201 for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hyper-v-installation-and-setup-instructions-for-users-of-windows-11/"><u>Hyper-V Installation & Setup Instructions for Users of Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ideal-iphone-photo-apps-for-slide-shows-xr-to-x/"><u>Ideal iPhone Photo Apps for Slide Shows (XR to X)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-breakthrough-techniques-for-building-intricate-iphone-photo-collages/"><u>In 2024, Breakthrough Techniques for Building Intricate iPhone Photo Collages</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-discover-the-future-of-screens-with-camstudios-2023-review/"><u>In 2024, Discover the Future of Screens with CamStudio's 2023 Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-a78-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo A78 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-language-exams-top-certifications-and-exam-preparation-guide/"><u>Mastering Language Exams: Top Certifications And Exam Preparation Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-halo-3-gameplay-interruptions-expert-tips-to-stop-your-pc-from-crashing/"><u>No More Halo 3 Gameplay Interruptions: Expert Tips to Stop Your PC From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007996455-optimizing-your-pc-settings-no-more-freezing-in-fall-guys/"><u>Optimizing Your PC Settings: No More Freezing in 'Fall Guys'!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-persistent-pc-instabilities-in-thunder-tier-one/"><u>Overcoming the Challenge: Persistent PC Instabilities in Thunder Tier One</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/protecting-previewed-photos-within-your-microsoft-word-documents/"><u>Protecting Previewed Photos Within Your Microsoft Word Documents</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/spectral-stories-telling-tales-through-color-for-2024/"><u>Spectral Stories Telling Tales Through Color for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003130445-stop-gta-5-crashes-in-their-tracks-top-troubleshooting-tips/"><u>Stop GTA 5 Crashes in Their Tracks – Top Troubleshooting Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2amoonshot-2077-downloads-via-steam-platform/"><u>Troubleshooting Cyberpunk 2Amoonshot 2077 Downloads via Steam Platform</u></a></li>
+</ul></div>
 

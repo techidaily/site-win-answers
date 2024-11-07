@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Connection Failed' Issue in Hitman 3: A Step-by-Step Guide"
-date: 2024-09-01T04:13:39.993Z
-updated: 2024-09-02T04:13:39.993Z
+date: 2024-11-05T06:06:08.704Z
+updated: 2024-11-07T04:02:16.381Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 6. Turn on your computer and connect to the Internet.
 7. Launch your game again and see if Hitman 3 works properly now.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Allow Hitman 3 to run through Windows Firewall
 
  The**Connection Failed** error can happen if Windows Firewall is blocking your game. So be sure to check the Windows Firewall settings and let your Hitman 3 run through Windows Firewall. Here is how:
@@ -56,23 +53,41 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 1. In the Windows Search bar, type**firewall** and select**Windows Defender Firewall** .  
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
    * Click on the game title in your library.  
@@ -97,20 +112,21 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Run your game as an administrator
 
  This might be triggered by limited administrative rights. So to make sure you can access all the game files, you can run Hitman 3 and Epic Games Launcher as administrators. Here’s how to run it as admin permanently:
@@ -119,13 +135,27 @@ OR
 2. Select the tab **Compatibility** and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .  
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Hitman 3 so that you can encounter the “**connection failed** ” error. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -134,9 +164,6 @@ OR
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6:**Flush your DNS and Renew your IP**
 
  If you keep getting this “connection failed” error, you can try flushing your DNS and renewing your IP:
@@ -148,9 +175,6 @@ OR
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
@@ -172,8 +196,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +203,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-low-cost-leverage-to-youtube-lore-sponsorship-hacks-for-small-spheres/"><u>[Updated] 2024 Approved Low-Cost Leverage to YouTube Lore Sponsorship Hacks for Small Spheres</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-beam-into-a-tiktok-live-your-seamless-integration-techniques/"><u>2024 Approved Beam Into a TikTok Live Your Seamless Integration Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-top-strategies-to-solve-paladins-stuttering-problems-in-2024/"><u>Crash No More: Top Strategies to Solve Paladins Stuttering Problems in 지구 2024년</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211417572-9781648414091-disabled-witchcraft/"><u>Disabled Witchcraft | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-repairing-your-inoperative-paradox-game-launcher-easily-and-quickly/"><u>Expert Advice: Repairing Your Inoperative Paradox Game Launcher Easily and Quickly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Oppo Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-oppo-reno-11-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Oppo Reno 11 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-alert-apple-issues-fresh-advisory-on-rogue-cyber-arms-threats-is-your-device-at-risk/"><u>IPhone Alert: Apple Issues Fresh Advisory on Rogue Cyber Arms Threats – Is Your Device at Risk?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-tips-for-stabilizing-your-remnant-gameplay-against-endless-crashing/"><u>Master Tips for Stabilizing Your Remnant Gameplay Against Endless Crashing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-design-shortcomings-an-expert-take-on-the-pioneer-bdr-xd05b-drives/"><u>Navigating Design Shortcomings: An Expert Take on the Pioneer BDR-XD05B Drives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/netflix-connectivity-fixes-for-xbox-players-back-online/"><u>Netflix Connectivity Fixes for Xbox Players – Back Online!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/reimagining-text-in-photographyvideo/"><u>Reimagining Text in Photography/Video</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-transferring-data-from-huawei-nova-9-to-your-personal-computer/"><u>Step-by-Step Guide: Transferring Data From Huawei Nova 9 to Your Personal Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990553351-subnautica-enthusiasts-resolved-no-more-crashes-in-pc-version-of-below-zero/"><u>Subnautica Enthusiasts - [RESOLVED] No More Crashes in PC Version of Below Zero</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-strategy-to-correctly-repair-frequent-teardown-crashes/"><u>The Complete Strategy to Correctly Repair Frequent Teardown Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-connection-problems-in-new-world-game-best-tips-and-tricks/"><u>Troubleshooting Connection Problems in 'New World' Game - Best Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-setting-up-hyper-v-virtualization-on-windows-10/"><u>Ultimate Guide: Setting Up Hyper-V Virtualization on Windows 10</u></a></li>
+</ul></div>
 

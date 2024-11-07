@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2024-10-25T06:56:11.164Z
-updated: 2024-11-01T05:08:05.994Z
+date: 2024-11-06T05:31:53.975Z
+updated: 2024-11-07T03:53:24.047Z
 tags:
   - win11
   - win10
@@ -70,26 +70,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
@@ -124,10 +111,10 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -137,10 +124,10 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -154,6 +141,13 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -178,15 +172,21 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/iscover-top-10-flv-to-youtube-conversion-tools/"><u>[New] Discover Top 10 Flv-to-YouTube Conversion Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/rom-raw-to-refined-youtube-thumbnail-creation-for-mobile-users-for-2024/"><u>[New] From Raw to Refined YouTube Thumbnail Creation for Mobile Users for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/alien-fireteam-elite-stability-issues-on-pc-solutions-inside/"><u>Alien: Fireteam Elite Stability Issues on PC - Solutions Inside!</u></a></li>
-<li><a href="https://discover-community.techidaily.com/best-free-substitutes-to-pinnacle-studio-top-5-options-compatible-with-both-windows-and-macos/"><u>Best Free Substitutes to Pinnacle Studio: Top 5 Options Compatible with Both Windows & macOS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-solving-launch-issues-in-armored-core-vi-the-fires-of-rubicon-not-opening-dilemma/"><u>Expert Tips for Solving Launch Issues in Armored Core VI - The 'Fires of Rubicon Not Opening' Dilemma</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-infinix-smart-8-plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/handbrake-capability-can-you-merge-multiple-videos-into-one/"><u>HandBrake Capability: Can You Merge Multiple Videos Into One?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-latency-issues-ultimate-guide-to-reducing-lag-in-street-fighter-6/"><u>Resolving Latency Issues: Ultimate Guide to Reducing Lag in Street Fighter 6</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-among-us-from-freezing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop 'Among Us' From Freezing! Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-frontier-visionaries-merging-media-triad-for-2024/"><u>[New] Frontier Visionaries Merging Media Triad for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-active-presenter-8-review/"><u>[Updated] In 2024, Active Presenter 8 Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-5-critical-equipment-items-to-start-your-channel-right/"><u>2024 Approved 5 Critical Equipment Items to Start Your Channel Right</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/easy-backup-solutions-with-wd-my-passport-best-practices-in-windows-11-and-windows-10-leaderboard/"><u>Easy Backup Solutions with WD My Passport: Best Practices in Windows 11 and Windows 10 [Leaderboard]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-game-launch-issues-solving-mass-effect-legendary-edition-not-loading-problems/"><u>Fix Your Game Launch Issues - Solving Mass Effect Legendary Edition Not Loading Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-with-dragon-age-origins-crashes-in-windows-10-solutions/"><u>Fixing Issues with Dragon Age: Origins Crashes in Windows 10 - Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-how-to-prevent-genshin-impact-from-continuously-crashing-on-your-pc/"><u>Fixing Issues: How to Prevent Genshin Impact From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-redmi-k70e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Xiaomi Redmi K70E? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-fix-d3dx933dll-not-found-or-missing-errors/"><u>How to Fix D3dx9_33.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-optimization-elite-fixes-for-improving-frames-per-second-fps-in-escape-from-tarkov/"><u>Mastering Optimization: Elite Fixes for Improving Frames Per Second (FPS) in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-discord-stream-interruptions-and-app-failures/"><u>Overcoming Discord Stream Interruptions and App Failures</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/1723199735565-regular-documentation-of-calibration-checks-is-essential-for-audits-and-maintaining-traceability/"><u>Regular Documentation of Calibration Checks Is Essential for Audits and Maintaining Traceability.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-issues-with-microsofts-night-light-functionality-on-latest-operating-systems/"><u>Resolving Issues with Microsoft's Night Light Functionality on Latest Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-successfully-start-your-adventure-launch-avatar-frontiers-of-pandora-without-hitches/"><u>Steps to Successfully Start Your Adventure: Launch 'Avatar - Frontiers of Pandora' Without Hitches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/sunbrites-55-weatherproof-smart-tv-a-high-resolution-4k-veranda-display-engineered-for-durability-and-brightness/"><u>SunBrite's 55 Weatherproof Smart TV: A High-Resolution 4K Veranda Display Engineered for Durability & Brightness</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-for-enhancing-your-valheim-experience-fixing-slow-frames/"><u>Top Tips for Enhancing Your Valheim Experience: Fixing Slow Frames</u></a></li>
 </ul></div>
 

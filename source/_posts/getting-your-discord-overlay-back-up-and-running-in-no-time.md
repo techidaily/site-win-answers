@@ -1,7 +1,7 @@
 ---
 title: Getting Your Discord Overlay Back Up & Running in No Time!
-date: 2024-09-01T04:12:14.991Z
-updated: 2024-09-02T04:12:14.991Z
+date: 2024-11-02T02:10:15.306Z
+updated: 2024-11-07T06:06:09.350Z
 tags:
   - win11
   - win10
@@ -54,8 +54,12 @@ If this is happening to you, don’t panic. Try the fixes below.
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3\. Run Discord as Administrator
 
  Discord should run perfectly fine without admin access in most cases. But occasionally, you might come up against something that requires admin access. Just close Discord and then run the program as Administrator (Make sure you kill all running Discord processes when you’re doing this.).
@@ -65,23 +69,29 @@ If you’re not sure how to do it, follow the instructions below:
 1. Right-click your taskbar and select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 2. Right-click Discord then select**End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 4. Under the**Compatibility** tab, check the box next to**Run this program as an administrator** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 5. Relaunch Discord.
 
 If your stream still gets stuck on loading, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4\. Turn off Hardware Acceleration
 
@@ -94,17 +104,18 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 2. On the left side menu, select Advanced, then toggle**off** the option for**Hardware Acceleration** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-hardware-acceleration.png)
 3. Click**Okay** to move on.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-confirm.png)
 4. Discord will relaunch automatically. See if this has resolved your issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Discord still won’t load streams correctly, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Fix 5\. Update Your Graphics Driver
 
  Streaming issues are likely to occur when you’re using the faulty graphics driver. It’s essential that you have the latest correct driver for your GPU.
@@ -123,18 +134,12 @@ To see if this is the core issue, try turning off Hardware Acceleration:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart Discord to see if it runs properly now. If your issue persists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 6: Clear Discord Cache
 
  Discord cache files and cookies accumulated on your PC can cause issues. To see if that’s the core issue for you, try clearing Discord cache files:
@@ -146,13 +151,25 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 4. On your keyboard, press the **Ctrl key** and **A**  to highlight all the files.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-01-07.jpg)
 5. Press the **Del key** on your keyboard to delete all selected files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Relaunch Discord to check if this helped.
 
 If your issue still exists, move on to the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7\. Switch to Windowed Mode
 
  If your Discord is stuck in fullscreen mode, try switching to Windowed Mode.
@@ -176,8 +193,12 @@ If your issue still exists, move on to the fix, below.
 3. Click the **Quick Connect** , then the app will automatically choose a server that suits you best.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 4. Open Discord to see if the issue still exists.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9\. Try Desktop App/Another Browser
@@ -197,9 +218,14 @@ If your issue still exists, move on to the fix, below.
 1. On your keyboard, press the **Windows logo**  and**R** keys. Type**appwiz.cpl** , and then press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-apps.png)
 2. Right-click **Discord**  and click **Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 3. Download and install **[Discord](https://discordapp.com/)**  .
 
@@ -215,8 +241,6 @@ If your issue still exists, move on to the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +248,23 @@ If your issue still exists, move on to the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ow-tos-selecting-free-powerful-iphoneipad-edits/"><u>[New] How-To's Selecting Free, Powerful iPhone/iPad Edits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-srt-power-play-transforming-macwindows-experience/"><u>[New] In 2024, SRT Power Play Transforming Mac/Windows Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-telling-stories-on-linkedin-with-professional-videos/"><u>[Updated] Telling Stories on LinkedIn with Professional Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-top-5-free-pinterest-video-downloader-online/"><u>2024 Approved Top 5 Free Pinterest Video Downloader Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-fixing-game-crashes-in-destiny-2s-beyond-light-for-a-smoother-pc-gaming-experience/"><u>Complete Guide: Fixing Game Crashes in Destiny 2'S Beyond Light for a Smoother PC Gaming Experience</u></a></li>
+<li><a href="https://win-latest.techidaily.com/effective-viral-marketing-techniques-for-2009-how-to-leverage-tell-a-friend-methods-using-massmail-software/"><u>Effective Viral Marketing Techniques for 2009: How to Leverage Tell-a-Friend Methods Using Massmail Software</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2019-stability-restored-no-more-unexpected-game-closures/"><u>Football Manager 2019 Stability Restored - No More Unexpected Game Closures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-paso-a-paso-transformando-y-migrando-peliculas-de-vhs-a-dvd-usando-tu-ordenador/"><u>Guía Paso a Paso: Transformando Y Migrando Películas De VHS a DVD Usando Tu Ordenador</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-starting-problems-in-persona-3-reload-game/"><u>How to Resolve Starting Problems in Persona 3 Reload Game</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-infinix-note-30-vip-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Infinix Note 30 VIP FRP Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-wow-stability-effective-remedies-for-eliminating-game-crashes-in-no-time/"><u>Mastering WoW Stability: Effective Remedies for Eliminating Game Crashes in No Time.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/msi-x47n-gaming-plus-get-latest-bios-and-chipset-updates-download-here/"><u>MSI X47n GAMING PLUS - Get Latest BIOS & Chipset Updates | Download Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-freezing-issues-during-gameplay-on-football-manager-2021-effective-solutions-explored/"><u>Resolving Freezing Issues During Gameplay on Football Manager 2021: Effective Solutions Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-crashes-troubleshooting-tips-for-playing-back-amo-on-your-computer/"><u>Say Goodbye to Crashes: Troubleshooting Tips for Playing Back Amo on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-reliable-solutions-to-stop-vrchat-from-crashing-on-your-computer/"><u>Top 8 Reliable Solutions to Stop VRChat From Crashing on Your Computer</u></a></li>
+</ul></div>
 

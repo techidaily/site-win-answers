@@ -1,7 +1,7 @@
 ---
 title: Gears of War 5 Issues? Here's How to Stabilize Your Gameplay
-date: 2024-09-01T04:14:09.891Z
-updated: 2024-09-02T04:14:09.891Z
+date: 2024-11-06T04:55:01.012Z
+updated: 2024-11-07T00:56:40.614Z
 tags:
   - win11
   - win10
@@ -41,6 +41,19 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
  If, unfortunately, you can’t access the game options, try modify the settings in the GraphicsConfig file.
@@ -62,6 +75,13 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
  Your problem still persists, don’t worry. There are other solutions.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -80,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -90,8 +107,12 @@ thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc286946
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
@@ -105,12 +126,12 @@ Now launch Dark Souls 3 and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -119,9 +140,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -130,15 +148,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
@@ -155,16 +164,17 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
@@ -185,8 +195,6 @@ Then play your game to see if it works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +202,22 @@ Then play your game to see if it works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-data.techidaily.com/comment-remettre-sur-tete-un-disque-dur-defectueux-les-solutions-innovantes-a-explorer/"><u>« Comment Remettre Sur Tête Un Disque Dur Défectueux ? Les Solutions Innovantes À Explorer »</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chuckle-filled-chapters-best-comedy-video-plans-in-a-nutshell/"><u>[New] 2024 Approved Chuckle-Filled Chapters Best Comedy Video Plans in a Nutshell</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-ace-your-adventures-with-gopro-tips/"><u>[Updated] Ace Your Adventures with GoPro Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elevate-your-online-presence-mastering-the-art-of-adding-times-on-youtube/"><u>2024 Approved Elevate Your Online Presence Mastering the Art of Adding Times on YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cutting-edge-fixes-for-dota-2-stutter-and-lag/"><u>Cutting Edge Fixes for Dota 2 Stutter and Lag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-stop-dirt-5-from-crashing-on-your-windows-computer/"><u>Fixes and Solutions: How to Stop Dirt 5 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a70-phone-without-pin-by-drfone-android/"><u>How to Unlock Itel A70 Phone without PIN</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-state-of-the-art-devices-for-online-live-shows/"><u>In 2024, State-of-the-Art Devices for Online Live Shows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/key-factors-affecting-esp-performance-such-as-particle-size-distribution-electrical-properties-gas-flow-rates-temperature-and-humidity/"><u>Key Factors Affecting ESP Performance, Such as Particle Size Distribution, Electrical Properties, Gas Flow Rates, Temperature, and Humidity</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-mice-functionality-drivers-updated-on-pc-platform/"><u>Optimize Mice Functionality: Drivers Updated on PC Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-indivisible-stability-issues-expert-fixes-for-constant-application-failures/"><u>Overcome Indivisible Stability Issues: Expert Fixes for Constant Application Failures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-understanding-and-fixing-the-apex-legends-error-23-issue/"><u>Resolved: Understanding and Fixing the 'Apex Legends' Error 23 Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-launching-woes-here-are-5-ways-to-resume-gameplay-swiftly/"><u>Roblox Launching Woes? Here Are 5 Ways to Resume Gameplay Swiftly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-console-crashes-the-ultimate-guide-to-resolve-call-of-duty-warzones-disc-read-error-versions-50-and-31-for-your-computer/"><u>Solving Console Crashes: The Ultimate Guide to Resolve Call of Duty: Warzone's Disc Read Error (Versions 5.0 and 3.1) for Your Computer</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-and-leveraging-influencers-on-snapchat/"><u>Understanding and Leveraging Influencers on Snapchat</u></a></li>
+</ul></div>
 

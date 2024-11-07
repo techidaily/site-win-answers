@@ -1,7 +1,7 @@
 ---
 title: Cortana Malfunctioning? Here Are the Solutions You Need!
-date: 2024-10-29T03:47:09.391Z
-updated: 2024-11-01T09:14:46.603Z
+date: 2024-11-01T17:47:57.977Z
+updated: 2024-11-06T21:06:20.552Z
 tags:
   - win11
   - win10
@@ -46,46 +46,32 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -96,16 +82,16 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -131,11 +117,25 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -147,13 +147,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
@@ -161,6 +154,13 @@ Or click  **Update All** to automatically download and install the correct versi
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -182,21 +182,19 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pulling-puzzled-listeners-intros-that-involve/"><u>[New] 2024 Approved Pulling Puzzled Listeners Intros That Involve</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-basics-to-brilliance-fullscreen-proficiency-in-premiere/"><u>[New] From Basics to Brilliance Fullscreen Proficiency in Premiere</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-click-compilation-top-10-fastest-phone-and-pc-apps/"><u>[New] Quick Click Compilation Top 10 Fastest Phone & PC Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-nba-2k21-crashing-on-pc/"><u>[SOLVED] NBA 2K21 Crashing on PC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-maximize-impact-with-these-11-economical-youtube-naming-tools/"><u>[Updated] 2024 Approved Maximize Impact with These 11 Economical YouTube Naming Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-warzone-20-launch-problems-7-essential-tips-for-a-smooth-startup-on-pc/"><u>Beat Warzone 2.0 Launch Problems: 7 Essential Tips for a Smooth Startup on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-for-the-persistent-windows-1n-10-error-code-0xc19001e1-malfunction/"><u>Comprehensive Fixes for the Persistent Windows 1N 10 Error Code 0Xc19001e1 Malfunction</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-iphone-xs-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From iPhone XS without Password?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-sprinkle-new-colors-into-your-past-media-with-instagram-for-2024/"><u>How to Sprinkle New Colors Into Your Past Media with Instagram for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y100i-power-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y100i Power 5G for Free? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-cutting-edge-strategies-for-youtube-split-screen-videos/"><u>In 2024, Cutting-Edge Strategies for YouTube Split-Screen Videos</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oppo-k11x-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Oppo K11x Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-frame-rates-in-rainbow-six-extraction-a-comprehensive-guide-to-fixing-lag-and-drops/"><u>Maximize Frame Rates in Rainbow Six Extraction – A Comprehensive Guide to Fixing Lag and Drops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013356307-resolve-your-dying-light-game-crash-issues-instantly/"><u>Resolve Your Dying Light Game Crash Issues Instantly!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-correcting-connection-lost-in-escape-from-tarkov-anti-cheat-system/"><u>Step-by-Step Guide to Correcting Connection Lost in Escape From Tarkov Anti-Cheat System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-prevent-paladins-from-crashing-in-your-system-2024-edition/"><u>Top Strategies to Prevent Paladins From Crashing in Your System - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-rest-for-the-wicked-expert-tips-and-fixes-for-stable-play-on-your-windows-computer/"><u>'No Rest for the Wicked': Expert Tips and Fixes for Stable Play on Your Windows Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-gt-neo-5-se-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme GT Neo 5 SE?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-the-sequel-optimizing-performance-and-ending-pc-game-lag/"><u>Dying Light the Sequel: Optimizing Performance & Ending PC Game Lag!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-fixes-overcoming-the-thaumaturge-desyncing-and-crashing-problems-on-pc/"><u>Expert Fixes: Overcoming the Thaumaturge Desyncing and Crashing Problems on PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-audience-expansion-masterclass-skyrocketing-your-youtube-numbers/"><u>In 2024, Audience Expansion Masterclass Skyrocketing Your Youtube Numbers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-expert-techniques-for-saving-vimeo-videos-as-high-quality-mp4s/"><u>In 2024, Expert Techniques for Saving Vimeo Videos as High-Quality MP4s</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-window-call-apps-2-1-sorted/"><u>In 2024, Leading Window Call Apps, #2-#1 Sorted</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-6-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 6 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976682305-kodak-printer-drivers-download-and-update-easily/"><u>KODAK Printer Drivers Download & Update Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-launch-issues-with-civ-6-on-the-latest-windows-platform/"><u>Resolving Launch Issues with Civ 6 on the Latest Windows Platform</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/simple-steps-download-the-samsung-c460-printer-drivers-instantly/"><u>Simple Steps: Download the Samsung C460 Printer Drivers Instantly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lost-overwatch-server-connection-successfully/"><u>Troubleshooting Lost Overwatch Server Connection Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-killing-screen-issues-with-age-of-wonders-planetfall-on-windows/"><u>Troubleshooting Persistent Killing-Screen Issues with Age of Wonders: Planetfall on Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unleash-creativity-in-photography-essential-pixlr-hacks/"><u>Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
 </ul></div>
 

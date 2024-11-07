@@ -1,7 +1,7 @@
 ---
 title: Resolving Dying Light 2'S FPS Decrease – A Guide for Smooth Gaming Experience on PC
-date: 2024-10-27T05:28:52.931Z
-updated: 2024-10-31T23:10:29.917Z
+date: 2024-11-04T04:50:31.518Z
+updated: 2024-11-07T00:13:45.265Z
 tags:
   - win11
   - win10
@@ -49,19 +49,31 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-the-game-as-an-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Use the dedicated GPU
@@ -72,6 +84,13 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-1.jpg)
 2. Click**Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
@@ -81,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 5. Select**High performance** and click**Save** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -99,10 +125,10 @@ thumbnail: https://thmb.techidaily.com/613172768f05bc30ced4453cadcdb6862cbaab1d0
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
@@ -117,21 +143,7 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -148,7 +160,27 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
 
@@ -163,13 +195,6 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-1.jpg)
 3. Select**In-Game** from the left. Then untick**Enable the Steam Overlay while in-game** , and click **OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
 #### On Discord
@@ -179,20 +204,13 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Deathloop should be back to normal after you applied the settings as above.
@@ -216,18 +234,20 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-ultimate-top-viewers-playlist-on-youtube-history/"><u>[New] In 2024, Ultimate Top Viewers' Playlist on YouTube History</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-unlock-your-potential-transformative-video-edits-with-pro-tools-on-mac/"><u>[New] Unlock Your Potential Transformative Video Edits with Pro Tools on Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-keyboard-warriors-guide-games-similar-to-gta-v/"><u>[Updated] In 2024, Keyboard Warriors' Guide Games Similar to GTA V</u></a></li>
-<li><a href="https://article-tips.techidaily.com/circulation-craft-expert-for-2024/"><u>Circulation Craft Expert for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/digiarty-winx-dvd-your-essential-guide-to-commonly-asked-faqs/"><u>Digiarty WinX DVD - Your Essential Guide to Commonly Asked FAQs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-football-manager-2021-freezing-issues-on-your-windows-pc/"><u>How to Fix Football Manager 2021 Freezing Issues on Your Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-we-conquered-the-double-drop-challenge-in-pc-game-frames-per-second-fps/"><u>How We Conquered the Double Drop Challenge in PC Game Frames Per Second (FPS)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-hitman-3-setup-resolving-cannot-connect-errors-effectively/"><u>Mastering Hitman 3 Setup: Resolving 'Cannot Connect' Errors Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-path-of-exile-how-to-fix-failed-instance-connections/"><u>Mastering Path of Exile: How to Fix Failed Instance Connections</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-xml-for-fcpx-beginners-and-beyond-a-comprehensive-resource/"><u>New 2024 Approved XML for FCPX Beginners and Beyond A Comprehensive Resource</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-awaits-with-these-fixes-for-pathfinder-wrath-of-the-righteous-freezing-problem-on-your-pc/"><u>Smooth Gaming Awaits with These Fixes for Pathfinder: Wrath of the Righteous Freezing Problem on Your PC</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-remastered-odyssey-of-wasteland-2-directors-cut-an-expert-guide-to-a-gripping-turn-based-rpg-experience/"><u>The Remastered Odyssey of Wasteland 2 Director's Cut: An Expert Guide to a Gripping Turn-Based RPG Experience</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-brisksnatch-slowframe-capture/"><u>[Updated] 2024 Approved BriskSnatch SlowFrame Capture</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-surviving-snapstreaks-essential-strategies-for-longevity/"><u>[Updated] 2024 Approved Surviving Snapstreaks Essential Strategies for Longevity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-0xc0000022-on-adobe-causes-and-effective-resolution-steps/"><u>Error Code 0xC0000022 on Adobe: Causes and Effective Resolution Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-the-crashing-problem-in-frostpunk-solutions-unveiled/"><u>Fixes for the 'Crashing' Problem in Frostpunk: Solutions Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-ensuring-successful-launches-for-steam-games-on-windows-11/"><u>Guide: Ensuring Successful Launches for Steam Games on Windows 11</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic5-ultimate-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999638756-immortals-of-the-fenyx-series-release-obstacles-overcome-and-launch-achieved/"><u>Immortals of the Fenyx Series – Release Obstacles Overcome & Launch Achieved!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-direct-transfer-of-tweets-video-features-onto-snapchat/"><u>In 2024, Direct Transfer of Tweets' Video Features Onto Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/prevent-and-resolve-pc-instances-of-hyper-scape-crashes/"><u>Prevent and Resolve PC Instances of Hyper Scape Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-and-fixing-game-crashes-on-windows-for-virtuality-v/"><u>Preventing and Fixing Game Crashes on Windows for 'Virtuality V'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-lags-and-stuttering-with-the-improved-version-of-cyberpunk-2077/"><u>Say Goodbye to Lags and Stuttering with the Improved Version of Cyberpunk 2077</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/silence-the-screen-expert-solutions-for-cursor-stabilization-issues/"><u>Silence the Screen: Expert Solutions for Cursor Stabilization Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-forbidden-queries-for-ai-engagement/"><u>The Forbidden Queries for AI Engagement</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2526809-9780007374403-the-real-witches-book-of-spells-and-rituals/"><u>The Real Witches’ Book of Spells and Rituals | Free Book</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unlock-the-power-of-speech-recognition-navigating-voice-command-features-in-windows-11-insights-from-zdnet/"><u>Unlock the Power of Speech Recognition: Navigating Voice Command Features in Windows 11 - Insights From ZDNET</u></a></li>
 </ul></div>
 

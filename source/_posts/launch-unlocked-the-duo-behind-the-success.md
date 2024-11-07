@@ -1,7 +1,7 @@
 ---
 title: "Launch Unlocked: The Duo Behind the Success"
-date: 2024-09-01T04:13:44.333Z
-updated: 2024-09-02T04:13:44.333Z
+date: 2024-10-31T21:35:27.182Z
+updated: 2024-11-07T07:04:25.451Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 | **Storage**          | 35 GB available space                                                                                                                         |
 | **Additional Notes** | Recommended specs listed above allow gameplay experience close to 60 FPS on average while using 1080p resolution and overall “High” settings. |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Run The Ascent as admin
 
  Lacking admin privileges could also be the reason for the launching failure. You can try to run the Steam client or the game executable as administrator. Below we’ll take the Steam client as an example:
@@ -68,25 +75,22 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 1. Right-click Steam, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/right-click-properties.jpg)
 2. Under the**Compatibility** tab, check the box of**Run this program as an administrator** . Click**Apply** then**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-this-program-as-an-administrator.jpg)
 3. The Steam client will launch now. You can run The Ascent to see if it launches now.
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 
  If it doesn’t work, you can directly run the game executable as an admin. You can use Steam to**find the game installation path** :
 
 1. Open your Steam library and right-click The Ascent. Select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Under**LOCAL FILES** , click**Browse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/browse-local-files-in-steam-client.jpg)
 3. Your local game folder will pop up and you should be able to find the game executable there.
 
@@ -101,15 +105,23 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 2. Under**LOCAL FILES** , click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files.jpg)
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If verifying your game files doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your graphics driver
 
  If your graphics driver is outdated or faulty, it may cause issues when The Ascent tries to launch. You may want to make sure yours is up-to-date and functioning properly.
@@ -126,24 +138,22 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Run The Ascent in DirectX 11
 
  Many players reported they couldn’t launch the game with DirectX 12\. It seems like a compatibility issue with DirectX 12 but so far the developers haven’t released a patch for it yet. What you can do for now is to run the game in DirectX 11 as a workaround. Here’s how:
@@ -153,14 +163,8 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 2. Paste**\-dx11** into your**Launch Options** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can now run the game to see if the problem is gone. If it persists, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Check your antivirus
 
  If you don’t use any antivirus software,[jump to the last fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -173,6 +177,13 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 
  If your antivirus seems to be the reason that your game wouldn’t launch, consider contacting the manufacturer for assistance.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7: Perform a clean boot
 
  If you’ve tried the fixes above but nothing worked, you can try to perform a clean boot.
@@ -184,9 +195,14 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
@@ -194,6 +210,13 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If The Ascent now starts, this means at least one of the programs you disabled was causing the problem.  
   
@@ -216,9 +239,6 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Repeat until you find the startup item that’s conflicting with The Ascent.
 5. Disable the problem program and reboot your PC.
 
@@ -235,8 +255,6 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +262,20 @@ thumbnail: https://thmb.techidaily.com/1e8c2ab57b46eaf6ff5d41d8475329f5a8c0f038b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-kickstart-creative-video-editing-with-xp-edition/"><u>[New] 2024 Approved Kickstart Creative Video Editing with Xp Edition</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-sharing-guide-for-tiktok-content/"><u>[Updated] Twitter Sharing Guide for TikTok Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/a-guide-to-vimeo-video-host-and-share-site-for-2024/"><u>A Guide to Vimeo Video Host & Share Site for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-novel-approach-to-delivery-reinvented-box-revelations/"><u>A Novel Approach to Delivery Reinvented Box Revelations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decontamination/"><u>Decontamination</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-the-notorious-pc-bug-roblox-error-code-277-comprehensive-solutions-for-gamers/"><u>Defeating the Notorious PC Bug: Roblox Error Code 277 - Comprehensive Solutions for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-how-to-stop-beat-saber-from-frequently-crashing/"><u>Fixed! How To Stop Beat Saber From Frequently Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/from-chaos-to-clarity-solving-severe-problems-of-arise-in-the-ue4-environment/"><u>From Chaos to Clarity: Solving Severe Problems of Arise in the UE4 Environment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-discord-high-cpu-usage-2024-guide/"><u>How to Fix Discord High CPU Usage - 2024 Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-80-pro-straight-screen-edition-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor 80 Pro Straight Screen Edition Device SIM</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-gameplay-preventing-crashes-on-alan-wake-2-latest-solutions/"><u>Mastering Gameplay: Preventing Crashes on Alan Wake 2 - Latest Solutions</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-oppo-a38-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Oppo A38 | Dr.fone</u></a></li>
+</ul></div>
 

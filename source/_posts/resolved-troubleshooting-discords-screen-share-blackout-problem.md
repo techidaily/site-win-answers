@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Discord's Screen Share Blackout Problem"
-date: 2024-09-01T04:13:04.930Z
-updated: 2024-09-02T04:13:04.930Z
+date: 2024-11-02T00:08:00.544Z
+updated: 2024-11-07T06:36:49.366Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -41,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -59,22 +63,14 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -91,6 +87,13 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -100,19 +103,17 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 5. Run the game to check the problem will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -131,8 +132,6 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +139,24 @@ thumbnail: https://thmb.techidaily.com/dae0a2870112b9a4ab1d756c066c8118fc25545f4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[Updated] 2024 Approved Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
+<li><a href="https://win-guides.techidaily.com/1728501725598-onedrive/"><u>如何在OneDrive上完成数据恢复：精准操作方法解析</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-asus-rog-phone-7-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Asus ROG Phone 7 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dual-task-perfection-iphones-single-action-capture/"><u>Dual-Task Perfection IPhone's Single Action Capture</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-freezing-issues-in-poe-top-tips-and-tweaks-that-work/"><u>Fix Freezing Issues in POE: Top Tips and Tweaks That Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-persistent-pc-issues-solving-arcadegeddons-crash-problem/"><u>Fixing the Persistent PC Issues: Solving Arcadegeddon's Crash Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-dota-2-performance-overcoming-dropping-fps-on-windows-1110/"><u>Improving Dota 2 Performance: Overcoming Dropping FPS on Windows 11/10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieving-fame-on-instagram-the-top-9-habits-of-stars-and-influencers/"><u>In 2024, Achieving Fame on Instagram The Top 9 Habits of Stars and Influencers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-leading-free-video-conferencing-services-top-screen-sharing-list/"><u>In 2024, Leading Free Video Conferencing Services Top Screen Sharing List</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-secure-cloud-stores-for-your-android-compiled/"><u>In 2024, Top Secure Cloud Stores for Your Android - Compiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-steam-woes-with-these-7-proven-methods-to-beat-the-black-screen-glitch/"><u>Solve Your Steam Woes with These 7 Proven Methods to Beat the Black Screen Glitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stabilized-five-nights-at-freddys-secure-gameplay-for-your-pc-now/"><u>Stabilized Five Nights at Freddy's: Secure Gameplay for Your PC Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-superiority-of-ios-for-a-seamless-chatgpt-experience/"><u>The Superiority of iOS for a Seamless ChatGPT Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-the-implications-of-violation-notifications-a-deep-dive-into-civ-n-exception-case-6/"><u>Understanding the Implications of Violation Notifications: A Deep Dive Into CIV N Exception, Case 6</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-troubleshooting-step-by-step-solutions-for-stuttering-and-boosting-fps/"><u>Valorant Troubleshooting: Step-by-Step Solutions for Stuttering and Boosting FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wsappx-explained-how-to-tackle-high-memory-and-processing-demands-on-your-pc/"><u>Wsappx Explained: How to Tackle High Memory and Processing Demands on Your PC</u></a></li>
+</ul></div>
 

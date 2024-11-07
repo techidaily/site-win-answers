@@ -1,7 +1,7 @@
 ---
 title: "Effortless Gaming with Halo Infinite: Top 7 Ways to Resolve PC Performance Problems"
-date: 2024-09-01T04:13:02.368Z
-updated: 2024-09-02T04:13:02.368Z
+date: 2024-11-02T04:51:58.681Z
+updated: 2024-11-07T02:37:26.188Z
 tags:
   - win11
   - win10
@@ -76,9 +76,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  Run Fortnite again to check if you fixed this issue. If this issue persists, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 3: Update your graphics driver**
 
  A missing or outdated graphics driver in your computer can cause the Fortnite stuttering issue, so make sure your graphics driver is up to date.
@@ -106,9 +103,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 4: Lower game settings**
 
  Try modifying the video settings of your Fortnite if it keeps stuttering. If your PC fails to meet the recommended system requirements for Fortnite, you may need to**reduce in-game graphics** to ensure that your Fortnite runs smoothly. Here is how to do it:
@@ -118,15 +112,34 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 2. Modify the video settings of the game following the screenshot below to gain the maximum performance. Then click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap945.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Fortnite again to see if the Fortnite stuttering issue persists. If not, then you’ve resolved this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### **Fix 5: Turn off Windows 10 Game Mode**
 
  If you’ve turned on**Windows 10 Game Mode** , it will consume lots of resources in the background when you’re playing Fortnite. So try turning off this feature to see if you can resolve this issue. Here is how to do it:
@@ -136,10 +149,14 @@ No advertising on the website.
 3. If you turn on Game Mode, then click the Game Mode button to turn it off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  Run Fortnite again to see if it will keep stuttering. If the stuttering issue reappears, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 6: Set Fortnite to High priority**
 
@@ -151,8 +168,12 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Run your Fortnite to see if the stuttering issue reappears. If the issue persists, don’t worry. There are more fixes for you to try.
 
 ### **Fix 7: Restrict applications and downloads in the background**
@@ -163,15 +184,8 @@ No advertising on the website.
 2. Select other applications and programs that take up a large amount of**CPU** ,**memory** and**network** and then click**End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Run your Fortnite again to see if the stuttering issue persists. If the issue persists, trying updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 8: Change the power plan of your PC and adjust your Windows system for the best performance**
 
  The Fortnite stuttering issue is also probably caused by the power plan of your PC. Most PC are configured to **Balanced** , which  limits the  operating capacity of your graphics card and CPU. So, the stuttering issue may occur. Follow the instructions below to change the power plan of your PC and adjust your Windows system for the best performance:
@@ -181,15 +195,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap70.jpg)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap71.jpg)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap72.jpg)
 5. Select **Adjust for best performance** and click **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap73.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run your Fortnite to see if the game will keep stuttering. If not, you’ve fixed this issue.
 
 ### **Fix 9: Modify your graphics card settings**
@@ -205,66 +224,61 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap55.jpg)
 2. View the Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap56.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap57.jpg)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap58.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### **If you’re using AMD graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap59.jpg)
 2. View the Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap60.jpg)
 3. Select your **AMD Radeon Settings**   to open it.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap74.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 #### **If you’re using Intel graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap61.jpg)
 2. View the Control Panel by   **Large icons**  .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap62.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap63.jpg)
 4. Click **3D**  to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap64.jpg)
 5. Click **Scan**  to add your **Fortnite**  to the application list.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap65.jpg)
 6. Modify the settings the same way you see on the screenshot below.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap67-1.jpg)
 7. Click **Apply**  to save the settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap68.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Fortnite again to see if the stuttering issue persists. If not, then you’ve fixed this annoying issue.
 
@@ -281,8 +295,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -290,4 +302,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-pros-and-cons-of-syma-x8c/"><u>[New] Pros and Cons of Syma X8C</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-selling-success-on-facebook-ideas-and-strategies-to-try/"><u>[Updated] Selling Success on Facebook Ideas and Strategies to Try</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-vlc-versus-mpc-top-free-video-players-showdown-for-2024/"><u>[Updated] VLC versus MPC Top Free Video Players Showdown for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-discord-access-problems-tips-for-a-successful-startup/"><u>Fixing Discord Access Problems: Tips for a Successful Startup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-facetime-audibility-capturing-clear-audio-calls/"><u>In 2024, FaceTime Audibility Capturing Clear Audio Calls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-sound-struggle-heres-how-to-restore-voices-in-lost-ark/"><u>No Sound Struggle? Here's How to Restore Voices in Lost Ark</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-loading-hurdle-a-guide-to-solve-far-cry-5-stuck-screens/"><u>Overcome the Loading Hurdle – A Guide to Solve Far Cry 5 Stuck Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-issues-in-gta-5-a-comprehensive-guide/"><u>Overcoming Launch Issues in GTA 5 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-failures-in-windows-defrag-process/"><u>Remedying Failures in Windows Defrag Process</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resident-evil-village-how-to-fix-persistent-sound-errors/"><u>Resident Evil Village - How to Fix Persistent Sound Errors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/skys-dynamic-range-showcase-websites-ranked-1-10/"><u>Sky's Dynamic Range Showcase - Websites Ranked 1-10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-troubleshooting-tips-for-a-smooth-run-of-assassins-creed-valhalla/"><u>Speedy Troubleshooting Tips for a Smooth Run of Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-dev-error-wartonite-6034-tackling-issues-in-modern-warfare-pc-and-xbox/"><u>Step-by-Step Solution to Dev Error Wartonite, 6034 - Tackling Issues in Modern Warfare (PC & Xbox)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-effective-strategies-to-fix-last-epoch-crashes-on-pcs-updated-advice-tech-enthusiasts/"><u>Troubleshoot Like a Pro! Effective Strategies to Fix 'Last Epoch Crashes' On PCs - Updated Advice Tech Enthusiasts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-shorts-tutorial-crafting-compact-engaging-videos/"><u>YouTube Shorts Tutorial Crafting Compact, Engaging Videos</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-10-25T19:22:22.754Z
-updated: 2024-11-01T04:09:51.973Z
+date: 2024-10-31T02:04:06.216Z
+updated: 2024-11-07T03:22:10.446Z
 tags:
   - win11
   - win10
@@ -66,10 +66,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -100,15 +100,28 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -130,10 +143,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -146,16 +159,16 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -174,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -208,18 +214,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-discover-the-ultimate-free-subtitles-convertors/"><u>[New] Discover the Ultimate Free Subtitles Convertors</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-play-youtube-in-background-on-iphone-and-android/"><u>[Updated] 2024 Approved How to Play YouTube in Background on iPhone and Android</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-inshot-showdown-expert-review-of-best-editing-software/"><u>[Updated] In 2024, InShot Showdown Expert Review of Best Editing Software</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-for-memorable-youtube-names/"><u>2024 Approved Expert Tips for Memorable YouTube Names</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-resolving-the-issue-of-resident-evil-4-remake-game-crashes/"><u>Effective Solutions: Resolving the Issue of Resident Evil 4 Remake Game Crashes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/find-and-download-latest-epson-stylus-nx420-drivers-for-your-pc-with-windows-os-7810/"><u>Find & Download Latest Epson Stylus NX420 Drivers for Your PC with Windows OS (7/8/10)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-hell-let-loose-pc-stability-issues/"><u>Fixes and Solutions: Resolving Hell Let Loose PC Stability Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-night-light-feature-not-working-in-windows-1011-step-by-step-guide/"><u>How to Fix Night Light Feature Not Working in Windows 10/11 - Step by Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-palworld-keeps-crashing-on-pc/"><u>How to Fix Palworld Keeps Crashing on PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-infinix-hot-40-lock-screen-password-by-drfone-android/"><u>How to Reset your Infinix Hot 40 Lock Screen Password</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-guide-to-idevices-recording-tools/"><u>In 2024, Comprehensive Guide to iDevices Recording Tools</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-meizu-21-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Meizu 21 Screen | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998562436-troubleshooting-top-tech-problems-in-hearts-of-iron-4-solutions-revealed/"><u>Troubleshooting Top Tech Problems in Hearts of Iron 4 - Solutions Revealed!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-ranked-mac-pro-video-maker-plus-audio/"><u>[Updated] 2024 Approved Top-Ranked Mac Pro Video Maker Plus Audio</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-behind-the-numbers-carryminatis-youtube-wealth/"><u>[Updated] Behind the Numbers CarryMinati’s YouTube Wealth</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-enhance-team-engagement-through-zoom-recording/"><u>[Updated] In 2024, How to Enhance Team Engagement Through Zoom Recording</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-newbies-compendium-of-best-cinematography-devices-35mm-pands-for-2024/"><u>A Newbie's Compendium of Best Cinematography Devices (35Mm-P&S) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-a-fresh-start-download-windows-11-without-cost/"><u>Achieve a Fresh Start: Download Windows 11 Without Cost</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-guide-refresh-your-windows-11-applications-with-ease/"><u>Effortless Guide: Refresh Your Windows 11 Applications with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-clarity-microsoft-aims-to-sharpen-chromes-display-quality-on-desktop-systems/"><u>Enhancing Clarity: Microsoft Aims to Sharpen Chrome's Display Quality on Desktop Systems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209839251-9780990585039-god-men-con-men/"><u>GOD MEN CON MEN | Free Book</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-ipad-or-iphone-11-pro-stuck-on-activation-lock-by-drfone-ios/"><u>How to Fix iPad or iPhone 11 Pro Stuck On Activation Lock?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-a-disable-iphone-13-without-a-computer-by-drfone-ios-unlock-ios-unlock/"><u>How to unlock a disable iPhone 13 without a computer</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-s23plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy S23+ Phone?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-on-utilizing-and-understanding-the-outlier-feature/"><u>Mastering Microsoft Excel: A Comprehensive Guide on Utilizing and Understanding the Outlier Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-picture-cropping-techniques-in-microsoft-office-2010-programs/"><u>Mastering Picture Cropping Techniques in Microsoft Office 2010 Programs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/nintendo-switch-top-hd-game-captures-for-2024/"><u>Nintendo Switch Top HD Game Captures for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-crafting-interdependent-combo-box-selections-within-ms-excel/"><u>Step-by-Step Guide: Crafting Interdependent Combo Box Selections Within MS Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-efficiently-duplicating-formulas-across-cells-in-ms-excel/"><u>Step-by-Step Guide: Efficiently Duplicating Formulas Across Cells in MS Excel</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-eliminating-drop-down-menus-from-your-microsoft-excel-spreadsheet/"><u>Step-by-Step Guide: Eliminating Drop-Down Menus From Your Microsoft Excel Spreadsheet</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-inverted-text-input-windows-wise/"><u>Strategies for Fixing Inverted Text Input Windows-Wise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-efficient-value-organization-techniques-in-ms-excel/"><u>Ultimate Guide: Efficient Value Organization Techniques in MS Excel</u></a></li>
 </ul></div>
 

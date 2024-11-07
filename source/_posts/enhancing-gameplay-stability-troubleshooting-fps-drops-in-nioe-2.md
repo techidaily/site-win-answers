@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Gameplay Stability: Troubleshooting FPS Drops in Nioe 2"
-date: 2024-09-01T04:11:52.723Z
-updated: 2024-09-02T04:11:52.723Z
+date: 2024-11-06T04:32:58.853Z
+updated: 2024-11-07T04:45:44.702Z
 tags:
   - win11
   - win10
@@ -35,6 +35,19 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  Phasmophobia crashing issues might occur when there is bad or corrupted game data. To see if this is the case for you, you can verify the game file from Steam:
@@ -45,17 +58,35 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Delete corrupted game files
 
 Game crashing issues might happen when your game files are corrupted.
@@ -94,9 +125,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -111,9 +139,6 @@ If the game still crashes, try the next fix below.
 
 If the crash still occurs, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Lower your graphics settings
 
  If your computer is not powerful enough to handle Phasmophobia, you may run into performance issues from time to time. One workaround for this is lowering your in-game graphics settings.
@@ -127,8 +152,12 @@ If the crash still occurs, go ahead with the next fix.
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -145,16 +174,17 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -171,9 +201,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 If the problem still exists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -186,9 +213,6 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -199,8 +223,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +230,24 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-duo-dynamics-instagram-tiktok-confluence-guide/"><u>[New] In 2024, Duo Dynamics Instagram-TikTok Confluence Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-strategies-for-broadcasting-social-media-happenings/"><u>[Updated] 2024 Approved Strategies for Broadcasting Social Media Happenings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cinematography-simplified-fades-made-easy-for-2024/"><u>[Updated] Cinematography Simplified Fades Made Easy for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-easy-steps-to-screen-save-your-work-in-windows-8/"><u>[Updated] Easy Steps to Screen Save Your Work in Windows 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-empires-4-update-tackles-and-resolves-pc-gaming-interruptions/"><u>Age of Empires 4 Update Tackles and Resolves PC Gaming Interruptions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-spatial-computing-technology-understanding-its-functionality-features-and-impacts-perspectives-by-zdnet/"><u>Decoding Spatial Computing Technology: Understanding Its Functionality, Features & Impacts – Perspectives by ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-when-apple-account-locked-from-iphone-7-by-drfone-ios/"><u>How to Fix when Apple Account Locked From iPhone 7?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-samsung-galaxy-s23-tactical-edition-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Samsung Galaxy S23 Tactical Edition to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-turn-on-hyper-v-for-virtual-machine-management-in-windows-10/"><u>How to Turn On Hyper-V for Virtual Machine Management in Windows 10?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-choice-peak-business-space/"><u>In 2024, Expert's Choice Peak Business Space</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-se-2022-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone SE (2022) Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-graphic-drivers-the-newly-resolved-overwatch-bug/"><u>Overcoming Graphic Drivers: The Newly Resolved Overwatch Bug</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-league-of-legends-reconnect-glitch-patch-update/"><u>Resolving the League of Legends 'Reconnect' Glitch: Patch Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fix-for-guilty-gear-strive-crashing-problems-in-pc-edition/"><u>Step-by-Step Fix for Guilty Gear Strive Crashing Problems in PC Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-a-comprehensive-guide/"><u>Troubleshooting PC Issues with Sons of the Forest - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-the-root-causes-of-arise-game-crashes/"><u>Understanding and Fixing the Root Causes of Arise Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-of-digital-alchemy-transforming-your-pc-into-a-source-of-limitless-dragonic-wealth/"><u>Unlock the Secrets of Digital Alchemy: Transforming Your PC Into a Source of Limitless Dragonic Wealth</u></a></li>
+</ul></div>
 

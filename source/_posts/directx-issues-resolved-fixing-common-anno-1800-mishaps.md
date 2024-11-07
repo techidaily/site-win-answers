@@ -1,7 +1,7 @@
 ---
 title: "DirectX Issues Resolved: Fixing Common Anno 1800 Mishaps"
-date: 2024-09-01T04:14:45.815Z
-updated: 2024-09-02T04:14:45.815Z
+date: 2024-11-02T17:49:05.921Z
+updated: 2024-11-06T18:49:37.998Z
 tags:
   - win11
   - win10
@@ -89,8 +89,12 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -98,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest DayZ patch
 
@@ -116,17 +127,34 @@ thumbnail: https://thmb.techidaily.com/b89ffcd4bf4187d5ce782fa255f3d31e70eba20fb
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
 
@@ -160,10 +188,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 6: Temporarily disable the third-party antivirus application
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Day.
@@ -176,9 +200,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -188,21 +209,19 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 8: Adjust your Windows system for the best performance
 
  If your PC fails to meet the recommended system requirements for DayZ, try adjusting your Windows system for the best performance. Here is how to do it:
@@ -210,13 +229,24 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
 
 ---
@@ -232,8 +262,6 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +269,26 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-professional-packing-for-personal-filmmaking/"><u>[New] 2024 Approved Professional Packing for Personal Filmmaking</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube/"><u>[New] In 2024, The Guide to Growing Groups of Great Guests (Subscribers) on Youtube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>[New] Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-call-of-duty-black-ops-cold-war-stability-fix-for-pc-users/"><u>[RESOLVED] Call of Duty: Black Ops Cold War Stability Fix for PC Users</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-best-practices-for-leveraging-b-roll-content-for-2024/"><u>[Updated] Best Practices for Leveraging B-Roll Content for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-iphones-secret-to-quick-cost-free-red-eye-removal-revealed-for-2024/"><u>[Updated] IPhone's Secret to Quick, Cost-Free Red-Eye Removal Revealed for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-spark-change-with-these-10-inspirational-classics/"><u>[Updated] Spark Change with These 10 Inspirational Classics</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-upgrade-your-content-reach-with-youtube-to-facebook-posting/"><u>[Updated] Upgrade Your Content Reach with YouTube-to-Facebook Posting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012254971-discord-setup-issues-heres-how-you-can-fix-an-installation-failed-error-easy-as-pie/"><u>Discord Setup Issues? Here's How You Can Fix an 'Installation Failed' Error Easy as Pie</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-overcome-launch-failure-in-sea-of-thieves-gaming/"><u>Expert Tips to Overcome 'Launch Failure' In Sea of Thieves Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-microsoft-edge-frequent-crashes-on-windows-11-pcs/"><u>How to Fix Microsoft Edge Frequent Crashes on Windows 11 PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-glitches-in-magic-the-gathering-video-game/"><u>How to Overcome Graphics Glitches in Magic: The Gathering Video Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-quickly-resolve-palworlds-loading-problems/"><u>How to Quickly Resolve Palworld's Loading Problems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fixes-overcoming-continuous-crashing-glitches-in-tower-of-fantasy-game-pc-edition/"><u>Mastering the Fixes: Overcoming Continuous Crashing Glitches in 'Tower of Fantasy' Game PC Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-blizzard-server-connectivity-issues-for-gamers/"><u>Overcoming Blizzard Server Connectivity Issues for Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-a-users-handbook-for-fixing-the-conexant-smartaudio-hd-sound-issue-in-windows-10/"><u>Overcoming Silence: A User's Handbook for Fixing the Conexant SmartAudio HD Sound Issue in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-answer-eliminating-black-screen-glitches-during-discord-screen-broadcasts/"><u>The Definitive Answer: Eliminating Black Screen Glitches During Discord Screen Broadcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solve-your-pcs-steam-black-screen-issues/"><u>Ultimate Guide: Solve Your PC's Steam Black Screen Issues</u></a></li>
+</ul></div>
 

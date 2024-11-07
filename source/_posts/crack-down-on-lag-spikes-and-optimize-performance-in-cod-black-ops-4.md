@@ -1,7 +1,7 @@
 ---
 title: "Crack Down on Lag Spikes and Optimize Performance in Cod: Black Ops 4"
-date: 2024-10-28T12:36:14.430Z
-updated: 2024-10-31T22:42:50.942Z
+date: 2024-11-06T01:42:20.006Z
+updated: 2024-11-06T23:38:30.148Z
 tags:
   - win11
   - win10
@@ -49,22 +49,29 @@ You may not have to try them all. Just choose the one you need.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**Apply** , then relaunch your game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
@@ -99,25 +106,11 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -136,28 +129,35 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer, and then relaunch your game to see if this worked for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
 
@@ -172,20 +172,33 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Add** **button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
@@ -200,13 +213,6 @@ OR
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click**Gaming** , then**Global Settings** .
 
@@ -245,16 +251,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-empowering-your-brand-top-20-strategies-for-high-impact-fb-video-campaigns/"><u>[Updated] 2024 Approved Empowering Your Brand Top 20 Strategies for High-Impact FB Video Campaigns</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-audiences-in-motion-analyzers/"><u>[Updated] In 2024, Audiences in Motion Analyzers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-silent-spectators-manual-mastering-the-art-of-private-instagram-story-watching-pcandroidios-for-2024/"><u>[Updated] Silent Spectator's Manual Mastering the Art of Private Instagram Story Watching [PC/Android/iOS] for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-youtube-channel-aesthetics-essential-size-and-dimension-tips/"><u>2024 Approved Mastering YouTube Channel Aesthetics Essential Size and Dimension Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005130802-destiny-nix-launch-hitches-on-desktops-heres-your-step-by-step-solution/"><u>Destiny Nix Launch Hitches on Desktops? Here's Your Step-by-Step Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-resolving-gtfo-application-crashes/"><u>Effective Strategies for Resolving GTFO Application Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-stable-gameplay-with-these-fixes-to-stop-dirt-5-pc-crashes/"><u>Master the Art of Stable Gameplay with These Fixes to Stop 'Dirt 5' PC Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/reviving-your-clownfish-vocal-effects-unit-when-it-stops-responding/"><u>Reviving Your Clownfish Vocal Effects Unit When It Stops Responding</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-restore-your-discord-overlay-in-minutes-learn-how-today/"><u>Troubleshoot and Restore Your Discord Overlay in Minutes - Learn How Today</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-google-pixel-8-by-drfone-android/"><u>Universal Unlock Pattern for Google Pixel 8</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-basic-tone-alterations-in-ps/"><u>[New] 2024 Approved Mastering Basic Tone Alterations in PS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nhance-visibility-the-power-of-customized-youtube-templates/"><u>[New] Enhance Visibility The Power of Customized YouTube Templates</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-guide-to-responding-with-grace-to-youtube-comments/"><u>2024 Approved A Guide to Responding with Grace to YouTube Comments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smilesketcher-turn-your-ideas-into-memes-and-graphics/"><u>2024 Approved SmileSketcher Turn Your Ideas Into Memes & Graphics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-resolving-continuous-blender-breakdowns-on-personal-computers/"><u>Expert Tips for Resolving Continuous Blender Breakdowns on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-red-dead-redemption-2-from-freezing-on-your-pc/"><u>Fixing the Issue: How to Stop Red Dead Redemption 2 From Freezing on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/get-ahead-with-the-ultimate-vr-experience-dive-into-metas-premium-512gb-quest-3-package-top-picks-by-zdnet-for-current-deals/"><u>Get Ahead with the Ultimate VR Experience: Dive Into Meta's Premium 512GB Quest 3 Package – Top Picks by ZDNet for Current Deals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-realme-11-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Realme 11 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/linking-your-favorite-tiktoks-seamlessly-to-facebook/"><u>Linking Your Favorite TikToks Seamlessly to Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-troubleshooting-tips-to-optimize-persona-5-strikers-performance-on-desktop-systems/"><u>Mastering Troubleshooting Tips to Optimize Persona 5 Strikers Performance on Desktop Systems</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-14-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 14 Plus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-game-woes-5-straightforward-tweaks-for-a-smooth-genshin-launch/"><u>Resolve Your Game Woes: 5 Straightforward Tweaks for a Smooth Genshin Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-roblox-pc-error-code-277-essential-fixes-and-updates/"><u>Solving Roblox PC Error Code 277: Essential Fixes & Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-utorrent-a-guide-to-fixing-download-and-peer-connection-problems/"><u>Troubleshooting uTorrent: A Guide to Fixing Download and Peer Connection Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/web-experience-unleashed-creating-windows-programs-from-sites/"><u>Web Experience Unleashed: Creating Windows Programs From Sites</u></a></li>
 </ul></div>
 

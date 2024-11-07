@@ -1,7 +1,7 @@
 ---
 title: "Tips and Tricks to Prevent Freezing: Optimizing Your Path of Exile Experience"
-date: 2024-09-01T04:10:10.776Z
-updated: 2024-09-02T04:10:10.776Z
+date: 2024-10-31T19:55:11.399Z
+updated: 2024-11-07T02:27:34.061Z
 tags:
   - win11
   - win10
@@ -67,9 +67,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -86,14 +83,18 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -109,9 +110,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
@@ -127,8 +125,12 @@ In case this fix didn’t help, please move on to Fix 4.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Run RoE as an administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run RoE, you should give this fix a try.
@@ -140,9 +142,23 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -158,26 +174,30 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) On the**Graphics** tab, disable**Engine Multithreading** and**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -197,8 +217,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +224,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-launching-success-streamline-your-first-youtube-business-channels/"><u>[New] Launching Success Streamline Your First YouTube Business Channels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-popart-app-deep-dive-2024-edition/"><u>[New] PopArt App Deep Dive - 2024 Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-latest-samsung-bd-j5900-updated-review-2023/"><u>[Updated] Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-practices-for-non-audio-filming/"><u>Best Practices for Non-Audio Filming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-disruptions-ultimate-troubleshooting-guide-to-stabilize-cyberpunk-2077-on-pc-issues-resolved/"><u>Decode the Disruptions: Ultimate Troubleshooting Guide to Stabilize Cyberpunk 2077 on PC [ISSUES RESOLVED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-warzone-not-working-errors/"><u>Expert Advice on Overcoming Warzone Not Working Errors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/highest-performance-graphics-for-uhd-media-for-2024/"><u>Highest Performance Graphics for UHD Media for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oneplus-ace-3-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your OnePlus Ace 3 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-14-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 14 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-syncing-webcam-footage-with-screen-recording/"><u>In 2024, Syncing Webcam Footage with Screen Recording</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010594871-overcoming-launching-problems-in-rainbow-six-siege-fixed/"><u>Overcoming Launching Problems in Rainbow Six Siege – Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-pitfalls-solved-overcoming-common-issues-in-world-of-warships-without-hitches/"><u>PC Pitfalls Solved: Overcoming Common Issues in World of Warships Without Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/saints-row-wont-launch-heres-how-you-can-fix-it-for-your-pc/"><u>Saints Row Won't Launch? Here's How You Can Fix It for Your PC!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-stutter-issues-ensure-a-seamless-gaming-experience-with-modern-warfare-on-pc/"><u>Solve Stutter Issues: Ensure a Seamless Gaming Experience with Modern Warfare on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-unresponsive-pages-in-chrome/"><u>Troubleshooting Guide: How to Fix Unresponsive Pages in Chrome</u></a></li>
+</ul></div>
 

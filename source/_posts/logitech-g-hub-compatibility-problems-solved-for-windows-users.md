@@ -1,7 +1,7 @@
 ---
 title: Logitech G Hub Compatibility Problems Solved for Windows Users
-date: 2024-10-30T11:21:30.864Z
-updated: 2024-11-01T03:28:51.639Z
+date: 2024-11-05T21:05:32.354Z
+updated: 2024-11-07T05:54:12.806Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 4. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run the game as an administrator
 
  In some cases, Windows may not give your game the necessary permissions to work as it should. This might result in the game not starting or running properly. Enabling the option to run AoE 2 as an administrator may help:
@@ -46,13 +39,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 **1)** Right-click the**game icon** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-21-50.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
@@ -69,30 +55,43 @@ It’s frustrating when you experience the launching problem when playing Age of
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-27-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Restart your game to test your issue.
 
 If AoE still won’t launch, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -120,13 +119,6 @@ If AoE still won’t launch, move on and try the fix below.
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify the integrity of your game files
 
  Corrupt or missing game files can also cause your game to fail. If you’re playing the game on Steam, you can verify the integrity of your game files. Follow the instructions below:
@@ -136,6 +128,13 @@ If AoE still won’t launch, move on and try the fix below.
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
@@ -166,6 +165,13 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
@@ -191,28 +197,28 @@ If the issue continues to occur, go to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
 **6)** Try launching AoE 2 to see if this helped.
 
 If your game still won’t load, then move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -227,10 +233,10 @@ If your game still won’t load, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
@@ -258,21 +264,20 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-from-shopping-spree-to-stardom-editing-your-haul-video-for-2024/"><u>[New] From Shopping Spree to Stardom Editing Your Haul Video for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-share-tweets-whatsapp-video-broadcasting/"><u>[New] Share Tweets WhatsApp Video Broadcasting</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-10-best-text-effects-for-your-video/"><u>[Updated] 10 Best Text Effects for Your Video</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battlefield-2042-on-pc-solutions-to-combat-fps-fluctuations-and-stutter-for-a-seamless-play/"><u>Battlefield 2042 on PC: Solutions to Combat FPS Fluctuations & Stutter for a Seamless Play</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-alcatel-joy-tab-2-assessment-affordable-lte-tablet-guide/"><u>Comprehensive Alcatel Joy Tab 2 Assessment - Affordable LTE Tablet Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deciphering-and-fixing-local-steam-client-communication-breakdown-your-ultimate-guide/"><u>Deciphering and Fixing Local Steam Client Communication Breakdown - Your Ultimate Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-stop-your-gamepad-from-failing/"><u>Effortless Solutions to Stop Your Gamepad From Failing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-alert-for-cyberpunk-2077-decoding-what-message-error-22024-is-sending/"><u>Error Alert for Cyberpunk 2077: Decoding What Message Error 2#2024 Is Sending</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-how-to-fix-continuous-crashes-in-xcom-2-on-your-windows-machine/"><u>Expert Guide: How to Fix Continuous Crashes in XCOM 2 on Your Windows Machine</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-c32-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C32 Pattern Lock Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rainbow-six-extraction-pc-issues-solutions-and-workarounds-to-eliminate-crashes/"><u>Rainbow Six Extraction PC Issues: Solutions and Workarounds to Eliminate Crashes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-step-by-step-process-for-acquiring-a-discounted-spotify-account-as-a-student/"><u>The Complete Step-by-Step Process for Acquiring a Discounted Spotify Account as a Student</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-frozen-tab-functionality-in-windows/"><u>Troubleshooting Frozen Tab Functionality in Windows</u></a></li>
-<li><a href="https://facebook.techidaily.com/truth-battles-rumors-as-facebook-raises-sanctions/"><u>Truth Battles Rumors as Facebook Raises Sanctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/valheim-high-ping-fix-for-windows-pc/"><u>Valheim High Ping Fix for Windows PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-engage-with-these-top-10-student-oriented-history-channels-for-2024/"><u>[New] Engage with These Top 10 Student-Oriented History Channels for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simplicity-in-capturing-your-lenovo-pics/"><u>[Updated] 2024 Approved Simplicity in Capturing Your Lenovo Pics</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-elevate-your-streams-with-seamless-obspluszoom-integration-for-2024/"><u>[Updated] Elevate Your Streams with Seamless OBS+Zoom Integration for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-re-image-twitter-video-portrait/"><u>[Updated] Re-Image Twitter Video Portrait</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-audio-modification-software-with-enchanting-features/"><u>[Updated] Superior Audio Modification Software with Enchanting Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/can-photoshops-image-smoothing-revolutionize-editing/"><u>Can Photoshop’s Image Smoothing Revolutionize Editing?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-voice-assistants-and-smart-speaker-picks-for-the-year-2ebrity-2024/"><u>Leading Voice Assistants and Smart Speaker Picks for the Year 2Ebrity 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-image-orientation-tips-for-easy-rotating-photos-on-windows-11/"><u>Mastering Image Orientation: Tips for Easy Rotating Photos on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-storage-on-your-linux-virtualbox-efficiently-free-up-drive-space/"><u>Maximize Storage on Your Linux VirtualBox: Efficiently Free Up Drive Space</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-storage-a-step-by-step-guide-to-reclaiming-hard-drive-space-from-old-gaming-installations/"><u>Maximize Storage: A Step-by-Step Guide to Reclaiming Hard Drive Space From Old Gaming Installations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-your-storage-with-windows-11s-strong-push-towards-onedrive/"><u>Maximizing Your Storage with Windows 11'S Strong Push Towards OneDrive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-chromes-security-hurdle-a-guide-to-unblocking-file-downloads/"><u>Overcoming Chrome's Security Hurdle: A Guide to Unblocking File Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/protecting-your-digital-life-how-google-chromes-update-127-combats-cyber-threats-with-advanced-malware-protection/"><u>Protecting Your Digital Life: How Google Chrome's Update 127 Combats Cyber Threats with Advanced Malware Protection</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sprint-through-time-uncovering-discarded-reddit-content/"><u>Sprint Through Time Uncovering Discarded Reddit Content</u></a></li>
+<li><a href="https://some-skills.techidaily.com/totv-multimedia-player-wmp-alternative-for-2024/"><u>TOTV Multimedia Player WMP Alternative for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'Outriders Not Starting Issue on PC '
-date: 2024-09-01T04:08:58.542Z
-updated: 2024-09-02T04:08:58.542Z
+date: 2024-11-01T00:11:32.205Z
+updated: 2024-11-07T05:29:51.240Z
 tags:
   - win11
   - win10
@@ -37,43 +37,46 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Upon reboot, play supported content to check if it works. If your THX Spatial Audio is still not working, move on to the next fix.
 
 ## 2\. Run the audio troubleshooter
 
  Whenever you’re faced with no sound or other audio-related issues, you can use a Windows troubleshooter. It helps you detect problems and attempts to resolve minor issues on Windows computers. To run the audio troubleshooter, follow the instructions below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On Windows 10
 
@@ -89,9 +92,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### On Windows 11
 
 1. On your keyboard, press the **Windows log** o key + **R** at the same time. Type **control**  in the Run box, and press **Enter** .  
@@ -99,18 +99,32 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If Windows fails to troubleshoot your issues, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## 3\. Make sure you set THX Spatial Audio as your device
 
  If you can’t hear any difference after installing the THX Spatial Audio app, it may be possible that you haven’t set it as your playback device. In this case, follow the steps below for configurations. If you prefer to watch the tutorial video, check it out below.
@@ -121,11 +135,15 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/set-thx-spatial-audio-as-default-playback-device.png)
 3. Then in the APPLICATION MIXER section, select**Spatial Audio** as the output.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/application-mixer.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
@@ -143,11 +161,6 @@ The ultimate burning program for all your needs!</a>
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
@@ -170,21 +183,26 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/configure-protection.png)
 3. Tick**Turn on system protection** . Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/turn-on-system-protection.png)
 4. Now select your System drive and click**Create…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
@@ -213,8 +231,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +238,23 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-potential-in-your-photography-with-gopro-time-lapses/"><u>[New] Unlocking Potential in Your Photography with GoPro Time-Lapses</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-rapid-learning-from-visuals-to-vivid-youtube-channel-thumbnails/"><u>[Updated] Rapid Learning From Visuals To Vivid YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998401221-destiny-2-pc-version-fixed-now-launching-successfully/"><u>Destiny 2 PC Version Fixed: Now Launching Successfully!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-no-more-lag-in-resident-evil-village-for-pc-users/"><u>Enhance Your Gaming Experience: No More Lag in Resident Evil Village for PC Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-look-at-comments-on-youtube/"><u>How to Look at Comments on YouTube</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-se-2022-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone SE (2022)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-k70-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi K70 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-setup-ensuring-smooth-minecraft-installs-on-windows-11-machines/"><u>Mastering the Setup: Ensuring Smooth Minecraft Installs on Windows 11 Machines</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-stop-looking-for-filmora-coupon-code-on-reddit-weve-got-it-here-for-2024/"><u>New Stop Looking for Filmora Coupon Code on Reddit - Weve Got It Here for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-tutorial-on-acquiring-and-refreshing-xp-pens-device-drivers/"><u>Quick Tutorial on Acquiring & Refreshing XP-Pen's Device Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-common-issues-with-thaumaturges-pc-launch-failures/"><u>Solving Common Issues with Thaumaturge's PC Launch Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-call-of-duty-warzone-flickering-issues-step-by-step-guide/"><u>Troubleshoot Your Call of Duty Warzone Flickering Issues - Step by Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-high-cpu-drain-in-phasmophobia-effective-solutions/"><u>Troubleshooting High CPU Drain in Phasmophobia: Effective Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-youtubes-mechanism-post-upload-for-2024/"><u>Unveiling YouTube's Mechanism Post-Upload for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-woes-crack-the-code-of-developer-error-5573-for-pc-and-console-systems-in-this-comprehensive-guide/"><u>Warzone Woes? Crack the Code of Developer Error 5573 for PC and Console Systems in This Comprehensive Guide</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/wireless-photo-syncing-moving-images-from-iphone-to-ipad-without-internet/"><u>Wireless Photo Syncing: Moving Images From iPhone to iPad Without Internet</u></a></li>
+</ul></div>
 

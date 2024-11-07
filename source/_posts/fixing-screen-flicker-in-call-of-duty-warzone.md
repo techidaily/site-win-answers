@@ -1,7 +1,7 @@
 ---
 title: "Fixing Screen Flicker in Call of Duty: Warzone"
-date: 2024-09-01T04:12:49.416Z
-updated: 2024-09-02T04:12:49.416Z
+date: 2024-11-04T17:20:18.291Z
+updated: 2024-11-07T03:34:05.149Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -38,8 +51,18 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -49,9 +72,6 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -82,20 +102,32 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
@@ -104,9 +136,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -121,8 +150,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +157,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-discover-the-best-4k-capture-software-for-live-recording/"><u>[New] 2024 Approved Discover the Best 4K Capture Software for Live Recording</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-crafting-a-perfect-photomontage-like-a-pro/"><u>[New] In 2024, Crafting a Perfect PhotoMontage Like a Pro</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-prime-cloud-storage-contenders-of-the-new-year/"><u>[Updated] The Prime Cloud Storage Contenders of the New Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-your-new-world-server-connection-woes/"><u>Easy Fixes for Your New World Server Connection Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-gaming-expert-tips-to-overcome-low-fps-in-fallout-76-updated/"><u>Elevate Your Gaming: Expert Tips to Overcome Low FPS in Fallout 76 – Updated</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone 11?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-cult-of-the-lamb-pc-freezing-issues-step-by-step-guide/"><u>Resolving Cult of The Lamb PC Freezing Issues: Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-picks-ultimate-portable-devices-for-cutting-edge-editing-for-2024/"><u>Top Picks Ultimate Portable Devices for Cutting-Edge Editing for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-extract-audio-from-mp4-the-best-mp4-to-mp3-converters-this-year-for-2024/"><u>Updated Extract Audio From MP4 The Best MP4 to MP3 Converters This Year for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-20-ping-optimization-top-techniques-and-advice-to-reduce-lag-as-of-2024/"><u>Warzone 2.0 Ping Optimization: Top Techniques and Advice to Reduce Lag as of 2024</u></a></li>
+</ul></div>
 

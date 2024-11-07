@@ -1,7 +1,7 @@
 ---
 title: Why Does Genshin Impact Keep Closing? Expert Fixes for Game Stability on PCs
-date: 2024-10-27T09:19:37.011Z
-updated: 2024-11-01T09:20:57.017Z
+date: 2024-11-05T03:10:02.885Z
+updated: 2024-11-06T22:39:53.684Z
 tags:
   - win11
   - win10
@@ -42,22 +42,8 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
@@ -65,13 +51,20 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -97,10 +90,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -133,10 +126,10 @@ There are mainly two ways you can update the graphics driver:
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
@@ -158,14 +151,21 @@ Still no luck with DX12? Then check out the next method below.
 2. Right-click**Outriders** and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
@@ -194,21 +194,20 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-apple-synergy-vision-and-sound-merging/"><u>[New] Apple Synergy Vision and Sound Merging</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-guide-to-silent-screen-time-view-unseen-stories-on-devices/"><u>[Updated] 2024 Approved Guide to Silent Screen Time View Unseen Stories on Devices</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-selecting-the-ultimate-gear-for-stellar-4k-production-for-2024/"><u>[Updated] Selecting the Ultimate Gear for Stellar 4K Production for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-waves-how-to-record-internet-radios-step-by-step/"><u>2024 Approved Capturing Waves How To Record Internet Radios Step-by-Step</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-resolving-black-screen-dilemma-in-far-cry-6/"><u>Expert Advice on Resolving Black Screen Dilemma in Far Cry 6</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hp-laserjet-pro-m452dn-software-here-full-guide-and-driver-downloads/"><u>Get Your HP LaserJet Pro M452dn Software Here: Full Guide and Driver Downloads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/global-tech-leaders-weigh-in-the-ai-debate/"><u>Global Tech Leaders Weigh In: The AI Debate</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722995930568-pc-users-explore-pandora-universe-with-an-updated-avatar-experience/"><u>PC Users, Explore Pandora Universe with an Updated Avatar Experience!</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/prime-posting-hours-the-key-to-youtube-dominance/"><u>Prime Posting Hours The Key to YouTube Dominance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-resolve-sea-of-thieves-game-crashes/"><u>The Ultimate Guide to Resolve Sea of Thieves Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stabilizing-your-pcs-halo-infinite-gaming-experience/"><u>Troubleshooting Guide: Stabilizing Your PC's Halo Infinite Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009698241-troubleshooting-oxygen-not-included-ending-those-frustrating-crashes/"><u>Troubleshooting Oxygen Not Included - Ending Those Frustrating Crashes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-issues-when-phasmophobia-in-vr-stops-responding/"><u>Troubleshooting Tips: Resolving Issues When Phasmophobia in VR Stops Responding</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009218536-unlocking-the-secrets-to-swiftly-resolving-apex-legends-startup-challenges/"><u>Unlocking the Secrets to Swiftly Resolving Apex Legends Startup Challenges</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/veiled-viewing-of-facebook-flashbacks-for-2024/"><u>Veiled Viewing of Facebook Flashbacks for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/verifying-accurate-dvd-names-using-windows-media-player-a-step-by-step-guide/"><u>Verifying Accurate DVD Names Using Windows Media Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-glimpse-into-the-digital-frontier-todays-vr/"><u>[New] A Glimpse Into the Digital Frontier Today's VR</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-best-hidden-instagram-tool-for-clandestine-stories/"><u>[Updated] In 2024, Best Hidden Instagram Tool for Clandestine Stories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-recurring-stardee-valley-issues-on-personal-computers/"><u>Diagnosing and Repairing Recurring Stardee Valley Issues on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-the-persistent-stuttering-problem-in-deathloop-was-finally-solved-for-pc-users/"><u>How the Persistent Stuttering Problem in Deathloop Was Finally Solved for PC Users</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-realme-12plus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Realme 12+ 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/obs-versus-wirecast-assessing-the-best-for-live-broadcasts/"><u>OBS Versus Wirecast Assessing the Best for Live Broadcasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-optimization-for-a-smooth-experience-in-wrc-10-avoiding-the-notorious-fia-series-game-crashes/"><u>PC Optimization for a Smooth Experience in WRC 10: Avoiding the Notorious FIA Series Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006649024-smooth-gaming-awaits-discover-the-ultimate-fix-for-diablo-iv-crashing-across-all-platforms/"><u>Smooth Gaming Awaits! Discover the Ultimate Fix for Diablo IV Crashing Across All Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009247593-solution-tips-for-updating-outdated-drivers-in-minecraft-get-back-to-playing/"><u>Solution Tips for Updating Outdated Drivers in Minecraft – Get Back to Playing!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-2022-apex-legends-glitch-decoding-the-mystery-of-error-code-leaf/"><u>Solving the 2022 Apex Legends Glitch: Decoding the Mystery of Error Code 'Leaf'</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30i? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-alan-wake-2-stability-issues-top-tips-for-gamers/"><u>Troubleshooting Alan Wake 2 Stability Issues: Top Tips for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fix-issues-when-back-4-blood-wont-start-on-pcs-win11-win10-win7/"><u>Troubleshooting Guide: Fix Issues When 'Back 4 Blood' Won't Start on PCs (Win11, Win10, Win7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-tricks-for-restoring-removed-phone-entries-on-android-devices/"><u>Uncover Tricks for Restoring Removed Phone Entries on Android Devices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Resolve: Why Is My Google Chrome Freezing and How to Stop It?"
-date: 2024-10-26T19:18:37.451Z
-updated: 2024-11-01T02:12:03.207Z
+date: 2024-11-01T20:50:55.490Z
+updated: 2024-11-06T22:40:17.454Z
 tags:
   - win11
   - win10
@@ -55,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/de3aeccba8a1988fe712bc85cebc3af3bc3a21faa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After that, restart your computer and see if that helps.
 
 If State of Decay 2 still crashes, go ahead with the next fix below.
@@ -90,6 +77,19 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -129,19 +129,32 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Move State of Decay 2 to a different drive
 
@@ -156,16 +169,16 @@ If the crashing issue occurs again, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -178,31 +191,18 @@ If this method doesn’t do the trick, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
@@ -218,20 +218,27 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
@@ -257,21 +264,14 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
@@ -298,16 +298,15 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capturing-web-streamed-music-step-by-step-guide/"><u>[New] 2024 Approved Capturing Web-Streamed Music Step by Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-7-fixes-for-warzone-20-not-launching-on-pc-2024/"><u>[Solved] 7 Fixes for Warzone 2.0 Not Launching on PC 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-ps1-classics-on-your-desktop-the-best-emulators-reviewed/"><u>2024 Approved PS1 Classics on Your Desktop The Best Emulators Reviewed</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/avoiding-escalation-stealthy-yet-effective-techniques-to-address-grievances-on-discord/"><u>Avoiding Escalation Stealthy Yet Effective Techniques to Address Grievances on Discord</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-solving-the-problem-of-empty-screens-on-starting-computers/"><u>Diagnosing and Solving the Problem of Empty Screens on Starting Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-windows/"><u>Fixes for StarCraft II Game Crashing Issues on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-fix-how-to-overcome-game-crashes-in-the-cycle-for-pc-users/"><u>Master the Fix! How to Overcome Game Crashes in The Cycle for PC Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/re7-village-follow-up-solutions-to-overcome-black-screen-hiccups-on-pc/"><u>RE7 Village Follow-Up: Solutions to Overcome Black Screen Hiccups on PC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/s620-driver-installation-manual-step-by-step/"><u>S620 Driver Installation Manual - Step by Step</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-persistent-crashes-in-necromunda-hired-gun-for-windows-users/"><u>Solving Persistent Crashes in 'Necromunda: Hired Gun' For Windows Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-slow-down-and-savor-how-to-add-slow-motion-effects-in-windows-live-movie-maker/"><u>Updated In 2024, Slow Down and Savor How to Add Slow Motion Effects in Windows Live Movie Maker</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-basic-routines-preserving-google-voice-conversations/"><u>[New] In 2024, Basic Routines Preserving Google Voice Conversations</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-ultimate-self-bio-blueprint-for-building-a-distinctive-online-presence/"><u>[Updated] The Ultimate Self-Bio Blueprint for Building a Distinctive Online Presence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006064602-directx-troubles-in-anno-1800-heres-how-you-can-fix-it/"><u>DirectX Troubles in Anno 1800? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gameplay-eliminate-stutter-and-crash-problems-with-serious-sam-4-on-pc/"><u>Enhance Your Gameplay: Eliminate Stutter and Crash Problems with Serious Sam 4 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722988136696-how-to-play-destiny-2-post-2024-patch-tackling-the-notorious-broccoli-bug-once-and-for-all/"><u>How To Play Destiny 2 Post-2024 Patch - Tackling The Notorious Broccoli Bug Once And For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-guide-solving-and-preventing-errors-in-the-apex-legends-engine/"><u>Master Guide: Solving and Preventing Errors in the Apex Legends Engine</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-adobe-premiere-pro-for-mac-best-for-professionals/"><u>New Adobe Premiere Pro for Mac Best for Professionals</u></a></li>
+<li><a href="https://win-docs.techidaily.com/securing-your-memories-a-step-by-step-guide-to-enabling-recently-deleted-feature-for-photos-on-iphone-with-ios-16-and-17/"><u>Securing Your Memories: A Step-by-Step Guide to Enabling 'Recently Deleted' Feature for Photos on iPhone with iOS 16 and 17</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-invalid-service-installation-inf-segment/"><u>Solving Invalid Service Installation INF Segment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-x-flip-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo X Flip</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Advanced Features: Enabling gpedit.msc on Your Windows Home PC"
-date: 2024-09-01T04:13:17.113Z
-updated: 2024-09-02T04:13:17.113Z
+date: 2024-11-05T02:34:54.785Z
+updated: 2024-11-07T02:32:26.904Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
 
 ## Fix 2: Update graphics driver
@@ -53,6 +60,14 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -62,8 +77,12 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Change launch directory
 
  Some gamers have fixed this issue by changing launch directory. If you didn’t try this fix, you can give it a shot.
@@ -74,26 +93,30 @@ thumbnail: https://thmb.techidaily.com/a6c09f57496c52b8e907a972b91ffe1ac4bdb6bfa
 2. On your keyboard, press**the Windows logo key** and**R** at the same time to open the**Run** Dialog. Copy-paste**%appdata%** and press Enter to open the**Roaming** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Run-appdata.png)
 3. **Double-click** on the**.minecraft** folder to open it. Then create a new folder and name it as_new launch directory_ (or whatever you like).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  Launch Lunar Client and see if this issue persists. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Perform a clean boot
 
  You may run into Lunar Client crashing issue if it conflict with another program on your computer. To find the exact program that conflicts with Lunar Client, you need to perform a clean boot.
@@ -107,30 +130,32 @@ To perform a clean boot, just follow the steps below:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![Run msconfig](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
  Once you find out the software that crashes your game, you may need to close or uninstall it before you launch Lunar Client.
@@ -156,8 +181,6 @@ To perform a clean boot, just follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +188,26 @@ To perform a clean boot, just follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-auroras-high-dynamic-range-a-game-changer-in-2024/"><u>[New] Aurora's High Dynamic Range A Game Changer, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-your-brand-discover-the-riches-in-our-gallery-of-50-free-youtube-banners/"><u>[New] In 2024, Elevate Your Brand - Discover the Riches in Our Gallery of 50 Free YouTube Banners</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-videos-your-comprehensive-tutorial-for-2024/"><u>[Updated] Mastering YouTube Videos Your Comprehensive Tutorial for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-splitcam-breakdown-best-or-not-amongst-recorders/"><u>[Updated] SplitCam Breakdown Best or Not Amongst Recorders?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-stunning-iphone-hdr-results/"><u>2024 Approved Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-pioneering-ig-video-influence-crafting-an-excellent-marketing-plan/"><u>2024 Approved Pioneering IG Video Influence Crafting an Excellent Marketing Plan</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bug-free-gaming-solving-the-century-age-of-ashes-pc-crash-dilemma/"><u>Bug-Free Gaming: Solving the 'Century: Age of Ashes' PC Crash Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-0x803f8001-no-more-a-complete-fix-for-the-minecraft-launcher-on-windows-1110/"><u>Error 0X803F8001 No More - A Complete Fix for the Minecraft Launcher on Windows 11/10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcome-pc-glitches-in-call-of-duty-modern-warfare-2-with-these-six-fixes/"><u>Expert Advice: Overcome PC Glitches in Call of Duty: Modern Warfare 2 with These Six Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-applied-overcoming-technical-glitches-in-modern-warfare-for-a-seamless-pc-gaming-experience/"><u>Fixes Applied: Overcoming Technical Glitches in Modern Warfare for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-launching-problems-in-dota-2-loading-screen-fixes/"><u>How to Overcome Launching Problems in Dota 2 – Loading Screen Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-2024-lego-star-wars-skywalker-saga-pc-crash-issue-solutions-inside/"><u>How to Overcome the 2024 Lego Star Wars: Skywalker Saga PC Crash Issue - Solutions Inside!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-discount-grab-a-4tb-samsung-t5-external-ssd-on-amazon-save-almost-half-its-price-spotted-by-zdnet/"><u>Massive Discount: Grab a 4TB Samsung T5 External SSD on Amazon - Save Almost Half Its Price, Spotted by ZDNet!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-free-avi-video-joiner-software-merge-clips-in-minutes/"><u>New Free AVI Video Joiner Software Merge Clips in Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-packet-loss-on-discord-for-smooth-voice-calls/"><u>Solution Guide: Overcoming Packet Loss on Discord for Smooth Voice Calls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-for-msi-afterburner-not-identifying-graphics-card-in-windows-1011/"><u>Step-by-Step Solution for MSI Afterburner Not Identifying Graphics Card in Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999652831-stop-sekiro-from-closing-unexpectedly-quick-solutions-inside/"><u>Stop Sekiro From Closing Unexpectedly - Quick Solutions Inside</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/streamlined-process-for-hassle-free-hdr-shots/"><u>Streamlined Process for Hassle-Free HDR Shots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-high-cpu-consumption-on-your-phasmophobia-server/"><u>Troubleshooting High CPU Consumption on Your Phasmophobia Server</u></a></li>
+</ul></div>
 

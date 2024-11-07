@@ -1,7 +1,7 @@
 ---
 title: "Solve Persistent Lag in Serious Sam 4: Debugging & Optimizing Gameplay on PC Systems"
-date: 2024-09-01T04:09:33.237Z
-updated: 2024-09-02T04:09:33.237Z
+date: 2024-11-04T19:55:50.664Z
+updated: 2024-11-07T05:41:29.332Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  See if the latest graphics driver fix the Resident Evil Village fps drops. If this fix doesn’t work for you, try the next fix, below.
@@ -66,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba89
 ## Fix 2: Optimize GPU Settings
 
  If the in-game FPS doesn’t imrpove much after you updated your graphics driver, you may need to tweak the graphics settings. Here’s how to do it:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1: Tweak your graphics card settings
 
@@ -91,11 +105,15 @@ For AMD users, follow the steps below:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game to see the fps increases. If not, move on to modify Windows 10 OS graphics settings.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Modify Windows 10 OS graphics settings
 
 Simply follow the steps below to modify Windows 10 OS graphics settings:
@@ -111,8 +129,12 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
  Restart the game to see if it runs smoothly. If not, you may need to move on and modify the in-game graphics settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 3: Modify in-game graphics settings
 
  Try lowering the in-game graphics setting to see if you’ll squeeze out a few extra FPS and performance:
@@ -132,8 +154,12 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
  Run Resident Evil Village again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable the Steam Overlay
 
  If you have the Steam Overlay turned on and FPS drops while playing Resident Evil Village, just try disabling Steam Overlay for Resident Evil Village to see FPS increases. Here is how to do it:
@@ -143,14 +169,8 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 2. In the**GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay for Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  Launch Resident Evil Village to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Fix 5: Set Resident Evil Village to High priority
 
  This fix lets the Windows OS allocate more resources to run Resident Evil Village. Normally, it should increase your performance, especially when you have other programs running in the background.
@@ -163,15 +183,14 @@ To set Resident Evil Village to High priority:
 ![Resident Evil Village high priority](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-high-priority.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Fix 6: Close resource-hogging apps
 
  If too many applications or programs are running at the same time in the background, the in-game fps may unstable and even dops a lot. You may need to**restrict applications and downloads in the background** before playing the game. Here is how to do it:
@@ -180,14 +199,8 @@ The powerful video editing program for your Windows PC</a>
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![End task](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  Run Resident Evil Village to see if you can play the game smoothly. if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7: Set the Power Plan of your PC for high performance
 
  A power plan is a collection of hardware and system settings that manages how your computer use power. Windows 10 allows you to customize the power plan on your PC.
@@ -199,19 +212,18 @@ The powerful video editing program for your Windows PC</a>
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the window that pops up, expand **Hide additional plans** and select **High performance** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch Resident Evil Village to check if the in-game fps improves.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 8: Adjust your Windows system for the best performance
 
  If your PC fails to meet the recommended system requirements for Resident Evil Village, try adjusting your Windows system for the best performance. Here is how to do it:
@@ -219,6 +231,14 @@ Launch Resident Evil Village to check if the in-game fps improves.
 1. On your keyboard, press the Windows logo key and R at the same time to invoke the Run dialog. Type **SystemPropertiesAdvanced** and press **Enter** to open the**System Properties** window.  
 ![run SystemPropertiesAdvanced](https://images.drivereasy.com/wp-content/uploads/2021/05/run-SystemPropertiesAdvanced.jpg)
 2. Under the**Advanced** tab, click the Settings… button in the**Performance** section.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Advanced Performance Settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Advanced-Performance-Settings.jpg)
 3. Under the**Visual Effects** tab, select**Adjust for best performance** and click**OK** .  
 ![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
@@ -242,8 +262,6 @@ Launch Resident Evil Village to see if you get a better in-game fps.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +269,18 @@ Launch Resident Evil Village to see if you get a better in-game fps.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/eauty-brilliance-masterclasses-and-product-explorations/"><u>[New] Beauty Brilliance Masterclasses and Product Explorations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-no-fuss-strategies-recording-your-google-voice-calls-for-2024/"><u>[New] No-Fuss Strategies Recording Your Google Voice Calls for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/beginners-guide-to-iphone-screen-capture/"><u>Beginner's Guide to iPhone Screen Capture</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-resolve-persistent-google-chrome-breakdowns/"><u>Easy Steps to Resolve Persistent Google Chrome Breakdowns</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/efficient-cross-platform-recovery-software-proficient-in-retrieving-lost-or-corrupted-digital-files-across-all-systems/"><u>Efficient Cross-Platform Recovery Software - Proficient in Retrieving Lost or Corrupted Digital Files Across All Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-disco-elysium-stability-problems-for-pc-gamers/"><u>Expert Advice: Resolving 'Disco Elysium' Stability Problems for PC Gamers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-optimal-airdate-for-podcasts-timing-matters-most/"><u>In 2024, Optimal Airdate for Podcasts Timing Matters Most</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-11-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus 11 5G FRP Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-black-screen-troubles-in-zoom-on-your-computer-comprehensive-2024-instructions/"><u>Resolving Black Screen Troubles in Zoom on Your Computer - Comprehensive 2024 Instructions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-amd-radeon-utility-fails-to-launch/"><u>Troubleshooting Steps When AMD Radeon Utility Fails to Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-cant-launch-assassins-creed-mirage/"><u>Troubleshooting Steps: When Can't Launch Assassin's Creed Mirage</u></a></li>
+</ul></div>
 

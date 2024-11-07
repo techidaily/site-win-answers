@@ -1,7 +1,7 @@
 ---
 title: Call of Duty's Black Ops Cold War - Mastering Crash Fixes for a Seamless PC Gaming Experience
-date: 2024-09-01T04:16:06.758Z
-updated: 2024-09-02T04:16:06.758Z
+date: 2024-11-06T06:51:37.456Z
+updated: 2024-11-07T01:25:49.574Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 
 Follow the steps below to fix the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1: Check the requirements
 
  Make sure your PC has meet the minimum requirements of Yakuza 6: The Song of Life.
@@ -45,9 +42,6 @@ Follow the steps below to fix the crashing issue.
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 2: Update your drivers
 
  Make sure your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing or black screen issues.
@@ -61,6 +55,13 @@ Follow the steps below to fix the crashing issue.
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -69,9 +70,6 @@ Follow the steps below to fix the crashing issue.
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Install beta patch
 
  The SEGA Team released a new patch to fix the crashes. Follow the steps below to solve the issues with the latest patch.
@@ -79,14 +77,40 @@ Restart your computer for the changes to take effect.
 1. Launch Steam, right-click the game in the LIBRARY, and go to**Properties** .  
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -100,15 +124,16 @@ Restart your computer for the changes to take effect.
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Edit Settings
 
  This fix is working for most of the users, follow the steps to edit your Advanced Performance Settings.
@@ -120,21 +145,28 @@ Restart your computer for the changes to take effect.
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
@@ -150,8 +182,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +189,23 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-get-ready-for-a-lighter-device-experience-top-48-apps-to-cut-down-video-size-on-android/"><u>[New] 2024 Approved Get Ready for a Lighter Device Experience Top 48 Apps to Cut Down Video Size on Android</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlock-the-6th-richest-strategies-for-successful-ig/"><u>[New] 2024 Approved Unlock the 6Th Richest Strategies for Successful IG</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-instagram-boosting-post-engagement-strategies/"><u>[New] In 2024, Mastering Instagram Boosting Post Engagement Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-vanguard-of-virtual-fame-instagrams-25-luminaries/"><u>[Updated] 2024 Approved The Vanguard of Virtual Fame Instagram's 25 Luminaries</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-depth-look-techniques-for-screen-capturing-on-android/"><u>[Updated] In-Depth Look Techniques for Screen Capturing on Android</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-scholarly-streams-10-best-ed-tutorials-yt/"><u>2024 Approved Scholarly Streams 10 Best Ed Tutorials YT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-pubgs-stutter-and-hangs-optimize-your-gameplay/"><u>Easy Fixes for PUBG's Stutter & Hangs - Optimize Your Gameplay!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-forza-horizon-4-game-crash-issue-on-your-pc/"><u>Fixing the Forza Horizon 4 Game Crash Issue on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002623201-how-to-fix-lethal-company-not-launching-2024-tips/"><u>How to Fix Lethal Company Not Launching - 2024 Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011469040-insurgency-sandstorm-update-causes-persistent-game-crashes-solved/"><u>Insurgency: Sandstorm Update Causes Persistent Game Crashes - Solved!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95783037-9781594779671-morphic-resonance-4th-ed/"><u>Morphic Resonance (4th ed.) | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-getting-civilization-vi-running-in-windows-11/"><u>Overcoming the Hurdle: Getting Civilization VI Running in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-tackling-frame-rate-dips-and-latency-issues-in-call-of-duty-black-ops-4/"><u>Resolved: Tackling Frame Rate Dips & Latency Issues in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/snap-to-success-top-pixlr-editing-methods-unveiled-for-2024/"><u>Snap to Success Top Pixlr Editing Methods Unveiled for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tech-tricks-for-a-seamless-fortnite-experience-addressing-pc-freezes-and-glitches/"><u>Top Tech Tricks for a Seamless Fortnite Experience: Addressing PC Freezes and Glitches</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-mix-fold-3-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi Mix Fold 3 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

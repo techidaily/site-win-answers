@@ -1,7 +1,7 @@
 ---
 title: Rainbow Six Extraction Crash Fix - Optimizing Gameplay on Your Computer System
-date: 2024-09-01T04:10:13.374Z
-updated: 2024-09-02T04:10:13.374Z
+date: 2024-10-31T22:30:26.331Z
+updated: 2024-11-07T05:50:28.014Z
 tags:
   - win11
   - win10
@@ -39,14 +39,24 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
  But if your game keeps crashing even after the restart, try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Fix 2 – Disconnect peripherals
 
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -70,9 +80,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -82,9 +89,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 If Disco Elysium still crashes, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4 – Disable extraneous software
 
  Game performance issues will happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -97,9 +101,6 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -120,21 +121,22 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Disco Elysium.
 
@@ -145,8 +147,12 @@ If your game still crashes after this, try the fix below.
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7 – Reinstall the game
 
  If your game is not properly installed on your PC or if your game version is outdated, you’re likely to run into issues like game crashes. Try reinstalling your game to see if that’s the problem for you:
@@ -157,18 +163,35 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Disco Elysium – The Final Cut** , and select **Manage > Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 **4)** Restart Steam and reinstall the game.
 
 **5)** Relaunch your game.
 
 If the crashing issue still exists, there’s still 1 fix to try.
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Check for Windows updates
 
@@ -179,15 +202,23 @@ If the crashing issue still exists, there’s still 1 fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Restart your computer and your game.
 
 If the game still crashes, then try the next solution.
@@ -222,8 +253,6 @@ To run your game as administrator, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +260,23 @@ To run your game as administrator, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-livestream-leaders-clash/"><u>[New] 2024 Approved LiveStream Leaders Clash</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>[New] 2024 Approved Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elevating-the-impact-of-your-instagram-videos/"><u>[New] In 2024, Elevating the Impact of Your Instagram Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unleash-creativity-ranked-free-drawing-apps-for-mac/"><u>[New] Unleash Creativity Ranked FREE Drawing Apps for Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/back-4-blood-not-working-solved-guide-for-proper-setup-on-different-windows-oses/"><u>Back 4 Blood Not Working? [Solved!] Guide for Proper Setup on Different Windows OSes</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-against-league-of-legends-connectivity-problems-overcoming-the-202reconnect-loop/"><u>Battle Against League of Legends Connectivity Problems: Overcoming the 202^Reconnect Loop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-gaming-experience-overwatch-graphics-issues-corrected/"><u>Enhanced Gaming Experience: Overwatch Graphics Issues Corrected</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/immediate-effect-why-does-italy-ban-chatgpt/"><u>Immediate Effect: Why Does Italy Ban ChatGPT?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-10-premium-yoga-channels-for-ultimate-fitness-journey/"><u>In 2024, 10 Premium Yoga Channels for Ultimate Fitness Journey</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-leading-selection-top-6-fb-lite-vids/"><u>In 2024, Leading Selection #Top 6 FB Lite Vids</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-palworlds-session-search-errors-strategies-for-immediate-fixes-and-prevention/"><u>Navigating Through Palworld's Session Search Errors: Strategies for Immediate Fixes and Prevention</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-recurring-sony-vegas-project-freezes-a-step-by-step-guide/"><u>Overcoming Recurring Sony Vegas Project Freezes - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-for-stabilizing-adobe-premiere-pro-on-windows-1110-systems/"><u>Solution Guide for Stabilizing Adobe Premiere Pro on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-issue-diagnosing-the-sudden-dual-decrease-in-pc-fps/"><u>Solved Issue: Diagnosing the Sudden Dual Decrease in PC FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steams-remote-play-issues-easy-solutions-inside/"><u>Troubleshooting Steam's Remote Play Issues - Easy Solutions Inside</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-bugged-upbeat-sounds-pack-free-2023-digital-audio-library/"><u>Updated 2024 Approved Bugged Upbeat Sounds Pack – FREE 2023 Digital Audio Library</u></a></li>
+</ul></div>
 

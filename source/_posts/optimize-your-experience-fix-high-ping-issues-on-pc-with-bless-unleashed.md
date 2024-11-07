@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Experience: Fix High Ping Issues on PC with Bless Unleashed"
-date: 2024-10-27T08:31:03.503Z
-updated: 2024-11-01T06:22:05.946Z
+date: 2024-10-31T03:19:49.745Z
+updated: 2024-11-07T02:31:25.709Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 **Note:** Don’t use fullscreen (use borderless instead) and don’t**Alt + Tab** your game, for these two things can always cause Battlefield V crashing issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change Windows 10 Virtual Memory/Pagefile
 
  If the Windows 10 virtual memory isn’t set right, there is a chance of crashing and freezing issues with Battlefield V. Windows usually manages the Virtual memory automatically, but you can manually change the size of virtual memory if the default size isn’t large enough for your needs.
@@ -50,32 +57,26 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/RAM-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the Advanced tab, click**Setting** s.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab and click**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Uncheck**Automatically manage paging file size for all drives** . Select**Custom size** and enter the**Initial size** and**Maximum size** .
@@ -91,10 +92,10 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  6) Launch your Battlefield V again and play for a few hours to check if the crashing issue still persists.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Turn off the in-game overlay
@@ -145,6 +146,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 4) Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Delete settings and repair your Battlefield V
 
  Deleting the settings file will reset your graphics configuration to default, and then you can repair Battlefield V in Origin to see if this works for you.
@@ -156,6 +164,19 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  3) Restart your PC when the repair is done.
 
  4) Launch your Battlefield V again to see if the crashing issue still persists.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Stop Overclocking
 
@@ -199,21 +220,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/origin-run-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: System File Checker
 
@@ -246,6 +253,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type the command:**sfc /scannow** and hit**Enter** . Note that there’s a space between**sfc** and**/** .
 
 sfc /scannow
@@ -264,10 +278,10 @@ sfc /scannow
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9: Perform a clean boot
@@ -278,13 +292,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
@@ -292,13 +299,6 @@ sfc /scannow
  3) Click the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select each startup item and click**Disable** .
 
@@ -332,16 +332,22 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-innovative-strategies-for-iphoneipad-screenshots-in-media/"><u>[New] 2024 Approved Innovative Strategies for iPhone/iPad Screenshots in Media</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-ethical-and-safe-tiktok-following-hacks-for-2024/"><u>[New] Ethical and Safe TikTok Following Hacks for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-surging-interest-through-effective-strategies-for-fb-giveaway-promotions/"><u>[Updated] Surging Interest Through Effective Strategies for FB Giveaway Promotions</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-put-a-stay-to-unsolicited-youtube-trails/"><u>2024 Approved Put a Stay to Unsolicited YouTube Trails</u></a></li>
-<li><a href="https://win-answers.techidaily.com/far-cry-6-no-more-blank-screens-ultimate-fix-guide/"><u>Far Cry 6 No More Blank Screens: Ultimate Fix Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-in-game-security-threat-warnings-a-comprehensive-guide/"><u>Overcoming 'In-Game Security Threat' Warnings: A Comprehensive Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/seamless-note-taking-with-apples-tool-compatibility-guide-for-windows-and-android-users/"><u>Seamless Note Taking with Apple's Tool: Compatibility Guide for Windows & Android Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-get-past-the-persistent-loading-screen-in-madden-22/"><u>Solution Found! Get Past the Persistent Loading Screen in Madden 22</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-your-diablo-immortal-troubles-no-more-pc-freezes/"><u>Solving Your Diablo Immortal Troubles – No More PC Freezes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-developer-error-5573-in-call-of-duty-warzone-across-platforms/"><u>Step-by-Step Guide to Fixing 'Developer Error 5573' In Call of Duty Warzone Across Platforms</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-crafting-unique-content-to-differentiate-your-channel-for-2024/"><u>[New] Crafting Unique Content to Differentiate Your Channel for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-tips-and-tricks-for-adding-media-in-instagram-for-2024/"><u>[New] Tips & Tricks for Adding Media in Instagram for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tricks-and-tips-for-mastering-your-new-win11-experience/"><u>[Updated] 2024 Approved Tricks & Tips for Mastering Your New Win11 Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-autoplay-youtube-on-mobile-no-distractions/"><u>[Updated] In 2024, AutoPlay YouTube on Mobile, No Distractions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-vrchat-crashes-in-virtual-reality-8-crucial-fixes-for-gaming-smoothness-on-pc/"><u>Avoid VRChat Crashes in Virtual Reality: 8 Crucial Fixes for Gaming Smoothness on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-troubleshooting-tips-for-smooth-fallout-3-gaming-on-windows-11/"><u>Best Troubleshooting Tips for Smooth Fallout 3 Gaming on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-repairing-ntdlldll-faults-on-windows-operating-systems-version-11-and-10/"><u>Comprehensive Guide to Repairing ntdll.dll Faults on Windows Operating Systems (Version 11 & 10)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crack-the-code-top-strategies-to-keep-among-us-running-smoothly/"><u>Crack the Code: Top Strategies to Keep 'Among Us' Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-to-preventsolve-jurassic-world-evolution-game-freezes/"><u>Expert Advice to Prevent/Solve Jurassic World Evolution Game Freezes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-infinix-zero-30-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Infinix Zero 30 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-samsung-galaxy-a24-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Samsung Galaxy A24 FRP Without Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-real-strategy-behind-instagram-reels/"><u>In 2024, The Real Strategy Behind Instagram Reels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-avoiding-fatal-bugs-in-the-unreal-engine-4-insights-from-arise-games/"><u>Mastering Avoiding Fatal Bugs in the Unreal Engine 4 - Insights From Arise Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-manual-ensuring-smooth-operation-of-vr-titles-without-crashes/"><u>PC Players' Manual: Ensuring Smooth Operation of VR Titles Without Crashes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-15-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 15 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-steps-to-stop-resident-evil-4-remastered-from-freezing/"><u>Resolving Issues: Steps to Stop Resident Evil 4 Remastered From Freezing</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/18th-anniversary-special-edition/"><u>デジアーティー完全ワイヤレス製品、18th Anniversary Special Edition</u></a></li>
 </ul></div>
 

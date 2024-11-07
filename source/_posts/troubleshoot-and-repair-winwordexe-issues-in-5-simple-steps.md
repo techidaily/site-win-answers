@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Repair WINWORD.EXE Issues in 5 Simple Steps
-date: 2024-09-01T04:08:47.699Z
-updated: 2024-09-02T04:08:47.699Z
+date: 2024-11-02T00:03:27.955Z
+updated: 2024-11-07T07:14:39.030Z
 tags:
   - win11
   - win10
@@ -56,20 +56,21 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Scan and Repair for your game
 
  If some problems occur to World of Warcraft, such as WOW crashes, you can try the Scan and Repair feature in Battle.net application, which automatically scans and repairs the problems in your game. To do so:
@@ -82,14 +83,15 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Once finish, restart your game and see if it works properly.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable DVR app in Xbox
 
  Windows automatically enables DVR in Xbox app, but sometimes this is incompatible with games running in your computer. So you can disable DVR in Xbox, so World of Warcraft stops crashing.
@@ -101,12 +103,17 @@ Here’s what you can do:
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
 
@@ -118,11 +125,23 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -137,8 +156,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +163,18 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-add-link-to-facebook-story-for-free-for-2024/"><u>[New] How to Add Link to Facebook Story for Free for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-pc-speeds-choosing-the-right-extension-software/"><u>[New] Top PC Speeds Choosing the Right Extension Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-wallet-friendly-high-definition-spherical-video-capture-for-2024/"><u>[New] Wallet-Friendly High-Definition Spherical Video Capture for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44cm44kv44oq44od44ox44ki44km44oi5oqa6kgt77ya6auy5zob6loq44gr44ot44oh44kq44ks5yaz55yf44g444go5asj44gi44kl5pa55rov44cn/"><u>「クリップアウト技術：高品質にビデオを写真へと変える方法」</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-investigation-vlc-screen-capturer/"><u>2024 Approved Investigation VLC Screen Capturer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-overcome-roblox-launch-failures-updated-for-2amo/"><u>Comprehensive Solutions: Overcome Roblox Launch Failures (Updated for 2Amo)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-resolved-nier-automata-game-freezing-problem/"><u>Fixing the [ISSUE RESOLVED] 'NieR: Automata' Game Freezing Problem</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/garmin-virb-ultra-30-an-insider-look-at-an-adventure-staple-for-2024/"><u>Garmin VIRB Ultra 30 An Insider Look at an Adventure Staple for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-when-discords-screen-share-wont-work/"><u>Quick Fixes for When Discord's Screen Share Won't Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connection-errors-a-players-guide-to-restoring-lost-connectivity-in-escape-from-tarkov/"><u>Resolving Connection Errors: A Player’s Guide to Restoring Lost Connectivity in Escape From Tarkov</u></a></li>
+</ul></div>
 
