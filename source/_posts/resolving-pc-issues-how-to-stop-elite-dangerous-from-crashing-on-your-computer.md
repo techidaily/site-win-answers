@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Issues - How to Stop Elite Dangerous From Crashing on Your Computer
-date: 2024-08-28T00:07:31.528Z
-updated: 2024-08-29T00:07:31.528Z
+date: 2024-11-13T07:09:15.905Z
+updated: 2024-11-16T16:11:13.321Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
@@ -54,8 +61,12 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -75,9 +86,18 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -114,25 +134,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
@@ -140,8 +158,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
 ---
@@ -156,8 +178,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +185,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-channel-identity-reimagined-best-name-generators-listed/"><u>[New] 2024 Approved Channel Identity Reimagined Best Name Generators Listed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-affordable-methods-for-video-and-text-synergy/"><u>[New] In 2024, Affordable Methods for Video and Text Synergy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-perfecting-online-presence-screen-sharing-techniques-for-2024/"><u>[New] Perfecting Online Presence Screen Sharing Techniques for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ro-tools-for-non-pro-youtubers-for-2024/"><u>[New] Pro Tools for Non-Pro YouTubers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-captivating-spokesperson-appraisal-8th-analysis-for-2024/"><u>[Updated] Captivating Spokesperson Appraisal 8Th Analysis for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-royale-rulers-the-best-gaming-showdowns-for-2024/"><u>[Updated] Royale Rulers The Best Gaming Showdowns for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-multi-window-video-experience-in-edge/"><u>2024 Approved Unlock Multi-Window Video Experience in Edge</u></a></li>
+<li><a href="https://discover-best.techidaily.com/best-free-high-definition-video-players-for-modern-operating-systems-top-picks/"><u>Best Free High-Definition Video Players for Modern Operating Systems: Top Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722989351064-bring-your-gaming-back-to-life-solve-controller-problems-swiftly/"><u>Bring Your Gaming Back to Life: Solve Controller Problems Swiftly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-logitech-options-software-problems-in-the-windows-environment/"><u>Diagnosing and Fixing Logitech Options Software Problems in the Windows Environment</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-prevent-automatic-steam-renewal/"><u>How to Prevent Automatic Steam Renewal</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-countdown-control-in-live-broadcasting-obs-approach/"><u>In 2024, Countdown Control in Live Broadcasting OBS Approach</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-watch-dogs-legion-now-running-smoothly-without-interruptions/"><u>PC Gamers Rejoice: 'Watch Dogs Legion' Now Running Smoothly Without Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smoother-gaming-experience-increasing-fps-in-titanfall-2/"><u>Quick Fixes for Smoother Gaming Experience: Increasing FPS in Titanfall 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-gears-5-performance-problems/"><u>Step-by-Step Guide to Fixing Gears 5 Performance Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolve-helldivers-2-non-launch-issues-on-steam/"><u>Step-by-Step Guide to Resolve Helldivers 2 Non-Launch Issues on Steam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-failed-texture-loads-in-activisions-battle-royale-game/"><u>Troubleshooting Failed Texture Loads in Activision's Battle Royale Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-stop-valheim-freezing-and-stuttering-on-windowslinux/"><u>Troubleshooting Steps to Stop Valheim Freezing and Stuttering on Windows/Linux</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-your-fun-effective-solutions-for-eliminating-lag-in-rocket-league/"><u>Unfreeze Your Fun: Effective Solutions for Eliminating Lag in Rocket League</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving the Endless Wait – Apex Legends Loading Glitch"
-date: 2024-10-01T18:43:38.594Z
-updated: 2024-10-03T18:03:07.012Z
+date: 2024-11-12T19:29:09.893Z
+updated: 2024-11-17T04:28:36.641Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
@@ -85,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
@@ -100,10 +107,10 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
@@ -124,16 +131,16 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Click**Sign in through Steam** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
@@ -152,23 +159,9 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
@@ -196,15 +189,22 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
@@ -218,10 +218,10 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
@@ -245,22 +245,18 @@ thumbnail: https://thmb.techidaily.com/6c30e06757b848b8822a0592ade3cd707135548fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/tales-of-arise-diagnosing-and-addressing-game-stopping-errors-effectively/"><u>'Tales of Arise': Diagnosing & Addressing Game-Stopping Errors Effectively</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-audio-visual-elites-selecting-5-exceptional-creators-who-mix-sounds-for-2024/"><u>[New] Audio-Visual Elites Selecting 5 Exceptional Creators Who Mix Sounds for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-perfect-youtube-introend-videos-at-no-cost-for-2024/"><u>[New] Crafting Perfect YouTube Intro/End Videos at No Cost for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-declutter-your-visuals-learn-background-removal-with-photopea/"><u>[New] In 2024, Declutter Your Visuals Learn Background Removal with Photopea</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-navigating-zoom-meetings-on-windows-10/"><u>[Updated] 2024 Approved Navigating Zoom Meetings on Windows 10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-a-step-by-step-guide-share-youtube-vids-with-fb-friends-for-2024/"><u>[Updated] A Step-by-Step Guide Share YouTube Vids with FB Friends for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-and-solution-troubleshooting-steam-games-that-wont-open-in-windows-10/"><u>Fix & Solution: Troubleshooting Steam Games That Won't Open in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-error-overcoming-content-warning-in-voice-chat-communications/"><u>Fixing the Error: Overcoming 'Content Warning' In Voice Chat Communications</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/from-zero-to-hero-crafting-an-authoritative-online-self-for-2024/"><u>From Zero to Hero Crafting an Authoritative Online Self for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-geforce-experience-error-message-and-keep-your-gpu-software-running-smoothly/"><u>How to Fix 'GeForce Experience Error' Message & Keep Your GPU Software Running Smoothly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-import-music-to-inshot-app/"><u>How to Import Music to Inshot App?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-elevated-cpu-consumption-in-god-of-war-a-comprehensive-guide/"><u>Resolving Elevated CPU Consumption in God of War: A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/scansnap-s1300i-driver-download-and-update-easily/"><u>ScanSnap S1300i Driver Download & Update. Easily!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/sm-bus-controller-installation-package-available-for-various-windows-versions-including-11-10-8-and-7/"><u>SM Bus Controller Installation Package - Available for Various Windows Versions Including 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-fall-guys-from-failing-at-startup-expert-fixes-and-advice/"><u>Stop 'Fall Guys' From Failing at Startup – Expert Fixes and Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-star-wars-squadrons-stability-issues-fixed-and-explained/"><u>Ultimate Guide: Star Wars Squadrons Stability Issues Fixed and Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-is-my-minecraft-game-muting-solving-pc-audio-issues-for-a-sounds-filled-adventure/"><u>Why Is My Minecraft Game Muting? Solving PC Audio Issues for a Sounds-Filled Adventure</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-strategic-showdowns-unleashed-exploring-7-best-games/"><u>[New] 2024 Approved Strategic Showdowns Unleashed Exploring 7 Best Games</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-how-to-convert-youtube-to-mp4-safely/"><u>[New] In 2024, How to Convert YouTube to MP4 Safely?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-setting-up-audacity-on-ubuntu-linux-a-2023-comprehensive-instruction-manual-for-audio-enthusiasts/"><u>2024 Approved Setting Up Audacity on Ubuntu Linux A 2023 Comprehensive Instruction Manual for Audio Enthusiasts</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/best-dell-school-supply-sales-on-labor-day-discounted-computers-and-accessories-zdnet/"><u>Best Dell School Supply Sales on Labor Day: Discounted Computers & Accessories – ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bsod-blues-beat-the-blue-screen-of-death-malfunctioning-in-helldivers-2-easily/"><u>BSOD Blues? Beat the Blue Screen of Death Malfunctioning in Helldivers 2 Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gameplay-no-more-wow-crashes-hacks-for-a-seamless-experience/"><u>Enhance Your Gameplay: No More WOW Crashes – Hacks for a Seamless Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-visual-experience-improved-fps-and-bug-fixes-now-available-in-mass-effect-epic-collection/"><u>Enhanced Visual Experience: Improved FPS and Bug Fixes Now Available in Mass Effect Epic Collection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-solutions-increase-your-fps-in-escape-from-tarkov-with-these-6-essential-tweaks/"><u>Expert Solutions: Increase Your FPS in Escape From Tarkov with These 6 Essential Tweaks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-26-leading-registry-maintenance-applications-for-free/"><u>Expertly Selected: 26 Leading Registry Maintenance Applications for Free</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-phasmophobias-frequent-crashes-for-a-smoother-gaming-experience/"><u>How To Fix Phasmophobia's Frequent Crashes for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-cutting-through-the-noise-final-cut-pro-vs-lumafusion-comparison/"><u>New In 2024, Cutting Through the Noise Final Cut Pro vs LumaFusion Comparison</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-constant-warno-freezes-and-closures-while-using-a-pc/"><u>Resolving Constant WARNO Freezes and Closures While Using a PC</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-motorola-moto-g13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Motorola Moto G13 | Dr.fone</u></a></li>
 </ul></div>
 

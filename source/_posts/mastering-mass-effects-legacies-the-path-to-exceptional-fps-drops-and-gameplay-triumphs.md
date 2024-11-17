@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mass Effect's Legacies: The Path to Exceptional FPS Drops and Gameplay Triumphs"
-date: 2024-11-02T21:33:12.450Z
-updated: 2024-11-06T22:01:53.182Z
+date: 2024-11-14T09:07:33.470Z
+updated: 2024-11-17T08:32:43.505Z
 tags:
   - win11
   - win10
@@ -59,41 +59,28 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
    * Click on the game title in your library.  
@@ -101,6 +88,13 @@ Many players are reporting that Hitman 3 is having server issues, and they const
    * In the _**Local files**_ section, press _**Open folder**_ .  
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your network driver
 
@@ -136,6 +130,19 @@ OR
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Hitman 3 so that you can encounter the “**connection failed** ” error. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -153,41 +160,28 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap8-5.jpg)
 3. You will be prompted for permission. Click **Yes** to run the **Command Prompt** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap9-5.jpg)
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -215,22 +209,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-cost-effective-cloudscape-ideal-mass-archive/"><u>[New] Cost-Effective Cloudscape Ideal Mass Archive</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-mind-puzzling-stats-a-graphed-journey-through-yt-17/"><u>[New] Mind-Puzzling Stats A Graphed Journey Through YT '17</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-cost-mp3-creation-10-youtube-transformers-explained-for-2024/"><u>[New] No-Cost MP3 Creation 10 YouTube Transformers Explained for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-the-ultimate-guide-to-quantum-hdr/"><u>[New] The Ultimate Guide to Quantum HDR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-step-by-step-tutorial-resolving-teardown-system-failures/"><u>Complete Step-by-Step Tutorial: Resolving Teardown System Failures</u></a></li>
-<li><a href="https://fox-access.techidaily.com/gopros-new-era-a-detailed-max-360-vs-hero-11-analysis-for-2024/"><u>GoPro's New Era A Detailed Max 360 vs Hero 11 Analysis for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-freezing-problem-in-fallout-4-on-your-computer/"><u>How to Fix Freezing Problem in Fallout 4 on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-quickly-solve-the-d3d-graphics-error-errgfxd3dinit-in-your-gta-v-gameplay-experience/"><u>How to Quickly Solve the D3D Graphics Error (ERR_GFX_D3D_INIT) in Your GTA V Gameplay Experience</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-dominate-views-smarter-youtube-timing-strategies/"><u>In 2024, Dominate Views Smarter Youtube Timing Strategies</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-lava-blaze-pro-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Lava Blaze Pro 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-infinix-smart-7-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Infinix Smart 7? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-destiny-2-a-step-by-step-fix-for-the-infamous-centipede-issue/"><u>Mastering Destiny 2: A Step-by-Step Fix for the Infamous Centipede Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-bloodhunt-performance-a-guide-to-stop-game-disruptions-and-delays/"><u>Optimizing Bloodhunt Performance: A Guide to Stop Game Disruptions and Delays</u></a></li>
-<li><a href="https://win-answers.techidaily.com/seamless-adventure-awaits-in-diablo-immortal-pc-expert-guide-for-zero-crash-gameplay/"><u>Seamless Adventure Awaits in Diablo Immortal (PC): Expert Guide for Zero-Crash Gameplay -</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-fixing-the-problem-of-non-responsive-outlook-application/"><u>Step-by-Step Guide: Fixing the Problem of Non-Responsive Outlook Application</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/strategic-use-of-hashtags-for-broader-audience-on-tiktok-for-2024/"><u>Strategic Use of Hashtags for Broader Audience on TikTok for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-initialization-problems-solving-errgfxd3dinit-on-gta-v/"><u>Troubleshooting GRAPHICS Initialization Problems: Solving ERR_GFX_D3D_INIT on GTA V</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ain-momentum-with-these-strategies-for-trending-youtubers-for-2024/"><u>[New] Gain Momentum with These Strategies for Trending YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-ideal-screen-re-recorders-for-youtube-performances/"><u>2024 Approved Ideal Screen Re-Recorders for YouTube Performances</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cod-warzones-pacific-map-glitch-resolved-for-players/"><u>COD: Warzone's Pacific Map Glitch Resolved for Players</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-iphones-message-problem-with-android-contacts-a-step-by-step-guide/"><u>Fix Your iPhone's Message Problem with Android Contacts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-slowdown-problem-with-spotifys-web-player-expert-advice-and-tips/"><u>Fixing the Slowdown Problem with Spotify's Web Player : Expert Advice and Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/how-luts-revolutionize-your-photo-editing-experience-for-2024/"><u>How LUTs Revolutionize Your Photo Editing Experience for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-content-by-merging-apple-music-to-videos/"><u>In 2024, Maximize Content by Merging Apple Music to Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hiccups-in-modern-warfare-a-comprehensive-fix-guide/"><u>Overcoming Performance Hiccups in Modern Warfare - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-soil-ph-important-in-agriculture/"><u>Why Is Soil pH Important in Agriculture?</u></a></li>
 </ul></div>
 

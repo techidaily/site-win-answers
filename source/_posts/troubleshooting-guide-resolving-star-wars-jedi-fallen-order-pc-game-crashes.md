@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Star Wars Jedi: Fallen Order PC Game Crashes"
-date: 2024-11-03T18:14:45.166Z
-updated: 2024-11-06T18:20:25.642Z
+date: 2024-11-11T17:59:22.433Z
+updated: 2024-11-17T00:55:35.880Z
 tags:
   - win11
   - win10
@@ -105,17 +105,17 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
 
@@ -153,6 +153,19 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
@@ -177,6 +190,19 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
@@ -184,13 +210,6 @@ thumbnail: https://thmb.techidaily.com/b1aabf9182a40f39eacfea832a56e2883c1058666
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
 
@@ -209,10 +228,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Settings** … in the**Performance** section.
@@ -220,10 +239,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
@@ -234,29 +253,9 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -270,20 +269,33 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Set**Reflection Quality** to**Low** .
 
@@ -293,16 +305,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  8) Set**Ambient Occlusion** to**Medium** .
 
@@ -339,22 +351,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-cloud-savvy-pinpointing-optimal-data-purchases/"><u>[New] In 2024, Cloud Savvy Pinpointing Optimal Data Purchases</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mirth-manual-best-free-meme-kits-alive/"><u>[New] Mirth Manual Best Free Meme Kits Alive</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-innovative-approach-to-difficult-workplace-communications/"><u>ChatGPT's Innovative Approach to Difficult Workplace Communications</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-and-tricks-to-overcome-alan-wake-2s-persistent-crashes-a-2024-how-to-guide/"><u>Expert Tips and Tricks to Overcome Alan Wake 2'S Persistent Crashes - A 2024 How-To Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/facebook-fam-bites-in-snapchat-spotlight-for-2024/"><u>Facebook Fam Bites in Snapchat Spotlight for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-frame-rate-drop-in-dying-light-an-ultimate-solution/"><u>Fixing the Frame Rate Drop in Dying Light: An Ultimate Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-dota-2-launching-problems-and-bypass-the-endless-loading-screen/"><u>How to Fix Dota 2 Launching Problems and Bypass the Endless Loading Screen</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-deciphering-facebooks-latest-algorithm-updates/"><u>In 2024, Deciphering Facebook's Latest Algorithm Updates</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-hearing-from-you-simple-windows-10-recorder-guide/"><u>In 2024, Hearing From You Simple Windows 10 Recorder Guide</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-vintage-visions-older-tech-modern-memories/"><u>In 2024, Vintage Visions Older Tech, Modern Memories</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimizing-video-playback-with-pip-on-safari-devices-for-2024/"><u>Optimizing Video Playback with PIP on Safari Devices for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-connection-refused-by-anticheat-issue-in-escape-from-tarkov/"><u>Resolving the 'Connection Refused by Anticheat' Issue in Escape From Tarkov</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-for-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Solutions for Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-tarkov-glitch-steps-to-resolve-the-e-103003-error/"><u>Solving Tarkov Glitch: Steps to Resolve the E-103003 Error</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-the-frustration-solving-constant-crashes-in-the-ascent-for-windows-users/"><u>Stop the Frustration: Solving Constant Crashes in 'The Ascent' For Windows Users</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-best-laptops-for-video-editing-you-should-know-for-2024/"><u>The Best Laptops For Video Editing You Should Know for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-bloodhunt-game-lag-and-freezing-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve Bloodhunt Game Lag and Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-insiders-edge-to-editing-your-look-back-story/"><u>[New] In 2024, The Insider's Edge to Editing Your Look Back Story</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unleashing-creativity-in-micro-videography-and-photography/"><u>[New] Unleashing Creativity in Micro Videography and Photography</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-path-to-prominence-with-powerful-instagram-video-narratives/"><u>[Updated] In 2024, The Path to Prominence with Powerful Instagram Video Narratives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-the-dark-your-guide-to-fixing-the-epic-games-launchers-black-screen/"><u>Banishing the Dark: Your Guide to Fixing the Epic Games Launcher's Black Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-profitability-in-production-starting-a-successful-vlog/"><u>In 2024, Profitability in Production Starting a Successful Vlog</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/optimize-content-delivery-top-12-html5-video-platforms/"><u>Optimize Content Delivery Top 12 HTML5 Video Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-lag-and-improve-fps-in-war-thunder-expert-tips-to-enhance-your-gaming-experience/"><u>Overcome Lag and Improve FPS in War Thunder: Expert Tips to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-rusts-screen-artifact-dilemma-a-comprehensive-guide/"><u>Overcoming Rust's Screen Artifact Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-why-cyberpunk-2077-failed-to-start/"><u>Resolved Issue: Why Cyberpunk 2077 Failed to Start</u></a></li>
+<li><a href="https://win-premium.techidaily.com/sdhc/"><u>SDHCメモリーカードから失われたファイルを回復する詳細ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-how-to-get-your-thaumaturge-app-functioning-on-windows/"><u>Solving the Issue: How to Get Your Thaumaturge App Functioning on Windows</u></a></li>
 </ul></div>
 

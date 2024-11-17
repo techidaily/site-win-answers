@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for DirectX Compatibility Problems with Modern Warfare 2
-date: 2024-11-05T00:33:51.373Z
-updated: 2024-11-07T03:28:41.128Z
+date: 2024-11-12T16:51:14.022Z
+updated: 2024-11-16T19:56:41.628Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
@@ -74,33 +67,20 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -116,9 +96,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -138,6 +132,13 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -151,43 +152,30 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
@@ -216,24 +204,20 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210004001-9781761035043-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-overcoming-0x0000007e-bsod-issue-in-windows-7-computers/"><u>Expert Advice: Overcoming 0X0000007E BSoD Issue in Windows 7 Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-rust-a-look-into-correcting-the-visual-bugs-in-the-hitman-series/"><u>Fixing [RUST] - A Look Into Correcting the Visual Bugs in the Hitman Series</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-persistent-pauses-and-hitches-tips-for-smooth-warframe-gameplay/"><u>Fixing Persistent Pauses and Hitches: Tips for Smooth Warframe Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-anticheat-connection-failed-issue-in-escape-from-tarkov/"><u>How to Fix the 'Anticheat Connection Failed' Issue in Escape From Tarkov</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-identify-and-setup-unrecognized-audio-devices-on-your-windows-11-pc/"><u>How to Identify & Setup Unrecognized Audio Devices on Your Windows 11 PC</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-itel-a60s-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Itel A60s FRP Bypass Instantly</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-connections-fixed-overcoming-world-access-problems/"><u>Minecraft Connections Fixed - Overcoming World Access Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-a-non-functioning-google-meet-webcam/"><u>Resolved: Troubleshooting Steps for a Non-Functioning Google Meet Webcam</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/secure-fb-links-8plus-comprehensive-no-cost-downloaders-for-23/"><u>Secure FB Links 8+ Comprehensive, No-Cost Downloaders for '23</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/stability-in-the-click-quashing-jitter-for-2024/"><u>Stability in the Click Quashing Jitter for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stabilized-bioshock-2-remaster-discover-the-improved-adventure/"><u>Stabilized BioShock 2 Remaster: Discover the Improved Adventure!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-fixed-launch-issues-for-steam-on-your-windows-10-machine/"><u>Successfully Fixed? Launch Issues for Steam on Your Windows 10 Machine</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-ranked-reviews-of-google-wifi-the-go-to-choice-for-seamless-wireless-mesh-router-systems/"><u>Top-Ranked Reviews of Google WiFi - The Go-To Choice for Seamless Wireless Mesh Router Systems</u></a></li>
-<li><a href="https://win-info.techidaily.com/top-rate-klonierungssoftware-fur-laufwerksverschiebung-von-c-zu-externer-festplatte-in-windows/"><u>Top-Rate Klonierungssoftware Für Laufwerksverschiebung Von C: Zu Externer Festplatte in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-code-vein-from-freezing-on-your-console-or-pc/"><u>Troubleshooting Guide: Stop Code Vein From Freezing on Your Console or PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-to-resolve-stray-impact-pc-crash-errors-with-these-5-proven-strategies/"><u>Ultimate Fix Guide to Resolve 'Stray: Impact' PC Crash Errors with These 5 Proven Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-plug-in-proweries-expert-analysis/"><u>[Updated] PLUG-IN PROWERIES Expert Analysis</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-essentials-of-adding-siri-speech-features-to-tiktok-sharing-for-2024/"><u>[Updated] The Essentials of Adding Siri Speech Features to TikTok Sharing for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-blissful-family-nights-the-top-10-classics-for-summertime/"><u>2024 Approved Blissful Family Nights The Top 10 Classics for Summertime</u></a></li>
+<li><a href="https://win-answers.techidaily.com/apex-legends-performance-optimization-6-easy-ways-to-increase-fps-instantly/"><u>Apex Legends Performance Optimization: 6 Easy Ways to Increase FPS Instantly</u></a></li>
+<li><a href="https://media-tips.techidaily.com/catch-the-roku-craze-exclusive-discounts-on-smart-tvsstreaming-gadgets-for-labor-day-weekend/"><u>Catch the Roku Craze: Exclusive Discounts on Smart TVs/Streaming Gadgets for Labor Day Weekend!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fall-guys-pc-performance-tips-overcoming-freezing-problems-during-gameplay/"><u>Fall Guys PC Performance Tips: Overcoming Freezing Problems During Gameplay</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-responsive-steam-remote-play-feature/"><u>How to Fix a Non-Responsive Steam Remote Play Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-keep-stardees-quest-going-smoothly-eliminating-crashes-on-desktop/"><u>How to Keep Stardee's Quest Going Smoothly - Eliminating Crashes on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-wallpaper-engine-from-crashing-on-windows-1110-step-by-step-guide/"><u>How to Stop Wallpaper Engine From Crashing on Windows 11/10: Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-pova-6-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Pova 6 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-replace-pinnacle-studio-on-your-mac-with-these-top-picks-for-2024/"><u>New Replace Pinnacle Studio on Your Mac with These Top Picks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silent-streambar-expert-fixes-to-revive-audio-on-your-twitch-broadcasts/"><u>Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990812261-untangling-the-black-ops-cold-war-hitch-error-code-887a0005-explained/"><u>Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/your-trusted-source-for-in-depth-analysis-toms-hardware-reviews/"><u>Your Trusted Source for In-Depth Analysis: Tom's Hardware Reviews</u></a></li>
 </ul></div>
 

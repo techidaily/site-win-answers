@@ -1,7 +1,7 @@
 ---
 title: Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!
-date: 2024-11-02T18:03:43.641Z
-updated: 2024-11-07T04:08:37.351Z
+date: 2024-11-14T12:55:11.000Z
+updated: 2024-11-17T07:48:04.985Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Scan and repair game files
 
  The 887a0005 error code could indicate**an integrity issue** **with your game files** . In that case, you’ll need to scan and repair all the corrupted or missing files.
@@ -53,11 +46,25 @@ Here’s a quick guide for that:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -98,13 +105,6 @@ And it’s fairly easy to update:
 
  If the updates don’t stop the crash, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
  In the 2004 version of Windows 10, Microsoft rolled out a new feature called **Hardware-accelerated GPU scheduling** , which will allegedly improve applications performance. To unlock this feature, you must be using the **latest 2004 version Windows** , a   **GeForce 10 series or later/Radeon 5600 or 5700 series graphics card** along with the **latest GPU driver** .
@@ -117,42 +117,35 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
  If this method doesn’t fix your issue, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable in-game Ray Tracing
@@ -165,6 +158,13 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -187,18 +187,17 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-smart-way-to-save-youtube-sections/"><u>[New] 2024 Approved The Smart Way to Save YouTube Sections</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>[Updated] In 2024, Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-harness-free-software-to-broadcast-virtual-events/"><u>[Updated] In 2024, Harness Free Software to Broadcast Virtual Events</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-dayz-gameplay-with-a-swift-and-easy-fps-solutions/"><u>Boost Your DayZ Gameplay with a Swift & Easy FPS Solutions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/excellent-screen-capture-apps-for-linux-enthusiasts-for-2024/"><u>Excellent Screen Capture Apps for Linux Enthusiasts for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-no-available-camera-error-on-snapchat-troubleshooting-steps/"><u>Fixing 'No Available Camera' Error on Snapchat: Troubleshooting Steps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-tower-of-fantasy-game-crashes-on-your-windows-computer/"><u>How to Fix the 'Tower of Fantasy' Game Crashes on Your Windows Computer</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-webcam-powered-recording-revolutionize-your-ppts/"><u>In 2024, Webcam-Powered Recording Revolutionize Your PPTs</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/reimagining-gender-portrayal-in-social-media-images-for-2024/"><u>Reimagining Gender Portrayal in Social Media Images for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-when-call-of-duty-modern-warfare-3-stops-running/"><u>Troubleshooting Guide for When Call of Duty Modern Warfare 3 Stops Running</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-smooth-fifa-22-experience-on-windows-and-mac/"><u>Troubleshooting Tips for a Smooth FIFA 22 Experience on Windows and Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-overcome-cod-warzone-error-6328-tips-and-tricks-for-gamers-in-202e/"><u>Ultimate Fixes to Overcome Cod: Warzone Error 6328 - Tips & Tricks for Gamers in 202E</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/winx-dvd-author-dvddvd/"><u>WinX DVD Author: 無料の高機能DVD組み立てソフトウェアで手軽にDVD作成</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-transform-webcam-into-a-recording-station-with-vlc-for-2024/"><u>[New] Transform Webcam Into a Recording Station with VLC for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-connectivity-at-its-peak-mastering-real-time-social-broadcasts/"><u>[Updated] 2024 Approved Connectivity at Its Peak Mastering Real-Time Social Broadcasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-new-insights-into-sony-s6700s-updates-for-2024/"><u>[Updated] New Insights Into Sony S6700's Updates for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-masterclass-in-meme-template-selection/"><u>2024 Approved Masterclass in Meme Template Selection</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/accessing-hulu-channels-through-lgs-smart-tv-interface-made-easy/"><u>Accessing Hulu Channels Through LG's Smart TV Interface Made Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-your-world-of-warcraft-crash-problems/"><u>Quick Fixes for Your World of Warcraft Crash Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-the-puzzle-get-tekken-8-up-and-running-on-pc-with-our-expert-tips/"><u>Solve the Puzzle: Get Tekken 8 Up and Running on PC with Our Expert Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/steps-to-bypass-youtube-prohibitions-for-2024/"><u>Steps to Bypass YouTube Prohibitions for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/take-portrait-photo-with-your-old-iphone-x8-plus7-plus-for-2024/"><u>Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-elden-ring-online-play-solutions-and-tips/"><u>Troubleshooting Elden Ring Online Play: Solutions and Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-elevated-cpu-load-in-new-world-update-tips-and-tricks/"><u>Troubleshooting Elevated CPU Load in New World Update: Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-server-disconnection-issues-in-escape-from-tarkov/"><u>Ultimate Guide: Resolving Server Disconnection Issues in Escape From Tarkov</u></a></li>
 </ul></div>
 

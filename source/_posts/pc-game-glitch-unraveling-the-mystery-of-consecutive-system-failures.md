@@ -1,7 +1,7 @@
 ---
 title: "PC Game Glitch: Unraveling the Mystery of Consecutive System Failures"
-date: 2024-11-05T20:19:41.922Z
-updated: 2024-11-06T23:19:04.958Z
+date: 2024-11-15T20:09:39.481Z
+updated: 2024-11-16T23:03:10.659Z
 tags:
   - win11
   - win10
@@ -43,6 +43,19 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -50,13 +63,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
  That means, if your platform language is English, you can’t use not-standard-English characters in your username. After removing these marks or characters, the problem is solved.
 
 If this fix doesn’t work, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
 
@@ -67,16 +73,23 @@ If this fix doesn’t work, move to the next fix.
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -91,13 +104,6 @@ If this fix doesn’t work, move to the next fix.
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -114,21 +120,14 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -148,18 +147,31 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -186,18 +198,20 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-pivot-producer-system-for-2024/"><u>[New] Pivot Producer System for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-framing-speed-the-hyperlapse-video-methods/"><u>[Updated] In 2024, Framing Speed The Hyperlapse Video Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722985549742-expert-advice-on-how-to-fix-and-eliminate-puzzling-crashes-on-your-pc-top-6-tactics/"><u>Expert Advice on How to Fix and Eliminate Puzzling Crashes on Your PC – Top 6 Tactics</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-7-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 7 Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-constant-system-errors-resolving-pc-issues-with-fuser/"><u>How to Fix Constant System Errors: Resolving PC Issues with Fuser</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-on-camera-techniques-key-shots-for-aspiring-directors/"><u>In 2024, In-Depth on Camera Techniques Key Shots for Aspiring Directors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-online-play-no-more-server-disconnects-after-latest-update/"><u>MLB The Show 21 Online Play: No More Server Disconnects After Latest Update</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-persistent-ghostrunner-malfunction-when-playing-on-windows-10/"><u>Overcoming the Persistent Ghostrunner Malfunction When Playing on Windows 10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-15-must-try-iphone-vr-apps-for-everyday-gamers/"><u>Top 15 Must-Try IPhone VR Apps for Everyday Gamers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-5-critical-ai-instruments-for-business-visionaries/"><u>Unveiling 5 Critical AI Instruments for Business Visionaries</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-20-troubleshooting-guide-for-pcs-fix-the-launch-issues-with-these-7-tips/"><u>Warzone 2.0 Troubleshooting Guide for PCs - Fix the Launch Issues with These 7 Tips</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/wipe-your-device-clean-after-10-unsuccessful-password-entries/"><u>Wipe Your Device Clean After 10 Unsuccessful Password Entries</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209952276-9781788174725-wishcraft/"><u>Wishcraft | Free Book</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-choreographing-a-memorable-tiktok-fade-out/"><u>[New] In 2024, Choreographing a Memorable TikTok Fade-Out</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-fuser-keeps-crashing-on-pc/"><u>[SOLVED] FUSER Keeps Crashing on PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-download-facebook-videos-on-windows-and-mac/"><u>[Updated] 2024 Approved How to Download Facebook Videos on Windows and Mac</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-transforming-ordinary-to-extraordinary-edit-tiktok-vids-on-mac/"><u>[Updated] 2024 Approved Transforming Ordinary to Extraordinary Edit TikTok Vids on Mac</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-screenplay-excellence-genre-based-achievement-showcase-for-2024/"><u>[Updated] Screenplay Excellence Genre-Based Achievement Showcase for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/eliminate-ghost-line-effects-from-laptop-displays-quickly/"><u>Eliminate Ghost Line Effects From Laptop Displays Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-correcting-the-infamous-bsod-glitch-on-helldivers/"><u>Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-fps-drops-and-stuttering-expert-guide-for-a-smooth-dying-light-2-experience-on-pc/"><u>Fixing FPS Drops and Stuttering - Expert Guide for a Smooth Dying Light 2 Experience on PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-gaming-displays-top-5-ps5-edition-for-2024/"><u>Ideal Gaming Displays Top 5 (PS5 Edition) for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-c12-pro-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia C12 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-in-ark-survival-ascended-essential-pc-troubleshooting-guide-for-game-crashes/"><u>Mastering Stability in ARK: Survival Ascended - Essential PC Troubleshooting Guide for Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-call-of-duty-vanguards-error-5573-with-these-easy-solutions/"><u>Overcome Call of Duty Vanguard's Error 5573 with These Easy Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcome-difficulties-when-trying-to-boot-football-manager-2023/"><u>Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-ultimate-credit-cards-for-e-commerce-purchases-expert-reviews-by-zdnet/"><u>Top 5 Ultimate Credit Cards for E-Commerce Purchases - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-made-easy-how-to-stop-outriders-from-continuously-crashing/"><u>Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing</u></a></li>
 </ul></div>
 

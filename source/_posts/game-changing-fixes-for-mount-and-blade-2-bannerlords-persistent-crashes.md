@@ -1,7 +1,7 @@
 ---
 title: "Game-Changing Fixes for Mount & Blade 2: Bannerlord's Persistent Crashes"
-date: 2024-11-06T07:09:29.531Z
-updated: 2024-11-07T03:17:58.911Z
+date: 2024-11-15T06:04:33.078Z
+updated: 2024-11-17T06:59:56.199Z
 tags:
   - win11
   - win10
@@ -70,10 +70,16 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Check your**Display Memory** here.
@@ -82,25 +88,11 @@ Follow the instructions below to view your computer hardware information:
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Restart your computer
 
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -136,13 +128,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -157,6 +142,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
@@ -165,16 +157,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -186,22 +178,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
@@ -215,6 +200,13 @@ OR
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
@@ -248,6 +240,13 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
@@ -255,6 +254,13 @@ Follow the instructions below to stop the automatic downloads:
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -272,14 +278,14 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-**10)**  Relaunch Steam and your game.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+**10)**  Relaunch Steam and your game.
 
 ### Fix 8:**Reseat PC components**
 
@@ -348,22 +354,24 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-economical-growth-methodology-subscribe-now/"><u>[New] Economical Growth Methodology - Subscribe Now!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-10-heavy-lift-drones-you-should-know/"><u>[New] In 2024, Top 10 Heavy Lift Drones You Should Know</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-10-ultimate-simulators-for-androids-gb-games/"><u>[Updated] In 2024, 10 Ultimate Simulators for Android's GB Games</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-and-academia-are-conventional-essay-assignments-becoming-a-thing-of-the-past/"><u>ChatGPT and Academia: Are Conventional Essay Assignments Becoming a Thing of the Past?</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-zero-to-hero-youtube-tech-required/"><u>From Zero to Hero YouTube Tech Required</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/itunes-drm-free-conversion-effortlessly-move-and-upgrade-your-media-library/"><u>ITunes DRM-Free Conversion: Effortlessly Move & Upgrade Your Media Library</u></a></li>
-<li><a href="https://win-dash.techidaily.com/master-the-art-of-refreshing-your-asus-maximus-x-hero-graphics-card-drivers-with-this-easy-guide/"><u>Master the Art of Refreshing Your ASUS Maximus X Hero Graphics Card Drivers with This Easy Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microsoft-office-2011-revolutionizing-mac-users-approach-to-the-classic-tps-report/"><u>Microsoft Office 2011: Revolutionizing Mac Users' Approach to the Classic TPS Report</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-innovations-in-excel-how-microsoft-is-reimagining-time-honored-tools-for-todays-user/"><u>Modern Innovations in Excel: How Microsoft Is Reimagining Time-Honored Tools for Today’s User</u></a></li>
-<li><a href="https://some-tips.techidaily.com/movavis-web-based-free-service-for-changing-m4v-video-format-to-movie-mov/"><u>Movavi's Web-Based, Free Service for Changing M4V Video Format to Movie (MOV)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pdf-conversion-essentials-for-word-excel-and-powerpoint-files-a-step-by-step-guide/"><u>PDF Conversion Essentials for Word, Excel, and PowerPoint Files - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/security-risks-in-running-microsoft-office-on-mac-os-x-systems/"><u>Security Risks in Running Microsoft Office on Mac OS X Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/setting-up-and-utilizing-open365-a-comprehensive-guide-for-microsoft-office-365-substitutes/"><u>Setting Up & Utilizing Open365: A Comprehensive Guide for Microsoft Office 365 Substitutes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simplify-your-data-management-with-our-ultimate-technique-for-eradicating-duplicate-entries-in-excel-tables/"><u>Simplify Your Data Management with Our Ultimate Technique for Eradicating Duplicate Entries in Excel Tables</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-sound-problems-in-outriders-a-comprehensive-guide/"><u>Solving Common Sound Problems in Outriders: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adjusting-cell-dimensions-and-autofit-functions-in-microsoft-excel/"><u>Step-by-Step Guide: Adjusting Cell Dimensions & AutoFit Functions in Microsoft Excel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adjusting-date-settings-in-microsoft-excel/"><u>Step-by-Step Guide: Adjusting Date Settings in Microsoft Excel</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rafting-success-leading-business-channels-for-professionals/"><u>[New] Crafting Success Leading Business Channels for Professionals</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-essential-techniques-for-efficient-iphone-7-recording-for-2024/"><u>[New] Essential Techniques for Efficient iPhone 7 Recording for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] In 2024, Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ranking-the-best-ios-devices-tools-to-download-fb-movies-and-tunes/"><u>[Updated] 2024 Approved Ranking the Best iOS Devices' Tools to Download FB Movies & Tunes</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-virtual-reality-gaming-your-ultimate-guide-for-fixing-steamvr-error-308/"><u>Error-Free Virtual Reality Gaming: Your Ultimate Guide for Fixing SteamVR Error 308</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-common-errors-preventing-minecraft-from-starting-up/"><u>Guide to Overcoming Common Errors Preventing Minecraft From Starting Up</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-13t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi 13T Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-itel-s23plus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Itel S23+?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-13t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi 13T</u></a></li>
+<li><a href="https://win-answers.techidaily.com/issue-resolved-why-the-app-ascent-didnt-go-live/"><u>Issue Resolved: Why the App 'Ascent' Didn't Go Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-overcoming-persistent-crash-issues-with-sod-2/"><u>Mastering Stability: Overcoming Persistent Crash Issues with SOD 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-error-resolved-understanding-and-fixing-exit-code-0-issue/"><u>Minecraft Error Resolved: Understanding and Fixing 'Exit Code 0' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-critical-dev-errors-in-call-of-dutys-modern-warfare-and-warzone/"><u>Resolving Critical Dev Errors in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reversing-the-problem-fixing-outlook-when-it-wont-connect/"><u>Reversing the Problem: Fixing Outlook When It Won’t Connect</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-alan-wake-iis-unavailable-status-a-step-by-step-guide/"><u>Solving Alan Wake II's Unavailable Status - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-stabilizing-slime-rancher-gameplay-on-pc-systems/"><u>Step-by-Step Solutions: Stabilizing Slime Rancher Gameplay on PC Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/successful-fixes-overcoming-oddworld-soulstorms-pc-crash-issues/"><u>Successful Fixes: Overcoming Oddworld: Soulstorm's PC Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-warno-keep-freezing-or-crashing-on-your-windows-computer/"><u>Why Is Warno Keep Freezing or Crashing on Your Windows Computer?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Performance: Resolving Lag Issues for a Seamless Dying Light 2 Experience on Your Desktop"
-date: 2024-09-26T16:03:14.313Z
-updated: 2024-10-03T18:40:44.718Z
+date: 2024-11-14T18:36:42.233Z
+updated: 2024-11-16T20:16:39.264Z
 tags:
   - win11
   - win10
@@ -43,33 +43,19 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-fiels.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then Steam will start to verify your game files. This will take several minutes to repair or redownload any corrupted or missing game files. Wait until the process is finished.
 
 If this didn’t solve your problem, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Download and install Windows updates
 
@@ -79,6 +65,19 @@ If this didn’t solve your problem, try the next fix below.
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -87,18 +86,18 @@ If this didn’t solve your problem, try the next fix below.
 
  Still no luck? Don’t worry, there are a few other fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update your graphics driver
 
  Your graphics driver acts like an interpreter between your device and the system. If it’s out-of-date or misconfigured, issues like programs not launching properly would occur. To ensure that you get the most out of your graphics card, you need to check for graphics driver updates. This may help you fix the black screen issue immediately.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -109,13 +108,6 @@ If this didn’t solve your problem, try the next fix below.
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -128,6 +120,13 @@ If this didn’t solve your problem, try the next fix below.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
@@ -146,28 +145,15 @@ If this didn’t solve your problem, try the next fix below.
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Find your game’s executable. Make sure to right-click it and select**Properties** .  
@@ -178,6 +164,13 @@ If this didn’t solve your problem, try the next fix below.
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, launch your game and it should be running with administrative privileges.
 
 ## 5\. Disable HDR
@@ -187,6 +180,13 @@ If this didn’t solve your problem, try the next fix below.
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
@@ -217,18 +217,24 @@ If this didn’t solve your problem, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-simplified-steps-to-successful-screenshotsrecording-on-imac/"><u>[New] 2024 Approved Simplified Steps to Successful Screenshots/Recording on iMac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-boosting-gaming-engagement-with-high-quality-steam-captures/"><u>[Updated] 2024 Approved Boosting Gaming Engagement with High Quality Steam Captures</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-secrets-to-unlocking-costless-image-streams/"><u>[Updated] In 2024, Secrets to Unlocking Costless Image Streams</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2023-comprehensive-grip-on-visualcutter-software-review-for-2024/"><u>2023 Comprehensive Grip on VisualCutter Software Review for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-quick-and-quality-editing-tips-for-obs-studio-aces/"><u>2024 Approved Quick and Quality Editing Tips for OBS Studio Aces</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-launching-issues-with-steam-applications-on-a-win10-system/"><u>Effective Solutions for Launching Issues with Steam Applications on a Win10 System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/erkampfen-sie-den-informationszugriff-wie-texthelp-and-abbyy-lese-schreibbehinderungen-uberwindet/"><u>Erkämpfen Sie Den Informationszugriff: Wie Texthelp & ABBYY Lese-/Schreibbehinderungen Überwindet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/forza-horizon-n5-troubleshooting-lag-problems-solutions-at-your-fingertips/"><u>Forza Horizon N5 - Troubleshooting Lag Problems: Solutions at Your Fingertips</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-xiaomi-redmi-12-5g-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Xiaomi Redmi 12 5G 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-pc-performance-issues-with-detroit-become-human/"><u>Mastering PC Performance Issues with Detroit: Become Human</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-stop-content-warning-from-frequently-crashing-on-your-computer/"><u>Step-by-Step Guide to Stop 'Content Warning' From Frequently Crashing on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-nier-replicant-enhanced-edition-startup-issues/"><u>Troubleshooting: Fixing 'NieR Replicant Enhanced Edition' Startup Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/yakuza-samurai-spirit-smashed-in-pc-version/"><u>Yakuza: Samurai Spirit Smashed in PC Version</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-movement-with-clarity-implementing-motion-blur-on-peoples-photos-with-picsart/"><u>[New] Capturing Movement with Clarity Implementing Motion Blur on People's Photos with Picsart</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-get-high-quality-audiovideo-convert-facebooks-hd-content-into-mp4/"><u>[New] In 2024, Get High-Quality Audio/Video Convert Facebook's HD Content Into MP4</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-sound-recorder-quality-overview-for-2024/"><u>[New] Sound Recorder Quality Overview for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-ubisoft-connect-not-working-2024/"><u>[SOLVED] Ubisoft Connect Not Working - 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-master-live-broadcast-setup-using-obs-studio-pc-mac-laptop/"><u>[Updated] 2024 Approved Master Live Broadcast Setup Using OBS Studio (PC, Mac, Laptop)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-closer-look-techniques-for-minecraft-exploration/"><u>[Updated] Closer Look Techniques for Minecraft Exploration</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hourly-video-consumption-total-daily-gb-amount/"><u>2024 Approved Hourly Video Consumption Total Daily GB Amount</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-lag-the-definitive-discord-performance-fixes-for-gamers-in-202n4/"><u>Conquer Lag: The Definitive Discord Performance Fixes for Gamers in 202N4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gaming-solving-the-gas-station-simulator-issue-for-pc-players/"><u>Crash-Free Gaming: Solving the Gas Station Simulator Issue for PC Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gaming-performance-how-to-resolve-stuttering-and-improve-fps-in-avatar/"><u>Enhance Gaming Performance: How to Resolve Stuttering and Improve FPS in 'Avatar'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-arcadegeddon-running-smoothly-on-your-pc-again/"><u>How To Get Arcadegeddon Running Smoothly on Your PC Again</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-pick-a-perfect-virtual-reality-device-is-wireless-vision-or-connected-content-more-appealing/"><u>How to Pick a Perfect Virtual Reality Device Is Wireless Vision or Connected Content More Appealing?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/immediate-access-top-notch-eraser-app-for-ios-devices/"><u>Immediate Access: Top-Notch Eraser App for iOS Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-2023s-most-captivating-channel-the-ultimate-story-showcase/"><u>In 2024, 2023'S Most Captivating Channel The Ultimate Story Showcase</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-8-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 8 How to Bypass?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011597214-nier-shadow-complexes-stuttering-problems-now-fixed/"><u>NieR: Shadow Complexes Stuttering Problems - Now Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984262540-resolving-pc-issues-no-more-spellblock-stop-spellbreak-crashes-now/"><u>Resolving PC Issues: No More Spellblock - Stop Spellbreak Crashes Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-endless-load-on-apex-legends/"><u>Ultimate Guide: Resolving the Endless Load on Apex Legends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-preventing-starfield-from-crashing-on-pc-and-laptop/"><u>Ultimate Troubleshooting Guide: Preventing Starfield From Crashing on PC and Laptop</u></a></li>
 </ul></div>
 

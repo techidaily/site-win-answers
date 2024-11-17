@@ -1,7 +1,7 @@
 ---
 title: "Beat the Crashes: Ultimate Guide to Running Hearts of Iron IV Stably"
-date: 2024-10-29T07:15:34.039Z
-updated: 2024-10-31T20:35:23.379Z
+date: 2024-11-16T11:32:28.281Z
+updated: 2024-11-17T13:12:14.995Z
 tags:
   - win11
   - win10
@@ -47,26 +47,45 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
 
@@ -94,20 +113,13 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -120,14 +132,14 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -164,18 +176,18 @@ thumbnail: https://thmb.techidaily.com/f5c71e67a7e48026b76caae61fa224d5139bed717
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-cadence-in-clips-the-guide-to-musical-integration-on-ig/"><u>[Updated] Cadence in Clips The Guide to Musical Integration on IG</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-science-of-scheduling-your-best-view-days/"><u>[Updated] The Science of Scheduling Your Best-View Days</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-seamless-gameplay-tricks-to-eliminate-stuttering-and-maximize-frames-per-second-fps-in-cod-warzone/"><u>Achieve Seamless Gameplay: Tricks to Eliminate Stuttering and Maximize Frames Per Second (FPS) in COD Warzone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/guidelines-to-help-you-change-windows-11-wallpaper-for-2024/"><u>Guidelines to Help You Change Windows 11 Wallpaper for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-14-battery-woes-heres-everything-you-need-to-know/"><u>IPhone 14 Battery Woes? Here’s Everything You Need to Know</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/monthly-income-for-content-creators-on-youtube-in-2024/"><u>Monthly Income for Content Creators on YouTube, In 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-tips-to-reduce-phasmophobias-cpu-usage/"><u>Optimizing Performance: Tips to Reduce Phasmophobia's CPU Usage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-on-transforming-your-dvr-recordings-into-high-quality-mp4-format/"><u>Step-by-Step Guide on Transforming Your DVR Recordings Into High-Quality MP4 Format</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002963261-the-definitive-bioshock-2-experience-freshly-patched-and-ready-for-action/"><u>The Definitive BioShock 2 Experience - Freshly Patched and Ready for Action</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-with-palworld-here-are-swift-fixes/"><u>Trouble with Palworld? Here Are Swift Fixes!</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-oneplus-ace-2v-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When OnePlus Ace 2V Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993015588-why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-direct-engagement-broadcast-from-twitch-to-facebook-friends-for-2024/"><u>[Updated] Direct Engagement Broadcast From Twitch to Facebook Friends for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-digital-scribes-leading-screen-recorder-software/"><u>[Updated] In 2024, Digital Scribes Leading Screen Recorder Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streaming-wars-recap-fb-live-yt-live-and-twitter-spaces/"><u>[Updated] Streaming Wars Recap FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-mastering-spotify-promotion-a-comprehensive-guide/"><u>2024 Approved Mastering Spotify Promotion A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-resolving-armored-core-6-glitches-in-windows/"><u>Comprehensive Guide: Resolving Armored Core 6 Glitches in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-the-sluggish-gameplay-solutions-for-high-framerate-valheim-adventures/"><u>Escape the Sluggish Gameplay: Solutions for High-Framerate Valheim Adventures</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-retrieve-accidentally-deleted-iphone-pictures-with-top-rated-software/"><u>How to Retrieve Accidentally Deleted iPhone Pictures with Top-Rated Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-mastery-with-manycam-the-ultimate-virtual-webcam-and-filter-tool/"><u>Live Streaming Mastery with ManyCam: The Ultimate Virtual Webcam and Filter Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maplestory-and-windows-nt-troubleshooting-guide-to-stop-freezing/"><u>MapleStory and Windows nT- Troubleshooting Guide to Stop Freezing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-overwatchs-graphic-driver-problems-for-smooth-gaming/"><u>Solving Overwatch's Graphic Driver Problems for Smooth Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solving-the-h265-video-playback-issue-in-chrome-no-more-black-screens/"><u>Solving the H.265 Video Playback Issue in Chrome - No More Black Screens</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-complete-guide-to-prevent-and-repair-fb-video-issues-for-2024/"><u>The Complete Guide to Prevent and Repair FB Video Issues for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-xs-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone XS Max i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

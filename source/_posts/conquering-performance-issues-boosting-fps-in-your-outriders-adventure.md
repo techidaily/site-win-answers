@@ -1,7 +1,7 @@
 ---
 title: "Conquering Performance Issues: Boosting FPS in Your Outriders Adventure"
-date: 2024-11-03T00:33:13.242Z
-updated: 2024-11-07T01:19:43.973Z
+date: 2024-11-13T09:55:13.759Z
+updated: 2024-11-16T21:42:57.023Z
 tags:
   - win11
   - win10
@@ -51,10 +51,10 @@ Here’s how you can download and install Windows updates:
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
@@ -62,16 +62,10 @@ Here’s how you can download and install Windows updates:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
@@ -90,22 +84,15 @@ Here’s how you can download and install Windows updates:
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you’ve done these, launch Outriders to check if it solves your issues.
@@ -136,10 +123,10 @@ Here’s how you can download and install Windows updates:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
@@ -152,16 +139,16 @@ Here’s how you can do this:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
@@ -177,13 +164,6 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
@@ -194,6 +174,13 @@ To verify the integrity of game files, take these steps:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 6\. Disable Steam overlay
 
  The Steam overlay allows you to surf the web and message friends while in-game, but can also cause performance issues with some games. To check whether it’s causing your Outriders to stutter, you can turn off Steam overlay:
@@ -202,15 +189,22 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
@@ -252,21 +246,24 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/0-top-must-have-gear-items-for-youtubers/"><u>[New] 10 Top Must-Have Gear Items for YouTubers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-2023-shoppers-guide-to-innovative-360-cameras-and-systems/"><u>[New] The 2023 Shopper’s Guide to Innovative 360 Cameras & Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/black-survivals-everlasting-cycle-a-deep-dive-into-the-concept-of-eternal-return/"><u>Black Survival's Everlasting Cycle: A Deep Dive Into The Concept of 'Eternal Return'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005557337-code-vein-stuck-heres-how-to-get-unstuck-and-back-on-track/"><u>Code Vein Stuck? Here's How to Get Unstuck and Back on Track!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-darkness-solutions-for-star-wars-battlefront-2-black-screen-glitch/"><u>Defeating Darkness: Solutions for Star Wars Battlefront 2 Black Screen Glitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-minecraft-launchers-0x80amoor-windows-1110-users-heres-how/"><u>Diagnosing and Repairing Minecraft Launcher's 0X80amoor: Windows 11/10 Users, Here's How</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-reducing-lag-time-in-cyberpunk-2077/"><u>Effective Fixes for Reducing Lag Time in Cyberpunk 2077</u></a></li>
-<li><a href="https://win-answers.techidaily.com/garrys-mod-stability-fixes-top-5-solutions-to-stop-game-crashes/"><u>Garry's Mod Stability Fixes: Top 5 Solutions to Stop Game Crashes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-6-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 6 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-vivo-s18-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Vivo S18</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improved-access-your-online-account-sign-in-is-now-working/"><u>Improved Access: Your Online Account Sign-In Is Now Working</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-soundscapes-perfected-selecting-microphones-that-resonate-with-youtubers/"><u>In 2024, Soundscapes Perfected Selecting Microphones That Resonate With YouTubers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288570851-mp4mov/"><u>MP4への無料MOVビデオ変換手順</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-future-of-streaming-money-youtube-update-for-2024/"><u>The Future of Streaming Money YouTube Update for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-downloading-and-watching-youtube-clips-with-your-preferred-subtitles/"><u>Ultimate Guide: Downloading & Watching YouTube Clips with Your Preferred Subtitles</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-the-ios-app-of-chatgpt-discover-how-it-works/"><u>Unveiling the iOS App of ChatGPT – Discover How It Works</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-ready-or-not-keeps-crashing-on-pc/"><u>[SOLVED] Ready or Not Keeps Crashing on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras-for-2024/"><u>[Updated] Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>2024 Approved How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-game-interruptions-curing-diablo-3-continuous-crashes/"><u>Banish Game Interruptions - Curing Diablo 3 Continuous Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bioshock-2-ultimate-fix-complete-remaster-restored/"><u>BioShock 2 Ultimate Fix: Complete Remaster Restored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cortana-malfunctioning-here-are-the-solutions-you-need/"><u>Cortana Malfunctioning? Here Are the Solutions You Need!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Reno 11F 5G?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-installation-of-hyper-v-feature-on-microsofts-latest-os/"><u>Master the Installation of Hyper-V Feature on Microsoft's Latest OS</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-10-2d-animation-tools-for-artists/"><u>New In 2024, Unleash Your Creativity Top 10 2D Animation Tools for Artists</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-your-experience-fix-high-ping-issues-on-pc-with-bless-unleashed/"><u>Optimize Your Experience: Fix High Ping Issues on PC with Bless Unleashed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/outperforming-chatgpt-top-4-advantages-of-choosing-the-claude-ai-chatbot/"><u>Outperforming ChatGPT: Top 4 Advantages of Choosing the Claude AI Chatbot</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y77t-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y77t Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-football-manager-2023-a-comprehensive-fix/"><u>Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-ie-browser-issues-unable-to-view-web-pages/"><u>Resolved: Troubleshooting IE Browser Issues - Unable to View Web Pages</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/scriptwriting-mastery-leveraging-chatgpt-for-crafting-video-game-narratives/"><u>Scriptwriting Mastery: Leveraging ChatGPT for Crafting Video Game Narratives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-frozen-conflict-resolve-cold-war-games-persistent-loading-glitches/"><u>Solving the Frozen Conflict: Resolve Cold War Game's Persistent Loading Glitches</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-update-and-download-windows-sata-controller-drivers/"><u>Step-By-Step Tutorial to Update & Download Windows SATA Controller Drivers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/what-should-i-do-if-im-hearing-voices/"><u>What Should I Do if I'm Hearing Voices?</u></a></li>
 </ul></div>
 

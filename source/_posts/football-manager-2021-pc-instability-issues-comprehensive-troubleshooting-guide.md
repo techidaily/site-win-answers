@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide"
-date: 2024-11-06T06:38:32.835Z
-updated: 2024-11-06T21:09:27.855Z
+date: 2024-11-11T06:20:39.156Z
+updated: 2024-11-17T10:09:31.770Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -47,15 +54,15 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -73,29 +80,16 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -109,13 +103,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Once you confirmed the antivirus is the culprit of Football Manager 2021 crashing, you need to add both the game launcher and FM 21 to its exceptions, or completely uninstall the program.
 
 If this method doesn’t help, go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
 
@@ -132,10 +119,10 @@ If this method doesn’t help, go ahead with the next fix below.
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -151,6 +138,13 @@ So does the crash go away now? If not, there is the last fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -181,21 +175,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-ios-image-to-pdf-the-ultimate-guide-for-users/"><u>[New] Mastering IOS Image-to-PDF The Ultimate Guide for Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unleashing-your-financial-potential-on-snapchat/"><u>2024 Approved Unleashing Your Financial Potential on Snapchat</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-freeze-comprehensive-solutions-for-steam-malfunctions/"><u>Beat the Freeze: Comprehensive Solutions for Steam Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-relink-launch-problems-in-your-favorite-rpg-granblue-fantasy/"><u>Fixing Relink Launch Problems in Your Favorite RPG, Granblue Fantasy</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-standard-to-superior-adding-srt-to-mp4-videos/"><u>From Standard to Superior Adding SRT to MP4 Videos</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-hot-40-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Hot 40 Pro</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-tecno-spark-20-proplus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Tecno Spark 20 Pro+ Lock Screen Password?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-smooth-playback-addressing-delay-concerns-in-obs-recordingstreaming/"><u>Mastering Smooth Playback: Addressing Delay Concerns in OBS Recording/Streaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-problems-when-attempting-to-update-the-minecraft-launcher-platform/"><u>Overcoming Problems When Attempting to Update the Minecraft Launcher Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-guide-troubleshooting-and-fixing-frequent-fps-decreases-during-gameplay/"><u>PC Gamers' Guide: Troubleshooting & Fixing Frequent FPS Decreases During Gameplay</u></a></li>
-<li><a href="https://win11.techidaily.com/pro-tips-for-streamlining-remote-desktop-on-win-11/"><u>Pro-Tips for Streamlining Remote Desktop on Win 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-diablo-3-crashes-effective-troubleshooting-steps/"><u>Say Goodbye to Diablo 3 Crashes: Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seven-keys-to-unlocking-the-value-of-ai-for-health-advice/"><u>Seven Keys to Unlocking the Value of AI for Health Advice</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-s18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrading-your-iphone-in-the-coming-week-discover-essential-anker-charger-gadgets-that-perfectly-fit-your-needs-tips-from-zdnet/"><u>Upgrading Your iPhone in the Coming Week? Discover Essential Anker Charger Gadgets That Perfectly Fit Your Needs - Tips From ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-isnt-my-amazon-prime-video-working-expert-solutions-inside/"><u>Why Isn't My Amazon Prime Video Working? Expert Solutions Inside!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-guide-to-the-best-free-video-conferencing-software-for-corporate-and-educational-sectors-for-2024/"><u>[New] Guide to the Best Free Video Conferencing Software for Corporate and Educational Sectors for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-deep-dive-into-the-features-of-lgs-ultrafine-4k-display-for-2024/"><u>[Updated] Deep Dive Into the Features of LG's UltraFine 4K Display for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transforming-footage-editing-videos-seamlessly-on-windows-11-and-storyremix/"><u>2024 Approved Transforming Footage Editing Videos Seamlessly on Windows 11 and StoryRemix</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bringing-life-to-cyberpunk-2077-with-audio-troubleshooting-for-windows-10-gamers/"><u>Bringing Life to Cyberpunk 2077 with Audio Troubleshooting for Windows 10 Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-re-establishing-a-stable-outlook-connection/"><u>Comprehensive Troubleshooting: Re-Establishing a Stable Outlook Connection</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992896880-how-to-fix-chivalry-2-crashing-issues-solutions-found/"><u>How to Fix Chivalry 2 Crashing Issues - Solutions Found!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-internet-explorer-webpage-not-loading-error/"><u>How to Resolve Internet Explorer Webpage Not Loading Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-warno-from-continuously-crashing-on-windows-systems/"><u>How to Stop WARNO From Continuously Crashing on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-the-wait-expert-advice-for-accessing-doom-eternal-if-launch-is-on-hold/"><u>Navigating the Wait: Expert Advice for Accessing DOOM Eternal if Launch Is on Hold</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-windows-spotlight-feature-stops-responding-windows-11/"><u>Solutions for When Your Windows Spotlight Feature Stops Responding (Windows 11)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/speedy-windows-file-checkout-tutorial-for-2024/"><u>Speedy Windows File Checkout Tutorial for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/test-in-safe-mode-and-clean-boot/"><u>Test in Safe Mode and Clean Boot</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-tier-android-video-and-image-recording-tools-reviewed-for-2024/"><u>Top-Tier Android Video & Image Recording Tools Reviewed for 2024</u></a></li>
 </ul></div>
 

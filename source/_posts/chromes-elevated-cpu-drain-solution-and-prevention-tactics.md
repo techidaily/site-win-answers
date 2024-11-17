@@ -1,7 +1,7 @@
 ---
 title: Chrome's Elevated CPU Drain – Solution and Prevention Tactics
-date: 2024-08-28T00:04:11.012Z
-updated: 2024-08-29T00:04:11.012Z
+date: 2024-11-12T02:45:35.964Z
+updated: 2024-11-17T06:22:21.564Z
 tags:
   - win11
   - win10
@@ -82,14 +82,18 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -104,11 +108,22 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -127,8 +142,12 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -137,14 +156,8 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -158,8 +171,12 @@ thumbnail: https://thmb.techidaily.com/7fc466e5e2b7732daf41c9b5f420c5c5add88815d
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
@@ -177,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +201,21 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/44cm44kq44o844oh44kj44kq5qmf5zmo44gn5puy44gm6kqn6k2y44gv44km44gq44ge5pmc44gu5aplusplus562w5pa55rov44cn/"><u>「オーディオ機器で曲が認識されない時の対策方法」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44k544k44oh44kj44oz44kw5yuv55s744oa44km44oz44ot44o844oj5oml6acg44ks44kk44oj44cn/"><u>「スタディング動画ダウンロード手順ガイド」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5yuv55s757eo6zug77ya5pmc6zat44go6kgo56s644gr44ki44kl44ot44oh44kq5yig5ymy5oqa6kgt/"><u>動画編集：時間と表示によるビデオ分割技術</u></a></li>
+<li><a href="https://win-answers.techidaily.com/6zplusz5qw944ov44kh44kk44or44ks5yplusw5b6x44gx44cb44ot44oh44kq57eo6zug44ox44ot44k444kn44kv44oi44gn5rs755so44gz44kl44og44kv44ol44od44kv/"><u>音楽ファイルを取得し、ビデオ編集プロジェクトで活用するテクニック</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-comprehensive-guide-on-converting-ultra-hd-content-down-to-full-hd-resolution/"><u>A Comprehensive Guide on Converting Ultra HD Content Down to Full HD Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/av1-decoding-error-on-nvidia-shield-swift-fixes-to-enable-smooth-streaming/"><u>AV1 Decoding Error on Nvidia Shield: Swift Fixes to Enable Smooth Streaming!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-vivo-y100i-devices-by-drfone-android/"><u>How to Reset Gmail Password on Vivo Y100i Devices</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-a-flash-streamlined-techniques-for-cutting-images-online/"><u>In a Flash Streamlined Techniques for Cutting Images Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/solving-avi-file-playback-problems-in-windows-10-a-comprehensive-fixers-tutorial/"><u>Solving AVI File Playback Problems in Windows 10: A Comprehensive Fixer’s Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/streamline-content-creation-boost-productivity-using-hix-ai-and-gpt-4/"><u>Streamline Content Creation: Boost Productivity Using HIX AI & GPT-4</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-photographers-guide-to-online-image-editing-and-cropping/"><u>The Photographer's Guide to Online Image Editing and Cropping</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-transformative-impact-of-the-m1-chip-on-imac-a-fresh-look-at-unmatched-performance/"><u>The Transformative Impact of the M1 Chip on iMac: A Fresh Look at Unmatched Performance</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/transition-seamlessly-changing-keyboard-layouts-in-win-11/"><u>Transition Seamlessly: Changing Keyboard Layouts in Win 11</u></a></li>
+</ul></div>
 

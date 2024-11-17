@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Cyberpunk 2077 Utilizes CPU Instead of GPU in Windows 10"
-date: 2024-08-28T00:05:11.494Z
-updated: 2024-08-29T00:05:11.494Z
+date: 2024-11-13T06:28:04.402Z
+updated: 2024-11-17T12:01:49.236Z
 tags:
   - win11
   - win10
@@ -36,13 +36,17 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 2. Right-click each application in the list and click**End task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  If there’re no background programs consuming your CPU but the problem still exists, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Turn off overlays
 
  The in-game overlay can also use up your CPU and cause high usage. To disable this feature, follow the instruction that corresponds with your gaming platform: **[Steam](https://tools.techidaily.com/drivereasy/download/)**  or **[GOG](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -52,10 +56,6 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 1. Run the Steam client. Then, click**Steam** at the top left corner and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam1.jpg)
 2. Select the**In-Game** tab, untick**Enable the Steam Overlay while in-game** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam-2.jpg)
 
  Check if Cyberpunk 2077 high CPU usage is still there. If so, proceed to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -67,9 +67,6 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 3. Uncheck the box next to **In-Game Overlay** and click **Ok** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart Cyberpunk 2077 to check whether your CPU maxes out. If the CPU usage remains high while you’re gaming, try the next fix below.
 
 ### Fix 3 – Adjust in-game graphics settings
@@ -79,23 +76,27 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 1. Launch Cyberpunk 2077 and go to the**Settings** menu.  
 ![Cyberpunk 2077 settings](https://images.drivereasy.com/wp-content/uploads/2020/12/navigate-to-in-game-settings.jpg)
 2. Navigate to the**Gameplay** tab. Then, scroll to the Performance section and set**Crowd Density** to**Low** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-1.jpg)
 3. Go to the**Video** tab.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 4. Under the Advanced section,**turn off Ray Tracing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
 5. Scroll to**DLSS** and set it to**off** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
  Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change the power settings
 
@@ -104,25 +105,38 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**control** in the field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** next to View by and click**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
 4. Click**Change advanced power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
 5. Select**Processor power management** \>**Maximum processor state** . Then, set it to another**value no below 90%** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Update your device drivers
 
  Cyberpunk 2077 high usage may occur if the device drivers on your PC are missing or out-of-date. If that’s your case, updating all the drivers could fix your issue.
@@ -137,7 +151,22 @@ There are two ways you can update the device drivers correctly:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -156,8 +185,6 @@ There are two ways you can update the device drivers correctly:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +192,19 @@ There are two ways you can update the device drivers correctly:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly-for-2024/"><u>[New] From Bland to Breathtaking Craft Captivating Content on TikTok Quickly for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-design-principles-essential-knowledge-of-yt-banners-and-art/"><u>[New] Mastering Design Principles Essential Knowledge of YT Banners & Art</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-streamer-profitability-analysis-and-verification/"><u>[Updated] Streamer Profitability Analysis and Verification</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ag/"><u>簡単ガイド:AGソフトウェアを使ったデスクトップレコーディングの仕方</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/achieving-vintage-looks-with-photoshop-distortions/"><u>Achieving Vintage Looks with Photoshop Distortions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/audacitypc/"><u>AudacityによるPC対応の高品質オーディオ録音技術</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-region-locks-on-dvds-easy-techniques-for-universal-playback/"><u>Bypass Region Locks on DVDs: Easy Techniques for Universal Playback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/celebrate-mom-with-my-blessings-her-love-mothers-day-treasure-hunt-2015/"><u>Celebrate Mom with ‘My Blessings, Her Love’ - Mother's Day Treasure Hunt 2015</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deactivating-license-validity-remaining-time-alert-on-winoses/"><u>Deactivating License Validity Remaining Time Alert on WinOSes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-solving-the-multiversus-wont-start-issue-on-windows/"><u>Troubleshooting Steps: Solving the 'MultiVersus Won't Start' Issue on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/your-guide-to-finding-reliable-free-dns-hosts/"><u>Your Guide to Finding Reliable Free DNS Hosts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a/"><u>エクセルでシーケンス動画を作成するための操作テック：ダウンロA</u></a></li>
+</ul></div>
 

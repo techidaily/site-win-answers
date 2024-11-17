@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Overcome Constant Tower of Fantasy Crashes on Windows/Mac"
-date: 2024-10-01T18:08:58.582Z
-updated: 2024-10-03T16:01:46.603Z
+date: 2024-11-15T04:28:27.873Z
+updated: 2024-11-17T04:33:07.162Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/756e6cbc4b4a2e3ac30671657870528bb336d9b2f
 5. [**Modify your Registry**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Modify config files to fix launching issues
 
  Though Tower of Fantasy is not a demanding title, it is reported to have launching issues on some low end PCs. If you can’t seem to launch the game, you can try to modify some config files to make it work.
@@ -60,6 +53,19 @@ bPreferD3D12InGame=False
 Now you can restart Tower of Fantasy and check the results.
 
 If the game still crashes, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2:**Update your graphics driver**
 
@@ -89,21 +95,7 @@ If the game still crashes, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -118,17 +110,24 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-0.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
 3. Now you can test the gameplay in Tower of Fantasy.
 
- If this fix doesn’t work for you, undo the settings and continue to the next one below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this fix doesn’t work for you, undo the settings and continue to the next one below.
 
 ### Fix 5: Modify your Registry (Advanced)
 
@@ -139,38 +138,47 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 1. On your keyboard, press**Win+R** . Type or paste**regedit** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
 2. In the address bar, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
 
 If this fix doesn’t give you luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -182,13 +190,6 @@ If this fix doesn’t give you luck, take a look at the next one.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -213,18 +214,22 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-bold-and-creative-pfp-options-for-a-unique-tiktok-look/"><u>[New] 2024 Approved Bold & Creative PFP Options for a Unique TikTok Look</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-wheres-the-community-twitch-and-youtube-side-by-side/"><u>[New] 2024 Approved Where's the Community? Twitch & YouTube Side by Side</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-spellbreak-crashing-on-pc/"><u>[SOLVED] Spellbreak Crashing on PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-designing-impactful-social-media-fb-ads-for-2024/"><u>[Updated] Designing Impactful Social Media FB Ads for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-enhance-images-androidandiphones-top-10-freeware-overlays/"><u>[Updated] Enhance Images Android&iPhone's Top 10 Freeware Overlays</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-framework-for-visual-storytelling-for-2024/"><u>[Updated] Framework for Visual Storytelling for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-climb-the-social-ladder-a-guide-to-higher-facebook-page-ranks-for-2024/"><u>[Updated] How to Climb the Social Ladder A Guide to Higher Facebook Page Ranks for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-repair-xcom-2-crashing-instances-in-windows-environments/"><u>How to Prevent and Repair XCOM 2 Crashing Instances in Windows Environments</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010131056-instant-fixes-accelerating-your-slow-google-chrome-in-no-time/"><u>Instant Fixes: Accelerating Your Slow Google Chrome in No Time!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-valheim-network-stability-ping-improvement-tips-for-pc-users/"><u>Optimize Valheim Network Stability: Ping Improvement Tips for PC Users</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/re-establishing-connections-with-mb-services-in-windows-11/"><u>Re-Establishing Connections with MB Services in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-solutions-for-the-2024-rockstar-games-launcher-malfunction-problems/"><u>Top Solutions for the 2024 Rockstar Games Launcher Malfunction Problems</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-8-youtube-ranks-expertly-navigating-with-key-tools/"><u>[New] 2024 Approved Top 8 YouTube Ranks Expertly Navigating with Key Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-must-have-3d-model-systems-in-animation/"><u>[Updated] In 2024, Must-Have 3D Model Systems in Animation</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spark-interest-engage-followers-maximizing-tiktok-unboxer-appeal/"><u>2024 Approved Spark Interest, Engage Followers Maximizing TikTok Unboxer Appeal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722174831676-beware-no-official-chatgpt-app-for-windows-avoid-the-fake-versions/"><u>Beware: No Official ChatGPT App for Windows – Avoid the Fake Versions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/drive-disaster-to-delight-windows-minecraft-no-more-crashes/"><u>Drive Disaster to Delight: Windows Minecraft No More Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-smoothness-overcoming-frequent-frame-drops-and-delays-in-gaming/"><u>Enhance Gameplay Smoothness: Overcoming Frequent Frame Drops & Delays in Gaming</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/explore-innovative-ways-for-sound-capture-in-modern-windows-11-pcs/"><u>Explore Innovative Ways for Sound Capture in Modern Windows 11 PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-overcome-gta-5-wont-start-issue/"><u>Fixes and Solutions: How To Overcome 'GTA 5 Won't Start' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994337277-fixing-dayzs-performance-issues-fast-and-user-friendly-methods/"><u>Fixing DayZ's Performance Issues: Fast and User-Friendly Methods!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-leveraging-title-creation-on-youtube-for-engagement/"><u>In 2024, Leveraging Title Creation on YouTube for Engagement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-guide-how-to-overcome-and-repair-a-stubborn-non-opening-discord-application/"><u>Master Guide: How to Overcome and Repair a Stubborn, Non-Opening Discord Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-interruptions-detroit-become-human-running-flawlessly-on-windows-machines/"><u>Say Goodbye to Interruptions: Detroit: Become Human Running Flawlessly on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-restore-netflix-functionality-on-your-xbox-one-device/"><u>Solution Found: How to Restore Netflix Functionality on Your Xbox One Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-repetitive-nature-of-its-resource-management-and-building-systems-limited-long-term-engagement-without-significant-content-updates-or-game-mechanic-chan491/"><u>The Repetitive Nature of Its Resource Management and Building Systems Limited Long-Term Engagement without Significant Content Updates or Game Mechanic Changes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-ranking-dvd-to-avc-transformation-tools-for-windows-10-and-11/"><u>Top-Ranking DVD to AVC Transformation Tools for Windows 10 & 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-step-by-step-guide-resolving-teardown-app-crashes/"><u>Ultimate Step-by-Step Guide: Resolving Teardown App Crashes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y28 5G? | Dr.fone</u></a></li>
 </ul></div>
 

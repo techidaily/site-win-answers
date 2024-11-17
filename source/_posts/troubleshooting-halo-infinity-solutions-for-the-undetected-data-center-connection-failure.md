@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Halo Infinity: Solutions for the Undetected Data Center Connection Failure"
-date: 2024-10-29T21:58:04.265Z
-updated: 2024-11-01T12:20:27.642Z
+date: 2024-11-11T09:45:19.775Z
+updated: 2024-11-17T04:23:33.296Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -50,6 +57,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
  That means, if your platform language is English, you can’t use not-standard-English characters in your username. After removing these marks or characters, the problem is solved.
 
 If this fix doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
 
@@ -59,23 +73,17 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -86,31 +94,17 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -137,6 +131,19 @@ There are mainly two ways you can update the graphics driver:
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus software
 
  It’s possible that your anti-virus/Windows Security is interfering with NieR Replicant. When they block part of game files, there’ll be crashes. Therefore, disable real-time protection temporarily or make an exception for the game in the antivirus software would fix the issue.
@@ -147,25 +154,18 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -192,16 +192,18 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-mastering-tiktok-identity-ultimate-profile-transformation-guide/"><u>[New] 2024 Approved Mastering TikTok Identity Ultimate Profile Transformation Guide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolution-control-reducing-windows-11-screen-width/"><u>[RESOLUTION CONTROL] Reducing Windows 11 Screen Width</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-engaging-local-audiences-with-social-media-videos/"><u>[Updated] 2024 Approved Engaging Local Audiences with Social Media Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-journey-into-cinematic-precision-with-windows-high-dynamic-range-support/"><u>[Updated] Journey Into Cinematic Precision with Windows High-Dynamic Range Support</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximizing-gameplay-the-right-system-build/"><u>Maximizing Gameplay - The Right System Build</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/problembehebung-bei-der-apple-id-authentifizierungsfehler/"><u>Problembehebung Bei Der Apple ID Authentifizierungsfehler</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-dying-light-performance-lags-tips-and-tricks/"><u>Resolving Dying Light Performance Lags: Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-frame-rate-issues-in-fallout-76/"><u>Resolving Frame Rate Issues in Fallout 76</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simple-tricks-to-fast-track-your-synaptics-ps2-touchpad-driver-update-process/"><u>Simple Tricks to Fast-Track Your Synaptics PS/2 Touchpad Driver Update Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-in-high-fidelity-gaming-why-the-nvidia-geforce-gtx-1080-ti-reigns-supreme/"><u>The Ultimate in High-Fidelity Gaming: Why the NVIDIA GeForce GTX 1080 Ti Reigns Supreme</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unable-to-open-nier-recomplete-version-expert-guidance-inside/"><u>Unable to Open NieR Re;Complete Version? Expert Guidance Inside</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-your-essential-list-of-free-high-quality-online-meeting-software-for-2024/"><u>[New] Your Essential List of Free, High-Quality Online Meeting Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-enhancing-live-skype-broadcasts-using-obs-software-for-2024/"><u>[Updated] Enhancing Live Skype Broadcasts Using OBS Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-excellent-ios-apps-the-ultimate-psp-emulators/"><u>[Updated] In 2024, Excellent iOS Apps The Ultimate PSP Emulators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[Updated] In 2024, Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-singular-snaps-crafting-a-musical-experience-in-snapchat-for-2024/"><u>[Updated] Singular Snaps Crafting a Musical Experience in Snapchat for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-tips-for-msi-afterburners-gpu-detection-problem-on-windows-1110-platforms/"><u>Comprehensive Troubleshooting Tips for MSI Afterburner's GPU Detection Problem on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/from-ideas-to-epics-leveraging-chatgpt-for-unparalleled-story-crafting-skills/"><u>From Ideas to Epics: Leveraging ChatGPT for Unparalleled Story Crafting Skills</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-qbittorrent-hang-ups-and-resume-downloading-effortlessly/"><u>How To Solve qBittorrent Hang-Ups and Resume Downloading Effortlessly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-oneplus-nord-ce-3-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on OnePlus Nord CE 3 5G Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-eliminating-latency-problems-in-lol-gameplay/"><u>Solution Guide: Eliminating Latency Problems in LoL Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-unresponsive-corsair-icue-on-latest-windows-versions/"><u>Troubleshooting Steps for Unresponsive Corsair iCUE on Latest Windows Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-overcoming-minecraft-pc-crashes-and-freezes-expert-advice-for-gamers-updated/"><u>Ultimate Guide to Overcoming Minecraft PC Crashes and Freezes - Expert Advice for Gamers (Updated )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-from-a-frozen-screen-restoring-your-nvidia-geforce-overlay-functionality/"><u>Unstuck From a Frozen Screen: Restoring Your Nvidia GeForce Overlay Functionality</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Ready or Not Keeps Crashing on PC"
-date: 2024-11-05T19:31:07.847Z
-updated: 2024-11-06T16:07:33.375Z
+date: 2024-11-12T01:32:42.894Z
+updated: 2024-11-17T01:54:13.484Z
 tags:
   - win11
   - win10
@@ -78,6 +78,13 @@ First, check your current Microsoft Visual C++ version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-21_12-23-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your Microsoft Visual C++ version is outdated, follow the steps to update it:
 
 1. Visit the **[Microsoft Visual Studio website](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)**  .
@@ -87,21 +94,7 @@ First, check your current Microsoft Visual C++ version:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-03_14-59-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the Cult of the Lamb continues to crash, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 Repair HDD bad sectors
 
@@ -115,22 +108,23 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-12_17-17-48.jpg)
 3. Hit**Enter** on your keyboard. Then wait for it to run a scan and repair bad sectors for your drive.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-12_15-00-15-1.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/2022-08-12_15-00-15-1.jpg)
+
  If it fails to find any bad sector or this fix doesn’t work for you, continue to try the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 Run the game as an administrator
 
@@ -155,13 +149,6 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
@@ -169,6 +156,13 @@ If the Cult of the Lamb continues to crash, try the next fix.
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart your PC to make changes apply. Then relaunch the game to check for any improvement.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 Verify game files integrity
 
@@ -179,14 +173,14 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-1.jpg)
 3. Select **LOCAL FILES** on the left and click **Verify integrity of game files…**  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-2.jpg)
 
  Steam will verify the files of this game for you. Once done, exit the software client and launch it again. Have a test to see if the crashing issue is gone.
 
@@ -203,16 +197,16 @@ Here’s how it works:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. After the scan, check the generated summary and click **Start Repair** to start your fixing process (and you’ll need to pay for that).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Fortect offers a **60-day money-back** guarantee, so don’t hesitate to contact them if you need any assistance. However, if the crashing of the Cult of the Lamb still persists, check the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7 Add the game to whitelist
 
@@ -229,13 +223,6 @@ Here’s how it works:
 3. Uncheck **Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-not-launching.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch Steam after you have disabled apps and Steam overlay. Open the game to see if the problem is gone.
 
 ## Fix 9 Close unnecessary programs
@@ -248,17 +235,24 @@ Still no luck? Try this final fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. Choose the processes consuming too many resources, and then click **End task** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Click the **Detail**  tab. Right-click **Stray.exe** and set its priority to **High** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Return to the game to check if the problem is solved. If it fails to tackle the problem, you can try to update your Windows or reinstall the game.
 
@@ -284,19 +278,17 @@ Still no luck? Try this final fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastery-of-transferring-multitudes-of-tiktok-videos/"><u>[New] In 2024, Mastery of Transferring Multitudes of TikTok Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209570720-9781510727502-angel-chatter/"><u>Angel Chatter | Free Book</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dont-overlook-top-streaming-platforms-essential-viewing-for-anime-enthusiasts/"><u>Don't Overlook Top Streaming Platforms: Essential Viewing for Anime Enthusiasts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722983531714-effortless-fix-for-ashen-hitch-quick-and-reliable-tips-inside/"><u>Effortless Fix for Ashen Hitch: Quick & Reliable Tips Inside!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effortless-transformation-of-m4a-track-to-wmv-format-get-started-here-for-free/"><u>Effortless Transformation of M4A Track to WMV Format - Get Started Here for Free!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-apples-music-app-when-your-iphone-wont-sync-with-windows-10-pc/"><u>How to Fix Apple's Music App When Your iPhone Won't Sync With Windows 10 PC</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-online-video-shrinking-best-webm-compressors/"><u>New 2024 Approved Online Video Shrinking Best WebM Compressors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-crashes-solving-the-kernelbasedll-dilemamo-with-swift-and-straightforward-techniques/"><u>No More Crashes: Solving the kernelbase.dll Dilemamo with Swift & Straightforward Techniques.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-a-frequently-crashing-google-chrome-browser/"><u>Quick Fixes for a Frequently Crashing Google Chrome Browser</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revitalized-audio-top-6-fixes-for-your-obs-microphone-issues/"><u>Revitalized Audio: Top 6 Fixes for Your Obs Microphone Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-overcoming-launch-problems-in-red-dead-redemption-2/"><u>Solved! Overcoming Launch Problems in Red Dead Redemption 2</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unleashing-potential-a-deep-dive-into-the-ion-air-pro-3-review/"><u>Unleashing Potential A Deep Dive Into the ION Air Pro 3 Review</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/vss-vss/"><u>VSS バックアップの仕組み：VSSインストールによる効果的なデータ保護手順</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-decoding-video-cropping-within-imovie/"><u>[New] In 2024, Decoding Video Cropping Within iMovie</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-worlds-finest-screen-recording-software-no-deadline/"><u>[New] World's Finest Screen Recording Software (No Deadline)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premier-collection-top-10-audio-capturers-on-spotify/"><u>2024 Approved Premier Collection Top 10 Audio Capturers on Spotify</u></a></li>
+<li><a href="https://win-dash.techidaily.com/asus-laptop-touchpad-drivers-for-windows-11-free-download-and-installation-guide/"><u>ASUS Laptop Touchpad Drivers for Windows 11 - Free Download and Installation Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-your-steam-problems-the-definitive-solution-to-error-code-130/"><u>Banish Your Steam Problems: The Definitive Solution to Error Code 130</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bring-light-to-your-pc-top-5-techniques-for-a-working-backlight/"><u>Bring Light to Your PC: Top 5 Techniques for a Working Backlight</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009691174-cant-get-steam-remote-play-running-discover-the-best-troubleshooting-techniques-here/"><u>Can't Get Steam Remote Play Running? Discover the Best Troubleshooting Techniques Here</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/demystifying-the-concept-of-net-neutrality-what-you-need-to-know/"><u>Demystifying the Concept of Net Neutrality: What You Need To Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-tomahawk-msi-b3nb-graphic-card-on-windows-107-driver-download-guide/"><u>How to Update Your Tomahawk (MSI B3nB) Graphic Card on Windows 10/7 - Driver Download Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/psychonauts-2-stability-tips-preventing-pc-game-crashes-effectively/"><u>Psychonauts 2 Stability Tips: Preventing PC Game Crashes Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-high-ping-issues-in-valheim-for-windows-gaming-systems/"><u>Troubleshooting and Solving High-Ping Issues in Valheim for Windows Gaming Systems</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-exploring-the-best-uncopyrighted-soundscape-for-compelling-video-sequences-for-2024/"><u>Updated Exploring the Best Uncopyrighted Soundscape for Compelling Video Sequences for 2024</u></a></li>
 </ul></div>
 

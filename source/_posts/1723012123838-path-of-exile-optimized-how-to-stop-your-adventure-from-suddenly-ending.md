@@ -1,7 +1,7 @@
 ---
 title: "Path of Exile Optimized: How to Stop Your Adventure From Suddenly Ending"
-date: 2024-08-28T00:06:35.714Z
-updated: 2024-08-29T00:06:35.714Z
+date: 2024-11-11T03:47:56.823Z
+updated: 2024-11-17T03:32:51.546Z
 tags:
   - win11
   - win10
@@ -47,9 +47,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -65,6 +62,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
 If your game isn’t on the list, follow these steps:
@@ -72,15 +76,9 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Perform a network reset
 
  If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
@@ -88,6 +86,14 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -98,13 +104,14 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -113,21 +120,30 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Right-click your current network connection, and select **Properties** .  
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4\. Update your device drivers
 
  It’s also recommended by[Activision](https://eu.battle.net/support/en/article/31024) that you should update your device drivers (including your Network adapter driver) to check if the **‘_Connection to the Battle.net game server has been lost_**  ‘ problem is caused by corrupted/outdated drivers.
@@ -150,8 +166,12 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5\. Use a VPN
 
  It has now been confirmed that some ISPs are having trouble routing to Blizzard and Battle.net servers. It’s very unlikely that you will switch to a different ISP, but there’s still a way to change the routing – using a VPN.
@@ -181,8 +201,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +208,24 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-the-top-10-wave-capturing-cams/"><u>[New] In 2024, The Top 10 Wave-Capturing Cams</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-add-border-to-instagram-video/"><u>[Updated] How to Add Border to Instagram Video?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/clearshot-video-amplifier-cross-device-compatible/"><u>ClearShot Video Amplifier - Cross-Device Compatible</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/corrective-measures-applied-to-winos-comexceptions/"><u>Corrective Measures Applied to WinOS COMExceptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-sound-troubles-heres-how-to-fix-it-swiftly-and-easily/"><u>Dying Light Sound Troubles? Here's How to Fix It Swiftly & Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-overcome-a-black-screen-on-discord-during-screen-share/"><u>Fixing the Issue: How to Overcome a Black Screen on Discord During Screen Share</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia 130 Music? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-cod-black-ops-cold-war-and-resolve-error-code-80070057/"><u>How to Troubleshoot COD: Black Ops Cold War and Resolve Error Code 80070057</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-prime-presenter-prefix-planner/"><u>In 2024, Prime Presenter Prefix Planner</u></a></li>
+<li><a href="https://extra-support.techidaily.com/investment-returns-on-youtuber-promotions-for-2024/"><u>Investment Returns on Youtuber Promotions for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-quick-wins-for-shader-optimization-in-star-wars-battlefront-ii/"><u>Master Quick Wins for Shader Optimization in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-starfield-audio-performance-solutions-for-intermittent-cuts-and-hitches/"><u>Mastering Starfield Audio Performance: Solutions for Intermittent Cuts and Hitches</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/perfect-plugin-placement-for-game-channels/"><u>Perfect Plugin Placement for Game Channels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/r-type-final-2-stability-improvement-eliminate-pc-game-crash-problems-here/"><u>R-Type Final 2 Stability Improvement - Eliminate PC Game Crash Problems Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-your-google-meet-camera-effective-solutions-for-connectivity-issues/"><u>Reviving Your Google Meet Camera: Effective Solutions for Connectivity Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-crash-solutions-top-strategies-for-a-stable-game-updated-for-2n-23/"><u>Rocket League Crash Solutions: Top Strategies for a Stable Game (Updated for 2N-23)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-among-us-how-to-navigate-through-technical-hurdles-and-crash-free-gameplay/"><u>Smooth Sailing 'Among Us': How To Navigate Through Technical Hurdles and Crash-Free Gameplay</u></a></li>
+</ul></div>
 

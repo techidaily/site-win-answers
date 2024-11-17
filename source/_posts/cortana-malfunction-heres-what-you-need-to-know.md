@@ -1,7 +1,7 @@
 ---
 title: Cortana Malfunction? Here's What You Need to Know!
-date: 2024-08-28T00:04:38.343Z
-updated: 2024-08-29T00:04:38.343Z
+date: 2024-11-11T13:24:25.566Z
+updated: 2024-11-17T13:31:14.909Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326c
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -49,16 +56,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 5) Try Cortana again to see if it works.
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -69,20 +70,21 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -110,9 +112,20 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -122,21 +135,28 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)
@@ -148,8 +168,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +175,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-navigating-youtubes-privacy-controls-for-video-accessibility/"><u>[Updated] Navigating YouTube's Privacy Controls for Video Accessibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-simple-steps-transform-your-voicemails-into-mp3-files-with-ease/"><u>1. Simple Steps: Transform Your Voicemails Into MP3 Files with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/webm-wmv-avi/"><u>簡単な方法：WebM フォーマットを WMV / AVI にシームレスに変換する - 詳しいチュートリアル</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wavmov5/"><u>魅力的なWAVファイル:MOVファイルを変換する最高の自由ソフト5選紹介</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/download-asus-drivers-for-windows-10-and-7/"><u>Download ASUS Drivers for Windows 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-csr-bluetooth-device-drivers-free-download/"><u>Get Your CSR Bluetooth Device Drivers - Free Download</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-poco-x5-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/live-sounds-made-simple-the-ultimate-guide-to-digital-recording-for-2024/"><u>Live Sounds Made Simple The Ultimate Guide to Digital Recording for 2024</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/los-15-mejores-videoplayer-para-ver-mp4-sin-costo-en-pcs-con-windows-10-y-computadoras-mac-gratis/"><u>Los 15 Mejores Videoplayer Para Ver MP4 Sin Costo en PCs Con Windows 10 Y Computadoras Mac - Gratis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transferring-youtube-content-onto-your-kindle-fire-device/"><u>Step-by-Step Guide: Transferring YouTube Content Onto Your Kindle Fire Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/superior-dvd-unlocking-tools-compatible-with-windows-1011-a-comprehensive-guide/"><u>Superior DVD Unlocking Tools Compatible with Windows 10/11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-insiders-handbook-on-cloud-gaming-using-your-xbox-game-pass-ultimate/"><u>The Insider’s Handbook on Cloud Gaming Using Your Xbox Game Pass Ultimate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-rated-mp4-video-encoders-of-2024-a-step-by-step-guide-to-efficient-mp4-video-compression/"><u>Top Rated MP4 Video Encoders of 2024: A Step-by-Step Guide to Efficient MP4 Video Compression</u></a></li>
+<li><a href="https://win-answers.techidaily.com/transforming-hevch265-video-files-into-high-quality-mov-format-three-effective-techniques/"><u>Transforming HEVC/H.265 Video Files Into High-Quality MOV Format: Three Effective Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-ratdvd-tutorial-mastering-high-quality-movie-compression/"><u>Ultimate RatDVD Tutorial: Mastering High-Quality Movie Compression</u></a></li>
+</ul></div>
 

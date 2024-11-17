@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Overcoming 'The Application Failed' In Adobe - Error 0xC0000022"
-date: 2024-11-04T21:45:37.330Z
-updated: 2024-11-06T21:20:10.439Z
+date: 2024-11-10T20:43:45.347Z
+updated: 2024-11-17T06:57:02.881Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Change your sound settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Change language on Steam
 
  This fix should resolve the issue with the missing voiceovers. Follow the guide and you’ll get back the audio.
@@ -50,21 +43,28 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 
  If you’re already in English, try another language to see if the voices are in this language, then turn back to English.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Uninstall incompatible app
 
  Make sure there’s no other software working on the background. It’s possible that some apps are incompatible with Steam which cause the sound issue. Some players figured out when they had Sonic Studio on, there’s an audio mixer or no sound. After installing the software, the Dying Light was working perfectly.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Update your driver
@@ -82,20 +82,20 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,22 +131,18 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-srt-decoding-for-windows-and-mac-users/"><u>[Updated] 2024 Approved SRT Decoding for Windows & Mac Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-win-11-mov-file-recording-guide/"><u>[Updated] 2024 Approved Win 11 MOV File Recording Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/8-ai-tools-content-writers-can-use-to-improve-their-workflow/"><u>8 AI Tools Content Writers Can Use to Improve Their Workflow</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exclusive-discovery-of-the-best-10-sites-for-pristine-images-for-2024/"><u>Exclusive Discovery of the Best 10 Sites for Pristine Images for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-issues-with-ghostwire-tokyo-continuous-crashes-on-windows/"><u>Fixing Issues with Ghostwire: Tokyo Continuous Crashes on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-slow-response-time-in-back-4-blood-a-comprehensive-solution/"><u>Fixing Slow Response Time in 'Back 4 Blood': A Comprehensive Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/from-startup-to-success-fixing-the-crash-and-burn-of-your-businesss-core-essence/"><u>From Startup to Success: Fixing the 'Crash and Burn' Of Your Business’s Core Essence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-the-newest-updates-for-your-logitech-g403-controller-free-driver-software-for-pcs/"><u>Get the Newest Updates for Your Logitech G403 Controller: Free Driver Software for PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-solve-screen-capture-problems-with-nvidia-shadowplay-in-windows/"><u>How to Solve Screen Capture Problems with NVIDIA ShadowPlay in Windows</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-launch-a-captivating-livestream-with-minimal-subscribers/"><u>In 2024, Launch a Captivating Livestream with Minimal Subscribers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Realme 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-your-game-sessions-eliminate-the-frustration-of-constant-crashes-in-ready-or-not-on-windows/"><u>Master Your Game Sessions: Eliminate the Frustration of Constant Crashes in 'Ready or Not' On Windows!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/precision-photography-without-shake/"><u>Precision Photography without Shake</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-7-solutions-to-fix-overwatch-2-failure-to-start/"><u>Top 7 Solutions to Fix Overwatch 2 Failure to Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-black-ops-cold-war-resolve-shader-compile-problems-easily/"><u>Troubleshooting Black Ops Cold War: Resolve Shader Compile Problems Easily</u></a></li>
-<li><a href="https://discover-data.techidaily.com/troubleshooting-tips-resolving-issues-with-installing-and-configuring-the-vsphere-high-availability-agent/"><u>Troubleshooting Tips: Resolving Issues with Installing and Configuring the vSphere High Availability Agent</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-smooth-playtime-expert-tips-for-preventing-crashes-in-frontier-on-pc/"><u>Unlocking Smooth Playtime: Expert Tips for Preventing Crashes in 'Frontier' On PC</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-master-iphone-multitasking-how-to-toggle-pip-on-youtube-app/"><u>[Updated] Master iPhone Multitasking How to Toggle PIP on YouTube App</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-mastering-the-art-of-saving-twitter-jokes-gifs/"><u>2024 Approved Mastering the Art of Saving Twitter Jokes (GIFs)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-crashes-ultimate-guide-to-running-hearts-of-iron-iv-stably/"><u>Beat the Crashes: Ultimate Guide to Running Hearts of Iron IV Stably</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/comment-rehabiliter-limage-de-votre-systeme-avec-une-cle-usb-gratuitement/"><u>Comment Réhabiliter L'image De Votre Système Avec Une Clé USB Gratuitement</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/enhance-subscriber-relationships-in-4-simple-steps-using-massmail-software/"><u>Enhance Subscriber Relationships in 4 Simple Steps Using MassMail Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dark-void-resolving-black-screen-issues-in-fortnite-on-pc/"><u>Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-poco-x6-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-drafts-to-masterpieces-top-10-essential-graphic-design-tools/"><u>In 2024, From Drafts to Masterpieces Top 10 Essential Graphic Design Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-poco-f5-pro-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Poco F5 Pro 5G Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-guide-to-top-10-4k-screens/"><u>In 2024, The Ultimate Guide to #Top 10 4K Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722987466898-mount-and-blade-ii-bannerlord-fixed-no-more-freezing-issues/"><u>Mount & Blade II: Bannerlord Fixed – No More Freezing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-frame-drops-and-playback-glitches-in-naraka-bladepoint/"><u>Troubleshooting Frame Drops & Playback Glitches in Naraka: Bladepoint</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-solutions-how-to-restore-a-disabled-apple-device/"><u>Unlocking Solutions: How to Restore a Disabled Apple Device</u></a></li>
 </ul></div>
 

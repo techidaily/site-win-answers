@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Gaming Experience: Overcoming PC Frame Rate Decreases"
-date: 2024-08-28T00:07:10.971Z
-updated: 2024-08-29T00:07:10.971Z
+date: 2024-11-10T01:42:31.108Z
+updated: 2024-11-17T01:30:50.212Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
  Make sure your PC meets the minimum specs, then go ahead with the fix below. (If your computer doesn’t meet the minimum specs, the only solution would be upgrading your PC.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Restart your computer
 
  If you’re running multiple programs during gameplay, it’s possible that one of them is conflicting with_Total War_ .
@@ -71,6 +78,13 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
  So you should close unnecessary programs while gaming, especially your overlay applications. To do it, the quickest way is to turn off your computer and turn it back on.
 
  If the crashing issue still exists after killing unnecessary programs, move on to Fix 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
 
@@ -82,13 +96,17 @@ _Total War: WARHAMMER II_ constantly crashes your PC?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-40-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Compatibility** tab, then check**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-41-28.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)**  Restart_Total War: WARHAMMER II_ from Steam.
 
 If your game crashes again, then try the next fix.
@@ -107,19 +125,20 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_10-28-13-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Type**devmgmt.msc** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-47-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Double-click**Display adapters** . Then, right-click**your graphics card** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-29_11-49-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Roll Back Driver** .
 
@@ -141,18 +160,12 @@ If your game crashes again, then try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-02-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -172,25 +185,10 @@ If your issue persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 **3)**  Right-click **Total War: WARHAMMER II** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-04-38.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
  Wait for Steam to detect and fix any corrupted game files automatically.
@@ -201,9 +199,6 @@ If your issue persists, then move on to the next fix below.
 
 If the game is still unplayable, check the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 6: Run your game with DirectX 11
 
  If you are running the DX12 beta, try switching to DX11\. Here is how to do it:
@@ -222,16 +217,10 @@ If the game is still unplayable, check the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-53-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Type**\-dx11** on the box and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-55-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If your game still won’t launch properly, move on to the next fix.
 
 ### Fix 7: Check for Windows Firewall
@@ -247,8 +236,12 @@ If your game still won’t launch properly, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Under**View by** , select**Small icons** , then click**Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
@@ -257,23 +250,21 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-23-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click**Change settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-06-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Click each Steam entities, then click**Remove** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **7)** Remove all**_Total War: Warhammer_** entities from the list. Then, click OK.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-17-25-1.jpg)
@@ -284,9 +275,6 @@ If your game still won’t launch properly, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-24-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If this method doesn’t work for you, move on to try the fix below.
 
 ### Fix 8: Run your game in compatibility mode
@@ -298,8 +286,12 @@ If this method doesn’t work for you, move on to try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-05-16.jpg)
@@ -312,9 +304,6 @@ If this method doesn’t work for you, move on to try the fix below.
 
  If this didn’t work for you, you need to reopen the Properties Window and disable the Compatibility mode . Then, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall Steam
 
  If none of the fixes above worked, reinstalling Steam is very likely the solution to your problem. Here is how to do it:
@@ -335,13 +324,17 @@ If this method doesn’t work for you, move on to try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_14-32-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -366,8 +359,6 @@ If this method doesn’t work for you, move on to try the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -375,4 +366,23 @@ If this method doesn’t work for you, move on to try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-comprehensive-guide-to-screencasting-techniques/"><u>[New] 2024 Approved The Comprehensive Guide to Screencasting Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-masterclass-in-visual-storytelling-for-youtube-live-videos/"><u>[New] Masterclass in Visual Storytelling for YouTube Live Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-pitch-black-problem-ultimate-guide-for-troubleshooting-fortnite-windows-crashes/"><u>Conquer the Pitch-Black Problem: Ultimate Guide for Troubleshooting Fortnite Windows Crashes</u></a></li>
+<li><a href="https://win-updates.techidaily.com/demystifying-the-mrbeast-prize-scheme-tips-for-staying-safe-from-potential-frauds/"><u>Demystifying the MrBeast Prize Scheme: Tips for Staying Safe From Potential Frauds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-0x00001338-in-call-of-duty-vanguard-pc-troubleshooting-and-solutions-unveiled/"><u>Error Code 0X00001338 in Call of Duty: Vanguard - PC Troubleshooting and Solutions Unveiled</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/free-ways-to-back-up-your-data-from-windows-7-onto-a-shared-network-folder/"><u>Free Ways to Back Up Your Data From Windows 7 Onto a Shared Network Folder</u></a></li>
+<li><a href="https://win-answers.techidaily.com/from-pitch-to-play-diagnosing-and-correcting-blank-screens-in-overwatch/"><u>From Pitch to Play: Diagnosing and Correcting Blank Screens in Overwatch</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-the-error-message-internet-explorer-not-responding/"><u>Quick Fixes for the 'Error Message - Internet Explorer Not Responding'</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/ranking-the-leading-free-srt-translators-online-for-2024/"><u>Ranking the Leading Free SRT Translators Online for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/remediation-of-sound-device-not-stopped-in-windows-os/"><u>Remediation of Sound Device Not Stopped in Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roller-champions-for-pc-essential-crossplay-tips-and-tricks-for-the-2024-edition/"><u>Roller Champions for PC - Essential Crossplay Tips and Tricks for the 2024 Edition</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/solving-iphone-cannot-restore-error-a-step-by-step-guide/"><u>Solving 'iPhone Cannot Restore' Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/streamline-your-content-how-to-make-reaction-videos-quickly-with-filmora-for-2024/"><u>Streamline Your Content How to Make Reaction Videos Quickly with Filmora for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-overcome-world-of-warcrafts-frequent-crashes-with-these-tips/"><u>Troubleshoot & Overcome World of Warcraft's Frequent Crashes with These Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-overcoming-modern-warfares-mw-deverror-6034-playstation-and-pc-strategies/"><u>Troubleshooting Tips for Overcoming Modern Warfare's MW DEV_ERROR 6034 - PlayStation & PC Strategies</u></a></li>
+</ul></div>
 

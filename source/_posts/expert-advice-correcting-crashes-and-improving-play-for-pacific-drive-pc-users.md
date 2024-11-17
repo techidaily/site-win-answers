@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Correcting Crashes and Improving Play for Pacific Drive PC Users"
-date: 2024-08-28T00:08:04.683Z
-updated: 2024-08-29T00:08:04.683Z
+date: 2024-11-12T09:52:35.807Z
+updated: 2024-11-16T17:34:08.913Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 3. [Launch through the NVIDIA GeForce app](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check your system requirement
 
  Make sure your PC meets the minimum system requirements, that’s the basic requirement.
@@ -38,8 +45,12 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 | Sound Card: | DirectX 9.0c compatible Sound Card                                           |
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2\. Turn off Discord overlay
 
  The Discord is the culprit for the problem, reported by many gamers. Follow the steps to fix the issue.
@@ -48,15 +59,9 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 2. Click the**gear button** on the bottom to open User settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-41-03.jpg)
 3. Click**Overlay** .
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 4. Check**Enable in-game overlay** . Disable it if it’s toggled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-42-39.jpg)
 5. Relaunch your game and check.
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3\. Launch through the NVIDIA GeForce app
 
@@ -65,8 +70,12 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Star Wars Battlefront 2 black screen issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -95,21 +104,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -123,8 +128,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +135,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-9-live-stream-enhancers-ultimate-filter-guide/"><u>[New] Top 9 Live-Stream Enhancers Ultimate Filter Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-behind-the-scenes-with-slow-motion-in-reels/"><u>[Updated] 2024 Approved Behind the Scenes with Slow Motion in Reels</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-dive-deeper-how-to-zoom-with-precision-in-minecraft/"><u>[Updated] In 2024, Dive Deeper How to Zoom with Precision in Minecraft</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-building-free-youtube-intro-videos-for-2024/"><u>[Updated] Step-by-Step Building FREE YouTube Intro Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-insiders-guide-to-instagram-video-engagement-for-2024/"><u>[Updated] The Insider’s Guide to Instagram Video Engagement for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-premiere-guide-to-affordable-open-access-images/"><u>2024 Approved Premiere Guide to Affordable, Open-Access Images</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/creating-martian-cities-that-spin-into-exciting-fun-for-gamers/"><u>Creating Martian Cities That Spin Into Exciting Fun for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/disco-elysium-stable-launch-no-more-issues-on-your-pc/"><u>Disco Elysium Stable Launch: No More Issues On Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-prevention-tips-why-is-samurai-warriors-5-constantly-crashing-on-my-pc/"><u>Fix & Prevention Tips: Why Is Samurai Warriors 5 Constantly Crashing on My PC?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-wrc-10-game-running-without-glitches-on-any-pc-setup-detailed-troubleshooting-guide/"><u>Get Your WRC 10 Game Running Without Glitches on Any PC Setup (Detailed Troubleshooting Guide)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-microsoft-edge-suddenly-closing-issue-in-windows-11-solution-found/"><u>How to Fix Microsoft Edge Suddenly Closing Issue in Windows 11 - Solution Found</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-non-responsive-nvidia-geforce-experience-overlay/"><u>How to Repair Non-Responsive Nvidia GeForce Experience Overlay</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-a56s-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo A56s 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/r-the-craft-essential-filmmaking-advice-from-youtube-pros/"><u>Master the Craft Essential Filmmaking Advice From YouTube Pros</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-game-crashes-effective-ways-to-keep-metro-exodus-running-smoothly-on-windows/"><u>No More Game Crashes: Effective Ways to Keep Metro Exodus Running Smoothly on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-fifa-20s-directx-issues-with-easy-solutions/"><u>Resolving FIFA 20'S DirectX Issues with Easy Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-resolve-halo-infinite-stuttering-problems-on-pc-a-step-by-step-guide-includes-7-fixes/"><u>Troubleshoot and Resolve 'Halo Infinite' Stuttering Problems on PC - A Step-by-Step Guide (Includes 7 Fixes)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-tech-problems-in-tekken-8-pc-edition/"><u>Troubleshooting Guide: Resolving Tech Problems in Tekken 8 PC Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-battlefield-5-stutter-and-latency-issues/"><u>Ultimate Guide to Fixing Battlefield 5 Stutter and Latency Issues</u></a></li>
+</ul></div>
 

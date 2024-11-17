@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2024-11-05T02:13:47.069Z
-updated: 2024-11-06T17:49:24.954Z
+date: 2024-11-13T01:52:05.650Z
+updated: 2024-11-17T02:59:59.235Z
 tags:
   - win11
   - win10
@@ -40,13 +40,46 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -88,13 +121,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
@@ -115,33 +141,19 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
@@ -157,10 +169,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -172,10 +184,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
@@ -208,18 +220,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-limiting-bitrate-overshoot-in-obs/"><u>[New] 2024 Approved Limiting Bitrate Overshoot in OBS</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-tips-for-overcoming-iphone-camera-focusing-glitches/"><u>[New] 2024 Approved Tips for Overcoming iPhone Camera Focusing Glitches</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aining-traction-effective-seo-techniques-for-youtube-videos-for-2024/"><u>[New] Gaining Traction Effective SEO Techniques for YouTube Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-gamification-unleashed-djis-air-vs-spark-duel-revealed-for-2024/"><u>[New] Gamification Unleashed DJI's Air Vs. Spark Duel Revealed for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-enhancing-your-pc-navigation-ultimate-guide-to-improved-file-management-in-windows/"><u>1. Enhancing Your PC Navigation: Ultimate Guide to Improved File Management in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1-revitalizing-microsoft-top-5-strategies-to-bring-back-the-dominance-of-windows/"><u>1. Revitalizing Microsoft: Top 5 Strategies to Bring Back the Dominance of Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y77t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y77t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/outsmarting-oracles-next-level-in-ai-assessment/"><u>Outsmarting Oracles: Next Level in AI Assessment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-mastering-the-art-of-forcibly-ending-unresponsive-programs-in-windows-11/"><u>Ultimate Guide: Mastering the Art of Forcibly Ending Unresponsive Programs in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-windows-11-installation-secrets-startup-success-without-your-microsoft-profile/"><u>Unlocking Windows 11 Installation Secrets: Startup Success Without Your Microsoft Profile</u></a></li>
-<li><a href="https://article-files.techidaily.com/vivid-imagery-a-guide-to-color-adjustment-for-2024/"><u>Vivid Imagery A Guide to Color Adjustment for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/weekly-update-on-iphone-software-enhancements-and-product-recalls/"><u>Weekly Update on iPhone Software Enhancements & Product Recalls</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-magic-best-tools-for-effortless-webm-conversion-for-2024/"><u>YouTube Video Magic Best Tools for Effortless WebM Conversion for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-the-art-of-efficient-workflow-capturing-mac-screens-with-just-shortcuts/"><u>[New] In 2024, Mastering the Art of Efficient Workflow Capturing Mac Screens with Just Shortcuts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-5-applications-efficiently-turning-tiktok-into-a-gif/"><u>[New] In 2024, Top 5 Applications Efficiently Turning TikTok Into a GIF</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-write-dialogue-or-narrative-script/"><u>2024 Approved How to Write Dialogue or Narrative Script</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1726029973699-dvdwindows-10/"><u>DVDの著作権保護を解除してバックアップするフリーソフトで、Windows 10サポート強化</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-canon-pro-100-installation-guide-for-windows-quick-setup-tutorial/"><u>Easy Canon PRO 100 Installation Guide for Windows: Quick Setup Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-stop-your-game-of-doom-eternal-from-keep-on-crashing/"><u>Effective Techniques to Stop Your Game of DOOM Eternal From Keep on Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-patch-fixing-the-persistent-anticheat-failure-problem/"><u>Escape From Tarkov Patch: Fixing the Persistent Anticheat Failure Problem</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-instagrams-visual-storytelling/"><u>In 2024, Mastering the Art of Instagram's Visual Storytelling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-to-boost-your-ubisoft-connect-download-speeds/"><u>Quick Fixes to Boost Your Ubisoft Connect Download Speeds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-remedies-for-improving-your-origins-loading-time-issues/"><u>Quick Remedies for Improving Your Origin's Loading Time Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-mp3-player-reviews-and-picks-guide/"><u>Top Rated MP3 Player Reviews and Picks Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003169530-why-are-my-chrome-pages-not-loading-find-out-and-solve-the-problem-now/"><u>Why Are My Chrome Pages Not Loading? Find Out and Solve the Problem Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-does-rogue-company-keep-freezing-on-your-computer-find-out-here/"><u>Why Does Rogue Company Keep Freezing on Your Computer? Find Out Here!</u></a></li>
 </ul></div>
 

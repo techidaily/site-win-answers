@@ -1,7 +1,7 @@
 ---
 title: "Fixing Disconnects: Handling ‘Lost Server Link’ Problems in Escape From Tarkov Gameplay"
-date: 2024-08-28T00:07:21.425Z
-updated: 2024-08-29T00:07:21.425Z
+date: 2024-11-14T18:28:10.460Z
+updated: 2024-11-16T17:22:03.685Z
 tags:
   - win11
   - win10
@@ -48,6 +48,19 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -56,10 +69,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 2: Reload your private world
 
  Some players have reported that after reloading their private world, they’re able to connect to their friends’ world. Somehow it works for many users on all platforms.  
@@ -72,18 +81,14 @@ The ultimate burning program for all your needs!</a>
 4. Evoke the menu and choose**Save & Quit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable Windows Firewall
@@ -95,11 +100,16 @@ The ultimate burning program for all your needs!</a>
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
@@ -107,8 +117,12 @@ The ultimate burning program for all your needs!</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update the network drivers
 
  Outdated network drivers may cause the “Unable to connect to world” issue. So you can try to update the network driver to fix the problem.
@@ -143,13 +157,20 @@ If this fix can’t help, you can move to the next.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter the “unable to connect to world” issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -158,9 +179,6 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 7: Use a VPN
 
  The “Unable to connect to world” issue may be caused by internet problems. It is possible these situations may interpret your connection to your friends’ world: servers are full, your area has certain restrictions that may affect the connection, etc. Then you can use a VPN service to solve the problem. VPN can bypass geo-restrictions and let you connect with the server in any place in the world directly.
@@ -174,6 +192,13 @@ If this fix can’t help, you can move to the next.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
  If it doesn’t work, you can contact your ISP for more information. Some players reported the ISP would block their ability to use all Minecraft servers. You need to persist and they’ll make a change.
@@ -181,8 +206,12 @@ If this fix can’t help, you can move to the next.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Bonus tips
 
 #### For iPad users
@@ -205,8 +234,6 @@ If this fix can’t help, you can move to the next.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +241,24 @@ If this fix can’t help, you can move to the next.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unveiling-the-secrets-to-verified-instagram-images/"><u>[New] In 2024, Unveiling the Secrets to Verified Instagram Images</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/asting-eradication-strategy-for-youtube-shorts-feature-for-2024/"><u>[New] Lasting Eradication Strategy for YouTube Shorts Feature for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-quick-steps-to-record-movies-on-your-tech-devices/"><u>[Updated] In 2024, Quick Steps to Record Movies on Your Tech Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-snapshot-to-sequence-live-photo-to-video-journey/"><u>[Updated] Snapshot to Sequence Live Photo to Video Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-browser-blues-solving-freezing-issues-with-chrome-in-win10-easily/"><u>Bypass Browser Blues: Solving Freezing Issues with Chrome in Win10 Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-gameplay-interruptions-mastering-the-top-eight-solutions-to-stabilize-dreamlight-valley-on-pc/"><u>Eliminate Gameplay Interruptions: Mastering the Top Eight Solutions to Stabilize Dreamlight Valley on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-graphics-and-speed-in-avatar-frontiers-of-pandora-essential-fixes-for-smoother-play/"><u>Enhance Graphics & Speed in 'Avatar: Frontiers of Pandora': Essential Fixes for Smoother Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-developer-error-5573-while-playing-call-of-duty-mobile-warzone-on-various-platforms/"><u>Expert Advice on Overcoming Developer Error 5573 While Playing Call of Duty: Mobile Warzone on Various Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/gta-not-working-heres-how-to-get-your-online-adventure-back-on-track/"><u>GTA nOt wOrkIng? Here's How to Get Your Online Adventure Back on Track</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-link-sharing-instagram-stories-and-posts/"><u>In 2024, Mastering Link Sharing Instagram Stories & Posts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-video-wins-essential-ideas-for-vloggers/"><u>In 2024, Quick Video Wins Essential Ideas for Vloggers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/los-mejores-convertidores-de-video-h265hevc-opciones-mas-innovadoras-de-2023-para-usuarios-de-windows-mac-y-en-linea/"><u>Los Mejores Convertidores De Video H.265/HEVC: Opciones Más Innovadoras De 2023 Para Usuarios De Windows, Mac Y en Línea</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-zooms-video-problems-5-effective-fixes-you-should-try-now/"><u>Overcoming Zoom's Video Problems: 5 Effective Fixes You Should Try Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-sailing-again-overcoming-persistent-bugs-and-downloads-issues-in-new-world-gameplay-on-pc/"><u>Smooth Sailing Again - Overcoming Persistent Bugs and Downloads Issues in 'New World' Gameplay on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-creating-a-functional-action-button-on-your-android-device/"><u>Step-by-Step Guide: Creating a Functional Action Button on Your Android Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-resolving-frequent-game-interruptions-in-lost-ark-on-desktop-systems/"><u>Understanding and Resolving Frequent Game Interruptions in Lost Ark on Desktop Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-the-potential-of-free-ai-expert-email-composition-via-chatgpt-and-inbox-overview-for-enhanced-productivity/"><u>Unleash the Potential of Free AI: Expert Email Composition via ChatGPT and Inbox Overview for Enhanced Productivity</u></a></li>
+</ul></div>
 

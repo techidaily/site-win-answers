@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Fixing Deathloop's Failure to Start"
-date: 2024-08-28T00:02:33.972Z
-updated: 2024-08-29T00:02:33.972Z
+date: 2024-11-15T10:47:24.950Z
+updated: 2024-11-17T00:19:19.033Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/a373020219ebda0572f7a28e1a91078afa265ccbf
 5. [Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 6. [Change the GPU priority](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart the Steam client
 
  It never hurts to restart your game and verify your game files before heading to other more advanced fixes. Here’s how:
@@ -72,26 +79,17 @@ thumbnail: https://thmb.techidaily.com/a373020219ebda0572f7a28e1a91078afa265ccbf
 
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged graphics / audio driver to automatically download and install the correct driver (You can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![update drivers to fix game issues](https://images.drivereasy.com/wp-content/uploads/2021/09/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer and check whether your problem is solved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable NVIDIA/GoG Overlays
 
  If you’re on GoG and Pathfinder: Wrath of the Righteous won’t launch, the solution is as follow:
@@ -100,26 +98,16 @@ thumbnail: https://thmb.techidaily.com/a373020219ebda0572f7a28e1a91078afa265ccbf
 
 ![GoG settings](https://images.drivereasy.com/wp-content/uploads/2021/09/46e9a5f8532993ddb8e9c46043a41a5e0e77_740xt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  2) Go to**Game Features** and uncheck**Overlay** .
 
 ![turn off gog overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/gog.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you’ve disabled in-game notifications and overlay in GoG. Start your game again to check if**Pathfinder: Wrath of the Righteous not launching** issue persists.
 
@@ -135,16 +123,25 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable.jpeg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  How to disable the GeForce Experience Share in-game overlay
 
  4) Under the**GENERAL** tab, scroll down and toggle**IN-GAME OVERLAY** to **Off** .
 
 ![turn off NVIDIA overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-1200x366.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Close the GeForce Experience window and try starting your game again to test the issue. If your Pathfinder: Wrath of the Righteous is not launching, don’t worry since we have a few fixes for you to try.
 
 ### Fix 4: Modify the Registry
@@ -158,8 +155,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![edit registry](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Go to C**omputer\\HKEY\_CURRENT\_USER\\SOFTWARE\\owlcat** and delete the entire key.
 
  4) Restart your game. Wait for the game to load and don’t alt-tab out.
@@ -178,13 +179,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/09/control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select**Manage 3D Settings** under**3D Settings** .
 
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
  4) Below you will see ‘**Select the preferred graphics processor for this program** ‘. Expand the list and select the dedicated graphics card e.g.**High-performance Nvidia processor** .
@@ -203,8 +215,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +222,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-instasong-rights-guidelines/"><u>[New] In 2024, InstaSong Rights Guidelines</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-sorbet-snapshot-guide-a-thorough-examination-of-screen-recorder/"><u>2024 Approved Sorbet Snapshot Guide A Thorough Examination of Screen Recorder</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-step-by-step-solution-to-prevent-super-people-from-crashing-on-pc-essential-guide/"><u>A Step-by-Step Solution to Prevent Super People From Crashing on PC: Essential Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-v27e-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo V27e in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-guide-getting-your-phasmophobia-vr-experience-back-on-track/"><u>Essential Guide: Getting Your Phasmophobia VR Experience Back on Track</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/exploring-the-sky-satellite-internets-advantages-with-starlink/"><u>Exploring the Sky - Satellite Internet's Advantages with Starlink</u></a></li>
+<li><a href="https://games-able.techidaily.com/guide-ensuring-pc-component-harmony/"><u>Guide: Ensuring PC Component Harmony</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-m14-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy M14 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hurdles-essential-troubleshooting-steps-for-a-smooth-state-of-decay-2/"><u>Overcoming Performance Hurdles: Essential Troubleshooting Steps for a Smooth State of Decay 2</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210170096-9781643346205-reflexiones-sobre-la-naturaleza-y-el-universo/"><u>Reflexiones sobre la naturaleza y el universo | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-freezing-problems-in-total-war-warhammer-ii-a-comprehensive-guide/"><u>Resolving Freezing Problems in Total War: WARHAMMER II – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-up-and-conquer-in-roller-champions-cross-platform-battle-royale-pc-version-2024/"><u>Team Up & Conquer in Roller Champions Cross-Platform Battle Royale [PC Version, 2024]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-engine-issues-with-steelseries-gg-mouse-in-windows/"><u>Troubleshooting Guide: How to Fix Engine Issues with SteelSeries GG Mouse in Windows</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/understanding-dvds-unveiling-copyright-restrictions-and-effective-ripping-techniques/"><u>Understanding DVDs: Unveiling Copyright Restrictions & Effective Ripping Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/valorant-players-unite-overcoming-pc-input-lag-challenges/"><u>Valorant Players Unite! Overcoming PC Input Lag Challenges</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-3-reimagined-fixed-pc-version-no-longer-prone-to-crashes/"><u>Yakuza 3 Reimagined: Fixed PC Version No Longer Prone to Crashes</u></a></li>
+</ul></div>
 

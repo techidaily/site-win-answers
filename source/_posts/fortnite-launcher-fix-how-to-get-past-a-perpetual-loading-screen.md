@@ -1,7 +1,7 @@
 ---
 title: "Fortnite Launcher Fix: How to Get Past a Perpetual Loading Screen"
-date: 2024-10-29T18:09:56.422Z
-updated: 2024-10-31T21:31:08.251Z
+date: 2024-11-13T02:32:29.745Z
+updated: 2024-11-17T06:06:13.027Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/3bea074e02c00367c73eda64c4dc35b2b7531a175
 5. [Run Anthem as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 1: Move your game to another drive
 
  Origin enables players to move games to another drive easily. Coping and pasting your game files and folders doesn’t move your games completely, so you’ll need to do it via Origin.
@@ -53,6 +60,13 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
@@ -69,29 +83,9 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right click**Anthem** , and click**Move game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-927.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) File Explorer pops up and shows you the current drive that Anthem is saved in. Then choose another drive.  
  For instance, Anthem is saved in C drive, then you can move it to any other drive except for C drive.
@@ -101,6 +95,13 @@ Make sure that Anthem is closed and not running in the background.
  6) Re-launch Anthem and see if it can load properly.
 
 All good now? That’s great!
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 2: Repair Anthem in Origin
 
@@ -116,16 +117,16 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-859.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Right click on**Anthem** , and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
@@ -134,10 +135,10 @@ Here’s how to do it:
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 3: Update your drivers
@@ -186,15 +187,22 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart Origin and Anthem to see how it works.
@@ -231,25 +239,11 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Save your changes.
 
@@ -275,22 +269,18 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-tweet-transformation-techniques-for-free-gifs-for-2024/"><u>[New] Tweet Transformation Techniques for Free GIFs for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-start-off-right-top-gear-for-aspiring-gopro-users/"><u>2024 Approved Start Off Right Top Gear for Aspiring GoPro Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/apods-made-simple-the-ultimate-audio-solution/"><u>APods Made Simple The Ultimate Audio Solution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deploying-ai-agents-using-agentgpt-from-a-web-browser-a-comprehensive-guide/"><u>Deploying AI Agents Using AgentGPT From a Web Browser: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-control-woes-in-resident-evil-village-a-guide-for-mouse-troubleshooting/"><u>Fix Your Control Woes in Resident Evil Village: A Guide for Mouse Troubleshooting</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/fixing-network-path-not-found-and-pxe-issues-effective-strategies-for-users/"><u>Fixing 'Network Path Not Found' & PXE Issues: Effective Strategies for Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-logitech-g-hub-issues-troubleshooting-guide-for-windows-users/"><u>Fixing Logitech G Hub Issues: Troubleshooting Guide for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-repairing-steam-cloud-disconnection-errors-successfully/"><u>Guide to Repairing Steam Cloud Disconnection Errors Successfully</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Identify missing drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-xiaomi-14-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Xiaomi 14 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/inside-scoop-the-real-reason-behind-assassins-creed-valhallas-postponed-launch/"><u>Inside Scoop: The Real Reason Behind Assassin's Creed Valhalla's Postponed Launch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-beware-how-to-prevent-the-ascent-from-malfunctioning-and-crashing/"><u>PC Gamers Beware! How to Prevent 'The Ascent' From Malfunctioning and Crashing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/pharmacogenomics-is-becoming-increasingly-important-in-understanding-individual-responses-to-beta-blockers-based-on-genetic-differences-in-drug-metabolism.m8/"><u>Pharmacogenomics Is Becoming Increasingly Important in Understanding Individual Responses to Beta Blockers Based on Genetic Differences in Drug Metabolism.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-game-freezes-effective-solutions-to-prevent-titanfall-2-crashes/"><u>Resolving Game Freezes: Effective Solutions to Prevent Titanfall 2 Crashes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/revealing-the-secrets-behind-tesla-vehicle-range-estimations-and-algorithm-designs/"><u>Revealing the Secrets Behind Tesla Vehicle Range Estimations and Algorithm Designs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-call-of-duty-warzone-launching-issues/"><u>Solution Steps for Call of Duty Warzone Launching Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solutions-proven-effective-for-stabilizing-aow-planetfall-performance-on-pc-systems/"><u>Solutions Proven Effective for Stabilizing AoW Planetfall Performance on PC Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/emystifying-video-profit-on-youtube-for-2024/"><u>[New] Demystifying Video Profit on YouTube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-leverage-youtube-on-instagram-stories-for-maximum-engagement/"><u>[Updated] 2024 Approved Leverage YouTube on Instagram Stories for Maximum Engagement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pinnacle-racing-experiences-best-of-the-best/"><u>[Updated] 2024 Approved Pinnacle Racing Experiences Best of the Best</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-innovative-approaches-to-save-whatsapp-voice-calls/"><u>[Updated] In 2024, Innovative Approaches to Save WhatsApp Voice Calls</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-assassins-creed-revelations-up-and-running-fixes-and-tips-to-resolve-startup-problems/"><u>Get Your Assassin's Creed Revelations Up and Running: Fixes & Tips to Resolve Startup Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-hitman-3-from-freezing-on-your-desktop-proven-methods-and-advice-for-gamers-updated-2n14/"><u>How to Prevent HITMAN 3 From Freezing on Your Desktop: Proven Methods & Advice for Gamers, Updated 2N14</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immortals-adventure-game-unleashed-the-road-from-pending-to-now-available-immortals-fenyx-rising/"><u>Immortals' Adventure Game Unleashed: The Road From Pending to Now-Available Immortal's Fenyx Rising</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-gta-v-performance-resolving-the-errgfxd3dinit-graphic-error-on-your-pc/"><u>Mastering GTA V Performance: Resolving the ERR_GFX_D3D_Init Graphic Error on Your PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnacle-5-frame-timelapse-recorder-for-2024/"><u>Pinnacle 5-Frame Timelapse Recorder for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96489584-9781578594061-real-nightmares-book-3/"><u>Real Nightmares (Book 3) | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stalls-in-pathfinder-wrath-of-the-righteous-for-windows-gaming-experience/"><u>Resolving Stalls in Pathfinder: Wrath of the Righteous for Windows Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-fixes-for-preventing-biomutant-from-crashing-on-your-computer/"><u>Top Fixes for Preventing Biomutant From Crashing on Your Computer</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-windows-10-essentials-top-10-free-video-compression-software-for-2024/"><u>Updated Windows 10 Essentials Top 10 Free Video Compression Software for 2024</u></a></li>
 </ul></div>
 

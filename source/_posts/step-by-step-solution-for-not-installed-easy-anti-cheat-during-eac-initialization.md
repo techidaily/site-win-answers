@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for 'Not Installed' Easy Anti-Cheat During EAC Initialization
-date: 2024-11-05T06:27:16.931Z
-updated: 2024-11-06T16:19:47.633Z
+date: 2024-11-11T13:17:35.326Z
+updated: 2024-11-16T22:40:49.717Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 5. **[Reinstall Fortnite](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Bonus tips: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  Some programs running in your computer may conflict with Fortnite or Epic Games Launcher, causing this problem for you. You can try rebooting your computer to turn off unwanted programs, then relaunch Fortnite again to test your issue.
@@ -42,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 If Fortnite still fails, don’t worry. Try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Clear the Binaries folder
@@ -55,13 +62,6 @@ If Fortnite still fails, don’t worry. Try the fix, below.
 **1)** On your keyboard, press the **Windows logo** **key**  and **E** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-03-47.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Type**C:\\Program Files\\Epic Games\\Fortnite\\FortniteGame** in the address bar and press **Enter**  on your keyboard.
 
@@ -85,16 +85,16 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click**VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-28.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This process could take several minutes. Please wait for it to be complete. Then, try launching Fortnite to test your problem. If you still get the error message, don’t worry! There are still 2 fixes to try.
 
@@ -106,27 +106,20 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type**easyanticheat** in the search box and press **Enter**  on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-04-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click **Repair Service** .
 
@@ -134,14 +127,20 @@ If you still can’t open Fortnite, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-17.jpg)
 
- After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After the process is complete, relaunch your game to check if your problem has been resolved. If not, read on and try the fix, below.
 
 ### Fix 5: Reinstall Fortnite
 
@@ -152,6 +151,13 @@ If you still can’t open Fortnite, move on and try the next fix.
 **2)**  Click **Library** and then click the **Settings**  button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-02_12-05-42.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click **UNINSTALL.**
 
@@ -164,6 +170,13 @@ If you still can’t open Fortnite, move on and try the next fix.
 ---
 
  Do you know that simply updating the graphics driver can fix many common game issues such as game lags or crashes? Check the Bonus tip below to see how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: Update your graphics driver
 
@@ -180,19 +193,6 @@ OR
  Epson keeps updating drivers. To get them, you need to go to your graphics product manufacturer’s website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update** your graphics driver
 
@@ -236,14 +236,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-the-essence-of-luts-mastering-photo-color-dynamics/"><u>[New] 2024 Approved The Essence of LUTs Mastering Photo Color Dynamics</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-fusing-images-online-and-desktop-harmoniously/"><u>[New] Fusing Images Online & Desktop Harmoniously</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-best-funny-fictional-frequencies/"><u>[Updated] In 2024, The Best Funny Fictional Frequencies</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-reddit-experts-briefly-meet-at-snapchat/"><u>In 2024, Reddit Experts Briefly Meet at Snapchat</u></a></li>
-<li><a href="https://win-answers.techidaily.com/integrating-qr-codes-into-microsofts-windows-startup-interface/"><u>Integrating QR Codes Into Microsoft's Windows Startup Interface</u></a></li>
-<li><a href="https://win-answers.techidaily.com/introducing-the-arc-browser-a-stunning-new-competitor-to-chrome-for-windows-users/"><u>Introducing the Arc Browser: A Stunning New Competitor to Chrome for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-ipv6-related-security-flaw-affects-windows-desktop-computers/"><u>Latest IPv6-Related Security Flaw Affects Windows Desktop Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lenovo-ideapad-3-15-inch-i7-gtx-1660-ti-in-depth-analysis-of-an-affordable-powerhouse-for-gamers/"><u>Lenovo IdeaPad 3 15-Inch (I7, GTX 1660 Ti) - In-Depth Analysis of an Affordable Powerhouse for Gamers</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/master-the-art-of-mac-hard-drive-security-encryption-decryption-and-retrieval-techniques/"><u>Master the Art of MAC Hard Drive Security: Encryption, Decryption, and Retrieval Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-disclosure-on-the-t5-cameras-action-features/"><u>[New] Full Disclosure on the T5 Camera's Action Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-spectrum-mastery-in-depth-color-techniques/"><u>[New] Spectrum Mastery In-Depth Color Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-6-must-visit-destinations-for-top-notch-youtube-branding-elements/"><u>[Updated] 2024 Approved 6 Must-Visit Destinations For Top-Notch YouTube Branding Elements</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-a-detailed-guide-to-extract-and-save-audio-from-popular-video-sharing-sites/"><u>[Updated] 2024 Approved A Detailed Guide to Extract and Save Audio From Popular Video Sharing Sites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-5-gif-making-software-with-the-highest-ratings/"><u>[Updated] Top 5 GIF Making Software with the Highest Ratings</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-unlocking-full-potential-in-zoom-screensharing/"><u>2024 Approved Unlocking Full Potential in Zoom Screensharing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-startup-problems-in-hogwarts-legacy-master-these-8-key-strategies-now/"><u>Beat Startup Problems in Hogwarts Legacy: Master These 8 Key Strategies Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-solutions-to-eliminate-assassins-creed-valhalla-lag-issues-quickly/"><u>Fast Solutions to Eliminate Assassins Creed: Valhalla Lag Issues Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-resolved-why-is-r-type-final-2-unstablecrashes-on-windows/"><u>Fix: [RESOLVED] Why Is R-Type Final 2 Unstable/Crashes on Windows?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-hearts-of-iron-4-malfunctions-proven-methods-and-fixes-for-enthusiasts/"><u>Fixing Hearts of Iron 4 Malfunctions: Proven Methods and Fixes for Enthusiasts</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-conversion-tool-from-pbmeps-to-bmp-movavi/"><u>Free Online Conversion Tool: From PBM/EPS to BMP - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-and-restore-windows-11-taskbar-functionality-a-step-by-step-guide/"><u>How to Repair and Restore Windows 11 Taskbar Functionality: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Realme 12 5G Phone with Broken Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-samsung-galaxy-a14-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Samsung Galaxy A14 5G Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-ubisoft-connect-challenges-a-comprehensive-guide-for-gamers/"><u>Overcoming Ubisoft Connect Challenges: A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/robofixers-ultimate-list-of-quick-remedies-to-stop-your-pc-from-roblox-collapses/"><u>RoboFixer's Ultimate List of Quick Remedies to Stop Your PC From Roblox Collapses !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolve-apex-legends-notorious-leaf-error/"><u>Troubleshooting Tips - Resolve Apex Legends' Notorious 'Leaf' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-correcting-error-code-4128-in-call-of-duty-world-at-war-ii/"><u>Understanding and Correcting Error Code 4128 in Call of Duty World at War II</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/visual-storytelling-with-immersive-titles-in-ae-for-2024/"><u>Visual Storytelling with Immersive Titles in AE for 2024</u></a></li>
 </ul></div>
 

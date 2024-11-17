@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop 'Days Gone' From Crashing on Your PC"
-date: 2024-11-03T20:42:10.857Z
-updated: 2024-11-06T23:24:51.004Z
+date: 2024-11-12T18:35:44.437Z
+updated: 2024-11-17T13:04:52.922Z
 tags:
   - win11
   - win10
@@ -75,13 +75,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
  If **_HOI4_**  still crashes after the reboot, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: **Run your game as an Administrator**
 
  The_Hearts of Irons_ crashing issue might happen when the game fails to access certain game files or folders under standard user mode.
@@ -98,16 +91,16 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
 If your problem still exists, then move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:**Disable fullscreen optimization**
 
@@ -154,19 +147,6 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -197,6 +177,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
 
 ### Fix 7: Change your PC power settings
@@ -211,13 +198,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
@@ -226,7 +206,33 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: **Check for Windows Updates**
 
@@ -236,6 +242,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
@@ -243,6 +256,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or Steam
 
@@ -258,13 +278,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
@@ -286,23 +299,9 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -312,22 +311,29 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
@@ -358,24 +364,20 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>[New] 2024 Approved Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-exploring-the-dynamics-of-profit-distribution-in-video-shorts/"><u>[New] 2024 Approved Exploring the Dynamics of Profit Distribution in Video Shorts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-path-to-exceptional-editing-with-kinemaster-for-2024/"><u>[New] The Path to Exceptional Editing with Kinemaster for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-youtube-storytelling-techniques-that-work/"><u>[Updated] 2024 Approved 10 YouTube Storytelling Techniques That Work</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-taking-the-first-steps-towards-vr-technology-mobile-based-headsets-vs-cabled-gear/"><u>2024 Approved Taking the First Steps Towards VR Technology Mobile-Based Headsets Vs. Cabled Gear</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-tidy-up-your-pictures-top-10-online-unblur-tools/"><u>2024 Approved Tidy Up Your Pictures Top 10 Online Unblur Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unifying-your-digital-storytelling-via-merged-youtube-media/"><u>2024 Approved Unifying Your Digital Storytelling via Merged YouTube Media</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011061454-battlefield-5-pc-stability-guide-solve-your-game-crash-problems/"><u>Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-the-airwaves-a-beginners-internet-radio-guide/"><u>Capture the Airwaves A Beginner's Internet Radio Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-cpu-overload-solutions-effective-fixes-for-optimal-performance/"><u>Discord CPU Overload Solutions: Effective Fixes for Optimal Performance</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-securely-download-and-install-the-driver-for-your-hp-laserjet-pro-m402n-on-windows-1087/"><u>How To: Securely Download & Install the Driver for Your HP LaserJet Pro M402n on Windows 10/8/7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-unfreezing-deathloop-essential-tips-for-a-seamless-experience-on-pc-and-ps5/"><u>Master the Art of Unfreezing Deathloop: Essential Tips for a Seamless Experience on PC and PS5</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-stability-how-to-stop-slime-rancher-2-from-unexpectedly-crashing-on-personal-computers/"><u>Optimizing Stability: How to Stop Slime Rancher 2 From Unexpectedly Crashing on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/six-easy-fixes-to-stop-your-minecraft-game-from-continuously-crashing/"><u>Six Easy Fixes to Stop Your Minecraft Game From Continuously Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-gaming-overcoming-pc-issues-with-call-of-duty-black-ops-cold-war-latest-update/"><u>Trouble-Free Gaming: Overcoming PC Issues with Call of Duty: Black Ops Cold War (Latest Update)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-high-cpu-use-on-google-chrome-solutions-unveiled/"><u>Troubleshooting and Fixing High CPU Use on Google Chrome - Solutions Unveiled!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-for-league-of-legends-startup-problems/"><u>Ultimate Troubleshooting Guide for League of Legends Startup Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/warzone-troubles-mastering-fps-increase-and-stutter-elimination-techniques-for-gamers/"><u>Warzone Troubles? Mastering FPS Increase and Stutter Elimination Techniques for Gamers</u></a></li>
-<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-8-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 8 Plus?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-alives-low-residue-sound-technique/"><u>[New] 2024 Approved Alive's Low-Residue Sound Technique</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-cultivating-a-community-building-followers-on-youtube-without-spending/"><u>[New] In 2024, Cultivating a Community Building Followers on YouTube Without Spending</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-your-favorite-podcasts-and-videos-anytime-on-the-go-with-these-tools/"><u>[New] In 2024, Get Your Favorite Podcasts & Videos Anytime, On-the-Go, With These Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly-for-2024/"><u>[Updated] Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/videosiso-windows/"><u>「VIDEO_S」をISOファイルにしよう! - 使いやすいWindowsマニュアル</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994977784-assassins-creed-valhalla-solved-pc-performance-problems-for-seamless-adventures/"><u>Assassin's Creed: Valhalla - Solved PC Performance Problems for Seamless Adventures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solutions-to-overcome-civ-6s-critical-access-denial-error-in-the-upcoming-release-cycle/"><u>Comprehensive Solutions to Overcome CIV 6'S Critical Access Denial Error in the Upcoming Release Cycle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experience-seamless-gameplay-with-resolved-pathfinder-wrath-of-the-righteus-on-your-computer/"><u>Experience Seamless Gameplay with Resolved Pathfinder: Wrath of the Righteus on Your Computer!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-linear-calibration-in-excel-a-comprehensive-tutorial/"><u>Mastering Linear Calibration in Excel: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-savants-a-comprehensive-guide-to-hd-recorders-for-2024/"><u>Screen Savants A Comprehensive Guide to HD Recorders for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selecting-optimal-gopro-protection-top-10-selections-for-2024/"><u>Selecting Optimal GoPro Protection - Top 10 Selections for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-resolve-chrome-hitches-in-windows-11-expert-advice-needed/"><u>Troubleshoot and Resolve Chrome Hitches in Windows 11 – Expert Advice Needed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-pc-issues-with-tower-of-fantasy-game/"><u>Troubleshooting Persistent PC Issues with Tower of Fantasy Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-elite-dangerous-from-crashing-on-windows-or-mac-os/"><u>Troubleshooting Tips: Stop Elite Dangerous From Crashing on Windows or Mac OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-for-helldivers-2-crashing-issues-on-your-computer/"><u>Ultimate Fix Guide for Helldivers 2 Crashing Issues on Your Computer</u></a></li>
 </ul></div>
 

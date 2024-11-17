@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Internet Explorer Not Responding' Errors"
-date: 2024-11-04T00:31:11.737Z
-updated: 2024-11-06T19:22:28.044Z
+date: 2024-11-12T19:17:50.984Z
+updated: 2024-11-17T03:26:08.994Z
 tags:
   - win11
   - win10
@@ -57,6 +57,19 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 | **Storage**          | 20 GB available space                                                                                          | 20 GB available space                                                                                          |
 | **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Close background programs
 
  Naraka: Bladepoint is likely to crash when too many programs are running in the background and taking up all the resources. You can shut down the background programs via Task Manager:
@@ -66,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
 
@@ -80,6 +100,13 @@ If this doesn’t solve your problem, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -101,13 +128,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **On Epic Games** :
 
 1. Open your library and find Naraka: Bladepoint. Click the**three-dot icon** next to the game title.
@@ -127,16 +147,16 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -149,22 +169,8 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
@@ -179,26 +185,12 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
 _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 3. If you don’t know how much RAM you have, press the**Windows key** and**R** to invoke the Run box. Then type in**msinfo32** and click**OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
@@ -221,10 +213,10 @@ If your game still crashes, try the next fix.
 4. Restart your PC to let it take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
@@ -241,15 +233,15 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
@@ -266,6 +258,13 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
@@ -279,6 +278,13 @@ If this doesn’t solve your problem, try the last fix.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
@@ -314,22 +320,18 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-breathe-easy-with-knowledge-of-asmr-advantages/"><u>[New] Breathe Easy with Knowledge of ASMR Advantages</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mastering-low-light-photos-on-ios-11/"><u>[New] In 2024, Mastering Low-Light Photos on iOS 11</u></a></li>
-<li><a href="https://os-tips.techidaily.com/lost-contacts-found-effective-strategies-for-retrieving-information-after-ios-enhancements-or-unlocking/"><u>Lost Contacts Found: Effective Strategies for Retrieving Information After iOS Enhancements or Unlocking</u></a></li>
-<li><a href="https://fox-links.techidaily.com/motivational-cinema-the-ultimate-guide-to-empowerment-films-for-2024/"><u>Motivational Cinema The Ultimate Guide to Empowerment Films for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-video-game-best-mac-video-editing-apps/"><u>New In 2024, Elevate Your Video Game Best Mac Video Editing Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/no-app-needed-watch-fifas-premier-event-live-on-iphones-and-ipads/"><u>No App Needed: Watch FIFA's Premier Event Live on iPhones & iPads</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/optimize-creativity-write-automatically/"><u>Optimize Creativity: Write Automatically</u></a></li>
-<li><a href="https://win-answers.techidaily.com/protect-your-data-effective-strategies-against-onedrive-vulnerabilities/"><u>Protect Your Data: Effective Strategies Against OneDrive Vulnerabilities</u></a></li>
-<li><a href="https://win-answers.techidaily.com/random-shutdowns-on-your-windows-machine-here-are-8-common-reasons-and-fixes/"><u>Random Shutdowns on Your Windows Machine? Here Are 8 Common Reasons and Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revolutionize-your-streaming-experience-with-microsoft-edges-new-live-ai-video-translation-feature/"><u>Revolutionize Your Streaming Experience with Microsoft Edge's New Live AI Video Translation Feature</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectral-revelations-drone-cams-overview-for-2024/"><u>Spectral Revelations Drone Cams Overview for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-upgrading-your-pcs-ram-in-windows/"><u>Step-by-Step Guide to Upgrading Your PC's RAM in Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-restoring-network-functionality-for-lan-cards-on-microsofts-latest-operating-system/"><u>Step-by-Step Guide: Restoring Network Functionality for LAN Cards on Microsoft's Latest Operating System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-persistence-of-windows-11s-show-desktop-feature-no-replacement-in-sight/"><u>The Persistence of Windows 11'S Show Desktop Feature: No Replacement in Sight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-10-essential-command-line-tricks-for-windows-power-users/"><u>Top 10 Essential Command-Line Tricks for Windows Power Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-6-windows-11-applications-enhancing-remote-work-efficiency/"><u>Top 6 Windows 11 Applications Enhancing Remote Work Efficiency</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-printer-setup-the-windows-way/"><u>Understanding Printer Setup: The Windows Way</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bite-sized-content-on-youtube/"><u>[New] 2024 Approved Bite-Sized Content on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-dive-into-time-lapse-with-advanced-canon-tactics/"><u>[New] In 2024, Dive Into Time-Lapse with Advanced Canon Tactics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-discord-stream-stuck-on-loading/"><u>[SOLVED] Discord Stream Stuck on Loading</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-improve-zoo-audio-integrity-in-online-communication/"><u>[Updated] Improve Zoo Audio Integrity in Online Communication</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-aspect-modification-at-your-fingertips-online/"><u>2024 Approved Aspect Modification at Your Fingertips Online</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>2024 Approved Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-final-cut-pro-x-a-guide-to-instagrams-vertical-preference/"><u>2024 Approved Final Cut Pro X A Guide to Instagram’s Vertical Preference</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-prophecy-powers-how-does-chatgpt-stack-up-against-magazine-astrology/"><u>Comparing Prophecy Powers: How Does ChatGPT Stack Up Against Magazine Astrology?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722986329852-effortlessly-fix-your-fortnite-sign-in-problems-solutions-inside/"><u>Effortlessly Fix Your Fortnite Sign-In Problems - Solutions Inside!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 7? | Stellar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-delays-in-outriders-discover-our-fixes-for-seamless-gaming/"><u>No More Delays in [Outriders]: Discover Our Fixes for Seamless Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-fifa-20-directx-compatibility-issue/"><u>Resolved: Fixing the FIFA 20 DirectX Compatibility Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-video-playback-issues-on-youtube/"><u>Ultimate Guide: Resolving Video Playback Issues on YouTube</u></a></li>
 </ul></div>
 

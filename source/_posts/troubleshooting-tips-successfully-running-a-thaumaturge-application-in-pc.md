@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips - Successfully Running a Thaumaturge Application in PC
-date: 2024-10-31T22:38:14.480Z
-updated: 2024-11-07T04:44:24.384Z
+date: 2024-11-11T20:54:36.054Z
+updated: 2024-11-16T23:35:25.533Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
@@ -58,16 +65,16 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) In the pop-up window, delete the**Origin**  folder.
 
@@ -82,10 +89,10 @@ thumbnail: https://thmb.techidaily.com/48bbf816680af2439ef36580a7c2fe3c4155339da
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Delete the**Origin**  folder in the **Local** folder.
@@ -130,33 +137,12 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
@@ -185,13 +171,6 @@ Or
 * **Run this program as an administrator:**  If Origin is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
@@ -225,9 +204,23 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to the**System Configuration** window and click **OK** .
 
@@ -237,31 +230,11 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Install the latest Windows updates**
 
@@ -271,9 +244,23 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Restart your PC when the Windows update process completed.
 
@@ -301,6 +288,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 iv. Restart your Windows system when it is completed.
 
  2) **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
@@ -327,22 +321,22 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-from-bright-to-deep-premiere-pro-magic/"><u>[New] From Bright to Deep Premiere Pro Magic</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-av1-unveiled-for-the-curious-novice/"><u>[Updated] AV1 Unveiled For the Curious Novice</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-how-to-make-the-most-out-of-spotifys-advertising-features/"><u>2024 Approved How to Make the Most Out of Spotify's Advertising Features</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-high-quality-videos-youtubes-enhancement-secrets-revealed/"><u>2024 Approved Unlocking High-Quality Videos YouTube's Enhancement Secrets Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/code-cracked-how-to-solve-cod-black-ops-cold-wars-error-code-80070057-easily/"><u>Code Cracked! How to Solve Cod: Black Ops Cold War's Error Code 80070057 Easily</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ion-decoded-a-guide-to-editing-youtube-videos-for-2024/"><u>Duration Decoded A Guide to Editing YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-game-not-loading-verify-save-files-and-get-back-in-action/"><u>Fix 'Game Not Loading': Verify Save Files & Get Back in Action</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-resolving-persistent-crashes-of-overwatch-2-on-pc-gaming-systems/"><u>Guide to Resolving Persistent Crashes of Overwatch 2 on PC Gaming Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-note-30-vip-racing-edition-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Note 30 VIP Racing Edition Without PUK Codes</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-thanks-for-watching-outro-templates-free-and-paid/"><u>In 2024, Thanks For Watching Outro Templates (Free & Paid)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-disruptions-expert-advice-on-preventing-state-of-decay-2-crashes/"><u>No More Disruptions: Expert Advice on Preventing State of Decay 2 Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-borders-of-lanthanas-iii-lagging-issues-step-by-step-solution/"><u>Resolving Borders of Lanthanas III Lagging Issues – Step-by-Step Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-problems-with-logitech-g-hub-on-a-windows-machine-a-step-by-step-guide/"><u>Resolving Problems With Logitech G Hub on a Windows Machine – A Step-By-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-solving-nvidia-connection-failure-errors/"><u>Troubleshooting Guide for Solving 'NVIDIA Connection Failure' Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tactics-for-unfreezing-borderlands-3-a-step-by-step-solution-path/"><u>Troubleshooting Tactics for Unfreezing Borderlands 3: A Step-by-Step Solution Path</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-oppo-reno-9a-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Oppo Reno 9A Phone Network-Ready</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixed-among-us-stuck-on-loading-screen/"><u>[Fixed] Among Us Stuck on Loading Screen</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[Updated] In 2024, From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-path-to-pinpointing-your-liked-content-on-facebook/"><u>[Updated] In 2024, The Path to Pinpointing Your Liked Content on Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-key-to-viral-posts-on-instagram-unveiled-for-2024/"><u>[Updated] The Key to Viral Posts on Instagram Unveiled for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-how-to-find-and-verify-the-java-installed-version-in-windows-10/"><u>Discover How to Find and Verify the Java Installed Version in Windows 10</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhance-deskjet-hp-print-efficiency-on-win11/"><u>Enhance Deskjet HP Print Efficiency on Win11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/evaluating-mr-beasts-monetary-world/"><u>Evaluating Mr. Beast's Monetary World</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/hidden-treasure-of-free-macos-transcription-tools/"><u>Hidden Treasure of Free macOS Transcription Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-adobe-premiere-pro-from-crashing-on-your-windows-1110-machine-solutions-applied/"><u>How to Stop Adobe Premiere Pro From Crashing on Your Windows 11/10 Machine - Solutions Applied!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-computer-from-freezing-in-counter-strike-2-cs2-latest-troubleshooting-tips/"><u>How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-your-sales-opening-plans/"><u>In 2024, Boost Your Sales Opening Plans</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nubia-z50-ultra-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Nubia Z50 Ultra Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-game-glitch-unraveling-the-mystery-of-consecutive-system-failures/"><u>PC Game Glitch: Unraveling the Mystery of Consecutive System Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steady-gameplay-solutions-resolving-immortals-of-fenyx-risings-frequent-interruptions/"><u>Steady Gameplay Solutions: Resolving Immortals of Fenyx Rising's Frequent Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tekken-8-wont-open-pc-setup-fixes-for-successful-game-start-up/"><u>Tekken 8 Won't Open? PC Setup Fixes for Successful Game Start-Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcoming-the-application-failed-in-adobe-error-0xc0000022/"><u>Troubleshooting Guide: Overcoming 'The Application Failed' In Adobe - Error 0xC0000022</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-solving-pandoras-avatar-lag-issues-in-frontier/"><u>Troubleshooting Techniques for Solving Pandora's Avatar Lag Issues in Frontier</u></a></li>
 </ul></div>
 

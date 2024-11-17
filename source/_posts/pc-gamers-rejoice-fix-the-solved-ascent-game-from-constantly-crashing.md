@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Rejoice: Fix the [SOLVED] Ascent Game From Constantly Crashing"
-date: 2024-10-25T11:27:01.818Z
-updated: 2024-11-01T03:33:20.806Z
+date: 2024-11-11T11:51:14.663Z
+updated: 2024-11-17T03:01:58.357Z
 tags:
   - win11
   - win10
@@ -67,25 +67,18 @@ Century: Age of Ashes system requirements
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Century: Age of Ashes after the verifying process is complete. See if the game crashes again. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -105,16 +98,16 @@ Century: Age of Ashes system requirements
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -123,6 +116,13 @@ Century: Age of Ashes system requirements
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Century: Age of Ashes again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -133,19 +133,6 @@ Century: Age of Ashes system requirements
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Century: Age of Ashes_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
@@ -174,6 +161,19 @@ Century: Age of Ashes system requirements
 
 If this fix didn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Repair corrupted system files
 
  Windows system file corruption sometimes will also lead to the game crashing issues. If you’ve played PC games for a long time, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -197,10 +197,10 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day money-back guarantee, which means that you’ll need to buy the full version to start repairing.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -211,6 +211,19 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
@@ -218,21 +231,14 @@ If this fix didn’t work, try the next fix, below.
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -272,18 +278,22 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-minecraft-the-best-practices-to-record-gameplay-for-2024/"><u>[New] Mastering Minecraft The Best Practices to Record Gameplay for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-navigating-new-horizons-in-video-player-software/"><u>2024 Approved Navigating New Horizons in Video Player Software</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/free-subtitles-and-downloader-guide/"><u>Best Free Subtitles & Downloader Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-resolving-ark-platform-malfunctions/"><u>Comprehensive Guide to Resolving ARK Platform Malfunctions</u></a></li>
-<li><a href="https://windows11.techidaily.com/enabling-secure-browsing-with-windows-10s-safeguard/"><u>Enabling Secure Browsing with Windows 10’S SafeGuard</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722962459322-get-the-right-lenovo-t430-drivers-for-your-windows-1087-system-fast-and-effortless/"><u>Get the Right Lenovo T430 Drivers for Your Windows 10/8/7 System – Fast & Effortless</u></a></li>
-<li><a href="https://facebook.techidaily.com/internet-outlawed-3-countries-excluded-from-facebook/"><u>Internet Outlawed: 3 Countries Excluded From Facebook</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/optimize-your-day-smart-use-of-chatgpt-for-superior-time-management/"><u>Optimize Your Day: Smart Use of ChatGPT for Superior Time Management</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009725614-quick-solution-guides-stop-origin-from-crashing-now/"><u>Quick Solution Guides - Stop ‘Origin’ From Crashing Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-for-star-wars-jedi-fallen-order-initialization-issue/"><u>Solution Found for Star Wars Jedi: Fallen Order Initialization Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-why-minecraft-says-unable-to-connect-and-what-to-do-about-it/"><u>Solution Guide: Why Minecraft Says 'Unable to Connect' And What to Do About It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-cold-war-gets-stuck-during-load-on-all-platforms/"><u>Troubleshooting Steps When Cold War Gets Stuck During Load on All Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-truthgpt-coin-an-in-depth-look-at-its-legitimacy/"><u>Unveiling TruthGPT Coin: An In-Depth Look at Its Legitimacy</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-comedy-crusade-youtubes-hottest-laughter-leaders/"><u>[New] 2024 Approved Comedy Crusade YouTube's Hottest Laughter Leaders</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expand-your-creative-toolkit-incorporating-custom-fonts-into-after-effects/"><u>[New] Expand Your Creative Toolkit Incorporating Custom Fonts Into After Effects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-tips-6-advanced-strategies-for-gif-artistry/"><u>[Updated] Expert Tips 6 Advanced Strategies for GIF Artistry</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-expert-tips-for-crafting-immersive-soundscapes-in-youtube-for-2024/"><u>[Updated] Expert Tips for Crafting Immersive Soundscapes in YouTube for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/aomei-fonebackup-nahtlos-daten-von-iphones-und-ipads-uber-whatsapp-ubertragen/"><u>AOMEI FoneBackup - Nahtlos Daten Von iPhones Und iPads Über WhatsApp Übertragen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996111708-digitalis-glycosides-increase-intracellular-calcium-and-strengthen-cardiac-contractions-but-are-toxic-in-high-doses/"><u>Digitalis Glycosides Increase Intracellular Calcium and Strengthen Cardiac Contractions but Are Toxic in High Doses</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007349963-enhance-gameplay-in-forza-horizon-5-with-the-latest-graphics-card-driver-updates/"><u>Enhance Gameplay in Forza Horizon 5 with the Latest Graphics Card Driver Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-solutions-to-persistent-issues-and-bugs-in-persona-4-golden/"><u>Expert Solutions to Persistent Issues & Bugs in Persona 4 Golden</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-best-youtube-video-ideas-to-spark-inspiration/"><u>In 2024, Best YouTube Video Ideas to Spark Inspiration</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-8-plus-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 8 Plus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-cs2-playability-how-to-combat-fps-dips-and-stutter-for-a-fluid-experience/"><u>Mastering CS2 Playability: How to Combat FPS Dips and Stutter for a Fluid Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-gpu-performance-for-warzone-on-windows-11-fixed/"><u>Optimizing GPU Performance for Warzone on Windows 11 - Fixed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rapid-conversion-of-drm-protected-itunes-movie-files-from-m4v-to-mp4-format/"><u>Rapid Conversion of DRM-Protected iTunes Movie Files From M4V to MP4 Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-black-screen-issue-when-starting-overwatch-a-comprehensive-guide/"><u>Resolving the 'Black Screen' Issue When Starting Overwatch - A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reviving-the-stopped-netflix-app-in-windows/"><u>Reviving the Stopped Netflix App in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-how-to-successfully-address-game-crash-issues/"><u>Total War: WARHAMMER II - How To Successfully Address Game Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-preventing-frequent-crashes-in-minecraft-dungeons-for-windows-users/"><u>Troubleshooting Tips: Preventing Frequent Crashes in Minecraft Dungeons for Windows Users</u></a></li>
 </ul></div>
 

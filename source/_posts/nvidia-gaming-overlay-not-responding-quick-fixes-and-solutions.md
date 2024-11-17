@@ -1,7 +1,7 @@
 ---
 title: NVIDIA Gaming Overlay Not Responding - Quick Fixes and Solutions
-date: 2024-08-28T00:03:08.073Z
-updated: 2024-08-29T00:03:08.073Z
+date: 2024-11-14T03:45:40.668Z
+updated: 2024-11-16T18:13:01.913Z
 tags:
   - win11
   - win10
@@ -48,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -58,14 +62,17 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
@@ -73,8 +80,12 @@ thumbnail: https://thmb.techidaily.com/a8b16314a41e8185a53e16911a8cd83652896b677
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -87,9 +98,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -106,6 +114,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -117,11 +132,28 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
@@ -155,20 +187,10 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -182,8 +204,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +211,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-stabilizing-high-flying-camera-work-a-guide/"><u>[New] 2024 Approved Stabilizing High-Flying Camera Work A Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-find-your-perfect-match-with-these-best-5-iphone-pods-for-2024/"><u>[New] Find Your Perfect Match with These Best 5 iPhone Pods for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-clear-video-soundtracks-free-vs-licensed-software-guide/"><u>[Updated] Clear Video Soundtracks Free Vs. Licensed Software Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-watch-facebook-videos-on-my-apple-tv/"><u>[Updated] In 2024, How to Watch Facebook Videos on My Apple TV?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/avi-m4v-movavi/"><u>自由下載 AVI 到 M4V: 利用 Movavi 優化影片格式 - 在線無限制</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-no-user-logon-error-in-counter-strike-go-using-these-5-fixes/"><u>Beat 'No User Logon' Error in Counter-Strike GO Using These 5 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-camera-malfunction-solved-easy-fixes-for-video-chat-troubles/"><u>Discord Camera Malfunction Solved - Easy Fixes for Video Chat Troubles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/far-cry-6-pc-stability-issues-resolved-top-troubleshooting-tips/"><u>Far Cry 6 PC Stability Issues Resolved: Top Troubleshooting Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-intel-centrino-n-6205-wifi-drivers-no-cost-installation-guide/"><u>Get the Latest: Intel Centrino N 6205 WiFi Drivers – No Cost Installation Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-infinite-cannot-reach-servers-heres-how-to-resolve-the-no-ping-detection-mistake/"><u>Halo Infinite Cannot Reach Servers? Here's How to Resolve the No Ping Detection Mistake</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-it-vivo-s17e-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo S17e Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-xs-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone XS Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-13-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 13</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-meizu-21-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Meizu 21 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-the-persistent-leaf-code-issue-in-apex-legends/"><u>Mastering the Fix for the Persistent 'Leaf' Code Issue in Apex Legends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-swtor-initialization-errors-for-a-seamless-galactic-experience/"><u>Overcoming SWTOR Initialization Errors for a Seamless Galactic Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-phasmophobias-persistent-90-loading-issue-a-step-by-step-guide/"><u>Resolving Phasmophobia's Persistent 90% Loading Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002456031-screen-capture-triumph-with-obs-no-recording-errors-here/"><u>Screen Capture Triumph with OBS – No Recording Errors Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-regaining-access-to-the-destiny-2-servers/"><u>Troubleshooting Guide: Regaining Access to the Destiny 2 Servers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: How to Stop Outriders From Continuously Crashing"
-date: 2024-10-27T19:45:24.415Z
-updated: 2024-11-01T01:05:20.227Z
+date: 2024-11-15T19:52:04.912Z
+updated: 2024-11-17T08:41:38.471Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -55,10 +62,10 @@ The outdated or broken graphics driver often crashes the game.
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -66,10 +73,10 @@ The outdated or broken graphics driver often crashes the game.
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
@@ -83,10 +90,10 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
@@ -109,14 +116,14 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
@@ -128,13 +135,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -170,22 +170,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-notch-game-capture-applications-outshining-fbx-capabilities/"><u>[New] Top-Notch Game Capture Applications Outshining FBX Capabilities</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-premier-selection-of-vr-cycling-options/"><u>[Updated] 2024 Approved The Premier Selection of VR Cycling Options</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/budget-friendly-holy-stone-hs170-predator-rc-helicopter-a-comprehensive-review-for-enthusiasts/"><u>Budget-Friendly Holy Stone HS170 Predator RC Helicopter: A Comprehensive Review for Enthusiasts</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elevate-presentations-harnessing-aiseesoft-screen-recordings-for-2024/"><u>Elevate Presentations Harnessing Aiseesoft Screen Recordings for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/essential-insights-into-valheim-planting-methods/"><u>Essential Insights Into Valheim Planting Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-unstartable-pacific-drive-top-solutions-revealed/"><u>Fixing the Unstartable Pacific Drive – Top Solutions Revealed!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/graphics-driver-update-fixed-miracast-support-issues/"><u>Graphics Driver Update Fixed Miracast Support Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-get-valheim-running-smoothly-at-boot-time-issues-solved/"><u>How to Get Valheim Running Smoothly at Boot Time | Issues Solved</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-xiaomi-14-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Xiaomi 14 Without PUK Codes</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-facebooks-flash-video-frenzy/"><u>In 2024, Facebook's Flash Video Frenzy</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/modern-warfare-mw3-crash-mystery-solved-overcome-the-dauntinig-error-6068/"><u>Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-windows-11/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-resolution-for-graphics-display-issues-in-the-sims-4-game/"><u>Step-by-Step Resolution for Graphics Display Issues in The Sims 4 Game.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-why-is-my-voice-chat-blocked-by-content-warnings/"><u>Step-by-Step Solution: Why Is My Voice Chat Blocked by Content Warnings?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solution-resolve-windows-chrome-screen-trembling-a-complete-walkthrough/"><u>Ultimate Solution: Resolve Window's Chrome Screen Trembling - A Complete Walkthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-persistent-pc-issues-in-the-ascent-video-game/"><u>Understanding and Fixing Persistent PC Issues in 'The Ascent' Video Game</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-parrot-ar-drone-enhanced-a-compreayer-report/"><u>[New] Parrot AR Drone Enhanced - A Compreayer Report</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-creativity-with-6-premium-and-complimentary-video-downloaders/"><u>[Updated] 2024 Approved Enhance Creativity With 6 Premium and Complimentary Video Downloaders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-balance-youtube-with-a-full-time-job/"><u>[Updated] In 2024, How to Balance YouTube with a Full-Time Job</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-boosting-engagement-youtube-strategies-for-increased-viewership/"><u>2024 Approved Boosting Engagement YouTube Strategies for Increased Viewership</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oppo-k11-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Oppo K11 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-90-lite-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor 90 Lite FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/insiders-guide-to-chromium-devices-a-breakdown-of-frameworks-top-of-the-line-repairable-and-forward-thinking-laptop/"><u>Insider's Guide to Chromium Devices: A Breakdown of Framework's Top-of-the-Line, Repairable, and Forward-Thinking Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nier-replicant-how-we-overcame-the-crash-glitches/"><u>NieR: Replicant - How We Overcame the Crash Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-performance-fixing-frame-drops-and-smoothing-out-gameplay-in-sifu-for-windows-users/"><u>Optimizing Performance: Fixing Frame Drops and Smoothing Out Gameplay in Sifu for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011818821-pc-troubles-fixed-a-dual-crash-conundrum-solved/"><u>PC Troubles Fixed: A Dual-Crash Conundrum Solved!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/premier-4k-laptop-choices-for-gamers-for-2024/"><u>Premier 4K Laptop Choices for Gamers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999802145-steam-users-rejoice-cyberpunk-2077-downloading-difficulties-finally-solved/"><u>Steam Users Rejoice: Cyberpunk 2077 Downloading Difficulties, Finally Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-approach-to-rectify-the-destructive-fatal-error-ark/"><u>Step-by-Step Approach to Rectify the Destructive 'Fatal Error ARK'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-dragon-age-origins-from-closing-on-windows-11-ultimate-troubleshooting-guide/"><u>Stop Dragon Age: Origins From Closing on Windows 11 - Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-solution-overcoming-the-warzone-game-startup-problems/"><u>The Ultimate Solution: Overcoming the Warzone Game Startup Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-tribes-of-midgard-addressing-game-stability-and-crash-fixes/"><u>Troubleshoot 'Tribes of Midgard'; Addressing Game Stability and Crash Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-and-solving-problems-with-the-realtek-rtl8811au-network-adapter-driver/"><u>Troubleshooting and Solving Problems with the Realtek RTL8811AU Network Adapter Driver</u></a></li>
 </ul></div>
 

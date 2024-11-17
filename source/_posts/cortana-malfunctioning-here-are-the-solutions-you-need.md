@@ -1,7 +1,7 @@
 ---
 title: Cortana Malfunctioning? Here Are the Solutions You Need!
-date: 2024-11-01T17:47:57.977Z
-updated: 2024-11-06T21:06:20.552Z
+date: 2024-11-13T20:00:43.108Z
+updated: 2024-11-17T08:11:05.446Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ thumbnail: https://thmb.techidaily.com/48b04798818f256a08d1adf91e6795699ee9e8d50
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -50,6 +57,13 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
@@ -58,21 +72,7 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -85,13 +85,6 @@ Check your region and language settings on your computer:
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Install the available updates.
 
@@ -118,10 +111,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
@@ -131,10 +124,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
@@ -151,15 +144,22 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
@@ -182,19 +182,15 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/no-rest-for-the-wicked-expert-tips-and-fixes-for-stable-play-on-your-windows-computer/"><u>'No Rest for the Wicked': Expert Tips and Fixes for Stable Play on Your Windows Computer</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-realme-gt-neo-5-se-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Realme GT Neo 5 SE?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dying-light-the-sequel-optimizing-performance-and-ending-pc-game-lag/"><u>Dying Light the Sequel: Optimizing Performance & Ending PC Game Lag!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-fixes-overcoming-the-thaumaturge-desyncing-and-crashing-problems-on-pc/"><u>Expert Fixes: Overcoming the Thaumaturge Desyncing and Crashing Problems on PC</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-audience-expansion-masterclass-skyrocketing-your-youtube-numbers/"><u>In 2024, Audience Expansion Masterclass Skyrocketing Your Youtube Numbers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-expert-techniques-for-saving-vimeo-videos-as-high-quality-mp4s/"><u>In 2024, Expert Techniques for Saving Vimeo Videos as High-Quality MP4s</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-leading-window-call-apps-2-1-sorted/"><u>In 2024, Leading Window Call Apps, #2-#1 Sorted</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-6-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 6 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722976682305-kodak-printer-drivers-download-and-update-easily/"><u>KODAK Printer Drivers Download & Update Easily!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-launch-issues-with-civ-6-on-the-latest-windows-platform/"><u>Resolving Launch Issues with Civ 6 on the Latest Windows Platform</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/simple-steps-download-the-samsung-c460-printer-drivers-instantly/"><u>Simple Steps: Download the Samsung C460 Printer Drivers Instantly!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-lost-overwatch-server-connection-successfully/"><u>Troubleshooting Lost Overwatch Server Connection Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-killing-screen-issues-with-age-of-wonders-planetfall-on-windows/"><u>Troubleshooting Persistent Killing-Screen Issues with Age of Wonders: Planetfall on Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unleash-creativity-in-photography-essential-pixlr-hacks/"><u>Unleash Creativity in Photography Essential Pixlr Hacks</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-app-aesthetics-with-win11s-automatic-tuning/"><u>Boosting App Aesthetics with Win11's Automatic Tuning</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-mystery-behind-persistent-crashes-of-fireteam-elite-on-personal-computers/"><u>Decode the Mystery Behind Persistent Crashes of 'Fireteam Elite' On Personal Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtube-to-dailymotion-transferring-videos-seamlessly/"><u>In 2024, YouTube to Dailymotion Transferring Videos Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-smooth-gameplay-strategies-for-tackling-fps-drops-on-a-computer-system/"><u>Master the Art of Smooth Gameplay: Strategies for Tackling FPS Drops on a Computer System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-xbox-experience-overcoming-netflix-playback-interruptions/"><u>Optimizing Your Xbox Experience: Overcoming Netflix Playback Interruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-fix-constant-failures-of-manor-lords-gameplay-in-windows-environment/"><u>Steps to Fix Constant Failures of Manor Lords Gameplay in Windows Environment</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-10-4g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark 10 4G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-s17e-by-drfone-android/"><u>Universal Unlock Pattern for Vivo S17e</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-potential-chatgpts-role-in-interview-readiness/"><u>Unlock Potential: ChatGPT's Role in Interview Readiness</u></a></li>
 </ul></div>
 

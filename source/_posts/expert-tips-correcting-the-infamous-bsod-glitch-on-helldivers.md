@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️"
-date: 2024-10-28T18:46:13.944Z
-updated: 2024-10-31T16:59:50.667Z
+date: 2024-11-10T00:52:29.414Z
+updated: 2024-11-17T07:45:50.950Z
 tags:
   - win11
   - win10
@@ -49,16 +49,10 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Check your Internet connection
@@ -71,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 * You can also**run an Internet speed test** to see if there’s anything wrong. If your Internet speed appears to be unreasonably low, you may need to contact your Internet Service Provider for help.
 
 If you still get the Error Centipede, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Choose NAT Type 1/Open NAT
 
@@ -103,6 +90,13 @@ If you still get the Error Centipede, try the next fix.
 
 You can now test a game to see if you still get the Centipede Error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Port Forwarding
 
  Port Forwarding works on incoming Internet connections. It routes an outside internet connection to use the open ports, which will allow you to connect to Destiny 2\. This process is a bit difficult than enabling UPnP, technically speaking, but it’s generally a little safer. There are a few steps to do, here we’ll divide them into Step 1,2, and 3.
@@ -123,31 +117,24 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
@@ -187,6 +174,13 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -206,17 +200,17 @@ You can now test a game to see if you still get the Centipede Error.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. Here for example, I can update the graphics driver on my PC as well. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. If this doesn’t solve the Error Centipede for you, try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Use a VPN when your Internet access is restricted
 
@@ -253,21 +247,16 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-ace-search-engine-rankings-on-youtube-11-proven-seo-methods/"><u>[New] In 2024, Ace Search Engine Rankings on YouTube 11 Proven SEO Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-addressed-persistent-app-failures-for-wot-blitz-users/"><u>[RESOLVED ISSUE] Addressed Persistent App Failures for WoT Blitz Users</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-free-high-quality-youtube-banner-samples-inside/"><u>[Updated] In 2024, Free High-Quality YouTube Banner Samples Inside!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/adopt-a-romanian-heart-through-our-app/"><u>Adopt a Romanian Heart Through Our App</u></a></li>
-<li><a href="https://app-tips.techidaily.com/beyond-rote-learning-how-ai-is-revolutionizing-software-development-with-advanced-intelligence-insights-from-zdnet/"><u>Beyond Rote Learning: How AI Is Revolutionizing Software Development with Advanced Intelligence - Insights From ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-encountered-an-error-message-on-geforce-experience-easily/"><u>Fixing the 'Encountered an Error' Message on GeForce Experience Easily</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-google-pixel-fold-to-mac-drfone-by-drfone-android/"><u>How to Mirror Google Pixel Fold to Mac? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-smooth-gameplay-essential-tips-to-resolve-2024s-dota-2-latency-problems/"><u>Mastering Smooth Gameplay: Essential Tips to Resolve 2024'S Dota 2 Latency Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/modernizing-ai-assessment-are-there-up-to-date-alternatives-to-the-classic-turing-test/"><u>Modernizing AI Assessment: Are There Up-to-Date Alternatives to the Classic Turing Test?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/movavimovogg/"><u>Movavi提供：圧縮なしでMOVファイルをOGGに変換する無料オンラインツール</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-disrupt-the-norm-top-glitch-art-video-editing-apps-for-ios-and-android-creators/"><u>New In 2024, Disrupt the Norm Top Glitch Art Video Editing Apps for iOS and Android Creators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/professional-top-10-hd-webcams-and-buyers-advice-for-2024/"><u>Professional Top 10 HD Webcams & Buyer's Advice for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speed-up-your-steam-experience-essential-fixes-for-slow-running-issues/"><u>Speed up Your Steam Experience – Essential Fixes for Slow Running Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/struggling-to-get-into-game-mode-solving-your-rocket-league-startup-woes/"><u>Struggling to Get Into Game Mode? Solving Your Rocket League Startup Woes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-constant-crashes-in-the-latest-version-of-insurgency-sandstorm/"><u>Troubleshooting Guide: Fixing Constant Crashes in the Latest Version of Insurgency: Sandstorm</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-payday-2-pc-launch-problems/"><u>Troubleshooting Steps for Fixing 'Payday 2' PC Launch Problems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/apid-redefinition-adjusting-youtube-on-mac-pixels-for-2024/"><u>[New] Rapid Redefinition Adjusting YouTube on Mac Pixels for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/fx-artisan-suite-for-2024/"><u>[New] VFX Artisan Suite for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>[Updated] In 2024, The Ultimate Guide to FB Video Calls Best Practices</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celestial-backup-and-retrieval-portal/"><u>Celestial Backup & Retrieval Portal</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discover-the-saga-of-perseverance-in-black-endurance-echoes-of-an-unending-loop/"><u>Discover the Saga of Perseverance in 'Black Endurance: Echoes of an Unending Loop'</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-twitter-utilities-for-streamlined-social-interaction/"><u>Essential Twitter Utilities for Streamlined Social Interaction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004543196-fifa-19-troubleshooting-no-more-pc-freezes-or-crashes/"><u>FIFA 19 Troubleshooting: No More PC Freezes or Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-and-update-your-mbox2-drivers-on-windows-computers-today/"><u>How To Easily Get And Update Your MBox2 Drivers On Windows Computers Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-dark-display-problem-in-halo-infinite/"><u>Resolved: Fixing the Dark Display Problem in Halo Infinite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-blackout-solutions-for-fortnites-screen-fault-on-windows-machines/"><u>Troubleshooting the Blackout: Solutions for Fortnite's Screen Fault on Windows Machines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-how-to-bypass-the-windows-10-lock-screen-with-ease/"><u>Unlocking the Secrets: How to Bypass the Windows 10 Lock Screen with Ease</u></a></li>
 </ul></div>
 

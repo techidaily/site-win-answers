@@ -1,7 +1,7 @@
 ---
 title: Effortless Steps to Repair FIFA 19 DirectX Glitches - No Tech Expertise Needed!
-date: 2024-08-28T00:02:30.462Z
-updated: 2024-08-29T00:02:30.462Z
+date: 2024-11-13T22:24:14.938Z
+updated: 2024-11-16T18:55:44.174Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 2. [**Update DirectX**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Check if your PC meets the system requirements for FIFA 19**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Perhaps one of the most common causes of a DirectX error on FIFA is an outdated or corrupt graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -53,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -67,8 +78,12 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Check if your PC meets the system requirements for FIFA 19
 
  FIFA may also crash with a DirectX if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for FIFA 19.
@@ -102,15 +117,16 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -130,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +153,23 @@ thumbnail: https://thmb.techidaily.com/bb05cc1f39777472d93269752aa648567cff43de2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-variants-of-windows-movie-maker-a-comprehensive-list/"><u>[New] In 2024, Variants of Windows Movie Maker A Comprehensive List</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-a-comparative-review-sns-hdr-pro-and-other-editors-for-2024/"><u>[Updated] A Comparative Review SNS HDR Pro and Other Editors for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-game-away-your-worries-the-coolest-titles-for-2024/"><u>[Updated] Game Away Your Worries The Coolest Titles for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-jesters-from-notebooks-to-vpn-guardians-in-action/"><u>Digital Jesters: From Notebooks to VPN Guardians in Action</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-prevent-and-fix-vrchat-crashes-8-reliable-methods-for-pc-users/"><u>How to Prevent and Fix VRChat Crashes: 8 Reliable Methods for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-the-persistent-game-crashes-of-among-us-essential-advice-from-2024/"><u>How to Stop the Persistent Game Crashes of Among Us: Essential Advice From 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1715859780088-in-2024-iphone-users-learn-simple-screen-recording-now/"><u>In 2024, Iphone Users, Learn Simple Screen Recording Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-ark-survival-evolved-on-pc-overcoming-common-crash-and-error-problems-with-key-fixes/"><u>Mastering ARK: Survival Evolved on PC - Overcoming Common Crash and Error Problems with Key Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-dev-error-6034-a-comprehensive-guide-for-call-of-duty-modern-warfare-players/"><u>Resolving Dev Error 6034: A Comprehensive Guide for Call of Duty Modern Warfare Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-overcome-team-fortress-2s-initialization-glitches/"><u>Solution Found: How to Overcome Team Fortress 2'S Initialization Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-common-issues-get-your-clownfish-voice-modifier-up-and-running/"><u>Solving Common Issues: Get Your Clownfish Voice Modifier Up and Running</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995254846-starcraft-2-pc-crash-solutions-resolve-your-gaming-problems-today/"><u>Starcraft 2 PC Crash Solutions - Resolve Your Gaming Problems Today</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/the-best-zero-cost-video-editors-for-cutting-and-merging-videos-for-2024/"><u>The Best Zero-Cost Video Editors for Cutting and Merging Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-fix-baldurs-gate-iii-failed-startup/"><u>Troubleshooting Tips: How to Fix Baldur's Gate III Failed Startup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-crashes-in-horizon-forbidden-west-full-version-on-windows/"><u>Ultimate Guide: Solving Crashes in 'Horizon Forbidden West' Full Version on Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-7-plus-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 7 Plus Passcode without a Computer</u></a></li>
+</ul></div>
 

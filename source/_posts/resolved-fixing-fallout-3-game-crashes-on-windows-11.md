@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 3 Game Crashes on Windows 11"
-date: 2024-11-05T03:12:49.733Z
-updated: 2024-11-07T04:58:59.893Z
+date: 2024-11-10T02:52:25.956Z
+updated: 2024-11-16T17:42:44.930Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -96,10 +89,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -122,15 +115,22 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
@@ -144,10 +144,10 @@ In case this fix didn’t help, please move on to Fix 4.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
@@ -165,18 +165,18 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 Still unable to solve the problem? If yes, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change certain in-game configurations
 
@@ -193,16 +193,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
@@ -237,22 +231,24 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-the-art-of-sharing-on-reddit-your-complete-guide/"><u>[New] In 2024, Mastering the Art of Sharing on Reddit - Your Complete Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-over-120-creative-snapchat-narratives-for-standout-personal-branding/"><u>[Updated] In 2024, Over 120 Creative Snapchat Narratives for Standout Personal Branding</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-optimizing-your-yt-ad-revenue-with-effective-monetization-audits-for-2024/"><u>[Updated] Optimizing Your YT Ad Revenue with Effective Monetization Audits for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-ordinary-snaps-the-top-10-snapshot-enhancers-apps/"><u>2024 Approved Transform Ordinary Snaps The Top 10 Snapshot Enhancers Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007756131-battle-ready-solve-your-lol-connection-woes-once-and-for-all/"><u>Battle-Ready: Solve Your LoL Connection Woes Once and For All</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723012306533-destiny-2-for-pc-resolved-launch-problem-ready-to-play/"><u>Destiny 2 for PC - Resolved Launch Problem, Ready to Play!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/free-download-sound-blaster-audigy-fx-driver-software/"><u>Free Download: Sound Blaster Audigy Fx Driver Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/how-to-innovatively-deploy-music-stickers-on-instafeatures/"><u>How to Innovatively Deploy Music Stickers on InstaFeatures</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/installing-hp-deskjet-2600-printer-drivers-on-windows-os-versions-7-8-and-10/"><u>Installing HP Deskjet 2600 Printer Drivers on Windows OS Versions: 7, 8, and 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-solution-no-more-crashing-in-dayzones-guide/"><u>Master the Solution: No More Crashing in DayZones (Guide )</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-steampcs-with-detroit-becoming-human-solved-issues/"><u>Mastering SteamPCs with Detroit: Becoming Human Solved Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723008775294-no-more-crashes-in-nier-gestaltic-reverie-optimized-gameplay-tips-inside/"><u>No More Crashes in NieR: Gestaltic Reverie – Optimized Gameplay Tips Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/terraria-troubleshooting-101-fixing-the-disconnect-dilemma-with-these-proven-techniques/"><u>Terraria Troubleshooting 101: Fixing the Disconnect Dilemma with These Proven Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-18-ai-powered-video-editors-ultimate-selection-guide/"><u>Top 18 AI-Powered Video Editors - Ultimate Selection Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-dauntless-pc-issues-how-to-stop-game-freezes-and-crashes/"><u>Troubleshooting Dauntless PC Issues - How to Stop Game Freezes and Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-skyrocketing-your-frame-rate-and-reducing-lag-on-watch-dogs-legion/"><u>Ultimate Guide: Skyrocketing Your Frame Rate & Reducing Lag on Watch Dogs: Legion</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/user-friendly-steps-for-storing-google-voice-conversations/"><u>User-Friendly Steps for Storing Google Voice Conversations</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-smilesphere-endless-possibrancies-in-meme-land/"><u>[New] 2024 Approved SmileSphere Endless Possibrancies in Meme Land</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-selecting-peak-frame-rate-for-exceptional-slow-motion-video/"><u>[New] Selecting Peak Frame Rate for Exceptional Slow Motion Video</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-video-stability-essentials-for-youtube-creators/"><u>[New] Video Stability Essentials for YouTube Creators</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-harmonizing-hearts-interacting-with-a-diverse-subscriber-base/"><u>2024 Approved Harmonizing Hearts Interacting with a Diverse Subscriber Base</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-warzone-search-errors-how-to-connect-and-compete-on-pc-successfully/"><u>Addressing 'Warzone Search Errors': How to Connect and Compete on PC Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-smooth-gameplay-solutions-for-pc-users-experiencing-lags-and-stutters/"><u>Assassin’s Creed Valhalla Smooth Gameplay: Solutions for PC Users Experiencing Lags and Stutters</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-marketing-with-cutting-edge-cookiebot-technology/"><u>Automated Marketing with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-steams-content-file-error-with-these-simple-fixes/"><u>Eliminate Steam's Content File Error with These Simple Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-a-blank-league-of-legends-screen-solutions-for-gamers/"><u>Experiencing a Blank League of Legends Screen? Solutions for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-nvidia-graphics-overlay-issues-solutions-and-tips/"><u>Fixing NVIDIA Graphics Overlay Issues: Solutions & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-starfields-failed-startup-woes-a-step-by-ebook-for-steam-and-xbox-users/"><u>Fixing Starfield's Failed Startup Woes: A Step-by-eBook for Steam and Xbox Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strives-unexpected-hold-up-behind-the-scenes-and-future-plans-explained/"><u>Guilty Gear Strive's Unexpected Hold-Up: Behind the Scenes and Future Plans Explained</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/how-to-seamlessly-transform-your-pdf-documents-into-tiff-images-expert-strategies-and-tools/"><u>How to Seamlessly Transform Your PDF Documents Into TIFF Images: Expert Strategies and Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-ipad-battery-upgrades-at-home/"><u>Mastering the Art of iPad Battery Upgrades at Home</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013340908-say-goodbye-to-flickering-screens-with-these-easy-fixes/"><u>Say Goodbye to Flickering Screens with These Easy Fixes!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-12-free-movie-streaming-sites-where-to-enjoy-films-at-no-cost/"><u>Top 12 Free Movie Streaming Sites: Where to Enjoy Films at No Cost</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-home-theater-computers-a-comprehensive-guide/"><u>Top-Rated Home Theater Computers : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-high-cpu-utilization-in-the-latest-version-of-windows/"><u>Troubleshooting Steps for High CPU Utilization in the Latest Version of Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-to-do-if-your-city-skylines-2-game-refuses-to-load/"><u>What To Do If Your City Skylines 2 Game Refuses to Load?</u></a></li>
 </ul></div>
 

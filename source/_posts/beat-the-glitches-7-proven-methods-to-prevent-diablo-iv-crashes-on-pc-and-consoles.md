@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitches: 7 Proven Methods to Prevent Diablo IV Crashes on PC and Consoles"
-date: 2024-10-28T08:06:31.603Z
-updated: 2024-11-01T05:59:57.274Z
+date: 2024-11-15T11:51:47.317Z
+updated: 2024-11-17T09:39:54.883Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify game files
@@ -54,10 +54,10 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Put commands in the launch option
@@ -68,15 +68,15 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
@@ -86,13 +86,6 @@ If it doesn’t work, move to the next fix.
 
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Open Oculus app
 
  Still facing the problem? If you have the Oculus app installed on your PC, launch this app and the crashing will be fixed. We don’t know why, but it did work for many players.
@@ -101,6 +94,13 @@ If it doesn’t work, move to the next fix.
 2. Open the Oculus app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. You should be able to play the game.
 
@@ -132,16 +132,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -155,21 +149,28 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
@@ -178,13 +179,6 @@ If it doesn’t work, move to the next fix.
 9. Launch the game and see if it works.
 
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Lower graphic settings
 
@@ -209,18 +203,18 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-insiders-method-for-rl-recording/"><u>[Updated] 2024 Approved The Insider's Method for RL Recording</u></a></li>
-<li><a href="https://games-able.techidaily.com/cyber-vulnerabilities-in-evolving-game-industry/"><u>Cyber Vulnerabilities in Evolving Game Industry</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-game-wont-open-error-on-grand-theft-auto-5/"><u>How to Fix 'Game Won't Open' Error on Grand Theft Auto 5</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-c12-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia C12 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-keep-starfield-running-smoothly-without-crashing-on-your-desktop-system/"><u>How to Keep Starfield Running Smoothly Without Crashing on Your Desktop System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-call-of-duty-black-ops-cold-war-from-freezing-your-pc-in-202n4/"><u>How to Stop Call of Duty Black Ops Cold War From Freezing Your PC in 202N4!</u></a></li>
-<li><a href="https://article-files.techidaily.com/immerse-in-ideas-multitasking-activities-for-podcast-fans/"><u>Immerse in Ideas Multitasking Activities for Podcast Fans</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/innovative-corporate-strategies-with-chatgpt-utilization/"><u>Innovative Corporate Strategies with ChatGPT Utilization</u></a></li>
-<li><a href="https://games-able.techidaily.com/learn-to-run-baldurs-gate-3-flawlessly-via-crossover-on-macos/"><u>Learn to Run Baldur’s Gate 3 Flawlessly via CrossOver on macOS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stuck-or-errored-minecraft-launcher-update-process/"><u>Resolving Stuck or Errored Minecraft Launcher Update Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-problems-in-red-dead-redemption-2-solving-errgfxstate/"><u>Troubleshooting Graphics Problems in Red Dead Redemption 2: Solving ERR_GFX_STATE</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-fixing-resident-evil-village-crashes-on-windows-pc/"><u>Troubleshooting Tips for Fixing Resident Evil Village Crashes on Windows PC</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-instagram-highlights-with-exquisite-photography/"><u>[New] Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mac-acoustic-arena-deep-dive-for-2024/"><u>[New] Mac Acoustic Arena Deep Dive for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-splitstream-analysis-top-video-camera-champion/"><u>[Updated] 2024 Approved SplitStream Analysis Top Video Camera Champion?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/directly-syncing-your-tiktok-videos-with-facebook-for-2024/"><u>Directly Syncing Your TikTok Videos with Facebook for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dirt-5-crashing-effective-remedies-to-ensure-smooth-gaming-experience-on-pc/"><u>Dirt 5 Crashing: Effective Remedies to Ensure Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-getting-past-the-crash-in-persona-5-strikers-for-pc-gamers/"><u>Expert Advice: Getting Past the Crash in Persona 5 Strikers for PC Gamers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/four-quick-tips-boosting-iphone-video-luminosity-for-2024/"><u>Four Quick Tips Boosting iPhone Video Luminosity for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/grand-theft-auto-v-optimization-complete-no-more-frame-drops-or-lags/"><u>Grand Theft Auto V Optimization Complete: No More Frame Drops or Lags</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-low-fps-problems-while-playing-farming-simulator-22-on-your-computer/"><u>How to Fix Low FPS Problems While Playing Farming Simulator 22 on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/john-deere-secures-new-partnership-bolstering-right-to-repair-advocacy-zdnet/"><u>John Deere Secures New Partnership Bolstering Right to Repair Advocacy | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992578404-no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011850328-troubleshooting-doom-eternal-no-launch-availability-solutions-inside/"><u>Troubleshooting DOOM Eternal: No Launch Availability, Solutions Inside!</u></a></li>
 </ul></div>
 

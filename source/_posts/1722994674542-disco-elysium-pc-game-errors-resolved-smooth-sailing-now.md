@@ -1,7 +1,7 @@
 ---
 title: "Disco Elysium PC Game Errors Resolved: Smooth Sailing Now"
-date: 2024-10-26T01:51:40.813Z
-updated: 2024-10-31T21:17:42.867Z
+date: 2024-11-12T07:27:25.673Z
+updated: 2024-11-17T02:47:08.581Z
 tags:
   - win11
   - win10
@@ -35,19 +35,6 @@ When you double-click Discord but the program won’t open, it could be very fru
 7. [Reinstall the Discord](https://tools.techidaily.com/drivereasy/download/)  
 [Bonus: Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Kill Discord task
 
  You can probably fix this glitch by a simple restart. Kill the Discord task completely and relaunch it.
@@ -55,6 +42,13 @@ When you double-click Discord but the program won’t open, it could be very fru
  1) Press**the Windows logo key + R** together and type**cmd** on your keyboard. Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
@@ -94,10 +88,10 @@ If it doesn’t work, move to the next fix.
  4) Discord should open.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Use Task Manager
@@ -111,20 +105,13 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Restart Discord. It should open.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your proxies
 
@@ -135,31 +122,31 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
@@ -177,6 +164,13 @@ If it doesn’t work, move to the next fix.
 
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
@@ -197,10 +191,10 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click Discord in the list and select **Uninstall** .
@@ -208,13 +202,6 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -247,6 +234,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -275,24 +269,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-innovative-approaches-for-cross-social-media-broadcasting-fbwhatsapp-for-2024/"><u>[New] Innovative Approaches for Cross-Social Media Broadcasting (FB/WhatsApp) for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-ultimate-tutorial-for-3d-lut-creators/"><u>[New] Ultimate Tutorial for 3D LUT Creators</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-captivate-your-imagery-with-illustrators-motion-blur-tricks/"><u>[Updated] Captivate Your Imagery with Illustrator's Motion Blur Tricks</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-win11s-ultimate-video-recorder-guide-for-2024/"><u>[Updated] Win11's Ultimate Video Recorder Guide for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-f14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/alan-wake-2-continuation-crash-fixes-and-techniques-for-a-smoother-game/"><u>Alan Wake 2 Continuation Crash Fixes & Techniques for a Smoother Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013928604-arcadegeddon-and-pc-compatibility-improved-say-goodbye-to-crashes/"><u>Arcadegeddon and PC Compatibility Improved - Say Goodbye to Crashes!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-6s-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 6s</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-free-gaming-verifying-game-assets-to-avoid-unable-to-start-issues/"><u>Error-Free Gaming: Verifying Game Assets to Avoid 'Unable to Start' Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-guide-for-pathfinder-enthusiasts-overcoming-launch-glitches-in-wrath-of-the-righteous/"><u>Fix Guide for Pathfinder Enthusiasts – Overcoming Launch Glitches in Wrath of the Righteous</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y27-4g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y27 4G FRP Locks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hp-display-malfunction-heres-how-you-can-get-it-working-again-safely/"><u>HP Display Malfunction? Here's How You Can Get It Working Again Safely!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quickly-resolve-the-directx-error-in-warzone-with-these-simple-tips/"><u>Quickly Resolve the 'DirectX Error in Warzone' With These Simple Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-implemented-for-reducing-frame-rate-issues-in-farming-simulator-22-on-pc/"><u>Resolved: Fixes Implemented for Reducing Frame Rate Issues in Farming Simulator 22 on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-overcoming-the-cannot-open-game-error-in-league-of-legends/"><u>The Ultimate Guide to Overcoming the 'Cannot Open Game' Error in League of Legends</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-swtor-fixes-for-not-starting-problems/"><u>Troubleshooting SWTOR: Fixes for 'Not Starting' Problems</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-frame-fixer-query-solutions/"><u>[Updated] 2024 Approved The Frame Fixer Query Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/cut-through-competition-advanced-techniques-for-instagram-ready-videos-for-2024/"><u>Cut Through Competition Advanced Techniques for Instagram-Ready Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-windows-glitches-a-step-by-step-solution-for-steelseries-gg-engine-malfunctions/"><u>Defeating Windows Glitches: A Step-by-Step Solution for SteelSeries GG Engine Malfunctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dont-fall-for-them-the-6-most-disappointing-gpt-based-plug-ins-exposed/"><u>Don't Fall for Them! The 6 Most Disappointing GPT-Based Plug-Ins Exposed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-flawless-download-and-installation-of-age-of-empires-iv-on-mstpc/"><u>Expert Tips for a Flawless Download and Installation of Age of Empires IV on MSTPC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-resolving-pathfinder-game-crashes-on-pc/"><u>Fix Guide: Resolving Pathfinder Game Crashes on PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-optimizing-visual-content-adding-black-bar-and-box-to-facebook-videos/"><u>In 2024, Optimizing Visual Content Adding Black Bar & Box to Facebook Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-magic-vs-2-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor Magic Vs 2 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/masterclass-review-of-vidma-screen-reporter-app-for-2024/"><u>Masterclass Review of Vidma Screen Reporter App for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-oneplus-ace-2-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Ace 2 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-instability-issues-in-microsoft-flight-simulator-2020-pc-crash-solutions/"><u>Resolving Instability Issues in Microsoft Flight Simulator 2020 - PC Crash Solutions</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/scripting-journalisms-closing-statements-for-2024/"><u>Scripting Journalism's Closing Statements for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-to-resolve-non-responsive-firefox-problems/"><u>Top 8 Solutions to Resolve Non-Responsive Firefox Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-gameplay-fixing-graphics-driver-crashed-error-in-valorant-fast/"><u>Troubleshoot Your Gameplay: Fixing 'Graphics Driver Crashed' Error in Valorant Fast!</u></a></li>
 </ul></div>
 

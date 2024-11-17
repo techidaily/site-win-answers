@@ -1,7 +1,7 @@
 ---
 title: Stealth Tactics & Advanced Gear Rollout for Call of Duty Modern Warfare Players
-date: 2024-10-01T18:04:51.884Z
-updated: 2024-10-03T17:33:45.418Z
+date: 2024-11-11T23:55:37.272Z
+updated: 2024-11-17T03:39:28.526Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ To change the power mode:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
@@ -72,10 +72,10 @@ To make sure that you have the latest available updates installed:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
@@ -83,10 +83,10 @@ To make sure that you have the latest available updates installed:
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then try your Avatar: Frontiers of Pandora again to see if it still stutters and its FPS still drops. If the problem remains, please move on to the next fix.
@@ -123,10 +123,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -154,8 +154,22 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-27.png)
 4. Click **Add an exclusion** , then select **File** , and browse to the folder where you save the Avatar: Frontiers of Pandora execution file.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-29.png)
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
 
@@ -188,13 +202,6 @@ To verify the game’s files on Ubisoft Connect:
 2. Select**Properties** , then**Verify files** under Local files.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-30.png)
 3. If prompted, select**Repair** . Ubisoft Connect will then download and restore any missing or corrupted files.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-32.png)
 4. Then launch Avatar: Frontiers of Pandora again to see if the problems are sorted.
 
@@ -217,17 +224,25 @@ If this still doesn’t help, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-49.png)
 5. Then go to`**Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR**` , and double-click**value** on the right-side panel.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-50.png)
 6. Change the value to**0** and click**OK** to save.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-51.png)
 7. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Avatar: Frontiers of Pandora again to see if the above changes help to fix the FPS dropping and stuttering problems. If not, please restore your computer to the previous state with the restore point you created in step 1, then move on to the next fix.
 
@@ -243,21 +258,7 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then run Avatar: Frontiers of Pandora again and see if the low FPS and stuttering issues are fixed. If the problem still remains, please move on to the next fix below.
 
@@ -282,24 +283,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-reversed-color-effects-in-pictures/"><u>[New] Expert Tips Reversed Color Effects in Pictures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-gta-5-freezing/"><u>[SOLVED] How to Fix GTA 5 Freezing?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-galleryguide-adjusting-post-dimensions-in-instagram/"><u>[Updated] 2024 Approved GalleryGuide Adjusting Post Dimensions in Instagram</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-secrets-to-optimize-gopro-camera-energy-consumption/"><u>2024 Approved Secrets to Optimize GoPro Camera Energy Consumption</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/dvdmp4/"><u>高解像度でDVDファイルをMP4形式にエンコードする効果的方法</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-xperia-5-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Xperia 5 V?</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/completed-navigating-through-installer-snags/"><u>Completed: Navigating Through Installer Snags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-immortal-crashing-woes-discover-proven-fixes-and-enhancements-to-elevate-your-gaming-experience-on-pc/"><u>Diablo Immortal Crashing Woes? Discover Proven Fixes and Enhancements to Elevate Your Gaming Experience on PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-monoprices-drawing-tablet-top-features-at-a-sweet-price-point/"><u>Exploring Monoprice's Drawing Tablet: Top Features at a Sweet Price Point</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-game-crash-on-pc-when-playing-sovled-necromunda-hired-gun/"><u>How to Resolve Game-Crash on PC When Playing [SOVLED] Necromunda: Hired Gun</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-connect-to-your-steam-friends-again/"><u>Resolved! How to Connect to Your Steam Friends Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-get-your-pc-running-minecraft-smoothly-again/"><u>Step-by-Step Guide to Get Your PC Running Minecraft Smoothly Again</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/subtle-shadows-perfectly-blurred-iphone-photos-explained/"><u>Subtle Shadows Perfectly Blurred iPhone Photos Explained</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/0-most-immersive-youtube-vr-films-for-2024/"><u>Top 10 Most Immersive YouTube VR Films for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-solution-to-the-ashen-error-fast-and-effective-fixes-revealed/"><u>Trouble-Free Solution to the Ashen Error – Fast and Effective Fixes Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-pc-for-dragons-dogma-2-fixing-game-crash-issues/"><u>Troubleshoot Your PC for Dragon's Dogma 2: Fixing Game Crash Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-non-launchable-steam-games-on-windows-10-systems/"><u>Troubleshooting Guide for Non-Launchable Steam Games on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-days-gone-wont-start-on-your-pc-successfully/"><u>Troubleshooting Steps When Days Gone Won't Start on Your PC Successfully</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-success-eliminating-starfields-cutting-sounds/"><u>Troubleshooting Success: Eliminating Starfield's Cutting Sounds</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-navigating-facebook-to-play-youtube-videos-without-interruption/"><u>[New] 2024 Approved Navigating Facebook to Play YouTube Videos Without Interruption</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-tips-for-enjoying-virtual-realms-on-your-ipad-pro-for-2024/"><u>[Updated] Tips for Enjoying Virtual Realms on Your iPad Pro for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-recording-real-life-with-macbook-webcam-tips/"><u>2024 Approved Recording Real-Life with MacBook Webcam Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/delving-into-toms-hardware-a-comprehensive-resource-for-computer-enthusiasts/"><u>Delving Into Tom's Hardware: A Comprehensive Resource for Computer Enthusiasts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-broadcasts-discover-the-power-of-manycams-advanced-video-editing-and-virtual-camera-features/"><u>Elevate Your Broadcasts: Discover the Power of ManyCam's Advanced Video Editing and Virtual Camera Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-remedies-resolving-vrchat-pc-malfunctions-in-8-steps/"><u>Essential Remedies: Resolving VRChat PC Malfunctions in 8 Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-double-decline-in-game-performance-understanding-dual-fps-drop-on-pc/"><u>Fixing the Double Decline in Game Performance: Understanding Dual FPS Drop on PC</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-se-2022-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone SE (2022) to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-c53-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme C53 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-kinemasters-ultimate-green-screen-implementation-techniques/"><u>In 2024, Kinemaster's Ultimate Green Screen Implementation Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instantly-fix-steamvr-problems-with-these-simple-tricks/"><u>Instantly Fix SteamVR Problems with These Simple Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reconnecting-fallout-76-on-windows-a-step-by-step-guide-to-restoring-server-links/"><u>Reconnecting Fallout 76 on Windows: A Step-by-Step Guide to Restoring Server Links</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-stabilize-your-dota-2-gaming-experience-by-stopping-crashes/"><u>Step-by-Step: Stabilize Your Dota 2 Gaming Experience by Stopping Crashes.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-iphone-x-handbook-for-users/"><u>The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-solutions-for-a-non-functional-ubisoft-connect-platform/"><u>Top Solutions for a Non-Functional Ubisoft Connect Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-no-more-solving-the-common-problem-of-fifa-19-freezing-or-crashing/"><u>Trouble No More: Solving the Common Problem of FIFA 19 Freezing or Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-isnt-alan-wake-2-releasing-and-solutions/"><u>Why Isn't Alan Wake 2 Releasing and Solutions?</u></a></li>
 </ul></div>
 

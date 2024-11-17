@@ -1,7 +1,7 @@
 ---
 title: "PC Woes No More: Patching Up 'Star Wars Jedi: Fallen Order' Stability Bugs"
-date: 2024-08-28T00:09:05.445Z
-updated: 2024-08-29T00:09:05.445Z
+date: 2024-11-10T20:07:27.015Z
+updated: 2024-11-17T01:18:36.992Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -48,9 +55,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -68,8 +72,12 @@ There’re mainly two ways you can update your graphics drivers:
 Or
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -89,6 +97,13 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -105,10 +120,6 @@ Or
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and A Total War Saga: Troy is no exception. If there’s a problem with DirectX, the game would crash on startup. If it’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -117,16 +128,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -146,13 +159,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure it doesn’t block the game files.
@@ -177,8 +195,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +202,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-comprehensive-tutorial-for-transforming-vids-into-dollars/"><u>[New] 2024 Approved A Comprehensive Tutorial for Transforming Vids Into Dollars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-your-iphones-mp3-fix-6-free-tools-to-convert-youtube-audio/"><u>[New] In 2024, Your iPhone's MP3 Fix 6 Free Tools to Convert YouTube Audio</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-avoid-frustration-correct-a-mistaken-tiktok-reset/"><u>[Updated] 2024 Approved Avoid Frustration – Correct a Mistaken TikTok Reset</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expert-insights-switching-from-webp-to-jpg-format/"><u>[Updated] Expert Insights Switching From WebP to JPG Format</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-experts-guide-to-infinite-space-utilization/"><u>[Updated] Expert's Guide to Infinite Space Utilization</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-video-tools-opt-for-studio-or-latest-beta-version/"><u>[Updated] In 2024, Cutting-Edge Video Tools Opt for Studio or Latest Beta Version</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-honor-100-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Honor 100 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-warzone-bug-a-step-by-step-solution-to-defeating-memory-error-0-1cuh82-on-your-gaming-systems/"><u>Beat The Warzone Bug - A Step-by-Step Solution to Defeating Memory Error 0-1Cuh82 on Your Gaming Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-4201-no-more-effective-solutions-to-get-your-genshin-impact-running-smoothly-again/"><u>Error 4201 No More: Effective Solutions to Get Your Genshin Impact Running Smoothly Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2020-how-to-fix-the-game-crash-issue/"><u>Football Manager 2020: How to Fix the Game Crash Issue</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/harnessing-your-cameras-power-for-live-online-content-on-personal-computers/"><u>Harnessing Your Camera's Power for Live Online Content on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-eliminate-web-browsing-distractions-a-step-by-step-guide-to-stop-chromiums-erratic-behavior-on-windows/"><u>How to Eliminate Web Browsing Distractions: A Step-by-Step Guide to Stop Chromium's Erratic Behavior on Windows</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-safety-status-update-on-fb/"><u>Mastering Safety Status Update on FB</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-fix-how-to-stop-cult-of-the-lamb-from-crashing-on-your-machine/"><u>PC Gaming Fix: How to Stop Cult of the Lamb From Crashing on Your Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-rainbow-six-siege-startup-issues-now-fixed/"><u>Resolved: Rainbow Six Siege Startup Issues Now Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-sony-vegas-media-studio-from-crashing/"><u>Resolved! How to Stop Sony Vegas Media Studio From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-of-the-content-warning-tool-on-desktop-systems/"><u>Troubleshooting Persistent Crashes of the Content Warning Tool on Desktop Systems</u></a></li>
+</ul></div>
 

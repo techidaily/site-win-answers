@@ -1,7 +1,7 @@
 ---
 title: Become Wealthy with Like a Dragon - Your Comprehensive Steps to Success on PC
-date: 2024-08-28T00:04:07.270Z
-updated: 2024-08-29T00:04:07.270Z
+date: 2024-11-15T10:26:44.995Z
+updated: 2024-11-17T02:20:55.347Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ If you are a football lover, you might have waited for FIFA 21 for long. The gam
 6. **[Modify the in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Play in offline mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Ensure your PC meets the minimum requirements to play FIFA 21
 
@@ -78,29 +85,27 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Double-click**Display adapters** to expand the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click your graphics card and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Select the**Driver** tab, and click**Roll Back Driver** .
 
  If the**Roll Back Driver** option is grayed out, it means there’s no driver to roll back to, and you can directly skip to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **5)** Choose one of the reasons according to your own situations and click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-5.jpg)
@@ -109,9 +114,6 @@ Recommended system requirements of FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your device drivers
 
  If rolling back the graphics driver doesn’t help, it’s likely that your device drivers are faulty or outdated. To fix the constant FIFA 21 crashes and avoid other potential gaming issues, you should update your device drivers to the latest version.
@@ -127,8 +129,12 @@ Recommended system requirements of FIFA 21
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged device driver especially your graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -144,9 +150,6 @@ Recommended system requirements of FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Verify integrity of your game files
 
  As you may know, missing or damaged game files can cause a game to crash. So when your FIFA 21 gets stuck in crashing, one thing you should always do is to validate the game files. We’ll show you the steps both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -157,9 +160,6 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right-click**FIFA 21** from the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14.jpg)
@@ -175,6 +175,13 @@ Recommended system requirements of FIFA 21
 **1)** Launch Origin and select**My Game Library** from the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click**FIFA 21** and click**Repair** .
 
@@ -196,16 +203,10 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-49-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 **3)** On your keyboard, press**Ctrl** and**F** at the same time to open the Find box. Then, paste**DIRECTX\_SELECT** and click**Find Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_12-33-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 **4)** After locating the right text, set DIRECTX\_SELECT as below:
 
 * If**DIRECTX\_SELECT = 1** , change**1** to**0**
@@ -217,9 +218,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Modify the in-game settings
 
  You may have set high in-game settings for a better visual effect and gaming experience, but if your computer is not powerful enough to cope with that, FIFA 21 will crash. You can try the following lower settings:
@@ -227,6 +225,13 @@ C:\Users\<username>\Documents\FIFA 21
 **1)** Launch FIFA 21 and click**Game Settings** from the menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_17-32-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Set the settings as below:
 
@@ -238,9 +243,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Disable overlay
 
  The overlay feature you’re using may prevent FIFA 21 from working as well. To let the game runs without interruption, make sure to turn off overlay whether you’re playing on[Steam](https://tools.techidaily.com/drivereasy/download/) or **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -256,11 +258,22 @@ C:\Users\<username>\Documents\FIFA 21
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Untick the box next to**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-20-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Play FIFA 21 and check if the crashes reappear. If yes, you can proceed to **[Fix 8](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -270,9 +283,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Launch**FIFA 21** and click the**settings** button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-15-03.jpg)
@@ -284,6 +294,13 @@ C:\Users\<username>\Documents\FIFA 21
  Relaunch FIFA 21 to see if the crashing problem persists. If yes, go for the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8 – Play the offline mode
 
@@ -306,8 +323,6 @@ C:\Users\<username>\Documents\FIFA 21
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -315,4 +330,20 @@ C:\Users\<username>\Documents\FIFA 21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ethical-practices-for-accumulating-over-a-million-video-engagements-for-2024/"><u>[New] Ethical Practices for Accumulating Over A Million Video Engagements for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-seamlessly-enter-the-realm-of-ios-vr-videos/"><u>[Updated] 2024 Approved Seamlessly Enter the Realm of IOS VR Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-40-hilarious-shorts-on-tiktok/"><u>2024 Approved 40 Hilarious Shorts on TikTok</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-complete-analysis-hero4-black-system/"><u>2024 Approved Complete Analysis Hero4 Black System</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-nokia-c210-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Nokia C210 Phone | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211309654--money-loves-me/"><u>Money Loves Me | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-andtwitch/"><u>PC &スマートフォン向けのTwitch動画ダウンロードガイド【簡単に実行可能】</u></a></li>
+<li><a href="https://win-answers.techidaily.com/playdrm/"><u>PlayDRMの仕組みと回避方法：詳しく解析</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-techniques-for-integrating-mov-files-into-davinci-resolve/"><u>Seamless Techniques for Integrating MOV Files Into DaVinci Resolve</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamlessly-convert-your-dvds-and-videos-discover-the-ideal-output-settings-and-compatible-playback-devices/"><u>Seamlessly Convert Your DVDs and Videos: Discover the Ideal Output Settings & Compatible Playback Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-steps-converting-your-dvds-into-avi-files-without-a-hitch/"><u>Simple Steps: Converting Your DVDs Into AVI Files Without a Hitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-techniques-for-shrinking-mov-video-files-on-your-pc/"><u>Speedy Techniques for Shrinking MOV Video Files on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-eliminating-the-troublesome-0x8007001f-update-issue-on-windows/"><u>Step-by-Step Solution: Eliminating the Troublesome 0X8007001F Update Issue on Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing RoboCop: Rogue City Crashes - Essential Tips for Gamers on PC"
-date: 2024-08-28T00:07:17.670Z
-updated: 2024-08-29T00:07:17.670Z
+date: 2024-11-09T16:59:30.627Z
+updated: 2024-11-16T22:08:33.865Z
 tags:
   - win11
   - win10
@@ -40,13 +40,24 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -56,9 +67,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,6 +81,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -85,6 +100,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -93,9 +115,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus program
 
  Running Dauntless consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -116,10 +135,14 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -129,18 +152,12 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
 ---
@@ -155,8 +172,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +179,24 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-seamless-youtube-editing-the-ultimate-finalcut-pro-guidebook-for-2024/"><u>[Updated] Seamless YouTube Editing The Ultimate FinalCut Pro Guidebook for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-optimal-websites-to-increase-youtube-views/"><u>2024 Approved Optimal Websites to Increase YouTube Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reviewing-the-gopro-hero5-session-series/"><u>2024 Approved Reviewing the GoPro Hero5 Session Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-3-pc-stability-problems-solutions-uncovered/"><u>Baldur's Gate 3 PC Stability Problems – Solutions Uncovered!</u></a></li>
+<li><a href="https://app-tips.techidaily.com/bridging-the-tech-and-business-divide-a-leap-towards-realistic-integration/"><u>Bridging the Tech and Business Divide: A Leap Towards Realistic Integration</u></a></li>
+<li><a href="https://win-answers.techidaily.com/definitive-steps-for-repairing-persistent-ps4-hanging-problems/"><u>Definitive Steps for Repairing Persistent PS4 Hanging Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/digital-decorum-addressing-ai-like-chatgpt-and-others/"><u>Digital Decorum: Addressing AI Like ChatGPT & Others</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-every-aspect-of-existence-with-chatgpt/"><u>Elevate Every Aspect of Existence with ChatGPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-streaming-speed-strategies-to-tackle-spotify-web-player-slowdowns-this-year/"><u>Enhancing Streaming Speed: Strategies to Tackle Spotify Web Player Slowdowns This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-restoring-stability-to-your-terraria-network-link/"><u>Expert Tips on Restoring Stability To Your Terraria Network Link</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-microsoft-flight-simulator-2020-from-continuously-crashing/"><u>How to Stop Microsoft Flight Simulator 2020 From Continuously Crashing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-discovering-the-edge-of-action-cam-excellence-with-intova-x/"><u>In 2024, Discovering the Edge of Action Cam Excellence with Intova X</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994797541-insurgency-update-say-goodbye-to-those-frustrating-sandstorm-game-crashes/"><u>Insurgency Update: Say Goodbye to Those Frustrating Sandstorm Game Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-mechanics-of-fps-in-rainbow-six-extraction-troubleshooting-tips-and-tricks/"><u>Mastering the Mechanics of FPS in Rainbow Six Extraction - Troubleshooting Tips and Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-network-delays-and-optimize-connection-speed-for-back-4-blood-players/"><u>Overcome Network Delays & Optimize Connection Speed for Back 4 Blood Players</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionary-iphone-techniques-for-hdr-photos/"><u>Revolutionary iPhone Techniques for HDR Photos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-obs-studio-setup-for-android-users-for-2024/"><u>Step-by-Step OBS Studio Setup for Android Users for 2024</u></a></li>
+</ul></div>
 

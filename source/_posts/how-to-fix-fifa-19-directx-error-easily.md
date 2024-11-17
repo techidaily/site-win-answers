@@ -1,7 +1,7 @@
 ---
 title: How To Fix FIFA 19 DirectX Error Easily
-date: 2024-10-26T01:55:09.932Z
-updated: 2024-10-31T21:59:33.572Z
+date: 2024-11-13T05:57:13.747Z
+updated: 2024-11-16T23:52:31.462Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 3. [**Check if your PC meets the system requirements for FIFA 19**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -53,16 +53,16 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -115,10 +115,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -126,10 +126,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -160,17 +160,17 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-invisible-viewers-of-fb-episodes/"><u>[New] 2024 Approved Invisible Viewers of Fb Episodes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/aximize-profitability-the-dos-and-donts-of-youtube-monetization-for-2024/"><u>[New] Maximize Profitability – The Do's and Don'ts of YouTube Monetization for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-10-engaging-screen-free-mobile-games-for-android-users/"><u>[New] Top 10 Engaging Screen-Free Mobile Games for Android Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premiere-streaming-for-performance-artists/"><u>2024 Approved Premiere Streaming for Performance Artists</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bypassing-call-of-duty-warzones-erroneous-readings-a-guide-for-code-50-31-on-pc/"><u>Bypassing Call of Duty: Warzone's Erroneous Readings - A Guide for Code [5.0, 3.1] on PC</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discovering-the-benefits-of-the-oneplus-6t-a-balance-of-price-and-power/"><u>Discovering the Benefits of the OnePlus 6T - A Balance of Price and Power</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-guide-to-adjusting-directory-displays-on-windows-11/"><u>Expert Guide to Adjusting Directory Displays on Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/liberating-your-media-experience-free-movplay-software/"><u>Liberating Your Media Experience Free MOV/PLAY Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-2024s-challenges-with-finale-launch-troubleshooting-techniques/"><u>Overcoming 2024'S Challenges with Finale Launch Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011690030-resident-evil-village-pc-stability-fixes-get-uninterrupted-gaming/"><u>Resident Evil Village PC Stability Fixes - Get Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-amd-radeon-software-launch-failures/"><u>Troubleshooting Steps for Resolving 'AMD Radeon Software' Launch Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolve-crashes-in-diablo-4-for-pc-ps5-and-xbox/"><u>Ultimate Troubleshooting Guide: Resolve Crashes in Diablo 4 for PC, PS5 & Xbox</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/no-desesperes-como-restaurar-los-ficheros-eliminados-de-tu-acer-laptop-6-metodos-clave/"><u>¡No Desesperes! Cómo Restaurar Los Ficheros Eliminados De Tu Acer Laptop (6 Métodos Clave)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-low-cost-high-impact-spherical-videography-devices-for-2024/"><u>[New] Low Cost, High Impact Spherical Videography Devices for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-step-into-the-spotlight-learning-youtube-vlogger-etiquette/"><u>[Updated] Step Into the Spotlight Learning YouTube Vlogger Etiquette</u></a></li>
+<li><a href="https://fox-http.techidaily.com/deciphering-gopros-top-cameras-max-vs-hero-11-showdown-for-2024/"><u>Deciphering GoPro's Top Cameras Max Vs. Hero 11 Showdown for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992917876-eliminate-the-directx-error-on-warzone-learn-how-with-our-step-by-step-fixes/"><u>Eliminate the DirectX Error on Warzone – Learn How with Our Step-by-Step Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-persistent-crashes-how-to-stop-nox-player-from-shutting-down-your-pc/"><u>Fixing Persistent Crashes: How to Stop Nox Player From Shutting Down Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-the-error-code-easy-achievement-unlocker-cannot-start-without-installed-eac/"><u>Guide to Fixing the Error Code: Easy Achievement Unlocker Cannot Start without Installed EAC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-art-of-insta-engagement-with-these-507-winning-captions-in-2e-24/"><u>Master the Art of Insta Engagement with These 507 Winning Captions in 2E-24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-pre-launch-checklist-expert-strategies-for-getting-call-of-dutys-newest-title-running-in-2hren-2024/"><u>Mastering the Pre-Launch Checklist: Expert Strategies for Getting Call of Duty's Newest Title Running in 2Hren 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/streamlining-internet-engagement-a-guide-to-lessen-facebook-activity/"><u>Streamlining Internet Engagement: A Guide to Lessen Facebook Activity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-why-isnt-my-mic-working-solutions-inside/"><u>Troubleshooting: Why Isn't My Mic Working? Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-optimization-101-enhancing-stutter-free-play-and-faster-frame-rates-for-gamers/"><u>Warzone Optimization 101: Enhancing Stutter-Free Play & Faster Frame Rates for Gamers</u></a></li>
 </ul></div>
 

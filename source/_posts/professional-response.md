@@ -1,7 +1,7 @@
 ---
 title: Professional Response
-date: 2024-08-28T00:07:37.852Z
-updated: 2024-08-29T00:07:37.852Z
+date: 2024-11-10T00:27:13.738Z
+updated: 2024-11-17T05:20:02.860Z
 tags:
   - win11
   - win10
@@ -59,8 +59,12 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -83,6 +87,13 @@ If updating the graphics driver doesn’t help, try the next fix.
 
  If you’ve configured your antivirus software but Forza Horizon 5 still crashes on your PC, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Shut down background programs
 
  Programs that are running in the background may interfere with game performance. Or, they could take up the resources required for Forza Horizon 5 to run smoothly, thus causing the crashing issue. Here’s how to kill the programs running in the background:
@@ -90,10 +101,14 @@ If updating the graphics driver doesn’t help, try the next fix.
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. In the**Processes** section, click on the process(es) that you want to shut down, and click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
@@ -107,17 +122,32 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type in**npca.cpl** , then click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 3. Find the network adapter you’re using. Right-click it and select**Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
 5. Right-click on your network adapter again, then click**Enable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In addition to resetting the network adapter, you can also try some basic troubleshooting steps.
 
 **If you’re using Wi-Fi** :
@@ -129,9 +159,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 
  If refreshing your network doesn’t solve the problem, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Perform a clean boot
 
  If the above fixes didn’t help, you may need to take a look at system services to see if there are any conflicting ones. By doing a clean boot, you can identify if any background services are interfering with Forza Horizon 5.
@@ -148,14 +175,16 @@ If updating the graphics driver doesn’t help, try the next fix.
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  If Forza Horizon 5 doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -179,17 +208,11 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
  If performing a clean boot doesn’t solve your problem, no worries, we have one more fix for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7: Repair corrupted system files
 
  System file corruption sometimes can crash the game. If you’re a gamer for long, you may have already known that sometimes even a missing or corrupted .dll file could trigger a crash session.
@@ -200,26 +223,31 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
  Hopefully this article helps! Please feel free to leave a comment down below if you have any questions or suggestions!
@@ -230,8 +258,6 @@ If updating the graphics driver doesn’t help, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +265,18 @@ If updating the graphics driver doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/remnant-from-the-ashes-stability-issues-and-how-to-resolve-them/"><u>'Remnant: From The Ashes' Stability Issues and How to Resolve Them</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-quick-steps-to-screen-recording-via-ezvid-video-creator/"><u>[New] 2024 Approved Quick Steps to Screen Recording via Ezvid Video Creator</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-meta-vs-omni-navigating-digital-realms-for-2024/"><u>[Updated] Meta Vs. Omni Navigating Digital Realms for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-zen-masters-guide-to-zooming-your-youtube-livestreams/"><u>[Updated] The Zen Master’s Guide to Zooming Your YouTube Livestreams</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-the-ultimate-guide-to-the-samsung-qn55q6f-stunning-4k-uhd-smart-television/"><u>Expert Analysis: The Ultimate Guide to the Samsung QN55Q6F - Stunning 4K UHD Smart Television</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-76-optimized-gaming-strategies-to-combat-and-correct-gameplay-hiccups/"><u>Fallout 76 Optimized Gaming: Strategies to Combat and Correct Gameplay Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-monster-hunter-rise-not-launching-problems-easily/"><u>How To Fix Monster Hunter Rise Not Launching Problems Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-a-blocked-content-file-in-your-steam-library/"><u>How to Resolve a Blocked Content File in Your Steam Library</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/magicard-rio-pro-driver-latest-download-for-windows-10-81-and-7/"><u>Magicard Rio Pro Driver | Latest Download | For Windows 10, 8.1 and 7</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-issues-with-windows-spotlight-feature-on-windows-11/"><u>Troubleshooting: Fixing Issues with Windows Spotlight Feature on Windows 11</u></a></li>
+</ul></div>
 

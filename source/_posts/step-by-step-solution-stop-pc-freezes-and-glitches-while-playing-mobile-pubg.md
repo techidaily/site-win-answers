@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-11-02T16:09:48.285Z
-updated: 2024-11-07T06:59:04.505Z
+date: 2024-11-11T01:45:55.043Z
+updated: 2024-11-17T08:18:25.013Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -61,11 +68,31 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
 
@@ -76,16 +103,16 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -122,10 +149,10 @@ OR
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -150,20 +177,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 6: Unblock the game from Windows Firewall
 
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
@@ -172,26 +185,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -216,24 +222,15 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-quick-diy-tricks-for-professional-quality-homemade-films/"><u>[New] Quick DIY Tricks for Professional-Quality Homemade Films</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-cod-warzone-pacific-crashing/"><u>[Solved] COD: Warzone Pacific Crashing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-a-course-to-success-youtube-studio-blueprint-for-2024/"><u>[Updated] Chart a Course to Success YouTube Studio Blueprint for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/convertendo-musicas-aac-em-ogg-ao-vivo-e-gratuitamente-tecnicas-do-movavi/"><u>Convertendo Músicas AAC Em OGG Ao Vivo E Gratuitamente - Técnicas Do Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-gpu-issues-for-optimal-performance-of-cyberpunk-2077-on-windows-10-systems/"><u>Fixing GPU Issues for Optimal Performance of Cyberpunk 2077 on Windows 10 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-ie-browser-error-troubleshooting-webpage-not-displayed-issues/"><u>Fixing IE Browser Error: Troubleshooting 'Webpage Not Displayed' Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-computer-from-freezing-while-playing-the-witcher-3-a-comprehensive-guide/"><u>How to Stop Your Computer From Freezing While Playing 'The Witcher 3': A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-deciphering-digital-dominance-youtube-content-strategy-comparison/"><u>In 2024, Deciphering Digital Dominance YouTube Content Strategy Comparison</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-numeric-precision-the-art-of-editing-tiktok-counts/"><u>In 2024, Numeric Precision The Art of Editing TikTok Counts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-playstation-error-codes-in-destiny-2-a-comprehensive-fixers-guide-for-pc-gamers/"><u>Overcoming PlayStation Error Codes in Destiny 2 - A Comprehensive Fixer's Guide for PC Gamers</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/profiesteuernder-kostenloser-mkv-player-unter-windows-1087-kafkaeske-mkv-datei-abspielen-vereinfacht/"><u>Profiesteuernder Kostenloser MKV Player Unter Windows 10/8/7 - Kafkaeske MKV Datei Abspielen Vereinfacht!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-when-your-corsair-icue-stops-functioning-in-windows-10-or-11/"><u>Solutions for When Your Corsair iCUE Stops Functioning in Windows 10 or 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-long-awaited-arrival-how-immortals-fenyx-rising-became-available/"><u>The Long-Awaited Arrival: How Immortal's Fenyx Rising Became Available</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-honor-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Honor Phone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/tormented-souls-game-stability-issues-fixed-now-running-smoothly-on-pc/"><u>Tormented Souls Game Stability Issues Fixed: Now Running Smoothly on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-get-your-windows-11-start-menu-running-again/"><u>Troubleshooting Guide: How to Get Your Windows 11 Start Menu Running Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-assassins-creed-unity-freezing-issues/"><u>Troubleshooting Steps for Assassin's Creed Unity Freezing Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y78t? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/which-to-choose-side-by-side-review-of-ipad-mini-and-ipad-air-models/"><u>Which to Choose? Side-by-Side Review of IPad Mini and iPad Air Models</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tips-for-stellar-video-conclusions/"><u>[Updated] 2024 Approved Tips for Stellar Video Conclusions</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/deciphering-the-lack-of-contacts-and-snaps-on-snapchat/"><u>Deciphering the Lack of Contacts and Snaps on Snapchat</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-playgrounds-for-virtual-escapades-for-2024/"><u>Essential Playgrounds for Virtual Escapades for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-reaction-times-with-fps-optimization-tips-for-naraka-bladepoint/"><u>Improving Reaction Times with FPS Optimization Tips for Naraka: Bladepoint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/jurassic-world-evolution-troubleshooting-eliminating-crashing-issues-permanently/"><u>Jurassic World Evolution Troubleshooting: Eliminating Crashing Issues Permanently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-persistent-issues-with-discord-live-broadcasts/"><u>Resolved: How to Fix Persistent Issues with Discord Live Broadcasts</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolving-issues-when-apowermanager-fails-to-retrieve-contact-info-and-texts-from-iphone-or-ipad/"><u>Resolving Issues When ApowerManager Fails to Retrieve Contact Info & Texts From iPhone or iPad</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-why-doesnt-my-game-of-warframe-open/"><u>Solution Found: Why Doesn’t My Game of Warframe Open?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/switch-gaming-elevated-by-top-capture-cards/"><u>Switch Gaming Elevated by Top Capture Cards</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-8-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

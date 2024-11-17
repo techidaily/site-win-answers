@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023"
-date: 2024-10-26T11:31:58.825Z
-updated: 2024-11-01T01:40:18.122Z
+date: 2024-11-16T01:59:52.532Z
+updated: 2024-11-16T18:32:57.295Z
 tags:
   - win11
   - win10
@@ -44,26 +44,20 @@ Take Avast as an example:
 3. Click**Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
@@ -71,6 +65,13 @@ Take Avast as an example:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If it’s not your antivirus software, move to the next fix.
 
@@ -99,24 +100,17 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -126,6 +120,13 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
@@ -140,19 +141,6 @@ If this fix bring no luck, move to the next fix.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
@@ -178,24 +166,21 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-explore-and-download-50-free-youtube-banners-for-2024/"><u>[New] Explore & Download 50 FREE YouTube Banners for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-bringing-bygone-era-filmmaking-to-life-today/"><u>[Updated] Bringing Bygone Era Filmmaking to Life Today</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-androids-top-12-ultimate-wildlife-game-picks/"><u>[Updated] In 2024, Android's Top 12 Ultimate Wildlife Game Picks</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1-secure-and-swift-guide-transferring-your-dvds-onto-a-pc-without-any-hassles/"><u>1. Secure & Swift Guide: Transferring Your DVDs Onto a PC Without Any Hassles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/6-swift-fixes-to-stop-elden-rings-performance-hiccups/"><u>6 Swift Fixes to Stop Elden Ring's Performance Hiccups</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-bokw-on-pc-mastering-gameplay-without-crashes/"><u>Call of Duty BOKW on PC - Mastering Gameplay without Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-fix-tutorial-for-among-us-endless-loading-problems/"><u>Complete Fix Tutorial for 'Among Us' Endless Loading Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deciphering-and-correcting-steam-file-permission-problems/"><u>Deciphering and Correcting Steam File Permission Problems</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/effective-strategies-to-migrate-information-from-old-iphone-devices-to-an-iphone-n-6s-model/"><u>Effective Strategies to Migrate Information From Old iPhone Devices to an iPhone N 6S Model</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-toshibe-satellite-graphic-card-drivers-for-your-windows-computer/"><u>Get the Newest Toshibe Satellite Graphic Card Drivers for Your Windows Computer</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-xs-max-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone XS Max? Complete Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1723007846091-overcoming-black-screen-troubleshooting-woes-in-call-of-duty-wwii-on-windows-machines-successful-fixes/"><u>Overcoming Black Screen Troubleshooting Woes in Call of Duty: WWII on Windows Machines – Successful Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-solutions-for-persistent-steam-game-launcher-issues/"><u>Quick Solutions for Persistent Steam Game Launcher Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stability-problems-with-horizon-zero-dawn-on-desktop-systems/"><u>Resolving Stability Problems with Horizon Zero Dawn on Desktop Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-achieved-for-deathloop-players-on-personal-computers/"><u>Smooth Gaming Experience Achieved for Deathloop Players on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-world-of-warcraft-from-crashing-easy-steps-and-tips-for-gamers/"><u>Stop 'World of Warcraft' From Crashing: Easy Steps & Tips for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-your-sims-4-from-lagging-on-pc-with-these-pro-tips-and-tricks-latest-guide-2024/"><u>Stop Your Sims 4 From Lagging on PC with These Pro Tips and Tricks - Latest Guide 2024!</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tech-sleuthing-wheres-my-nvidia-detected/"><u>Tech Sleuthing: Where's My NVIDIA Detected?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-rated-mac-maintenance-tools-of-2022-expert-picks-from-zdnet/"><u>Top-Rated Mac Maintenance Tools of 2022 - Expert Picks From ZDNet</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>[New] 2024 Approved Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[New] In 2024, GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>[Updated] In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[Updated] LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/brief-overview-of-the-evolution-of-electric-cars/"><u>Brief Overview of the Evolution of Electric Cars</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-to-ensure-your-overwatch-game-starts-smoothly-every-time/"><u>Expert Advice to Ensure Your Overwatch Game Starts Smoothly Every Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/grand-theft-auto-v-update-fixes-resolving-the-d3d-graphics-initialization-error-errgfxd3dinit/"><u>Grand Theft Auto V Update Fixes: Resolving the D3D Graphics Initialization Error (ERR_GFX_D3D_INIT)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-error-code-c19001e1-on-windows-10-a-comprehensive-guide/"><u>How to Resolve 'Error Code C19001e1' On Windows 10 - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-dji-airborne-collection-basic-kit-elite-series-4k-masterclass/"><u>In 2024, DJI Airborne Collection Basic Kit, Elite Series, 4K Masterclass</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-data-recovery-without-backup-a-complete-guide/"><u>Iphone Data Recovery Without Backup: A Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-waiting-solve-the-persistent-loading-issue-on-watch-dogs-legion-today/"><u>No More Waiting: Solve the Persistent Loading Issue on Watch Dogs: Legion Today</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-new-face-of-sony-updates-to-s6500-blu-rayhd-player-for-2024/"><u>The New Face of Sony Updates to S6500 Blu-Ray/HD Player for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-call-of-duty-black-ops-cold-war-pc-stability-for-2cuarters/"><u>Troubleshooting Guide: Call of Duty Black Ops Cold War PC Stability for 2Cuarters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-step-by-step-solutions/"><u>Troubleshooting PC Issues with 'Sons of the Forest' - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/untangling-steam-freezing-problems-for-smooth-gaming-sessions/"><u>Untangling Steam Freezing Problems for Smooth Gaming Sessions</u></a></li>
 </ul></div>
 

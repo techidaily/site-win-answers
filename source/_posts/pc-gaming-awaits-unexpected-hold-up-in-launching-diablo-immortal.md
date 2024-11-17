@@ -1,7 +1,7 @@
 ---
 title: "PC Gaming Awaits: Unexpected Hold-Up in Launching Diablo Immortal"
-date: 2024-08-28T00:08:27.508Z
-updated: 2024-08-29T00:08:27.508Z
+date: 2024-11-14T18:35:43.883Z
+updated: 2024-11-17T05:54:28.712Z
 tags:
   - win11
   - win10
@@ -62,21 +62,27 @@ WARNO system requirements
 2. **Right-click** on **WARNO** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch WARNO after the verifying process is complete. See if it crashes again. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If WARNO keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -103,14 +109,17 @@ WARNO system requirements
 
 ![WARNO new patch](https://images.drivereasy.com/wp-content/uploads/2022/01/WARNO-new-patch-1105x1200.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it. If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run WARNO again and check if the game crashes get fixed. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Disable overlays
 
  Overlays are handy. However, sometimes the overlay would interfere with the game and even block the game files.
@@ -122,9 +131,29 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Uncheck **Enable Steam Overlay while in-game** .  
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch WARNO and see if the it crashes again. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -148,14 +177,16 @@ If this fix didn’t work, try the next fix, below.
 2. Launch Fortect and it will run a free scan of your PC. After the scan is complete, you will be presented with a report displaying the identified issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Click **Start Repair** to automatically fix all the issues (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
 
 ## Perform a clean boot
@@ -167,31 +198,30 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
-6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
+6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
 **Restart** your PC and launch WARNO to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -218,8 +248,6 @@ If this fix didn’t work, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +255,26 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-gameboy-advance-mastered-android-emulator-selection-for-2024/"><u>[New] GameBoy Advance Mastered Android Emulator Selection for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-how-to-add-crop-and-edit-music-to-canva-video/"><u>[New] How To Add, Crop And Edit Music To Canva Video?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-discover-the-5-best-android-software-for-ps2-games/"><u>[Updated] In 2024, Discover the 5 Best Android Software for PS2 Games</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-navigating-facebooks-terms-of-service-for-media-sharing/"><u>[Updated] In 2024, Navigating Facebook's Terms of Service for Media Sharing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-sound-trailing-in-premiere-pro/"><u>[Updated] In 2024, The Ultimate Guide to Sound Trailing in Premiere Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-seamlessly-sync-your-ideas-on-mematic/"><u>[Updated] Seamlessly Sync Your Ideas on Mematic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-origin-syncing-expert-tips-to-skyrocket-download-speeds-now/"><u>Accelerate Origin Syncing - Expert Tips to Skyrocket Download Speeds Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-crash-expert-advice-to-keep-grounded-running-smoothly-on-your-pc/"><u>Beat the Crash: Expert Advice to Keep 'Grounded' Running Smoothly on Your PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cost-free-webinar-software-for-recording-sessions-for-2024/"><u>Cost-Free Webinar Software for Recording Sessions for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-remedies-for-discords-packet-transmission-problems/"><u>Effective Remedies for Discord's Packet Transmission Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-correcting-and-overcoming-error-0xc19001e1-on-windows-10-systems/"><u>Expert Tips for Correcting and Overcoming Error 0xC19001E1 on Windows 10 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006482521-football-manager-2020-stability-enhanced-no-more-crashing-issues/"><u>Football Manager 2020 Stability Enhanced - No More Crashing Issues</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-reclaim-full-volume-from-partially-muted-fb-tracks/"><u>In 2024, How to Reclaim Full Volume From Partially Muted FB Tracks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-to-stop-ashen-crash-glitches-once-and-for-all/"><u>Quick Fixes to Stop Ashen Crash Glitches Once and For All!</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-the-ideal-workspace-surfaces/"><u>Selecting the Ideal Workspace Surfaces</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-2-black-screen-error-now-fixed-a-comprehensive-guide/"><u>Star Wars Battlefront 2 Black Screen Error - Now Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008392729-troubleshoot-crashing-in-lol-easily-effective-fixes-inside/"><u>Troubleshoot Crashing in LoL Easily – Effective Fixes Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-starting-up-monster-hunter-rise-without-glitches-or-errors/"><u>Troubleshooting Guide: Starting Up Monster Hunter Rise Without Glitches or Errors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tackling Phasmophobia's Frustrating 90%% Loading Dilemma – Solutions
-date: 2024-10-30T08:03:55.207Z
-updated: 2024-10-31T21:53:56.435Z
+date: 2024-11-13T20:33:38.959Z
+updated: 2024-11-17T04:47:06.559Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -67,24 +60,10 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -106,16 +85,30 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
 
@@ -125,6 +118,20 @@ OR
 2. Right-click the Epic Games Launcher icon, and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Test if the problem is resolved. If not, try the next fix.
 
 ---
@@ -162,22 +169,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-picsart-revamp-explained-in-depth-review-and-step-by-step-tutorial-update/"><u>[New] PicsArt Revamp Explained In-Depth Review & Step-by-Step Tutorial Update</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-checklist-for-your-xbox-one-zooming-journey-for-2024/"><u>[New] The Ultimate Checklist for Your Xbox One Zooming Journey for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/behind-the-scenes-fixing-connection-lag-in-the-elder-scrolls-onlines-blackwood-area/"><u>Behind the Scenes: Fixing Connection Lag in The Elder Scrolls Online's Blackwood Area</u></a></li>
-<li><a href="https://win-answers.techidaily.com/directx-errors-no-more-mastering-stability-in-anno-1800/"><u>DirectX Errors No More: Mastering Stability in Anno 1800</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enjoy-smoother-gameplay-in-cyberpunk-2077-fixes-for-previous-lag-and-stutters/"><u>Enjoy Smoother Gameplay in Cyberpunk 2077: Fixes for Previous Lag and Stutters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluating-nordvpn-unwavering-velocity-and-functionality-examination-cyberguardianreviews/"><u>Evaluating NordVPN: Unwavering Velocity & Functionality Examination | CyberGuardianReviews</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tricks-to-prevent-dread-hunger-video-game-from-falling-short-on-pcs/"><u>Expert Tricks to Prevent Dread Hunger Video Game From Falling Short on PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891833318-inside-android-16-what-to-expect-in-pricing-release-timeline-and-device-specs-get-the-rumors/"><u>Inside Android 16: What to Expect in Pricing, Release Timeline, and Device Specs – Get the Rumors</u></a></li>
-<li><a href="https://article-posts.techidaily.com/intro-to-cinema-top-8-user-friendly-cameras-35mm-for-2024/"><u>Intro to Cinema Top 8 User-Friendly Cameras (35Mm) for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004634290-master-the-fight-againnst-warzone-display-issues-with-these-proven-remedies/"><u>Master the Fight Againnst Warzone Display Issues with These Proven Remedies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/masterful-fix-when-easy-anti-cheat-is-uninstalled-no-more-eac-errors-a-comprehensive-guide/"><u>Masterful Fix: When Easy Anti-Cheat Is Uninstalled, No More EAC Errors – A Comprehensive Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mended-paper-jamming-concern/"><u>Mended Paper Jamming Concern</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/metavision-quest-selecting-the-most-advanced-vr-headset/"><u>Metavision Quest Selecting the Most Advanced VR Headset</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-gaming-experience-with-these-solutions-for-counter-strike-cs2-frame-rate-problems/"><u>Optimize Your Gaming Experience with These Solutions for Counter-Strike ([CS2]) Frame Rate Problems</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/stellar-for-smooth-repair-of-quicktime-files/"><u>Stellar for Smooth Repair of QuickTime Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-non-responsive-battlenet-launcher-in-windows-environments/"><u>Troubleshooting Tips for Non-Responsive Battle.net Launcher in Windows Environments</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-hot-40i-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Hot 40i on Mac?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-digital-painting-made-easy-with-free-online-editors/"><u>[New] Digital Painting Made Easy with Free Online Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ssential-apps-best-10-software-to-capture-your-screens/"><u>[New] Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-organize-and-share-music-how-to-make-youtube-playlists-easier/"><u>[Updated] 2024 Approved Organize and Share Music How to Make YouTube Playlists Easier</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-instant-expertise-changing-photos-to-captivating-youtube-thumbnails/"><u>[Updated] Instant Expertise Changing Photos to Captivating YouTube Thumbnails</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-free-travel-planning-ai-and-chatgpt-apps-to-get-an-instant-itinerary/"><u>7 Free Travel Planning AI and ChatGPT Apps to Get an Instant Itinerary</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-black-screen-top-solutions-for-league-of-legends-in-202/"><u>Beat the Black Screen: Top Solutions for League of Legends in 202#</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevating-mouse-interaction-with-clicklock-in-windows/"><u>Elevating Mouse Interaction with ClickLock in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-lost-ark-stability-and-performance-fixing-critical-frame-rate-dips/"><u>Enhance Lost Ark Stability & Performance - Fixing Critical Frame Rate Dips</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-mini-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 mini? Learn All 4 Methods</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-breakdown-stream-yourself-successfully-via-zoom-and-youtube-for-2024/"><u>In-Depth Breakdown Stream Yourself Successfully via Zoom and YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/launch-issues-with-diablo-ii-resurrected-heres-what-you-can-do/"><u>Launch Issues with Diablo II Resurrected? Here's What You Can Do</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-to-reactivate-your-camera-in-snapchat-and-share-moments-again/"><u>Quick Fixes to Reactivate Your Camera in Snapchat and Share Moments Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-rust-programming-crashes-tips-and-solutions-for-stability-issues/"><u>Resolving Rust Programming Crashes: Tips and Solutions for Stability Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/ultimate-guide-to-the-finest-budget-tvs-under-1k-insider-reviewed-zdnet/"><u>Ultimate Guide to the Finest Budget TVs (Under $1K) - Insider Reviewed | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/zombies-unleashed-in-call-of-duty-black-ops-cold-war-how-to-fix-game-crashes-on-pc/"><u>Zombies Unleashed in Call of Duty: Black Ops Cold War - How to Fix Game Crashes on PC</u></a></li>
 </ul></div>
 

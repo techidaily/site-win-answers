@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Enhancing Stability in Diablo Immortal on Your Computer (Updated)"
-date: 2024-10-25T06:05:01.077Z
-updated: 2024-11-01T11:28:11.877Z
+date: 2024-11-09T21:25:01.608Z
+updated: 2024-11-17T10:15:04.013Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  One of the common causes of A Total War Saga: Troy crashing issue is the corrupted game files. If it’s the case, you need to verify the game files. Here’s how to do it:
@@ -51,10 +44,17 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
@@ -82,6 +82,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -119,13 +126,6 @@ Or
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and A Total War Saga: Troy is no exception. If there’s a problem with DirectX, the game would crash on startup. If it’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -135,16 +135,16 @@ Or
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
 
@@ -155,13 +155,6 @@ Or
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  If this issue persists after you stopped overclocking, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Repair Epics Games launcher
 
@@ -174,6 +167,13 @@ Or
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
@@ -210,20 +210,14 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-free-vector-art-and-graphics-websites/"><u>[New] Best Free Vector Art and Graphics Websites</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-entry-level-landing-low-cost-profitable-youtube-platforms/"><u>[New] Entry Level Landing Low-Cost, Profitable YouTube Platforms</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-moviemakerpro-insights-full-analysis/"><u>[New] MovieMakerPro Insights – Full Analysis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-discover-how-to-design-dynamic-youtube-music-playlists/"><u>[Updated] 2024 Approved Discover How to Design Dynamic YouTube Music Playlists</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/august-14-new-york-times-puzzle-solutions-and-insights-429/"><u>August 14 New York Times Puzzle Solutions & Insights #429</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-pc-crashes-during-stardew-valley-gameplay/"><u>Diagnosing and Fixing PC Crashes During Stardew Valley Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-the-famed-star-wars-battlefront-2-error-code-narrator-327-tips-and-tricks/"><u>Guide to Overcoming the Famed Star Wars Battlefront 2 Error Code Narrator 327: Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-frames-per-second-fps-solutions-to-fps-dips-in-resident-evil-village-on-personal-computers/"><u>Improving Frames per Second (FPS): Solutions to FPS Dips in Resident Evil Village on Personal Computers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/paw-some-profits-the-paychecks-of-pewdiepie/"><u>Paw-Some Profits The Paychecks of PewDiePie</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-techniques-to-reduce-starfields-excessive-processor-use/"><u>Top Techniques to Reduce Starfield's Excessive Processor Use</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnite-dealing-with-video-memory-shortages-solved/"><u>Troubleshooting Fortnite: Dealing with Video Memory Shortages (SOLVED)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-wsappx-causes-of-excessive-memory-and-processor-utilization-and-solutions/"><u>Understanding WSAPPX: Causes of Excessive Memory & Processor Utilization and Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlocking-mac-efficiency-mastering-the-art-of-setting-up-and-utilizing-hot-corners-the-essential-guide-zdnet/"><u>Unlocking Mac Efficiency: Mastering the Art of Setting Up & Utilizing Hot Corners - The Essential Guide | ZDNET</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xcom-2-windows-stability-guide-how-to-resolve-and-prevent-game-crashes-efficiently/"><u>XCOM 2 Windows Stability Guide: How to Resolve and Prevent Game Crashes Efficiently</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-hushing-up-unwanted-noise-on-skype-for-2024/"><u>[New] Hushing Up Unwanted Noise on Skype for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-quick-steps-to-authenticate-your-youtube-login/"><u>[Updated] 2024 Approved Quick Steps to Authenticate Your YouTube Login</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-steams-secure-content-lock-a-step-by-nstep-guide/"><u>Bypassing Steam's Secure Content Lock: A Step-by-nStep Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/coding-solved-why-does-call-of-duty-modern-warfare-keep-crashing-tips-to-resolve/"><u>Coding Solved: Why Does Call of Duty: Modern Warfare Keep Crashing? Tips to Resolve!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-performance-optimizing-forza-horizon-5s-fps-on-your-computer/"><u>Improving Performance: Optimizing Forza Horizon 5'S FPS on Your Computer</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/lighten-up-your-digital-presence-kapwing-maker/"><u>Lighten Up Your Digital Presence - Kapwing Maker</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-from-hobbyist-to-pro-the-best-free-and-paid-3d-animation-tools/"><u>New 2024 Approved From Hobbyist to Pro The Best Free and Paid 3D Animation Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-access-denied-cannot-play-fortnite-fix-guide/"><u>Resolved: 'Access Denied - Cannot Play Fortnite' Fix Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/voice-message-capture-and-storage-iphone-x2-for-2024/"><u>Voice Message Capture & Storage iPhone X2 for 2024</u></a></li>
 </ul></div>
 

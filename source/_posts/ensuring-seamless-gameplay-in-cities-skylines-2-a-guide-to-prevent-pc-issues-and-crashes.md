@@ -1,7 +1,7 @@
 ---
 title: "Ensuring Seamless Gameplay in Cities: Skylines 2 - A Guide to Prevent PC Issues and Crashes"
-date: 2024-08-28T00:07:46.671Z
-updated: 2024-08-29T00:07:46.671Z
+date: 2024-11-11T00:06:06.888Z
+updated: 2024-11-16T19:38:22.085Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -48,6 +45,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
  That means, if your platform language is English, you can’t use not-standard-English characters in your username. After removing these marks or characters, the problem is solved.
 
 If this fix doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
 
@@ -58,9 +62,12 @@ If this fix doesn’t work, move to the next fix.
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
@@ -75,11 +82,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -95,22 +106,36 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -121,32 +146,20 @@ Here’s how to disable Windows Security temporarily.
 1. Press the**Windows logo key and I** together on your keyboard to open Windows Settings. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 Relaunch NieR Replicant and check if it’s running properly.
 
  If this method doesn’t work for you, enable your antivirus software or Windows Security as soon as possible.
@@ -161,8 +174,6 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +181,24 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-navigating-social-media-app-selection-tiktok-or-youtubes-shorts-preference/"><u>[New] 2024 Approved Navigating Social Media App Selection TikTok or YouTubes' Shorts Preference</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-filmmakers-guide-to-masterful-panoramic-videos-9-must-know-tips/"><u>[New] 2024 Approved The Filmmaker's Guide to Masterful Panoramic Videos (9 Must-Know Tips)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-tips-for-vlc-based-online-streaming-for-2024/"><u>[Updated] Essential Tips for VLC-Based Online Streaming for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pro-tips-for-sub4sub-beginners-review-our-complete-guide/"><u>[Updated] Pro Tips for Sub4sub Beginners - Review Our Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-23-on-apex-legends-how-to-correctly-troubleshoot-and-resolve-it/"><u>Error 23 on Apex Legends: How to Correctly Troubleshoot and Resolve It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-code-103003-in-tarkov-troubleshooting-guide-for-gamers/"><u>Error Code 103003 in Tarkov - Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hearts-of-iron-iv-solving-game-crashing-issues-effectively/"><u>Hearts of Iron IV - Solving Game Crashing Issues Effectively</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-reddit-experts-briefly-meet-at-snapchat/"><u>In 2024, Reddit Experts Briefly Meet at Snapchat</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-unboxing-and-testing-the-capabilities-of-the-affordable-linksys-wrt1900acs-for-open-networks/"><u>In-Depth Analysis: Unboxing & Testing the Capabilities of the Affordable Linksys WRT1900ACS for Open Networks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-minecraft-pc-issues-latest-tips-to-eliminate-freezing-and-crashes/"><u>Overcome Minecraft PC Issues - Latest Tips to Eliminate Freezing & Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-dev-error-5573-for-a-smooth-call-of-duty-vanguard-experience/"><u>Solving Dev Error 5573 for a Smooth Call of Duty: Vanguard Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-red-dead-redemption-2s-unending-launch-sequence-a-step-by-step-guide/"><u>Solving Red Dead Redemption 2'S Unending Launch Sequence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-your-pc-from-frequent-new-world-crashes/"><u>Troubleshooting Guide - How to Stop Your PC From Frequent 'New World' Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solve-the-league-of-legends-not-launching-problem/"><u>Ultimate Guide: Solve the 'League of Legends Not Launching' Problem</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+</ul></div>
 

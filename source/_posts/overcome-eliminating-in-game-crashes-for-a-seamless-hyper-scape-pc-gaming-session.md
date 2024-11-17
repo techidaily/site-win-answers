@@ -1,7 +1,7 @@
 ---
 title: "Overcome: Eliminating In-Game Crashes for a Seamless Hyper Scape PC Gaming Session"
-date: 2024-09-30T16:46:19.826Z
-updated: 2024-10-03T16:33:10.320Z
+date: 2024-11-15T20:53:04.464Z
+updated: 2024-11-16T23:12:25.281Z
 tags:
   - win11
   - win10
@@ -40,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Test internet connection
 
@@ -74,14 +74,14 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re still getting a high ping and game seems laggy, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
 
@@ -114,13 +114,6 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1: Flush your DNS
 
  The action of flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the address from the DNS server every time it needs to access a new website. This may solve the lagging issue in Back 4 Blood if it’s triggered by invalid or corrupt DNS cache data. Here’s how to do it:
@@ -132,20 +125,26 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -156,28 +155,35 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -216,22 +222,20 @@ thumbnail: https://thmb.techidaily.com/936d10b629420455d4c3cd43378416c6e205e5dc7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-harness-the-power-of-fb-video-marketing-with-these-free-apps/"><u>[New] 2024 Approved Harness the Power of FB Video Marketing with These Free Apps</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-igtv-content-size-requirements/"><u>[Updated] IGTV Content Size Requirements</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-correcting-persistent-freezing-issues-with-v-rising-on-pc/"><u>Diagnosing and Correcting Persistent Freezing Issues with V Rising on PC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/efficient-use-of-telegram-browser-interface/"><u>Efficient Use of Telegram Browser Interface</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/excellent-choice-7-premium-videos-on-mac/"><u>Excellent Choice 7 Premium Videos on Mac</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-lower-thirds-mastery-best-practices-and-techniques-for-2024/"><u>FCPX Lower Thirds Mastery Best Practices and Techniques for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-resolve-launching-difficulties-in-call-of-duty-modern-warfare-3-mw3-not-working-tips/"><u>How to Resolve Launching Difficulties in Call of Duty Modern Warfare 3 - MW3 Not Working Tips</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-oppo-reno-9a-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Oppo Reno 9A Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://win-answers.techidaily.com/instant-relief-from-kernelbasedll-malfunctions-step-by-step-solution/"><u>Instant Relief From KernelBase.dll Malfunctions - Step-by-Step Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/leguminous-plants-and-nitrogen-fixing-bacteria-form-a-mutualistic-relationship-where-the-bacteria-convert-atmospheric-nitroebgen-into-usable-forms-for-the-p502/"><u>Leguminous Plants and Nitrogen-Fixing Bacteria Form a Mutualistic Relationship Where the Bacteria Convert Atmospheric Nitroebgen Into Usable Forms for the Plant, Benefiting Both Organisms</u></a></li>
-<li><a href="https://extra-information.techidaily.com/optimal-net-vaults-free-unique-ringtone-choices/"><u>Optimal Net Vaults Free, Unique Ringtone Choices</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-game-bugs-squashed-ultimate-guide-to-resolve-constant-freezes-in-your-favorite-titles/"><u>PC Game Bugs Squashed: Ultimate Guide to Resolve Constant Freezes in Your Favorite Titles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-halo-infinite-audio-glitches-for-an-immersive-gaming-experience/"><u>Solving the Halo Infinite Audio Glitches for an Immersive Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speedy-fixes-for-overcoming-lag-issues-in-assassins-creed-valhalla/"><u>Speedy Fixes for Overcoming Lag Issues in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-playing-with-bugs-fix-constant-freezes-and-crashes-in-new-world-for-a-smoother-gaming-experience/"><u>Stop Playing with Bugs: Fix Constant Freezes and Crashes in 'New World' For a Smoother Gaming Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-6-innovative-uses-of-chatgpt-in-enhancing-smartwatch-functionality/"><u>Top 6 Innovative Uses of ChatGPT in Enhancing Smartwatch Functionality</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-strategies-to-fix-your-city-skylines-game-from-continuous-crashing-2024-edition/"><u>Top Strategies to Fix Your City Skylines Game From Continuous Crashing - 2024 Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-transitions-in-kinemaster-for-2024/"><u>Add Transitions in Kinemaster for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/audiovisual-rhythm-optimal-dj-content-for-gatherings-for-2024/"><u>Audiovisual Rhythm Optimal DJ Content for Gatherings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-content-with-top-notch-tiktok-video-edit-tricks-for-2024/"><u>Boost Your Content with Top-Notch TikTok Video Edit Tricks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990730236-expert-advice-on-overcoming-common-epic-games-launcher-problems-fast/"><u>Expert Advice on Overcoming Common Epic Games Launcher Problems Fast!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/f1-2021-game-stability-improvements-tips-to-avoid-pc-shutdowns-during-gameplay/"><u>F1 2021 Game Stability Improvements - Tips to Avoid PC Shutdowns During Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-launch-problems-with-call-of-duty-modern-warfare-on-pc/"><u>How to Fix Launch Problems with Call of Duty: Modern Warfare on PC</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-top-5-premium-game-screens-in-high-definition/"><u>In 2024, Top 5 Premium Game Screens in High Definition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtube-growth-secrets-masterful-narration-techniques/"><u>In 2024, YouTube Growth Secrets Masterful Narration Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/isolating-photographs-within-windows-10-movie-files-for-2024/"><u>Isolating Photographs Within Windows 10 Movie Files for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-3-gaming-hitches-call-of-duty-frame-rate-fluctuations/"><u>Modern Warfare 3 Gaming Hitches - Call of Duty Frame-Rate Fluctuations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-apex-legends-not-launching-easy-and-fast-fixes-available/"><u>Overcome Apex Legends Not Launching - Easy & Fast Fixes Available</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-repairing-your-madden-nfl-22-game-when-it-stops-responding/"><u>Quick Solutions: Repairing Your Madden NFL 22 Game When It Stops Responding</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/restore-camera-functionality-on-your-hp-laptop-expert-advice-for-windows-11-users/"><u>Restore Camera Functionality on Your HP Laptop: Expert Advice for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-separate-audio-and-video-glitches-on-youtube-using-chrome-or-firefox-techniques/"><u>Solve Separate Audio and Video Glitches on YouTube Using Chrome or Firefox Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-content-warning-issues-in-voice-chat-applications/"><u>Troubleshooting Steps: Resolving 'Content Warning' Issues in Voice Chat Applications</u></a></li>
 </ul></div>
 

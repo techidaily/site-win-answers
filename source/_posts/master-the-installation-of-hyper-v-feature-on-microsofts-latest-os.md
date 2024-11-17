@@ -1,7 +1,7 @@
 ---
 title: Master the Installation of Hyper-V Feature on Microsoft's Latest OS
-date: 2024-11-03T04:04:53.394Z
-updated: 2024-11-06T21:47:21.305Z
+date: 2024-11-12T12:20:19.805Z
+updated: 2024-11-17T02:15:48.032Z
 tags:
   - win11
   - win10
@@ -41,10 +41,16 @@ God of War
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -54,6 +60,13 @@ God of War
  If a patch is available, it will be detected by Steam or the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -71,6 +84,13 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
@@ -104,19 +124,6 @@ There are mainly two methods for you to update the graphics driver:
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
 
 ## Optimize in-game graphics settings
@@ -138,13 +145,6 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -169,20 +169,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
 
@@ -194,7 +188,21 @@ There are mainly two methods for you to update the graphics driver:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -210,24 +218,10 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
 
@@ -253,20 +247,19 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-awesome.techidaily.com/44cm44ot44oh44kq44kr44oh44op44gu5yuv55s744ks6kaz44kl5pa55rovic0g5yan55sf5lin6io96kej5rai44og44kv44ol44od44kv44cn/"><u>「ビデオカメラの動画を観る方法 - 再生不能解消テクニック」</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reveal-and-receive-the-most-exciting-sites-for-buying-mystery-boxes/"><u>2024 Approved Reveal and Receive The Most Exciting Sites for Buying Mystery Boxes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/2024-guide-resolving-persistent-war-thunder-game-crashes/"><u>2024 Guide: Resolving Persistent War Thunder Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieving-optimal-ark-isle-of-carnage-speed-a-players-guide-to-fps-boosting-on-desktops/"><u>Achieving Optimal ARK: Isle of Carnage Speed: A Player's Guide to FPS Boosting on Desktops</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-a05s-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Samsung Galaxy A05s?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-the-not-launching-glitch-essential-strategies-for-playing-hogwarts-legacy-new-release/"><u>Defeat the Not Launching Glitch: Essential Strategies for Playing Hogwarts Legacy (New Release)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>In 2024, Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-how-to-make-a-youtube-trailer/"><u>In 2024, How To Make a YouTube Trailer</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-non-selectable-components-on-win11-screen/"><u>Overcoming Non-Selectable Components on Win11 Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobia-loading-issue-solved-completing-levels-beyond-the-90-mark-edition/"><u>Phasmophobia Loading Issue Solved - Completing Levels Beyond the 90% Mark Edition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722972977803-quick-fix-freshest-surface-book-drivers-installed-in-a-flash/"><u>Quick-Fix: Freshest Surface Book Drivers Installed in a Flash!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96317064-9781401930226-soul-on-fire/"><u>Soul on Fire | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steamvr-error-308-explained-diagnosis-and-repair-tips-for-a-seamless-experience/"><u>SteamVR Error 308 Explained: Diagnosis and Repair Tips for a Seamless Experience</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/synergy-between-humans-and-computers-through-gestures/"><u>Synergy Between Humans & Computers Through Gestures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-star-citizen-issues-on-windows-platforms/"><u>Troubleshooting Guide: Resolving Star Citizen Issues on Windows Platforms</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unlock-insta-reels-potential-with-proven-tiktok-methods/"><u>[Updated] 2024 Approved Unlock Insta Reels' Potential with Proven TikTok Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-relish-free-movie-playback-pc-and-mac-style/"><u>2024 Approved Relish Free Movie Playback, PC & Mac Style</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-windows-11s-bluetooth-9-effective-fixes-at-hand/"><u>Bring Back Windows 11'S Bluetooth: 9 Effective Fixes at Hand</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lost-ark-gaming-improving-fps-and-addressing-lag-concerns/"><u>Lost Ark Gaming - Improving FPS & Addressing Lag Concerns</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-photo-distortion-techniques-in-ps-for-2024/"><u>Mastering Photo Distortion Techniques in PS for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimizing-windows-11-build-2004-with-enhanced-performance-via-new-conexant-driver-update/"><u>Optimizing Windows 11 (Build 2004) with Enhanced Performance via New Conexant Driver Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002347076-quick-fix-stop-titanfall-2-from-crashing-instantly/"><u>Quick Fix: Stop Titanfall 2 From Crashing Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamping-your-gaming-experience-resolving-risk-of-rain-2-sudden-shutdowns/"><u>Revamping Your Gaming Experience: Resolving 'Risk of Rain 2' Sudden Shutdowns</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-story-behind-facebooks-success-founding-history-user-appeal-and-main-functionalities/"><u>The Story Behind Facebook's Success: Founding History, User Appeal, and Main Functionalities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-get-sea-of-thieves-loading/"><u>Troubleshooting Guide: How to Get Sea of Thieves Loading</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-gta-5-online-connectivity-issues/"><u>Troubleshooting Steps: Resolving 'GTA 5 Online' Connectivity Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-resolving-issues-with-non-responsive-mac-applications/"><u>Troubleshooting Tips: Resolving Issues with Non-Responsive Mac Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-fixes-for-common-issues-reviving-your-ability-to-download-videos-using-videoriver-plus/"><u>Ultimate Fixes for Common Issues: Reviving Your Ability to Download Videos Using Videoriver Plus</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-record-and-edit-an-animoji-or-memoji-karaoke-music-video/"><u>Updated How to Record and Edit an Animoji or Memoji Karaoke Music Video?</u></a></li>
 </ul></div>
 

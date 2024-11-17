@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Lag: Optimizing Your Play of Dying Light"
-date: 2024-09-01T04:08:00.325Z
-updated: 2024-09-02T04:08:00.325Z
+date: 2024-11-11T05:30:00.788Z
+updated: 2024-11-17T06:51:37.699Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The developers of F1 2021 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -38,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/1d642682ec5cb6a6ea7cd33f84c3c6bed241d468d
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch F1 2021 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -59,14 +73,8 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -82,14 +90,8 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch F1 2021 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
 ## Optimize in-game graphics settings
@@ -152,6 +154,13 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run F1 2021 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -165,22 +174,19 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on F1 2021 game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch F1 2021 again after you disabled all the in-game overlays. See if F1 2021 fps drops. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 are convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -190,12 +196,24 @@ If the FPS in F1 2021 still drops, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **I** key at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run F1 2021 to see if you can play it smoothly.
 
@@ -212,8 +230,6 @@ Run F1 2021 to see if you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +237,26 @@ Run F1 2021 to see if you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-combining-visual-and-auditory-elements-in-the-windows-photos-app/"><u>[Updated] Combining Visual and Auditory Elements in the Windows Photos App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-moto-z2-unpacked-a-smartphones-triumph/"><u>[Updated] Moto Z2 Unpacked A Smartphone's Triumph</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-nikon-j5-setting-new-standards-in-high-resolution-video-production/"><u>[Updated] Nikon J5 Setting New Standards in High-Resolution Video Production</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>2024 Approved Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-frame-rate-and-reducing-lag-in-watch-dogs-legion-a-comprehensive-guide/"><u>Boosting Your Frame Rate & Reducing Lag in Watch Dogs: Legion - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/bring-back-the-beats-effective-remedies-for-silent-lenovo-laptops/"><u>Bring Back the Beats: Effective Remedies for Silent Lenovo Laptops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-correct-peer-connectivity-and-download-malfunctions-in-utorrent/"><u>Effective Techniques to Correct Peer Connectivity & Download Malfunctions in uTorrent</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fast-solutions-repairing-your-oculus-rift-s-headset-microphone-in-minutes-2024-edition/"><u>Fast Solutions: Repairing Your Oculus Rift S Headset Microphone in Minutes - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-dead-by-daylights-error-8014-a-comprehve-guide-to-a-seamless-gaming-experience/"><u>Fixing Dead by Daylight's Error 8014 - A Comprehve Guide to a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-a-smooth-experience-how-to-prevent-red-dead-redemption-2-from-freezing-on-pc/"><u>Get a Smooth Experience: How to Prevent Red Dead Redemption 2 From Freezing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-i-fixed-my-steam-server-connectivity-woes-read-on-for-solutions/"><u>How I Fixed My Steam-Server Connectivity Woes – Read On for Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-10-chinese-video-to-english-translator/"><u>In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-lava-storm-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Lava Storm 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/professional-response/"><u>Professional Response</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-play-wolcen-lords-of-mayhem-when-initial-launch-fails/"><u>Resolved: How to Play 'Wolcen: Lords of Mayhem' When Initial Launch Fails</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-how-to-overcome-problems-with-steam-server-connections/"><u>Solution Found: How to Overcome Problems with Steam Server Connections</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-pc-players-stop-slime-rancher/"><u>Ultimate Fixes for PC Players: Stop Slime Rancher</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/whats-new-on-facebook-an-updated-look-for-2024/"><u>What's New on Facebook - An Updated Look for 2024</u></a></li>
+</ul></div>
 

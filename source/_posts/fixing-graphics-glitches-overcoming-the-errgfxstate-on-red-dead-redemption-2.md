@@ -1,7 +1,7 @@
 ---
 title: "Fixing Graphics Glitches: Overcoming the ERR_GFX_STATE on Red Dead Redemption 2"
-date: 2024-09-01T04:07:36.091Z
-updated: 2024-09-02T04:07:36.091Z
+date: 2024-11-15T06:09:41.670Z
+updated: 2024-11-16T16:13:34.076Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Fix 2: Check your Internet connection
 
  If your Internet connection is unstable or slow, you may get the Error Centipede when trying to log in to Destiny 2\. There are a few things you should pay attention to and configure as needed:
@@ -57,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/84fef5f35988a89f310851ba69e27f36f222e4900
 
 If you still get the Error Centipede, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Choose NAT Type 1/Open NAT
 
  When you get the Error Centipede on Destiny 2, you’ll need to make sure your connection is not restricted and can connect to Destiny 2 servers. It’s recommended to set your NAT to Type 1/Open for a stable connection to Destiny servers.
@@ -67,8 +61,12 @@ If you still get the Error Centipede, try the next fix.
  NAT is short for Network Address Translation. Put simply, it operates on your router and allows a single IP address to represent all the devices on your private network. To configure your NAT settings, you’ll either need to enable UPnP or set up Port Forwarding. It’s usually recommended to**try only one method** , unless the first one doesn’t work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1: Enable UPnP
 
  Bungie recommends players to enable UPnP when they encounter network issues, since it’s related to how players are connected within Destiny 2\. Here’s how to set up your UPnP:
@@ -77,20 +75,26 @@ If you still get the Error Centipede, try the next fix.
 2. Type in**cmd** , then press**Shift** and**Enter** to run the command prompt with admin permissions.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig** , then press**Enter** . Copy the address of your**default gateway** as we’ll need them for the next steps.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
 6. Once you’re logged in, look for UPnP settings. The location may differ on different brands, you can refer to user manuals or turn to specialists for help.
 7. **Enable UPnP** , and save the changes.
 
 You can now test a game to see if you still get the Centipede Error.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Port Forwarding
 
@@ -102,28 +106,34 @@ You can now test a game to see if you still get the Centipede Error.
 2. Type in**cmd** , then press**Shift** and**Enter** to run the command prompt as Admin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-cmd-1.jpg)
 3. Type in**ipconfig /all** , then press**Enter** . Record the information that we’re gonna use in the following steps:**IPv4 Address, Subnet Mask, Default Gateway, and DNS Servers** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfigall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step 2: Assign a static IP address
 
 1. Press the**Windows logo key** and**R** to invoke the Run box.
 2. Type in**npca.cpl** , then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3: Set up Port Forwarding
 
@@ -179,10 +189,24 @@ You can now test a game to see if you still get the Centipede Error.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. Here for example, I can update the graphics driver on my PC as well. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. If this doesn’t solve the Error Centipede for you, try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Use a VPN when your Internet access is restricted
 
@@ -210,8 +234,6 @@ You can now test a game to see if you still get the Centipede Error.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +241,23 @@ You can now test a game to see if you still get the Centipede Error.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-viewer-interest-with-thumbnails/"><u>[New] 2024 Approved Enhancing Viewer Interest with Thumbnails</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-seamlessly-upload-videos-onto-youtubes-platform/"><u>[New] In 2024, How to Seamlessly Upload Videos Onto YouTube's Platform</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-ultimate-workshop-designers-app/"><u>2024 Approved Ultimate Workshop Designer's App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acclaimed-15-video-filters-to-elevate-gopro-cinematography/"><u>Acclaimed 15 Video Filters to Elevate GoPro Cinematography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004486562-dead-space-reboot-wont-start-here-are-5-expert-fixes-for-gamers/"><u>Dead Space Reboot Won't Start? Here Are 5 Expert Fixes for Gamers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/exploring-free-superior-webm-video-playback-solutions-for-2024/"><u>Exploring Free, Superior WebM Video Playback Solutions for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/feature-update-to-windows-10-version-1803-failed-solved/"><u>Feature Update to Windows 10 Version 1803 Failed [SOLVED]</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-conversion-change-asf-files-into-avi-format-with-ease-movavi/"><u>Free Online Conversion: Change ASF Files Into AVI Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-effortlessly-detach-geforce-experience-from-your-computer-nvidia/"><u>How to Effortlessly Detach GeForce Experience From Your Computer (NVIDIA)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-input-delay-problems-for-a-smoother-valorant-experience-on-your-pc/"><u>How to Resolve Input Delay Problems for a Smoother Valorant Experience on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/keep-playing-seamlessly-how-to-optimize-maplestory-on-latest-windows-version-this-year/"><u>Keep Playing Seamlessly: How to Optimize MapleStory on Latest Windows Version This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-art-of-stability-solve-frequent-blender-crash-issues-on-windows-and-mac/"><u>Master the Art of Stability: Solve Frequent Blender Crash Issues on Windows & Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-in-fifa-21-expert-strategies-to-fix-crashes-on-pc/"><u>Mastering Stability in FIFA 21: Expert Strategies to Fix Crashes on PC</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-bring-your-ideas-to-life-top-free-3d-animation-apps-for-android-and-iphone/"><u>New In 2024, Bring Your Ideas to Life Top Free 3D Animation Apps for Android and iPhone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-motorola-moto-g04-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Motorola Moto G04 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-optimization-achieved-no-more-freezing-for-total-war-warhammer-iii-gamers/"><u>PC Optimization Achieved: No More Freezing for Total War: Warhammer III Gamers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Team Up & Conquer in Roller Champions Cross-Platform Battle Royale [PC Version, 2024]
-date: 2024-10-30T01:47:01.394Z
-updated: 2024-10-31T20:28:01.293Z
+date: 2024-11-13T06:27:22.557Z
+updated: 2024-11-17T12:12:47.043Z
 tags:
   - win11
   - win10
@@ -49,10 +49,10 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 [10: Reinstall Football Manager 2022](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## System requirements for FM22
@@ -66,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 | **Storage**   | 7GB available space                                                                      |
 | **DirectX**   | Version 11                                                                               |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  The first fix you can try is to verify the game files via the game launcher. If the crashing issue was caused by any missing or corrupted game files, the verification process will make sure those files are added or replaced to solve the problem.
@@ -85,25 +78,19 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Epic Games
 
 1. Go to your Epic Games library and find Football Manager 2022\. Click on the **three-dot icon** next to the game title.
 2. In the drop-down menu, click**Verify** .
 
  If scanning and repairing the game files doesn’t solve the crashing issue for you, try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -133,17 +120,17 @@ thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36fe
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-51-25.png)
 2. Click**(your username)’s Favorite** \>>**Select a game** \>>**Football Manager 2022** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-52-33.png)
 3. You can**unsubscribe** from the mods one at a time to test which item was causing the problem.
 
 If this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Delete cache/preferences folders
 
@@ -154,18 +141,18 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/hidden-items.jpg)
 3. Navigate to   **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Delete the **Preferences** and/or **Cache** folder(s).
 
  If you want to keep the preferences and cache files, you can move these folders to the desktop. As long as they’re not in the FM22 folder, you can run the game to test the issue.
 
 If this fix doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Repair corrupted system files
 
@@ -180,6 +167,13 @@ If this fix doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ## Fix 6: Close unnecessary programs
@@ -190,16 +184,23 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the **Processes** tab, right-click at the process(es) that you want to shut down, and click **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your antivirus software
 
@@ -222,13 +223,6 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available system updates. If there are _no_  available updates, you’ll get a **You’re up to date** sign. You could also click **View all optional updates** and install them if needed.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
@@ -242,17 +236,17 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/new-folder.jpg)
 2. Navigate to   **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Cut all the folders here and paste them into the new folder you created on the desktop.
 4. Launch Football Manager 2022 to test the issue. If the problem is solved, you can copy the game files back to the original installation path.
 
 If this doesn’t help, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 10: Reinstall Football Manager 2022
 
@@ -281,22 +275,22 @@ If this doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-fine-tune-your-igtv-videos-appeal-a-tale-of-titles-and-descriptions/"><u>[Updated] Fine-Tune Your IGTV Video's Appeal A Tale of Titles & Descriptions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-stepwise-approach-transform-fish-voices-on-pcs/"><u>[Updated] Stepwise Approach Transform Fish Voices on PCs</u></a></li>
-<li><a href="https://win-latest.techidaily.com/1728476461125-windows-11/"><u>重現 Windows 11 中丟失檔案：四種有效解決方式</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-your-pcs-performance-for-smooth-gameplay-in-forza-horizon-5/"><u>Boosting Your PC's Performance for Smooth Gameplay in Forza Horizon 5.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crack-the-code-resolving-detroits-crash-dilemma-for-pc-gamers/"><u>Crack the Code: Resolving Detroit's Crash Dilemma for PC Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-the-freezing-issue-how-to-stop-f1-202n-from-continuously-crashing/"><u>Fix the Freezing Issue: How to Stop F1 202N From Continuously Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-for-persistent-crashes-in-game-names-thunder-tier-one-on-windows/"><u>Fixes for Persistent Crashes in [Game Name]'s Thunder Tier One on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-resolving-valheim-game-not-starting-up-a-complete-walkthrough/"><u>Fixing the Issue: Resolving Valheim Game Not Starting Up - A Complete Walkthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-apex-legends-running-again-quick-fixes-for-launch-problems/"><u>Getting Apex Legends Running Again: Quick Fixes for Launch Problems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/guide-6-effective-fixes-for-family-sharing-hurdles-on-ios-devices/"><u>Guide: 6 Effective Fixes for Family Sharing Hurdles on iOS Devices</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/head-to-head-showdown-final-cut-pro-or-lumafusion-for-video-editing/"><u>Head-to-Head Showdown Final Cut Pro or LumaFusion for Video Editing?</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-does-metaai-challenge-traditional-ai-dialogue-tools/"><u>How Does MetaAI Challenge Traditional AI Dialogue Tools?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steamvr-issues-heres-how-to-get-it-working-fast-and-easy/"><u>SteamVR Issues? Here's How to Get It Working Fast & Easy</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/alancing-act-creative-freedom-vs-major-company-support/"><u>The Balancing Act Creative Freedom vs Major Company Support</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/unlock-the-secrets-of-webinar-recording-a-users-manual-macos-windows/"><u>Unlock the Secrets of Webinar Recording A User's Manual (macOS, Windows)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unveiling-the-mystery-of-skyrims-muted-adventures-a-guide-to-restoring-sounds/"><u>Unveiling the Mystery of Skyrim's Muted Adventures – A Guide to Restoring Sounds</u></a></li>
-<li><a href="https://win-online.techidaily.com/1726027259482-wonderfox/"><u>WonderFox フリーダウンロードポータル - 最適化された取得法</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-crafting-a-verified-instagram-account-essential-actions-for-rapid-follower-expansion/"><u>[New] In 2024, Crafting a Verified Instagram Account Essential Actions for Rapid Follower Expansion</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swift-access-to-youtube-srt-files-three-key-points/"><u>[New] Swift Access to YouTube SRT Files Three Key Points</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ners-guide-top-10-youtube-editing-tricks/"><u>Beginner's Guide Top 10 YouTube Editing Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/breaking-down-cod-warzones-devilish-error-6328-top-strategies-to-succeed/"><u>Breaking Down Cod Warzone's Devilish Error 6328 - Top Strategies to Succeed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-address-and-fix-the-nwstore-exe-error-on-windows/"><u>Effective Strategies to Address and Fix the NW_Store Exe Error on Windows</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/future-proof-skills-with-top-linkedin-learning-programs-for-2cuary/"><u>Future-Proof Skills with Top LinkedIn Learning Programs for 2Cuary</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-counter-strike-2-crashing-problems-on-your-computer/"><u>How to Resolve Counter-Strike 2 Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-deciphering-youtubes-monetary-mechanisms/"><u>In 2024, Deciphering YouTube's Monetary Mechanisms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-gain-unlimited-stock-videos-through-essential-4-youtube-sources/"><u>In 2024, Gain Unlimited Stock Videos Through Essential 4 YouTube Sources</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-overcoming-directx-problems-in-call-of-duty-mw2/"><u>Quick Fixes for Overcoming DirectX Problems in Call of Duty MW2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-enabling-gpu-detection-for-msi-afterburner-on-windows-10-and-11-systems/"><u>Solution Guide: Enabling GPU Detection for MSI Afterburner on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-file-unpreviews-in-windows-based-outlook/"><u>Troubleshooting File Unpreviews in Windows-Based Outlook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-no-match-situations-in-warzone-on-pc/"><u>Troubleshooting Steps: Resolving No-Match Situations in Warzone on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unboxing-lenovo-thinkpad-x1-fold-a-curious-blend-of-playful-innovation-and-premium-pricing-explored/"><u>Unboxing Lenovo ThinkPad X1 Fold: A Curious Blend of Playful Innovation & Premium Pricing Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-resolving-non-functional-steam-remote-play-feature/"><u>Unlock the Secrets to Resolving Non-Functional Steam Remote Play Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-ready-or-not-pc-crashes-your-ultimate-guide/"><u>Winning Against 'Ready Or Not' PC Crashes - Your Ultimate Guide</u></a></li>
 </ul></div>
 

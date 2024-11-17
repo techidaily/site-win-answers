@@ -1,7 +1,7 @@
 ---
 title: Resolving the Problem of Razer Synapse Application Failure to Start
-date: 2024-08-28T00:05:01.508Z
-updated: 2024-08-29T00:05:01.508Z
+date: 2024-11-16T08:57:33.929Z
+updated: 2024-11-17T12:35:25.596Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Remove recently installed addons
 
  If Kodi crashes soon after you install an add-on, the add-on is probably the culprit. To see if this is causing your problem, you should remove the add-on’s directory from Kodi’s**userdata** folder:
@@ -52,28 +49,40 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 3. In the address bar, type**%APPDATA%\\Kodi\\userdata**  then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048ab00113.jpg)
 4. Double-click on the**addon\_data** folder, and select the add-on directory that you think might be causing Kodi to crash, and press**Del** to delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048c0c90e2.jpg)  
 
  If you’re not sure which one is the culprit, you can go back to the **userdata** folder to open the**Database** folder in it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048d401e0e.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048f70a8a4.jpg)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  then delete the **Addons27** file.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Relaunch Kodi and check if your problem is resolved. If not, try the next Fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable hardware acceleration
 
  Hardware acceleration is also known to cause Kodi to crash. To check for it, you should try disabling hardware acceleration in Kodi:
@@ -81,19 +90,29 @@ thumbnail: https://thmb.techidaily.com/c465b3961d0e8ae791649e84e8128b1614e8e09e9
 1. Click the**gear icon** to go to the settings menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa65d2a1b9.jpg)
 2. Click **Player settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa6b255d47.jpg)
 3. In the bottom left corner, click the gear icon**three times** to change the mode from**Standard** to**Expert** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa72e13b88.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa7a1d4a61.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 4. Highlight the **Video** tab, then on the right side, in the **Processing** section, turn off **Allow hardware acceleration -DXVA2** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa89e02e8f.jpg)
 5. Restart Kodi and check if Kodi now works. If not, try Fix 4, below.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -113,9 +132,14 @@ Fortunately, this is also one of the easiest problems to fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b94e4d9d8.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This require the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b95f34603.jpg)
 4. Restart your computer and check if Kodi now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 5, below.
 
@@ -129,24 +153,33 @@ You can also try doing a clean install of Kodi:
    1. Press the**Windows logo key**  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049208907a.png)  
     and **R**  key simultaneously to open the Run dialog, then type **control**  in the box, and click **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
    2. In Control Panel, under**Programs** , click **Uninstall a program** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc0493f39cb6.jpg)  
    3. Right-click Kodi, then click **Unistall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049667a22b.jpg)
 2. Remove Kodi completely from your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    1. Press the**Windows logo key** and**E** key at the same time to open**File Explorer** .  
    2. In the address bar, type**%APPDATA%** and press**Enter** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc04983b826b.jpg)  
    3. Select the**Kodi** folder, and press**Shift+Del** to delete the folder permanently.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049984724f.jpg)
 3. **Restart** your PC.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 4. **Download** Kodi v17.6 “Krypton” from **[here](https://kodi.tv/download)**  .
 5. Open the downloaded file and follow the on-screen instructions to install Kodi.
 6. Run Kodi and test.
@@ -165,8 +198,6 @@ That’s it.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +205,26 @@ That’s it.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-record-your-games-with-diverse-software-solutions/"><u>[New] How to Record Your Games with Diverse Software Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ice-arena-intensity-the-fastest-moments-in-olympics-for-2024/"><u>[New] Ice Arena Intensity The Fastest Moments in Olympics for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unleash-creativity-best-snap-ideas-of-the-year/"><u>[Updated] Unleash Creativity Best Snap Ideas of the Year</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-7-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 7 Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-free-dvd-creation-tools-of-2024-top-picks-for-quick-and-easy-use-on-windows-11/"><u>Best Free DVD Creation Tools of 2024: Top Picks for Quick & Easy Use on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/buy-wonderfoxs-top-rated-nokia-video-transcoder-software-factory-pro-edition/"><u>Buy WonderFox's Top-Rated Nokia Video Transcoder Software – Factory Pro Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/capturing-live-webcast-audio-in-windows-10-a-step-by-step-guide/"><u>Capturing Live Webcast Audio in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-on-isolating-and-saving-audio-tracks-from-youtube-content/"><u>Comprehensive Guide on Isolating and Saving Audio Tracks From YouTube Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-trimming-your-youtube-content-techniques-before-uploading-after-publishing-and-during-downloads/"><u>Comprehensive Guide to Trimming Your YouTube Content: Techniques Before Uploading, After Publishing & During Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/copying-encrypted-dvds-made-easy-a-comprehensive-tutorial-for-windows-users/"><u>Copying Encrypted DVDs Made Easy: A Comprehensive Tutorial for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cropping-your-videos-with-windows-movie-maker-on-windows-11-a-step-by-step-guide/"><u>Cropping Your Videos with Windows Movie Maker on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-installation-tutorial-for-mp3-streamer-plugin-in-your-kodi-device-leia-version/"><u>Easy Installation Tutorial for MP3 Streamer Plugin in Your Kodi Device (Leia Version)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-installation-tutorial-setting-up-autowidget-in-kodi-versions-20-and-19/"><u>Easy Installation Tutorial: Setting Up AutoWidget in Kodi Versions 20 and 19</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-accuracy-in-game-saves-using-fbx-tech/"><u>Mastering Accuracy in Game Saves Using FBX Tech</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/surpassing-procreate-top-5-windows-drawers-reviewed/"><u>Surpassing Procreate: Top 5 Windows Drawers Reviewed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-note-12-4g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi Note 12 4G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-stop-kernelbasedll-crashes-easily-today/"><u>Troubleshoot and Stop KernelBase.dll Crashes Easily Today!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wireless-harmony-windows-and-bluetooth-unite/"><u>Wireless Harmony: Windows & Bluetooth Unite</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/44k544kv44oq44o844oz44os44kz44o844oa44o844ks5l244gj44gf57ch5y2y44gq6yyy55s777yg5lplusd5a2y5oml5rov/"><u>スクリーンレコーダーを使った簡単な録画＆保存手法</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the 'Launch Failed': A Guide for Starfield Players on PC and Xbox"
-date: 2024-08-28T00:04:43.570Z
-updated: 2024-08-29T00:04:43.570Z
+date: 2024-11-09T16:44:33.761Z
+updated: 2024-11-17T06:32:39.365Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ Avatar: Frontiers of Pandora is an exciting and visually stunning new open-world
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-crashing-on-PC-1-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the system requirements
 
  Before troubleshooting crashes further, first make sure your PC hardware meets or exceeds the minimum system requirements to properly run Avatar: Frontiers of Pandora.
@@ -67,8 +74,12 @@ _Recommended requirements_
 If your PC perfectly meets the requirements, try the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Run the game with administrator rights
 
  Some games run into stability issues or crashes if they do not have administrator access to modify certain protected files, registry keys, or hardware functions. Running Avatar as an admin could resolve these permission-related clashes.
@@ -83,10 +94,14 @@ To make your game permanently run with admin rights for all users:
 3. Check the box next to**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/win11-Run-this-program-as-an-administrator-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After applying the changes, launch the game. If your issue persists, don’t worry! Below are some other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable background applications
 
@@ -100,14 +115,8 @@ To make your game permanently run with admin rights for all users:
 3. Right-click the process that you don’t need to run while playing Avatar: Frontiers of Pandora and select **End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Discord-End-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 If your game still crashes, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update Windows
 
  Keeping Windows updated with the latest patches and fixes can significantly improve gaming performance and prevent crashes related to OS bugs or conflicts.
@@ -119,10 +128,6 @@ If your game still crashes, proceed to the next fix.
 2. When the updates are available, simply click on the button **Download & install** .  
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
 If your issue persists, try the next fix below.
@@ -149,11 +154,15 @@ If your issue persists, try the next fix below.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify game files
 
@@ -166,8 +175,12 @@ If your issue persists, try the next fix below.
 3. Select**Properties** in the menu. Under**Local files** , click**Verify files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files-Ubisoft-Connect.jpg)
 4. If prompted, select**Repair** . Ubisoft Connect PC will then download and restore any missing or corrupted files.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On Epic Games Launcher
@@ -177,9 +190,14 @@ If your issue persists, try the next fix below.
 3. Click the**three dots** on the right side of the game line. Select**Manage** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files-Manage.jpg)
 4. Click on the**VERIFY** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Verify-integrity-of-game-files.jpg)
 5. Wait for validation to complete. It may take a while to verify all your files.
 
@@ -196,10 +214,6 @@ If your issue persists, try the next fix below.
 
 When the process is completed, launch your game and see how things go.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 7\. Disable in-game overlay (Ubisoft Connect)
 
  The overlay feature often requires additional processing power and memory, and disabling it may reduce the overall burden on your system during gameplay.
@@ -207,15 +221,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. On Ubisoft Connect PC, open the side menu by selecting the**three-lined icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-three-lines.jpg)
 2. Select **Settings** .
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. In the**General** section,**uncheck** the box next to Enable in-game overlay for supported games.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Disable-in-game-overlay-Ubisoft-Connect.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Try to relaunch your game to see if it takes effect.
 
 ## 8\. Try -dx11/-dx12 in launch arguments (Ubisoft Connect)
@@ -228,8 +236,12 @@ Try to relaunch your game to see if it takes effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-dx12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If this doesn’t work, proceed to the next fix.
 
 ## 9\. Start your game in High Priority
@@ -247,8 +259,12 @@ If this doesn’t work, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-Set-priority-High-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After applying the changes, launch Avatar: Frontiers of Pandora. If your game still crashes frequently, try the next fix below.
 
 ## 10\. Check for corrupted system files
@@ -261,14 +277,8 @@ If this doesn’t work, proceed to the next fix.
 2. Launch Fortect and run a complete scan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Fortect-START-SCAN.png)
 3. You’ll get a scan summary listing all the issues it detects. Click **Start Repair** to fix the problems (and you’ll need to pay for the full version which comes with a **60-day money-back** guarantee).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 Once done, reboot your device and try to launch the game.
 
 ---
@@ -281,8 +291,6 @@ Once done, reboot your device and try to launch the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -290,4 +298,21 @@ Once done, reboot your device and try to launch the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-elite-9-access-privileged-video-downloads/"><u>[New] Elite 9 Access Privileged Video Downloads</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fundamental-equipment-for-channel-foundations-for-2024/"><u>[Updated] Fundamental Equipment for Channel Foundations for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-top-ten-viewers-favorites-in-a-single-day-on-youtube-for-2024/"><u>[Updated] Top Ten Viewers' Favorites in a Single Day on YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-6-aac-apps-compared-optimal-solutions-for-windows-macos-and-mobile-devices/"><u>Best 6 AAC Apps Compared: Optimal Solutions for Windows, macOS & Mobile Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/capturing-content-on-xumo-exploring-three-in-depth-strategies/"><u>Capturing Content on XUMO: Exploring Three In-Depth Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/convert-avi-files-to-swf-format-free-top-onlineoffline-tools/"><u>Convert AVI Files to SWF Format Free: Top Online/Offline Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cutting-edge-captures-delving-into-iphone-xs-camera/"><u>Cutting Edge Captures Delving Into iPhone X's Camera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dvd-shrink-mp4/"><u>DVD Shrink MP4への変換可能性：ご利用は可能でしょうか？</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-camera-gimbals-top-10-iphone-android-dslr-compilation-for-2024/"><u>Ideal Camera Gimbals Top 10 IPhone, Android, DSLR Compilation for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-best-of-the-best-1-ranked-4k-gaming-pcs/"><u>In 2024, Best of the Best #1 Ranked 4K Gaming PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-the-process-for-free-pictured-frame-files/"><u>In 2024, Streamlining the Process for Free Pictured Frame Files</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/macbook-showdown-air-versus-pro-which-one-suits-you-best/"><u>MacBook Showdown: Air Versus Pro – Which One Suits You Best?</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620190501-ultimate-xvid-video-player-guide-ideal-choice-for-pcs-macs-smartphones-and-tablets/"><u>Ultimate Xvid Video Player Guide: Ideal Choice for PCs, Macs, Smartphones & Tablets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44k544oq44o844oi44k444oj5oof5acxic0g44kv44oq44od44ox44gu44g44ks5l244gj44gm44cb6ycf44gp44gm57ch5y2y44gq5yuv55s757eo6zug/"><u>スリーモジャ情報 - クリップのみを使って、速くて簡単な動画編集</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition"
-date: 2024-11-04T04:54:48.548Z
-updated: 2024-11-06T19:01:26.857Z
+date: 2024-11-14T07:58:26.976Z
+updated: 2024-11-16T20:13:01.091Z
 tags:
   - win11
   - win10
@@ -67,26 +67,19 @@ thumbnail: https://thmb.techidaily.com/14b0662c78e5872a3461f2dbc1feb1f76e4bd1f28
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-1.jpg)
 3. Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-verify-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once it completes, launch Rainbow Six Siege again to see if it solves the black screen problem.
 
 If not, then you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -116,6 +109,13 @@ Here are two ways you can try to update your graphics driver:
 
 If the black screen issue still remains, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows updates
 
  If you’re on Windows 10, you might fix the black screen error by installing the latest Windows updates. That’s because every Windows update will fix mostly all the latest bugs. Here’s how to do it:
@@ -139,6 +139,13 @@ If the black screen issue still remains, you can try the next fix.
 
 If the problem still remains, you can try the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check the advanced power options
 
  Your power settings might affect your GPU’s performance based on power saving options. To make sure your graphics card is properly powered, you can check the advanced power settings. Here’s how to do it:
@@ -149,13 +156,6 @@ If the problem still remains, you can try the following fixes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hardware-sound.jpg)
 3. Click**Power Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/power-options.jpg)
 4. Then click**Change plan settings** .  
@@ -169,6 +169,13 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/link.jpg)
 7. Open the drop-down menu next to**On battery** and**Plugged in** orderly, then select**Off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off01.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off02.jpg)
 
@@ -177,19 +184,6 @@ If the problem still remains, you can try the following fixes.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/apply-ok.jpg)
 
  Now you can relaunch Rainbow Six Siege. This should fix your black screen issue. But if not, then you should try the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Force borderless windowed mode in games
 
@@ -203,16 +197,10 @@ If the problem still remains, you can try the following fixes.
 4. **Save** the file and run Rainbow Six Siege to see if it fixes the black screen issue.
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If the issue remains, you can try the next fix below.
@@ -226,32 +214,26 @@ If the issue remains, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility1-1.jpg)
 3. In the drop-down menu beneath that, select**Windows 7** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility2-1.jpg)
 4. Check the box of**Disable fullscreen optimizations** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility3-1.jpg)
 5. Click**OK** to save changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility4-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Then you can launch Rainbow Six Siege to see if the black screen issue is fixed or not.
@@ -293,21 +275,20 @@ If the issue still remains, here’s one last fix for you to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/avoid-crashing-during-your-races-optimizing-forza-horizon-4-for-windows-users/"><u>Avoid Crashing During Your Races: Optimizing Forza Horizon 4 for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-pc-ark-prehistoric-tales-play-throughput-best-techniques-for-elevated-frame-rates/"><u>Boost Your PC ARK: Prehistoric Tales Play Throughput - Best Techniques for Elevated Frame Rates</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-the-hurdles-a-step-by-step-solution-for-playing-evil-genius-2/"><u>Defeating the Hurdles: A Step-by-Step Solution for Playing Evil Genius 2</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/easy-installation-pathway-setting-up-llama-2-in-local-environment/"><u>Easy Installation Pathway: Setting Up Llama 2 in Local Environment</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/fifth-round-of-top-time-lapse-capture-apps/"><u>Fifth Round of Top Time-Lapse Capture Apps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974418358-fix-vertical-lines-on-laptop-screen-easily/"><u>Fix Vertical Lines on Laptop Screen. Easily!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-the-best-video-editing-software-videopad-review-and-comparison/"><u>In 2024, The Best Video Editing Software? Videopad Review and Comparison</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/instagram-live-broadcasting-unseen-and-unknown/"><u>Instagram Live Broadcasting Unseen and Unknown</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/macs-best-picks-elite-4k-monitor-showdown/"><u>Mac's Best Picks Elite 4K Monitor Showdown</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-wide-angle-postings-integrating-360-photos-on-mobile-apps-for-2024/"><u>Mastering Wide Angle Postings Integrating 360 Photos on Mobile Apps for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-utorrent-connection-issues-steps-to-restore-downloadpeer-connectivity/"><u>Solving uTorrent Connection Issues: Steps to Restore Download/Peer Connectivity</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-dirt-5s-pc-crash-problem-solutions-unveiled/"><u>Troubleshooting Dirt 5'S PC Crash Problem: Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-reducing-ping-fluctuations-in-bless-unleashed-on-your-gaming-pc/"><u>Ultimate Guide to Reducing Ping Fluctuations in Bless Unleashed on Your Gaming PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-solving-skype-connection-issues-top-10-fixes/"><u>Ultimate Guide: Solving Skype Connection Issues - Top 10 Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722990046171-wolcen-lords-of-mayhem-pc-game-freezes-solutions-found/"><u>Wolcen: Lords of Mayhem PC Game Freezes - Solutions Found</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-review-the-goofy-movie-vhs/"><u>[New] 2024 Approved Review The Goofy Movie VHS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nfluential-interaction-incentives-for-video-makers/"><u>[New] Influential Interaction Incentives for Video Makers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-iphone-night-photography-step-by-step/"><u>[Updated] 2024 Approved IPhone Night Photography Step by Step</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtubes-viewer-count-secret-weights/"><u>[Updated] Unlocking YouTube's Viewer Count Secret Weights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-sharing-tweets-via-vids-on-whatsapp-now/"><u>2024 Approved Sharing Tweets via Vids on WhatsApp Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk/"><u>Cyberpunk 지팬던트 - 오버제어해야 하는 드라이비 문제에 대한 해결책: 지연과 중단을 고조</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-constant-crashing-in-granblue-adventure-on-pc-when-relinking-characters/"><u>Effective Fixes for Constant Crashing in Granblue Adventure on PC When Relinking Characters</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/expert-techniques-for-streaming-facebook-live-2023/"><u>Expert Techniques for Streaming Facebook Live, 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-house-flipper-2-from-crashing-on-windows-and-mac-devices/"><u>How to Stop House Flipper 2 From Crashing on Windows and Mac Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-gionee-f3-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Gionee F3 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mass-effect-legendary-edition-performance-tweaks-addressing-stutter-playback/"><u>Mass Effect Legendary Edition Performance Tweaks: Addressing Stutter Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simple-guide-transforming-dvd-content-into-avi-files-with-minimal-hassle/"><u>Simple Guide: Transforming DVD Content Into AVI Files with Minimal Hassle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolving-cyberpunk-2077-download-errors-on-steam/"><u>Step-by-Step Guide to Resolving Cyberpunk 2077 Download Errors on Steam</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy-for-2024/"><u>The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-your-graphics-driver-the-ultimate-fix-for-enhanced-forza-horizon-5-performance/"><u>Update Your Graphics Driver: The Ultimate Fix for Enhanced Forza Horizon 5 Performance</u></a></li>
 </ul></div>
 

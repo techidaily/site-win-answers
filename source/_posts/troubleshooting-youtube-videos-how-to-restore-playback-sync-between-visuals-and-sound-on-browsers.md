@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting YouTube Videos: How to Restore Playback Sync Between Visuals and Sound on Browsers"
-date: 2024-10-27T23:56:22.318Z
-updated: 2024-10-31T21:48:15.044Z
+date: 2024-11-11T05:44:45.602Z
+updated: 2024-11-17T10:08:25.053Z
 tags:
   - win11
   - win10
@@ -71,16 +71,16 @@ Here’s how you can do this:
 
 ![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -125,6 +125,13 @@ Here’s how you can do this:
 
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the tab**Compatibility** and check the box**Run this program in compatibility mode for:** and make sure that**Windows 8** is selected. Then check the box**Disable fullscreen optimizations** . After that, click**Apply > OK** .
 
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-4.png)
@@ -149,6 +156,19 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
@@ -162,6 +182,13 @@ Here’s how you can do this:
  If the problem persists, then select**No, try again using different settings** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
 
@@ -190,6 +217,13 @@ Here’s how you can do this:
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Allow the launcher through the firewall
 
@@ -237,16 +271,16 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7) Click**Use the following DNS server addresses:** .  
  In**Preferred DNS server:** section, type**8888** .  
@@ -257,19 +291,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 8: Flush the DNS cache
 
  If you’ve changed the DNS server to Google Public DNS and still the app just displays a black screen, then you’re supposed to clear your DNS cache.
@@ -279,13 +300,6 @@ To do this, simply follow the instructions below:
  1) Press **Windows logo key + R**  together on your keyboard. Type **cmd**  and press **Shift + Ctrl + Enter** at the same time.
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) When a prompt appears, simply click **Yes** .
 
@@ -307,32 +321,18 @@ To do this, simply follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check the box**Override high DPI scaling behavior** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 10: Use a VPN
 
@@ -356,10 +356,10 @@ Below is the VPN we would like to recommend:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [black screen](https://tools.techidaily.com/drivereasy/download/)
@@ -380,20 +380,24 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-oculus-has-detected-a-problem-with-your-graphics-drivers/"><u>[Solved] Oculus Has Detected a Problem with Your Graphics Drivers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-conquer-iphone-podcast-downloads-a-step-by-step-guidebook/"><u>[Updated] In 2024, Conquer iPhone Podcast Downloads – A Step-by-Step Guidebook</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-virtual-realms-equip-yourself-with-these-tech/"><u>[Updated] Pioneering Virtual Realms - Equip Yourself With These Tech</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-engaging-in-the-moment-of-a-tiktok-life/"><u>2024 Approved Engaging in the Moment of a TikTok Life</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004405247-conquer-the-skies-on-the-ground-advanced-fps-enhancement-methods-for-war-thunder-gamers/"><u>Conquer the Skies, On The Ground: Advanced FPS Enhancement Methods for War Thunder Gamers !</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-reno-11f-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Reno 11F 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-poco-x5-pro-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Poco X5 Pro Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-ark-wont-open-expert-solutions-and-fixes-launch-problems/"><u>Lost Ark Won't Open? Expert Solutions and Fixes Launch Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-sea-of-thieves-loading-screen-troubleshooting-techniques/"><u>Mastering Sea of Thieves Loading Screen Troubleshooting Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolving-unsupported-hardware-errors-with-your-current-software-suite/"><u>Resolving Unsupported Hardware Errors with Your Current Software Suite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-freezes-in-rocket-league-tips-and-solutions/"><u>Troubleshooting Freezes in Rocket League - Tips & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-and-solving-persistent-crashes-in-final-fantasy-xiv-for-pc-users/"><u>Understanding and Solving Persistent Crashes in Final Fantasy XIV for PC Users</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unleash-the-power-of-obs-in-live-gaming-streams-for-2024/"><u>Unleash the Power of OBS in Live Gaming Streams for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimize-mac-streams-with-these-industrys-favorite-5-apps/"><u>[New] Optimize Mac Streams with These Industry's Favorite 5 Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-innovative-methods-for-preserving-youtube-videos/"><u>[Updated] 2024 Approved Innovative Methods for Preserving YouTube Videos</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-personalizing-teams-windows-for-effective-calls/"><u>[Updated] 2024 Approved Personalizing Teams Windows for Effective Calls</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-to-gif-how-to-make-a-gif-from-vimeo-video/"><u>[Updated] 2024 Approved Vimeo to GIF How to Make a GIF From Vimeo Video</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-vanguard-virtual-venture-voice/"><u>2024 Approved Vanguard Virtual Venture Voice</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieving-victory-over-call-of-duty-error-6328-in-warzone-ultimate-fix-guide-for-gamers/"><u>Achieving Victory over Call of Duty Error 6328 in Warzone - Ultimate Fix Guide for Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/adobe-lightroom-essentials-review-for-2024/"><u>Adobe Lightroom Essentials Review for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-error-0x8000fffd-for-a-smooth-print-run/"><u>Bypassing Error 0X8000FFFD for a Smooth Print Run</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-ways-to-reduce-high-system-load-caused-by-the-popular-mmorpg-new-world/"><u>Efficient Ways to Reduce High System Load Caused by the Popular MMORPG, New World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-call-of-duty-encounter-fixing-fps-drops-and-resolving-in-game-stutter-in-modern-warfare-2-for-windows-players/"><u>Enhance Your Call of Duty Encounter - Fixing FPS Drops and Resolving In-Game Stutter in Modern Warfare 2 for Windows Players</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-a15-4g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy A15 4G to Another | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ful-melodies-best-song-caricatures/"><u>Mirthful Melodies Best Song Caricatures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-pc-installation-errors-in-tiny-tinas-wonderland-solutions-and-fixes/"><u>Overcoming PC Installation Errors in Tiny Tina's Wonderland - Solutions and Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-overcoming-game-lag-and-crashes-on-path-of-exile-free/"><u>Quick Guide: Overcoming Game Lag and Crashes on Path of Exile (Free)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-solutions-to-overcome-madden-22-launch-hang-up-problems/"><u>Quick Solutions to Overcome Madden 22 Launch Hang-Up Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sharpening-graphics-in-cod-warzone-tips-and-tricks-for-a-crystal-clear-experience/"><u>Sharpening Graphics in COD: Warzone: Tips & Tricks for a Crystal Clear Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-among-us-from-freezing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop 'Among Us' From Freezing! Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/savvy-gamers-revenue-predictions-2024/"><u>Tech-Savvy Gamers' Revenue Predictions 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-stutter-in-cs2-optimization-techniques-for-better-frame-rates/"><u>Troubleshooting Stutter in CS2: Optimization Techniques for Better Frame Rates</u></a></li>
 </ul></div>
 

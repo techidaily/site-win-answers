@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Fixing PC Issues When Playing Star Wars Jedi: Fallen Order"
-date: 2024-08-28T00:04:29.719Z
-updated: 2024-08-29T00:04:29.719Z
+date: 2024-11-11T12:38:49.609Z
+updated: 2024-11-17T01:23:46.050Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
  Once you confirm that your gear is up for running Star Wars Jedi, move down and try out the fixes below. However, if your computer doesn’t meet the requirements for this game, please upgrade some of your hardware components first.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix Star Wars Jedi: Fallen Order crash
 
  Here are 6 fixes that have proved useful to many players. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find the one that works.
@@ -61,6 +68,13 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics drivers
 
  Your crashing issue in Star Wars Jedi may be caused by outdated or corrupt graphics card drivers (aka video drivers). To check if that’s the root cause, you should try updating your video drivers to a relatively new and stable version first.
@@ -77,9 +91,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -100,18 +111,36 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -127,18 +156,12 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
 #### I’m playing Star Wars Jedi on Origin
@@ -157,9 +180,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  3) In the drop-down menu, click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
@@ -170,9 +190,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Close unnecessary programs
 
  If there’s a program in your PC that conflicts with Star Wars Jedi, you’ll probably fail to run the game. Although this kind of software clashes don’t occur very often, it’s still worth trying to close unnecessary programs.
@@ -187,9 +204,6 @@ To completely shut down a program:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
 **Note** that your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if Star Wars Jedi can run normally. (Consult your antivirus documentation for instructions on disabling it.)
@@ -213,8 +227,18 @@ To completely shut down a program:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
@@ -243,8 +267,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +274,21 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/1-step-by-step-guide-sharing-videos-on-snapchat-easily/"><u>1. Step-by-Step Guide: Sharing Videos on Snapchat Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030169387-mp4/"><u>効率的にMP4フォーマット変更 - ハンドブレーカ説明</u></a></li>
+<li><a href="https://extra-information.techidaily.com/airborne-mass-movers-selecting-the-best-drones/"><u>Airborne Mass Movers Selecting the Best Drones</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-effortlessly-move-iphone-playlists-and-songs-onto-a-windows-or-mac-desktop/"><u>How to Effortlessly Move iPhone Playlists and Songs Onto a Windows or Mac Desktop</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-use-iphone-data-recovery-applications-to-get-back-lost-photographs/"><u>How to Use iPhone Data Recovery Applications to Get Back Lost Photographs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/masterclass-on-innovative-cover-art-techniques/"><u>Masterclass on Innovative Cover Art Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726026815604-mkv/"><u>MKVファイルのチャプターによる分割方法：保管版完全ガイド</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-shift-to-open-source-intelligence-why-chatgpt-plus-still-outshines-the-availability-of-no-cost-gpt/"><u>The Shift to Open Source Intelligence: Why ChatGPT Plus Still Outshines the Availability of No-Cost GPT- #</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solve-your-airpods-silent-dilemma-with-these-10-troubleshooting-tips/"><u>Ultimate Guide: Solve Your AirPods' Silent Dilemma with These 10 Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/uncharted-territory-latest-windows-10-apps-and-games/"><u>Uncharted Territory Latest Windows 10 Apps & Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726026906161-windows-10/"><u>Windows 10上のスクリーン記録技術３つ：範囲設定によるアプローチ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-mp490/"><u>Windows 11 対応: MP4などを90°折りたたむときにおすすめする最高の手法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028933262-iphoneandroid/"><u>ビデオ音声の活用：iPhone・Android両方で、お気に入りの動画をキャッチフレーズと共に着信音に変更するステップ</u></a></li>
+</ul></div>
 

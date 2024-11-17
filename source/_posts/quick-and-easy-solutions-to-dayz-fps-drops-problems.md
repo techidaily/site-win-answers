@@ -1,7 +1,7 @@
 ---
 title: Quick and Easy Solutions to DayZ FPS Drops Problems
-date: 2024-10-27T10:44:59.181Z
-updated: 2024-11-01T01:26:22.415Z
+date: 2024-11-10T03:53:45.191Z
+updated: 2024-11-17T06:22:29.079Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 8. [**Add Ashen as an exception to your 3rd party antivirus software**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for Ashen
 
@@ -95,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -106,13 +99,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair the game
 
@@ -127,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
  See if you can play the game without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Ashen patch
@@ -143,6 +129,19 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a Windows Update
 
  You also need to make sure that Microsoft Visual C++ Redistributable and Microsoft .NET Framework are not missing or corrupted, because if some of the system files are missing or corrupted, you may also run into the Ashen crash issue.
@@ -153,13 +152,26 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
@@ -187,13 +199,6 @@ thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f725757
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Optimize your graphics card settings
 
  If the specs of your PC is not good enough, you can also try optimizing your graphics card settings. You can follow the steps below to modifying your graphics card settings.
@@ -210,25 +215,18 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
@@ -255,6 +253,13 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 
@@ -264,6 +269,13 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Ashen again to see if the game will crash. If not, congratulations! You’ve resolved this issue; if this issue persists, try the next fix, below.
 
@@ -297,21 +309,14 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-elevate-your-pc-best-8-video-capture-tools-for-windows-10-for-2024/"><u>[New] Elevate Your PC Best 8 Video Capture Tools for Windows 10 for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-ultimate-guide-for-amateurs-and-pros-on-windows-11-video-creation/"><u>[New] In 2024, The Ultimate Guide for Amateurs & Pros on Windows 11 Video Creation</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-principles-of-plot-construction/"><u>[New] Principles of Plot Construction</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-apples-innovation-the-m1-max-clip-explained/"><u>[Updated] In 2024, Apple's Innovation The M1 Max Clip Explained</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-masters-list-of-affordable-and-premium-win-art-tools/"><u>[Updated] Master's List of Affordable & Premium Win Art Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-essential-audio-transforming-software-for-streamers/"><u>2024 Approved Essential Audio Transforming Software for Streamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gaming-experience-eliminating-stutters-and-increasing-frame-rate/"><u>Boost Your Gaming Experience: Eliminating Stutters and Increasing Frame Rate</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-ways-to-correct-winwordexe-application-problems/"><u>Effortless Ways to Correct WINWORD.EXE Application Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-frequent-game-interruptions-during-thaumaturge-play/"><u>Expert Advice: Resolving Frequent Game Interruptions During Thaumaturge Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-battlefront-ii-from-crashing-on-your-windows-machine/"><u>Fixing the Issue: How to Stop Battlefront II From Crashing on Your Windows Machine</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-the-chatgpt-desktop-version-outperforms-its-online-interface/"><u>How the ChatGPT Desktop Version Outperforms Its Online Interface</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-recurring-crashes-in-multiversus-learn-these-8-proven-strategies/"><u>How to Fix Recurring Crashes in MultiVersus - Learn These 8 Proven Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-step-by-step-to-maximizing-adobe-storages-and-exploring-more/"><u>In 2024, Step-by-Step to Maximizing Adobe Storages and Exploring More</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phasmophobias-latest-fault-fixes-a-comprehensive-guide-for-the-new-year/"><u>Phasmophobia's Latest Fault Fixes - A Comprehensive Guide for the New Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/robocop-rogue-city-overcoming-pc-performance-and-stability-issues/"><u>Robocop: Rogue City - Overcoming PC Performance and Stability Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-reno-10-pro-5g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo Reno 10 Pro 5G Location | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-quick-start-using-ez-grabber-effectively/"><u>[New] Quick Start Using EZ Grabber Effectively</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transformative-techniques-podcast-covers-reimagined/"><u>[New] Transformative Techniques Podcast Covers Reimagined</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/1-interface-elements-exploring-the-functionality-of-the-programs-tab/"><u>1. Interface Elements: Exploring the Functionality of the Programs Tab</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-optimization-strategies-fixing-freezing-and-improving-playability/"><u>Cyberpunk 2077 Optimization Strategies – Fixing Freezing and Improving Playability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/final-piece-of-the-puzzle-falls-into-place-for-mafia-ultimate-release-date/"><u>Final Piece of the Puzzle Falls Into Place for Mafia: Ultimate Release Date</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000585923-frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007059561-lost-ark-quiet-dilemma-heres-how-you-can-restore-your-game-sounds/"><u>Lost Ark Quiet Dilemma? Here's How You Can Restore Your Game Sounds!</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/mf4770n-updates-for-streamlined-windows-functionality/"><u>MF4770n Updates for Streamlined Windows Functionality</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/pairing-problem-try-these-6-solutions-for-an-unresponsive-apple-watch/"><u>Pairing Problem? Try These 6 Solutions for an Unresponsive Apple Watch</u></a></li>
 </ul></div>
 

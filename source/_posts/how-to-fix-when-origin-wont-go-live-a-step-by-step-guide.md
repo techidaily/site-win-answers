@@ -1,7 +1,7 @@
 ---
 title: How to Fix When Origin Won't Go Live - A Step-by-Step Guide
-date: 2024-08-28T00:03:16.172Z
-updated: 2024-08-29T00:03:16.172Z
+date: 2024-11-15T12:23:09.600Z
+updated: 2024-11-16T18:01:49.594Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ If your issue continues to occur, then move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart_GTA5_ to see if this fixed your issue.
 
 If it didn’t, read on and try Fix 3.
@@ -86,6 +93,13 @@ If it didn’t, read on and try Fix 3.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
@@ -97,8 +111,12 @@ If it didn’t, read on and try Fix 3.
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Adjust your virtual memory
 
 **Virtual memory** is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when running _GTAV_ , Windows will dip into virtual memory for temporary file storage.
@@ -112,22 +130,33 @@ If it didn’t, read on and try Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27.jpg)
@@ -137,8 +166,12 @@ If it didn’t, read on and try Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **6)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -149,13 +182,17 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Restart your computer and your game.
 
  If your issue still exists, don’t fret. Read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Reinstall your game
 
  You may run into the_GTA5_ freezing issue when the game program is not properly installed on your PC. To fix it, you’ll need to reinstall the game. Here is how to do it:
@@ -176,14 +213,6 @@ If it didn’t, read on and try Fix 3.
 
 If the issue continues to occur, go to the next solution.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Check for Windows updates
 
  In some cases, this issue is triggered by out-of-date and incompatible Windows components. Try installing all the new Windows updates to see if this fixes your issue. Follow the instructions below:
@@ -192,9 +221,6 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-31.jpg)
@@ -216,8 +242,6 @@ If the issue continues to occur, go to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +249,20 @@ If the issue continues to occur, go to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-foundations-of-effective-youtube-broadcasting/"><u>[New] The Foundations of Effective YouTube Broadcasting</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-photo-storage-sites/"><u>[Updated] Top Photo Storage Sites</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-swift-guide-to-validate-your-tiktok-age/"><u>2024 Approved The Swift Guide to Validate Your TikTok Age</u></a></li>
+<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-overcoming-frames-per-second-fps-fluctuations-on-your-computer-setup/"><u>Assassin's Creed Valhalla: Overcoming Frames Per Second (FPS) Fluctuations on Your Computer Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-nvidia-quadro-rtx-8000-graphics-driver-software-for-win-10-8-and-7-systems/"><u>Get Updated NVIDIA Quadro RTX 8000 Graphics Driver Software for Win 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-effective-ways-to-prevent-state-of-decay-2-from-crashing-updated-tips/"><u>Mastering Stability: Effective Ways to Prevent State of Decay 2 From Crashing (Updated Tips )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-your-msi-mystic-light-malfunction-a-complete-guide-to-fixes-in-windows/"><u>Overcome Your MSI Mystic Light Malfunction - A Complete Guide to Fixes in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-why-cant-i-access-my-steam-friend-list/"><u>Resolved: Why Can't I Access My Steam Friend List?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-troubleshooting-guide-solving-the-mysterious-midnight-void-screen-problem/"><u>Star Wars Battlefront II Troubleshooting Guide: Solving The Mysterious Midnight Void Screen Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-constant-wwe-2k22-pc-game-crashes/"><u>Troubleshooting Guide: Fixing Constant WWE 2K22 PC Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-google-hangouts-a-comprehensive-guide/"><u>Understanding Google Hangouts: A Comprehensive Guide</u></a></li>
+</ul></div>
 

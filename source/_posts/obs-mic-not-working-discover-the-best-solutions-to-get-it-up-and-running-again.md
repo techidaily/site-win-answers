@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2024-11-04T04:08:11.433Z
-updated: 2024-11-06T17:39:14.601Z
+date: 2024-11-12T12:57:39.603Z
+updated: 2024-11-17T08:30:02.242Z
 tags:
   - win11
   - win10
@@ -37,16 +37,10 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Disable Discord in Task Manager
@@ -58,19 +52,25 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Delete Discord folders
 
@@ -86,14 +86,21 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
@@ -125,13 +132,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -149,17 +149,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-mastering-minute-details-on-screen-through-zooming-techniques/"><u>[New] 2024 Approved Mastering Minute Details On-Screen Through Zooming Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-harmony-music-edition/"><u>[New] In 2024, Instagram Harmony Music Edition</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-splitcam-vs-competitors-top-tier-video-recording/"><u>[Updated] 2024 Approved SplitCam Vs. Competitors Top-Tier Video Recording?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/common-fixes-for-the-persona-3-reload-failure-to-start-dilemma/"><u>Common Fixes for the Persona 3 Reload Failure to Start Dilemma</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-premier-gatherings-top-events-beyond-vidcon/"><u>In 2024, Youtube's Premier Gatherings Top Events Beyond VidCon</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/notice-cannot-locate-the-requested-site-pages/"><u>Notice: Cannot Locate the Requested Site Pages</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-fps-for-a-smoother-forza-horizon-5-experience-on-computer/"><u>Optimizing FPS for a Smoother Forza Horizon 5 Experience on Computer</u></a></li>
-<li><a href="https://fox-search.techidaily.com/schnelle-migration-von-windows-11-auf-einen-ssd-mehrstufige-anleitung-ohne-komplette-neugestaltung/"><u>Schnelle Migration Von Windows 11 Auf Einen SSD - Mehrstufige Anleitung Ohne Komplette Neugestaltung</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/simple-or-advanced-decide-on-pure-text-or-add-on-gpt-features/"><u>Simple or Advanced: Decide on Pure Text or Add-On GPT Features</u></a></li>
-<li><a href="https://win11.techidaily.com/streamline-heic-photos-into-jpeg-on-pcs/"><u>Streamline HEIC Photos Into JPEG on PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077-wont-utilize-graphics-card-in-windows-10/"><u>Troubleshooting: Cyberpunk 2077 Won't Utilize Graphics Card in Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/understanding-the-impact-of-season-8-updates-on-fortnites-frame-rate-and-gameplay-experience/"><u>Understanding the Impact of Season 8 Updates on Fortnite's Frame Rate and Gameplay Experience</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-master-your-stream-best-cameras-to-capture-every-moment-on-twitch/"><u>[Updated] In 2024, Master Your Stream Best Cameras to Capture Every Moment on Twitch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991984783-battlefield-v-stability-fixes-for-windows-users-no-more-crashes/"><u>Battlefield V Stability Fixes for Windows Users – No More Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-ubisoft-connect-speeds-ultimate-tips-and-tricks/"><u>Boosting Your Ubisoft Connect Speeds: Ultimate Tips and Tricks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/converter-de-m2p-online-sem-custo-a-solucao-do-movavi/"><u>Converter De M2P Online Sem Custo: A Solução Do Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-maplestory-crashing-problems-in-windows-10-expert-advice-and-solutions/"><u>How to Stop MapleStory Crashing Problems in Windows 10: Expert Advice and Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-x100-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo X100 Pattern Lock Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-vive-review-where-real-and-virtual-collide-for-maximum-impact/"><u>In 2024, Vive Review Where Real and Virtual Collide for Maximum Impact</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-fresh-tp-link-ac-wireless-driver-on-your-computer-windows-supported/"><u>Install Fresh TP-Link AC Wireless Driver on Your Computer (Windows Supported)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-time-lapse-video-editing-top-picks-for-free-and-paid-tools/"><u>New In 2024, Time-Lapse Video Editing Top Picks for Free and Paid Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/newly-updated-windows-11-drivers-for-amd-radeon-hd-ebyss-optimizing-performance-and-stability/"><u>Newly Updated Windows 11 Drivers for AMD Radeon HD Ebyss - Optimizing Performance & Stability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silence-broken-comprehensive-guide-to-restore-audio-in-skyrim/"><u>Silence Broken: Comprehensive Guide to Restore Audio in Skyrim</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-tricks-to-solve-steams-corrupted-disc-issue/"><u>Simple Tricks to Solve Steam's Corrupted Disc Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-lower-discords-high-cpu-usage-updated-guide-for-2nnd4/"><u>Step-by-Step Solutions to Lower Discord's High CPU Usage - Updated Guide for 2Nnd4</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-with-logitech-g-hub-compatibility-on-pc/"><u>Troubleshooting Guide: Fixing Issues with Logitech G Hub Compatibility on PC</u></a></li>
 </ul></div>
 

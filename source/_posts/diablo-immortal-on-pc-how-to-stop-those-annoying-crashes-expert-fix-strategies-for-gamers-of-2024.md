@@ -1,7 +1,7 @@
 ---
 title: "Diablo Immortal on PC: How to Stop Those Annoying Crashes - Expert Fix Strategies for Gamers of 2024"
-date: 2024-10-31T07:10:25.859Z
-updated: 2024-11-07T03:02:46.714Z
+date: 2024-11-15T13:39:28.341Z
+updated: 2024-11-16T18:19:39.309Z
 tags:
   - win11
   - win10
@@ -35,19 +35,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 5. **[Adjust the proxy settings](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 6. **[Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: End unwanted background programs
 
  Lags might occur if you’re running multiple applications on your computer, hogging network resources. If that’s the case for you, follow the instructions below to check for and turn off them:
@@ -71,6 +58,19 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you close unwanted programs, restart your game to test your problem. If your problem still exists, try[**fix 2**](https://tools.techidaily.com/drivereasy/download/) , below.
 
 #### For Windows 8 or 10 users
@@ -78,13 +78,6 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -142,11 +135,25 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -171,15 +178,22 @@ If not, don’t worry. There are still 5 more fixes to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-329.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Click **APPLY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-330.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch your game to test your problem. If your issue persists, try the next fix.
 
@@ -190,6 +204,13 @@ If not, don’t worry. There are still 5 more fixes to try.
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -203,23 +224,9 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Restart your computer, and then relaunch Dota 2 to test your problem.
 
  Dota 2 should be able to run smoothly after the reboot. If it still can’t work properly, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust the proxy settings
 
@@ -234,6 +241,13 @@ If not, don’t worry. There are still 5 more fixes to try.
 **2)**  Click **Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click the **Connections tab** , and then click **LAN settings** .
 
@@ -255,13 +269,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click **Steam** , and then select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
@@ -269,13 +276,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 **3)**  Click**Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click **OK** .
 
@@ -294,10 +294,16 @@ If not, don’t worry. There are still 5 more fixes to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-781.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)**  Click **OK** .
@@ -330,21 +336,15 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-unlock-the-potential-of-slow-motion-creation-a-comprehensive-guide-to-impressive-instagram-videos/"><u>[New] 2024 Approved Unlock the Potential of Slow-Motion Creation A Comprehensive Guide to Impressive Instagram Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-stylish-profiles-easy-downloads/"><u>[New] In 2024, Stylish Profiles, Easy Downloads</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-discord-overlay-not-working-quickly-and-easily/"><u>[Solved] | Discord Overlay Not Working | Quickly & Easily</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-premium-10-audio-enhancers-for-multiple-systems/"><u>[Updated] In 2024, Premium 10 Audio Enhancers for Multiple Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bloodhunt-performance-tips-for-pc-users-eliminating-lag-preventing-crashes-and-ensuring-seamless-play/"><u>Bloodhunt Performance Tips for PC Users: Eliminating Lag, Preventing Crashes & Ensuring Seamless Play</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-dev-error-6034-glitch-on-pc-and-xbox-tips-for-enhanced-gameplay-in-modern-warfare/"><u>Bypassing Dev Error 6034 Glitch on PC and Xbox: Tips for Enhanced Gameplay in Modern Warfare</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-to-stop-persistent-crashes-of-samurai-warriors-5-on-windows-computers/"><u>Effective Solutions to Stop Persistent Crashes of Samurai Warriors 5 on Windows Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-for-troubleshooting-a-stuck-or-non-responsive-pc-version-of-minecraft/"><u>Expert Tips for Troubleshooting a Stuck or Non-Responsive PC Version of Minecraft</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/how-to-download-vlc-player-for-free-and-safe-on-macstep-by-step-for-2024/"><u>How to Download VLC Player for Free and Safe on Mac?[Step-by-Step] for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-p55-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel P55 FRP</u></a></li>
-<li><a href="https://win-answers.techidaily.com/league-of-legends-network-issues-fixing-and-preventive-measures-for-smooth-gaming/"><u>League of Legends Network Issues - Fixing and Preventive Measures for Smooth Gaming!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-fix-solving-mir4-system-crashes-successfully/"><u>PC Gaming Fix: Solving Mir4 System Crashes Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persistent-crash-woes-in-remnant-from-the-ashes-avoidance-tactics-and-stability-enhancements-discovered/"><u>Persistent Crash Woes in 'Remnant: From the Ashes' - Avoidance Tactics and Stability Enhancements Discovered</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/unlock-the-secrets-of-high-performance-computers-with-insights-from-tomhardware/"><u>Unlock the Secrets of High-Performance Computers with Insights From TomHardware</u></a></li>
-<li><a href="https://win11.techidaily.com/winning-war-against-sse-windows-woes/"><u>Winning War Against SSE Windows Woes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[New] In 2024, How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nubia-red-magic-8s-proplus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nubia Red Magic 8S Pro+ FRP Locks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-back-to-vr-gaming-swift-solutions-for-steamvr-malfunctions/"><u>Get Back to VR Gaming: Swift Solutions for SteamVR Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-star-wars-jedi-fallen-order-not-starting-properly/"><u>Overcoming the Challenge of Star Wars Jedi: Fallen Order Not Starting Properly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-techniques-for-stabilizing-and-boosting-game-frames-per-second/"><u>Successful Techniques for Stabilizing and Boosting Game Frames Per Second</u></a></li>
+<li><a href="https://article-posts.techidaily.com/symphony-in-your-pocket-classic-tones-at-a-click-for-2024/"><u>Symphony in Your Pocket Classic Tones at a Click for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-guide-and-reviews/"><u>Tom's Tech Hub - Comprehensive Guide and Reviews</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlock-multilingual-potential-with-advanced-chatgptplus-tech/"><u>Unlock Multilingual Potential with Advanced ChatGPT+ Tech</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-editing-essentials-2-ways-to-fade-in-and-out-in-fcp/"><u>Updated Audio Editing Essentials 2 Ways to Fade In and Out in FCP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-crashes-avoid-maplestory-problems-in-windows-11-with-these-new-strategies/"><u>Winning Over Crashes: Avoid MapleStory Problems in Windows 11 with These New Strategies</u></a></li>
 </ul></div>
 

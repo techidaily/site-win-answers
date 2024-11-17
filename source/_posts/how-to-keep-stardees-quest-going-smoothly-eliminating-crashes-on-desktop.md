@@ -1,7 +1,7 @@
 ---
 title: How to Keep Stardee's Quest Going Smoothly - Eliminating Crashes on Desktop
-date: 2024-11-02T03:41:08.123Z
-updated: 2024-11-06T19:58:29.816Z
+date: 2024-11-12T21:47:51.074Z
+updated: 2024-11-17T03:55:10.518Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics card driver
 
  If your graphics card driver is corrupted after Windows 10 updates, it may stop Chrome from working properly. To better troubleshoot the problem, you should update your graphics card driver.
@@ -63,17 +56,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run System File Checker
 
@@ -82,13 +75,6 @@ OR
 1. In the Windows search box, type**cmd** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
@@ -101,10 +87,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Clear your browsing data
@@ -115,34 +101,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd67382c1b.jpg)
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
 
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
-
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -157,6 +130,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 5: Reset Chrome settings to default
@@ -168,26 +148,39 @@ OR
 2. At the bottom, click**Advanced** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disconnect and reconnect your Internet
 
@@ -196,6 +189,13 @@ OR
 1. You can simply click the**Network icon** on the taskbar, then select**Airplane mode** to**turn** it**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Restart Chrome to check the issue.
 
@@ -227,20 +227,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-10-music-discoveries-on-spotify/"><u>[Updated] 2024 Approved Top 10 Music Discoveries on Spotify</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quickscreen-recorder-plus-guided-soundtrack-companion-for-2024/"><u>[Updated] QuickScreen Recorder + Guided Soundtrack Companion for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnose-and-repair-your-days-gone-installation-no-more-crashes/"><u>Diagnose & Repair Your Days Gone Installation - No More Crashes !</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-racing-experience-fixing-fps-dips-in-forza-horizon-5-for-windows-users/"><u>Elevate Your Racing Experience: Fixing FPS Dips in Forza Horizon 5 for Windows Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/epic-failures-in-digital-worlds-biggest-players/"><u>Epic Failures in Digital World's Biggest Players</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-system-hangs-during-computer-booting-successfully/"><u>How to Overcome System Hangs During Computer Booting Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-razer-synapse-app-doesnt-start-up/"><u>How to Resolve 'Razer Synapse App Doesn't Start Up'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-continuous-crashes-in-pc-playthrough-of-heroes-of-might-and-magic-vii/"><u>How to Stop Continuous Crashes in PC Playthrough of Heroes of Might & Magic VII</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-s23-fe-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy S23 FE by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-yuneecs-typhoon-h-unmasked-detailed-uav-analysis/"><u>In 2024, Yuneec's Typhoon H Unmasked Detailed UAV Analysis</u></a></li>
-<li><a href="https://solve-info.techidaily.com/recuperacion-eficaz-de-datos-borrados-por-error-tres-formas-de-rescatar-sus-notas-de-icloud/"><u>Recuperación Eficaz De Datos Borrados Por Error: Tres Formas De Rescatar Sus Notas De iCloud</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007736477-steam-vr-not-showing-up-try-these-6-fixes/"><u>Steam VR Not Showing Up? Try These 6 Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-discord-js-errors-quickly-and-effortlessly/"><u>Troubleshooting and Resolving Discord JS Errors Quickly & Effortlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-cant-i-open-palworld-top-reasons-and-quick-fixes/"><u>Why Can't I Open Palworld? Top Reasons and Quick Fixes</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-animator-marketplace-of-custom-creative-stunts-for-2024/"><u>[New] The Animator' Marketplace of Custom Creative Stunts for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-platform-showdown-vimeos-edge-vs-youtube-and-dailymotion/"><u>2024 Approved Platform Showdown Vimeo's Edge vs YouTube & Dailymotion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-the-darkness-fixing-the-star-wars-battlefront-ii-black-screen-malfunction-once-and-for-all/"><u>Banish the Darkness: Fixing the Star Wars Battlefront II Black Screen Malfunction Once & For All</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-companion-apps-for-androidiphone-slow-motion-shooting-for-2024/"><u>Best Companion Apps for Android/iPhone Slow Motion Shooting for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-realme-note-50-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Realme Note 50.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-reboot-your-macs-network-preferences/"><u>Complete Guide: Steps to Reboot Your Mac's Network Preferences</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-implemented-no-more-pc-crashes-in-the-updated-release-of-new-world/"><u>Fixes Implemented – No More PC Crashes in the Updated Release of 'New World'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-resolve-when-red-dead-redemption-2-fails-to-start/"><u>Fixing the Issue: How to Resolve When Red Dead Redemption 2 Fails to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-atomic-heart-application-from-freezing-at-launch/"><u>How to Stop Your Atomic Heart Application From Freezing at Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-managing-marvelous-beings-in-your-system/"><u>Mastering the Art of Managing Marvelous Beings in Your System</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/sifting-through-the-advantages-and-disadvantages-of-vr/"><u>Sifting Through the Advantages and Disadvantages of VR</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-pocket-tecnos-latest-unveiling/"><u>The Future in Your Pocket: Tecno’s Latest Unveiling</u></a></li>
 </ul></div>
 

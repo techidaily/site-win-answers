@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Issues When Attempting to Launch Outlook
-date: 2024-08-28T00:05:05.143Z
-updated: 2024-08-29T00:05:05.143Z
+date: 2024-11-14T02:48:16.526Z
+updated: 2024-11-16T17:16:14.750Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Office Account** , and then click **Update Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-27-1024x620.jpg)
@@ -61,15 +58,16 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Wait for the program to detect the latest version of Outlook, and then follow the on-screen instructions to update your Outlook.
 
  After the update, reopen Outlook to see if it can work correctly. If not, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Repair your Outlook account
 
  Another common cause of the Outlook crash issue is incorrect account settings. To keep Outlook running smoothly, you need to verify that your account settings are correct. Here is how:
@@ -83,18 +81,20 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 3. **Select your account, then click Repair.**  
  Select**your account** , then click**Repair** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-28.jpg)
 4. **Click Next, then follow the on-screen instructions to repair your account.**  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
 5. **Reopen Outlook to check if it runs smoothly now.**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Reopen Outlook to check if it runs smoothly now.
 
 If your problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 4: Remove unnecessary Outlook add-ins
 
  Faulty add-ins running on top of Outlook can also affect its functionality. To fix Outlook crash problems caused by a specific add-in, follow the instructions below.:
@@ -106,8 +106,12 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
@@ -116,16 +120,17 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Verify that the **Manage** option is set to **COM Add-ins** . Then, click **Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **6)** Uncheck the box next to the unessential add-ins to disable them. Then, click **OK.**
 
  Some add-ins may be essential for Outlook to work. So, please don’t uncheck any add-ins that you’re not familiar with.
@@ -133,6 +138,13 @@ If your problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-35.jpg)
 
  Reopen Outlook to see if this worked for you. If your problem still exists, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Rebuild the Outlook data file
 
@@ -144,29 +156,27 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-41.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Data Files tab** . Then, select **your account** and click **Open File Location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)**  If you find an **.ost file** in the current window, right-click **the file** , and then click **Rename** .
 
  If you see a **.pst file** instead, skip this fix and check **[fix 6](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 **6)**  Change the file name extension to **.old** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-45.jpg)
@@ -177,9 +187,6 @@ If your problem persists, try the next fix.
 
  Reopen Outlook to see if this worked for you. If your problem still exists, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Office 365
 
  If none of the above fixes helped, reinstalling Office 365 may be the solution for you. Here is how to do it:
@@ -192,12 +199,16 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click **Microsoft Office 365** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
@@ -206,6 +217,19 @@ If your problem persists, try the next fix.
 **5)**  Click **Install Office** , and then click **Office 365 apps** to download Office 365.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-21.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Open the **downloaded file** and follow the on-screen instructions to install Office 365 again.
 
@@ -225,8 +249,6 @@ If your problem persists, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +256,23 @@ If your problem persists, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-elite-visionaries-video-realm/"><u>[New] Elite Visionaries Video Realm</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ourney-through-virtuality-youtubes-best-10-for-2024/"><u>[New] Journey Through Virtuality YouTube's Best 10 for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-smooth-transitions-the-ultimate-guide-for-audio-editors-for-2024/"><u>[New] Smooth Transitions The Ultimate Guide for Audio Editors for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-masters-building-marvels-virtual-horizons/"><u>[Updated] In 2024, Masters Building Marvel's Virtual Horizons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-seamless-conversion-transforming-xces-files-into-mp4-format-top-3-no-cost-methods-for-pc-users/"><u>1. Seamless Conversion: Transforming XCES Files Into MP4 Format - Top 3 No-Cost Methods for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-transforming-flv-videos-into-mp4-format-a-step-by-step-guide-for-windows-11-users/"><u>1. Transforming FLV Videos Into MP4 Format: A Step-by-Step Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-metagaming-mastery-top-10-friendly-games/"><u>2024 Approved Metagaming Mastery Top 10 Friendly Games</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-engagement-boosting-marketing-on-telegram-platforms/"><u>Elevate Engagement Boosting Marketing on Telegram Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ssd-mbr-vs-gpt/"><u>SSD 選び方 : MBR vs GPT どちらを選べば良いか 明確にする</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-by-step-instruction-on-downloading-installing-and-using-ez-grabber/"><u>Step-by-Step Instruction on Downloading, Installing & Using EZ Grabber</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stream-endless-fun-enjoy-complimentary-cartoons-and-animation-episodes/"><u>Stream Endless Fun: Enjoy Complimentary Cartoons & Animation Episodes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-the-distinctions-between-h2t64-and-mpeg-4-codecs-and-how-to-convert-them/"><u>Understanding the Distinctions Between H.2t64 and MPEG-4 Codecs & How to Convert Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vk-20243/"><u>VK動画ダウンロードガイド 2024年上位3つの方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-10dvd-and/"><u>Windows 10で無料で簡単にDVDをコピーする最適なソフトウェア - レビュー & 推薦</u></a></li>
+<li><a href="https://win-answers.techidaily.com/youtubeyoutube-music/"><u>アップロード先：YouTubeとYouTube Music - 最善の音楽添付方法</u></a></li>
+</ul></div>
 

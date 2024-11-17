@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Troubleshooting Guide for Resolving Call of Duty MW3 FPS Drops - 2024 Edition
-date: 2024-09-26T18:57:01.394Z
-updated: 2024-10-03T17:43:53.712Z
+date: 2024-11-13T04:31:27.379Z
+updated: 2024-11-17T07:11:02.729Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -67,13 +60,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all your drivers, restart your PC and check if the issue persists.
@@ -81,10 +67,10 @@ To do so, first visit the website of your GPU manufacturer:
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
@@ -104,6 +90,13 @@ To do so, first visit the website of your GPU manufacturer:
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -113,14 +106,27 @@ To do so, first visit the website of your GPU manufacturer:
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
@@ -152,18 +158,18 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-essential-10-fcp-plugins/"><u>[New] The Ultimate Guide to Essential 10 FCP Plugins</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-the-ultimate-checklist-for-mastering-bandicam-in-the-new-year/"><u>[Updated] The Ultimate Checklist for Mastering Bandicam in the New Year</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-a24-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy A24</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-acquiring-free-picture-frame-videos/"><u>In 2024, Guide to Acquiring Free Picture Frame Videos</u></a></li>
-<li><a href="https://win-answers.techidaily.com/latest-solutions-to-combat-error-6164-ensuring-smooth-play-in-call-of-duty-modern-warfare-and-warzone-series/"><u>Latest Solutions to Combat 'Error #6164': Ensuring Smooth Play in Call of Duty: Modern Warfare & Warzone Series</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/master-your-hardware-choices-the-ultimate-guide-by-toms-tech-specialists/"><u>Master Your Hardware Choices - The Ultimate Guide by Tom's Tech Specialists</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-portuguese-top-6-study-strategies-for-success/"><u>Mastering Portuguese: Top 6 Study Strategies for Success</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-overcoming-the-notorious-502-bad-gateway-issue-insights-and-solutions/"><u>Mastering the Art of Overcoming the Notorious 502 Bad Gateway Issue: Insights & Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-starting-troubles-in-red-dead-redemption-2-a-comprehensive-guide/"><u>Overcome Starting Troubles in Red Dead Redemption 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-persistent-problems-overcoming-pc-issues-in-dread-hunger/"><u>Resolving Persistent Problems: Overcoming PC Issues in Dread Hunger</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-stop-alan-wake-2-from-crashing/"><u>Ultimate Guide: Stop Alan Wake 2 From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unveiling-destiny-2s-game-changing-broccoli-crash-resolution-of-2024/"><u>Unveiling Destiny 2'S Game-Changing Broccoli Crash Resolution of 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-battle-against-minecraft-setbacks-during-installation-in-windows-11/"><u>Winning the Battle Against Minecraft Setbacks During Installation in Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-reversing-live-action-on-twitch-a-comprehensive-guide/"><u>[New] In 2024, Reversing Live Action on Twitch A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-top-voice-modification-tools-for-youtube-creators/"><u>[Updated] 2024 Approved Top Voice Modification Tools for YouTube Creators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/achieve-peak-performance-for-your-iphone-battery-in-just-six-steps/"><u>Achieve Peak Performance for Your iPhone Battery in Just Six Steps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/hering-the-coded-language-of-concealed-youtube-movies/"><u>Deciphering the Coded Language of Concealed YouTube Movies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-how-to-resolve-msi-afterburner-failure-in-detecting-gpus-on-windows-10-and-11/"><u>Fix Guide: How to Resolve MSI Afterburner Failure in Detecting GPUs on Windows 10 & 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-chrome-browser-freezing-issues-a-comprehensive-guide/"><u>Fixing Chrome Browser Freezing Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-optimize-performance-and-prevent-crashes-in-microsoft-flight-simulator-2020-on-pc/"><u>How to Optimize Performance and Prevent Crashes in Microsoft Flight Simulator 2020 on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-graphics-card-drivers-how-to-install-nvidias-rtx-2070-super-on-windows-1110/"><u>Latest Graphics Card Drivers: How to Install NVIDIA's RTX 2070 Super on Windows 11/10</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-twitters-visual-content-on-snapchat-for-2024/"><u>Leveraging Twitter's Visual Content on Snapchat for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/resetting-admin-controlled-features-in-windows-11-systems/"><u>Resetting Admin-Controlled Features in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-successfully-dealing-with-genshin-impact-error-4201/"><u>Troubleshooting Guide: Successfully Dealing With Genshin Impact Error 4201</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-chrome-easily-master-these-fixes-for-a-smooth-browsing-experience/"><u>Unfreeze Chrome Easily! Master These Fixes for a Smooth Browsing Experience</u></a></li>
 </ul></div>
 

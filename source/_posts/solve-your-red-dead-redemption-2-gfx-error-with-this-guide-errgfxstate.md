@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2024-11-01T21:51:09.419Z
-updated: 2024-11-06T18:18:31.829Z
+date: 2024-11-13T05:51:51.590Z
+updated: 2024-11-17T07:02:28.385Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -48,19 +55,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
@@ -70,10 +64,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
@@ -109,10 +103,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -139,13 +133,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
@@ -158,15 +145,28 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -182,10 +182,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -214,18 +214,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-get-going-on-youtube-video-upload-tutorial-in-premiere/"><u>[New] 2024 Approved Get Going on YouTube Video Upload Tutorial in Premiere</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-precision-and-quality-in-screen-recording-discovering-showmores-benefits/"><u>[New] Precision and Quality in Screen Recording - Discovering ShowMore's Benefits</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-eternal-vision-recorder-tool/"><u>[Updated] 2024 Approved Eternal Vision Recorder Tool</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-master-stitching-gopro-content-in-extended-panorama-videos/"><u>2024 Approved Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-honor-80-pro-straight-screen-edition-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Honor 80 Pro Straight Screen Edition Phone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-crashing-vrchat-on-your-desktop-discover-the-ultimate-8-fixes/"><u>Avoid Crashing VRChat on Your Desktop: Discover the Ultimate 8 Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-overcoming-the-common-computer-freeze-problems-with-football-manager-2022/"><u>Comprehensive Guide: Overcoming the Common Computer Freeze Problems with Football Manager 2022</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-computer-issues-successful-ways-to-prevent-cod-warzone-crashes/"><u>Overcoming Computer Issues: Successful Ways to Prevent COD Warzone Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcome-gtfo-program-crashes/"><u>Step-by-Step Guide to Overcome GTFO Program Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-code-vein-performance-problems-for-a-smooth-gaming-experience/"><u>Troubleshooting Code Vein Performance Problems for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/win10s-best-screen-capture-and-recording-options-for-2024/"><u>Win10's Best Screen Capture and Recording Options for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-124-smile-inducing-short-videos-on-tiktok/"><u>[New] 124 Smile-Inducing Short Videos on TikTok</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[New] 2024 Approved From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-potential-snapchats-business-toolkit/"><u>[New] 2024 Approved Unlocking Potential Snapchat's Business Toolkit</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-picture-perfection-ranking-of-photo-grid-tools/"><u>[Updated] 2024 Approved Picture Perfection Ranking of Photo Grid Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevating-your-workflow-optimizing-googles-podcast-submission-system-for-2024/"><u>[Updated] Elevating Your Workflow Optimizing Google's Podcast Submission System for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-a-course-to-higher-views-with-top-optimization-tactics/"><u>Chart a Course to Higher Views with Top Optimization Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-effects-does-ai-strengthen-or-weaken-our-mental-health-infrastructure-and-offer-guidance/"><u>Exploring the Effects: Does AI Strengthen or Weaken Our Mental Health Infrastructure & Offer Guidance?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-resolving-warzones-non-gpu-usage-problems-for-enhanced-gaming-in-windows-11/"><u>Guide to Resolving Warzone's Non-GPU Usage Problems for Enhanced Gaming in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-diablo-4-performance-eradicate-pc-ps5-and-xbox-interruptions-once-and-for-all/"><u>Master Diablo 4 Performance: Eradicate PC, PS5 & Xbox Interruptions Once & For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-obstacles-patch-update-corrects-destiny-2s-pc-causality-concerns/"><u>Overcoming Obstacles: Patch Update Corrects Destiny 2'S PC Causality Concerns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persistent-bugs-call-of-duty-vanguard-still-causing-crashes-for-windows-users/"><u>Persistent Bugs: Call of Duty Vanguard Still Causing Crashes for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/six-secrets-to-repairing-random-pc-errors-and-preventing-future-crashes/"><u>Six Secrets to Repairing Random PC Errors and Preventing Future Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-for-the-postponed-release-of-immortals-fenyx-rising-game/"><u>Solution Found for the Postponed Release of Immortals: Fenyx Rising Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-guide-getting-back-4-blood-running-smoothly-on-various-windows-systems/"><u>Success Guide: Getting 'Back 4 Blood' Running Smoothly on Various Windows Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-modern-readers-pathway-to-capturing-internet-television-for-2024/"><u>The Modern Reader's Pathway to Capturing Internet Television for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-pertinent-problems-how-to-prevent-pc-game-crashes-effectively/"><u>Total War: Warhammer Pertinent Problems - How to Prevent PC Game Crashes Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-lag-issues-in-fortnite-for-smoother-gameplay/"><u>Troubleshooting Common Lag Issues In Fortnite For Smoother Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-in-hell-let-loose-a-guide-for-players/"><u>Troubleshooting Persistent Crashes in 'Hell Let Loose': A Guide for Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-razer-keyboard-illumination-issues/"><u>Troubleshooting Your Razer Keyboard Illumination Issues</u></a></li>
 </ul></div>
 

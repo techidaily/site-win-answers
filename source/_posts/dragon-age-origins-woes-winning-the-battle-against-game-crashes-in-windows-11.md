@@ -1,7 +1,7 @@
 ---
 title: "Dragon Age: Origins Woes? Winning the Battle Against Game Crashes in Windows 11"
-date: 2024-08-28T00:02:32.807Z
-updated: 2024-08-29T00:02:32.807Z
+date: 2024-11-13T10:44:28.194Z
+updated: 2024-11-16T19:45:04.227Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ thumbnail: https://thmb.techidaily.com/f13aeea6c73457fbc5bbd1b6bff4a0c00a428af0a
 There’re mainly two ways you can update your graphics drivers:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -61,6 +65,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -78,12 +89,16 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -102,15 +117,16 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Turn off GPU acceleration
 
  GPU acceleration is one of the common causes of Premiere Pro crashing. If you’ve turned on GPU acceleration, temporarily disable it to see if you can fix Premiere Pro crashing. Here is how to do it:
@@ -131,14 +147,16 @@ If this fix doesn’t work, try the next fix, below.
 1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
+
 See if this fix stops the crashing. If not, try the next fix, below.
 
 ## Fix 5: Close CPU / memory hogging applications
@@ -153,9 +171,6 @@ See if this fix stops the crashing. If not, try the next fix, below.
 
  To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Check for overheating components
 
  Premiere Pro utilizes both CPU and GPU to perform heavy computations. If Premiere Pro runs on your computer for a long time, your computer may get overheated, especially when its cooling system is not working properly. Once your computer got overheated, Premiere Pro may crash without warning. If it’s the case, you need to cool your computer down.
@@ -171,8 +186,18 @@ To cool down your computer, you may need to
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  In most cases, keeping Premier Pro, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes on this article didn’t help you fix the Premiere crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article:[How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
@@ -190,8 +215,6 @@ To cool down your computer, you may need to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +222,21 @@ To cool down your computer, you may need to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-step-inside-youtube-master-one-frame-no-money-spent/"><u>[New] 2024 Approved Step Inside YouTube Master One Frame, No Money Spent</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhance-content-reach-and-impact-social-blades-role-in-youtube-analytics/"><u>[Updated] 2024 Approved Enhance Content Reach and Impact - Social Blade's Role in YouTube Analytics</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-v27-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo V27 by Name | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/become-an-instant-contributor-at-a-tiktok-gathering-for-2024/"><u>Become an Instant Contributor at a TikTok Gathering for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-immortal-2024-the-ultimate-guide-to-a-stable-gaming-experience-without-pc-disruptions/"><u>Diablo Immortal 2024 - The Ultimate Guide to a Stable Gaming Experience Without PC Disruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-diagnose-and-repair-frontiers-pc-performance-issues/"><u>Expert Advice: Diagnose and Repair Frontier's PC Performance Issues</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-the-art-of-zoom-enhancement-online/"><u>In 2024, Mastering the Art of Zoom Enhancement Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-shadows-masterful-techniques-for-addressing-rainbow-six-sieges-screen-colour-disruption-on-computers/"><u>Overcoming Shadows: Masterful Techniques for Addressing Rainbow Six Siege's Screen Colour Disruption on Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-monster-hunter-rise-wont-start-fix-guide/"><u>Solved: Monster Hunter Rise Won't Start - Fix Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-securing-quality-8k-videos-via-leading-8k-media-extractor-tools/"><u>Step-by-Step Tutorial on Securing Quality 8K Videos via Leading 8K Media Extractor Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-getting-google-chrome-to-open-after-a-stubborn-freeze/"><u>Success Story: Getting Google Chrome to Open After a Stubborn Freeze</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unbeatable-ways-to-archive-lol-encounters/"><u>Unbeatable Ways to Archive LOL Encounters</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-ready-for-the-big-screen-top-movie-trailer-apps-for-iphone-and-ipad/"><u>Updated Get Ready for the Big Screen Top Movie Trailer Apps for iPhone and iPad</u></a></li>
+</ul></div>
 

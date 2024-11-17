@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for When Google Chrome Won't Launch"
-date: 2024-08-28T00:07:05.935Z
-updated: 2024-08-29T00:07:05.935Z
+date: 2024-11-16T03:20:53.437Z
+updated: 2024-11-16T19:54:29.195Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aa
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -64,13 +71,24 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
  3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
@@ -78,8 +96,12 @@ Here is how to grant administrative privileges to Apex Legends:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  You should also check the integrity of the game files to see if any of them are corrupt or missing.
@@ -90,37 +112,25 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Edit Registry
 
  A missing command line from Registry may also lead to the engine error in Apex Legends. So you can add a command line to see if it solves the error.
@@ -145,9 +155,6 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
@@ -169,8 +176,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +183,26 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-maximize-your-youtube-shorts-earnings/"><u>[New] In 2024, How to Maximize Your YouTube Shorts Earnings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-steady-visual-commencement/"><u>[New] In 2024, Steady Visual Commencement</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-resource-hub-free-high-quality-slide-decks-and-ideas/"><u>[New] Resource Hub Free, High-Quality Slide Decks and Ideas</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer-for-2024/"><u>[Updated] Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-in-class-premium-screenshots-and-recorders/"><u>[Updated] In 2024, Best in Class Premium Screenshots & Recorders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-perfectly-preserve-and-profitably-play-your-phones-gifs/"><u>[Updated] In 2024, Perfectly Preserve and Profitably Play Your Phone's GIFs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-5-browser-screen-recorders-for-2024/"><u>[Updated] Top 5 Browser Screen Recorders for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-cod-black-ops-cold-war-glitch-overcome-error-80070057-with-these-steps/"><u>Beat Cod: Black Ops Cold War Glitch - Overcome Error 80070057 with These Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-stardew-valley-wont-boot-properly-on-your-pcmac/"><u>Effective Fixes for When Stardew Valley Won't Boot Properly on Your PC/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-lags-and-stutters-optimizing-your-age-of-empires-4-experience/"><u>Eliminating Lags & Stutters – Optimizing Your Age of Empires 4 Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-to-resolving-apex-legends-game-engine-problems-fixed/"><u>Expert Guide to Resolving Apex Legends Game Engine Problems [FIXED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ghostrunner-not-working-troubleshoot-and-resolve-windows-11-issues-with-ease/"><u>Ghostrunner Not Working? Troubleshoot and Resolve Windows 11 Issues with Ease</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-infinix-note-30-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Infinix Note 30 Pro to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lens-legends-choice-the-finest-6-4k-dslr-cameras/"><u>In 2024, Lens Legends Choice The Finest 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://win-answers.techidaily.com/left-hemisphere-dead-no-more-overcoming-l4d2-game-crashes/"><u>Left Hemisphere, Dead No More: Overcoming L4D2 Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996198874-the-mystery-of-missing-la-noire-pc-version-is-solved-start-playing-today/"><u>The Mystery of Missing L.A. Noire PC Version Is Solved - Start Playing Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-5-solutions-for-resolving-zoom-cant-start-video-issue/"><u>Top 5 Solutions for Resolving 'Zoom Can't Start Video' Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-roblox-startup-problems/"><u>Troubleshooting Steps for Resolving Roblox Startup Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-the-safety-profile-of-openais-chatbot-a-look-at-6-key-risks/"><u>Understanding the Safety Profile of OpenAI's Chatbot: A Look at 6 Key Risks</u></a></li>
+</ul></div>
 

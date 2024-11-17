@@ -1,7 +1,7 @@
 ---
 title: Anno 1800 and DirectX Troubleshooting - Solutions Unveiled
-date: 2024-08-28T00:04:54.401Z
-updated: 2024-08-29T00:04:54.401Z
+date: 2024-11-14T11:13:11.644Z
+updated: 2024-11-16T17:50:07.992Z
 tags:
   - win11
   - win10
@@ -74,17 +74,18 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
 
@@ -95,15 +96,23 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
  4) Restart your computer for the change to take effect.
@@ -114,6 +123,13 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
 
 2) Open the engine.ini file.
@@ -123,6 +139,13 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 4) Check to see if Anno 1800 DirectX error crashes problem is resolved. If not, please try**Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check if your PC meets the system requirements for Anno 1800
 
@@ -152,16 +175,10 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX. You may need to upgrade the hardware of your computer if it fails to meet the system requirement of Anno 1800.
@@ -179,8 +196,6 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +203,18 @@ thumbnail: https://thmb.techidaily.com/12e208bbd75085a265128c07333cb07b6d6f82e50
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-propel-your-presence-on-facebook-mastering-the-art-of-going-live/"><u>[New] In 2024, Propel Your Presence on Facebook Mastering the Art of Going Live</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-gopro-livestreams-to-popular-channels-facebook-and-periscope/"><u>[New] Navigating GoPro Livestreams to Popular Channels (Facebook & Periscope)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-record-gameplay-on-windows-11-for-2024/"><u>[Updated] How to Record Gameplay on Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-lost-in-the-stream-reclaiming-deleted-youtube-videos/"><u>[Updated] Lost in the Stream Reclaiming Deleted YouTube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/202n4youtube/"><u>「202N4年度独占配信！YouTubeでのみ視聴・ダウンロード可能なビデオへのアクセス法」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mosaic-masterpieces-elevating-your-living-space/"><u>2024 Approved Mosaic Masterpieces Elevating Your Living Space</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029612033-shotcut/"><u>動画切り取り入門：Shotcutでのカットと分割方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5pya5paw44kk44ok44ov44kp44oz55so6zplusz5aow6kiy6yyy44k944ov44oi44km44kn44ki44oq44k544oi44ks44gu57s55lul44gx44gplus44gz/"><u>最新イヤフォン用音声記録ソフトウェアリストをご紹介します</u></a></li>
+<li><a href="https://win-answers.techidaily.com/aac-vs-wav/"><u>AAC vs WAVファイル形式 - 違いと高品質に変換する手引き</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029106834-pcdvd/"><u>PCによる容易なDVDコピー技術ガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/precision-in-persona-development-with-chatgpt-assistance/"><u>Precision in Persona Development with ChatGPT Assistance</u></a></li>
+</ul></div>
 

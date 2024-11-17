@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2024-11-01T20:26:31.256Z
-updated: 2024-11-07T05:39:13.659Z
+date: 2024-11-15T16:11:04.277Z
+updated: 2024-11-16T21:02:09.850Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * etc.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
@@ -59,6 +59,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -72,6 +79,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
@@ -84,20 +98,26 @@ If your game isn’t on the list, follow these steps:
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
@@ -120,23 +140,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -179,13 +186,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5\. Use a VPN
 
  It has now been confirmed that some ISPs are having trouble routing to Blizzard and Battle.net servers. It’s very unlikely that you will switch to a different ISP, but there’s still a way to change the routing – using a VPN.
@@ -224,24 +224,21 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-capturing-creativity-android-photography-guide/"><u>[Updated] Capturing Creativity Android Photography Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/assist-controller-on-ps5-a-compre-points-of-entry-for-cannabinoids-into-the-brain-and-body/"><u>Assist Controller on PS5 - A Compre Points of Entry for Cannabinoids Into the Brain and Body</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007455861-beat-game-bugs-once-and-for-all-learn-about-the-eight-best-solutions-to-fix-multiversus-crashes-today/"><u>Beat Game Bugs Once & For All: Learn About the Eight Best Solutions to Fix MultiVersus Crashes Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-warzone-freezing-issues-comprehensive-troubleshooting-guide/"><u>Call of Duty: Warzone Freezing Issues - Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/double-impact-understanding-the-two-crash-scenario-on-your-computer/"><u>Double Impact: Understanding the Two-Crash Scenario on Your Computer</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/facebook-live-mastery-a-recording-journey/"><u>Facebook Live Mastery A Recording Journey</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-track-solutions-overcoming-apex-legends-load-errors-effectively/"><u>Fast Track Solutions: Overcoming Apex Legends Load Errors Effectively</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-itunes-how-to-get-your-iphone-recognized-on-windows-11/"><u>Fixing Itunes: How to Get Your iPhone Recognized on Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-missing-drivershardware-errors-in-rainbow-six-mobile-adventure/"><u>Fixing the Missing Drivers/Hardware Errors in Rainbow Six Mobile Adventure</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-innovation-to-imposition-government-strikes-back-on-big-tech/"><u>From Innovation to Imposition: Government Strikes Back on Big Tech</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-all-inclusive-review-of-dji-phantom-4-technology/"><u>In 2024, All-Inclusive Review of DJI Phantom 4 Technology</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-unlock-the-power-of-animation-converting-digital-videos-into-cartoons-made-easy/"><u>New 2024 Approved Unlock the Power of Animation Converting Digital Videos Into Cartoons Made Easy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-and-correcting-high-cpu-consumption-in-newly-installed-os-versions/"><u>Optimizing and Correcting High CPU Consumption in Newly Installed OS Versions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-pc-version-freezing-issue-resolved/"><u>Pathfinder: Wrath of the Righteous PC Version - Freezing Issue Resolved</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-eliminating-horizontal-lines-display-issues-on-your-pc/"><u>Step-by-Step Guide: Eliminating Horizontal Lines Display Issues on Your PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-finding-and-updating-nvidia-graphics-card-drivers-for-pc-windows/"><u>Step-by-Step Guide: Finding & Updating Nvidia Graphics Card Drivers for PC (Windows)</u></a></li>
-<li><a href="https://common-error.techidaily.com/the-role-of-msdia80dll-file-should-you-retain-or-remove-it/"><u>The Role of msdia80.dll File: Should You Retain or Remove It?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-ultimate-immersion-guide-to-lgs-360-vr-headset-for-2024/"><u>The Ultimate Immersion Guide to LG's 360 VR Headset for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/xbox-live-outage-how-to-verify-the-current-status-of-xbox-services/"><u>Xbox Live Outage: How to Verify the Current Status of Xbox Services</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-behind-the-scenes-how-to-flip-your-snaps/"><u>[New] Behind-the-Scenes How to Flip Your Snaps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-gamers-galaxy-100plus-spaces-of-play/"><u>[New] Gamer's Galaxy 100+ Spaces of Play</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professionally-recording-every-aspect-of-your-ppt-presentations/"><u>[New] Professionally Recording Every Aspect of Your PPT Presentations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/odays-hot-tickets-top-youtube-tracks-for-the-day-for-2024/"><u>[New] Today’s Hot Tickets Top Youtube Tracks for the Day for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-subtitle-mastery-made-easy-10-free-online-tools/"><u>[Updated] Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>2024 Approved The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram/"><u>In 2024, Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-se-2020-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone SE (2020) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-trouble-heres-the-ultimate-fix-for-elex-ii-crashes/"><u>PC Gaming Trouble? Here's the Ultimate Fix for Elex II Crashes</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/quick-and-easy-guide-transfer-your-entire-hard-disk-to-a-portable-usb-drive/"><u>Quick and Easy Guide: Transfer Your Entire Hard Disk to a Portable USB Drive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993070913-say-goodbye-to-game-downtime-stop-dead-by-daylight-from-crashing-this-year/"><u>Say Goodbye to Game Downtime: Stop Dead by Daylight From Crashing This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-roblox-downtime-with-these-swift-pc-fixes-new-guide-for-202n/"><u>Say Goodbye to Roblox Downtime with These Swift PC Fixes (New Guide for 202N)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-launch-issues-fixing-pathfinder-wrath-of-the-righteous/"><u>Solving Launch Issues: Fixing Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-server-connection-problems-solutions-unveiled/"><u>Steam Server Connection Problems - Solutions Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-resolving-performance-issues-and-crashes/"><u>Total War: Three Kingdoms - Resolving Performance Issues and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-windows-pc/"><u>Troubleshooting FPS Drops & Stutters in Call of Duty: Modern Warfare 2 on Windows PC</u></a></li>
 </ul></div>
 

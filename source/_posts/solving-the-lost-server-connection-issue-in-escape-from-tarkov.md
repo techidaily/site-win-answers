@@ -1,7 +1,7 @@
 ---
 title: Solving the 'Lost Server Connection' Issue in Escape From Tarkov
-date: 2024-08-28T00:08:16.561Z
-updated: 2024-08-29T00:08:16.561Z
+date: 2024-11-14T00:32:48.857Z
+updated: 2024-11-17T02:44:12.873Z
 tags:
   - win11
   - win10
@@ -44,11 +44,25 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**OK** .
 
  5) Now try launching your game again to check if the error message is gone now.
 
  If you’re already running this game as an administrator, you can uncheck the option instead. Many other players find
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Disable unnecessary applications
 
@@ -66,13 +80,36 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 * Click**Allow an app or feature through Windows Defender Firewall** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 * Make sure the**Private** and**Public** boxes are both checked for Escape from Tarkov and the anti-cheat service BattlEye. If they’re not on the list, click**Change settings** and add them here.
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you want to close all other programs not related to Windows, you may need to perform a clean boot. Follow[this guide](https://tools.techidaily.com/drivereasy/download/) for instructions.
 
 4) Now you can try launching your game again to test the issue.
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3\. Verify your game files
 
@@ -85,8 +122,12 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/integrity-check.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Once complete, launch your game again to check if the problem has been fixed.
 
 ### Fix 4\. Update your launcher manually
@@ -103,9 +144,6 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Open the Battlestate Games Launcher, and perform an**Integrity check** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/integrity-check.jpg)
@@ -117,8 +155,18 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 5) Now launch your game and check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6\. Update all your device drivers
 
  When it’s quite hard to troubleshoot the exact cause, we would recommend keeping all your device drivers up to date, including your graphics drivers and network adapter drivers. This would also keep your game from bumping into possible crashes in the future.
@@ -139,16 +187,10 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -159,9 +201,6 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
  Just power off your router for some time and start it normally. Now you can log in again and try playing it again.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8\. Use a VPN
 
  If you have tried all these workarounds above and still you get the ‘Anticheat connection failed’ error in Escape from Tarkov, the best (temporary) solution is to use a VPN with a reasonable ping.
@@ -182,8 +221,6 @@ The default installation folder: C:/Battlestate Games/EFT (live)
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +228,20 @@ The default installation folder: C:/Battlestate Games/EFT (live)
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-top-dive-ready-cameras-the-ultimate-compilation-of-2023/"><u>[New] Top Dive-Ready Cameras The Ultimate Compilation of 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-fortnite-entry-point-not-found/"><u>[Solved] Fortnite Entry Point Not Found</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv/"><u>[Updated] Seamless File Access Top Windows & Mac Strategies for Downloading IGTV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-code-on-persistent-frostpunk-crashes-a-comprehensive-fix-guide/"><u>Cracking the Code on Persistent Frostpunk Crashes - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-fix-launch-problems-with-overwatch-2-in-202n4-top-7-hacks/"><u>Expert Tips to Fix Launch Problems with Overwatch 2 in 202N4 - Top 7 Hacks</u></a></li>
+<li><a href="https://win-web.techidaily.com/guia-paso-a-paso-recuperacion-segura-de-informacion-en-discos-western-digital-elements/"><u>Guía Paso a Paso: Recuperación Segura De Información en Discos Western Digital Elements</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-complete-blueprint-to-mastering-slow-motion-in-snapchat/"><u>In 2024, The Complete Blueprint to Mastering Slow Motion in Snapchat</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mp4-video-metadata-management-solutions-for-2024/"><u>New MP4 Video Metadata Management Solutions for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138570678-9781469768588-to-scream-at-the-sky/"><u>To Scream at the Sky | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-msi-mystic-light-problems-on-windows-systems/"><u>Troubleshooting Steps for Resolving MSI Mystic Light Problems on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-your-clownfish-microphone-mod-kit-solutions-to-audio-malfunctions/"><u>Troubleshooting Your Clownfish Microphone Mod Kit: Solutions to Audio Malfunctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-iphone-efficiency-a-step-by-step-guide-to-liberating-precious-space/"><u>Unlocking iPhone Efficiency: A Step-by-Step Guide to Liberating Precious Space</u></a></li>
+</ul></div>
 

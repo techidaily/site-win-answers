@@ -1,7 +1,7 @@
 ---
 title: "Baldur's Gate Optimization: Curing Stutters, Eliminating Lags (6 Ways)"
-date: 2024-11-05T18:09:05.777Z
-updated: 2024-11-06T16:44:41.672Z
+date: 2024-11-15T19:13:39.616Z
+updated: 2024-11-16T23:28:10.196Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Baldur’s Gate 3, developed by Larian Studios, offers an immersive role-playing
 5. **[End unnecessary tasks](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Before we begin
 
  Prior to diving into these fixes, it’s vital to ensure **your computer meets the game’s minimum system requirements** . Consult the table below to confirm your setup aligns with the game’s prerequisites:
@@ -54,32 +61,18 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-48-41.png)
 3. Now you can check your system information under the **System**  tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-28.png)
 4. Click the **Display**  tab to check the graphics details.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/2022-10-28_17-46-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1 Update your CPU driver
@@ -112,6 +105,13 @@ To ascertain your computer’s specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
 4. Choose the**High performance** power plan.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
 
 Open the game to check for any improvement.
@@ -127,26 +127,25 @@ Open the game to check for any improvement.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/details.jpg)
 3. Right-click on**Baldur’s Gate 3.exe** again and click**Set affinity** .  
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-affinity.jpg)
 4. Set the CPU affinity only using**0-3** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/cpu-0-3.jpg)
 
 Note: You may need to repeat this process each time you launch the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 Allow high graphics performance for the game
 
@@ -156,36 +155,29 @@ Note: You may need to repeat this process each time you launch the game.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-18.png)
 2. Click**Browse** and add Baldur’s Gate 3.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
 Launch the game again to check if the problem has been fixed.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 End unnecessary tasks
 
@@ -200,7 +192,21 @@ Launch the game again to check if the problem has been fixed.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Go back to your game to see if it works smoother.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -239,16 +245,24 @@ Go back to your game to see if it works smoother.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-secrets-to-subtle-sound-diminishment-in-lumafusion/"><u>[New] The Secrets to Subtle Sound Diminishment in Lumafusion</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-guide-prime-video-stabilizers-for-2024/"><u>[New] Ultimate Guide Prime Video Stabilizers for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-yearly-review-youtubes-most-immersive-stories-for-2024/"><u>[New] Yearly Review YouTube's Most Immersive Stories for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/5-effortless-tips-to-fix-the-launch-glitch-in-genshin-impact/"><u>5 Effortless Tips to Fix the Launch Glitch in Genshin Impact</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diablo-ii-resurrected-not-loading-tips-and-tricks-for-successful-startup/"><u>Diablo II: Resurrected Not Loading - Tips & Tricks for Successful Startup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-large-language-models-llms-principles-and-processes/"><u>Inside Large Language Models (LLMs): Principles and Processes</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-gpresult-creating-gpo-reports-effortlessly/"><u>Mastering GPResult: Creating GPO Reports Effortlessly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-solutions-ensuring-smooth-playthrough-of-slime-rancher-2-without-interruptions/"><u>PC Gaming Solutions: Ensuring Smooth Playthrough of Slime Rancher 2 without Interruptions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-black-ops-cold-war-fixing-the-infamous-ui-error-27711/"><u>Resolved: Black Ops Cold War - Fixing the Infamous UI Error #27711</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-repair-manual-for-hp-monitors-that-wont-start/"><u>Step-by-Step Repair Manual for HP Monitors That Won't Start</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-future-of-internet-browsing-introducing-microsoft-bings-artificial-intelligence-upgrade/"><u>The Future of Internet Browsing: Introducing Microsoft Bing's Artificial Intelligence Upgrade</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-polarrs-full-spectrum-tools-your-go-to-guide-to-editing-excellence/"><u>[Updated] Polarr's Full Spectrum Tools - Your Go-To Guide to Editing Excellence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/altering-your-download-folder-in-chrome-os-a-step-by-step-guide-and-its-advantages/"><u>Altering Your Download Folder in Chrome OS: A Step-by-Step Guide & Its Advantages</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-puzzle-tips-for-fixing-black-ops-cold-wars-troublesome-error-code-883a-0005/"><u>Decoding the Puzzle: Tips for Fixing Black Ops Cold War's Troublesome Error CODE: 88^3A-0005</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-your-dream-game-day-companion-on-ios-dive-into-apple-sports-the-free-app-for-devoted-enthusiasts-zdnet/"><u>Discover Your Dream Game Day Companion on iOS - Dive Into Apple Sports: The Free App for Devoted Enthusiasts | ZDNET</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/effective-ways-to-remove-memorydump-in-windows-11-tutorial/"><u>Effective Ways to Remove MEMORY_DUMP in Windows 11 - Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/excellent-e-recorders-for-voices-for-2024/"><u>Excellent E-Recorders for Voices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-issues-with-cs-go-not-starting/"><u>Expert Advice on Fixing Issues with CS: GO Not Starting</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-lag-solutions-to-prevent-valheims-freeze-stutter-issues-on-desktop/"><u>Fixing Persistent Lag: Solutions to Prevent Valheim's Freeze-Stutter Issues on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/game-changing-fixes-for-mount-and-blade-2-bannerlords-persistent-crashes/"><u>Game-Changing Fixes for Mount & Blade 2: Bannerlord's Persistent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-adobe-failed-to-launch-problem-with-error-0xc0000022/"><u>How to Overcome 'Adobe Failed to Launch' Problem with Error 0xC0000022</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-steam-file-access-restricted-problem-with-easy-fixes/"><u>How to Resolve the 'Steam File Access Restricted' Problem with Easy Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002911704-mastering-the-fix-for-doom-eternal-continuous-crashes-proven-techniques-inside/"><u>Mastering the Fix for DOOM Eternal Continuous Crashes - Proven Techniques Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004124899-resolve-your-rainbow-six-siege-latency-problems-instantly/"><u>Resolve Your Rainbow Six Siege Latency Problems Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-sounds-in-skyrim-fixes-for-muted-gameplay-experience/"><u>Restoring Sounds in Skyrim: Fixes for Muted Gameplay Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/streamers-selection-most-popular-livestream-software-and-devices-for-2024/"><u>Streamer's Selection Most Popular Livestream Software and Devices for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-15-budget-friendly-webm-players-that-work-flawlessly-for-2024/"><u>Top 15 Budget-Friendly WebM Players That Work Flawlessly for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-in-avatar-frontiers-of-pandora-techniques-to-enhance-gaming-experience/"><u>Troubleshooting Lag in 'Avatar: Frontiers of Pandora' – Techniques to Enhance Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-lost-ark-game-crashes/"><u>Troubleshooting Steps: Resolving 'Lost Ark' Game Crashes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steam-to-Epic Transition Woes? Troubleshooting Metro Exodus PC Crashes Successfully
-date: 2024-10-25T02:21:33.678Z
-updated: 2024-11-01T10:52:11.409Z
+date: 2024-11-10T17:08:32.230Z
+updated: 2024-11-16T22:48:59.575Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 5. **[Disable in-game overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Stop overclocking
 
  Many players would like to try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -44,6 +51,19 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  To reduce the frequency of crashes in Metro Exodus PC Enhanced Edition, you may need to reset the CPU or the graphics card to the manufacturer specifications.
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
 
@@ -56,6 +76,19 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -66,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/7f46fac9a85eca734c1f07440ac82d4e70260de32
  Restart Metro Exodus PC Enhanced Edition to see if you fixed the crashing issue. If yes, congratulations!
 
 If the issue persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
 
@@ -78,13 +118,6 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
@@ -110,13 +143,6 @@ If the issue persists, try the next fix below.
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
@@ -135,21 +161,14 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -158,27 +177,14 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -209,15 +215,19 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-facebooks-secrets-an-introductory-guide/"><u>[New] Unlocking Facebook's Secrets An Introductory Guide</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-direct-linkage-bridging-youtube-and-imovie-with-music/"><u>[Updated] Direct Linkage Bridging YouTube and iMovie with Music</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-error-code-727e66ac-on-nba-2k24-pro-tips-for-smooth-playing/"><u>Beat Error Code 727E66ac on NBA 2K24 - Pro Tips for Smooth Playing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-chrome-struggles-with-page-loads-and-how-to-resolve-it/"><u>Fixing the Issue: Why Chrome Struggles with Page Loads and How to Resolve It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-of-your-logitech-c920-webcam-efficiently/"><u>How to Restore Functionality of Your Logitech C920 Webcam Efficiently</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-14-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 14 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/premier-video-record-breakdown-and-alternatives-for-2024/"><u>Premier Video Record Breakdown and Alternatives for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solutions-for-preventing-nba-2k21-from-crashing-on-pc-gaming-systems/"><u>Ultimate Solutions for Preventing NBA 2K21 From Crashing on PC Gaming Systems</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/your-device-uninterrupted-revealing-the-top-7-android-adblockers-for-2024/"><u>Your Device, Uninterrupted Revealing the Top 7 Android AdBlockers for 2024</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/1728484955107-windows-11-hdd/"><u>メールデータを安全に保存するためのWindows 11 HDDバックアップ方法三種類</u></a></li>
+<li><a href="https://win-answers.techidaily.com/remnant-from-the-ashes-troubleshooting-persistent-game-crashes/"><u>'Remnant: From the Ashes' - Troubleshooting Persistent Game Crashes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-iphone-time-lapse-magic-a-beginners-guide/"><u>[New] 2024 Approved IPhone Time-Lapse Magic A Beginner’s Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-luminances-hdr-accuracy-assessment/"><u>2024 Approved Luminance's HDR Accuracy Assessment</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-fallout-76-crashing-glitch-masterful-fixes-for-a-seamless-experience/"><u>Conquer the Fallout 76 Crashing Glitch: Masterful Fixes for a Seamless Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/elevate-your-gaming-advanced-techniques-for-recording-minecraft/"><u>Elevate Your Gaming Advanced Techniques for Recording Minecraft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-fixing-launch-problems-with-rainbow-six-siege/"><u>Expert Tips on Fixing Launch Problems with Rainbow Six Siege</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/personalize-your-protection-how-to-adjust-and-configure-backup-settings/"><u>Personalize Your Protection: How to Adjust & Configure Backup Settings</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/revolutionize-your-morning-routine-with-the-ihome-zenergy-bedside-sleep-therapy-machine-a-comprehensive-review/"><u>Revolutionize Your Morning Routine with the IHome Zenergy Bedside Sleep Therapy Machine - A Comprehensive Review</u></a></li>
+<li><a href="https://techtrends.techidaily.com/seamless-digital-media-conversions-with-digiarty-your-trusted-software-for-dvd-and-video-editing-and-transferring/"><u>Seamless Digital Media Conversions with Digiarty - Your Trusted Software for DVD & Video Editing and Transferring</u></a></li>
+<li><a href="https://review-topics.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-monster-hunter-rise-launch-issues-a-step-by-step-guide/"><u>Solving Monster Hunter Rise Launch Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-resolving-persistent-minecraft-dungeons-crashes-on-your-pc/"><u>Troubleshooting Tips: Resolving Persistent Minecraft Dungeons Crashes on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-solutions-for-continuous-discord-app-crashes/"><u>Ultimate Guide: Solutions for Continuous Discord App Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo Y78+ | Dr.fone</u></a></li>
 </ul></div>
 

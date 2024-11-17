@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting ARK: Survival Evolved PC Crashes with Top 9 Solutions"
-date: 2024-08-28T00:03:03.353Z
-updated: 2024-08-29T00:03:03.353Z
+date: 2024-11-10T04:12:16.579Z
+updated: 2024-11-16T16:57:38.113Z
 tags:
   - win11
   - win10
@@ -38,6 +38,19 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -50,8 +63,12 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -65,8 +82,18 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -95,21 +122,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -120,9 +138,14 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -140,8 +163,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +170,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-easy-path-uploading-videos-via-pc-and-android-devices/"><u>[New] 2024 Approved Facebook's Easy Path Uploading Videos via PC and Android Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-precision-planning-the-guide-to-online-collaboration/"><u>[New] 2024 Approved Precision Planning The Guide to Online Collaboration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-captivating-creations-utilizing-motion-blur-effects-in-ai/"><u>[New] Captivating Creations Utilizing Motion Blur Effects in AI</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-explore-the-worlds-top-10-no-cost-image-crafting-stations-for-2024/"><u>[New] Explore the World's Top 10 No-Cost Image Crafting Stations for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-warzone-not-launching/"><u>[SOLVED] Warzone Not Launching</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-cut-the-clutter-advanced-techniques-with-youtube-studio-editor-for-2024/"><u>[Updated] Cut the Clutter Advanced Techniques with YouTube Studio Editor for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-digital-dossiers-decoded-craft-your-signature-bio-with-stars/"><u>2024 Approved Digital Dossiers Decoded Craft Your Signature Bio with Stars</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effective-strategies-for-sharing-your-conversations-with-chatgpt/"><u>Effective Strategies for Sharing Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-livestreams-with-manycam-the-ultimate-guide-to-software-and-remote-webcams/"><u>Enhance Your Livestreams with ManyCam: The Ultimate Guide to Software and Remote Webcams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-wwe-2k20-crashing-problems-on-pc-with-ease/"><u>How To Prevent & Fix WWE 2K20 Crashing Problems On PC with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-roblox-starts-up-essential-fixes-to-get-you-playing-again/"><u>Mastering Roblox Starts Up – Essential Fixes to Get You Playing Again!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003552087-maximize-your-horizon-zero-dawn-adventure-with-optimal-fps-enhancement-techniques/"><u>Maximize Your Horizon Zero Dawn Adventure with Optimal FPS Enhancement Techniques!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/overcoming-barriers-why-you-might-not-see-facebook-marketplace-options/"><u>Overcoming Barriers: Why You Might Not See Facebook Marketplace Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-for-missing-gpeditmsc-feature-in-windows-home-setup/"><u>Quick Fix for Missing gpedit.msc Feature in Windows Home Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solutions-repairing-a-corrupted-disk-on-steam-without-hitches/"><u>Simple Solutions: Repairing a Corrupted Disk on Steam Without Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013097674-stop-dota-2-from-freezing-expert-tips-and-fixes/"><u>Stop Dota 2 From Freezing: Expert Tips and Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cannot-access-graphics-driver-expert-solutions-for-d3derror/"><u>Troubleshooting 'Cannot Access Graphics Driver': Expert Solutions for D3Derror</u></a></li>
+</ul></div>
 

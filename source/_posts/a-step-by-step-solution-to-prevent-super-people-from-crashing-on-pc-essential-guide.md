@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Solution to Prevent Super People From Crashing on PC: Essential Guide"
-date: 2024-10-29T04:29:57.548Z
-updated: 2024-11-01T03:11:28.007Z
+date: 2024-11-13T03:47:52.473Z
+updated: 2024-11-17T05:31:22.190Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Disable Discord In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Repair your game
 
  Most of the time, repairing your game does the trick. Your Battlefront 2 crashing may be caused by corrupted game files. If you haven’t tried this before, make sure you do this before you try the following fixes.
@@ -76,6 +69,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/repair-game.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for the process to complete.
 
  Restart Origin and play your game to see if the crashing issue persists. If the game keeps crashing randomly, move on to the next fix.
@@ -92,16 +92,16 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for the process to complete.
 
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -122,10 +122,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -153,6 +153,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Revert back to DX11
 
  Many Battlefront 2 players find reverting to DX11 helps reduce random crashes. Here’s how to do it:
@@ -168,10 +175,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 **Note:** If you find reverting to DX11 makes your game laggy, you can edit**BootOptions.ini** again to enable DX12.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Run as administrator
@@ -189,6 +196,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  4) Go to your game installation folder and run your game exe file as administrator too.
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software temporarily
 
@@ -223,23 +237,9 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
@@ -250,10 +250,10 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  7) Restart your PC and launch your Battlefront 2 to see if the game launches normally.
@@ -314,24 +314,16 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-streamline-your-obs-outputs-for-2024/"><u>[New] Streamline Your OBS Outputs for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-keeping-synchronization-fix-frame-disruptions-in-obs/"><u>2024 Approved Keeping Synchronization Fix Frame Disruptions in OBS</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-camera-malfunction-effective-solutions-and-troubleshooting-techniques/"><u>Discord Camera Malfunction: Effective Solutions & Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensuring-a-flawless-lego-star-wars-the-skywalker-saga-gameplay-on-your-pc/"><u>Ensuring a Flawless Lego Star Wars: The Skywalker Saga Gameplay on Your PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-nintendo-switch-brawlers-guidebook-max-156/"><u>Essential Nintendo Switch Brawlers Guidebook (Max 156)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-fixing-valorants-pc-input-lag-issues-a-step-by-step-guide/"><u>Expert Advice: Fixing Valorant's PC Input Lag Issues – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722988010055-gta-5-freezing-problems-discover-effective-fixes-and-get-back-to-high-octane-action/"><u>GTA 5 Freezing Problems? Discover Effective Fixes and Get Back to High-Octane Action</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-wi-fi-authentication-problems-on-android/"><u>How to Fix Wi-Fi Authentication Problems on Android</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-xiaomi-13t-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Xiaomi 13T.</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-poco-f5-5g-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Poco F5 5G Phone with Broken Screen</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-oppo-k11-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Oppo K11 5G Without PUK Codes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579665342-language-leap-year-get-95-off-and-dive-into-new-cultures/"><u>Language Leap Year - Get 95% Off and Dive Into New Cultures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/lost-ark-freezes-and-fails-on-windows-how-to-fix-game-stability-issues/"><u>Lost Ark Freezes & Fails on Windows: How to Fix Game Stability Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-fix-league-of-legends-wont-open-issue/"><u>Step-by-Step Solutions to Fix League of Legends Won't Open Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-audio-issues-how-to-get-your-minecraft-sounds-working-again-on-windowspc/"><u>Troubleshooting Audio Issues: How to Get Your Minecraft Sounds Working Again on Windows/PC</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005431506-windows-11-taskbar-malfunction-heres-how-you-can-repair-it/"><u>Windows 11 Taskbar Malfunction? Here's How You Can Repair It</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-the-fight-against-fortnites-frequent-shutdowns-on-desktops-expert-tips-for-2/"><u>Winning the Fight Against Fortnite's Frequent Shutdowns on Desktops: Expert Tips for 2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-overcome-oversaturated-tiktok-drafters-through-savvy-edits/"><u>2024 Approved Overcome Oversaturated TikTok Drafters Through Savvy Edits</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-real-time-recording-made-easy-for-your-skype-sessions/"><u>2024 Approved Real-Time Recording Made Easy for Your Skype Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arise-gamers-unite-proven-techniques-for-a-smooth-crisis-free-experience/"><u>Arise Gamers Unite! Proven Techniques for a Smooth, Crisis-Free Experience</u></a></li>
+<li><a href="https://article-posts.techidaily.com/best-overlay-strategies-for-videographers/"><u>Best Overlay Strategies for Videographers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-call-of-duty-warzone-gameplay-enabling-graphics-card-functionality-in-windows-11-systems/"><u>Boosting Call of Duty Warzone Gameplay: Enabling Graphics Card Functionality in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bring-your-astro-a50-detectable-again-by-the-command-centre-a-comprehensive-guide/"><u>Bring Your Astro A50 Detectable Again by the Command Centre: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-lag-free-gaming-essential-guide-to-fixing-dota-2s-connectivity-problems/"><u>Mastering Lag-Free Gaming: Essential Guide to Fixing Dota 2'S Connectivity Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-resolving-a-critical-system-error-in-ark/"><u>Step-by-Step Guide: Resolving a Critical System Error in Ark</u></a></li>
 </ul></div>
 

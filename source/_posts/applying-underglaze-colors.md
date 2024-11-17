@@ -1,7 +1,7 @@
 ---
 title: Applying Underglaze Colors
-date: 2024-10-25T00:51:20.913Z
-updated: 2024-11-01T02:45:09.878Z
+date: 2024-11-12T00:51:15.700Z
+updated: 2024-11-16T19:34:58.673Z
 tags:
   - win11
   - win10
@@ -71,10 +71,10 @@ If Mount & Blade 2 still crashes, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -100,13 +100,6 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
@@ -116,22 +109,15 @@ If the Bannerlord is still unplayable, continue with the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Rename the**Bannerlord folder** to**old\_Bannerlord** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-50-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Relaunch Steam to reinstall the game.
 
@@ -149,20 +135,27 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
@@ -176,6 +169,13 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.
@@ -184,10 +184,16 @@ If the Bannerlord is still unplayable, continue with the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
@@ -195,6 +201,13 @@ If the Bannerlord is still unplayable, continue with the next solution.
 **9)** Restart your computer and your game.
 
  You should be able to run Mount & Blade 2: Bannerlord without crashing now. If not, check the solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Solution 5: Check for Windows updates
 
@@ -204,22 +217,21 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 ![This image has an empty alt attribute; its file name is image-575.jpg](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Restart your computer after the update is complete, then try running the game again.
@@ -241,17 +253,17 @@ If the Bannerlord is still unplayable, continue with the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-logic-x-lore-guides-to-creating-crossfading-audio/"><u>[New] In 2024, Logic X Lore Guides to Creating Crossfading Audio</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-overcoming-absence-of-color-in-game-feed-for-2024/"><u>[Updated] Overcoming Absence of Color in Game Feed for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-definitive-guide-to-flawless-morphvox-technique/"><u>2024 Approved The Definitive Guide to Flawless MorphVOX Technique</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-smooth-gaming-experience-in-fixed-cyberpunk-2077-release/"><u>Enhanced Smooth Gaming Experience in Fixed Cyberpunk 2077 Release</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-samsung-ve-driver-software-free-now/"><u>Get the Latest Samsung ˈɛvə Driver Software Free Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo T2 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-your-game-blockade-battlefield-5-launch-fixes-for-gamers/"><u>Overcome Your Game Blockade: Battlefield 5 Launch Fixes for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-how-to-troubleshoot-and-resolve-discord-overlay-issues/"><u>Quick Fixes: How to Troubleshoot and Resolve Discord Overlay Issues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reducing-resource-consumption-tips-for-edge-view2-process/"><u>Reducing Resource Consumption: Tips for Edge View2 Process</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-resolving-unable-to-launch-game-errors-by-checking-game-files/"><u>Step-by-Step Solution: Resolving 'Unable to Launch Game' Errors by Checking Game Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-performance-issues-steady-frames-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Performance Issues: Steady Frames in Call of Duty Modern Warfare ^2 on PC</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tweet-transformation-techniques-for-free-gifs-for-2024/"><u>Tweet Transformation Techniques for Free GIFs for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-intova-edge-x-a-deep-dive-into-video-capture/"><u>[New] Intova Edge X A Deep Dive Into Video Capture</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/5-premium-4k-displays-for-the-hardcore-gamer-for-2024/"><u>5 Premium 4K Displays for the Hardcore Gamer for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alien-fireteam-elite-stability-issues-on-pc-solutions-inside/"><u>Alien: Fireteam Elite Stability Issues on PC - Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-solving-launch-issues-in-armored-core-vi-the-fires-of-rubicon-not-opening-dilemma/"><u>Expert Tips for Solving Launch Issues in Armored Core VI - The 'Fires of Rubicon Not Opening' Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-kernelbasedll-crash-problems-fast-and-simple/"><u>Fix KernelBase.dll Crash Problems Fast and Simple!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-130-music-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia 130 Music</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-dreamlight-valley-from-crashing-a-guide-with-six-essential-fixes/"><u>How To Stop Dreamlight Valley From Crashing: A Guide With Six Essential Fixes</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-motorola-moto-g-stylus-5g-2023-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Motorola Moto G Stylus 5G (2023) Location Settings | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-securely-sharing-visuals-learn-the-art-of-screencast-with-ezvid/"><u>In 2024, Securely Sharing Visuals Learn the Art of Screencast with Ezvid</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-latency-issues-ultimate-guide-to-reducing-lag-in-street-fighter-6/"><u>Resolving Latency Issues: Ultimate Guide to Reducing Lag in Street Fighter 6</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-elite-circle-of-online-av-masters-for-2024/"><u>The Elite Circle of Online AV Masters for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unmasking-imposters-a-guide-to-recognizing-bogus-friend-requests-on-social-media/"><u>Unmasking Imposters: A Guide to Recognizing Bogus Friend Requests on Social Media</u></a></li>
 </ul></div>
 

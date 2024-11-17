@@ -1,7 +1,7 @@
 ---
 title: Resolve Steam's Error Code 130 with These Proven Solutions!
-date: 2024-11-02T22:47:09.991Z
-updated: 2024-11-07T01:57:53.058Z
+date: 2024-11-10T17:18:19.034Z
+updated: 2024-11-17T03:44:12.142Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -40,20 +47,35 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
+
+**4)** If any items on this window are checked, uncheck them. Then, click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**5)** Restart your computer and Steam to test your issue.
+
+ If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
@@ -61,14 +83,6 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-**4)** If any items on this window are checked, uncheck them. Then, click**OK** .
-
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
-
-**5)** Restart your computer and Steam to test your issue.
-
- If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
 ### Fix 2: Update your network adapter driver
 
@@ -110,19 +124,6 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Reinstall Steam
 
  If none of the fixes worked for you, reinstalling Steam is very likely the solution to your issue. Follow the instructions below:
@@ -135,6 +136,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
@@ -143,27 +151,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -180,19 +181,6 @@ OR
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
 
@@ -220,24 +208,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/teps-to-uncover-youtubes-central-editing-nexus-for-2024/"><u>[New] Steps to Uncover YouTube’s Central Editing Nexus for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-youcamsimplified-quickguidetorecordings-for-2024/"><u>[Updated] YouCamSimplified QuickGuideToRecordings for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-step-by-step-guide-to-memetic-marvels-essential-strategies-for-gif-makers/"><u>2024 Approved A Step-by-Step Guide to Memetic Marvels Essential Strategies for GIF Makers</u></a></li>
-<li><a href="https://windows11.techidaily.com/comprehensive-fixes-for-common-windows-monitor-mishaps/"><u>Comprehensive Fixes for Common Windows Monitor Mishaps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cs2-fps-fixes-how-to-improve-graphics-and-reduce-stuttering-on-your-computer/"><u>CS2 FPS Fixes: How to Improve Graphics and Reduce Stuttering on Your Computer</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-huawei-nova-y91-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Huawei Nova Y91 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensuring-a-smooth-gaming-experience-with-snowrunner-fixes-for-common-desktop-issues/"><u>Ensuring a Smooth Gaming Experience with SnowRunner - Fixes for Common Desktop Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/halo-infinite-how-to-resolve-the-games-performance-lag-and-frame-drops/"><u>Halo Infinite: How to Resolve the Game's Performance Lag and Frame Drops</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-errors-in-the-witcher-3-wild-hunt-essential-advice-inside/"><u>How To Overcome Launch Errors in The Witcher 3: Wild Hunt? Essential Advice Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-warframe-from-frequently-hanging-solutions-revealed/"><u>How to Stop Warframe From Frequently Hanging - Solutions Revealed</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-your-wow-experience-advanced-solutions-to-combat-low-fps-issues/"><u>Improving Your WoW Experience: Advanced Solutions to Combat Low FPS Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Vivo Y200 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-leading-the-pack-2023s-8-facebook-movie-downloads/"><u>In 2024, Leading the Pack 2023'S #8 Facebook Movie Downloads</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quickening-realities-with-hyperlapse-methods/"><u>In 2024, Quickening Realities with Hyperlapse Methods</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mohuleaf30tvantenna-the-ultimate-balance-of-cost-efficiency-and-reliable-performance-reviewed/"><u>MohuLeaf30TVAntenna - The Ultimate Balance of Cost-Efficiency and Reliable Performance Reviewed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/quick-quirks-making-manipulations-more-minimal-for-2024/"><u>Quick Quirks Making Manipulations More Minimal for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-shader-compilation-problems-in-black-ops-cold-war-game/"><u>Troubleshooting and Solutions for Shader Compilation Problems in Black Ops Cold War Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-narakabladepoint-performance-issues-resolved/"><u>Troubleshooting Tips for Naraka:Bladepoint Performance Issues Resolved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-solution-removing-you-dont-have-access-to-play-fortnite-barrier/"><u>Unlock the Solution: Removing 'You Don't Have Access to Play Fortnite' Barrier</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-comprehensive-list-audio-pace-modification-tools/"><u>[New] 2024 Approved Comprehensive List Audio Pace Modification Tools</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-financial-breakdown-of-music-video-production/"><u>[Updated] Financial Breakdown of Music Video Production</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfectly-polished-pictures-top-grid-tools-revealed/"><u>2024 Approved Perfectly Polished Pictures Top Grid Tools Revealed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1726029019327-windows-10/"><u>最新Windows 10でのマイクと内部オーディオ使用による録音プロセスガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a14-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy A14 4G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/comprehensive-directors-manual-powerdirector-24-for-2024/"><u>Comprehensive Directors' Manual - PowerDirector '24 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-far-cry-5s-load-screen-dilemma-tips-and-tricks/"><u>Defeating Far Cry 5’S Load Screen Dilemma - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-troubleshooting-for-directx-errors-in-the-latest-fifa-game-fifa-20-edition/"><u>DIY Troubleshooting for DirectX Errors in the Latest FIFA Game: FIFA 20 Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ioss-choice-of-top-ps2-game-simulation-software-for-2024/"><u>IOS's Choice of Top PS2 Game Simulation Software for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-gameplay-delays-in-call-of-duty-vanguard-a-step-by-step-fix-guide/"><u>Overcoming Gameplay Delays in Call of Duty: Vanguard – A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/red-dead-redemption-2-on-pc-common-crash-causes-and-effective-resolutions-for-gamers/"><u>Red Dead Redemption 2 on PC - Common Crash Causes & Effective Resolutions for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-and-solutions-for-nba-2k21-crashing-issues-on-personal-computers/"><u>Resolved: Fixes and Solutions for NBA 2K21 Crashing Issues on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-stop-stardew-valley-from-crashing-on-your-computer/"><u>Step-by-Step Solution: Stop Stardew Valley From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-fortnite-sign-in-errors-fast-and-effective-solutions-inside/"><u>Troubleshoot Fortnite Sign-In Errors: Fast & Effective Solutions Inside</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-gionee-f3-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Gionee F3 Pro</u></a></li>
+<li><a href="https://extra-information.techidaily.com/understanding-livestream-technology-explained/"><u>Understanding Livestream Technology Explained</u></a></li>
 </ul></div>
 

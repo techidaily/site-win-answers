@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Century: Age of Ashes Now Runs Smoothly on Windows, Mac, & Linux"
-date: 2024-10-31T10:57:33.147Z
-updated: 2024-10-31T18:59:38.950Z
+date: 2024-11-14T23:06:50.117Z
+updated: 2024-11-17T05:20:08.376Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 6. **[Check if it’s a server issue](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of your game files
@@ -50,6 +50,13 @@ After a long wait, the[new Hitman installment](https://www.epicgames.com/store/e
 3. Select**Verify** from the drop-down list. Then wait for the checking to complete.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/hitman-3-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can try to launch Hitman 3 using the Epic Games launcher.
 
@@ -65,31 +72,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Launch Hitman 3 from game folder
 
@@ -98,10 +85,10 @@ Here’s how:
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -133,11 +120,31 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your GPU driver, you can check if Hitman 3 is working now.
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -152,24 +159,17 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -198,20 +198,16 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-10-innovative-screencasting-solutions-for-modern-teachers/"><u>[New] 2024 Approved 10 Innovative Screencasting Solutions for Modern Teachers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-5-easy-ways-to-capture-and-save-your-youtube-content/"><u>[New] 2024 Approved 5 Easy Ways to Capture and Save Your YouTube Content</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-smart-guide-to-procuring-premium-image-banners/"><u>[New] 2024 Approved The Smart Guide to Procuring Premium Image Banners</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-shade-adjustments-simplified-learn-with-these-11-guides-for-2024/"><u>[New] Shade Adjustments Simplified - Learn with These 11 Guides for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-streamlining-skype-calls-with-advanced-zoom-use/"><u>[New] Streamlining Skype Calls with Advanced Zoom Use</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamless-audio-edits-with-garageband-features/"><u>[Updated] 2024 Approved Seamless Audio Edits with GarageBand Features</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oneplus-12-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your OnePlus 12 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722994845767-breaking-news-mystery-solved-mafia-definitive-edition-hits-shelves-soon/"><u>Breaking News: Mystery Solved – Mafia: Definitive Edition Hits Shelves Soon!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-to-resolve-manor-lords-stalling-issues-in-pc-gaming/"><u>Complete Guide to Resolve Manor Lords Stalling Issues in PC Gaming</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-profits-youtubes-studio-monetization-simplified/"><u>Elevate Your Profits YouTube's Studio Monetization Simplified</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-70-lite-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor 70 Lite 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-samurai-warriors-5-from-crashing-on-your-windows-computer/"><u>How to Prevent Samurai Warriors 5 From Crashing on Your Windows Computer?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mordhau-crash-fix-step-by-step-solutions-to-stable-playing/"><u>Mordhau Crash Fix: Step-by-Step Solutions to Stable Playing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-launch-problems-in-call-of-duty-modern-warfare-3-quick-guide/"><u>Resolving Launch Problems in Call of Duty: Modern Warfare 3 - Quick Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-against-lag-in-fortnite-expert-tips-for-smoother-gameplay/"><u>Winning Against Lag in Fortnite: Expert Tips for Smoother Gameplay</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-integrating-b-roll-effectively-without-distraction/"><u>[Updated] Integrating B Roll Effectively Without Distraction</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-simplify-your-workload-with-expert-use-of-ez-grabber/"><u>[Updated] Simplify Your Workload with Expert Use of EZ Grabber</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-hitches-and-fixes-getting-farming-simulator-22-to-work-properly/"><u>Common Hitches & Fixes: Getting Farming Simulator 22 to Work Properly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-redmi-a2-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Redmi A2?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-best-buy-list-selecting-the-premier-video-cards-for-youtube/"><u>In 2024, Best Buy List Selecting the Premier Video Cards for YouTube</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-tecno-spark-10-pro-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Tecno Spark 10 Pro Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/premier-digital-canvases-of-the-year-2024-rankings-revealed/"><u>Premier Digital Canvases of the Year: 2024 Rankings Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-issue-getting-saints-row-running-smoothly-on-your-computer/"><u>Resolving the Issue: Getting Saints Row Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-youtube-issues-when-audio-persists-but-video-stalls-in-chrome-and-firefox/"><u>Resolving YouTube Issues: When Audio Persists but Video Stalls in Chrome and Firefox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-fixing-your-logitech-c920-camera-issues/"><u>Troubleshooting Tips: Fixing Your Logitech C920 Camera Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-nba-2k24-error-code-727e66ac/"><u>Ultimate Guide to Resolving NBA 2K24 Error Code 727E66aC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing PC Issues: Resolved 'Back 4 Blood' Continuous Crashes"
-date: 2024-08-28T00:07:54.382Z
-updated: 2024-08-29T00:07:54.382Z
+date: 2024-11-11T00:50:12.955Z
+updated: 2024-11-17T04:33:45.862Z
 tags:
   - win11
   - win10
@@ -44,6 +44,19 @@ Here’s how to verify file integrity on Steam:
 3. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** .. and wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-verify-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The[latest B4B hotfix](https://www.back4blood.com/en-us/news/october-11-2021-hotfix) is available now. During the verification process, your game files will be updated as well.
 
 Once done, restart your game and see if it crashes again.
@@ -62,9 +75,6 @@ Once done, restart your game and see if it crashes again.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -72,10 +82,6 @@ Once done, restart your game and see if it crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Check for conflicting programs
 
  Some software, especially**hardware tuning utilities** such as MSI Afterburner and Razer Synapse 3, could undermine the stability of your system and thus crash 3D programs. To avoid these interferences, you can do a clean boot and see how it goes.
@@ -83,24 +89,33 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
  Now you can start Back 4 Blood and see if it crashes again. If it doesn’t, you can locate the trouble makers by repeating these steps and disabling half of the programs and services.
 
 If the issue lingers on, you can continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Make sure Windows is up to date
 
@@ -113,24 +128,30 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
-4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
+4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’re sure Windows is up to date, restart your PC and test the gameplay in Back 4 Blood.
 
  If your system is already the latest, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Move game files to your Steam drive
 
@@ -141,15 +162,23 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-browse-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Some players also reported that having the**Epic Games** client opened might get the game working. You can try the same and see how things go.
 
  If this method doesn’t work for you, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Change in-game graphics settings
 
  There’re reports showing that**NVIDIA DLSS** might be the culprit of Back 4 Blood crashing. If you have this feature enabled, you can turn it off and see if the game stops crashing.
@@ -171,8 +200,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +207,26 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-guidelines-for-eliminating-obs-fullscreen-freeze/"><u>[New] 2024 Approved Guidelines for Eliminating OBS Fullscreen Freeze</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-entering-vr-top-10-must-try-mobile-gaming-hits/"><u>[New] Entering VR Top 10 Must-Try Mobile Gaming Hits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-explore-10-open-source-teleconference-applications/"><u>[New] In 2024, Explore 10 Open Source Teleconference Applications</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-decoding-instagram-selfies-the-validation-handbook-for-2024/"><u>[Updated] Decoding Instagram Selfies The Validation Handbook for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhanced-avi-player-ultimate-performance-pcmobile/"><u>[Updated] Enhanced Avi Player Ultimate Performance PC/Mobile</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-channel-upgrade-smartphone-techniques-for-professional-videos/"><u>[Updated] In 2024, Channel Upgrade Smartphone Techniques for Professional Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xbox-and-pc-fix-warzone-memory-error-0-1766/"><u>[Xbox & PC Fix] Warzone Memory Error 0-1766</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-reno-8t-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Reno 8T 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-handling-new-world-connection-error/"><u>Expert Advice on Handling 'New World Connection Error'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fixes-solving-your-among-us-crash-issues/"><u>Mastering the Fixes: Solving Your 'Among Us' Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-audio-how-to-reactivate-sounds-in-lost-ark/"><u>No Audio? How to Reactivate Sounds in Lost Ark</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-galaxy-z-fold-6-price-release-date-specs-and-news/"><u>Samsung Galaxy Z Fold 6: Price, Release Date, Specs, and News</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011159745-sea-of-thieves-wont-open-here-are-five-proven-fixes/"><u>Sea of Thieves Won't Open? Here Are Five Proven Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/startup-failures-explained-tackling-the-atomic-heart-crash/"><u>Startup Failures Explained - Tackling the 'Atomic Heart Crash'</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-companion-items-to-maximize-steam-deck-functions/"><u>The Ultimate Companion Items to Maximize Steam Deck Functions</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-moto-g-stylus-2023-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Moto G Stylus (2023) without backup.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-prevent-stardew-valley-from-crashing-on-your-windows-computer/"><u>Troubleshooting Steps to Prevent Stardew Valley From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-with-corsair-icue-on-windows-1011/"><u>Troubleshooting Steps: Resolving Issues with Corsair iCUE on Windows 10/11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-pro-tips-boosting-your-fps-in-escape-from-tarkov/"><u>Ultimate Pro Tips: Boosting Your FPS in Escape From Tarkov</u></a></li>
+</ul></div>
 

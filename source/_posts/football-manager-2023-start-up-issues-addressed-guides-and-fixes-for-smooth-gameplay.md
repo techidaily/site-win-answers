@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2023 Start-Up Issues Addressed - Guides and Fixes for Smooth Gameplay
-date: 2024-10-28T16:47:10.963Z
-updated: 2024-10-31T16:08:56.555Z
+date: 2024-11-10T09:28:04.658Z
+updated: 2024-11-16T17:53:29.960Z
 tags:
   - win11
   - win10
@@ -66,9 +66,23 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -97,13 +111,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -113,40 +120,39 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -175,22 +181,19 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dynamic-arrangement-of-your-youtube-selections/"><u>[New] In 2024, Dynamic Arrangement of Your YouTube Selections</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212413001-solved-reclaim-lost-performance-eradicate-the-root-cause-of-high-system-load-shell-infrastructures/"><u>[Solved] Reclaim Lost Performance: Eradicate the Root Cause of High System Load – Shell Infrastructures!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[Updated] The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-the-glitch-effective-solutions-for-modern-warfare-es-pc-crashing-problems/"><u>Beat the Glitch: Effective Solutions for Modern Warfare E's PC Crashing Problems</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/boost-your-gameplay-how-updating-dell-g3-graphics-drivers-enhances-performance/"><u>Boost Your Gameplay: How Updating Dell G3 Graphics Drivers Enhances Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-strategies-for-fixing-fallout-3-boot-problems/"><u>Expert Strategies for Fixing Fallout 3 Boot Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-hogwarts-legacys-startup-issues-8-effective-troubleshooting-tips/"><u>Fix Hogwarts Legacy's Startup Issues: 8 Effective Troubleshooting Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-tarkov-server-issue-dealing-with-the-infamous-error-code-103003/"><u>Fix Tarkov Server Issue: Dealing with the Infamous Error Code 103003</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-gaming-machines-in-2n24-a-comprehensive-guide/"><u>Leading Gaming Machines in 2N24: A Comprehensive Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/maximum-gaming-clarity-innocn-39g1-r/"><u>Maximum Gaming Clarity: InnoCN 39G1 R</u></a></li>
-<li><a href="https://win-answers.techidaily.com/multiversus-no-more-master-the-art-of-fixing-crashes-with-our-top-8/"><u>MultiVersus No More! Master the Art of Fixing Crashes with Our Top 지정된 8 해결책</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/navigating-industry-titans-a-creators-guide-to-mnc-deals/"><u>Navigating Industry Titans A Creator's Guide to MNC Deals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/silent-blocks-here-are-5-solutions-to-restarting-the-volume-on-your-minecraft-game-pc/"><u>Silent Blocks? Here Are 5 Solutions to Restarting the Volume on Your Minecraft Game PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-for-failed-connection-with-your-local-steam-applet/"><u>Solution Steps for 'Failed Connection' With Your Local Steam Applet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectral-savvy-applying-color-science-for-2024/"><u>Spectral Savvy Applying Color Science for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-software-guide-for-tempo-alteration-for-2024/"><u>Ultimate Software Guide for Tempo Alteration for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unstuck-from-the-launch-screen-a-comprehensive-fix-for-among-us-hanging-on-startup/"><u>Unstuck From the Launch Screen: A Comprehensive Fix for Among Us Hanging on Startup</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamline-your-viewing-with-these-9-playlist-extractors/"><u>[New] 2024 Approved Streamline Your Viewing with These 9 Playlist Extractors</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-photo-care-essentials-scanning-and-securing-vintage-prints/"><u>2024 Approved Photo Care Essentials Scanning & Securing Vintage Prints</u></a></li>
+<li><a href="https://win-answers.techidaily.com/google-chrome-troubleshooting-guide-opening-problems-solved/"><u>Google Chrome Troubleshooting Guide: Opening Problems Solved</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999654243-how-to-overcome-pc-crashes-in-pathfinder-wrath-of-the-righteous-solved-and-explained/"><u>How to Overcome PC Crashes in Pathfinder: Wrath of the Righteous - Solved and Explained</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-collaborative-filmmaking-teamwork-in-producing-instagram-content/"><u>In 2024, Collaborative Filmmaking Teamwork in Producing Instagram Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-efficiency-in-advertising-post-facebook-algorithm-overhaul/"><u>In 2024, Efficiency in Advertising Post-Facebook Algorithm Overhaul</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/life-q30-review-soundcores-entry-level-noise-cancelling-solutions/"><u>Life Q30 Review - Soundcore's Entry-Level Noise Cancelling Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/night-owls-rejoice-unveiling-the-features-and-benefits-of-barnes-and-nobles-nook-glowlight-3-e-reader/"><u>Night Owls Rejoice: Unveiling the Features and Benefits of Barnes & Noble's Nook GlowLight 3 E-Reader</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/step-by-step-tutorial-on-encryptingdecrypting-a-macs-hdd-for-privacy/"><u>Step-by-Step Tutorial on Encrypting/Decrypting a Mac's HDD for Privacy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-diablo-ii-reviver-game-crash-issues-efficiently/"><u>Troubleshooting Diablo II Reviver Game Crash Issues Efficiently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-recurrent-noxplayer-instability-issues-on-windowsmacos/"><u>Troubleshooting Recurrent NoxPlayer Instability Issues on Windows/MacOS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixed-how-to-fix-origin-not-launching-on-windows-1011/"><u>Troubleshooting: [FIXED] How to Fix 'Origin Not Launching on Windows 10/11</u></a></li>
 </ul></div>
 

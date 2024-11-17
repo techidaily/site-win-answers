@@ -1,7 +1,7 @@
 ---
 title: Solutions for Uninterrupted Starfield Gaming Experience - No More Freezes!
-date: 2024-11-02T05:53:50.490Z
-updated: 2024-11-06T20:54:08.010Z
+date: 2024-11-10T21:23:33.079Z
+updated: 2024-11-17T09:44:54.456Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Outriders has just been out for days. Therefore, it’s not unusual that you’re running into any sorts of issues which can make your game unplayable. But when it comes to troubleshooting the issues, installing the latest Windows updates should be the recommended step you can take. Windows updates bring new features and fix the compatibility issues especially with new titles.
@@ -45,13 +52,6 @@ Here’s how you can download and install Windows updates:
  1) In the Search box, type in **check for updates** . Then click **Check for updates**  from the results.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
@@ -74,28 +74,15 @@ Here’s how you can download and install Windows updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
@@ -119,33 +106,33 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
@@ -159,15 +146,22 @@ Here’s how you can do this:
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
@@ -183,29 +177,9 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
@@ -221,9 +195,23 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
 
@@ -264,16 +252,20 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-the-art-of-query-tagging-in-instagram-comments/"><u>[Updated] In 2024, Mastering the Art of Query Tagging in Instagram Comments</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-gameplay-experience-essential-tips-to-fix-low-fps-problems-in-valheim-during-2024/"><u>Elevate Your Gameplay Experience: Essential Tips to Fix Low FPS Problems in Valheim During 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-anthem-loading-screen-madness-with-these-effective-fixes-and-tips/"><u>End Anthem Loading Screen Madness with These Effective Fixes and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/freezing-glitch-in-cyberpunk-2nk7-fixed-play-without-issues/"><u>Freezing Glitch in Cyberpunk 2Nk7 Fixed - Play Without Issues!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-11-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 11 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013040591-is-doom-eternal-stuck-in-limbo-weve-got-the-hack-for-you/"><u>Is DOOM Eternal Stuck In Limbo? We've Got The Hack For You</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterclass-picks-professional-webcam-stands-for-2024/"><u>Masterclass Picks Professional Webcam Stands for 2024</u></a></li>
-<li><a href="https://discover-help.techidaily.com/top-no-cost-video-editing-tools-with-multiplatform-audio-integration/"><u>Top No-Cost Video Editing Tools with Multiplatform Audio Integration</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-protective-gear-for-iphone-16pro-models-thoroughly-vetted-by-tech-experts/"><u>Top-Rated Protective Gear for iPhone 16/Pro Models - Thoroughly Vetted by Tech Experts</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/1728496976289-windows-881/"><u>Windows 8/8.1で失われたファイルを無料プログラムで復元する方法</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-share-across-platforms-instagram-meets-facebook/"><u>[New] 2024 Approved Share Across Platforms Instagram Meets Facebook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-enhance-viewer-engagement-the-top-6-methods-for-higher-youtube-audience-retention-for-2024/"><u>[Updated] Enhance Viewer Engagement The Top 6 Methods for Higher YouTube Audience Retention for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-historical-insights-at-your-fingertips-top-10-for-students/"><u>2024 Approved Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-seamless-and-permanent-tiktok-bio-linking-methods/"><u>2024 Approved Seamless & Permanent TikTok Bio Linking Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/doom-eternal-installation-woes-expert-tips-and-tricks-to-start-gaming-smoothly/"><u>DOOM Eternal Installation Woes: Expert Tips and Tricks to Start Gaming Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/f1-2021-frame-rate-issues-resolved-enhanced-performance-on-pc/"><u>F1 2021 Frame Rate Issues Resolved: Enhanced Performance on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-civilization-vi-up-and-running-in-the-world-of-windows-11-tips-and-fixes/"><u>Getting Civilization VI Up and Running in the World of Windows 11 - Tips & Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-top-8-windows-screen-recording-applications/"><u>In 2024, The Top 8 Windows Screen Recording Applications</u></a></li>
+<li><a href="https://games-able.techidaily.com/makeuseofs-highlighted-innovations-at-mwc-2024/"><u>MakeUseOf's Highlighted Innovations at MWC 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximizing-your-gameplay-improve-frame-rate-and-cut-down-lag-on-fall-guys/"><u>Maximizing Your Gameplay: Improve Frame Rate and Cut Down Lag on Fall Guys</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-resident-evil-village-pc-game-crashes-effective-solutions/"><u>Resolving Resident Evil Village PC Game Crashes – Effective Solutions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-18-ai-powered-video-editors-ultimate-selection-guide/"><u>Top 18 AI-Powered Video Editors - Ultimate Selection Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-non-functioning-audio-issues-within-the-dying-light-gaming-experience/"><u>Ultimate Fix for Non-Functioning Audio Issues Within the Dying Light Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-your-discord-app-keep-crashing-issues/"><u>Ultimate Guide: Resolving Your Discord App Keep Crashing Issues</u></a></li>
 </ul></div>
 

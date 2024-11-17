@@ -1,7 +1,7 @@
 ---
 title: "Mafia: The Last Chapter Launch Confirmed After Speculations Clear Up"
-date: 2024-08-28T00:04:08.426Z
-updated: 2024-08-29T00:04:08.426Z
+date: 2024-11-13T18:50:59.115Z
+updated: 2024-11-16T16:18:59.774Z
 tags:
   - win11
   - win10
@@ -51,11 +51,16 @@ thumbnail: https://thmb.techidaily.com/acb788606a304c096daa8263d45d00ea2b9351615
 2. At the top right corner, click the**three dots** , then select**Downloads and Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/downloads-updates-1.jpg)
 3. Click**Get Updates** . Then all your applications should update (including Minecraft Dungeons).  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/get-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/get-updates.jpg)
+
  After updating your game, relaunch Minecraft Dungeons to see if your problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
@@ -78,6 +83,14 @@ If the crashing issue remains, continue to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -95,9 +108,6 @@ If the issue persists, move on to the next fix.
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update.jpg)
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and launch Minecraft Dungeons to see if the crashing issue is resolved.
@@ -112,14 +122,16 @@ If this fix doesn’t do the trick, try the next one.
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 3. Under Apps & features, click**Minecraft Dungeons** , then click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-options.jpg)
 4. Scroll down the page, then click**Repair** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/repair-minecraft-dungeons.jpg)
 
  Now you can relaunch Minecraft Dungeons to check if the game works properly.
@@ -127,8 +139,12 @@ If this fix doesn’t do the trick, try the next one.
 If this fix doesn’t work for you, check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Modify in-game graphics settings
 
  High graphics settings in Minecraft Dungeons are likely to overload your system and may cause the crashing issue. So you can modify the in-game graphics settings to alleviate the stress of your PC and improve the game’s performance. Here’s how:
@@ -137,26 +153,29 @@ If this fix doesn’t work for you, check out the next one.
 2. Click**Display / Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-display-graphics.jpg)
 3. Select**Advanced Graphics** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-graphics.jpg)
-4. **Turn off** V-sync, Anti-Aliasing Quality, Shadow Quality and Bloom.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-graphics.jpg)
+4. **Turn off** V-sync, Anti-Aliasing Quality, Shadow Quality and Bloom.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off.jpg)
+
 Check if Minecraft Dungeons still crashes.
 
 If this fix doesn’t help, check out the last one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Minecraft Dungeons
 
  If none of the fixes above stops the crash in Minecraft Dungeons, you may need to consider reinstalling the game. Sometimes this might help you get rid of the crashing issue. To do so:
@@ -165,11 +184,16 @@ If this fix doesn’t help, check out the last one.
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 3. Under Apps & features, click**Minecraft Dungeons** and select**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-minecraft-dungeons.jpg)
 4. Go to **[Minecraft Dungeon’s official website](https://www.minecraft.net/en-us/about-dungeons)**  to download and install the latest version.
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if Minecraft Dungeons works properly.
 
@@ -186,8 +210,6 @@ Check if Minecraft Dungeons works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +217,26 @@ Check if Minecraft Dungeons works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-youtubes-most-followed-fashionistas-and-cosmetic-experts/"><u>[New] 2024 Approved YouTube's Most-Followed Fashionistas & Cosmetic Experts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-pinnacle-camera-technology-the-best-reviewed/"><u>[New] Pinnacle Camera Technology – The Best Reviewed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-angle-artistry-guide-mastering-the-craft-of-video-spinning-on-social-sites/"><u>2024 Approved The Angle Artistry Guide Mastering the Craft of Video Spinning on Social Sites</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-artisans-blueprint-for-striking-image-collage/"><u>2024 Approved The Artisan's Blueprint for Striking Image Collage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-guide-transforming-your-wmv-files-into-compatible-avi-format/"><u>Easy Guide: Transforming Your WMV Files Into Compatible AVI Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exploring-digital-compression-understanding-mpeg-4-versus-h264-technologies/"><u>Exploring Digital Compression: Understanding MPEG-4 Versus H.264 Technologies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/four-effective-ways-to-bypass-blocked-torrent-sites-and-regain-access/"><u>Four Effective Ways to Bypass Blocked Torrent Sites & Regain Access</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/generative-ai-and-its-potential-role-in-propagating-disinformation-tactics/"><u>Generative AI and Its Potential Role in Propagating Disinformation Tactics.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-edit-and-reverse-your-video-clips-with-windows-movie-maker/"><u>How To Edit & Reverse Your Video Clips With Windows Movie Maker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-masterfully-convert-videos-for-ipod-viewing-unveiling-the-ultimate-8-tools-and-techniques/"><u>How to Masterfully Convert Videos for iPod Viewing: Unveiling the Ultimate 8 Tools & Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-recover-lost-mixer-live-shows-and-vods-using-no-cost-downloader-applications/"><u>How to Recover Lost Mixer Live Shows & VODs Using No-Cost Downloader Applications</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/how-to-restore-lost-texts-from-your-computer-or-smartphone/"><u>How to Restore Lost Texts From Your Computer or Smartphone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-when-your-witcher-3-wild-hunt-game-wont-start/"><u>Mastering the Fix: When Your Witcher 3: Wild Hunt Game Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microsoft-notebook/"><u>Microsoft Notebookにて効果的な画面録画手法を学ぶ</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mkvtoolnix/"><u>MKVToolNix利用ガイド: マルチメディアファイルを成功裏に結合するための対策</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimal-resolution-and-aspect-ratio-a-comprehensive-guide-to-selecting-the-perfect-video-format-for-popular-brands-like-lg-samsung-sony-tcl/"><u>Optimal Resolution and Aspect Ratio: A Comprehensive Guide to Selecting the Perfect Video Format for Popular Brands Like LG, Samsung, Sony, TCL...</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-nonfunctional-usb-ports-on-windows-1011-fixed/"><u>Troubleshooting Nonfunctional USB Ports on Windows 10/11 - Fixed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/utorrent-performance-tweaks-to-overcome-sluggish-download-speeds/"><u>UTorrent Performance Tweaks to Overcome Sluggish Download Speeds</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/webinar-invitation-strategies-for-safeguarding-finances-from-fraud-and-money-laundering/"><u>Webinar Invitation: Strategies for Safeguarding Finances From Fraud & Money Laundering</u></a></li>
+</ul></div>
 

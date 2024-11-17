@@ -1,7 +1,7 @@
 ---
 title: "Solving the Halo Infinite Audio Glitch: No More Stutters!"
-date: 2024-11-04T04:40:36.639Z
-updated: 2024-11-06T19:09:03.493Z
+date: 2024-11-14T12:05:35.220Z
+updated: 2024-11-16T17:21:21.662Z
 tags:
   - win11
   - win10
@@ -86,6 +86,13 @@ Now check if you can play Halo Infinite normally.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
@@ -105,13 +112,6 @@ MSI Afterburner
 
  If you’re sure it’s not the cause, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Disable fullscreen optimizations
 
  Windows 10 comes with a built-in feature called fullscreen optimizations, which should theoretically improve performance of fullscreen apps. But some players have reported that this would sometimes crash the game. So you can try to turn it off and see if this is the issue.
@@ -124,15 +124,15 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
@@ -144,13 +144,6 @@ If this trick doesn’t give you luck, simply try the next one.
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
@@ -160,13 +153,20 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -175,24 +175,24 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
@@ -209,10 +209,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Multiplayer-High-Res-Textures.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Scan and repair Windows
@@ -226,14 +226,14 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -258,21 +258,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-step-by-step-on-hosting-webinars-a-beginners-guide-to-zoom/"><u>[New] Step-by-Step on Hosting Webinars A Beginner's Guide to Zoom</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-10plus-best-free-video-editing-programs-of-2023-for-2024/"><u>[Updated] 10+ Best Free Video Editing Programs of 2023 for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhance-your-browsing-fixing-fuzzy-videos-in-chrome-and-phone-apps/"><u>[Updated] In 2024, Enhance Your Browsing Fixing Fuzzy Videos in Chrome and Phone Apps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-game-on-3-simple-ways-to-record-your-gaming-sessions/"><u>2024 Approved Game On! 3 Simple Ways to Record Your Gaming Sessions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/crafting-humor-the-art-of-mememaking/"><u>Crafting Humor The Art of Mememaking</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhancing-convenience-the-future-of-simplified-usage-with-windows-subsystem-for-linux/"><u>Enhancing Convenience: The Future of Simplified Usage with Windows Subsystem for Linux</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-eliminating-picture-backdrops-using-windows/"><u>Expert Tips: Eliminating Picture Backdrops Using Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-ntuserdat-key-functions-and-importance-within-a-windows-environment/"><u>Exploring NTUSER.DAT: Key Functions and Importance Within a Windows Environment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/exploring-windows-new-sudo-feature-understanding-and-implementation-guide/"><u>Exploring Windows' New Sudo Feature: Understanding & Implementation Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-of-transport-the-elite-list-of-autonomous-vehicle-creators/"><u>Future of Transport: The Elite List of Autonomous Vehicle Creators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-acronis-true-image-at-a-steal-save-20-with-exclusive-promo-code/"><u>Get Acronis True Image at a Steal: Save 20% with Exclusive Promo Code!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-connecting-your-smartphone-seamlessly-to-pc-microphone-via-windows/"><u>Guide: Connecting Your Smartphone Seamlessly to PC Microphone via Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-review-of-keychrons-c3-pro-mechanical-keyboard-top-features-and-exceptional-affordability-for-gamers-and-typists-alike/"><u>In-Depth Review of Keychron's C3 Pro Mechanical Keyboard - Top Features and Exceptional Affordability for Gamers & Typists Alike</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/journey-through-lut-based-color-enhancement-methods/"><u>Journey Through LUT-Based Color Enhancement Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/julys-must-watch-family-movies-curated-for-amazon-prime-video-subscribers-kids-and-parents-enjoy-together/"><u>July's Must-Watch Family Movies Curated for Amazon Prime Video Subscribers: Kids and Parents Enjoy Together!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-5-budget-friendly-methods-for-live-feed-recordings-for-2024/"><u>Top 5 Budget-Friendly Methods for Live Feed Recordings for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-streamlined-process-to-download-parts-from-youtube-videos/"><u>[New] Streamlined Process to Download Parts From YouTube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-back-4-blood-not-launching-on-windows-11107/"><u>[Solved] Back 4 Blood Not Launching on Windows 11/10/7</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-3d-modeling-software-to-use-for-animation/"><u>[Updated] 3D Modeling Software to Use for Animation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-relink-glitch-in-granblue-fantasy-a-comprehensive-guide-for-windows-users/"><u>Fixing the Relink Glitch in Granblue Fantasy - A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/freeframe-studio-gameplay-capture-made-simple-in-24-for-2024/"><u>FreeFrame Studio Gameplay Capture Made Simple in '24 for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-rockstar-online-gaming-platforms-working-again-for-windows-users/"><u>How to Get Rockstar Online Gaming Platforms Working Again for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-se-2020-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-gastronomy-gurus-essential-chefs-to-subscribe-to/"><u>In 2024, Gastronomy Gurus Essential Chefs to Subscribe To</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-6s-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 6s in the Best Ways</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/speech-file-extract-and-critical-assessment-for-2024/"><u>Speech File Extract & Critical Assessment for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speed-up-your-fallout-uge-gameplay-by-reducing-extended-loading-intervals/"><u>Speed Up Your Fallout Uge Gameplay by Reducing Extended Loading Intervals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-repairing-a-broken-logitech-g-hub-in-windows-environment/"><u>Step-by-Step Guide to Repairing a Broken Logitech G Hub in Windows Environment</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/strategies-for-teamplay-and-catching-pokemon-together/"><u>Strategies for Teamplay and Catching Pokémon Together</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-addressing-and-fixing-minecraft-driver-updates/"><u>Troubleshooting Guide: Addressing and Fixing Minecraft Driver Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-revive-your-non-responsive-utorrent-with-7-methods/"><u>Troubleshooting: How To Revive Your Non-Responsive uTorrent with 7 Methods</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Handle Unexpected Reductions in FPS on Your Gaming PC/Console
-date: 2024-10-27T23:26:40.047Z
-updated: 2024-11-01T00:39:46.282Z
+date: 2024-11-11T17:21:07.191Z
+updated: 2024-11-17T08:53:39.634Z
 tags:
   - win11
   - win10
@@ -38,25 +38,11 @@ But don’t worry, it’s usually not that hard to fix.
 6. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Try another version of Afterburner](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Check your cable connection
 
  First you need to**be sure that you have the right display port** . If you’re using the wrong port, say you have your monitor hooked up with the integrated graphics, your GPU might not show up in Afterburner since you’re not using it for display.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/dedicated-gpu-integrated-graphics-hdmi-1200x1200.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You should also rule out the possibility of faulty cables.
 
@@ -70,22 +56,8 @@ You should also rule out the possibility of faulty cables.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-1.jpg)
 2. In the**Compatibility settings** section, uncheck the box next to**Enable low-level IO driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
 3. Restart your PC and check the results in MSI Afterburner.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this trick doesn’t help you. take a look at the next one below.
 
@@ -96,6 +68,19 @@ If this trick doesn’t help you. take a look at the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/vanguard-task-manager.jpg)
 
 If you don’t have Vanguard, simply move on to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update all your drivers
 
@@ -108,15 +93,15 @@ If you don’t have Vanguard, simply move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-killer-networking-rtx-2060-clean.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -132,20 +117,27 @@ If you don’t have Vanguard, simply move on to the next fix.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once done, restart your computer and check if MSI Afterburner is running correctly.
 
 If the issue lingers on, you can continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -155,23 +147,38 @@ If the issue lingers on, you can continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Afterburner works after the clean boot, you can root out the offenders by repeating the steps and disabling only half of the services and programs.
 
@@ -202,19 +209,22 @@ If the issue persists, you can try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[New] 2024 Approved A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/erfect-and-unique-youtube-channel-names-for-professional-filmmakers-and-vloggers-no-more-than-156-characters-for-2024/"><u>[New] Perfect & Unique Youtube Channel Names for Professional Filmmakers & Vloggers (No More than 156 Characters) for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-creating-engaging-visual-narratives-from-photographs-using-pixiz-written/"><u>[Updated] 2024 Approved Creating Engaging Visual Narratives From Photographs Using Pixiz' Written</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-top-10-best-4k-gaming-laptops/"><u>[Updated] TOP 10 Best 4K Gaming Laptops</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-unleashing-potential-top-10-strategies-for-instagram-video-ads/"><u>[Updated] Unleashing Potential Top 10 Strategies for Instagram Video Ads</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723014158219-apex-legends-wont-load-heres-how-to-restart-the-game-swiftly/"><u>Apex Legends Won't Load? Here’s How to Restart the Game Swiftly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crack-the-final-chapter-pc-launch-problem-up-to-date-solutions-for-a-seamless-2024-experience/"><u>Crack the Final Chapter PC Launch Problem - Up-to-Date Solutions for a Seamless 2024 Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-your-apex-legends-startup-woes/"><u>Effortless Solutions to Your Apex Legends Startup Woes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Honor Magic 5 Lite | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-iphone-13-pro-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the iPhone 13 Pro Without Previous Owner?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-pc-performance-to-prevent-spellbreak-from-crashing-a-comprehensive-guide/"><u>Optimizing PC Performance to Prevent Spellbreak From Crashing - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-starting-elden-ring-no-more-black-screens-upon-opening/"><u>Successfully Starting Elden Ring? No More Black Screens Upon Opening</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-making-your-dolby-atmos-work-perfectly-on-windows-11-and-10/"><u>Ultimate Troubleshooting Guide: Making Your Dolby Atmos Work Perfectly on Windows 11 & 10</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/windows-live-movie-maker-tutorial-splitting-videos-like-a-pro/"><u>Windows Live Movie Maker Tutorial Splitting Videos Like a Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-deciphering-the-status-of-splitcam-as-a-recorder/"><u>[New] 2024 Approved Deciphering the Status of SplitCam as a Recorder</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-photoperfect-optimizing-visuals-and-videos-in-instagram/"><u>[New] In 2024, PhotoPerfect Optimizing Visuals and Videos in Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/360-camera-buying-guide-how-to-choose-a-suitable-360-camera/"><u>360 Camera Buying Guide How to Choose a Suitable 360 Camera</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-c110-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia C110 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefront-ii-pc-issues-resolved-fixes-to-stop-game-from-crashing/"><u>Battlefront II PC Issues Resolved: Fixes to Stop Game From Crashing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/complete-examination-a-full-picture-of-bublcams-360-degree-scope/"><u>Complete Examination A Full Picture of Bublcam's 360-Degree Scope</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-initial-load-failures-in-the-fall-guys-experience/"><u>Diagnosing and Fixing Initial Load Failures in the Fall Guys Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-getting-tech-savvy-with-tekken-8-solutions-when-the-game-doesnt-boot-up/"><u>Expert Advice on Getting Tech-Savvy with Tekken 8: Solutions When the Game Doesn’t Boot Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-windows/"><u>Fixes for StarCraft II Game Crashing Issues on Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-spark-20-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Spark 20</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-the-process-of-capturing-your-watched-youtube-content-without-spending/"><u>Learn the Process of Capturing Your Watched YouTube Content Without Spending</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-solutions-to-continuous-crashing-in-halo-3-for-windows-users/"><u>Master the Solutions to Continuous Crashing in Halo 3 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/re7-village-follow-up-solutions-to-overcome-black-screen-hiccups-on-pc/"><u>RE7 Village Follow-Up: Solutions to Overcome Black Screen Hiccups on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/revive-your-hp-laptops-webcam-expert-fixes-compatible-with-windows-11-operating-system/"><u>Revive Your HP Laptop's Webcam: Expert Fixes Compatible with Windows 11 Operating System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-5-simple-techniques-to-keep-deathloop-running-smoothly-on-pc/"><u>Troubleshooting Guide: 5 Simple Techniques to Keep Deathloop Running Smoothly on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twitch-sound-not-working-heres-how-you-can-get-it-to-work-perfectly-now/"><u>Twitch Sound Not Working? Here's How You Can Get It to Work Perfectly Now</u></a></li>
 </ul></div>
 

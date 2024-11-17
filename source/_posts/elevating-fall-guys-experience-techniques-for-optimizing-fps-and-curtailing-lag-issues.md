@@ -1,7 +1,7 @@
 ---
 title: "Elevating Fall Guys Experience: Techniques for Optimizing FPS & Curtailing Lag Issues"
-date: 2024-10-29T23:09:36.104Z
-updated: 2024-11-01T10:11:01.322Z
+date: 2024-11-11T05:48:40.276Z
+updated: 2024-11-17T06:43:22.684Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 8. **[Enable hardware-accelerated GPU scheduling](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Scan your PC for corrupted files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Make sure your PC is capable
 
  Before tweaking Windows and in-game settings, you’ll first need to make sure that you have at least**the minimum required specs** on your PC
@@ -50,10 +57,10 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
  When the hardware you currently have meets the requirements, you can try the methods below for improving your low frame rate.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Download your game updates
@@ -69,13 +76,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
  2) Select the**UPDATES** tab and select the settings**Always keep this game updated** from AUTOMATIC UPDATES.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-light-2-automatic-updates-1200x850.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Epic Games Launcher
 
@@ -103,24 +103,24 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Find any programs or processes that can affect the PC performance, right-click on it and select**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve done these, relaunch your game and test if you can notice an FPS boost.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Check for Windows updates
@@ -149,9 +149,23 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates-1200x685.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) When it finishes downloading the updates, click**Restart now** to restart your PC. Or you can **Schedule the restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates-1200x626.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If updating Windows doesn’t give you any luck, proceed to the next fix.
 
@@ -173,13 +187,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
@@ -189,13 +196,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating drivers, restart your PC and test your gameplay. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Verify integrity of game files
 
@@ -243,13 +243,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Video-settings-Dyling-Light-2-1200x701.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now scroll down and make these changes:
 
 **Particles Quality:** Low  
@@ -278,6 +271,13 @@ Now scroll down and make these changes:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Toggle**on** Hardware-accelerated GPU scheduling. Then select**Desktop app** from the drop-down. Then click on the**Browse** button.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
@@ -299,6 +299,19 @@ Locate the game’s installation folder on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-add-to-the-list-gpu-scheduling.png)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Once it’s added to the list, simply select it and click**Options** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/options.png)
@@ -306,13 +319,6 @@ Locate the game’s installation folder on Steam:
  6) Choose**High performance** and click**Save** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/high-performance-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Doing this will make sure that the game runs on the best graphics processor you have on your computer, not holding back any performance.
 
@@ -353,19 +359,20 @@ When the process is complete, restart your PC.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-ultimate-guide-to-live-360-degree-streams/"><u>[Updated] Mastering YouTube Ultimate Guide to Live 360-Degree Streams</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>2024 Approved The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-fortnite-crash-errors-expert-tips-for-stable-gaming/"><u>Defeating Fortnite Crash Errors: Expert Tips for Stable Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-fixing-a-stagnant-qbittorrent-downloadupload-process/"><u>Effective Solutions for Fixing a Stagnant qBittorrent Download/Upload Process</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oneplus-nord-ce-3-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From OnePlus Nord CE 3 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-honor-100-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Honor 100? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-starfields-intensive-processing-challenge-effective-solutions-for-gamers/"><u>Overcoming Starfield's Intensive Processing Challenge - Effective Solutions for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-game-wont-launch-issues-by-validating-your-game-installation/"><u>Solving 'Game Won't Launch' Issues by Validating Your Game Installation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-fixing-connection-and-download-glitches-in-utorrent/"><u>Step-by-Step Guide to Fixing Connection & Download Glitches in uTorrent</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-how-to-get-the-latest-version-of-your-epson-et-3760-driver-for-windows-computers/"><u>Step-by-Step Tutorial: How to Get the Latest Version of Your Epson ET-3760 Driver for Windows Computers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/g-screen-grabs-compliance-on-youtube-for-2024/"><u>Taking Screen Grabs Compliance on YouTube for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-enhancements-stop-the-unwanted-interruptions/"><u>Team Fortress 2 Stability Enhancements - Stop the Unwanted Interruptions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/text-with-ease-a-comprehensive-tutorial-for-ipad-users/"><u>Text with Ease: A Comprehensive Tutorial for iPad Users</u></a></li>
-<li><a href="https://discover-community.techidaily.com/windows-mpg-concatenation-tutorial-merging-multiple-mpg-files-seamlessly/"><u>Windows MPG Concatenation Tutorial: Merging Multiple .mpg Files Seamlessly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-grow-your-channelnode-through-joint-videography-endeavors/"><u>[New] In 2024, Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-avoid-monetization-mishaps-essential-youtube-checks-for-2024/"><u>[Updated] Avoid Monetization Mishaps Essential YouTube Checks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-how-to-unlock-full-potential-with-iphone-hdr/"><u>[Updated] In 2024, How to Unlock Full Potential with iPhone HDR</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/avoid-potential-pitfalls-with-a-healthy-skepticism-of-ai/"><u>Avoid Potential Pitfalls with a Healthy Skepticism of AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chivalry-ii-troubleshooting-resolving-game-crashes/"><u>Chivalry II Troubleshooting: Resolving Game Crashes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-walkthrough-installing-windows-11-onto-a-brand-new-ssdhdd/"><u>Complete Walkthrough: Installing Windows 11 Onto a Brand New SSD/HDD</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-g24-power-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola G24 Power Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-bless-unleashed-performance-dips-and-elevate-your-gameplay-experience-on-pc/"><u>Expert Tips to Overcome Bless Unleashed Performance Dips and Elevate Your Gameplay Experience on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/grok-ventures-secures-majority-ownership-in-agl-by-acquiring-11-share-thwarting-de-merge-strategy/"><u>Grok Ventures Secures Majority Ownership in AGL by Acquiring 11% Share, Thwarting De-Merge Strategy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-common-issues-and-crashes-with-biomutant-on-your-computer/"><u>How to Fix Common Issues and Crashes with Biomutant on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-for-non-working-steelseries-gg-controller-engines-in-windows-os/"><u>How To Restore Functionality for Non-Working SteelSeries GG Controller Engines in Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-diablo-4-from-crashing-effective-fixes-for-playstation-and-xbox-gamers/"><u>How to Stop Diablo 4 From Crashing: Effective Fixes for PlayStation and Xbox Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-steam-and-desktop-instability-top-9-ways-to-stabilize-your-ark-scorched-earth-gameplay/"><u>Overcome Steam and Desktop Instability: Top 9 Ways to Stabilize Your ARK: Scorched Earth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-red-dead-redemption-2-bugs-pro-tips-to-avoid-performance-hiccups/"><u>Overcoming Red Dead Redemption 2 Bugs: Pro Tips to Avoid Performance Hiccups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-art-of-xbox-playback-tips-for-clear-video-for-2024/"><u>The Art of Xbox Playback Tips for Clear Video for 2024</u></a></li>
 </ul></div>
 

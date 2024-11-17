@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Tips and Solutions for Continuous Stalling in Ghostwire: Tokyo PC Version"
-date: 2024-10-26T06:07:01.639Z
-updated: 2024-11-01T00:22:06.391Z
+date: 2024-11-12T02:52:11.304Z
+updated: 2024-11-17T10:17:34.917Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
  The screenshots below come from Windows 10\. If you are running Windows 11, your screen may look slightly different, but the steps you take will remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Delete temporary files in Windows
 
  Excessive temporary files in your system can sometimes take up a large space on your computer. Deleting all the temporary files in Windows could speed up your PC and help Vegas Pro run more stably. Here’s how:
@@ -53,14 +46,21 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-18-22-1.jpg)
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
@@ -75,13 +75,26 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair system files
@@ -95,27 +108,26 @@ thumbnail: https://thmb.techidaily.com/c9e5ca8d00ac8479f694130618d3f9a3080c0193f
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart your PC and check if Vegas crashes again.
 
 If the issue is still there, you can move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics card driver
 
@@ -135,12 +147,26 @@ If the issue is still there, you can move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Import your footage via the Explorer window
 
@@ -172,13 +198,6 @@ If the issue is still there, you can move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-31-39.jpg)
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
@@ -213,20 +232,19 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run Vegas Pro to see if the problem is solved.
@@ -253,24 +271,14 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-age-of-empires-4-keeps-crashing-on-pc/"><u>[SOLVED] Age of Empires 4 Keeps Crashing on PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-decoding-mycam-cams-video-quality-and-recording-speed/"><u>2024 Approved Decoding MyCam Cam’s Video Quality and Recording Speed</u></a></li>
-<li><a href="https://win11.techidaily.com/comparing-untapped-windows-features-reliability-and-performance/"><u>Comparing Untapped Windows Features: Reliability & Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/decoding-the-hold-up-insights-into-elden-rings-late-release/"><u>Decoding The Hold-Up: Insights Into Elden Ring's Late Release</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-pro-8720-printer-drivers-on-windows-latest-version/"><u>Download & Install HP OfficeJet Pro 8720 Printer Drivers on Windows - Latest Version</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-solutions-for-preventing-ghostwire-tokyo-from-crashing-on-windows/"><u>Effective Solutions for Preventing Ghostwire: Tokyo From Crashing on Windows</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-stabilize-your-video-for-better-impressions-in-fcpx-for-2024/"><u>How to Stabilize Your Video for Better Impressions in FCPX for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-vecto-art-and-graphic-sites-compared-whos-the-best/"><u>In 2024, Free Vecto Art & Graphic Sites Compared – Who's the Best?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/is-it-possible-to-watch-h265hevc-compressed-4k-content-on-vlc-with-the-x265-encoding-module-active/"><u>Is It Possible to Watch H.265/HEVC Compressed 4K Content on VLC with the X265 Encoding Module Active?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-hackers-trick-to-get-your-evil-genius-2-running-smoothly-again/"><u>Master Hacker's Trick to Get Your Evil Genius 2 Running Smoothly Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-lost-ark-gameplay-overcoming-performance-difficulties/"><u>Optimizing Lost Ark Gameplay: Overcoming Performance Difficulties</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-controller-issues-expert-fixes-to-restore-your-gameplay-experience/"><u>Pathfinder Wrath of the Righteous Controller Issues? Expert Fixes to Restore Your Gameplay Experience</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-your-digital-liftoffs-using-vlc-for-mp4-and-more-for-2024/"><u>Streamlining Your Digital Liftoffs Using VLC for MP4 and More for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211254001-9781962570497-the-path-is-the-way-to-self-mastery/"><u>The Path Is The Way To Self-Mastery | Free Book</u></a></li>
-<li><a href="https://win-answers.techidaily.com/trouble-free-gaming-solving-lego-star-wars-the-skywalker-saga-pc-glitches/"><u>Trouble-Free Gaming: Solving Lego Star Wars - The Skywalker Saga PC Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-elevated-cpu-utilization-for-an-optimal-god-of-war-gaming-experience/"><u>Troubleshooting Elevated CPU Utilization for an Optimal God of War Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-stop-sony-vegas-from-continuously-crashing/"><u>Troubleshooting: How to Stop Sony Vegas From Continuously Crashing</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-6s-plus-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 6s Plus using icloud website</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-textual-transformations-the-photographers-guide-to-image-edits/"><u>[New] In 2024, Textual Transformations The Photographer's Guide to Image Edits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-color-change-pro-methods-uncovered/"><u>[New] Navigating Color Change Pro Methods Uncovered</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-centipede-code-problem-solved-a-step-by-step-guide/"><u>Destiny 2 Centipede Code Problem Solved - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/experience-effortless-videodownloads-on-pinterest-with-5-best-tools-for-2024/"><u>Experience Effortless Videodownloads on Pinterest with 5 Best Tools for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-angs-ensuring-smooth-performance-without-pc-glitches/"><u>House Flipper Angs: Ensuring Smooth Performance Without PC Glitches</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-the-joyride-collection-for-young-ones/"><u>In 2024, The Joyride Collection for Young Ones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-the-anarchy-troubleshooting-tips-for-crash-free-play-in-persona-5-strikers-pc/"><u>Stop the Anarchy - Troubleshooting Tips for Crash-Free Play in Persona 5 Strikers (PC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/to-eliminate-the-denominators-cross-multiply/"><u>To Eliminate the Denominators, Cross-Multiply:</u></a></li>
 </ul></div>
 

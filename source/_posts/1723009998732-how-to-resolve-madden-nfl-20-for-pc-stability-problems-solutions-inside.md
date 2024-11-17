@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Madden NFL 20 for PC Stability Problems - Solutions Inside
-date: 2024-08-28T00:04:56.760Z
-updated: 2024-08-29T00:04:56.760Z
+date: 2024-11-15T02:37:53.141Z
+updated: 2024-11-17T02:19:21.623Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -54,8 +61,12 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -86,14 +97,17 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -124,9 +138,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -135,9 +146,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -148,17 +156,17 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -181,8 +189,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +196,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ideal-ae-text-sets-for-professional-work/"><u>[New] In 2024, Ideal AE Text Sets for Professional Work</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-the-ultimate-compendium-of-top-rated-instagram-analytics-applications-for-2024/"><u>[New] The Ultimate Compendium of Top-Rated Instagram Analytics Applications for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-depth-guide-to-simple-high-dynamic-range/"><u>[Updated] In-Depth Guide to Simple High Dynamic Range</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-your-microphone-on-a-windows-11-operating-system/"><u>How to Repair Your Microphone on a Windows 11 Operating System</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-essentials-of-professional-level-audio-crossfade/"><u>In 2024, The Essentials of Professional-Level Audio Crossfade</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/quick-and-efficient-methods-restoring-your-lost-powershell-ps-scripts-in-no-time/"><u>Quick & Efficient Methods: Restoring Your Lost PowerShell (PS) Scripts in No Time</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solutions-for-when-your-computer-wont-recognize-an-sd-card/"><u>Solutions for When Your Computer Won’t Recognize an SD Card</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-turning-screen-recordings-into-gifs-for-pc-users/"><u>Step-by-Step Guide: Turning Screen Recordings Into GIFs for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-on-converting-dvd-soundtracks-into-aac-files/"><u>Step-by-Step Tutorial on Converting DVD Soundtracks Into AAC Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-enable-dvd-player-compatibility-with-mkv-format/"><u>Step-by-Step Tutorial: Enable DVD Player Compatibility with MKV Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/streamlining-your-audio-conversion-a-simple-guide-to-changing-webm-files-into-m4a-format/"><u>Streamlining Your Audio Conversion: A Simple Guide to Changing WebM Files Into M4A Format</u></a></li>
+<li><a href="https://win-answers.techidaily.com/table/"><u>Table</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-to-choosing-the-right-waterproof-case/"><u>Ultimate Guide to Choosing the Right Waterproof Case</u></a></li>
+</ul></div>
 

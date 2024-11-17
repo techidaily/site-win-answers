@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets to Successfully Running 'Last Epoch' On Your PC - Latest Fixes & Updates!
-date: 2024-10-31T01:02:51.653Z
-updated: 2024-11-07T06:32:09.626Z
+date: 2024-11-12T07:17:29.215Z
+updated: 2024-11-17T13:41:31.675Z
 tags:
   - win11
   - win10
@@ -40,16 +40,16 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Test internet connection
 
@@ -74,13 +74,20 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
@@ -101,6 +108,19 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,13 +133,6 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -135,6 +148,20 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example, since it may improve your ping. Here’s how:
@@ -143,28 +170,8 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
@@ -172,23 +179,22 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
@@ -223,24 +229,15 @@ thumbnail: https://thmb.techidaily.com/dc8c23798056f26fbb4ba042d36186a35f13e6ccd
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-second-count-for-a-20mb-visual-file/"><u>[New] Evaluating Second Count for a 20MB Visual File</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-expert-guide-to-tiktoks-must-have-elements/"><u>[New] Expert Guide to TikTok's Must-Have Elements</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-gamers-quest-1000plus-game-adventures-unfolded/"><u>[New] In 2024, Gamer's Quest 1,000+ Game Adventures Unfolded</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-ultimate-guide-testing-mycam-recording-capabilities/"><u>[Updated] In 2024, Ultimate Guide Testing MyCam Recording Capabilities</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-debating-the-need-for-itop-screencasting/"><u>2024 Approved Debating the Need for ITop Screencasting</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battling-bugs-in-gears-master-these-techniques-to-stop-game-crashes-forever/"><u>Battling Bugs in Gears Ⅴ? Master These Techniques to Stop Game Crashes Forever</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comprehensive-tutorial-how-to-perform-a-full-system-image-backup-on-windows-os-versions-7-8-10-and-11/"><u>Comprehensive Tutorial: How to Perform a Full System Image Backup on Windows OS Versions (7, 8, 10, & 11)</u></a></li>
-<li><a href="https://facebook.techidaily.com/examining-the-repercussions-of-facial-recognition-erasure-on-safety/"><u>Examining the Repercussions of Facial Recognition Erasure on Safety</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-connectivity-problems-in-apex-legends-solutions-and-tips/"><u>Fixing Connectivity Problems in Apex Legends - Solutions & Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013257884-grand-theft-auto-v-audio-fix-say-goodbye-to-stutters-and-lags/"><u>Grand Theft Auto V Audio Fix - Say Goodbye to Stutters & Lags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-utorrents-not-responding-issue-with-these-7-fixes/"><u>How to Resolve Utorrent's Not Responding Issue with These 7 Fixes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-computer-from-freezing-when-running-watch-dogs-legion/"><u>How to Stop Your Computer From Freezing When Running Watch Dogs: Legion</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Tecno Spark Go (2023)? | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/iphone-x-vs-samsung-galaxy-s8-in-depth-feature-comparison/"><u>IPhone X vs Samsung Galaxy S8: In-Depth Feature Comparison</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issue-why-is-my-msi-afterburner-not-picking-up-my-graphics-card-on-windows/"><u>Resolved Issue - Why Is My MSI Afterburner Not Picking Up My Graphics Card on Windows?</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-fixes-for-persistent-reboot-loop-in-windows-11-and-10/"><u>Resolved: Fixes for Persistent Reboot Loop in Windows 11 and 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-for-playing-resident-evil-village-after-initial-hitch/"><u>Resolved! Troubleshooting Steps for Playing Resident Evil Village After Initial Hitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-to-stop-dota-2-from-crashing/"><u>Step-by-Step Solution to Stop Dota 2 From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/wolcens-lords-of-mayhem-solving-pc-gaming-freezes-and-crashes/"><u>Wolcen's Lords of Mayhem - Solving PC Gaming Freezes and Crashes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-precision-video-capture-experts-for-2024/"><u>[New] Precision Video Capture Experts for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exhaustive-explanation-unveiling-the-google-podcasts-app/"><u>2024 Approved Exhaustive Explanation Unveiling the Google Podcasts App</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/diminishing-volume-fl-masterclass-for-2024/"><u>Diminishing Volume FL Masterclass for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-assassins-creed-odyssey-stutters-expert-tips-and-solutions-updated/"><u>Fixing Assassin's Creed Odyssey Stutters: Expert Tips and Solutions (Updated )</u></a></li>
+<li><a href="https://games-able.techidaily.com/flashfest-of-fun-ephemeral-gameplay-perks/"><u>FlashFest of Fun: Ephemeral Gameplay Perks</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-streamline-your-meetings-the-use-of-snap-camera-on-teams/"><u>In 2024, Streamline Your Meetings The Use of Snap Camera on Teams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-virtualization-a-stepwise-process-to-enable-hyper-v-on-your-windows-11-pc/"><u>Mastering Virtualization: A Stepwise Process to Enable Hyper-V on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-division-2-not-launching-expert-tips-and-tricks-for-players/"><u>Resolving 'Division 2 Not Launching' - Expert Tips and Tricks for Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-playstation-games-from-locking-up-fix-your-ghostwire-tokyo-pc-glitches/"><u>Stop PlayStation Games From Locking Up - Fix Your Ghostwire: Tokyo PC Glitches</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
 </ul></div>
 

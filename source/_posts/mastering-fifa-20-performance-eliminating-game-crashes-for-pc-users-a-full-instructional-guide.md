@@ -1,7 +1,7 @@
 ---
 title: "Mastering FIFA 20 Performance: Eliminating Game Crashes for PC Users - A Full Instructional Guide"
-date: 2024-08-28T00:02:41.827Z
-updated: 2024-08-29T00:02:41.827Z
+date: 2024-11-10T19:03:54.904Z
+updated: 2024-11-16T16:36:03.832Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 If the update message pops up again, check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check the versions of Minecraft and your system
 
  Though the message tells you to update your graphics driver, it’s also a priority for you to **make sure both your Minecraft client and system are up to date** . Some players suggest that the message could also be telling you that you’re on an outdated client or system.
@@ -62,9 +69,14 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win** (the Windows logo key). Then click**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 ##### Java edition
@@ -78,10 +90,22 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -89,9 +113,6 @@ You can use the following steps to check for Minecraft updates.
 
 If you’re still seeing the message, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Scan and repair Windows
 
  If you’re sure it’s not a driver issue, try scanning Windows and see if it’s a system error.
@@ -104,9 +125,6 @@ If you’re still seeing the message, continue to the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
@@ -122,14 +140,16 @@ Here’s how you can check the preferred GPU of Minecraft:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
@@ -137,8 +157,12 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Now you can restart Minecraft and check if the message is still there.
 
 ---
@@ -153,8 +177,6 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +184,26 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-stories-the-best-cinematographic-techniques/"><u>[Updated] Capturing Stories The Best Cinematographic Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-7-places-to-find-royalty-free-sound-effects-for-youtube-videos/"><u>[Updated] In 2024, 7 Places to Find Royalty Free Sound Effects for YouTube Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-redefine-twitter-video-panel/"><u>[Updated] Redefine Twitter Video Panel</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-snap-away-the-best-cams-for-novice-photographers/"><u>[Updated] Snap Away The Best Cams for Novice Photographers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-slug-lines-essentials-and-application-guide/"><u>[Updated] Understanding Slug Lines Essentials & Application Guide</u></a></li>
+<li><a href="https://fox-search.techidaily.com/dod-522/"><u>「ハードディスクを完全消去するためのDOD 522</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-modify-where-mac-photos-stash-location/"><u>2024 Approved Modify Where Mac Photos Stash Location</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995690374-apex-legends-not-launching-discover-fast-track-fixes-here/"><u>Apex Legends Not Launching? Discover Fast-Track Fixes Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-gaming-performance-techniques-for-eliminating-frame-rate-hiccups/"><u>Enhancing Gaming Performance: Techniques for Eliminating Frame Rate Hiccups</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-correcting-the-malfunction-of-your-windows-11-mic/"><u>Expert Advice: Correcting the Malfunction of Your Windows 11 Mic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fast-track-troubleshooting-ending-division-2-performance-issues-easily/"><u>Fast Track Troubleshooting: Ending Division 2 Performance Issues Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-continuous-freezing-in-fallout-4-when-played-on-pc/"><u>Fixes & Solutions for Continuous Freezing in Fallout 4 When Played on PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-storm-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Storm 5G Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-repair-techniques-for-voice-chat-not-functioning-navigating-through-content-warning-glitches/"><u>Master Repair Techniques for 'Voice Chat Not Functioning': Navigating Through Content Warning Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-tips-and-tricks-to-eliminate-discord-network-lag-issues/"><u>Resolved: Tips & Tricks to Eliminate Discord Network Lag Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-high-quality-lossless-music-from-flac-to-mp3-via-vlc/"><u>Step-by-Step Guide: Converting High-Quality Lossless Music From FLAC to MP3 via VLC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-troubleshooting-guide-for-resolving-call-of-duty-mw3-fps-drops-2024-edition/"><u>The Ultimate Troubleshooting Guide for Resolving Call of Duty MW3 FPS Drops - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-overcome-constant-tower-of-fantasy-crashes-on-windowsmac/"><u>Troubleshooting Guide: Overcome Constant Tower of Fantasy Crashes on Windows/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-to-overcome-lag-and-stuttering-in-black-ops-cold-war/"><u>Ultimate Fixes to Overcome Lag and Stuttering in Black Ops Cold War</u></a></li>
+</ul></div>
 

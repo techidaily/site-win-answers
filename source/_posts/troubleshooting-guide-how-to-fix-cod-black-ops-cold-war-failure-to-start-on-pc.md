@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix Cod: Black Ops Cold War Failure to Start on PC"
-date: 2024-08-28T00:07:04.612Z
-updated: 2024-08-29T00:07:04.612Z
+date: 2024-11-10T00:50:30.728Z
+updated: 2024-11-17T04:34:04.566Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ Minimum
 
  If your gaming rig is powerful enough for the game, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Scan and repair game files
 
  The not launching might indicate**an integrity issue** with your game files. You can follow these steps to check and repair any missing or corrupted files:
@@ -58,13 +65,24 @@ Minimum
 2. Click**Options** and select**Scan and Repair** . Then wait until the checking finishes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can now launch Black Ops Cold War and see if it’s working.
 
  If this method doesn’t help your case, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  The game-not-launching issue tends to be graphics-related. In other words, you could be using**a faulty or outdated graphics driver** . If you can’t remember the last time you updated your GPU driver, definitely do it now.
@@ -99,9 +117,6 @@ You can now launch Black Ops Cold War and see if it’s working.
 2. Click**Check for updates** . Then wait for Windows to download and install all available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -110,40 +125,54 @@ You can now launch Black Ops Cold War and see if it’s working.
 1. On your keyboard, press the **Windows logo key** . Select **Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates.jpg)
 2. Select **System and Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click **Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
 4. Click **Install updates** . It’ll take some time (up to 1 hour) for Windows to install all the updates.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Once you’ve installed all the updates, restart your PC and try to launch Black Ops Cold War.
 
  If this solution doesn’t work for you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/afterburner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 MSI Afterburner
 
  While overclocking is surely a zero-cost benefit, it can also be the trigger of system instability. And according to Activision, Black Ops Cold War does not get along well with overclocking utilities. So if you’re using overclocking software, such as**MSI Afterburner** and**Razer Cortex** or have enabled overclocking in BIOS settings, try stopping that and see if it allows you to start the game.
 
  If you’re not overclocking in the first place, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Launch Black Ops Cold War in DirectX 11
 
@@ -155,14 +184,22 @@ Here’re the steps:
 2. From the left menu, select**Call of Duty: BOCW** . Click**Options** and select**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-d11-1.jpg)
 3. Check the box next to**Additional command line arguments** . In the input box, type or paste**\-d3d11** (note the dash). Then click**Done** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-d11-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-d11-2.jpg)
+
 Now you can check if Black Ops Cold War is working properly.
 
 ### Fix 7: Check if your system is corrupted
@@ -175,9 +212,6 @@ Now you can check if Black Ops Cold War is working properly.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -192,8 +226,6 @@ Now you can check if Black Ops Cold War is working properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +233,22 @@ Now you can check if Black Ops Cold War is working properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-essential-actions-while-absorbing-audio-tales/"><u>[New] Essential Actions While Absorbing Audio Tales</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-crafting-the-perfect-anime-story-best-ideas-for-viral-videos-for-2024/"><u>[Updated] Crafting the Perfect Anime Story Best Ideas for Viral Videos for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>[Updated] In 2024, Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-start-saving-smiles-on-youtube-a-beginners-mac-tutorial/"><u>[Updated] Start Saving Smiles on YouTube A Beginner's Mac Tutorial</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-shutter-showdown-best-for-slow-motion-videos/"><u>[Updated] The Ultimate Shutter Showdown Best for Slow Motion Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unboxing-the-polaroid-camplus-cube-action-video-analysis/"><u>2024 Approved Unboxing the Polaroid Cam+ Cube Action Video Analysis</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-honor-magic-6-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dark-souls-crashes-and-bugs-heres-how-you-can-resolve-them/"><u>Dark Souls 지미: Crashes and Bugs? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-gt-5-240w-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme GT 5 (240W) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/huckels-rule-states-that-4n-plus-2-pi-electrons-are-required-for-an-aromatic-compound-which-can-be-applied-to-determine-aromaticity-in-monocyclic-systems/"><u>Hückel's Rule States that [4N + 2] Pi Electrons Are Required for an Aromatic Compound, Which Can Be Applied to Determine Aromaticity in Monocyclic Systems.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/la-noire-game-makes-its-long-awaited-debut-on-personal-computers-issues-resolved/"><u>LA Noire Game Makes Its Long-Awaited Debut on Personal Computers – Issues Resolved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-steam-from-freezing-fast-fixes-that-work-every-time/"><u>Stop Steam From Freezing: Fast Fixes That Work Every Time!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-a-step-by-step-guide/"><u>Troubleshooting Common Sound Issues in Halo Infinite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998022241-troubleshooting-tips-fix-your-steam-and-server-connection-problems-today/"><u>Troubleshooting Tips - Fix Your Steam and Server Connection Problems Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-eliminating-frame-rate-drops-in-valorant-expert-hacks-and-tips/"><u>Ultimate Guide to Eliminating Frame Rate Drops in VALORANT - Expert Hacks & Tips</u></a></li>
+</ul></div>
 

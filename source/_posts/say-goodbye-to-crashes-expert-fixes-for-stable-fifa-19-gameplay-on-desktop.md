@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Crashes: Expert Fixes for Stable FIFA 19 Gameplay on Desktop"
-date: 2024-08-28T00:06:56.923Z
-updated: 2024-08-29T00:06:56.923Z
+date: 2024-11-10T10:14:07.360Z
+updated: 2024-11-17T12:51:09.535Z
 tags:
   - win11
   - win10
@@ -67,8 +67,12 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -89,15 +93,8 @@ thumbnail: https://thmb.techidaily.com/4cc762a4b279881853cc89fa45ad5b311a699fba4
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-csan-screen-2.png)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -107,8 +104,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest DayZ patch
 
  The developers of DayZ release regular game patches to fix bugs. It’s possible that a recent patch has caused the FPS drops issue, and that a new patch is required to fix it.
@@ -126,18 +127,28 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
+
 #### Lower the in-game graphics settings
 
 1. Launch DayZ and modify the following in-game video settings:  
@@ -182,9 +193,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -194,24 +202,34 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 8: Adjust your Windows system for the best performance
 
  If your PC fails to meet the recommended system requirements for DayZ, try adjusting your Windows system for the best performance. Here is how to do it:
@@ -221,9 +239,6 @@ Try the next fix below if this fix didn’t work for you.
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
@@ -241,8 +256,6 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +263,21 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-savvy-techies-strategy-for-saving-snapshots-for-2024/"><u>[New] The Savvy Techie's Strategy for Saving Snapshots for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-plating-guided-path-to-home-cooking-videos/"><u>[Updated] Perfect Plating Guided Path to Home Cooking Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-simplified-image-editing-getting-rid-of-background-in-one-click/"><u>[Updated] Simplified Image Editing Getting Rid of Background in One Click</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/breaking-barriers-with-excellent-job-interview-techniques/"><u>Breaking Barriers with Excellent Job Interview Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-hassle-free-video-opener-templates/"><u>Discover Hassle-Free Video Opener Templates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-installation-instructions-for-hyper-v-feature-on-windows-10-systems/"><u>Easy Installation Instructions for Hyper-V Feature on Windows 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-sea-of-thieves-endless-startup-loop-challenge/"><u>Overcoming Sea of Thieves' Endless Startup Loop Challenge</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-your-keys-effective-solutions-for-malfunctioning-keyboard-lighting-in-windowsmac-systems/"><u>Revive Your Keys: Effective Solutions for Malfunctioning Keyboard Lighting in Windows/Mac Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-rogue-companys-pc-performance-problems-a-comprehensive-guide/"><u>Solving Rogue Company's PC Performance Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-your-download-dilemma-what-to-do-when-qbittorrent-freezes-up/"><u>Solving Your Download Dilemma: What to Do When qBittorrent Freezes Up</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-comprehensive-guide-to-changing-console-voice-for-2024/"><u>The Comprehensive Guide to Changing Console Voice for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-ferramentas-de-edicao-de-imagem-online-e-gratuitas-para-otimizar-as-fotografias/"><u>Top 10 Ferramentas De Edição De Imagem Online E Gratuitas Para Otimizar as Fotografias</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/top-7-free-apps-for-tiktok-creations-on-macos-devices/"><u>Top 7 Free Apps for TikTok Creations on MacOS Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-non-responsive-intel-chipset-drivers/"><u>Troubleshooting Tips for Non-Responsive Intel Chipset Drivers</u></a></li>
+</ul></div>
 
