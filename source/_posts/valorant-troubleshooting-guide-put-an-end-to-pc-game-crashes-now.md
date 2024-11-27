@@ -1,7 +1,7 @@
 ---
 title: Valorant Troubleshooting Guide - Put an End to PC Game Crashes Now!
-date: 2024-08-27T23:59:49.656Z
-updated: 2024-08-28T23:59:49.656Z
+date: 2024-11-20T00:15:19.942Z
+updated: 2024-11-27T00:33:11.250Z
 tags:
   - win11
   - win10
@@ -47,11 +47,16 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -65,8 +70,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -95,21 +101,21 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -120,9 +126,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -140,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +150,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fusing-genres-a-youtube-music-strategy/"><u>[New] 2024 Approved Fusing Genres A YouTube Music Strategy</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-innovative-video-sharing-best-practices-for-live-monitor-display/"><u>[New] 2024 Approved Innovative Video Sharing Best Practices for Live Monitor Display</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-exploring-what-sets-youtube-tv-apart-from-other-streaming-platforms/"><u>[Updated] In 2024, Exploring What Sets YouTube TV Apart From Other Streaming Platforms</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-12-essential-metaverse-prototypes-demystifying-vr/"><u>2024 Approved 12 Essential Metaverse Prototypes Demystifying VR</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cheapest-android-calls-top-free-apps-rated-for-2024/"><u>Cheapest Android Calls Top Free Apps Rated for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dealing-with-windows-11-dir-is-not-empty-error-0x80070091/"><u>Dealing with Windows 11 Dir Is Not Empty Error (0X80070091)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-msedgeexe-crashing-on-windows-pcs/"><u>Effective Fixes for 'msedge.exe' Crashing on Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-destiny-2-initialization-error-how-i-restored-game-graphics/"><u>Fixing the Destiny 2 Initialization Error: How I Restored Game Graphics</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-14-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 14 Activation Lock</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/key-methods-to-incorporate-facebook-live-into-website-designs-for-2024/"><u>Key Methods to Incorporate Facebook Live Into Website Designs for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-fix-for-not-found-entry-point-when-playing-fortnite-on-pc-or-console/"><u>Mastering the Fix for 'Not Found Entry Point' When Playing Fortnite on PC or Console</u></a></li>
+<li><a href="https://win-answers.techidaily.com/natureindex-nd-glyphosate-retrieved-from-httpswwwnatureindexcomresearcherview17506489/"><u>NatureIndex (N.d.). Glyphosate. Retrieved From https://www.natureindex.com/researcher/view/17506489</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-timekeeping-for-your-nuptials-appleandroid-selection-for-2024/"><u>Premium Timekeeping For Your Nuptials Apple/Android Selection for 2024</u></a></li>
+</ul></div>
 

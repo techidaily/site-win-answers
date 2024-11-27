@@ -1,7 +1,7 @@
 ---
 title: "'New World': Ultimate Troubleshooting Guide - Putting an End to Incessant PC Game Crashes"
-date: 2024-08-28T00:02:26.825Z
-updated: 2024-08-29T00:02:26.825Z
+date: 2024-11-26T03:23:55.516Z
+updated: 2024-11-27T01:30:49.869Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 6. **[Reinstall Minecraft completely](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Check if your system is corrupted](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Close conflicting programs
 
  The several incarnations in the past decade failed to eliminate the compatibility issues in Minecraft. In other words, your Exit Code 0 issue could be triggered by**conflicting programs** on your PC.
@@ -37,10 +41,6 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 
  If MC crashes when you’re not running any offending programs, simply take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**broken or outdated graphics driver** . New drivers tackle compatibility issues and offer a zero-cost performance boost. So before attempting anything more complicated, definitely check if your GPU driver is up to date.
@@ -51,20 +51,18 @@ Many players are reporting that**Minecraft crashes with an Exit Code 0 error** .
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and check if Minecraft crashes again.
 
 If the issue persists, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your Java is up to date
 
@@ -87,16 +85,20 @@ If the issue persists, you can try the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -113,13 +115,11 @@ If this fix doesn’t help you, simply move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/minecraft-options-txt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **.minecraft** Folder
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Fix 7: Check if your system is corrupted
 
  If you tried all the fixes above and none seem to work, this could imply a bigger issue with you system. But instead of reinstalling Windows, you can first use a repair tool to scan for potential issues.
@@ -130,11 +130,13 @@ If this fix doesn’t help you, simply move on to the next one.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  We partner with a US-based company with live tech support experts available 24/7\. If the problem lingers on, you can try to[**chat with a verified expert**](https://sovrn.co/1p9ak9z) .
@@ -151,8 +153,6 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +160,24 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-the-ultimate-beginners-guide-to-mastering-final-cut-pro/"><u>[New] In 2024, The Ultimate Beginner’s Guide to Mastering Final Cut Pro</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-the-viral-potential-of-your-instagram-unboxing-content/"><u>[New] Unleash the Viral Potential of Your Instagram Unboxing Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-10-skype-recorder-to-use-2023/"><u>2024 Approved Top 10 Skype Recorder to Use 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bugs-expert-tips-and-tricks-to-resolve-assassins-creed-valhalla-crashes-on-windows-machines/"><u>Beat the Bugs: Expert Tips and Tricks to Resolve Assassin's Creed Valhalla Crashes on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chivalry-2-error-resolved-smooth-gaming-experience-restored/"><u>Chivalry 2 Error Resolved – Smooth Gaming Experience Restored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007123965-cod-vanguard-pc-performance-issues-solved-overcome-game-crashes-now/"><u>COD Vanguard PC Performance Issues Solved - Overcome Game Crashes Now</u></a></li>
+<li><a href="https://windows11.techidaily.com/distinguishing-key-features-of-exe-and-msi-formats/"><u>Distinguishing Key Features of EXE and MSI Formats</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-nvidia-geforce-experience-error-code-0x0003/"><u>How to Fix Nvidia GeForce Experience Error Code 0X0003</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-zte-axon-40-lite-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on ZTE Axon 40 Lite Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-secrets-to-stellar-tiktok-creation-with-ingenious-templates/"><u>In 2024, The Secrets to Stellar TikTok Creation with Ingenious Templates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013778226-maplestory-game-launch-fixed-enjoy-uninterrupted-playtime/"><u>MapleStory Game Launch Fixed - Enjoy Uninterrupted Playtime!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/mastering-video-capture-on-your-laptop-with-screenrec/"><u>Mastering Video Capture on Your Laptop with ScreenRec</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solution-how-to-stop-outriders-from-continuously-freezing/"><u>Simple Solution: How to Stop Outriders From Continuously Freezing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-oneplus-11r-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent OnePlus 11R Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tips-to-resolve-biomutants-2024-crashes-on-your-computer-a-step-by-step-guide/"><u>Top Tips to Resolve Biomutant's 2024 Crashes on Your Computer: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-guide-what-to-do-when-your-instagram-stories-wont-upload/"><u>Troubleshooting Guide: What to Do When Your Instagram Stories Won’t Upload</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unstuck-playtime-7-strategies-to-bypass-the-stubborn-load-screen-in-forza-horizon-5/"><u>Unstuck Playtime: 7 Strategies to Bypass the Stubborn Load Screen in Forza Horizon 5</u></a></li>
+</ul></div>
 

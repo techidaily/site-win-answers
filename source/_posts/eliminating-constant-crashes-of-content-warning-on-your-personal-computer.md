@@ -1,7 +1,7 @@
 ---
 title: Eliminating Constant Crashes of Content Warning on Your Personal Computer
-date: 2024-11-15T16:08:53.997Z
-updated: 2024-11-17T05:46:20.257Z
+date: 2024-11-22T17:53:32.816Z
+updated: 2024-11-26T17:38:18.742Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 
  If you’ve already done these, you can move on to the advanced troubleshooting below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’re the advanced fixes for your**Valorant not launching issue** . You might not need to try them all, just work down the list until you find the one that does the trick.
@@ -49,13 +53,6 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 7. [**This game is not available on your operating system**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Release Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Change your computer resolution
 
@@ -73,19 +70,6 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-51-18.jpg)
 
  You can test all the resolution options with Valorant and see which one solve your problem. If this method doesn’t work for you, don’t worry, just try the next one.
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -120,14 +104,11 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-21-11.jpg)
 3. **Restart** your computer and**launch Valorant** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this solve your problem, congratulations! If not, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Run Valorant as an Administrator
 
@@ -144,6 +125,10 @@ If this trick doesn’t work for you, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-44-49-1.jpg)
 4. Launch Valorant and see if you can log in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Close all Riot related processes
 
  Some players commented that Valorant won’t start when a process is not working properly. That means you need to exit all the Riot related processes and launch Valorant again. Here’re 3 things you need to do:
@@ -159,10 +144,7 @@ If this trick doesn’t work for you, simply try the next one.
  If this fix doesn’t work for you, there’s still a last fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Temporarily disable your antivirus
@@ -184,10 +166,7 @@ Here’s an example of how to disable Windows Security:
 5. Now test if you can launch Valorant.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t help you, turn the antivirus back on and continue to the next method.
@@ -196,33 +175,21 @@ Here’s an example of how to disable Windows Security:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/game-not-available.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Recently we received reports of a Valorant startup error that reads “**This game is not available on your operating system** “. This error doesn’t seem to be system-related, since players are getting it even on Windows 10\. If you’re seeing this error, there’s one fix you can try before reinstalling.
 
 1. On your keyboard, press**Ctrl+Shift+Esc** to open**Task Manager** . Then right-click**VALORANT** and select**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/end-valorant-task-mgr.jpg)
 2. Press**Win+R** to invoke the Run box, then type or paste**%localappdata%\\VALORANT\\Saved** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/valorant-purge-config-1.jpg)
 3. Delete all the files in the**Config** and**Logs** folder. Then restart your PC and check if Valorant launches now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 8: Release Standby Memory
@@ -240,6 +207,10 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
 1. Right click**EmptySandbyList.exe** and select**Property** .  
@@ -249,21 +220,22 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
 6. In the pop-up window, click**Advanced…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
@@ -319,24 +291,22 @@ Here’s an example of how to disable Windows Security:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixed-stardew-valley-wont-launch/"><u>[FIXED] Stardew Valley Won’t Launch</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-elevating-your-role-a-guide-to-exceptional-interviews-for-2024/"><u>[New] Elevating Your Role A Guide to Exceptional Interviews for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>[New] Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-decreasing-mix-intensity-step-by-step/"><u>[Updated] 2024 Approved Decreasing Mix Intensity Step by Step</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-sites-like-famebit-where-you-can-find-youtube-sponsorships/"><u>[Updated] 2024 Approved Sites Like FameBit Where You Can Find YouTube Sponsorships</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-approach-to-discard-youtube-watch-later-items-for-2024/"><u>[Updated] A Step-by-Step Approach to Discard YouTube Watch Later Items for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/a-step-by-step-guide-to-gopro-time-lapse-mastery/"><u>A Step-by-Step Guide to GoPro Time-Lapse Mastery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/assassins-creed-valhalla-pc-game-stability-how-to-resolve-persistent-crashes/"><u>Assassin's Creed: Valhalla PC Game Stability - How to Resolve Persistent Crashes</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/complete-epson-wf-2750-printer-setup-with-our-step-by-step-driver-downloading-instructions/"><u>Complete Epson WF-2750 Printer Setup with Our Step by Step Driver Downloading Instructions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cut-down-loading-time-for-star-wars-battlefront-ii-on-pc-a-comprehensive-guide/"><u>Cut Down Loading Time for Star Wars: Battlefront II on PC - A Comprehensive Guide</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/elevate-your-email-outreach-effective-methods-to-attract-subscribers-using-massmail-solutions/"><u>Elevate Your Email Outreach: Effective Methods to Attract Subscribers Using MassMail Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-fixes-how-to-rapidly-resolve-chrome-performance-issues/"><u>Fast Fixes: How to Rapidly Resolve Chrome Performance Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-steam-remote-play-issues-expert-tips-and-tricks-that-work/"><u>Fixing Steam Remote Play Issues – Expert Tips and Tricks That Work</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-freezing-and-falling-on-your-desktop-pc/"><u>How to Stop Age of Wonders: Planetfall From Freezing and Falling on Your Desktop PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-pc-bugs-ultimate-guide-to-fixing-halo-infinites-crashes/"><u>Resolve PC Bugs - Ultimate Guide to Fixing Halo Infinite's Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-fixing-out-of-video-memory-error-in-fortnite/"><u>Solution Guide: Fixing 'Out of Video Memory' Error in Fortnite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-for-reducing-cpu-usage-in-god-of-war/"><u>Step-by-Step Fixes for Reducing CPU Usage in God of War</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tech-face-off-benchmarking-apple-watch-s9-vs-fitbits-latest-tracker/"><u>Tech Face-Off: Benchmarking Apple Watch S9 Vs. Fitbit's Latest Tracker</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-collage-wizardry-secrets-unveiled/"><u>[New] Collage Wizardry Secrets Unveiled</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-make-your-profile-cover-video-more-attractive-for-2024/"><u>[New] How to Make Your Profile Cover Video More Attractive for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-pixelpunmatic-device/"><u>[New] PixelPunmatic Device</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-ideal-set-best-8-macbook-themes-and-skins/"><u>[Updated] 2024 Approved Ideal Set Best 8 MacBook Themes & Skins</u></a></li>
+<li><a href="https://article-files.techidaily.com/canva-cinematography-perfecting-music-cropping-and-editing/"><u>Canva Cinematography Perfecting Music Cropping and Editing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/decreasing-mix-intensity-step-by-step/"><u>Decreasing Mix Intensity Step by Step</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/demystifying-quantum-hdr-for-beginners/"><u>Demystifying Quantum HDR for Beginners</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-rainbow-six-extraction-performance-fixing-low-fps-problems/"><u>Enhancing Rainbow Six Extraction Performance - Fixing Low FPS Problems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/exploring-the-world-of-mycams-home-based-recording-technology-for-2024/"><u>Exploring the World of MyCam's Home-Based Recording Technology for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-preventing-psychonauts-2-from-crashing-on-your-pc/"><u>Fixing the Issue: Preventing Psychonauts 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-fixing-hlalyx-graphics-glitches-for-a-smoother-experience/"><u>Optimizing Your Gameplay: Fixing HL:Alyx Graphics Glitches for a Smoother Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-hurdles-a-step-by-step-guide-to-stabilizing-the-witcher-3-on-your-computer/"><u>Overcoming Technical Hurdles: A Step-by-Step Guide to Stabilizing The Witcher 3 on Your Computer</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/transfer-files-seamlessly-windows-11s-efficient-method-for-restoring-data-on-a-different-pc/"><u>Transfer Files Seamlessly: Windows 11'S Efficient Method for Restoring Data on a Different PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-escape-from-tarkov-fixes-for-anticheat-connection-breakdown/"><u>Troubleshooting Escape From Tarkov - Fixes for Anticheat Connection Breakdown</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-to-prevent-bdo-black-desert-online-pc-crashes-effectively/"><u>Troubleshooting Guide to Prevent BDO (Black Desert Online) PC Crashes Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-a-smooth-naraka-bladepoint-gaming-experience-with-no-more-crashes/"><u>Troubleshooting Tips for a Smooth Naraka: Bladepoint Gaming Experience with No More Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-your-fun-comprehensive-solutions-to-preventing-rocket-league-lag/"><u>Unfreeze Your Fun: Comprehensive Solutions to Preventing Rocket League Lag</u></a></li>
 </ul></div>
 

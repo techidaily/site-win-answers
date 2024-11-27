@@ -1,7 +1,7 @@
 ---
 title: Fixing Stability Problems with Sony Vegas - No More Crashes Guaranteed
-date: 2024-08-28T00:02:14.354Z
-updated: 2024-08-29T00:02:14.354Z
+date: 2024-11-21T02:23:33.584Z
+updated: 2024-11-26T20:40:37.456Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  The screenshots below come from Windows 10\. If you are running Windows 11, your screen may look slightly different, but the steps you take will remain consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Delete temporary files in Windows
 
  Excessive temporary files in your system can sometimes take up a large space on your computer. Deleting all the temporary files in Windows could speed up your PC and help Vegas Pro run more stably. Here’s how:
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Set priority to high for Vegas Pro
 
  Assigning a higher priority to Vegas Pro will allow it to utilize more resources it needs. Also your PC will make sure the program is running in a stable environment, making it less likely to crash.
@@ -58,13 +59,11 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Scan and repair system files
 
  The Sony Vegas Pro crashing issue could be triggered by corrupted Windows files. For basic troubleshooting, you can try running the**sfc /scannnow** command. If it doesn’t fix your problem, you may need a more powerful tool to scan and repair your system.
@@ -75,11 +74,17 @@ thumbnail: https://thmb.techidaily.com/8cc2f26346852b595fe32553f266efaeb26b116a6
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart your PC and check if Vegas crashes again.
@@ -103,20 +108,18 @@ If the issue is still there, you can move on to the next fix.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Import your footage via the Explorer window
 
  If you normally would import your footage from the Explorer window, then feel free to skip to the next fix. If not, and your Vegas Pro often crashes as you try to drag the clips from the folders directly onto the timeline, try this quick fix:
@@ -124,13 +127,13 @@ If the issue is still there, you can move on to the next fix.
 1. Click**Explorer** , then you’ll be able to search files on your PC via the left-side navigation panel. (If you can’t find the Explorer button, press**Alt** and**1** to enable the Explorer window.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
  This is a useful tip to avoid possible crashes, at least you won’t have to wait long for the import to complete when the files are large. However, if your Vegas Pro still won’t run properly, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Customize Vegas Pro Settings
 
@@ -147,9 +150,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On the toolbar, click**Options** then select**Preferences** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-29-27.jpg)
 2. Switch to the**Video** tab, adjust the**Dynamic RAM Preview max (MB)** value. You can set a value that’s**between 1/3 to 1/2 of your maximum RAM available** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-31-39.jpg)
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
 
@@ -167,9 +167,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  (For versions before Vegas Pro 18, you may first click**Options** . Then hold**Ctrl** and**Shift** and click**Preferences** . You’ll see the**Internal** tab in the Preferences window.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-13-00.jpg)
 2. Type**multi-core** in the search bar at the bottom.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
@@ -183,16 +185,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Right-click on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
-3. **Uncheck any one box of the CPU processor** , then click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
+3. **Uncheck any one box of the CPU processor** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
+
 Run Vegas Pro to see if the problem is solved.
 
 ---
@@ -208,8 +214,6 @@ Run Vegas Pro to see if the problem is solved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +221,22 @@ Run Vegas Pro to see if the problem is solved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-top-10-best-flvto-alternatives-youtube-converter-you-can-try/"><u>[New] 2024 Approved Top 10 Best Flvto Alternatives YouTube Converter You Can Try</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-investing-in-gaming-best-value-keyboards-and-mice-under-100/"><u>2024 Approved Investing in Gaming Best Value Keyboards and Mice Under $100</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tape-looper-mastery-app/"><u>2024 Approved Tape Looper Mastery App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-biomutant-from-crashing-in-pc-essential-troubleshooting-steps-players/"><u>How to Stop Biomutant From Crashing in PC - Essential Troubleshooting Steps Players</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-y200-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Y200 Without Password?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001961779-immortals-fenyx-rising-release-delayed-update-resolved/"><u>Immortals Fenyx Rising Release Delayed - Update Resolved!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-oppo-a79-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo A79 5G Unlock Without Password</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oneplus-11r-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from OnePlus 11R to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instant-improvements-to-address-stuttering-in-assassins-creed-valhalla/"><u>Instant Improvements to Address Stuttering in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/kickstart-your-ride-expert-advice-on-launching-forza-horizon-4-for-the-2024-enthusiasts/"><u>Kickstart Your Ride: Expert Advice on Launching Forza Horizon 4 for the 2024 Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-slowdowns-in-ubisoft-connect-effective-techniques-for-faster-downloads/"><u>Overcoming Slowdowns in Ubisoft Connect - Effective Techniques for Faster Downloads</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-12-channel-online-video-broadcast-system-for-2024/"><u>Premier 12-Channel Online Video Broadcast System for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-tips-to-stop-cod-modern-warfare-from-crashing/"><u>Resolved! Tips to Stop Cod: Modern Warfare From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-preventing-praey-for-the-gods-from-crashing-on-windows-systems/"><u>Ultimate Guide to Preventing Praey for the Gods From Crashing on Windows Systems</u></a></li>
+</ul></div>
 

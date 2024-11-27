@@ -1,7 +1,7 @@
 ---
 title: How Microsoft's New AI Strategy May Challenge the Future of Mobile Gaming Computers
-date: 2024-08-27T23:54:05.772Z
-updated: 2024-08-28T23:54:05.772Z
+date: 2024-11-22T16:57:42.262Z
+updated: 2024-11-26T22:16:17.207Z
 tags:
   - windows
 categories:
@@ -29,6 +29,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Ryzen 7020 Hero](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Ryzen-7020-Hero.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _AMD_
 
  One of the solutions here is to equip future APUs with larger amounts of [cache memory](https://extra-guidance.techidaily.com/updated-parrot-ar-drone-elite-edition-expert-evaluation/), allowing both the CPU and GPU to use this local, on-die memory instead of the system memory. This should satisfy the thirst for memory bandwidth and noticeably improve gaming performance.
@@ -50,8 +54,9 @@ _AMD_
  While a wider memory bus on next-gen AMD APUs is good news, Intel is cooking something even better, something that could completely solve memory bandwidth issues for future handheld PCs.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  On-Package RAM Could Be a Silver Lining for Handheld Chips
 
  Aside from low bandwidth, APUs also have to deal with high latency since the system memory isn’t placed right next to the iGPU but is instead either soldered to the PCB or slotted into SO-DIMM slots.
@@ -61,8 +66,9 @@ _AMD_
 ![Intel CPU die with on-package RAM chips.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/intel-on-package-ram.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Intel
 
  That said, we don’t yet have any info regarding the memory bandwidth of this on-package RAM solution, but I’m confident it will be pretty high because, like AMD, Intel wants to do this to improve the AI performance of its chips. Once again, an AI-focused improvement could indirectly benefit future gaming handhelds.
@@ -70,8 +76,9 @@ Intel
  Even though NPUs and AI performance are currently all the rage at AMD and Intel, the silver lining here is that both iGPUs and AI-related tasks greatly benefit from increased memory bandwidth. While Microsoft’s AI push looked like pretty bad news for future handhelds at first glance, it could turn out to be a pretty solid boon in the end.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What About ARM Solutions Like the Snapdragon X Elite?
 
  ARM-based chips and [Windows on ARM](https://fox-http.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd/) have been gaining more and more traction in the recent couple of years.
@@ -83,8 +90,9 @@ Intel
 ![Snapdragon X Elite Hero Revised](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/snapdragon-x-elite-hero-revised.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Qualcomm 
 
  This sounds promising for future ARM-based Windows laptops, but it could also mean that we might see handheld gaming PCs powered by ARM chips in the future. ARM SoCs can be incredibly power efficient, making them perfect for mobile solutions. The high-performance version of the Snapdragon X Elite [gulps up to 80W of power](https://tools.techidaily.com/anandtech/products/), the thin and light version of the chip only uses 23W of power, and that’s for the entire device, not only the SoC.
@@ -107,8 +115,6 @@ Qualcomm
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +122,23 @@ Qualcomm
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-capture-every-moment-the-power-of-spring-screenrecorder/"><u>[New] 2024 Approved Capture Every Moment - The Power of Spring ScreenRecorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-streamlining-online-meetings-zoom-and-gmail-sync-strategies-for-2024/"><u>[New] Streamlining Online Meetings Zoom & Gmail Sync Strategies for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tips-to-tame-vr-induced-motion-sickness/"><u>[Updated] 2024 Approved Tips to Tame VR-Induced Motion Sickness</u></a></li>
+<li><a href="https://win-answers.techidaily.com/brighten-up-your-playtime-solutions-for-fallout-4-display-dilemma/"><u>Brighten Up Your Playtime: Solutions for Fallout 4 Display Dilemma</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/diagnosing-and-correcting-system-service-malfunctions-in-windows-11-for-smooth-operation/"><u>Diagnosing and Correcting System Service Malfunctions in Windows 11 for Smooth Operation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-freezing-problems-while-playing-devolver-digitals-hit-title-deathloop-on-pc-and-ps5/"><u>Expert Tips to Resolve Freezing Problems While Playing Devolver Digital's Hit Title, Deathloop, on PC & PS5</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-persistent-crashing-issues-in-assassins-creed-valhalla-on-windows/"><u>Fixes for Persistent Crashing Issues in Assassin's Creed: Valhalla on Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-x90s-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo X90S Safely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-dotx-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .dotx file free</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-overlay-errors-diagnosis-and-solutions-for-improved-performance/"><u>Nvidia Overlay Errors: Diagnosis and Solutions for Improved Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-dauntless-stutter-and-crashes-in-your-pc-adventure/"><u>Overcoming Dauntless Stutter and Crashes in Your PC Adventure</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pros-vs-cons-of-opting-for-a-local-llm-making-an-informed-decision/"><u>Pros Vs. Cons of Opting for a Local LLM – Making an Informed Decision</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-problems-on-cod-warzone-pacific-region-patch-released/"><u>Resolving Problems on COD: Warzone - Pacific Region Patch Released</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-8-solutions-for-resolving-firefox-unresponsive-problems/"><u>Top 8 Solutions for Resolving Firefox Unresponsive Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-overcome-ark-program-crashes-successfully/"><u>Troubleshooting Guide - How to Overcome ARK Program Crashes Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-resolving-issues-with-an-igfxem-motherboard-component/"><u>Troubleshooting Tips: Resolving Issues with an Igfxem Motherboard Component</u></a></li>
+</ul></div>
 

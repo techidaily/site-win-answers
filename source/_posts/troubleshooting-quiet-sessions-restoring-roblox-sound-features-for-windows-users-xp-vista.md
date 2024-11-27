@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Quiet Sessions: Restoring Roblox Sound Features for Windows Users (XP, Vista)"
-date: 2024-08-28T00:00:20.622Z
-updated: 2024-08-29T00:00:20.622Z
+date: 2024-11-19T18:28:05.338Z
+updated: 2024-11-27T02:32:20.699Z
 tags:
   - win11
   - win10
@@ -45,18 +45,12 @@ thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa2659
 
 No luck? Don’t worry. We have a few more fixes for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 2\. Unplug USB devices
 
  According to what many Resolve users have suggested, USB devices can cause your Resolve to not open so you can unplug these devices to check if your Resolve works again.
 
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
@@ -66,9 +60,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
 3. Click**Apply** \>**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
 
@@ -84,19 +75,22 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5\. Increase the Virtual Memory
 
  If your system is low on virtual memory, Windows increases the size of your virtual memory paging file. During this process, memory requests for some applications may be denied, e.g your DaVinci Resolve. To alleviate this, you can manually increase the size of your paging file.
@@ -106,18 +100,20 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click **OK**  to confirm the change.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
@@ -143,8 +139,9 @@ No luck? Don’t worry. We have a few more fixes for you.
 4. Save and exit the BIOS.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7\. Uninstall your antivirus software
 
  Antivirus software is known to interfere with many programs, and if you’re experiencing issues with Resolve after installing third-party antivirus software, you might need to uninstall them because disabling them is not enough to prevent them from running in the background.
@@ -154,8 +151,9 @@ No luck? Don’t worry. We have a few more fixes for you.
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8\. Allow TCP Network Port Access
 
  Another reason why your DaVinci Resolve is not responding is that it lacks access to your TCP ports, which is necessary for your DaVinci Resolve to launch successfully.
@@ -170,6 +168,10 @@ Here’s how to troubleshoot this issue quickly:
    * Navigate to**C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** .  
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9\. Reinstall DaVinci Resolve
 
@@ -189,8 +191,6 @@ Here’s how to troubleshoot this issue quickly:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +198,16 @@ Here’s how to troubleshoot this issue quickly:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-favorites-top-8-androidiphone-apps-for-social-popularity/"><u>[Updated] In 2024, Facebook Favorites Top 8 Android/iPhone Apps for Social Popularity</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-mi-drone-4k-experience/"><u>2024 Approved The Ultimate Guide to Mi Drone 4K Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-battlefront-2024-dev-error-code-6068-in-mw3-warzone-expert-solutions/"><u>Bypass Battlefront 2024 Dev Error Code 6068 in MW3 Warzone: Expert Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-tips-successfully-fixing-the-saints-row-non-launch-situation-on-pc/"><u>Essential Tips: Successfully Fixing the Saints Row Non-Launch Situation on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/exhaustive-troubleshooting-for-non-functioning-hp-displays-a-comprehensive-fix/"><u>Exhaustive Troubleshooting for Non-Functioning HP Displays: A Comprehensive Fix</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-insights-on-asmr-videos/"><u>In 2024, Essential Insights on ASMR Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Nokia C12 Plus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-race-track-without-interruptions-fixing-crash-issues-in-forza-horizon-5-on-desktops/"><u>Master the Race Track without Interruptions: Fixing Crash Issues in Forza Horizon 5 on Desktops</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/unlock-pro-quality-videos-gopro-quik-editing-on-macbook-made-simple-for-2024/"><u>Unlock Pro-Quality Videos GoPro Quik Editing on MacBook Made Simple for 2024</u></a></li>
+</ul></div>
 

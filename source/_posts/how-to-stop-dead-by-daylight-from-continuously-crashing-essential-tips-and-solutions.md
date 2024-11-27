@@ -1,7 +1,7 @@
 ---
 title: How To Stop Dead By Daylight From Continuously Crashing | Essential Tips & Solutions
-date: 2024-08-27T23:59:48.023Z
-updated: 2024-08-28T23:59:48.023Z
+date: 2024-11-23T03:31:49.215Z
+updated: 2024-11-27T03:22:59.452Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Sword and Fairy 7 system requirements
 
  If the game keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -54,8 +58,9 @@ Sword and Fairy 7 system requirements
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  If some important game files are missing or corrupted, Sword and Fairy 7 may not work as expected. If it’s the case, you need to veirfy and repair game files in Steam. Here’s how to do it:
@@ -64,10 +69,11 @@ Sword and Fairy 7 system requirements
 2. **Right-click** on **Sword and Fairy 7** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -89,18 +95,25 @@ Sword and Fairy 7 system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -117,18 +130,17 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Sword and Fairy 7_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Perform a Windows update
 
  Sword and Fairy 7 may crash during play if your Windows OS is not up to date. Just as mentioned above, the game supports the latest Ray Tracing. To enjoy the ray tracing feature, you need to upadte Windows 10 to the 20H or above.
@@ -149,26 +161,19 @@ You can follow the steps below to perform a Windows update:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
-6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
+6. Click **Restart** to restart your PC.  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
 **Restart** your PC and launch Sword and Fairy 7\. See if it crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -196,8 +201,6 @@ You can follow the steps below to perform a Windows update:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +208,19 @@ You can follow the steps below to perform a Windows update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unveiling-inauthentic-accounts-on-brand-pages/"><u>[New] In 2024, Unveiling Inauthentic Accounts on Brand Pages</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-market-leading-6-platforms-enhancing-biz-interaction/"><u>[Updated] Market-Leading 6 Platforms Enhancing Biz Interaction</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-redefine-video-communication-with-your-webcam-for-2024/"><u>[Updated] Redefine Video Communication with Your Webcam for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-step-by-step-guide-for-pcmac-movie-recording/"><u>2024 Approved Step-by-Step Guide for PC/Mac Movie Recording</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-infinix-note-30-vip-racing-edition-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Infinix Note 30 VIP Racing Edition Phone When You Forget the Password</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/a-comprehensive-look-at-the-clunky-microsoft-surface-duo-features-vs-flaws/"><u>A Comprehensive Look at the Clunky Microsoft Surface Duo: Features Vs. Flaws</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ace-your-audio-setting-up-new-or-unknown-speakers-in-windows-11-easily/"><u>Ace Your Audio: Setting Up New or Unknown Speakers in Windows 11 Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-strategies-for-dealing-with-persistent-crashes-in-phoenix-point/"><u>Comprehensive Strategies for Dealing with Persistent Crashes in Phoenix Point</u></a></li>
+<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-pc-version-fix-the-continuous-crash-problem/"><u>Escape From Tarkov PC Version: Fix the Continuous Crash Problem</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-reactivate-your-camera-on-google-meets-easily/"><u>Solution: Reactivate Your Camera on Google Meets Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-razer-synapse-opening-issues-and-solutions/"><u>Troubleshooting: Razer Synapse Opening Issues & Solutions</u></a></li>
+</ul></div>
 

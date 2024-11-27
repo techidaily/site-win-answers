@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Correcting Infinity Launch Issues in Apex Legends
-date: 2024-08-28T00:02:28.037Z
-updated: 2024-08-29T00:02:28.037Z
+date: 2024-11-25T22:09:18.037Z
+updated: 2024-11-27T00:06:24.581Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -59,33 +67,24 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your network driver
 
  If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
@@ -106,9 +105,6 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -118,11 +114,17 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -138,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +147,18 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-sow-and-reap-rivalries-farming-games-to-remember-for-2024/"><u>[New] Sow & Reap Rivalries Farming Games to Remember for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-war-thunder-keeps-crashing-2024-tips/"><u>[Solved] War Thunder Keeps Crashing | 2024 Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-smaller-brands-bigger-impacts-infographics-for-2024/"><u>[Updated] Smaller Brands, Bigger Impacts (Infographics) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-bug-step-by-step-tips-on-resolving-last-epoch-failures-for-pc-users-year-2eightyfour-edition/"><u>Beat the Bug: Step-by-Step Tips on Resolving Last Epoch Failures for PC Users - Year 2Eightyfour Edition</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/harmonizing-words-and-images-the-essence-of-ppt-voiceovers-for-2024/"><u>Harmonizing Words & Images The Essence of PPT Voiceovers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-recurring-freezes-and-crashes-on-insurgency-sandstorm-after-patch/"><u>How to Resolve Recurring Freezes and Crashes on Insurgency: Sandstorm After Patch?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-superior-sonic-collectors-for-seminars/"><u>In 2024, Superior Sonic Collectors for Seminars</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-two-top-pick-nomad-phone-protectors-today-at-a-single-price-bogo-deal-alerts-on-zdnet/"><u>Score Two Top-Pick Nomad Phone Protectors Today at a Single Price: BOGO Deal Alerts on ZDNet!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-problems-when-alienware-command-center-is-unresponsive/"><u>Solving Problems When Alienware Command Center Is Unresponsive</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-solution-for-retrieving-deleted-data-from-your-ios-device-learn-about-stellar-recovery/"><u>The Ultimate Solution for Retrieving Deleted Data From Your iOS Device - Learn About Stellar Recovery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-steps-for-when-star-wars-the-old-republic-wont-open/"><u>Ultimate Solution Steps for When Star Wars The Old Republic Won't Open</u></a></li>
+</ul></div>
 

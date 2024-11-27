@@ -1,7 +1,7 @@
 ---
 title: "Rogue Company Game Crashes Fixed: Now Running Smoothly on Your PC"
-date: 2024-11-14T03:46:04.989Z
-updated: 2024-11-16T18:35:08.118Z
+date: 2024-11-23T19:00:19.147Z
+updated: 2024-11-27T02:45:52.927Z
 tags:
   - win11
   - win10
@@ -66,17 +66,22 @@ Here’s how to disable Steam Overlay:
 3. Uncheck the box before**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now check if you can play Halo Infinite normally.
 
  If disabling overlays doesn’t do the trick for you, simply check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Upgrade your graphics driver
 
@@ -112,6 +117,10 @@ MSI Afterburner
 
  If you’re sure it’s not the cause, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable fullscreen optimizations
 
  Windows 10 comes with a built-in feature called fullscreen optimizations, which should theoretically improve performance of fullscreen apps. But some players have reported that this would sometimes crash the game. So you can try to turn it off and see if this is the issue.
@@ -120,13 +129,6 @@ MSI Afterburner
 2. On the left, select **LOCAL FILES** . Then click **Browse…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-1.jpg)
 3. Right click the**HaloInfinite** launcher and select**Property** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
@@ -151,34 +153,15 @@ If this trick doesn’t give you luck, simply try the next one.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### On Windows 11
@@ -188,17 +171,18 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
@@ -215,10 +199,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Multiplayer-High-Res-Textures.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 8: Scan and repair Windows
@@ -231,13 +216,6 @@ Here’s how:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -264,20 +242,24 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-avoiding-piracy-safe-techniques-for-youtube-to-mp4-for-2024/"><u>[New] Avoiding Piracy Safe Techniques for Youtube-to-MP4 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-aural-clarity-unleashed-secrets-to-high-quality-audio/"><u>[Updated] In 2024, Aural Clarity Unleashed Secrets to High-Quality Audio</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-c50-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006527002-dragon-quest-xi-stability-fix-overcome-crash-errors-with-these-tips/"><u>Dragon Quest XI Stability Fix - Overcome Crash Errors with These Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dragons-dogma-2-crash-issues-on-computer-a-comprehensive-fix-guide/"><u>Dragon's Dogma 2 Crash Issues on Computer: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/drive-more-visitors-with-our-cutting-edge-cookiebot-technology/"><u>Drive More Visitors with Our Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expertise-in-enhancing-photos-via-online-tools/"><u>Expertise in Enhancing Photos via Online Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-a-sluggish-chrome-browser-fast-solutions/"><u>Fixing a Sluggish Chrome Browser: Fast Solutions!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-origin-up-and-running-again-post-troubleshooting/"><u>Getting Origin Up and Running Again Post-Troubleshooting</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-secure-communication-made-easy-the-best-10-free-and-protected-video-conferencing-tools/"><u>In 2024, Secure Communication Made Easy The Best 10 Free and Protected Video Conferencing Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-hp-beats-sound-card-problems-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving HP Beats Sound Card Problems on Windows 11, 8 & 7 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-windows-store-trouble-fix-for-error-x80072f17/"><u>Tackling Windows Store Trouble: Fix for Error X80072F17</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-future-of-gaming-embracing-the-destiny-2-broccoli-clash-patch-of-2024/"><u>The Future of Gaming: Embracing the Destiny 2 - Broccoli Clash Patch of 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-making-new-friends-with-these-5-essential-apps/"><u>The Ultimate Guide to Making New Friends with These 5 Essential Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006052185-windows-11-taskbar-malfunction-solutions-get-yours-back-in-action/"><u>Windows 11 Taskbar Malfunction Solutions - Get Yours Back in Action!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-death-stranding-crashing-on-pc/"><u>[SOLVED] Death Stranding Crashing on PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-complete-guide-to-using-zd-softs-recording-tools/"><u>[Updated] 2024 Approved Complete Guide to Using ZD Soft's Recording Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-comprehensive-walkthrough-for-bulk-tiktok-download/"><u>[Updated] 2024 Approved Comprehensive Walkthrough for Bulk TikTok Download</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-video-production-atlas-xstudio-analysis-edition/"><u>[Updated] 2024 Approved Video Production Atlas XStudio Analysis Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/borderlands-3-mastery-unveiling-11-strategies-to-bypass-launch-glitches-effortlessly/"><u>Borderlands 3 Mastery: Unveiling 11 Strategies to Bypass Launch Glitches Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-update-a-guide-to-conquering-the-ongoing-black-screen-trouble/"><u>Cyberpunk 2077 Update: A Guide to Conquering the Ongoing Black Screen Trouble</u></a></li>
+<li><a href="https://win-dash.techidaily.com/efficient-techniques-to-transform-mp4-videos-into-animated-gifs/"><u>Efficient Techniques to Transform MP4 Videos Into Animated GIFs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elevate-visual-experience-with-apple-music-inclusion/"><u>Elevate Visual Experience with Apple Music Inclusion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-the-lost-ark-constantly-crashing-problems-on-your-computer/"><u>Fix the 'Lost Ark' Constantly Crashing Problems on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-overcoming-minecraft-freezing-issues-on-windows/"><u>Fixes and Solutions: Overcoming 'Minecraft Freezing' Issues on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-recurring-crashes-in-games-for-your-desktop-computer-a-deep-dive/"><u>How to Fix Recurring Crashes in Games for Your Desktop Computer - A Deep Dive</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-strategic-brand-integrations-within-youtube-realms/"><u>In 2024, Strategic Brand Integrations Within YouTube Realms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-checking-for-updates-error-in-msfs-microsoft/"><u>Overcoming 'Checking for Updates' Error in MSFS (Microsoft</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/polar-prowess-highlighting-the-elite-of-snowboard-cross-winter-games/"><u>Polar Prowess Highlighting the Elite of Snowboard Cross, Winter Games</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/347699-9781440634383-prosperity/"><u>Prosperity | Free Book</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/stream-smartly-which-is-better-a-roku-device-or-an-amazon-fire-tv-stick/"><u>Stream Smartly: Which Is Better, a Roku Device or an Amazon Fire TV Stick?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/streamlined-techniques-for-downloading-and-saving-gmail-messages-offline/"><u>Streamlined Techniques for Downloading & Saving Gmail Messages Offline</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-misconfigured-ryzen-master-driver-setup/"><u>Troubleshooting and Repairing Misconfigured Ryzen Master Driver Setup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winwordexe-glitches-heres-how-you-can-seamlessly-correct-them/"><u>Winword.exe Glitches? Here's How You Can Seamlessly Correct Them</u></a></li>
 </ul></div>
 

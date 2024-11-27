@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: How to Stop FIFA 19 From Crashing on Windows PCs"
-date: 2024-11-12T12:03:43.168Z
-updated: 2024-11-17T00:42:59.537Z
+date: 2024-11-26T00:33:36.754Z
+updated: 2024-11-26T16:13:53.892Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -52,6 +56,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. [**Change your save files location**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable Steam Overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Disable your antivirus software
 
@@ -71,20 +79,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
@@ -99,6 +93,14 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your driver
 
@@ -123,21 +125,11 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -161,18 +153,15 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-mastering-iphone-photo-blurring-4-techniques-explored-for-2024/"><u>[New] Mastering iPhone Photo Blurring 4 Techniques Explored for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-vs-video-edition-which-editor-wins-for-filmmaking-for-2024/"><u>[Updated] Vs. Video Edition Which Editor Wins for Filmmaking for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-strategic-guide-gain-traction-with-podcast-seo-techniques/"><u>2024 Approved Strategic Guide Gain Traction with Podcast SEO Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-wwii-black-screen-woes-heres-how-to-resolve-it-on-windows/"><u>Call of Duty: WWII Black Screen Woes? Here's How to Resolve It on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-for-msvcr110dll-file-not-found-error-on-helldivers-2/"><u>Comprehensive Fixes for MSVCR110.dll File Not Found Error on Helldivers 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-and-fixing-pc-based-crashes-in-red-dead-redemption-2-gameplay/"><u>Diagnosing and Fixing PC-Based Crashes in Red Dead Redemption 2 Gameplay</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-to-motorola-razr-40-ultra-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Motorola Razr 40 Ultra FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-fixing-persistent-dota-2-crashes-efficiently/"><u>Expert Advice on Fixing Persistent Dota 2 Crashes Efficiently</u></a></li>
-<li><a href="https://games-able.techidaily.com/from-accessibility-to-mastery-with-ea-play-on-your-ps5-console/"><u>From Accessibility to Mastery with EA Play on Your PS5 Console</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Sony Xperia 1 V? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/instant-fix-how-to-stop-your-borderlands-vehicles-from-crashing/"><u>Instant Fix: How to Stop Your Borderlands Vehicles From Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-getting-multiversus-running-smoothly-on-your-pc/"><u>Quick Guide: Getting MultiVersus Running Smoothly on Your PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-essential-drone-shoppers-guide-crucial-factors-and-insights/"><u>[New] In 2024, Essential Drone Shopper's Guide Crucial Factors & Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-ultimate-smartphone-list-for-capturing-crystal-clear-video/"><u>[Updated] 2024 Approved Ultimate Smartphone List for Capturing Crystal Clear Video</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728506104884-windows/"><u>他の機器にWindowsサーバーシステムイメージを移行・復元する手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-immortal-stability-hacks-for-players-no-more-pc-crashes/"><u>Diablo Immortal Stability Hacks for Players: No More PC Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-netgear-ac750-ex3700-wireless-range-extender-performance-and-coverage/"><u>In-Depth Analysis of Netgear AC750 EX3700 Wireless Range Extender: Performance and Coverage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fix-resolve-your-league-of-legends-crashes-instantly/"><u>Quick Fix: Resolve Your League of Legends Crashes Instantly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-overcome-the-battle-royales-blackout-problem-on-warzone/"><u>Top Strategies to Overcome the Battle Royale's Blackout Problem on Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-launch-the-latest-game-finals-of-2n24/"><u>Troubleshooting Tips to Launch the Latest Game Finals of 2N24</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/twelve-souths-compass-pro-insightful-review-masterfully-crafted-for-unrivaled-steadiness/"><u>Twelve South's Compass Pro Insightful Review - Masterfully Crafted for Unrivaled Steadiness</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12-pro-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12 Pro 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

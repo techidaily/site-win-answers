@@ -1,7 +1,7 @@
 ---
 title: PC Gamers Rejoice - The Dread Hunger Crash Glitch Is Finally Solved!
-date: 2024-08-27T23:58:53.350Z
-updated: 2024-08-28T23:58:53.350Z
+date: 2024-11-20T02:37:02.383Z
+updated: 2024-11-26T16:52:56.019Z
 tags:
   - win11
   - win10
@@ -49,7 +49,16 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 1. Launch Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
 
@@ -61,16 +70,10 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 2. Right-click**Life is Strange: True Colors** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The Life is Strange True Colors crashes can be caused by a driver issue. If you’re using a faulty or outdated graphics driver, you may run into graphics glitches or performance problems in games like crashing, black screen or more. To get rid of choppy gameplay, you should keep your graphics driver updated.
@@ -83,14 +86,8 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or simply click**Update** to do it for free, but you need to download them one at a time and install the driver manually.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
 
 ### Fix 4 – Switch to DirectX 11
@@ -100,22 +97,26 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 1. Run Steam and select**Library** from the homepage.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -130,8 +131,9 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart the game to test if the new settings have a significant impact on the game performance.
 
 ---
@@ -146,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,22 @@ thumbnail: https://thmb.techidaily.com/648356b382a636832a6e99201a4517a582a77b906
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-unleash-creativity-top-free-video-opener-tools/"><u>[New] 2024 Approved Unleash Creativity Top Free Video Opener Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-action-capturing-software-guide/"><u>[Updated] In 2024, Top Action-Capturing Software Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-ricoh-theta-s-uncovered-a-complete-audit/"><u>[Updated] Ricoh Theta S Uncovered A Complete Audit</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-screeners-guide-to-8-choices/"><u>[Updated] Ultimate Screener's Guide to 8 Choices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-wonders-planetfall-stability-issues-and-solutions-for-windows-players/"><u>Age of Wonders: Planetfall - Stability Issues and Solutions for Windows Players</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-film-crews-guide-to-gopro-add-ons-for-2024/"><u>First Film Crew's Guide to GoPro Add-Ons for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-found-overcoming-team-fortress-2s-start-up-troubles/"><u>Fixes Found! Overcoming Team Fortress 2'S Start-Up Troubles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-nvidias-game-capture-overlay-malfunction/"><u>Fixing the Issue: Nvidia's Game Capture Overlay Malfunction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/highlight-harmony-the-top-business-tactics-for-insta/"><u>Highlight Harmony The Top Business Tactics for Insta</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-virtual-reality-vanguard-leading-pc-headsets-to-watch/"><u>In 2024, Virtual Reality Vanguard Leading PC Headsets to Watch</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Xiaomi 13 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/irregular-heartbeat-feeling-palpitations-skipped-heartbeats-a-racing-pulse-or-arrhythmia-can-also-indicate-an-acute-myocardial-infarction-this-symptom-may-n603/"><u>Irregular Heartbeat: Feeling Palpitations, Skipped Heartbeats, a Racing Pulse, or Arrhythmia Can Also Indicate an Acute Myocardial Infarction. This Symptom May Not Be Present in All Cases but Could Occur Alongside Other Signs of Cardiac Distress.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/silence-not-working-in-lost-ark-discover-tips-for-bringing-back-the-games-soundscape/"><u>Silence Not Working In Lost Ark? Discover Tips For Bringing Back The Game's Soundscape.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-how-to-fix-swtor-wont-start-problems/"><u>Troubleshooting: How to Fix 'SWTOR Won't Start' Problems</u></a></li>
+</ul></div>
 

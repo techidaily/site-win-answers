@@ -1,7 +1,7 @@
 ---
 title: "Mastering Always-On-Top Features: The Ultimate Guide to Keep Windows at the Forefront (Windows 10/11)"
-date: 2024-08-27T23:54:10.482Z
-updated: 2024-08-28T23:54:10.482Z
+date: 2024-11-20T16:14:37.654Z
+updated: 2024-11-26T17:36:47.154Z
 tags:
   - windows
 categories:
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ![A window made always on top with PowerToys on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/always-on-top-notepad-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  You can customize this behavior by launching the PowerToys Settings window. To do so, launch "PowerToys" from the Windows Start menu or click the PowerToys icon in your taskbar's notification area and click the gear-shaped Settings icon.
 
  Select "Always on Top" in the sidebar. If the keyboard shortcut didn't work, ensure the "Always on Top" PowerToy is enabled at the top here. You can use the options here to change the keyboard shortcut, control whether a colored border appears around the window and customize that border, choose whether the sound plays, and configure windows that will never be made always on top.
@@ -44,15 +41,13 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 ![The Always On Top in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/always-on-top.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We're big fans of Microsoft PowerToys. The package is [full of other useful utilities](https://extra-information.techidaily.com/the-artisans-touch-skillfully-applying-face-centric-motion-blur-using-picsart/), and there's a good chance you'll find something else useful in it, too. 
 
  We recommend the Microsoft PowerToys method as our top choice. You can disable other PowerToys in the PowerToys Settings window if you don't like the clutter. However, we cover a variety of other simple utilities and methods for making a window always-on-top below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ##  With a Keyboard Shortcut: [AutoHotkey](http://www.autohotkey.com/) 
 
  Using the [excellent and useful AutoHotkey program](https://instagram-videos.techidaily.com/decoding-the-copyright-code-for-insta-musicians/), you can make a simple script that sets your currently active window to be always on top when you press a certain key combination. The resulting script is lightweight and won't use much resources or add unnecessary clutter to your system. You can even use AutoHotkey to compile the script to its own executable if you don't want to keep the full AutoHotkey program running—or if you want an easy way to carry the script with you to other PCs.
@@ -63,9 +58,17 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ![Select 'New,' then select 'AutoHotKey Script.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Give the new script file whatever name you want, click then click "Edit." When prompted, open the script in Notepad. 
 
 ![Name your script, then click 'Edit.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Notepad window, paste the following line of code at the bottom. You can then save and close the script.
 
@@ -76,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
     
 ![4-3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, double-click your script to run it. You'll know it's running because a green "H" logo appears in your system tray to let you know it's running as a background process.
 
 ![The icon turns green when the script is active.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-3.png) 
@@ -83,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
  You can now press Ctrl+Space to set any currently active window to be always on top. Press Ctrl+Space again set the window to no longer be always on top.
 
  And if you don't like the Ctrl+Space combination, you can change the `^SPACE` part of the script to set a new keyboard shortcut. Consult the [Hotkeys documentation](http://www.autohotkey.com/docs/Hotkeys.htm) on AutoHotkey's website for help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using a Mouse: [DeskPins](https://efotinis.neocities.org/deskpins/) 
 
@@ -92,23 +103,18 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ![Note the pin icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you have a window you want to pin to be always on top, click that system tray icon. Your pointer turns into a pin, and you can then click any window to pin it so that it's always on top. Pinned windows actually have a red pin added to the title bar, so that you can tell easily which windows are pinned and which are not.
 
 ![The pin icon visible on the titlebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  To remove a pin from a window, move your mouse over the pin. Your pointer will show a small "X" on it to let you know you're about to remove the pin. And if you want to remove pins from all windows you've pinned at once, right-click the system tray icon, and then choose the "Remove All Pins" option.
 
 ## ![Right-click the icon on the Taskbar, then select 'Remove All Pins.'](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Without Installing Anything Extra: Built-in App Options
 
  Many apps have built-in options so that you can set their windows to become always on top. You often find these options in media players, system utilities, and other tools that you might want to see all the time. Programs that accept plug-ins may also have an always-on-top plugin you can install.
@@ -119,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
 
 ![Enable the 'Always on top' checkbox in the Settings tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/task-manager-always-on-top.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's how to enable the built-in always-on-top option in some other popular programs:
 
 * **VLC**: Click Video > Always on top.
@@ -137,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +147,26 @@ thumbnail: https://thmb.techidaily.com/d4c3e08ad2c1079e3a0235e50a952e0f146bf5d50
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-video-quality-mastering-tiktok-number-edits-for-2024/"><u>[Updated] Elevate Video Quality Mastering TikTok Number Edits for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-visibility-key-elements-in-youtube-thumbnail-design-for-2024/"><u>[Updated] Maximizing Visibility Key Elements in YouTube Thumbnail Design for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-youtube-live-a-comprehensive-guide-for-all-tech-enthusiasts/"><u>2024 Approved Capture YouTube Live A Comprehensive Guide for All Tech Enthusiasts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/best-zero-fee-technique-for-pixel-perfection/"><u>Best Zero-Fee Technique for Pixel Perfection</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-gaming-performance-tackling-the-challenge-of-pc-lag-in-assassins-creed-valhalla/"><u>Enhanced Gaming Performance - Tackling the Challenge of PC Lag in Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-addressing-dayz-frame-rate-reductions-swiftly/"><u>Expert Tips for Addressing DayZ Frame Rate Reductions Swiftly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-common-errors-when-launching-star-wars-the-old-republic-swtor/"><u>Fixes for Common Errors When Launching Star Wars The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-unexpectedly-stopped-error-on-your-cod-modern-warfare-3-app/"><u>Fixing the 'Unexpectedly Stopped' Error on Your Cod: Modern Warfare 3 App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-oppo-k11x-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Oppo K11x Phone Screen?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-your-pc-gameplay-overcoming-roblox-error-277-with-expert-hacks-updated-guide/"><u>Master Your PC Gameplay: Overcoming Roblox Error 277 with Expert Hacks (Updated Guide )</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-on-the-go-device-management-with-portable-driver-easy/"><u>Mastering On-the-Go Device Management With Portable Driver Easy</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-windows-avoiding-disk-read-errors/"><u>Mastering Windows: Avoiding Disk Read Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-disruptions-how-to-keep-overwatch-2-stable-and-avoid-frequent-pc-crashes/"><u>No More Disruptions: How to Keep Overwatch 2 Stable and Avoid Frequent PC Crashes</u></a></li>
+<li><a href="https://tools.techidaily.com/pixoeditor/products/"><u>Pixoeditor's Products</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-robocop-legacy-pc-game-crash-issues/"><u>Solving the 'RoboCop: Legacy' PC Game Crash Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-v27-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo V27 Pro to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/top-rated-free-dvd-players-for-pc-and-mac-easy-setup-and-streaming/"><u>Top-Rated Free DVD Players for PC & Mac - Easy Setup and Streaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-full-experience-how-to-get-starfield-running-smoothly-on-xbox-and-pc-via-steam/"><u>Unlock the Full Experience: How to Get Starfield Running Smoothly on Xbox and PC via Steam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-wont-pages-load-in-chrome-expert-advice-on-fixing-webpage-display-errors/"><u>Why Won't Pages Load in Chrome? Expert Advice on Fixing Webpage Display Errors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Black Ops Cold War Glitch: Fixing Error 887A0005"
-date: 2024-08-28T00:00:57.933Z
-updated: 2024-08-29T00:00:57.933Z
+date: 2024-11-21T20:23:32.813Z
+updated: 2024-11-26T17:03:20.192Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 
  Shaders are programs that help with the object rendering. Playing without shaders will lead to bad performance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Just work your way down until you land on the one that does the trick.
@@ -28,6 +32,10 @@ Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold Wa
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Delete Cache folders**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Link your Activision and Blizzard accounts](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game
 
@@ -54,15 +62,17 @@ Here’s how to restart the shaders installation:
 2. Navigate to the**GRAPHICS** tab. Scroll down to the bottom and click**Restart Shaders Compilation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cold-war-reinstall-shaders-1.jpg)
 3. Wait for the reinstallation to complete.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this solution doesn’t solve the issue, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  Shaders issues in COD titles could mean that you’re using**a broken or outdated graphics driver** . We always recommend gamers to keep their GPU drivers up to date so as to avoid compatibility issues. If you don’t know when was the last time you updated your drivers, definitely do it now.
@@ -76,9 +86,6 @@ Here’s how to restart the shaders installation:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the GPU driver, restart your PC for the changes to apply. Then start your game and check if you can now complete the compilation.
@@ -96,9 +103,9 @@ Here’s how to restart the shaders installation:
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -106,14 +113,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Visit the **[Activision](https://s.activision.com/activision/login)**  website and log in. Then click **PROFILE**  at the top-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -125,8 +126,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +133,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-mobile-snapchats-screen-recording-techniques/"><u>[Updated] 2024 Approved Mastering Mobile Snapchat's Screen Recording Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/boosting-your-fps-on-ark-survival-evolved-for-an-optimal-pc-gaming-experience/"><u>Boosting Your FPS on ARK: Survival Evolved for an Optimal PC Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dauntless-stability-guide-expert-advice-to-fix-pc-game-interruptions-and-crashes/"><u>Dauntless Stability Guide: Expert Advice to Fix PC Game Interruptions and Crashes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/epic-episodes-gpodcs-recommended-soundscape/"><u>Epic Episodes GPodC's Recommended Soundscape</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correct-life-threatening-software-glitches-in-modern-warfare-and-warzone-games/"><u>How to Correct Life-Threatening Software Glitches in Modern Warfare and Warzone Games</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashing-issues-in-the-discord-platform/"><u>How to Fix Continuous Crashing Issues in the Discord Platform</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-audience-captivation-for-personal-podcasts/"><u>In 2024, Audience Captivation for Personal Podcasts</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-video-editing-for-gamers-the-best-options/"><u>New 2024 Approved Free Video Editing for Gamers The Best Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-your-logitech-c920-webcam-essential-fixes-for-a-seamless-streaming-experience/"><u>Reviving Your Logitech C920 Webcam - Essential Fixes for a Seamless Streaming Experience</u></a></li>
+</ul></div>
 

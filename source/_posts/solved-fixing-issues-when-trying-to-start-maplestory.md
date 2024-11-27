@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing Issues When Trying to Start MapleStory"
-date: 2024-11-12T21:01:27.706Z
-updated: 2024-11-16T23:36:59.060Z
+date: 2024-11-19T19:12:58.758Z
+updated: 2024-11-26T16:41:54.718Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 8. **[Adjust your Windows system for the best performance](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for DayZ
 
@@ -92,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-csan-screen-2.png)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
@@ -103,10 +111,7 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest DayZ patch
@@ -130,24 +135,10 @@ thumbnail: https://thmb.techidaily.com/b1dd7a3474ae1af80798d89372f38597e9f807738
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
 
@@ -169,13 +160,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Restrict applications and downloads in the background
 
  The DayZ FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -183,6 +167,10 @@ See if you can play the game smoothly. If not, try the next fix, below.
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
@@ -201,10 +189,7 @@ See if you can play the game smoothly. If not, try the next fix, below.
 Try the next fix below if this fix didn’t work for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Change the power plan of your PC
@@ -220,16 +205,7 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
@@ -245,10 +221,7 @@ Try the next fix below if this fix didn’t work for you.
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
@@ -279,22 +252,21 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-minecraft-error-exit-code-0/"><u>[SOLVED] How to Fix Minecraft Error: Exit Code 0</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-affordable-easy-to-use-video-capture-tools-for-windows/"><u>[Updated] In 2024, Affordable, Easy-to-Use Video Capture Tools for Windows</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-effortless-audio-downloads-these-24-tools-split-youtube-sounds/"><u>2024 Approved Effortless Audio Downloads These 24 Tools Split YouTube Sounds</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/advanced-tips-for-crafting-vhs-images-on-computers/"><u>Advanced Tips for Crafting VHS Images on Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722987796158-battle-the-lag-ultimate-guide-to-fixing-halo-infinites-pc-freezes-in-just-7-steps/"><u>Battle the Lag: Ultimate Guide to Fixing Halo Infinite's PC Freezes in Just 7 Steps!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bid-farewell-to-firefox-hiccups-proven-fixes-and-preventive-tips/"><u>Bid Farewell to Firefox Hiccups: Proven Fixes & Preventive Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/cast-your-music-mp3-conversion-and-upload-on-youtube-for-2024/"><u>Broadcast Your Music MP3 Conversion and Upload on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-a-pro-sports-youtube-feed-on-macos/"><u>Crafting a Pro Sports YouTube Feed on MacOS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-guide-solve-crash-issues-for-guilty-gear-strive-on-windowspc/"><u>Expert Guide: Solve Crash Issues for Guilty Gear Strive on Windows/PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-recent-toshiba-satellite-drivers-installed-on-your-window-os/"><u>Get the Most Recent Toshiba Satellite Drivers Installed on Your Window OS</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-anno-1800-directx-compatibility-issues-for-smooth-gameplay/"><u>How to Fix 'Anno 1800' DirectX Compatibility Issues for Smooth Gameplay</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ntdlldll-malfunction-no-more-comprehensive-fix-guide-for-windows-1110-users/"><u>ntdll.dll Malfunction No More: Comprehensive Fix Guide for Windows 11/10 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-overcoming-frequent-disruptions-and-crashing-in-darkest-dungeon-2/"><u>PC Gaming Woes: Overcoming Frequent Disruptions and Crashing in Darkest Dungeon 2</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/pioneering-reviews-on-electronic-devices-with-toms-hardware-authority/"><u>Pioneering Reviews on Electronic Devices with Tom's Hardware Authority</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/prime-software-for-professional-4k-screen-capture-for-2024/"><u>Prime Software for Professional 4K Screen Capture for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-black-ops-cold-war-error-easy-fixes-for-code-0xc0000005/"><u>Troubleshooting Steps for Black Ops Cold War Error: Easy Fixes for Code 0xC0000005</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-celeb-in-a-nutshell-vimeo-for-2024/"><u>[New] Celeb in a Nutshell – Vimeo for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hottest-online-hubs-for-metallic-3d-type-graphics/"><u>[New] Hottest Online Hubs for Metallic 3D Type Graphics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-unlocking-speed-instant-signature-background-cleanup/"><u>2024 Approved Unlocking Speed Instant Signature Background Cleanup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-new-connections-with-these-5-socializing-apps/"><u>Discover New Connections with These 5 Socializing Apps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intels-fastest-nvme-drivers-today-step-by-step-tutorial-inside/"><u>Download Intel's Fastest NVMe Drivers Today – Step-by-Step Tutorial Inside</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-stuttering-problems-in-halo-infinite-a-comprehensive-guide/"><u>How to Fix Stuttering Problems in Halo Infinite – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-warno-from-continuously-freezing-on-your-computer-effective-solutions/"><u>How to Stop Warno From Continuously Freezing on Your Computer - Effective Solutions</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-steps-to-efficient-zoom-meetings/"><u>In 2024, Quick Steps to Efficient Zoom Meetings</u></a></li>
+<li><a href="https://facebook.techidaily.com/internet-sanctions-top-3-locations-where-facebook-is-forbidden/"><u>Internet Sanctions: Top 3 Locations Where Facebook Is Forbidden</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-meizu-21-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Meizu 21 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013163637-master-the-fix-defeat-dragon-quest-xis-persistent-crash-glitch-once-and-for-all/"><u>Master the Fix: Defeat Dragon Quest XI's Persistent Crash Glitch Once and for All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fixes-for-armored-core-cu-6-on-pc-resolving-the-fires-of-rubicon-crash-scenario/"><u>Mastering Fixes for Armored Core Cu 6 on PC: Resolving the 'Fires of Rubicon' Crash Scenario</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-overcoming-game-server-connectivity-glitches/"><u>MLB The Show 21: Overcoming Game Server Connectivity Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-persistent-elex-ii-pc-crashes-expert-tips/"><u>Troubleshooting Guide for Persistent Elex II PC Crashes – Expert Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010322610-windows-11-users-rejoice-as-origin-opens-without-problems-solutions-inside/"><u>Windows 11 Users Rejoice as 'Origin' Opens Without Problems - Solutions Inside!</u></a></li>
 </ul></div>
 

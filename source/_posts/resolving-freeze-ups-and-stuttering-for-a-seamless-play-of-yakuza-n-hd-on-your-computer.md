@@ -1,7 +1,7 @@
 ---
 title: Resolving Freeze-Ups and Stuttering for a Seamless Play of Yakuza N HD on Your Computer
-date: 2024-08-28T00:00:07.501Z
-updated: 2024-08-29T00:00:07.501Z
+date: 2024-11-25T21:27:26.191Z
+updated: 2024-11-26T23:33:44.921Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2ed
 ## Understanding and Fixing Dual Frame Rate Drops on Your Personal Computer - Solution Found
 
 Specially designed for split-screen cooperative muliplayer,**It Takes Two** is definitely a great action-advanture game in 2021\. However, just like any other games released recently, for many players, the game still has some performance issues. **If It Takes Two FPS drops on your PC, or if you’re suffering from in-game lag and stuttering** , don’t worry. You’ve come to the right place. Although this issue is quite frustrating, you should be able to fix this issue on your own easily after reading this article!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,8 +42,9 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
  Run It Takes Two again to see whether the FPS is back to normal. If it didn’t work, or there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may be causing It Takes Two FPS dropping issue.
@@ -60,23 +65,11 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -86,8 +79,9 @@ Key features:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -96,11 +90,16 @@ Key features:
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
@@ -119,9 +118,11 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -143,12 +144,6 @@ To optimize the graphics settings, follow the steps below:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Lower in-game graphics settings
 
  By defualt, It Takes Two will automatically select the graphics settings that suits your hardware. If you want to get some extra FPS and performance, you can play with the graphics settings in the game.
@@ -166,18 +161,17 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Click**Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Fix 6: Close other demanding apps running in the background
 
  The It Takes Two FPS dropping issue may occur if too many applications or programs are running at the same time in the background. So **try restricting applications and downloads in the background** before playing the game to see if the game would run smoothly. Here is how to do it:
@@ -188,9 +182,6 @@ To optimize the graphics settings, follow the steps below:
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
  A power plan is a collection of hardware and system settings that manages how your computer use power. In most cases, the power plan on PCs are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU.
@@ -203,8 +194,9 @@ To optimize the graphics settings, follow the steps below:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Launch It Takes Two to see if you would get a better FPS.
 
 ---
@@ -220,8 +212,6 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +219,22 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://driver-error.techidaily.com/1721102830368-default-radeon-wattman-settings-have-crashed-and-been-restored-problem-solved/"><u>‘Default Radeon Wattman Settings Have Crashed and Been Restored’ Problem [Solved]</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-profit-from-publishing-shopping-reviews-in-2024/"><u>[New] Profit From Publishing Shopping Reviews, In 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issue-addressed-persistent-app-failures-for-wot-blitz-users/"><u>[RESOLVED ISSUE] Addressed Persistent App Failures for WoT Blitz Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-best-practices-in-extracting-youtube-media/"><u>[Updated] 2024 Approved Best Practices in Extracting YouTube Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-live-recording-simplified-logitech-webcam-setup-steps/"><u>[Updated] In 2024, Live Recording Simplified Logitech Webcam Setup Steps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-traction-techniques-for-million-sub-attainment/"><u>[Updated] Youtube Traction Techniques for Million-Sub Attainment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-tips-for-cracking-the-combination-finding-your-vehicles-car-audio-code/"><u>DIY Tips for Cracking the Combination: Finding Your Vehicle's Car Audio Code</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-encountered-an-error-message-on-geforce-experience-easily/"><u>Fixing the 'Encountered an Error' Message on GeForce Experience Easily</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x8b-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X8b Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-smooth-gameplay-essential-tips-to-resolve-2024s-dota-2-latency-problems/"><u>Mastering Smooth Gameplay: Essential Tips to Resolve 2024'S Dota 2 Latency Problems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/maximizing-visibility-post-facebook-update-for-2024/"><u>Maximizing Visibility Post-Facebook Update for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/printer-harmony-solving-hp-1020-drivers-on-windows/"><u>Printer Harmony: Solving HP 1020 Drivers on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/struggling-to-get-into-game-mode-solving-your-rocket-league-startup-woes/"><u>Struggling to Get Into Game Mode? Solving Your Rocket League Startup Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-constant-crashes-in-the-latest-version-of-insurgency-sandstorm/"><u>Troubleshooting Guide: Fixing Constant Crashes in the Latest Version of Insurgency: Sandstorm</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-for-constant-dead-by-daylight-game-crashes/"><u>Ultimate Fix for Constant Dead by Daylight Game Crashes</u></a></li>
+</ul></div>
 

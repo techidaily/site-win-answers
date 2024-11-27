@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Action: Essential Fixes for Starting Fallout 3"
-date: 2024-11-13T17:09:28.533Z
-updated: 2024-11-17T00:12:47.487Z
+date: 2024-11-19T20:55:46.890Z
+updated: 2024-11-26T18:15:25.719Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -42,25 +46,11 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
  Before we jump into anything advanced,[check the Roblox server status](https://status.roblox.com/) first. If the server is down, then you’ll have to wait until it’s fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Restart your PC
 
  The first and easiest thing you should try is a restart of your PC. Many players are able to launch Roblox after they restart their computers, so it’s definitely worth trying.
 
 If rebooting your PC doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Check your browser
 
@@ -86,23 +76,18 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/reset-1.png)
 4. Check the option of**Delete personal settings** , then click**Reset** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
 
- Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
-
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
 
 ## Fix 4: Check your proxy settings
 
@@ -118,23 +103,9 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/proxy-settings.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For Windows 11 users, your screen will look slightly different.  
 
 ![Windows 11 configure proxy settings](https://images.drivereasy.com/wp-content/uploads/2021/06/win11-proxy-off.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t help, there’s one more fix you can try.
 
@@ -150,8 +121,16 @@ If this fix doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 4. Switch to**View by: Small icons** , then click**Programs & Features** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/programs-and-features.png)
 5. Find Roblox, right-click it then click**Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **To remove the Roblox folder:**
 
@@ -168,13 +147,6 @@ If this fix doesn’t help, there’s one more fix you can try.
 
  If the automatic installation fails to work, you can[download the Roblox app](https://www.roblox.com/Download) here.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus: How to keep your PC at top condition and bring a better gaming experience
 
  One of the easiest PC maintenance tips is to keep your drivers up-to-date. Updating your drivers regularly helps prevent many random issues you may run into.
@@ -188,6 +160,10 @@ If this fix doesn’t help, there’s one more fix you can try.
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version of them. Then you can manually install them (you can do this with the FREE version).
 
@@ -216,15 +192,18 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-fb-sensation-strategies-for-marketers-and-influencers-for-2024/"><u>[Updated] Fb Sensation Strategies for Marketers and Influencers for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-most-efficient-techniques-for-real-time-youtube-video-recording/"><u>2024 Approved Most Efficient Techniques for Real-Time YouTube Video Recording</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/a-guide-to-seamless-video-integration-pip-techniques-for-mac-users/"><u>A Guide to Seamless Video Integration PIP Techniques for Mac Users</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-stop-garrys-mod-from-crashing-top-strategies/"><u>Fixes & Solutions: Stop Garry's Mod From Crashing - Top Strategies</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-game-crashes-in-forza-horizon-5-a-comprehensive-guide/"><u>Fixing Game Crashes in Forza Horizon 5: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-essential-mac-screen-recorders-top-10-free-list/"><u>In 2024, Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
-<li><a href="https://win-answers.techidaily.com/inside-story-mafia-conclusive-edition-launch-aborted/"><u>Inside Story: Mafia: Conclusive Edition Launch Aborted</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stabilized-and-ready-to-play-the-end-of-crashing-woes-for-from-the-ashes-remnant/"><u>Stabilized and Ready to Play: The End of Crashing Woes for 'From the Ashes' Remnant</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-sharing-tunes-instagram-copyright-edicts/"><u>[New] In 2024, Sharing Tunes Instagram Copyright Edicts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-your-first-step-to-a-profitable-youtube-experience/"><u>[Updated] 2024 Approved Your First Step to a Profitable Youtube Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximize-youtube-potential-leading-rank-tracker-software-for-2024/"><u>[Updated] Maximize YouTube Potential Leading Rank Tracker Software for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-ultimate-7-dslr-picks-to-upgrade-your-vlog-production/"><u>2024 Approved Ultimate 7 DSLR Picks to Upgrade Your Vlog Production</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-troubleshooting-steps-to-overcome-fortnite-loading-issues/"><u>Easy Troubleshooting Steps To Overcome Fortnite Loading Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-gaming-experience-correcting-call-of-duty-warzones-disc-read-mistakes-with-50-31/"><u>Error-Free Gaming Experience - Correcting Call of Duty Warzone's Disc Read Mistakes with [5.0, 3.1]</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-lucky-day-top-discounted-powerhouse-laptops-of-2024-revealed/"><u>Gamers' Lucky Day: Top Discounted Powerhouse Laptops of 2024 Revealed</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 80 Pro Straight Screen Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-prime-explorations-in-top-livestream-websites/"><u>In 2024, Prime Explorations in Top Livestream Websites</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/mastering-dvd-duplication-with-leawo-prof-media-a-complete-tutorial-on-copying-embedding-and-compressed-extracts/"><u>Mastering DVD Duplication with Leawo Prof. Media: A Complete Tutorial on Copying, Embedding & Compressed Extracts</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/pixma-mp620-drivers-lost-on-win11-systems/"><u>Pixma MP620 Drivers Lost on Win11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-pc-issues-for-a-seamless-destiny-2-playthrough/"><u>Resolved PC Issues for a Seamless Destiny 2 Playthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-high-latency-issues-ultimate-guide-to-improve-your-ping-in-back-4-blood/"><u>Resolving High Latency Issues: Ultimate Guide to Improve Your Ping in Back 4 Blood</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Stop PC Freezes and Glitches While Playing Mobile PUBG"
-date: 2024-11-11T01:45:55.043Z
-updated: 2024-11-17T08:18:25.013Z
+date: 2024-11-26T00:08:45.656Z
+updated: 2024-11-27T00:41:51.889Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -54,6 +47,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -68,31 +65,11 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Lower graphics settings
 
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
 
@@ -103,16 +80,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fortnite to check.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method doesn’t help, don’t worry, move to the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method: Update your graphics card
 
@@ -145,15 +119,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -164,6 +135,10 @@ OR
  If everything works fine using the integrated graphics, you might need to check your graphics processor or PSU (computer power supply unit) are faulting. The way to test your GPU is using another graphics card on your PC or try this card in another PC.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Change scale and layout limit
 
@@ -188,15 +163,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -222,15 +198,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-tips-for-stellar-video-conclusions/"><u>[Updated] 2024 Approved Tips for Stellar Video Conclusions</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/deciphering-the-lack-of-contacts-and-snaps-on-snapchat/"><u>Deciphering the Lack of Contacts and Snaps on Snapchat</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/essential-playgrounds-for-virtual-escapades-for-2024/"><u>Essential Playgrounds for Virtual Escapades for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improving-reaction-times-with-fps-optimization-tips-for-naraka-bladepoint/"><u>Improving Reaction Times with FPS Optimization Tips for Naraka: Bladepoint</u></a></li>
-<li><a href="https://win-answers.techidaily.com/jurassic-world-evolution-troubleshooting-eliminating-crashing-issues-permanently/"><u>Jurassic World Evolution Troubleshooting: Eliminating Crashing Issues Permanently</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-persistent-issues-with-discord-live-broadcasts/"><u>Resolved: How to Fix Persistent Issues with Discord Live Broadcasts</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/resolving-issues-when-apowermanager-fails-to-retrieve-contact-info-and-texts-from-iphone-or-ipad/"><u>Resolving Issues When ApowerManager Fails to Retrieve Contact Info & Texts From iPhone or iPad</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-why-doesnt-my-game-of-warframe-open/"><u>Solution Found: Why Doesn’t My Game of Warframe Open?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/switch-gaming-elevated-by-top-capture-cards/"><u>Switch Gaming Elevated by Top Capture Cards</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-8-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-step-by-step-guide-to-posting-on-instagram/"><u>[New] 2024 Approved A Step-by-Step Guide to Posting on Instagram</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-navigating-adsense-a-step-by-step-approach-for-youtubers/"><u>[New] In 2024, Navigating AdSense A Step-by-Step Approach for YouTubers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-skys-best-expertly-curated-list-of-drones-and-their-editing-pals/"><u>[New] Sky's Best Expertly Curated List of Drones & Their Editing Pals</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-top-iphones-and-android-premium-coverage-for-your-ig-highlights/"><u>2024 Approved Top iPhones & Android Premium Coverage for Your IG Highlights</u></a></li>
+<li><a href="https://win-answers.techidaily.com/arma-3-crash-no-more-comprehensive-strategies-for-seamless-gaming-experience/"><u>Arma 3 Crash No More! Comprehensive Strategies for Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-glitch-8-proven-remedies-to-keep-vrchat-running-smoothly-on-your-desktop-computer/"><u>Beat the Glitch: 8 Proven Remedies to Keep VRChat Running Smoothly on Your Desktop Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/duos-triumph-how-partnership-paved-the-way-for-successful-launch/"><u>Duo's Triumph: How Partnership Paved the Way for Successful Launch</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-extract-audio-from-tweets-and-save-as-mp3s-for-2024/"><u>How to Extract Audio From Tweets and Save as MP3s for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-p55-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel P55 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/metamorphose-des-fichiers-wtv-convertissez-vers-avi-gratuitement-via-le-service-en-ligne-de-movavi/"><u>Métamorphose Des Fichiers WTV: Convertissez Vers AVI Gratuitement via Le Service En Ligne De Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4-quicktime-movie/"><u>MP4形式へのビデオ変換 - QuickTime Movieから</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-dragons-dogma-2-pc-crashes-a-comprehensive-guide/"><u>Solving Dragon's Dogma 2 PC Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-unsuccessful-windows-11-build-1607-feature-upgrade/"><u>Troubleshooting: Unsuccessful Windows 11 Build 1607 Feature Upgrade</u></a></li>
 </ul></div>
 

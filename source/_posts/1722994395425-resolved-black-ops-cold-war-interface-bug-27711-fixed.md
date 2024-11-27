@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Black Ops Cold War Interface Bug 27711 Fixed!"
-date: 2024-08-27T23:58:51.263Z
-updated: 2024-08-28T23:58:51.263Z
+date: 2024-11-21T21:14:03.948Z
+updated: 2024-11-26T16:56:00.110Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e
 ## Solving Black Ops: Cold War UI Glitch Code 27711 - Fixed
 
 In the past couple days, many Cold War gamers are reporting a**UI error 27711** , a glitch that usually occurs during game loading. But fret not if you’re seeing this error. Below we’ve gathered some easy fixes for you, try them and get your game working right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -32,9 +36,6 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 
  If the error persists after a reboot, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Scan and repair your game
 
  This error could mean that there’s**an integrity issue** with your game files. In other words, there are files corrupted or missing in your game folder. If that’s the case, a scan and repair might help you fix this glitch:
@@ -42,11 +43,13 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 1. First open your **Blizzard Battle.net** client. In the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
@@ -79,10 +82,11 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -99,21 +103,21 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, launch Black Ops Cold War and see if you can play now.
@@ -128,8 +132,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +139,21 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-how-to-change-facebook-cover-photo/"><u>[New] How to Change Facebook Cover Photo</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-maximizing-fb-video-area-for-2024/"><u>[New] Step by Step Maximizing Fb Video Area for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[Updated] 2024 Approved Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+<li><a href="https://games-able.techidaily.com/20-fast-and-quick-mobile-games-to-kill-time-on-android-and-iphone/"><u>20 Fast and Quick Mobile Games to Kill Time on Android and iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-launch-malfunction-of-nier-replicant-remaster-a-users-guide/"><u>Addressing the Launch Malfunction of NieR Replicant Remaster - A User's Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-gaming-smoothness-on-dragon-gro-dogma-ii-fixing-frame-rate-problems/"><u>Boost Gaming Smoothness on Dragon' Gro Dogma II: Fixing Frame Rate Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-5-maximizing-performance-cyberpunk-2077s-strides-in-achieving-higher-fps/"><u>Cyberpunk 5. Maximizing Performance: Cyberpunk 2077'S Strides in Achieving Higher FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/destiny-2-update-ultimate-guide-broccoli-glitch-patched-in-april-2024/"><u>Destiny 2 Update: Ultimate Guide - Broccoli Glitch Patched in April 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-gameplay-tips-to-boost-frame-rate-on-rainbow-six-extraction/"><u>Improve Your Gameplay - Tips to Boost Frame Rate on Rainbow Six Extraction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fix-resolving-your-fifa-22-pc-crash-dilemma-once-and-for-all/"><u>Master the Fix: Resolving Your FIFA 22 PC Crash Dilemma Once & For All</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Oppo A58 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ultimate-acceleration-manual-boosting-fb-video-speed-with-top-tools/"><u>Ultimate Acceleration Manual Boosting FB Video Speed with Top Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-oversleeper-dilemma-computer-wont-wake/"><u>Windows' Oversleeper Dilemma - Computer Won't Wake</u></a></li>
+</ul></div>
 

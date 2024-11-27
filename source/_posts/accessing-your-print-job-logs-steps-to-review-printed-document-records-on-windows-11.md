@@ -1,7 +1,7 @@
 ---
 title: "Accessing Your Print Job Logs: Steps to Review Printed Document Records on Windows 11"
-date: 2024-08-27T23:53:51.233Z
-updated: 2024-08-28T23:53:51.233Z
+date: 2024-11-26T02:55:45.886Z
+updated: 2024-11-27T01:19:47.022Z
 tags:
   - windows
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 ---
 
 ## Accessing Your Print Job Logs: Steps to Review Printed Document Records on Windows 11
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 
 ## 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Enable Printer History Logging for Recently Printed Documents on Windows 10
 
  By default, your printed document history will be wiped after each document has finished printing. You can change this setting to enable you to see a list of your recently printed documents from the print queue for your printer. You'll need to change this setting for each printer you have installed.
@@ -34,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 ![Access your Windows printer settings by right-clicking your Start Menu button, clicking Settings, then Devices &gt; Printers &amp; Scanners](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Printer-Settings-Menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Find your printer in the "Printers & Scanners" list, click on it, and then click "Open Queue" to open the print queue.
 
 ![Click on your printer and click Open Queue to open the printer queue](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Printer-Settings-Queue-Button.png) 
@@ -53,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/5c825ad46d87b3691d3904b2e30aab153935e0b73
 ![Click the advanced tab in your printer settings and enable the keep printed documents checkbox](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Printer-Enable-History.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once your document history is enabled, your documents will no longer disappear from your print queue after the printing process has completed.
 
 ##  Enable Printer History Logging for Recently Printed Documents on Windows 11
@@ -73,9 +83,6 @@ Close
 
  Whenever you want to review your print history, all you need to do is open to Settings > Bluetooth & Devices > Printers & Scanners, select your Printer, then click "Open Print Queue." 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Enable Long-Term Print History in Event Viewer.
 
  The print queue will provide a short-term overview of your previously printed documents. If you want to view a long-term list, you'll need to use the Windows Event Viewer.
@@ -84,13 +91,13 @@ Close
 
 ![Open the Event Viewer through the Power User Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/open-event-viewer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  The Event Viewer will allow you to view a list of previously printed files, but you'll need to set Windows to begin logging your long-term printer history first. In the Windows Event Viewer, click Applications and Services Logs > Microsoft > Windows in the "Event Viewer (Local)" menu on the left.
 
 ![In Event Viewer, click Applications and Services Logs &gt; Microsoft &gt; Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/print-services-event-viewer-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will reveal a significant number of Windows services. Scroll down to find the "PrintService" category.
 
@@ -98,20 +105,18 @@ The ultimate burning program for all your needs!</a>
 
 ![properties](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/properties.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click to enable the "Enable Logging" checkbox and then set a maximum size for the log. The larger the size, the longer Windows will record your printed document history.
 
  Click the "Apply" button to save the setting.
 
 ![Tick the box next to 'Enable Logging,' set the log size you want, then click 'Apply.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/enable-logging.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows will now automatically save the printer history for all of your installed printers to a log file that you can access within Event Viewer.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  View Print History in Event Viewer
 
  Once your printer history is enabled, you can access it at any time from the Event Viewer. To do so, find and open the "PrintService" category and then click on the "Operational" log.
@@ -119,29 +124,32 @@ The ultimate burning program for all your needs!</a>
 ![In Event Viewer, click 'PrintService', then click Operational](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/operational.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A history of all Windows printer events will be listed, from initial printer spooling to completed or failed prints.
 
  Under the "Task Category" section, items listed as "Printing a Document" are documents that have been successfully printed. Failed prints will also appear in this category.
 
 ![The PrintService Operational log will list your printed document history](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Event-Viewer-Printed-History.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To make it easier to sort, you can group your print log by categories, making it easy to separate the "Printing a Document" events into their own section. To do so, right-click the "Task Category" heading and then click the "Group Events by This Column" button.
 
 ![In the Event Viewer logs list, right-click Task Category, then click Group Events by This Category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Event-Viewer-Group-List-by-Categories.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your items will now be separated by category.
 
  You can minimize the other categories, leaving the "Printing a Document" category to display only a list of your previously printed documents.
 
 ![A list of printed documents in the Event Viewer, separated by categories](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/Windows-Event-Viewer-Categories-List.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Third-Party Print Logging Software
 
@@ -151,18 +159,12 @@ The ultimate burning program for all your needs!</a>
 
 ![An example of a print log within the PaperCut Print Logger admin page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/PaperCut-Admin-Log.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  The admin page can be accessed from the default PaperCut Print Logger directory.
 
  On Windows 10, this is usually `C:\Program Files (x86)\PaperCut Print Logger` . Double-click the "ViewLogs" shortcut to open the admin panel, where a list of your printed documents will be available, separated by date.
 
 ![In the PaperCut installation directory, double-click the ViewLogs shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/10/PaperCut-Directory.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you've opened the PaperCut Print Logger admin page, under the "View" category, click the "HTML" button to access your print history for that date within the panel.
 
  You can also click the "CSV/Excel" button under the "Date (Day)" or "Date (Month)" categories to export your daily or monthly print history as a Microsoft Excel XLS file.
@@ -177,8 +179,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-revealing-the-ultimate-collection-of-youtube-beauty-experts/"><u>[New] In 2024, Revealing the Ultimate Collection of YouTube Beauty Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-sources-of-high-quality-insta-soundtracks-and-crafting-noteworthy-chimes/"><u>2024 Approved Exploring Sources of High-Quality Insta Soundtracks and Crafting Noteworthy Chimes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convert-anime-music-videos-amvs-into-mp3-for-free-with-movavis-easy-tool/"><u>Convert Anime Music Videos (AMVs) Into MP3 for Free with Movavi's Easy Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-steam-streaming-experience-overcome-delays-with-these-fixes/"><u>Enhance Your Steam Streaming Experience: Overcome Delays with These Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/kubernetes-the-decade-journey-of-revolutionizing-cloud-computing-past-achievements-and-future-trends-zdnet/"><u>Kubernetes: The Decade Journey of Revolutionizing Cloud Computing - Past Achievements and Future Trends | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lunar-application-pc-stability-troubleshooting-and-solving-crashes/"><u>Lunar Application PC Stability: Troubleshooting and Solving Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-far-cry-5s-perpetual-start-up-loop-with-these-solutions/"><u>Overcome Far Cry #5'S Perpetual Start-Up Loop with These Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-in-windows-10/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V in Windows 10</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-reviving-your-iphone-7-plusiphone-7/"><u>Step-by-Step Guide: Reviving Your iPhone 7 Plus/iPhone 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-6-solutions-to-prevent-street-fighter-6-from-freezing-or-crashing/"><u>Top 6 Solutions to Prevent Street Fighter 6 From Freezing or Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-correct-your-pcs-warzone-game-disc-reading-error-on-versions-50-and-31/"><u>Troubleshooting Steps to Correct Your PC's Warzone Game Disc Reading Error on Versions 5.0 & 3.1</u></a></li>
+<li><a href="https://facebook.techidaily.com/when-to-revitalize-your-facebook-identity-snapshot/"><u>When to Revitalize Your Facebook Identity Snapshot</u></a></li>
+</ul></div>
 

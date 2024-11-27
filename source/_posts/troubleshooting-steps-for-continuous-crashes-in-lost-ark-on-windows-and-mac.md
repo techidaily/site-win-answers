@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Continuous Crashes in Lost Ark on Windows and Mac
-date: 2024-08-28T00:00:09.844Z
-updated: 2024-08-29T00:00:09.844Z
+date: 2024-11-23T02:44:27.035Z
+updated: 2024-11-26T20:35:39.348Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/503d593f9428317b9217e37989fa613e5c3305adb
 ## Troubleshooting Disconnects in Fallout 76 for Windows Users – Get Back Online
 
 Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnected from the server** issue. If you’re also in the same situation, don’t worry. It’s often not hard to fix…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Fallout 76 Disconnected From Server in Windows
 
@@ -39,17 +43,29 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -64,13 +80,18 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Repeat step **2)** on every other bandwidth hogging programs.
 
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
 
@@ -87,16 +108,13 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -119,23 +137,6 @@ _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 _wireless router_
 
  2) Wait**60 seconds** for your modem (and your wireless router) to cool off.
@@ -157,8 +158,9 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
@@ -179,9 +181,6 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
@@ -194,9 +193,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Fix 6: Switch the DNS server
 
  The Fallout 76 not connecting to server problem may also happen if the DNS your ISP supplies is not properly configured so just slow. So you can switch to Google Public DNS to see if it can effectively speed up the Internet and fixes the server issue.
@@ -215,20 +211,18 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
@@ -241,9 +235,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Is Fallout 76 down?
 
  If you’ve exhausted all the solutions above but the problem is still not resolved, then it’s probably a server outage with the game. You can check Fallout 76 official[**Facebook**](https://www.facebook.com/fallout76/) or**[Twitter](https://twitter.com/fallout?lang=en)** to see if it is down and wait until the game is fully restored.
@@ -262,8 +253,6 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -271,4 +260,18 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-perfecting-video-focus-videoleap-guide/"><u>[New] Perfecting Video Focus Videoleap Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebook-videos-vertical-or-horizontal/"><u>[Updated] 2024 Approved Facebook Videos; Vertical or Horizontal?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/evaluation-the-advantages-and-challenges-in-samsung-photo-tools/"><u>Evaluation The Advantages & Challenges in Samsung Photo Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>In 2024, From Idea to Airwaves Crafting Compelling Podcast Scripts</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-enhancing-your-soundscapes-dynamic-volume-changes-made-simple-with-adobe-after-effects/"><u>New In 2024, Enhancing Your Soundscapes Dynamic Volume Changes Made Simple with Adobe After Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-obstacles-a-comprehensive-guide-for-playing-starfield-on-your-gaming-systems/"><u>Overcoming Startup Obstacles: A Comprehensive Guide for Playing Starfield on Your Gaming Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-performance-issues-solving-frame-rate-drops-and-stuttering-in-dying-light-2/"><u>PC Performance Issues: Solving Frame Rate Drops & Stuttering in Dying Light 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-awaits-discover-the-ultimate-fix-for-diablo-iv-crashing-across-all-platforms/"><u>Smooth Gaming Awaits! Discover the Ultimate Fix for Diablo IV Crashing Across All Platforms.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-pcs-audio-problems-with-these-easy-it-takes-two-fixes/"><u>Solve Your PC's Audio Problems with These Easy It Takes Two Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-flawless-batman-arkham-knight-experiences-overcome-sudden-crashes/"><u>Unlocking Flawless Batman: Arkham Knight Experiences - Overcome Sudden Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-battle-successful-minecraft-setup-for-windows-11-users/"><u>Winning the Battle: Successful Minecraft Setup for Windows 11 Users</u></a></li>
+</ul></div>
 

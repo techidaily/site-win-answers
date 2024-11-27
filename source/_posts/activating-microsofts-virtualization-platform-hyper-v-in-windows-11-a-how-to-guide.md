@@ -1,7 +1,7 @@
 ---
 title: "Activating Microsoft's Virtualization Platform: Hyper-V in Windows 11 – A How-To Guide"
-date: 2024-08-28T00:00:42.925Z
-updated: 2024-08-29T00:00:42.925Z
+date: 2024-11-21T18:38:56.369Z
+updated: 2024-11-26T19:12:32.662Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
  If you have trouble updating the game, you might just need a simple reboot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  You can’t expect your game to work fine if there’re files missing or broken. So first you need to**run a scan of your game folder** .
@@ -57,11 +61,12 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -69,9 +74,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -79,14 +81,11 @@ If this doesn’t help, you can take a look at the next fix below.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -96,8 +95,9 @@ If this doesn’t help, you can take a look at the next fix below.
 If this solution doesn’t help, you can continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Perform a clean boot
 
  Given we all have different desktop environments, the cause of the issue could be**interfering programs** . If you’re not sure, do a clean boot to rule out this possibility.
@@ -105,20 +105,24 @@ If this solution doesn’t help, you can continue to the next one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -131,11 +135,12 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
@@ -143,9 +148,6 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  Hopefully, you’ve fixed the issue and can get your game working as expected. If you have any problems, simply leave a comment and we’ll get back to you.
@@ -158,8 +160,6 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +167,24 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-design-innovators-top-free-afx-templates-collection/"><u>[Updated] Design Innovators Top Free AFX Templates Collection</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-comprehensive-23-twee-tide-digest-for-2024/"><u>[Updated] The Comprehensive '23 Twee-Tide Digest for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-real-time-broadcast-periscope-essentials/"><u>2024 Approved Mastering Real-Time Broadcast Periscope Essentials</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-a25-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy A25 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crusader-kings-iii-stable-gaming-experience-on-pc-no-more-freezes/"><u>Crusader Kings III - Stable Gaming Experience on PC (No More Freezes)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decoding-the-postponed-release-timeline-for-wolcen-lords-of-mayhem/"><u>Decoding the Postponed Release Timeline for Wolcen: Lords of Mayhem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-microphone-glitches-while-playing-among-us-pc/"><u>Fixing the Microphone Glitches While Playing Among Us (PC)</u></a></li>
+<li><a href="https://techidaily.com/guide-monitoring-your-pcs-temperature-in-windows-11/"><u>Guide: Monitoring Your PC's Temperature in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-tecno-phantom-v-flip-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Tecno Phantom V Flip to iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Nubia Red Magic 8S Pro online without jailbreak</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-destiny-2-a-guide-to-fixing-error-code-centipede/"><u>Mastering Destiny 2: A Guide to Fixing Error Code Centipede</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-resolving-division-2-game-crashes-in-no-time/"><u>Quick Fixes: Resolving Division 2 Game Crashes in No Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-persistent-system-failures-with-the-thunder-tier-one-game/"><u>Resolved: Persistent System Failures with the Thunder Tier One Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722988670341-team-fortress-2-stability-improved-say-goodbye-to-regular-disruptions/"><u>Team Fortress 2 Stability Improved - Say Goodbye to Regular Disruptions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-get-your-steam-vr-recognized-again/"><u>Troubleshooting Tips: How to Get Your Steam VR Recognized Again</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/vdr-hd-vision-recorder-report-full-overview-for-2024/"><u>VDR HD Vision Recorder Report Full Overview for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-powers-openais-clarity-shap-e-insights/"><u>What Powers OpenAI's Clarity: SHAP E Insights</u></a></li>
+</ul></div>
 

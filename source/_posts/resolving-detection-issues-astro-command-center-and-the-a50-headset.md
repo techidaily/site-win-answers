@@ -1,7 +1,7 @@
 ---
 title: "Resolving Detection Issues: Astro Command Center and the A50 Headset"
-date: 2024-11-15T00:54:42.359Z
-updated: 2024-11-16T21:07:43.599Z
+date: 2024-11-20T00:30:18.040Z
+updated: 2024-11-27T00:51:31.137Z
 tags:
   - win11
   - win10
@@ -37,13 +37,6 @@ thumbnail: https://thmb.techidaily.com/c9d63107d989d631581c5dbe79eb35fbfb926a1d5
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -70,6 +63,10 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -78,6 +75,10 @@ If the problem persists, take a look at the next fix below.
  After updating your drivers, restart your PC and test the gameplay in New World.
 
  If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure your system is up to date
 
@@ -89,25 +90,15 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -117,13 +108,6 @@ Here’s how you can check for updates manually:
 
 If your system is already up to date, you can try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Change in-game graphics settings
 
  Some players reported that turning off certain graphics settings might be the cure for the crash. You can try the same and see how things go:
@@ -132,21 +116,7 @@ If your system is already up to date, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can play and check if the crash stops.
 
@@ -164,26 +134,28 @@ Now you can play and check if the crash stops.
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
@@ -197,6 +169,10 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
 ![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
 2. Go to**AGS > New World** and delete the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    * The**savedata** folder  
    * The**user\_preload\_settings** file
@@ -221,16 +197,18 @@ Now you can play and check if the crash stops.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-mobile-photography-with-androids-lightroom/"><u>[Updated] Mastering Mobile Photography with Android’s Lightroom</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-selections-prolific-iphone-tone-innovators/"><u>2024 Approved Pinnacle Selections Prolific iPhone Tone Innovators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/destiny-2-for-pc-is-finally-up-and-running-how-we-fixed-it/"><u>Destiny 2 for PC Is Finally Up and Running: How We Fixed It!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-realme-narzo-n53-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Realme Narzo N53</u></a></li>
-<li><a href="https://win-dash.techidaily.com/epson-perfection-v600-printer-driver-download-free-and-compatible/"><u>Epson Perfection V600 Printer Driver Download - Free and Compatible</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-master-the-art-of-swift-srt-to-text-transformation/"><u>In 2024, Master the Art of Swift SRT to Text Transformation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-fuss-fixes-stabilizing-your-outriders-gaming-experience/"><u>No-Fuss Fixes: Stabilizing Your Outriders Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-as-wrath-of-the-righteous-pathfinder-glitches-are-resolved/"><u>PC Gamers Rejoice as 'Wrath of the Righteous' Pathfinder Glitches Are Resolved!</u></a></li>
-<li><a href="https://windows11.techidaily.com/playnite-extension-virtual-games-collection/"><u>Playnite Extension: Virtual Games Collection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-connectivity-problems-get-your-logitech-g-hub-working-in-windows-again/"><u>Resolving Connectivity Problems: Get Your Logitech G Hub Working in Windows Again!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-red-dead-redemption-2-gfx-error-with-this-guide-errgfxstate/"><u>Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>[New] A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/levating-your-style-with-youtubes-best-hauls/"><u>[New] Elevating Your Style with YouTube's Best Hauls</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-profitable-pathways-to-youtube-success-on-the-social-network-superstar/"><u>[Updated] Profitable Pathways to YouTube Success on the Social Network Superstar</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-core-elements-of-zd-soft-recording-features/"><u>2024 Approved The Core Elements of ZD Soft Recording Features</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/edge-it-all-out-the-finest-frame-options-for-social-media-photography/"><u>Edge It All Out The Finest Frame Options for Social Media Photography</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-digital-engagement-using-the-cookiebot-platform/"><u>Enhance Digital Engagement Using the Cookiebot Platform</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-preventing-red-dead-online-pc-crashes-and-ensuring-smooth-gameplay/"><u>Expert Tips for Preventing Red Dead Online PC Crashes & Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/extrae-tus-dvd-sin-problemas-con-el-grabador-de-dvd-platinum-winx-la-mejor-opcion-rapida-para-hacer-copias-digitales-en-windows-11/"><u>Extrae Tus DVD Sin Problemas Con El Grabador De DVD Platinum WinX, La Mejor Opción Rápida Para Hacer Copias Digitales en Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-hurdles-for-battlefield-4-enthusiasts-using-pc-platforms/"><u>Overcoming Startup Hurdles for Battlefield 4 Enthusiasts Using PC Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-black-ops-cold-wars-error-883a-0005-a-step-by-step-solution/"><u>Overcoming the Challenge of Black Ops Cold War's Error 88^3A-0005 - A Step by Step Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pro-tips-for-smooth-playthroughs-overcoming-age-of-empires-4s-stuttering-challenge/"><u>Pro Tips for Smooth Playthroughs - Overcoming Age of Empires 4'S Stuttering Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-resolving-freezes-in-path-of-exile-for-free-players/"><u>Step-by-Step Tutorial: Resolving Freezes in Path of Exile for Free Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-launch-issues-how-to-get-civilization-vi-running-on-windows-10/"><u>Troubleshooting Launch Issues: How to Get Civilization VI Running on Windows 10</u></a></li>
 </ul></div>
 

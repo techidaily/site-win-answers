@@ -1,7 +1,7 @@
 ---
 title: Untangling the Black Ops Cold War Hitch - Error Code 887a0005 Explained!
-date: 2024-11-14T12:55:11.000Z
-updated: 2024-11-17T07:48:04.985Z
+date: 2024-11-19T23:57:48.890Z
+updated: 2024-11-26T23:59:48.118Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e31aaa74ff016883ab8f84feb3b9453dbf2ea0039
 3. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 4. [**Disable HAGs (Hardware-accelerated GPU scheduling** )](https://www.drivereasy.com/knowledge/solved-black-ops-cold-war-error-code-887a0005/#fix4)
 5. **[Disable in-game Ray Tracing](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair game files
 
@@ -47,10 +55,7 @@ Here’s a quick guide for that:
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
@@ -58,13 +63,6 @@ Here’s a quick guide for that:
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -80,6 +78,10 @@ If this trick doesn’t help you, simply continue to the next one.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -120,33 +122,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
- If this method doesn’t fix your issue, simply check out the next one.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If this method doesn’t fix your issue, simply check out the next one.
 
 ### Fix 5: Disable in-game Ray Tracing
 
@@ -160,10 +145,7 @@ Here’s how:
 3. Restart the game and test the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
@@ -187,17 +169,15 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-transform-webcam-into-a-recording-station-with-vlc-for-2024/"><u>[New] Transform Webcam Into a Recording Station with VLC for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-connectivity-at-its-peak-mastering-real-time-social-broadcasts/"><u>[Updated] 2024 Approved Connectivity at Its Peak Mastering Real-Time Social Broadcasts</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-new-insights-into-sony-s6700s-updates-for-2024/"><u>[Updated] New Insights Into Sony S6700's Updates for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-masterclass-in-meme-template-selection/"><u>2024 Approved Masterclass in Meme Template Selection</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/accessing-hulu-channels-through-lgs-smart-tv-interface-made-easy/"><u>Accessing Hulu Channels Through LG's Smart TV Interface Made Easy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-for-your-world-of-warcraft-crash-problems/"><u>Quick Fixes for Your World of Warcraft Crash Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-the-puzzle-get-tekken-8-up-and-running-on-pc-with-our-expert-tips/"><u>Solve the Puzzle: Get Tekken 8 Up and Running on PC with Our Expert Tips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/steps-to-bypass-youtube-prohibitions-for-2024/"><u>Steps to Bypass YouTube Prohibitions for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/take-portrait-photo-with-your-old-iphone-x8-plus7-plus-for-2024/"><u>Take Portrait Photo with Your Old iPhone X/8 Plus/7 Plus for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-elden-ring-online-play-solutions-and-tips/"><u>Troubleshooting Elden Ring Online Play: Solutions and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-elevated-cpu-load-in-new-world-update-tips-and-tricks/"><u>Troubleshooting Elevated CPU Load in New World Update: Tips and Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-server-disconnection-issues-in-escape-from-tarkov/"><u>Ultimate Guide: Resolving Server Disconnection Issues in Escape From Tarkov</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-living-large-with-youtube-premium-the-inside-story/"><u>[Updated] In 2024, Living Large with YouTube Premium The Inside Story</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-using-apple-books-to-shop-for-and-read-e-books/"><u>Comprehensive Guide on Using Apple Books to Shop for and Read E-Books</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-among-us-stability-problems-a-comprehensive-troubleshooting-manual/"><u>Conquering Among Us Stability Problems: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deciphering-silent-dungeons-solutions-for-sound-problems-in-skyrim/"><u>Deciphering Silent Dungeons: Solutions for Sound Problems in Skyrim</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ending-early-loops-addressing-stability-issues-in-final-fantasy-xv-for-pc-gamers/"><u>Ending Early Loops: Addressing Stability Issues in Final Fantasy XV for PC Gamers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Gionee F3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y28-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y28 5G Bootloader Easily</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-a79-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on A79 5G without backup.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/transform-your-reddit-presence-with-these-tactics/"><u>Transform Your Reddit Presence with These Tactics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-halo-infinite-resolving-our-data-center-didnt-ping-back-errors/"><u>Troubleshooting Halo Infinite: Resolving ‘Our Data Center Didn’t Ping Back’ Errors</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fallout 4 Black Screen Glitch? Discover Simple Fixes to Get You Back in Action!
-date: 2024-08-27T23:59:35.959Z
-updated: 2024-08-28T23:59:35.959Z
+date: 2024-11-24T03:39:26.480Z
+updated: 2024-11-27T02:47:39.659Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 ## Simple Fixes for Persistent Outriders Game Crashes - Get Back in Action
 
 The Outriders is finally out! However, many players encountered Outriders crashing when they accessed inventory or menu. If you have the same issue, don’t worry, and just try the fixes here to get it solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -40,13 +44,15 @@ Here are the steps:
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  One of the most common causes of game crashes is an outdated or faulty graphics driver. If Outriders keeps crashing your PC, you should check if your graphics driver is up-to-date. If not, definitely update it now.
@@ -66,12 +72,13 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,8 +86,9 @@ There are mainly two ways you can update the graphics driver:
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Adjust the in-game settings
 
  According to Square Enix support, Outriders crashing occurs mostly on the -60 class GPUs, and tweaking the in-game graphics settings would make it run more smoothly. You can try this setup and see how things go.
@@ -89,6 +97,11 @@ There are mainly two ways you can update the graphics driver:
 2. Select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
@@ -103,11 +116,13 @@ There are mainly two ways you can update the graphics driver:
 1. Open Steam and navigate to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
@@ -116,8 +131,9 @@ There are mainly two ways you can update the graphics driver:
 Still no luck with DX12? Then check out the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Verify the integrity of game files
 
  Missing or damaged game files can also ruin your gaming experience. To scan and repair the faulty game files and cache quickly, you can use Steam’s built-in tool.
@@ -127,9 +143,6 @@ Still no luck with DX12? Then check out the next method below.
 2. Right-click**Outriders** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
 Once done, start Outriders and test the game.
@@ -148,8 +161,6 @@ Once done, start Outriders and test the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +168,16 @@ Once done, start Outriders and test the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-innovation-in-display-tech-top-10-of-4k-displays/"><u>[Updated] 2024 Approved Innovation in Display Tech #Top 10 of 4K Displays</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-secret-behind-successful-igtv-uploads-from-h-videos/"><u>[Updated] The Secret Behind Successful IGTV Uploads From H-Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-steps-to-stop-risk-of-rain-2-from-freezing-or-crashing-on-your-pc-and-console/"><u>Comprehensive Steps To Stop Risk of Rain 2 From Freezing or Crashing on Your PC & Console.</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-8-premier-gaming-titles-of-google-play-pass/"><u>Discover the 8 Premier Gaming Titles of Google Play Pass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-fifas-world-rally-championship-10-from-crashing-your-computer-pc-guide/"><u>How to Stop FIFA's World Rally Championship 10 From Crashing Your Computer - PC Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>In 2024, Perfecting the Live Broadcast 4 Tips for FB Enthusiasts</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/movavi-gif-to-jpg/"><u>Movavi에서 원활한 GIF-to-JPG 전환 방법 소개</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-as-disco-elysium-crashes-resolved/"><u>PC Gamers Rejoice as Disco Elysium Crashes Resolved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-glitches-fixing-the-rdr2-errgfxstate-mistake/"><u>Troubleshooting Graphics Glitches: Fixing the RDR2 ERR_GFX_STATE Mistake</u></a></li>
+</ul></div>
 

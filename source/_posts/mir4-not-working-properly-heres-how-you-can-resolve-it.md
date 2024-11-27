@@ -1,7 +1,7 @@
 ---
 title: Mir4 Not Working Properly? Here's How You Can Resolve It
-date: 2024-08-28T00:01:43.466Z
-updated: 2024-08-29T00:01:43.466Z
+date: 2024-11-22T21:59:11.493Z
+updated: 2024-11-27T01:18:54.483Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ae8528ae334175808b74ac01fefc618d6dd771a55
 ## Hyper Scape Not Working On PC? Here's How To Resolve It
 
 While fighting your way in Neo Arcadia to be the winning squad, it’s a bummer if your Hyper Scape keeps crashing for no reason. Don’t worry if you’re experiencing random game crashes, for many players have been reporting the same issue. And the good news is that you can get rid of it easily with the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## System requirements for Hyper Scape
 
@@ -59,19 +63,10 @@ System Requirements for Hyper Scape
 3. Click on this arrow and click on**Verify files** from the drop-down menu.  
 ![Hyper Scape verify game files](https://images.drivereasy.com/wp-content/uploads/2020/09/Verify-game-files.jpg)
 4. It will take about 3-5 minutes to verify your game files. Once complete, try playing Hyper Scape again to test the issue.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify your game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-your-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  If it helps you restore some missing/corrupted game files, you can play the game without any crashing now. But if this fix doesn’t work, don’t worry, for there’re more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Hyper Scape as an administrator
 
  Sometimes you may need to grant administrative rights to Hyper Scape to make sure your game has full rights to do anything it needs to do. Here’s how to run your game as an administrator permanently.
@@ -81,16 +76,15 @@ System Requirements for Hyper Scape
 2. Right-click**Hyperscape** executable file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/Properties.jpg)
 3. Go to the**Compatibility** tab, and check**Run this program as an administrator.** Then click**Apply > OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![run Hyper Scape as admin](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-admin.jpg)
 4. You can also run your game launcher i.e. Uplay as an administrator.  
 ![run uplay as admin](https://images.drivereasy.com/wp-content/uploads/2020/09/Run-Uplay-as-admin.jpg)
 5. Try playing Hyper Scape again to see if the crashes persist.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  If you would like to grant administrative permissions only temporarily, right-click on the desktop icon of the game (or the executable file in the[installation directory](https://support.ubisoft.com/en-US/Faqs/000038997) ) and select**Run as Administrator** .
 
@@ -108,18 +102,20 @@ System Requirements for Hyper Scape
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now.jpg)
 2. Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to update all of your drivers automatically (feel free to try the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with**Full Support** and a**30-day Money-Back Guarantee** . You will be prompted to upgrade when you click Update All).  
 ![update driver scan quickly](https://images.drivereasy.com/wp-content/uploads/2020/09/Update-driver-3.jpg)
 3. Restart your PC after the update is complete.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable background apps
 
  Some apps running in the background may interfere with your games. To check if this is the culprit of your game crashing, here’s how to do it:
@@ -131,9 +127,6 @@ System Requirements for Hyper Scape
 2. Under the**General** tab, choose**Selective startup** , and uncheck**Load startup items** . Then click**Apply** \>**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/start-up-service.jpg)
 3. When you’re prompted to restart your PC. Make sure you’ve saved your files and click**Restart** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/restart.jpg)
 
  Try playing your game and see if Hyper Scape crashing still persists. If the game works fine now, it’s likely a background app is the culprit. But if Hyper Scape keeps crashing, you can move on to[fix 5](https://tools.techidaily.com/drivereasy/download/) .
@@ -145,24 +138,28 @@ System Requirements for Hyper Scape
 1. Press the**Windows** key +**R** at the same time to open the Run box.
 2. Type**msconfig** into the box and hit **Enter** .![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.jpg)
 3. Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![open system configuration](https://images.drivereasy.com/wp-content/uploads/2020/09/system-config.jpg)
 4. Select the **Startup** tab and click **Open Task Manager** .  
 ![task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/Open-task-manager.jpg)
 5. Select each startup item and click**Disable** .  
 ![disable start up](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item.jpg)
 6. Go back to**System Configuration** window, and click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/strat-up-apps.jpg)
 7. Restart your device, and play your game. You can repeat this process (enabling one service/app every time) until you find the problematic one.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Check for Windows updates
 
  Windows releases updates to keep your device running smoothly and securely, so make sure you’ve installed the latest Windows update in case you’ve missed out on some major improvements. Here’s how to do it:
@@ -170,18 +167,16 @@ System Requirements for Hyper Scape
 1. In the Windows Search bar, start typing**check** and select**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/check-for-updates.jpg)
 2. Click the**Check for updates** button. Windows will start checking for available updates and download them if there’re any.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/start-checking.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the download is complete, follow the on-screen instructions to install all the updates.
 
 If your Hyper Scape keeps crashing, you can head to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Lower your graphics settings
 
  There’re a lot of customization options in Hyper Scape, but using the correct game settings can have a surprising impact on your game stability.
@@ -218,9 +213,11 @@ Best graphics settings for Hyper Scape
 1. Right-click your desktop, and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/NVIDIA.jpg)
 2. Go to**3D Settings > Manage 3D setting** on the left pane.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Under the**Global Settings** tab, scroll down to**Vertical sync** . Then click the down arrow, and select**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/vertical-sync.jpg)
 4. Click**Apply** to save the changes.
@@ -242,6 +239,11 @@ Best graphics settings for Hyper Scape
 3. Uninstall the Uplay client from your PC. By default, the uninstall application is located in`C:Program Files (x86)UbisoftUbisoft Game Launcher` .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/Uninstall-Uplay.jpg)
 4. Run this application, and follow the on-screen instructions to complete the uninstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. During the process, you will have the option to decide if you want to uninstall the games as well.
 6. [Download](https://uplay.ubisoft.com/en-GB) the latest version of Uplay.
 7. Run the downloaded file as administrator.
@@ -261,8 +263,6 @@ Best graphics settings for Hyper Scape
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +270,24 @@ Best graphics settings for Hyper Scape
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-comedic-counterpoints-funny-song-flips-for-2024/"><u>[New] Comedic Counterpoints Funny Song Flips for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-action-camera-showdown-2022-gopro-vs-garmin-virb-face-off/"><u>[Updated] In 2024, Action Camera Showdown 2022 GoPro Vs. Garmin VIRB Face-Off</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722179648348-avoid-the-misleading-google-bard-protect-your-device/"><u>Avoid the Misleading Google Bard — Protect Your Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-screen-woes-with-oculus-link-solve-them-in-six-easy-ways/"><u>Black Screen Woes with Oculus Link? Solve Them in Six Easy Ways</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010760799-deathloop-continues-to-crash-follow-these-quick-steps-for-a-stable-gaming-experience-on-pc/"><u>Deathloop Continues to Crash? Follow These Quick Steps for a Stable Gaming Experience on PC.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/finding-the-best-surge-protector-essential-tips-and-tricks/"><u>Finding the Best Surge Protector: Essential Tips and Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-motorola-moto-g13-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Motorola Moto G13 Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-solutions-to-combat-error-6164-ensuring-smooth-play-in-call-of-duty-modern-warfare-and-warzone-series/"><u>Latest Solutions to Combat 'Error #6164': Ensuring Smooth Play in Call of Duty: Modern Warfare & Warzone Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-starting-troubles-in-red-dead-redemption-2-a-comprehensive-guide/"><u>Overcome Starting Troubles in Red Dead Redemption 2 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-persistent-problems-overcoming-pc-issues-in-dread-hunger/"><u>Resolving Persistent Problems: Overcoming PC Issues in Dread Hunger</u></a></li>
+<li><a href="https://fox-search.techidaily.com/synchronisation-von-google-konten-schwierigkeiten-beim-iphone/"><u>Synchronisation Von Google Konten - Schwierigkeiten Beim iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-collection-of-the-mafia-series-gets-official-release-date-announcement/"><u>The Definitive Collection Of The Mafia Series Gets Official Release Date Announcement</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-microsoftblizzard-pact-could-it-be-a-win-win-or-a-risk/"><u>The Microsoft/Blizzard Pact: Could It Be a Win-Win or a Risk?</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-a79-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo A79 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-stop-alan-wake-2-from-crashing/"><u>Ultimate Guide: Stop Alan Wake 2 From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/zero-lag-zone-mastering-high-fps-strategies-in-valorant-a-2024-players-handbook/"><u>Zero-Lag Zone: Mastering High FPS Strategies in Valorant - A 2024 Player’s Handbook</u></a></li>
+</ul></div>
 

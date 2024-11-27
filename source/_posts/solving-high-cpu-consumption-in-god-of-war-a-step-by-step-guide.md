@@ -1,7 +1,7 @@
 ---
 title: "Solving High CPU Consumption in God of War: A Step-by-Step Guide"
-date: 2024-11-13T01:52:05.650Z
-updated: 2024-11-17T02:59:59.235Z
+date: 2024-11-21T20:11:46.271Z
+updated: 2024-11-26T21:15:29.424Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -41,45 +45,16 @@ thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db920
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -125,9 +100,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -149,30 +132,28 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -182,13 +163,6 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -220,18 +194,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mastering-the-art-of-efficient-workflow-capturing-mac-screens-with-just-shortcuts/"><u>[New] In 2024, Mastering the Art of Efficient Workflow Capturing Mac Screens with Just Shortcuts</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-top-5-applications-efficiently-turning-tiktok-into-a-gif/"><u>[New] In 2024, Top 5 Applications Efficiently Turning TikTok Into a GIF</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-how-to-write-dialogue-or-narrative-script/"><u>2024 Approved How to Write Dialogue or Narrative Script</u></a></li>
-<li><a href="https://discover-best.techidaily.com/1726029973699-dvdwindows-10/"><u>DVDの著作権保護を解除してバックアップするフリーソフトで、Windows 10サポート強化</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-canon-pro-100-installation-guide-for-windows-quick-setup-tutorial/"><u>Easy Canon PRO 100 Installation Guide for Windows: Quick Setup Tutorial</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-techniques-to-stop-your-game-of-doom-eternal-from-keep-on-crashing/"><u>Effective Techniques to Stop Your Game of DOOM Eternal From Keep on Crashing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/escape-from-tarkov-patch-fixing-the-persistent-anticheat-failure-problem/"><u>Escape From Tarkov Patch: Fixing the Persistent Anticheat Failure Problem</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-the-art-of-instagrams-visual-storytelling/"><u>In 2024, Mastering the Art of Instagram's Visual Storytelling</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-fixes-to-boost-your-ubisoft-connect-download-speeds/"><u>Quick Fixes to Boost Your Ubisoft Connect Download Speeds</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-remedies-for-improving-your-origins-loading-time-issues/"><u>Quick Remedies for Improving Your Origin's Loading Time Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-mp3-player-reviews-and-picks-guide/"><u>Top Rated MP3 Player Reviews and Picks Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003169530-why-are-my-chrome-pages-not-loading-find-out-and-solve-the-problem-now/"><u>Why Are My Chrome Pages Not Loading? Find Out and Solve the Problem Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-does-rogue-company-keep-freezing-on-your-computer-find-out-here/"><u>Why Does Rogue Company Keep Freezing on Your Computer? Find Out Here!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exclusive-cinematic-introductions/"><u>[Updated] Exclusive Cinematic Introductions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quickcast-your-youtube-selection-playlists-for-2024/"><u>[Updated] Quickcast Your Youtube Selection, Playlists for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-in-depth-look-at-the-gecata-game-capture-tool/"><u>2024 Approved In-Depth Look at the Gecata Game Capture Tool</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211150231-9780008667634-aquarius-2025-your-personal-horoscope/"><u>Aquarius 2025: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-step-by-step-process-for-performing-a-factory-restore-on-your-hp-laptop/"><u>Complete Guide: Step-by-Step Process for Performing a Factory Restore on Your HP Laptop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-warzone-how-to-enable-gpu-usage-in-windows-10/"><u>Fixing Warzone: How to Enable GPU Usage in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-constant-crashes-in-hyper-scape-for-windows-users/"><u>How to Resolve Constant Crashes in Hyper Scape for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-platinum-dust-stutter-issues-the-ultimate-fixes-guide/"><u>How To Solve 'Platinum: Dust' Stutter Issues - The Ultimate Fixes Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-premiere-pro-stability-overcoming-crash-issues-in-windows-1110-environments/"><u>Mastering Premiere Pro Stability: Overcoming Crash Issues in Windows 11/10 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastery-of-stability-easy-steps-to-resolve-glitches-in-apex-legends-game-engine/"><u>Mastery of Stability: Easy Steps to Resolve Glitches in Apex Legends' Game Engine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994750611-starfield-audio-fixes-bid-farewell-to-irritating-interruptions-and-distortions/"><u>Starfield Audio Fixes - Bid Farewell to Irritating Interruptions & Distortions!</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-guide-for-integrating-beats-wireless-with-microsofts-latest-operating-systems/"><u>Step-by-Step Guide for Integrating Beats Wireless with Microsoft's Latest Operating Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-tutorial-to-prevent-and-fix-your-discord-from-freezing-or-crashing/"><u>Step-by-Step Tutorial to Prevent and Fix Your Discord From Freezing or Crashing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-12-free-artificial-intelligence-powered-video-improvement-tools-online-pc-and-mac/"><u>Top 12 Free Artificial Intelligence Powered Video Improvement Tools (Online, PC & MAC)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-incessant-crashing-in-call-of-duty-modern-warfare/"><u>Troubleshoot Incessant Crashing in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-mw3-fixes-for-modern-warfare-3-issues-with-loading-and-performance/"><u>Troubleshooting MW3: Fixes for Modern Warfare 3 Issues with Loading and Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unboxing-the-samsung-galaxy-tab-s5e-expert-reviews-and-comprehensive-specs-breakdown/"><u>Unboxing the Samsung Galaxy Tab S5e - Expert Reviews & Comprehensive Specs Breakdown</u></a></li>
 </ul></div>
 

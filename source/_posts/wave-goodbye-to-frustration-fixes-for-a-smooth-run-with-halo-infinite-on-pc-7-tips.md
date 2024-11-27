@@ -1,7 +1,7 @@
 ---
 title: "Wave Goodbye to Frustration: Fixes for a Smooth Run with Halo Infinite on PC (7 Tips)"
-date: 2024-11-13T21:45:55.693Z
-updated: 2024-11-16T22:10:08.347Z
+date: 2024-11-20T01:48:49.260Z
+updated: 2024-11-27T00:18:22.116Z
 tags:
   - win11
   - win10
@@ -65,10 +65,7 @@ There are two ways you can get the latest correct graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -76,6 +73,10 @@ There are two ways you can get the latest correct graphics driver:
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -111,6 +112,10 @@ If your game crashes again, go ahead with the fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Repair your game files
 
  The_Diablo 3_ crashing is sometimes caused by damaged or missing game files. Try verifying the integrity of your game files to see if that fixes your issue. Here is how to do it:
@@ -120,6 +125,10 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **Diablo 3 > Options > Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click **Begin Scan** .
 
@@ -161,15 +170,16 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-515.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click **Done** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-516.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try launching Diablo 3 again. If the crashing issue persists, move to the next fix, below.
@@ -186,19 +196,6 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
@@ -211,16 +208,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
 
@@ -239,10 +233,7 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
@@ -252,6 +243,10 @@ If your game crashes again, go ahead with the fix below.
  You should be able to play_Diablo 3_ now. If your problem still exists, go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or the Blizzard Battle.net app
 
@@ -268,22 +263,12 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-508.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
@@ -309,13 +294,6 @@ If your game crashes again, go ahead with the fix below.
  If you’re prompted about permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-445.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard Battle.net app.
 
@@ -343,16 +321,24 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-premier-asmr-videography-choices/"><u>[New] In 2024, Premier ASMR Videography Choices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-zeroes-to-heroes-amplifying-your-youtube-following/"><u>[Updated] 2024 Approved From Zeroes to Heroes Amplifying Your Youtube Following</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-embrace-authenticity-your-style-journey-begins-here/"><u>[Updated] In 2024, Embrace Authenticity Your Style Journey Begins Here</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleash-creativity-design-your-own-logos-using-template-assets-free/"><u>[Updated] Unleash Creativity Design Your Own Logos Using Template Assets (Free)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/assassins-creed-odyssey-ultimate-guide-to-eliminating-game-breaking-pc-issues/"><u>Assassin's Creed Odyssey: Ultimate Guide to Eliminating Game-Breaking PC Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-wow-visuals-ultimate-guide-to-solving-low-fps-problems/"><u>Elevate Your WoW Visuals: Ultimate Guide to Solving Low FPS Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-your-origin-app-back-up-and-running-on-pcs-fixes-for-windows-10-11-users/"><u>Getting Your Origin App Back Up and Running on PCs - Fixes for Windows 10-11 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/half-life-alyx-optimization-guide-stop-the-lag-and-frame-drops-now/"><u>Half-Life: Alyx Optimization Guide - Stop the Lag and Frame Drops Now!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-expert-advice-on-embedding-vimeo-content-in-ms-powerpoint/"><u>In 2024, Expert Advice on Embedding Vimeo Content in MS PowerPoint</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-sony-vegas-or-adobe-premiere-pro-which-video-editing-software-is-right-for-you-2023-guide/"><u>In 2024, Sony Vegas or Adobe Premiere Pro Which Video Editing Software Is Right for You? 2023 Guide</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-discovering-the-ultimate-14-stardew-valley-upgrades/"><u>[New] 2024 Approved Discovering the Ultimate 14 Stardew Valley Upgrades</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-elevating-earnings-a-comprerancial-approach-to-video-monetization/"><u>[New] In 2024, Elevating Earnings A Comprerancial Approach to Video Monetization</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebook-video-presentation-boost-adding-bb-and-lc-frameworks/"><u>[Updated] In 2024, Facebook Video Presentation Boost Adding BB and LC Frameworks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-ai-assistants-into-slides-with-s2t/"><u>[Updated] Integrating AI Assistants Into Slides with S2T</u></a></li>
+<li><a href="https://win-answers.techidaily.com/achieve-smoother-gameplay-strategies-to-address-satisfactory-fps-declines/"><u>Achieve Smoother Gameplay: Strategies to Address Satisfactory FPS Declines</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-video-converter-software-compilation-of-the-top-11-picking-for-mac-windows-and-online-use/"><u>Best Free Video Converter Software: Compilation of the Top 11 Picking for MAC, WINDOWS and ONLINE Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-resolving-psychonauts-2-pc-game-crash-issues/"><u>Fixes and Solutions: Resolving Psychonauts 2 PC Game Crash Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ideal-ai-applications-boosting-academic-note-taking/"><u>Ideal AI Applications Boosting Academic Note Taking</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-premiere-pro-fs-view-techniques/"><u>In-Depth Premiere Pro FS View Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-errors-fast-fixes-for-rapid-restart/"><u>League of Legends Errors: Fast Fixes for Rapid Restart</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-freezes-solutions-for-stable-genshin-impact-on-pc/"><u>No More Freezes – Solutions for Stable Genshin Impact on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persona-3-hd-troubleshooting-how-to-overcome-launch-errors/"><u>Persona 3 HD Troubleshooting - How to Overcome Launch Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-cant-launch-valheim-on-startup-issue-for-players-in-202e/"><u>Resolving the 'Can't Launch Valheim on Startup Issue for Players in 202E</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-steams-visual-experience-beat-the-black-screen-glitch-with-these-7-quick-fixes/"><u>Reviving Steam's Visual Experience: Beat the Black Screen Glitch with These 7 Quick Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-pc-based-microphone-problems-in-rec-room-your-ultimate-fix-guide-updated/"><u>Solve PC-Based Microphone Problems in Rec Room: Your Ultimate Fix Guide, Updated !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-persistent-crashes-in-watch-dogs-legion-on-windows-platforms/"><u>Troubleshooting Tips for Persistent Crashes in Watch Dogs: Legion on Windows Platforms</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/us-teachers-can-access-no-cost-ai-tutoring-from-microsoft-and-khan-academy-partnership-discover-more-at-zdnet/"><u>U.S. Teachers Can Access No-Cost AI Tutoring From Microsoft & Khan Academy Partnership | Discover More at ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-winning-tactics-solving-the-perplexing-dev-error-e5573-on-your-gaming-console-and-pc/"><u>Warzone Winning Tactics: Solving the Perplexing Dev Error E5573 on Your Gaming Console and PC</u></a></li>
 </ul></div>
 

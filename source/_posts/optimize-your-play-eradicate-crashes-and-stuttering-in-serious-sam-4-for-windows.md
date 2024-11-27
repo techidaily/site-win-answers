@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Play: Eradicate Crashes and Stuttering in Serious Sam 4 for Windows"
-date: 2024-08-28T00:02:12.188Z
-updated: 2024-08-29T00:02:12.188Z
+date: 2024-11-21T22:48:33.672Z
+updated: 2024-11-26T22:48:29.612Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/b1cba008df1c48de3d3ce1280dbcf873e7a62b2d4
 ## Expert Tips for Seamless Play: How to Fix Your Elden Ring's Lag and Stutter in Just 6 Steps
 
 As one of the most awaited games in 2022, Elden Ring is finally here. However many players are not that happy with their gameplay. Various types of performance issues and technical bugs have been reported since the release. If you’re also experiencing**insufferable Elden Ring FPS drops and constant stuttering** , don’t worry. In this post, we’ve put together all the simple and quick fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -46,6 +50,10 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -60,17 +68,20 @@ To keep your graphics driver up-to-date, here are two options for you:
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -83,7 +94,15 @@ If this method doesn’t work, try the next solution.
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -92,21 +111,16 @@ If this method doesn’t work, try the next solution.
 1. Open Steam and click**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
  Some players also reported that disabling Microsoft Device Association Root Enumerator resolves the stuttering dramatically. Disabling this device may stop some part of the device driver from installing, but your computer will work normally for the most part.
@@ -114,22 +128,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the NVIDIA settings
 
@@ -138,16 +152,10 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Apply the changes and see if you’re able to play the game as expected.
 
 ---
@@ -163,8 +171,6 @@ Restart the game and test. Still no luck? Continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +178,24 @@ Restart the game and test. Still no luck? Continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-master-the-art-of-yt-channel-creation-right-from-your-smartphone/"><u>[New] 2024 Approved Master the Art of YT Channel Creation, Right From Your Smartphone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-invisible-viewers-of-fb-episodes/"><u>[New] In 2024, Invisible Viewers of Fb Episodes</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-quick-click-compilation-top-10-fastest-phone-and-pc-apps/"><u>[New] In 2024, Quick Click Compilation Top 10 Fastest Phone & PC Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/s-rapid-subscription-truly-effective-for-youtube-users-in-2024/"><u>[New] Is Rapid Subscription Truly Effective for YouTube Users, In 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unlock-enhanced-video-playback-and-app-functionality-with-chromes-pip/"><u>[Updated] In 2024, Unlock Enhanced Video Playback and App Functionality with Chrome’s PIP</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-snipping-made-simple-the-top-5-pc-screen-capture-apps-revealed/"><u>[Updated] Pro Snipping Made Simple The Top 5 PC Screen Capture Apps Revealed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adobes-photo-jiggle-decrease-enhancing-or-eliminating/"><u>2024 Approved Adobe's Photo Jiggle Decrease Enhancing or Eliminating?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5-effective-tweaks-to-get-genshin-impact-up-and-running-again/"><u>5 Effective Tweaks to Get Genshin Impact Up and Running Again</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-your-sidekick-crafting-epic-stories-through-chatgpts-aid/"><u>AI Your Sidekick: Crafting Epic Stories Through ChatGPT's Aid</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chrome-lag-solved-boost-browsing-speeds-in-minutes/"><u>Chrome Lag Solved: Boost Browsing Speeds in Minutes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevating-your-gaming-experience-innovative-solutions-to-tackle-wows-frame-rate-hurdles-in-the-new-year/"><u>Elevating Your Gaming Experience: Innovative Solutions to Tackle WoW's Frame Rate Hurdles in the New Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-call-of-duty-warzone-performance-on-windows-11-with-proper-graphics-card-usage/"><u>Enhance Call of Duty: Warzone Performance on Windows 11 with Proper Graphics Card Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-release-delayed-exclusive-insights-and-updates/"><u>Guilty Gear Strive Release Delayed: Exclusive Insights and Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-2-stability-issues-heres-how-to-ensure-smooth-running-on-windows-systems/"><u>House Flipper 2 Stability Issues? Here's How to Ensure Smooth Running on Windows Systems</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-iphone-mastery-complete-guide-to-capturing-podcasts/"><u>In 2024, IPhone Mastery Complete Guide to Capturing Podcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolution-steps-for-a-malfunctioning-discord-camera-feature/"><u>Resolution Steps for a Malfunctioning Discord Camera Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-getting-football-manager-2022-up-and-running-again/"><u>Troubleshooting Steps for Getting Football Manager 2022 Up and Running Again</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Non-Responsive Steam Remote Play Feature
-date: 2024-11-10T09:38:58.523Z
-updated: 2024-11-17T11:57:11.675Z
+date: 2024-11-24T17:29:57.276Z
+updated: 2024-11-26T17:07:12.993Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 5. **[Disable IPv6](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Use a static IP address](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check if your game supports Remote Play
 
  If you’re not sure whether or not the game you’re trying to share supports Steam Remote Play, you can visit**the game’s store page** to double-check it.
@@ -52,22 +45,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your Steam client and games
 
@@ -114,13 +98,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable hardware encoding
 
  Hardware encoding is that it reduces the load on your CPU by using a purpose-built piece of hardware. It’s enabled by default to give you the maximum performance. But there is a possibility that it hinders your Remote Play from functioning properly. So you and your friends should disable it from the Steam client. To do this, follow the instructions below:
@@ -141,6 +118,10 @@ Now try reconnecting your device to check if the issue persists.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Disable IPv6
 
  IPv 6, Internet Protocol version 6, is the most recent version of the Internet Protocol (IP). But it isn’t necessarily more secure than IPv4\. While many users have IPv4 and IPv6 running and allowing traffic on both types of network addresses, some applications might not be able to adapt to IPv6\. And this would cause some connection issues and can be the cause of Steam Remote Play not working. So to fix it, you need to disable IPv6.
@@ -150,10 +131,7 @@ Now try reconnecting your device to check if the issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
@@ -161,21 +139,16 @@ Now try reconnecting your device to check if the issue persists.
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
@@ -193,6 +166,10 @@ To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**ncpa.cpl** and press**Enter** .
 
 ![open network connections window to set a static ip address
@@ -202,20 +179,21 @@ To set a static IP address, you can:
 
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To check them, you can:
 
@@ -223,18 +201,15 @@ To check them, you can:
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/10/open-command-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Copy and paste the following command line and press**Enter** .  
 
 **ipconfig /release**  
 
 ![how to check your ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Copy and paste the following command line and press**Enter** .  
 
@@ -242,22 +217,13 @@ To check them, you can:
 
 ![how to check my ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address-how-to.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you’ve set a static IP address, try connecting to your devices to check if it works.
 
@@ -282,18 +248,24 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-transform-your-profile-into-an-instagram-powerhouse-with-these-verification-insights/"><u>[New] In 2024, Transform Your Profile Into an Instagram Powerhouse with These Verification Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-freedom-in-meditation-tracks/"><u>[Updated] Freedom in Meditation Tracks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-to-debugging-common-heart-of-iron-4-malfunctions/"><u>Comprehensive Guide to Debugging Common Heart of Iron 4 Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discover-improved-performance-with-the-latest-patch-for-new-world-unfreeze-your-adventure-today/"><u>Discover Improved Performance with the Latest Patch for New World: Unfreeze Your Adventure Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-master-wealth-accumulation-like-a-mythical-dragon-tips-for-pc-players/"><u>How to Master Wealth Accumulation Like a Mythical Dragon: Tips for PC Players</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c300-phone-without-google-account-by-drfone-android/"><u>How to Unlock Nokia C300 Phone without Google Account?</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-comprehensive-analysis-bublcams-360-vision/"><u>In 2024, Comprehensive Analysis Bublcam's 360 Vision</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo Reno 8T 5G</u></a></li>
-<li><a href="https://win-answers.techidaily.com/preventing-stardew-valley-pc-gameplay-interruptions-a-comprehensive-guide/"><u>Preventing Stardew Valley PC Gameplay Interruptions: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resident-evil-village-ultimate-fixes-for-mouse-control-glitches-and-errors/"><u>Resident Evil Village - Ultimate Fixes for Mouse Control Glitches and Errors</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-roadmap-to-accessing-costless-frame-videos-for-2024/"><u>The Roadmap to Accessing Costless Frame Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-stable-playthrough-of-baldurs-gate-3-on-pc/"><u>Troubleshooting Tips for Stable Playthrough of Baldur's Gate 3 on PC</u></a></li>
-<li><a href="https://win-guides.techidaily.com/wiederherstellung-verlorener-daten-auf-unzugewiesenen-festplattenpartitionen-mit-myrecover-losungen/"><u>Wiederherstellung Verlorener Daten Auf Unzugewiesenen Festplattenpartitionen Mit MyRecover-Lösungen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-pixelpress-mastering-the-art-of-screen-recording/"><u>[Updated] In 2024, 'PixelPress' Mastering the Art of Screen Recording</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-preserving-your-snapshots-mobile-and-desktop-compatible-for-2024/"><u>[Updated] Preserving Your Snapshots Mobile & Desktop Compatible for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-enhance-your-media-presentation-top-12-players-list/"><u>2024 Approved Enhance Your Media Presentation Top 12 Players List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crack-the-code-decode-todays-nyt-connections-and-discover-june-6th-special-361/"><u>Crack the Code: Decode Today's NYT Connections and Discover June 6Th Special (#361)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-pubgs-stutter-and-hangs-optimize-your-gameplay/"><u>Easy Fixes for PUBG's Stutter & Hangs - Optimize Your Gameplay!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-division-2-crashes-for-good-a-speed-demonstration-of-fixes/"><u>End Division 2 Crashes for Good - A Speed Demonstration of Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-forza-horizon-4-game-crash-issue-on-your-pc/"><u>Fixing the Forza Horizon 4 Game Crash Issue on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/heart-of-iron-4-woes-no-more-expert-tips-on-handling-persistent-crashing-issues/"><u>Heart of Iron 4 Woes No More: Expert Tips on Handling Persistent Crashing Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-80-pro-straight-screen-edition-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 80 Pro Straight Screen Edition Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002623201-how-to-fix-lethal-company-not-launching-2024-tips/"><u>How to Fix Lethal Company Not Launching - 2024 Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-exquisite-top-ten-nintendo-switch-combat-games-max-156/"><u>In 2024, Exquisite Top Ten Nintendo Switch Combat Games (Max 156)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-key-to-rising-roi-in-facebooks-animated-advertising-sector/"><u>In 2024, The Key to Rising ROI in Facebook's Animated Advertising Sector</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instantly-fix-the-repeated-app-crash-issue-step-by-step-guide/"><u>Instantly Fix the Repeated App 'Crash' Issue - Step-by-Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/purifying-audio-from-films-and-movies-cost-effective-methods-for-2024/"><u>Purifying Audio From Films and Movies Cost-Effective Methods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-tackling-frame-rate-dips-and-latency-issues-in-call-of-duty-black-ops-4/"><u>Resolved: Tackling Frame Rate Dips & Latency Issues in Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://fox-within.techidaily.com/soluciones-inmediatas-para-la-perdida-de-ahorros-en-fallout-4-para-pc/"><u>Soluciones Inmediatas Para La Pérdida De Ahorros en Fallout 4 Para PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-tech-tricks-for-a-seamless-fortnite-experience-addressing-pc-freezes-and-glitches/"><u>Top Tech Tricks for a Seamless Fortnite Experience: Addressing PC Freezes and Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012370815-windows-10-users-can-finally-enjoy-civilization-6-without-startup-issues-how-to-get-there/"><u>Windows 10 Users Can Finally Enjoy Civilization 6 Without Startup Issues! How to Get There.</u></a></li>
 </ul></div>
 

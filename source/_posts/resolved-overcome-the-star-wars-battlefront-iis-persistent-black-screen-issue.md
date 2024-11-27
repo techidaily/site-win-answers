@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Overcome the Star Wars Battlefront II's Persistent Black Screen Issue"
-date: 2024-11-15T16:46:28.966Z
-updated: 2024-11-17T02:36:13.745Z
+date: 2024-11-22T19:21:45.274Z
+updated: 2024-11-27T02:56:51.547Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
@@ -122,9 +115,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -136,23 +137,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -173,25 +160,23 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
@@ -203,13 +188,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -227,14 +213,11 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -252,6 +235,10 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
@@ -268,16 +255,13 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **10)**  Relaunch Steam and your game.
 
@@ -348,18 +332,22 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-story-mastery-adjusting-focus-like-a-pro/"><u>2024 Approved Insta Story Mastery Adjusting Focus Like a Pro</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-comprehensive-review-of-vive-cosmos-quietly-dominating-amid-rival-vr-headsets/"><u>A Comprehensive Review of Vive Cosmos: Quietly Dominating Amid Rival VR Headsets</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-generative-ai-models-turning-into-weapons-of-misinformation/"><u>Are Generative AI Models Turning Into Weapons of Misinformation?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-sites-to-watch-your-favourite-music-videos-online-ranked/"><u>Best Sites to Watch Your Favourite Music Videos Online - Ranked</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/create-stunning-youtubes-opening-scenes-for-free-the-ultimate-list-of-10plus-websites/"><u>Create Stunning YouTubes Opening Scenes for Free: The Ultimate List of 10+ Websites</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-broadcom-drivers-for-bluetooth-support-in-windows-11-and-previous-versions/"><u>Download the Latest Broadcom Drivers for Bluetooth Support in Windows 11 & Previous Versions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-constant-mordhau-breakdowns-expert-tips-and-tricks-to-enhance-gaming-experience/"><u>Fixing Constant Mordhau Breakdowns: Expert Tips and Tricks to Enhance Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2021-pc-instability-issues-comprehensive-troubleshooting-guide/"><u>Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-and-enhance-your-vr-experience-addressing-oculus-graphics-drivers-errors/"><u>Resolve and Enhance Your VR Experience: Addressing Oculus Graphics Drivers' Errors</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-burning-movies-to-mac-dvds-for-2024/"><u>Step-by-Step Burning Movies to Mac DVDs for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stop-cod-modern-warfare-from-breaking-down/"><u>Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-your-desktop-into-television-magic-how-to-connect-windows-to-chromecast-easily/"><u>Turning Your Desktop Into Television Magic: How to Connect Windows to Chromecast Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-black-screen-issues-in-rainbow-six-siege-pc-edition/"><u>Ultimate Guide: Resolving Black Screen Issues in Rainbow Six Siege - PC Edition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-art-of-crafting-your-own-top-tier-4k-editing-machine/"><u>[New] 2024 Approved The Art of Crafting Your Own Top-Tier 4K Editing Machine</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/treaming-giants-rivalry-facebook-vs-youtube-and-spaces-for-2024/"><u>[New] Streaming Giants' Rivalry Facebook Vs. YouTube & Spaces for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-prime-fb-extra-tools-enhanced-firefox-version-compatibility/"><u>2024 Approved Prime FB Extra Tools Enhanced Firefox Version Compatibility</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-channel-names-that-capture-attention-for-2024/"><u>Creating Channel Names That Capture Attention for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dota-2-launching-woes-heres-how-to-fix-the-perpetual-loading-screen-issue/"><u>Dota 2 Launching Woes? Here's How To Fix The Perpetual Loading Screen Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-4-and-pc-users-overcome-game-freezes-with-these-simple-solutions/"><u>Fallout 4 & PC Users: Overcome Game Freezes with These Simple Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011768147-fixing-firefoxs-unexpected-shutdowns-solutions-inside/"><u>Fixing Firefox's Unexpected Shutdowns - Solutions Inside</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-ordinary-to-outstanding-unveiling-the-secrets-of-engaging-biographies/"><u>From Ordinary to Outstanding Unveiling the Secrets of Engaging Biographies</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-wont-open-discover-the-best-fixes-and-hacks-for-gamers-in-202e/"><u>League of Legends Won't Open? Discover the Best Fixes and Hacks for Gamers in 202E!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resident-evil-7-dead-space-remake-problems-fixing-troubleshooting-guide-edition/"><u>Resident Evil 7 Dead Space Remake Problems? Fixing Troubleshooting Guide Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-constant-crashes-in-battlefield-5-for-a-smooth-gaming-experience/"><u>Solving Constant Crashes in Battlefield 5 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlocking-viral-potential-with-ai-driven-video-titles-for-2024/"><u>Unlocking Viral Potential with AI-Driven Video Titles for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-image-cropping-in-fcpx-essential-techniques-for-editors-for-2024/"><u>Updated Image Cropping in FCPX Essential Techniques for Editors for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/whats-next-exciting-prospects-for-rainbow-six-siege-players/"><u>What's Next? Exciting Prospects for Rainbow Six Siege Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006223252-wrc-10-gaming-hiccups-solved-a-trouble-free-adventure-through-pcs-terrain/"><u>WRC 10 Gaming Hiccups Solved: A Trouble-Free Adventure Through Pcs Terrain!</u></a></li>
 </ul></div>
 

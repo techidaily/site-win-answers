@@ -1,7 +1,7 @@
 ---
 title: "The Awaited Launch of Immortals: Fenyx Rising – Problem Solved and Game Is Live"
-date: 2024-11-14T11:55:57.823Z
-updated: 2024-11-16T19:56:09.636Z
+date: 2024-11-20T21:27:39.885Z
+updated: 2024-11-26T23:43:06.225Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t need to try them all. Just work your way down until you find the one that solves your problem.
@@ -31,19 +35,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Use dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1 – Rename the exe file
 
@@ -55,6 +46,10 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -65,13 +60,14 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
 
@@ -91,10 +87,7 @@ There are mainly two ways you can do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
@@ -128,42 +121,23 @@ There are mainly two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
@@ -191,14 +165,20 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-understanding-instagrams-video-length-cap/"><u>[Updated] Understanding Instagram's Video Length Cap</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-spotifys-ad-potential-a-complete-guide/"><u>[Updated] Unlocking Spotify's Ad Potential A Complete Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-apex-legends-network-problems-solutions-inside/"><u>Fixing Apex Legends Network Problems: Solutions Inside</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-no-budget-no-problem-the-finest-free-voice-alterer-for-valorant-players/"><u>In 2024, No Budget? No Problem! The Finest Free Voice Alterer for Valorant Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-performance-a-guide-to-resolving-valheims-lagging-issues/"><u>Maximizing Performance: A Guide to Resolving Valheim's Lagging Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722995747712-minecraft-wont-load-master-hacks-to-get-past-persistent-start-up-problems/"><u>Minecraft Won't Load? Master Hacks to Get Past Persistent Start-Up Problems!</u></a></li>
-<li><a href="https://facebook.techidaily.com/speak-like-a-socialite-learn-these-30-trending-acronyms-today/"><u>Speak Like a Socialite: Learn These 30 Trending Acronyms Today</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/superior-search-skills-with-perplexitys-intelligence/"><u>Superior Search Skills with Perplexity's Intelligence</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-addressing-missing-camera-input-in-snap-apps/"><u>Troubleshooting Guide: Addressing Missing Camera Input in Snap Apps</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-easy-entryway-initiating-a-live-discussion-on-instagram/"><u>[New] 2024 Approved Easy Entryway Initiating a Live Discussion on Instagram</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boosting-engagement-interpreting-youtube-video-data/"><u>[New] In 2024, Boosting Engagement Interpreting YouTube Video Data</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-revamping-videography-the-story-of-nikon-1j5s-4k-achievement/"><u>[New] In 2024, Revamping Videography The Story of Nikon 1J5’s 4K Achievement</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-scripted-temporal-displacements-in-film-production/"><u>[Updated] In 2024, Scripted Temporal Displacements in Film Production</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unlocking-the-potential-of-consoles-with-pc-gaming-tech-for-2024/"><u>[Updated] Unlocking the Potential of Consoles with PC Gaming Tech for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-black-screen-issue-at-elden-ring-boot-up-solutions-guide/"><u>Fixing the 'Black Screen' Issue at Elden Ring Boot Up - Solutions Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-iphone-7-plus-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From iPhone 7 Plus Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macpaws-innovative-solution-an-itunes-app-store-substitute-adapting-to-updated-policies/"><u>MacPaw's Innovative Solution: An iTunes App Store Substitute Adapting to Updated Policies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-play-uninterrupted-fixing-the-crashes-of-arcadegeddon/"><u>PC Play Uninterrupted: Fixing the Crashes of Arcadegeddon</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-tips-to-resolve-chrome-stalling-issues-in-windows-10/"><u>Quick Troubleshooting Tips to Resolve Chrome Stalling Issues in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013130884-solve-your-call-of-duty-wwii-screen-glitches-on-pc-with-easy-fixes/"><u>Solve Your Call of Duty: WWII Screen Glitches on PC with Easy Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-vaultron-v-freezing-issues-a-step-by-step-guide/"><u>Solving 'Vaultron V' Freezing Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-alan-wake-2-game-crash-issue-essential-troubleshooting-steps/"><u>Solving the Alan Wake 2 Game Crash Issue: Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/three-tricks-for-transforming-videos-on-iphone-by-merging-melodies-for-2024/"><u>Three Tricks for Transforming Videos on iPhone by Merging Melodies for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/understanding-and-overcoming-challenges-when-your-dhcp-server-is-offline/"><u>Understanding and Overcoming Challenges When Your DHCP Server Is Offline</u></a></li>
 </ul></div>
 

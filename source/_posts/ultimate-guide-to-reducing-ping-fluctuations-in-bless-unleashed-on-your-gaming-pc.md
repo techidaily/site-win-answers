@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Reducing Ping Fluctuations in Bless Unleashed on Your Gaming PC
-date: 2024-08-28T00:01:32.153Z
-updated: 2024-08-29T00:01:32.153Z
+date: 2024-11-23T16:12:07.810Z
+updated: 2024-11-27T00:31:34.251Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 4. **[Switch to DirectX 11](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Adjust the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Install the latest patch
 
  The game developer will keep releasing new patches to fix known bugs after the game is launched. According to[the official](https://steamcommunity.com/app/936790/discussions/1/3040481812840137942/) , the new patched DLC of Life is Strange is live now, and it should resolve the DX12+RTC outfit pack crash. This patch won’t be automatically downloaded, so if you see an update is available, install it right away to see whether that helps with your problem.
@@ -49,9 +53,18 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 1. Launch Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
  Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -61,15 +74,13 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 2. Right-click**Life is Strange: True Colors** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -86,13 +97,11 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Switch to DirectX 11
 
  Players are able to launch Life is Strange True Colors in either DirectX11 or 12\. While playing with DX12 allows you to enjoy the ray-tracing feature, DirectX 11 could be a more stable version and is less likely to cause game crashes. To opt into DX11, take these steps:
@@ -103,19 +112,14 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Adjust the graphics settings
 
  Higher graphics settings usually indicate a better visual experience, but it can be resource-intensive and make your game unstable or even crash. If you don’t have strong hardware capabilities, it’s best to turn down the in-game graphics instead of running it at the maximum settings.
@@ -128,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
 4. You could just set each option to**Low** or**Medium** and click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart the game to test if the new settings have a significant impact on the game performance.
 
 ---
@@ -145,8 +146,6 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +153,19 @@ thumbnail: https://thmb.techidaily.com/b522bd70ce2a83bf8e8f7f86960d2837c426a969d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-digital-immersion-therapy-for-patients/"><u>[New] Digital Immersion Therapy for Patients</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/customizing-your-project-the-essential-guide-to-build-tabs/"><u>Customizing Your Project: The Essential Guide to 'Build' Tabs</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-v30t-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme V30T?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-constant-game-crashes-on-pc-while-playing-valheim/"><u>How to Resolve Constant Game Crashes on PC While Playing Valheim</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-lava-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Lava Through Google Earth?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-peak-players-choice-selecting-the-top-7-fps/"><u>In 2024, Peak Players' Choice Selecting the Top 7 FPS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-vsco-photo-craftsmanship-for-2024/"><u>In-Depth Look at VSCO Photo Craftsmanship for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/insiders-guide-facebook-privacy-lines/"><u>Insider's Guide: Facebook Privacy Lines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-users-struggle-with-ongoing-technical-difficulties-in-arcadegeddon-game/"><u>PC Users Struggle with Ongoing Technical Difficulties in Arcadegeddon Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-gaming-experience-restored-solving-sifus-pc-stutters-and-fps-issues/"><u>Smooth Gaming Experience Restored: Solving Sifu's PC Stutters & FPS Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-r-type-final-2-for-pc-step-by-step-guide-to-stop-crashes/"><u>Troubleshooting R-Type Final 2 for PC: Step-by-Step Guide to Stop Crashes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-apples-latest-additions-to-the-obsolete-catalog-impact-on-consumers-and-legacy-mac-users-zdnet-insights/"><u>Unveiling Apple's Latest Additions to the 'Obsolete' Catalog: Impact on Consumers & Legacy Mac Users | ZDNET Insights</u></a></li>
+</ul></div>
 

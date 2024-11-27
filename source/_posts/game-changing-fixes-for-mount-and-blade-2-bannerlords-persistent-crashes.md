@@ -1,7 +1,7 @@
 ---
 title: "Game-Changing Fixes for Mount & Blade 2: Bannerlord's Persistent Crashes"
-date: 2024-11-15T06:04:33.078Z
-updated: 2024-11-17T06:59:56.199Z
+date: 2024-11-20T21:59:42.785Z
+updated: 2024-11-26T20:32:48.866Z
 tags:
   - win11
   - win10
@@ -65,26 +65,21 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Check your**Display Memory** here.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
@@ -93,6 +88,10 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -142,16 +141,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -160,13 +156,6 @@ OR
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -183,10 +172,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
@@ -197,16 +183,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
 
@@ -241,30 +224,28 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -278,14 +259,11 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **10)**  Relaunch Steam and your game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
 
@@ -354,24 +332,18 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/rafting-success-leading-business-channels-for-professionals/"><u>[New] Crafting Success Leading Business Channels for Professionals</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-essential-techniques-for-efficient-iphone-7-recording-for-2024/"><u>[New] Essential Techniques for Efficient iPhone 7 Recording for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-proven-strategies-for-unveiling-pure-photospace-using-photopea/"><u>[New] In 2024, Proven Strategies for Unveiling Pure Photospace Using Photopea</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-ranking-the-best-ios-devices-tools-to-download-fb-movies-and-tunes/"><u>[Updated] 2024 Approved Ranking the Best iOS Devices' Tools to Download FB Movies & Tunes</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Oppo A18? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-free-virtual-reality-gaming-your-ultimate-guide-for-fixing-steamvr-error-308/"><u>Error-Free Virtual Reality Gaming: Your Ultimate Guide for Fixing SteamVR Error 308</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-overcoming-common-errors-preventing-minecraft-from-starting-up/"><u>Guide to Overcoming Common Errors Preventing Minecraft From Starting Up</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-13t-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi 13T Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-itel-s23plus-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Itel S23+?</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-13t-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi 13T</u></a></li>
-<li><a href="https://win-answers.techidaily.com/issue-resolved-why-the-app-ascent-didnt-go-live/"><u>Issue Resolved: Why the App 'Ascent' Didn't Go Live</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-overcoming-persistent-crash-issues-with-sod-2/"><u>Mastering Stability: Overcoming Persistent Crash Issues with SOD 2</u></a></li>
-<li><a href="https://win-blog.techidaily.com/minecraft-error-resolved-understanding-and-fixing-exit-code-0-issue/"><u>Minecraft Error Resolved: Understanding and Fixing 'Exit Code 0' Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-critical-dev-errors-in-call-of-dutys-modern-warfare-and-warzone/"><u>Resolving Critical Dev Errors in Call of Duty's Modern Warfare and Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/reversing-the-problem-fixing-outlook-when-it-wont-connect/"><u>Reversing the Problem: Fixing Outlook When It Won’t Connect</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-alan-wake-iis-unavailable-status-a-step-by-step-guide/"><u>Solving Alan Wake II's Unavailable Status - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-stabilizing-slime-rancher-gameplay-on-pc-systems/"><u>Step-by-Step Solutions: Stabilizing Slime Rancher Gameplay on PC Systems</u></a></li>
-<li><a href="https://common-error.techidaily.com/successful-fixes-overcoming-oddworld-soulstorms-pc-crash-issues/"><u>Successful Fixes: Overcoming Oddworld: Soulstorm's PC Crash Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/why-is-warno-keep-freezing-or-crashing-on-your-windows-computer/"><u>Why Is Warno Keep Freezing or Crashing on Your Windows Computer?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-income-on-instagram-comprehensive-step-by-step-guide/"><u>[New] In 2024, Income on Instagram Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-amp-up-your-sessions-with-essential-tips-from-zooms-changer-suite/"><u>2024 Approved Amp Up Your Sessions with Essential Tips From Zoom's Changer Suite</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-surveying-with-style-instagrams-polling-protocols-explained/"><u>2024 Approved Surveying with Style Instagram's Polling Protocols Explained</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/buzzfeed-gurus-flashing-with-snapchat/"><u>BuzzFeed Gurus Flashing with Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-effective-strategies-to-stabilize-your-rust-applications/"><u>Crash No More: Effective Strategies to Stabilize Your Rust Applications</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-your-gaming-experience-by-addressing-low-fps-concerns-in-outriders/"><u>Improving Your Gaming Experience by Addressing Low FPS Concerns in Outriders</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/optimize-and-protect-transferring-your-camera-roll-efficiently-to-snapchat/"><u>Optimize and Protect Transferring Your Camera Roll Efficiently to Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-dark-display-issue-on-discord-during-screen-share-sessions/"><u>Resolved: Fixing the Dark Display Issue on Discord During Screen Share Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-issues-with-logitech-gaming-software-not-launching-successfully/"><u>Resolving Issues with Logitech Gaming Software Not Launching Successfully</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210258054-restoring-windows-1011-audio-all-systems-go/"><u>Restoring Windows 10/11 Audio, All Systems Go</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-loading-issues-resolved-a-step-by-step-troubleshooting-guide/"><u>Roblox Loading Issues Resolved: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-overcoming-anticheat-connection-failed-in-escape-from-tarkov/"><u>Step-by-Step Guide: Overcoming 'Anticheat Connection Failed' In Escape From Tarkov</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-when-safari-doesnt-load-pictures-on-iphones-solutions-uncovered/"><u>Troubleshooting: When Safari Doesn't Load Pictures on iPhones – Solutions Uncovered</u></a></li>
 </ul></div>
 

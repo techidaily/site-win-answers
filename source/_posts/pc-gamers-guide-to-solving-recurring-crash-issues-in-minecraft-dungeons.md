@@ -1,7 +1,7 @@
 ---
 title: PC Gamers' Guide to Solving Recurring Crash Issues in Minecraft Dungeons
-date: 2024-11-13T22:15:31.751Z
-updated: 2024-11-17T10:30:38.468Z
+date: 2024-11-25T21:29:20.855Z
+updated: 2024-11-26T21:37:32.181Z
 tags:
   - win11
   - win10
@@ -41,27 +41,25 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -71,19 +69,6 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -136,10 +121,7 @@ If this method doesn’t do the trick, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -147,6 +129,10 @@ If this method doesn’t do the trick, continue to the next fix.
 Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
 
@@ -157,14 +143,15 @@ If not, try the next fix.
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
@@ -172,13 +159,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -204,16 +184,16 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-downloading-facebook-stories-anywhere/"><u>[New] 2024 Approved The Ultimate Guide to Downloading Facebook Stories Anywhere</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-from-novice-to-expert-kinemaster-gs-journey/"><u>[New] From Novice to Expert KineMaster GS Journey</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-error-code-6-diver-warzonemodern-warfare-on-pc/"><u>[SOLVED] Error Code 6 Diver Warzone/Modern Warfare On PC</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-structuring-tutorials-for-clarity-on-youtube/"><u>[Updated] 2024 Approved Structuring Tutorials for Clarity on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-mastering-iphones-mirror-images-in-photos-for-2024/"><u>[Updated] Mastering iPhone's Mirror Images in Photos for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-complete-breakdown-inside-google-podcasts-application/"><u>2024 Approved Complete Breakdown Inside Google Podcasts Application</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/futureproofing-your-home-with-premium-cordless-phones-of-2024-what-to-buy-now/"><u>Futureproofing Your Home with Premium Cordless Phones of 2024: What to Buy Now</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-the-ultimate-combo-for-your-yi-4k-adventures/"><u>In 2024, The Ultimate Combo for Your YI 4K Adventures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-steps-why-is-blender-crashing-on-my-pc-how-to-make-it-stop/"><u>Solution Steps: Why Is Blender Crashing on My PC? How to Make It Stop?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-the-secrets-expert-tips-to-launch-dead-space-remake-successfully/"><u>Unlocking the Secrets: Expert Tips to Launch Dead Space Remake Successfully</u></a></li>
-<li><a href="https://win-answers.techidaily.com/windows-10-users-handbook-turning-on-hyper-v-virtualization-technology/"><u>Windows 10 User's Handbook: Turning On Hyper-V Virtualization Technology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-boost-your-photo-workflow-in-windows-11/"><u>[New] Boost Your Photo Workflow in Windows 11</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-disableremove-youtube-shorts-permanently2-for-2024/"><u>[Updated] How to Disable/Remove YouTube Shorts Permanently?2 For 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ultra-30-action-camera-by-garmin-detailed-reviews-and-features-for-2024/"><u>[Updated] Ultra 30 Action Camera by Garmin – Detailed Reviews & Features for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/achieve-crystal-clear-viewing-masterful-picture-settings-on-top-tier-4k-tvs-from-renowned-manufacturers/"><u>Achieve Crystal Clear Viewing: Masterful Picture Settings on Top-Tier 4K TVs From Renowned Manufacturers</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-value-in-1440p-selecting-the-perfect-gaming-screen-for-your-funds/"><u>Best Value in 1440P: Selecting the Perfect Gaming Screen for Your Funds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dolby-atmos-woes-heres-how-to-get-it-running-smoothly-on-your-windows-device/"><u>Dolby Atmos Woes? Here's How to Get It Running Smoothly on Your Windows Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-nba-2k23-game-from-crashing-on-pc-proven-fix-1-7/"><u>How to Stop Your NBA 2K23 Game From Crashing on PC: Proven Fix #1-7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-your-battle-royale-woes-what-to-do-if-warzone-wont-launch/"><u>Resolving Your Battle Royale Woes: What To Do If Warzone Won't Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-solving-steam-connection-disruption-the-end-of-steam-client-communication-failure/"><u>Success Story: Solving Steam Connection Disruption - The End of 'Steam Client Communication Failure'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-why-cant-i-play-call-of-duty-modern-warfare-on-my-pc/"><u>Troubleshooting Guide: Why Can't I Play Call of Duty Modern Warfare on My PC ?</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-10t-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme 10T 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

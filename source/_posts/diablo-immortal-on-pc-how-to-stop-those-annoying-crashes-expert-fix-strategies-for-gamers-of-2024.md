@@ -1,7 +1,7 @@
 ---
 title: "Diablo Immortal on PC: How to Stop Those Annoying Crashes - Expert Fix Strategies for Gamers of 2024"
-date: 2024-11-15T13:39:28.341Z
-updated: 2024-11-16T18:19:39.309Z
+date: 2024-11-26T00:06:06.281Z
+updated: 2024-11-26T18:50:56.998Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 5. **[Adjust the proxy settings](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
 6. **[Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: End unwanted background programs
 
  Lags might occur if you’re running multiple applications on your computer, hogging network resources. If that’s the case for you, follow the instructions below to check for and turn off them:
@@ -48,28 +52,23 @@ Delays and lags in-game are no doubt ruining the fun of the game. If that’s a 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After you close unwanted programs, restart your game to test your problem. If your problem still exists, try[**fix 2**](https://tools.techidaily.com/drivereasy/download/) , below.
 
@@ -111,6 +110,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-45-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Right-click the driver and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2020-11-10_17-46-28.jpg)
@@ -135,25 +138,11 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -173,27 +162,21 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-328.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Modify the video settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-329.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Click **APPLY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-330.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch your game to test your problem. If your issue persists, try the next fix.
 
@@ -204,13 +187,6 @@ If not, don’t worry. There are still 5 more fixes to try.
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -243,10 +219,7 @@ If not, don’t worry. There are still 5 more fixes to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click the **Connections tab** , and then click **LAN settings** .
@@ -258,6 +231,10 @@ If not, don’t worry. There are still 5 more fixes to try.
  If you lose your network connections after click OK, return to the LAN Settings window to re-enable the automatic detection setting.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-776.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch your game to see if this fixed your problem. If Dota 2 still lags while you’re gaming, check the fix below.
 
@@ -285,6 +262,10 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
@@ -294,16 +275,7 @@ If not, don’t worry. There are still 5 more fixes to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-781.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)**  Click **OK** .
@@ -336,15 +308,20 @@ If not, don’t worry. There are still 5 more fixes to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-turn-a-minute-into-millions-maximizing-viewership-for-youtubers/"><u>[New] In 2024, How to Turn a Minute Into Millions Maximizing Viewership for YouTubers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nubia-red-magic-8s-proplus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nubia Red Magic 8S Pro+ FRP Locks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-back-to-vr-gaming-swift-solutions-for-steamvr-malfunctions/"><u>Get Back to VR Gaming: Swift Solutions for SteamVR Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-star-wars-jedi-fallen-order-not-starting-properly/"><u>Overcoming the Challenge of Star Wars Jedi: Fallen Order Not Starting Properly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successful-techniques-for-stabilizing-and-boosting-game-frames-per-second/"><u>Successful Techniques for Stabilizing and Boosting Game Frames Per Second</u></a></li>
-<li><a href="https://article-posts.techidaily.com/symphony-in-your-pocket-classic-tones-at-a-click-for-2024/"><u>Symphony in Your Pocket Classic Tones at a Click for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-hub-comprehensive-guide-and-reviews/"><u>Tom's Tech Hub - Comprehensive Guide and Reviews</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlock-multilingual-potential-with-advanced-chatgptplus-tech/"><u>Unlock Multilingual Potential with Advanced ChatGPT+ Tech</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-audio-editing-essentials-2-ways-to-fade-in-and-out-in-fcp/"><u>Updated Audio Editing Essentials 2 Ways to Fade In and Out in FCP</u></a></li>
-<li><a href="https://win-answers.techidaily.com/winning-over-crashes-avoid-maplestory-problems-in-windows-11-with-these-new-strategies/"><u>Winning Over Crashes: Avoid MapleStory Problems in Windows 11 with These New Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-premier-ranking-comprehensive-8k-tv-analysis/"><u>[New] 2024 Approved The Premier Ranking Comprehensive 8K TV Analysis</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-stand-out-in-a-sea-of-content-our-offer-includes-50-free-banners/"><u>[Updated] 2024 Approved Stand Out in a Sea of Content - Our Offer Includes 50 Free Banners</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-initial-movie-capture-evaluation-with-options/"><u>[Updated] In 2024, Initial Movie Capture Evaluation with Options</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-lg-vr-headgear-review-complete-immersion-unlocked/"><u>2024 Approved LG VR Headgear Review Complete Immersion Unlocked</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/el-building-gear-a-quick-start-guide-for-2024/"><u>Channel-Building Gear A Quick Start Guide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-issues-in-mass-effect-legendary-edition-a-comprehensive-guide/"><u>How to Overcome Launch Issues in Mass Effect Legendary Edition: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-steam-from-stalling-resolving-halted-gaming-sessions/"><u>How to Stop Steam From Stalling - Resolving Halted Gaming Sessions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-13-pro-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-through-mw3s-challenges-tackling-dev-error-e6068-this-year/"><u>Navigating Through MW3's Challenges: Tackling Dev Error E6068 This Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/obs-microphone-not-working-here-are-the-6-best-fixes-in-202amoji/"><u>OBS Microphone Not Working? Here Are the 6 Best Fixes in 202Amoji</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-days-gone-stability-issues-for-a-smoother-playthrough-tips-and-tricks/"><u>Solving 'Days Gone' Stability Issues for a Smoother Playthrough - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-guide-to-fixing-a-frozen-firefox-browser-updated/"><u>The Definitive Guide to Fixing a Frozen Firefox Browser, Updated</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-solution-for-preventing-microsoft-edge-from-crashes-on-your-windows-11-pc/"><u>The Ultimate Solution for Preventing Microsoft Edge From Crashes on Your Windows 11 PC</u></a></li>
 </ul></div>
 

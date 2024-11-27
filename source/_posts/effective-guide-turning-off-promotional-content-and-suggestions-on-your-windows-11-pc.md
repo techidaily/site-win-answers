@@ -1,7 +1,7 @@
 ---
 title: "Effective Guide: Turning Off Promotional Content & Suggestions on Your Windows 11 PC"
-date: 2024-08-27T23:54:02.177Z
-updated: 2024-08-28T23:54:02.177Z
+date: 2024-11-22T22:30:07.368Z
+updated: 2024-11-26T22:47:08.520Z
 tags:
   - windows
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 ---
 
 ## Effective Guide: Turning Off Promotional Content & Suggestions on Your Windows 11 PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
  Have you recently upgraded to Windows 11 and been bothered by unwanted ads and suggestions? Despite Microsoft's claim that these ads improve the user experience, they can become overwhelming. Fortunately, you can easily disable them. Let's take a look at how you can do that.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Do You See So Many Ads in Windows 11?
 
  Microsoft is known to show advertisements in specific areas of its operating systems, like the Start menu, lock screen, File Explorer, or within certain apps. With Windows 11, the frequency of these ads has increased, aligning with the [addition of more personalized features](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) by Microsoft. But why does the company show these ads?
@@ -49,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![Uninstalling a pinned app from the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-uninstalling-a-pinned-app-from-the-start-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Repeat these steps to remove all suggested apps in the Start menu that you don't plan to install or use.
 
  You may find some installed apps pinned here, so be sure not to uninstall them. The context menu of installed apps displays options such as app settings, uninstall, and more. This is how you can distinguish them from suggested ones.
@@ -64,20 +66,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  In the Folder Options window, go to the "View" tab and uncheck the box beside "Show Sync Provider Notifications." After that, click "Apply" and then click "OK."
 
 ![Disabling the sync provider notifications in the Folder Options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-disabling-the-sync-provider-notifications-in-the-folder-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tweak Diagnostic Data Settings
 
  To enhance the stability and performance of your computer, Microsoft collects diagnostic data about the issues you face and your interactions with the operating system. The company uses this information to fix the problems in upcoming Windows updates. This ensures your system operates securely and smoothly.
@@ -93,8 +85,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Disabling ads recommendations for tailored experiences in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-ads-recommendations-for-tailored-experiences-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Tweak Device Usage Permissions
 
  Microsoft allows you to specify how you intend to use your device, with use cases spanning business, entertainment, creativity, gaming, and more. Depending on your preferences, it tailors ads and recommendations to improve your overall experience. 
@@ -107,6 +100,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Disabling all device usage permissions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-disabling-all-device-usage-permissions-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Disable Ads From the Lock Screen
 
  Even the Windows lock screen isn't immune to ads and recommendations from Microsoft. When using the Windows spotlight feature that displays new background images on the lock screen, Windows doesn't allow you to disable them. To declutter your lock screen, you'll need to turn off the Windows spotlight feature entirely.
@@ -116,11 +113,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Disabling Windows spotlight and lock screen recommendations in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-disabling-windows-spotlight-and-lock-screen-recommendations-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Remove Recommendations From Windows Search
 
  If you frequently use Windows Search to look for apps and files, you've likely encountered recommended games, recipes, popular videos, and more in the left sidebar of the Search menu. These content suggestions can be bothersome. To disable them, open the Settings app and navigate to Privacy and Security > Search Permissions.
@@ -128,15 +127,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Opening the search permissions settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-opening-the-search-permissions-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Scroll down and uncheck the box below "Show Search Highlights." Then, close the Settings app to allow the changes to take effect, and the search box will now be clutter-free.
 
 ![Disabling the search highlights in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-disabling-the-search-highlights-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Disable General Windows Permissions
 
  Several default Windows permissions favor more advertising. Disable them to stop seeing ads you encounter from other apps and within the Settings app. To do so, open the Settings app and navigate to Privacy and Security > General.
@@ -157,8 +158,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +165,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-digital-archivists-toolkit-downloading-videos-from-messenger/"><u>[Updated] The Digital Archivist's Toolkit Downloading Videos From Messenger</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-decode-the-digital-dollar-with-youtube-an-effective-triple-step-method-for-income-analysis/"><u>2024 Approved Decode the Digital Dollar with YouTube An Effective Triple Step Method for Income Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-nvidia-quadro-driver-latest-version-compatible-with-windows-10/"><u>Download Nvidia Quadro Driver Latest Version Compatible with Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-it-the-ultimate-guide-to-solving-your-iphones-camera-glitches-top-7-causes-unveiled/"><u>Fix It! The Ultimate Guide to Solving Your iPhone's Camera Glitches - Top 7 Causes Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-roblox-pc-issues-fast-top-6-solutions-for-uninterrupted-gaming/"><u>Fix Roblox PC Issues Fast: Top 6 Solutions for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-fluidity-of-play-tips-to-combat-lag-and-boost-fps-on-watch-dogs-legion/"><u>Maximize Fluidity of Play - Tips to Combat Lag and Boost FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximizing-playtime-effective-strategies-to-upgrade-your-xboxs-performance/"><u>Maximizing Playtime: Effective Strategies to Upgrade Your Xbox's Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-system-settings-to-stop-crashes-in-total-war-raven-gear-pc-gameplay/"><u>Optimizing System Settings to Stop Crashes in Total War: RAVEN GEAR - PC Gameplay</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-anker-super-bright-flashlight-ultimate-guide-to-a-rugged-high-lumen-outdoor-light/"><u>Top Anker Super Bright Flashlight: Ultimate Guide to a Rugged, High-Lumen Outdoor Light</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-apple-offers-during-prime-day-sale/"><u>Top Apple Offers During Prime Day Sale</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-stop-dota-2-from-keeping-you-down/"><u>Troubleshooting Guide: Stop Dota 2 From Keeping You Down!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-your-ds4-isnt-working-with-windows-and-what-to-do-next/"><u>Troubleshooting: Why Your DS4 Isn't Working With Windows and What To Do Next</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y78 5G? | Dr.fone</u></a></li>
+</ul></div>
 

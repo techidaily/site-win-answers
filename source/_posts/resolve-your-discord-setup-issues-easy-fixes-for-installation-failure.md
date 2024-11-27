@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your Discord Setup Issues: Easy Fixes for 'Installation Failure'"
-date: 2024-08-27T23:58:28.264Z
-updated: 2024-08-28T23:58:28.264Z
+date: 2024-11-22T19:24:26.888Z
+updated: 2024-11-27T03:15:50.534Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/b5542e5d478c6dd2b37aeafac45234590634d7908
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall Fortnite in your computer
 
  Since many technical problems can be resolved by restarting, it never hurts to**restart your device** , then open Fortnite again to see if it fixes the Fortnite not loading problem.
@@ -45,9 +49,6 @@ thumbnail: https://thmb.techidaily.com/b5542e5d478c6dd2b37aeafac45234590634d7908
 
  If your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 2: Set your graphics settings to Low
 
  If your game settings is set High, it’s possible that your Fortnite is not loading, since the graphics settings are too much to load for your computer. So you should set your Fortnite graphics settings to Low.
@@ -67,13 +68,11 @@ To do so, follow these steps:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated drivers in your computer can cause Fortnite won’t load, especially your graphics card driver and your network adapter driver. So you should verify that your graphics card drivers are up to date.
@@ -92,11 +91,17 @@ To do so, follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
@@ -111,6 +116,11 @@ Still no luck? Okay, there’s something else to try.
 2. Right click on the**Fortnite executable** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
@@ -129,15 +139,22 @@ Below lists out some PC settings you can configure:
 2. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
 #### 2\. Adjust settings in System Properties
@@ -148,24 +165,12 @@ Below lists out some PC settings you can configure:
 2. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
 
@@ -184,8 +189,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +196,19 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-premium-vector-image-hubs-ranked-1-to-10/"><u>[New] Premium Vector Image Hubs Ranked #1 to #10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-stellaris-crash/"><u>[SOLVED] How to Fix Stellaris Crash?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-stuck-boot-up-screen-on-madden-22-effective-fixes-explored/"><u>Bypassing the Stuck Boot-Up Screen on Madden 22: Effective Fixes Explored</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/complete-guide-to-retrieving-deleted-items-in-windows-11-using-ifind-data-restoration-tool/"><u>Complete Guide to Retrieving Deleted Items in Windows 11 Using IFind Data Restoration Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/critical-breakdown-troubleshooting-the-atomic-heart-issue-during-system-boot/"><u>Critical Breakdown: Troubleshooting the 'Atomic Heart' Issue During System Boot</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-hurdle-of-stuck-boot-in-dota-2-a-step-by-step-guide/"><u>Fixing the Hurdle of Stuck Boot in Dota 2 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-10-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-motorola-razr-40-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Motorola Razr 40 Device</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-sony-vegas-audio-editor-a-step-by-step-tutorial-for-professionals/"><u>New 2024 Approved Sony Vegas Audio Editor A Step-by-Step Tutorial for Professionals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004679950-solve-your-diablo-4-pcps5xbox-crash-issues-with-these-7-fixes/"><u>Solve Your Diablo 4 PC/PS5/Xbox Crash Issues with These 7 Fixes!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-realme-c55-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Realme C55 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/winning-the-battle-against-excessive-msmpengexe-cpu-drainage-in-windows-10-your-step-by-step-solution/"><u>Winning the Battle Against Excessive MsMpEng.exe CPU Drainage in Windows 10 - Your Step-by-Step Solution</u></a></li>
+</ul></div>
 

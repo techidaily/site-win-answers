@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing and Resolving Frostpunk Crashes Effectively"
-date: 2024-11-09T18:33:13.972Z
-updated: 2024-11-16T21:02:29.282Z
+date: 2024-11-23T23:02:07.300Z
+updated: 2024-11-26T22:51:33.659Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 5. **[Run the game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Game issues, including crashes, freezing, or lag, are often caused by outdated or corrupted graphics drivers. Keeping your graphics driver up to date is a critical step. There are two ways you can get the correct graphics driver:
@@ -49,18 +53,15 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-56-17-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -83,20 +84,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-25-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable your antivirus temporarily
@@ -117,22 +108,23 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-35-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Risk of Rain 2** and select**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run your game in compatibility mode
 
@@ -147,6 +139,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
@@ -165,10 +161,7 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
@@ -176,10 +169,7 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-48-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
@@ -194,13 +184,6 @@ If your problem still exists, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-52-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the**Steam icon** and select**Open file location** .
@@ -210,13 +193,6 @@ If your problem still exists, go ahead with the fix below.
 **8)** Move the backup**steamapps** folder you created before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
 
@@ -241,21 +217,24 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixed-overcome-constant-freezing-errors-while-playing-ghostwire-tokyo-for-pc-users/"><u>[Fixed] Overcome Constant Freezing Errors While Playing Ghostwire: Tokyo for PC Users!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-choreograph-cheeky-comics-via-giphy/"><u>[New] Choreograph Cheeky Comics via Giphy</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-finest-picks-top-8-web-sites-with-rich-3d-and-gold-lined-texts/"><u>[New] The Finest Picks Top 8 Web Sites with Rich 3D & Gold-Lined Texts</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-breakdown-of-youtubes-monetization-update/"><u>2024 Approved Breakdown of YouTube's Monetization Update</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/budget-friendly-video-doorbells-why-the-iseebell-stands-out-for-less-than-50/"><u>Budget-Friendly Video Doorbells - Why the ISeeBell Stands Out for Less Than $50</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-correct-life-threatening-programming-mistakes-in-modern-warfarewarzone/"><u>Expert Tips to Correct Life-Threatening Programming Mistakes in Modern Warfare/Warzone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-gaming-eliminating-crashes-in-halo-infinite-on-pc/"><u>How to Ensure Smooth Gaming: Eliminating Crashes in Halo Infinite on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-freezing-issues-for-smooth-borderlands-3-gaming-experience/"><u>How to Overcome Freezing Issues for Smooth Borderlands 3 Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-chrome-browsing-hiccups-when-pages-fail-to-load/"><u>How to Resolve Chrome Browsing Hiccups When Pages Fail to Load</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/huge-savings-discover-the-ultimate-surround-sound-system-now-50-off-exclusive-insight/"><u>Huge Savings! Discover the Ultimate Surround Sound System Now 50% Off - Exclusive Insight</u></a></li>
-<li><a href="https://win-answers.techidaily.com/improved-clarity-in-outriders-visual-experience-fixes/"><u>Improved Clarity in Outriders' Visual Experience Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/kofxv-pc-compatibility-issues-solved/"><u>KOFXV PC Compatibility Issues - Solved</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-blaze-2-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Blaze 2 5G Screen | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-made-simple-resolving-issues-with-your-mac-camera/"><u>Troubleshooting Made Simple: Resolving Issues with Your Mac Camera</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-c210-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia C210 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-complete-kinetics-exploration/"><u>[New] 2024 Approved Complete Kinetics Exploration</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-a-closer-look-at-earnings-comparing-dailymotion-and-youtube-revenues/"><u>[New] A Closer Look at Earnings Comparing Dailymotion and YouTube Revenues</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exclusive-list-the-top-10-camcorders-for-2ranking/"><u>[New] Exclusive List The Top 10 Camcorders for 2Ranking</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-spotlight-on-8-trusted-youtube-growth-services/"><u>[New] In 2024, Spotlight on 8 Trusted Youtube Growth Services</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-the-ultimate-playbook-navigating-tools-for-vimeo-content-grabs/"><u>[New] In 2024, The Ultimate Playbook Navigating Tools for Vimeo Content Grabs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-to-improve-your-gopros-power-sustainability/"><u>[Updated] Tips to Improve Your GoPro's Power Sustainability</u></a></li>
+<li><a href="https://fake-location.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/convert-your-records-seamlessly-meet-the-at-lp120xusb/"><u>Convert Your Records Seamlessly - Meet the AT-LP120XUSB</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-correct-the-detected-graphics-driver-issues-in-oculus-devices/"><u>Easy Steps to Correct the Detected Graphics Driver Issues in Oculus Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-your-dayz-experience-immediate-fixes-for-framerate-drops-and-tips/"><u>Elevate Your DayZ Experience - Immediate Fixes for Framerate Drops & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-unlocking-the-solution-for-rzae-synapse-app-not-opening/"><u>Expert Advice: Unlocking the Solution for Rzae Synapse App Not Opening</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-continuous-crashes-in-the-insurgency-sandstorm-update/"><u>How to Fix Continuous Crashes in the Insurgency: Sandstorm Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-insights-choosing-the-right-tool-to-fix-corrupted-jpeg-pictures-flawlessly/"><u>Professional Insights: Choosing the Right Tool to Fix Corrupted JPEG Pictures Flawlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-dilemma-top-7-simple-solutions-to-unfreeze-halo-infinite-on-your-computer/"><u>Solving the Dilemma: Top 7 Simple Solutions to Unfreeze Halo Infinite on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steamvr-e-308-expert-strategies-to-overcome-the-common-virtual-reality-setback/"><u>SteamVR E-308: Expert Strategies to Overcome the Common Virtual Reality Setback</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-restoring-functionality-to-a-broken-hp-screen/"><u>Success Story: Restoring Functionality to a Broken HP Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixes-for-total-war-three-kingdoms-crash-dilemma/"><u>Troubleshooting and Fixes for Total War: Three Kingdoms Crash Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-preventing-gas-station-simulator-from-pc-failures/"><u>Troubleshooting Guide: Preventing Gas Station Simulator From PC Failures</u></a></li>
 </ul></div>
 

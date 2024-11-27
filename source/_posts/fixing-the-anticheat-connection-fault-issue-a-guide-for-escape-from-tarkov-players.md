@@ -1,7 +1,7 @@
 ---
 title: Fixing the Anticheat Connection Fault Issue - A Guide for Escape From Tarkov Players
-date: 2024-08-28T00:01:01.479Z
-updated: 2024-08-29T00:01:01.479Z
+date: 2024-11-20T19:39:40.336Z
+updated: 2024-11-26T22:12:25.693Z
 tags:
   - win11
   - win10
@@ -38,15 +38,20 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if the game runs normally now. If not, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of your game files
 
  Star Wars Squadrons crashing may be caused by missing or corrupted game files. So an integrity check is necessary at the very start. We’ll show you how to do this both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -73,18 +78,20 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  Game crashes are usually driver-related and can indicate a wrong, faulty or outdated graphics driver. To keep Star Wars Squadrons running smoothly and boost the game’s performance, you should update your graphics driver to the latest.
@@ -102,17 +109,15 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -128,17 +133,21 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On Origin
 
@@ -148,16 +157,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1200x625.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**settings icon** and click**Game Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
@@ -174,14 +177,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the graphics settings
 
  Improper settings of Star Wars Squadrons can trigger unexpected crashing, especially if the setup is too demanding for your machine. By adjusting the settings appropriately, you can reduce the number of crashes and the game will still look beautiful. Here’s how:
@@ -200,15 +197,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall the game
 
  Reinstalling always sounds troublesome, but it’s a solid fix for stubborn gaming problems. After you uninstall the game, make sure to**delete all the related game files** . Then, download the latest version of Star Wars Squadrons and it should be working without any issues.
@@ -225,8 +227,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +234,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/updated-crafting-a-compelling-video-story-with-b-roll-variety/"><u>[Updated] Crafting a Compelling Video Story with B-Roll Variety</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-leading-gaming-machines-of-2-gaming-console-showdown-the-2024-elite-picks/"><u>Discover the Leading Gaming Machines of 2# Gaming Console Showdown: The 2024 Elite Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eradicate-your-wow-connection-lags-with-ease-and-speed/"><u>Eradicate Your WoW Connection Lags with Ease & Speed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-problems-of-your-malfunctioning-paradox-game-launcher/"><u>Fixing the Problems of Your Malfunctioning Paradox Game Launcher</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-hp-officejet-465-printer-drivers-install-now-on-windows-pcs/"><u>Free HP OfficeJet 465 Printer Drivers - Install Now on Windows PCs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-know-if-someone-blocked-you-on-snapchat/"><u>How to Know if Someone Blocked You on Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-sudden-shutdowns-keeping-xcom-2-running-smoothly-in-windows/"><u>How to Resolve Sudden Shutdowns: Keeping XCOM 2 Running Smoothly in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fixes-for-starting-your-doom-eternal-game/"><u>Master the Fixes for Starting Your DOOM Eternal Game</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/missed-out-on-your-chatgpt-talks-heres-how-you-can-get-them-back/"><u>Missed Out on Your ChatGPT Talks? Here's How You Can Get Them Back!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-11-techniques-for-perfecting-color-in-post-production-for-2024/"><u>Top 11 Techniques for Perfecting Color in Post-Production for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-atomic-heart-crashes-on-system-boot-up-a-detailed-guide/"><u>Troubleshooting Atomic Heart Crashes on System Boot-Up - A Detailed Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-common-issues-how-to-get-new-dvds-working-on-your-player/"><u>Troubleshooting Common Issues: How To Get New DVDs Working On Your Player</u></a></li>
+</ul></div>
 

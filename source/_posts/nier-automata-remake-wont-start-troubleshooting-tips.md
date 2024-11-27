@@ -1,7 +1,7 @@
 ---
 title: "NieR: Automata Remake Won't Start - Troubleshooting Tips"
-date: 2024-08-27T23:59:57.039Z
-updated: 2024-08-28T23:59:57.039Z
+date: 2024-11-19T16:21:15.063Z
+updated: 2024-11-27T00:49:52.910Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
  If your problem still exists after the reboot, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run the game as an administrator
 
  If you’re running_Crusader Kings 2_ on a standard user account, the game might not be able to access all the game files and folders. To see if that’s the problem for you, try running the game as an administrator to give it high integrity access. Here is how to do it:
@@ -49,6 +46,10 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-51-56.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Compatibility tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-52-12.jpg)
@@ -57,9 +58,6 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-52-21-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-12-35.jpg)
@@ -68,39 +66,22 @@ Having trouble launching**_Crusader Kings 2 (CK2)_** on your PC? You’re not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-11-15.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)**  Click the **Compatibility tab** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_11-57-25.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **8)**  Check the box next to **Run this program as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-14-41-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **9)** Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-14-41-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 **10)** Relaunch**Crusader Kings 2** test your issue.
 
 If your problem still exists, try the fix below.
@@ -115,6 +96,10 @@ If your problem still exists, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Crusader Kings 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-42.jpg)
@@ -124,24 +109,13 @@ If your problem still exists, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-20-58.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Relaunch your game to test your issue.
 
 If your game still won’t launch, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  This issue is likely to occur if you’re using the wrong graphics driver or it’s out of date. So, you should update your graphics driver to see if it fixes your issue. There are two ways you can do this:
@@ -169,16 +143,10 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -195,16 +163,25 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Crusader Kings II** , then click**Manage> Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-40-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_14-33-24-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** On your keyboard, press the**Windows logo key** and**E** at the same time.
 
@@ -214,9 +191,17 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_15-19-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Delete the**Crusader Kings II folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_15-22-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Download and reinstall the game from Steam.
 
@@ -232,9 +217,6 @@ If your game still won’t launch, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-05-24.jpg)
@@ -255,8 +237,6 @@ If your game still won’t launch, then go ahead with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +244,24 @@ If your game still won’t launch, then go ahead with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-choose-your-arena-top-platforms-without-cross-play-in-apex-legends/"><u>[New] In 2024, Choose Your Arena Top Platforms Without Cross-Play in Apex Legends</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>[New] Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-baldurs-gate-3-pc-instability-step-by-step-guide/"><u>Fix Baldur's Gate 3 PC Instability: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-dragons-dogma-2-performance-issues-solutions-for-low-fps-and-stuttering/"><u>Fixing Dragon's Dogma 2 Performance Issues: Solutions for Low FPS & Stuttering</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gimp-ultimate-editing-course-review-for-2024/"><u>GIMP Ultimate Editing Course Review for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hitman-3-launch-failures-effective-fixes-for-pc-users/"><u>Hitman 3 Launch Failures: Effective Fixes for PC Users</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/how-to-fix-microsd-card-not-found-error-on-your-nintendo-switch-console/"><u>How to Fix 'MicroSD Card Not Found' Error on Your Nintendo Switch Console</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-error-code-0x80004005/"><u>How to Fix Error Code 0X80004005</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-14-plus-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 14 Plus using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-xiaomi-mix-fold-3-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Xiaomi Mix Fold 3 To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-making-history-shine-again-instagram-effects-for-your-archive/"><u>In 2024, Making History Shine Again Instagram Effects for Your Archive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-wsappx-dilemma-strategies-for-reducing-abnormally-elevated-system-resource-use/"><u>Solving the WSAPPX Dilemma: Strategies for Reducing Abnormally Elevated System Resource Use</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-vr-detection-problems-try-these-6-tricks-to-get-it-working/"><u>Steam VR Detection Problems? Try These 6 Tricks to Get It Working!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-repairing-a-broken-geforce-experience-overlay-feature/"><u>Step by Step Guide: Repairing a Broken GeForce Experience Overlay Feature</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successfully-setting-up-and-enjoying-tiny-tinas-wonderland-adventures-on-personal-computers-without-glitches/"><u>Successfully Setting Up and Enjoying Tiny Tina’s Wonderland Adventures on Personal Computers Without Glitches</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-unexpected-duality-of-mlb-the-show-19-a-visual-masterpiece-with-layers-of-role-playing-gameplay/"><u>The Unexpected Duality of MLB The Show 19: A Visual Masterpiece with Layers of Role-Playing Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-city-skylines-2-failed-launch/"><u>Troubleshooting Steps for City Skylines 2 Failed Launch</u></a></li>
+</ul></div>
 

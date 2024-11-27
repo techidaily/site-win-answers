@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming SteamVR's Obstacle - Error Code 308"
-date: 2024-08-27T23:59:14.834Z
-updated: 2024-08-28T23:59:14.834Z
+date: 2024-11-19T20:32:50.845Z
+updated: 2024-11-26T16:24:23.270Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ce8ff1a22710f0446f4cfea7ad6cfdab_2580546458333734908.png)
 
  Many PC players have reported getting**Error 4201 on Genshin Impact** , which prevents them from even logging into the game. The error message may state “**Failed to connect, please check your network settings** ” or “**Failed to connect to the server** .” If you’re on the same boat, no worries! We’ve got some working fixes that you can try, just read on and find out what they are.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -54,30 +58,14 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Check your VPN
 
  VPN seems to be a cause of Error 4201 on Genshin Impact, but it could also be a fix to this issue. No matter if you use VPN for Genshin Impact or not, you can refer to this fix to solve your problem.
@@ -90,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Configure DNS settings
 
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
@@ -101,15 +93,8 @@ thumbnail: https://thmb.techidaily.com/b14bd542496e4948fe05bb38f6412cf78aa1b8b18
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 
 **Preferred DNS server:** **9.9.9.9**  
  Alternate DNS server:**149.112.112.112**  
@@ -119,8 +104,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Update your network adapter driver
 
  If you’ve tried the fixes above but nothing worked, you may try to update your network adapter driver. Making sure your network adapter driver is working properly could help solve Error 4201 on Genshin Impact.
@@ -141,8 +127,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -162,8 +149,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +156,23 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-best-unboxing-experience-on-youtube-for-2024/"><u>[New] Discover the Best Unboxing Experience on YouTube for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-ultimate-video-mastery-for-professional-vimeo-users/"><u>[New] In 2024, Ultimate Video Mastery for Professional Vimeo Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-prevent-halo-(span-stylecolor-0078af)3(span)-from-crashing-on-your-windows-computer/"><u>[Troubleshooting Tips] How to Prevent Halo <Span Style=color: #0078AF;>3</Span> From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-trending-topics-tally-10-tweets-triumphing-for-2024/"><u>[Updated] Trending Topics Tally 10 Tweets Triumphing for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-instagram-video-edge-planning-for-maximum-marketing-success/"><u>2024 Approved The Instagram Video Edge Planning for Maximum Marketing Success</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-the-detection-glitch-controller-setup-with-steam-in-windows-systems/"><u>Bypassing the Detection Glitch: Controller Setup with Steam in Windows Systems</u></a></li>
+<li><a href="https://win11.techidaily.com/configure-your-windows-11-to-suit-your-auditory-preferences/"><u>Configure Your Windows 11 to Suit Your Auditory Preferences</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stability-for-formula-one-2020-a-guide-to-fixing-pc-game-crashes/"><u>Mastering Stability for Formula One 2020: A Guide to Fixing PC Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-pc-instability-issues-with-updated-lunaclient-crashes-no-more/"><u>Overcoming PC Instability Issues with Updated LunaClient - Crashes No More</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-geforce-gtx-460-drivers-downloading-guide-for-windows-users/"><u>Seamless GeForce GTX 460 Drivers Downloading Guide for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012970455-solved-league-of-legends-fastest-per-second-drop-rates-unveiled/"><u>Solved: League of Legends Fastest Per Second Drop Rates Unveiled!</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/topo-10-editores-de-pdf-sin-coste-para-windows-como-encuentrar-la-herramienta-perfecta/"><u>Topo 10 Editores De PDF Sin Coste Para Windows: Cómo Encuentrar La Herramienta Perfecta</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-8-screen-recorder-apps-compatible-with-mac-and-windows-pc-top-picks-for-easy-recording/"><u>Ultimate 8 Screen Recorder Apps Compatible with Mac & Windows PC: Top Picks for Easy Recording</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-the-fundamentals-of-online-tales/"><u>Understanding the Fundamentals of Online Tales</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-cod-modern-warfares-newest-thrilling-fps-experience/"><u>Unlocking Cod: Modern Warfare's Newest Thrilling FPS Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/vanguard-application-requires-upgraded-cpu-current-specs-fall-short/"><u>Vanguard Application Requires Upgraded CPU - Current Specs Fall Short</u></a></li>
+</ul></div>
 

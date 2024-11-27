@@ -1,7 +1,7 @@
 ---
 title: "Resolving High CPU Demands in Phasmophobia: A Step-by-Step Guide"
-date: 2024-08-27T23:58:29.472Z
-updated: 2024-08-28T23:58:29.472Z
+date: 2024-11-19T16:23:54.692Z
+updated: 2024-11-26T22:17:50.947Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 ## Resolve League of Legends Crashes Swiftly: A Step-by-Step Guide
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -61,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -85,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -99,12 +101,9 @@ thumbnail: https://thmb.techidaily.com/4622c737506cba1a23868ce6098299cf82c4724d1
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -138,13 +137,18 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -158,16 +162,10 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -181,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +186,21 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-harmonizing-youtube-production-with-a-9-to-5-routine-for-2024/"><u>[New] Harmonizing YouTube Production with a 9-to-5 Routine for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-background-guide-for-online-video-calls/"><u>[Updated] The Ultimate Background Guide for Online Video Calls</u></a></li>
+<li><a href="https://discover-best.techidaily.com/1-ultimate-guide-displaying-animated-gifs-across-all-platforms-windowsmacandroidios/"><u>1. Ultimate Guide: Displaying Animated GIFs Across All Platforms (Windows/Mac/Android/iOS)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-cyberpunk-2077-playthrough-overcome-past-fps-challenges-easily-now/"><u>Boosting Your Cyberpunk 2077 Playthrough: Overcome Past FPS Challenges Easily Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/chuckles-churner-visual-composer/"><u>Chuckles Churner Visual Composer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-stop-tales-of-arise-crashes-and-enjoy-smooth-gameplay/"><u>Expert Tips to Stop 'Tales of Arise' Crashes and Enjoy Smooth Gameplay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-magic-v2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Magic V2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-persistent-loading-problems-with-vrchat/"><u>How to Resolve Persistent Loading Problems with VRChat</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-v29-pro-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outlook-stability-improvements-how-to-avoid-app-failures-and-restart-issues/"><u>Outlook Stability Improvements: How to Avoid App Failures and Restart Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-overcoming-steam-disk-errors-and-corruption/"><u>Quick Fixes for Overcoming Steam Disk Errors and Corruption</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-resolving-the-problem-of-handbrake-failure-mid-dvd-to-digital-transfer/"><u>Step-by-Step Guide: Resolving the Problem of HandBrake Failure Mid-DVD to Digital Transfer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/successful-strategies-for-resolving-fallout-e-3-loading-problems/"><u>Successful Strategies for Resolving Fallout E-3 Loading Problems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Oppo A1x 5G? | Dr.fone</u></a></li>
+</ul></div>
 

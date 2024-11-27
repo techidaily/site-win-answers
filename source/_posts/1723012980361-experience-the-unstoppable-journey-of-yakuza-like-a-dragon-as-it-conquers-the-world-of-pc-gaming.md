@@ -1,7 +1,7 @@
 ---
 title: "Experience the Unstoppable Journey of Yakuza: Like a Dragon as It Conquers the World of PC Gaming!"
-date: 2024-11-16T02:30:36.950Z
-updated: 2024-11-17T07:46:48.583Z
+date: 2024-11-20T17:16:44.459Z
+updated: 2024-11-26T23:26:08.365Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 6 fixes that have helped other gamers with_Warzone dev error 6328_ . You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -42,13 +46,6 @@ thumbnail: https://thmb.techidaily.com/da5209d316680e0ea4e317ac8778c8407afff2b57
  Simply **turn off the router and modem and plug it back in after at least 30 seconds** . This is supposed to refresh your device and clear the clogged connection. And you’re also recommended to**use a wired connection** instead of Wi-Fi for more stable gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 modem
 
@@ -71,13 +68,6 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -85,13 +75,6 @@ wireless router
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
 
@@ -103,14 +86,15 @@ wireless router
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -125,25 +109,19 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
@@ -160,6 +138,10 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -169,20 +151,11 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -208,21 +181,19 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-maximize-youtube-views-a-comprehensible-guide-to-collaborative-videos/"><u>[New] 2024 Approved Maximize YouTube Views A Comprehensible Guide to Collaborative Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-elevate-conversations-via-curated-creativity-in-stories-lives/"><u>[New] Elevate Conversations via Curated Creativity in Stories Lives</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-revolutionize-group-calls-top-4-techniques/"><u>[Updated] 2024 Approved Revolutionize Group Calls Top 4 Techniques</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-20-best-free-and-paid-gif-software-options/"><u>[Updated] The 20 Best Free and Paid GIF Software Options</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-photography-fundamentals-the-essential-10-arrangement-rules/"><u>2024 Approved IPhone Photography Fundamentals The Essential 10 Arrangement Rules</u></a></li>
-<li><a href="https://win-answers.techidaily.com/addressing-and-fixing-sudden-fps-dips-insights-from-industry-professionals/"><u>Addressing and Fixing Sudden FPS Dips - Insights From Industry Professionals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010331772-banishing-the-blues-in-sea-of-thieves-no-more-crashes/"><u>Banishing the Blues in Sea of Thieves: No More Crashes!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/english-lexicon-blunders-a-compiled-rank-of-the-worst-mistakes/"><u>English Lexicon Blunders: A Compiled Rank of the Worst Mistakes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-performance-fix-your-rainbow-six-siege-lag-troubles-today/"><u>Optimizing Performance: Fix Your Rainbow Six Siege Lag Troubles Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resident-evil-village-pc-stability-fixes-get-uninterrupted-gaming/"><u>Resident Evil Village PC Stability Fixes - Get Uninterrupted Gaming!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-with-halo-infinite-tips-and-tricks-for-stability/"><u>Resolving PC Issues with Halo Infinite - Tips and Tricks for Stability</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-5-best-practices-for-using-wsl-2-on-windows-10-and-11/"><u>The 5 Best Practices for Using WSL 2 on Windows 10 & 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-the-no-ping-to-our-data-centers-detected-halo-infinite-error-message/"><u>Troubleshooting Guide for the 'No Ping to Our Data Centers Detected' Halo Infinite Error Message</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-new-world-errors/"><u>Troubleshooting Tips: Overcoming 'New World Errors'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unveiling-the-causes-of-enshrouded-crashes-a-comprehamoin-guide-to-fixing-pc-issues/"><u>Unveiling the Causes of Enshrouded Crashes: A Comprehamoin Guide to Fixing PC Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/upgraded-system-requirements-why-you-need-a-stronger-cpu-for-vanguard/"><u>Upgraded System Requirements: Why You Need a Stronger CPU for Vanguard</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-innovative-monitor-choices-the-10-list-for-mac-users/"><u>[New] 2024 Approved Innovative Monitor Choices The #10 List For Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-x-media-converter-desktop-application-for-2024/"><u>[New] X-Media Converter Desktop Application for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>[Updated] 2024 Approved Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-now-tips-and-hacks-for-speedy-browsing/"><u>Accelerate Chrome Performance Now - Tips and Hacks for Speedy Browsing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/canon-d530-driver-download-and-update/"><u>Canon D530 Driver Download & Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-solving-the-mystery-of-cs2-pc-game-crashes-fixes-and-tips-players/"><u>Expert Advice: Solving the Mystery of CS2 PC Game Crashes - Fixes and Tips Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2022-for-windows-common-errors-and-fixes/"><u>Football Manager 2022 for Windows: Common Errors and Fixes</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-pro-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13 Pro? Complete Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/motorola-moto-e13-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Motorola Moto E13 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-razer-synapse-app-wont-launch/"><u>Resolved: How to Fix Razer Synapse App Won't Launch</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-a-non-functioning-microphone-on-your-headset/"><u>Troubleshooting Guide: How to Fix a Non-Functioning Microphone on Your Headset</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-persistent-dark-screen-error-when-launching-resident-evil-village-on-desktop/"><u>Troubleshooting the Persistent Dark Screen Error When Launching Resident Evil Village on Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/upgrade-the-quality-solutions-for-blurry-image-issues-in-call-of-duty-warzone-desktop-version/"><u>Upgrade the Quality: Solutions for Blurry Image Issues in Call of Duty: Warzone - Desktop Version</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/sdelajte-perenos-sistemy-windows-1011-na-otdelnyj-zhestkij-disk-bystrye-resheniya/"><u>Сделайте Перенос Системы Windows 10/11 На Отдельный Жесткий Диск: Быстрые Решения</u></a></li>
 </ul></div>
 

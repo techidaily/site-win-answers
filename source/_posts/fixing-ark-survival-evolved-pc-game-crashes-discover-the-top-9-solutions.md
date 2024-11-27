@@ -1,7 +1,7 @@
 ---
 title: "Fixing ARK: Survival Evolved PC Game Crashes – Discover the Top 9 Solutions!"
-date: 2024-08-27T23:59:32.359Z
-updated: 2024-08-28T23:59:32.359Z
+date: 2024-11-21T22:21:45.223Z
+updated: 2024-11-27T00:09:28.742Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/748de385fd78faa0d204024597c45304a88577256
 ## Troubleshooting Your Disconnected Destiny Astoverse – Fixes and Solutions
 
 Many Destiny 2 players are reporting that they get the error ‘ **You have lost connection to the Destiny 2 servers. Your permissions to access online multiplayer gameplay may have changed or your profile may have been signed in elsewhere.** ‘ and wonder how to solve this error instead of waiting for a few minutes, perhaps for days.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why am I receiving this error?
 
@@ -49,6 +53,11 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Click the**CLEAR DOWNLOAD CACHE** button at the bottom.  
 ![steam clear cache](https://images.drivereasy.com/wp-content/uploads/2021/07/clear_download_cache.jpg)
 3. Then select**OK** to confirm and acknowledge that you’ll need to log in to Steam again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![confirm clear cache](https://images.drivereasy.com/wp-content/uploads/2021/07/confirm_clear_cache.jpg)
 
  This process will not affect your currently installed games, but you will need to log into Steam afterwards.
@@ -64,8 +73,9 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 * Avoid obstructions between the console/computer and the WiFi source whenever possible, especially large appliances or other electronics.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3\. Update your network adapter driver
 
  If you are unable to get past sign-in due to “**Unable to Connect** ” and changing to a wired connection still doesn’t work then there might be something with your network adapter driver or your network settings. Try updating or reinstalling the network adapter driver and check if it fixes the ‘**You have lost connection to the Destiny 2 servers** ‘ error.
@@ -80,6 +90,11 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![network adapter driver](https://images.drivereasy.com/wp-content/uploads/2021/02/family-controller.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -87,9 +102,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4\. Perform a network reset
 
  Performing a network reset potentially fixes any strange settings that may be preventing you from connecting, thus solve your ‘**You have lost connection to the Destiny 2 servers** ‘ error. Here’s how:
@@ -105,9 +117,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **`ipconfig /flushdns`**  
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. You’ll need to restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5\. Change your DNS server
 
@@ -117,18 +126,8 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Type in**ncpa.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
@@ -137,9 +136,6 @@ No advertising on the website.
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click**OK** to apply.
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6\. Enable UPnP or Port Forwarding
 
@@ -150,21 +146,17 @@ No advertising on the website.
 1. In the Windows Seach bar, type in**cm** d and select**Command Prompt** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 2. Get your Router’s internal IP (Default Gateway) by entering**ipconfig** in Command Prompt.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![default gateway is your router's ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/default-gateway.jpg)
 3. Copy-paste the Default Gateway address into your computer’s browser, and log in with the correct user name and password.
 4. Find the**UPnP** setting, usually located under the “LAN” or “Firewall” category.
 5. Enable UPnP and click**Save** to apply the changes.
 6. Disconnect and reconnect all devices on the network.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Option 2\. Enable Port Forwarding
 
  If you can’t use UPnP or don’t feel like it, you can enable Port Forwarding to allow all the connections Destiny needs. Note that you **won’t be able to use more than one console to play Destiny on the same network simultaneously** when using Port Forwarding. If you need this feature, I suggest you choose
@@ -175,14 +167,19 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 2. Type in **ipconfig /all** and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take tote of the following: **IPv4 Address, Subnet Mask, Default Gateway**  and **DNS Servers** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
 
@@ -194,22 +191,22 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  from the list.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click **OK**  to apply.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 3\. Set up Port Forwarding
 
@@ -221,8 +218,9 @@ No advertising on the website.
 5. Choose both **TCP** and **UDP**  ports for your games in the appropriate box.  
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### Ports that should be OPEN
@@ -265,8 +263,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +270,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-tier-mobile-and-desktop-player-for-avis/"><u>[New] In 2024, Top-Tier Mobile and Desktop Player for AVIs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-capturing-itunes-media-three-recording-techniques/"><u>[Updated] 2024 Approved Capturing iTunes Media Three Recording Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-authorship-workshop/"><u>2024 Approved Prime Authorship Workshop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/chinese-tech-breakthrough-loongsons-new-16-core-cpu-goes-head-to-head-with-intels-xeon-silver/"><u>Chinese Tech Breakthrough: Loongson's New 16-Core CPU Goes Head-to-Head with Intel's Xeon Silver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-ii-rebirth-stuck-on-the-boot-screen-solutions-and-fixes/"><u>Diablo II Rebirth Stuck on the Boot Screen - Solutions & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-tips-for-overcoming-apex-legends-game-engine-hiccups/"><u>Effective Tips for Overcoming Apex Legends Game Engine Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-eac-launch-issue-ensure-your-easy-anti-cheat-installation-is-complete/"><u>Fixing the EAC Launch Issue: Ensure Your Easy Anti-Cheat Installation Is Complete</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-hp-4650dn-software-for-your-printer-with-quick-download-and-install/"><u>Get the Newest HP 4650Dn Software for Your Printer with Quick Download & Install</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-avoid-crashes-in-jurasseback-evolution-for-a-smooth-experience/"><u>How to Fix and Avoid Crashes in Jurasseback Evolution for a Smooth Experience</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/logitech-g933-mic-troubleshooting-guide-finding-the-perfect-solution/"><u>Logitech G933 Mic Troubleshooting Guide - Finding The Perfect Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/online-mka-to-aac-file-transformation-service-by-movavi-completely-gratis/"><u>Online MKA-to-AAC File Transformation Service by Movavi, Completely Gratis!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-when-your-phasmophobia-vr-stops-responding/"><u>Solutions for When Your Phasmophobia VR Stops Responding</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-assassins-creed-odyssey-pc-freeze-issues-a-step-by-step-guide/"><u>Troubleshooting Assassin's Creed Odyssey PC Freeze Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Oppo Reno 8T? | Dr.fone</u></a></li>
+</ul></div>
 

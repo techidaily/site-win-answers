@@ -1,7 +1,7 @@
 ---
 title: "Beat the Slow Down: Expert Fixes for Assassin's Creed: Valhalla Latency"
-date: 2024-08-28T00:02:13.327Z
-updated: 2024-08-29T00:02:13.327Z
+date: 2024-11-20T01:08:57.153Z
+updated: 2024-11-27T00:49:38.566Z
 tags:
   - win11
   - win10
@@ -66,18 +66,16 @@ thumbnail: https://thmb.techidaily.com/5323ab269b6d5447358ffbce683d20a8b0db809b5
 2. Navigate to **the Games tab** and move your mouse cursor to the game tile of**Assassin’s Creed Valhalla** . Then click **the downward triangle** on the lower-right corner of the game tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  There’re 2 types of system updates in Windows 10, one addresses security and compatibility issues and another provides a regular feature update.**Keeping you system up to date** could help you avoid loads of stranger things.
@@ -96,8 +94,9 @@ You can use these steps to check for Windows updates manually:
 If the crash happens again, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  In most cases, you’ll expect constant crashes with new titles when you’re using**a faulty or outdated graphics driver** . If you can’t remember the last time you updated your GPU driver, definitely do it now as it could be the fix that saves the day.
@@ -123,17 +122,23 @@ If the crash happens again, you can take a look at the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -146,27 +151,26 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick failed to solve your problem, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
 [According to some Vikings](https://discussions.ubisoft.com/topic/76984/can-t-get-past-the-ac-valhalla-start-before-the-game-launches/21?lang=en-US) , **doing a clean reinstallation of Assassin’s Creed Valhalla** could be a potential fix to the crash. So if you’ve tried all the fixes above and none works for you, you can try to perform a reinstallation of Assassin’s Creed Valhalla. It allows you to get the latest build of the game, which might include a new patch targeting the crashing issue.
@@ -181,8 +185,6 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +192,21 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-your-pathway-to-tiktok-live-spectatorship/"><u>2024 Approved Your Pathway to TikTok Live Spectatorship</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726224971092-movaviwtvavi/"><u>利用Movavi免費在線轉換WTV媒體格式為AVI - 無限可能</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/chuckle-chamber-fast-track-to-funny-memes-for-2024/"><u>Chuckle Chamber Fast Track to Funny Memes for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-stability-for-your-pc-playthrough-fnaf-free-from-breaching-issues/"><u>Enhanced Stability for Your PC Playthrough – FNAF Free From Breaching Issues!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-a-smooth-dota-2-gaming-experience-overcoming-lags-in-2e24/"><u>Expert Tips for a Smooth Dota 2 Gaming Experience: Overcoming Lags in 2E24</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-continuous-freezing-problems-on-football-manager-2021-for-windows-users/"><u>Fixing Continuous Freezing Problems on Football Manager 2021 for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-slow-frames-in-farming-simulator-22-when-played-on-a-pc/"><u>How to Fix Slow Frames in Farming Simulator 22 when Played on a PC?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-redmi-12-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Redmi 12 5G FRP Bypass</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-microphone-management-in-mpow-software-tips-to-overcome-audio-hurdles-on-pc/"><u>Mastering Microphone Management in MPOW Software: Tips to Overcome Audio Hurdles on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/money-saving-drones-reviewed-top-5-under-100-models/"><u>Money-Saving Drones Reviewed Top 5 Under $100 Models</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimized-experience-with-improved-latency-solutions-to-cyberpunk-2077s-lag-issues/"><u>Optimized Experience with Improved Latency: Solutions to Cyberpunk 2077'S Lag Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-stop-thunder-tier-one-from-continuously-crashing-on-desktop-systems/"><u>Solution Guide: Stop Thunder Tier One From Continuously Crashing on Desktop Systems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-labor-day-promo-get-the-powerful-eufy-twin-turbine-vac-at-a-steal-for-only-360-smart-shopping-alerts-by-zdnet/"><u>Unbeatable Labor Day Promo! Get the Powerful Eufy Twin Turbine Vac at a Steal for Only $360 – Smart Shopping Alerts by ZDNet!</u></a></li>
+</ul></div>
 

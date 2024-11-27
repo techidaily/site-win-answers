@@ -1,7 +1,7 @@
 ---
 title: Why Does Genshin Impact Keep Closing? Expert Fixes for Game Stability on PCs
-date: 2024-11-11T17:28:20.651Z
-updated: 2024-11-17T04:36:54.801Z
+date: 2024-11-25T18:04:14.295Z
+updated: 2024-11-26T21:31:24.470Z
 tags:
   - win11
   - win10
@@ -42,28 +42,26 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
@@ -94,6 +92,10 @@ There are mainly two ways you can update the graphics driver:
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Adjust the in-game settings
 
  According to Square Enix support, Outriders crashing occurs mostly on the -60 class GPUs, and tweaking the in-game graphics settings would make it run more smoothly. You can try this setup and see how things go.
@@ -110,13 +112,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -126,24 +121,22 @@ There are mainly two ways you can update the graphics driver:
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
@@ -156,19 +149,6 @@ Still no luck with DX12? Then check out the next method below.
 1. Run Steam and open the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
@@ -200,21 +180,19 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-mac-mavericks-blueprint-for-crafting-captivating-youtube-content/"><u>[New] In 2024, Mac Mavericks' Blueprint for Crafting Captivating YouTube Content</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2023-how-to-make-facebook-videos-full-screen-in-2024/"><u>2023 | How to Make Facebook Videos Full Screen, In 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/captivating-viewers-with-youtubes-visual-polishing/"><u>Captivating Viewers with Youtube's Visual Polishing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/enhance-your-pcs-sound-with-these-newly-released-sound-blaster-audigy-driver-packs-free/"><u>Enhance Your PC's Sound with These Newly Released Sound Blaster Audigy Driver Packs (Free)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-code-327-in-star-wars-battlefront-2-fixes-and-tips-to-enhance-your-gaming-experience/"><u>Error Code 327 in Star Wars Battlefront 2: Fixes & Tips to Enhance Your Gaming Experience</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/high-quality-audio-choices-top-wired-earbuds-2024-edition/"><u>High-Quality Audio Choices: Top Wired Earbuds, 2024 Edition</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-infinix-smart-8-hd-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Infinix Smart 8 HD To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-zte-blade-a73-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on ZTE Blade A73 5G online without jailbreak</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/navigating-the-visual-landscape-key-facts-about-pexelscom-stock-images-for-2024/"><u>Navigating the Visual Landscape Key Facts About Pexels.com Stock Images for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-in-game-crashes-update-or-repair-to-resolve-outdated-minecraft-drivers/"><u>No More In-Game Crashes: Update or Repair to Resolve Outdated Minecraft Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-not-launching-errors-in-hogwarts-legacy-with-these-2024-expert-tips/"><u>Overcome 'Not Launching' Errors in Hogwarts Legacy with These 2024 Expert Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/phoenix-point-crash-issues-solved-troubleshooting-steps-inside/"><u>Phoenix Point Crash Issues Solved - Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/say-goodbye-to-your-laptops-charging-woes-with-a-budget-friendly-30-usb-hub-insights/"><u>Say Goodbye to Your Laptop's Charging Woes with a Budget-Friendly $30 USB Hub | Insights</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-fixing-fortnites-stuck-on-starting-up-dilemma/"><u>Solution Guide: Fixing Fortnite's Stuck on Starting Up Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-when-astro-a50-is-unrecognized-by-the-command-center/"><u>Troubleshooting Steps: Resolving Issues When Astro A50 Is Unrecognized by the Command Center</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-resolving-alan-wake-2s-2024-crashes/"><u>Ultimate Troubleshooting Guide: Resolving Alan Wake 2'S 2024 Crashes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-essential-tweets-de-following-aids-the-ultimate-list/"><u>[New] In 2024, Essential Tweets De-Following Aids The Ultimate List</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-best-slide-video-creators/"><u>[Updated] 2024 Approved Best Slide Video Creators</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-ace-picks-top-ranked-gaming-screens-in-4k/"><u>[Updated] Ace Picks Top-Ranked Gaming Screens in 4K</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-football-film-breakdown-premier-insights-on-youtube/"><u>[Updated] Football Film Breakdown Premier Insights on YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-integrated-marketing-campaigns-for-brand-and-video-platforms/"><u>[Updated] Integrated Marketing Campaigns for Brand and Video Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/5-proven-tactics-to-troubleshoot-cant-start-video-error-on-zoom/"><u>5 Proven Tactics to Troubleshoot Can't Start Video Error on Zoom</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-steams-challenge-successfully-dealing-with-error-code-eksidbldi-3-the-ultimate-walkthrough/"><u>Beat Steam's Challenge: Successfully Dealing With Error Code ˈEɪksiˌdʌbldi 3 - The Ultimate Walkthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-warzone-directx-error-in-just-four-steps/"><u>Beat The 'Warzone DirectX Error' In Just Four Steps</u></a></li>
+<li><a href="https://win-popular.techidaily.com/comprehensive-insight-into-amazon-s3-functionality-a-detailed-explanation/"><u>Comprehensive Insight Into Amazon S3 Functionality: A Detailed Explanation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tricks-for-a-smooth-launch-of-overwatch-2-addressing-common-problems/"><u>Expert Tricks for a Smooth Launch of Overwatch 2: Addressing Common Problems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-oneplus-nord-ce-3-lite-5g-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix OnePlus Nord CE 3 Lite 5G Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimizing-play-essential-tech-for-gamers/"><u>Optimizing Play: Essential Tech for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-and-the-triumph-over-low-frames-per-second-dilemma/"><u>Outriders and the Triumph Over Low Frames Per Second Dilemma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-pc-lag-and-crashes-in-spellbreak-gameplay/"><u>Winning Against PC Lag and Crashes in Spellbreak Gameplay</u></a></li>
 </ul></div>
 

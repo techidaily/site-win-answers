@@ -1,7 +1,7 @@
 ---
 title: Immortals of the Fenyx Series – Release Obstacles Overcome & Launch Achieved!
-date: 2024-08-27T23:59:59.152Z
-updated: 2024-08-28T23:59:59.152Z
+date: 2024-11-21T16:13:32.199Z
+updated: 2024-11-27T00:42:46.712Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -48,11 +45,6 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 2. Right-click the**ImmortalsFenyxRising.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
@@ -71,16 +63,19 @@ There are mainly two ways you can do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click the**Update** button do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Verify the integrity of game files
 
  If Immortals Fenyx Rising wasn’t installed properly with certain game files missing or damaged, it won’t launch correctly. To see if that’s the case, follow the steps below.
@@ -89,13 +84,19 @@ There are mainly two ways you can do this:
 2. Navigate to the**Games** tab, and click the**downward triangle icon** at the lower right corner of the Immortals Fenyx Rising tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-1.jpg)
 3. Click**Verify files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Use dedicated graphics card
 
  Modern video games are usually graphics-intensive and require decent machines to run with. Make sure your PC specs satisfies the **[minimum requirements for Immortals Fenyx Rising](https://store.ubi.com/us/game/?lang=en%5FUS&pid=5cec210a39798c0870c07684&dwvar%5F5cec210a39798c0870c07684%5FPlatform=pcdl&edition=Standard%20Edition&source=detail)**  , or else it won’t start in the right way. If you have a powerful setup and have more than one GPU, you should run the game on the dedicated graphics card.
@@ -103,29 +104,34 @@ There are mainly two ways you can do this:
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1-1.jpg)
 2. Select**Manage 3D settings** from the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
 6. Click**Browse** and add Immortals Fenyx Rising.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-7.jpg)
 7. After the game is added, select it and click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -141,8 +147,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +154,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-a-critique-of-vivas-video-capabilities/"><u>[New] A Critique of Viva's Video Capabilities</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-navigating-picture-in-picture-video-integration-for-mac-os-x-for-2024/"><u>[Updated] Navigating Picture in Picture Video Integration for Mac OS X for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users-for-2024/"><u>[Updated] Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994208189-battlefield-4-wont-start-here-are-the-proven-solutions/"><u>Battlefield 4 Won't Start? Here Are the Proven Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dealing-with-inaccessible-sites-on-internet-explorer-expert-tips-and-fixes/"><u>Dealing with Inaccessible Sites on Internet Explorer: Expert Tips and Fixes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-intel-integrated-graphic-driver-update-for-windows-users/"><u>Latest Intel Integrated Graphic Driver Update for Windows Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterful-strategies-how-to-stop-your-game-from-crashing-due-to-super-person-errors/"><u>Masterful Strategies: How to Stop Your Game From Crashing Due to Super Person Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722999115656-mastering-the-fixes-to-dev-error-5573-on-your-cod-warzone-game-whether-youre-on-a-computer-or-console/"><u>Mastering the Fixes to Dev Error 5573 on Your COD: Warzone Game, Whether You're on a Computer or Console!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-and-easy-gif-to-video-transition-tools-listed-for-2024/"><u>Quick & Easy GIF-to-Video Transition Tools Listed for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-streaming-and-recording-lags-in-obs/"><u>Resolved: How to Fix Streaming and Recording Lags in OBS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-android-viruses-without-the-need-for-factory-resetting/"><u>Step-by-Step Guide: Erasing Android Viruses without the Need for Factory Resetting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tackling-noisy-tech-a-guide-to-quieting-down-an-overbearing-computer-fan/"><u>Tackling Noisy Tech: A Guide to Quieting Down an Overbearing Computer Fan</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-flickering-screens-on-windows-11/"><u>Troubleshooting Flickering Screens on Windows 11</u></a></li>
+</ul></div>
 

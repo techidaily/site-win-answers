@@ -1,7 +1,7 @@
 ---
 title: "Bring Back the Retro Charm: Restoring Original Sound Cues in Windows 11"
-date: 2024-08-27T23:53:53.495Z
-updated: 2024-08-28T23:53:53.495Z
+date: 2024-11-20T03:50:13.094Z
+updated: 2024-11-26T17:22:16.646Z
 tags:
   - windows
 categories:
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Get Sound Packs of Old Windows Sounds
 
  The first thing you need to do is download a sound pack containing the sounds from an old Windows version. Also, ensure that every sound it contains is in WAV file format.
@@ -36,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
 
  If you can't see the file extension, ensure you've [enabled the option to see file extensions](https://facebook-video-footage.techidaily.com/updated-free-youtube-revenue-predictor-tools/).
@@ -53,6 +51,10 @@ Close
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Change System Sounds in Settings
 
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
@@ -60,8 +62,9 @@ Close
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
 
 Close 
@@ -70,17 +73,15 @@ Close
 
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
 
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Enable Changing the Login Sound
 
@@ -95,8 +96,9 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
 
 Close 
@@ -117,8 +119,6 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,18 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-top-8-montage-apps-for-your-androidiphone/"><u>[New] 2024 Approved Top 8 Montage Apps for Your Android/iPhone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-list-of-cost-free-industry-approved-video-callers-for-2024/"><u>[New] The Ultimate List of Cost-Free, Industry-Approved Video Callers for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>2024 Approved Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008968836-cyberpunk-2077-and-steam-a-comprehensive-guide-to-resolving-download-issues/"><u>Cyberpunk 2077 and Steam: A Comprehensive Guide to Resolving Download Issues.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-step-by-step-guide-to-radial-blur-effect-on-images/"><u>In 2024, Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/income-on-instagram-comprehensive-step-by-step-guide-for-2024/"><u>Income on Instagram Comprehensive Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stability-issues-with-praey-for-the-gods-on-desktop-pcs/"><u>Resolving Stability Issues With Praey: For The Gods on Desktop PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-getting-your-corsair-icue-to-work-in-windows-11/"><u>Step-by-Step Guide: Getting Your Corsair iCUE to Work in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/turbocharge-your-github-download-rates-key-hacks-for-peak-performance/"><u>Turbocharge Your GitHub Download Rates: Key Hacks for Peak Performance</u></a></li>
+<li><a href="https://techtrends.techidaily.com/winning-strategies-for-a-fantastic-super-bowl-screen-experience-setup-and-home-theater-tips/"><u>Winning Strategies for a Fantastic Super Bowl Screen Experience – Setup and Home Theater Tips</u></a></li>
+</ul></div>
 

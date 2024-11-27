@@ -1,7 +1,7 @@
 ---
 title: Accelerate Your Windows 11 Experience with Essential Keyboard Shortcuts for Swift App Launches
-date: 2024-08-27T23:53:48.791Z
-updated: 2024-08-28T23:53:48.792Z
+date: 2024-11-21T00:36:13.702Z
+updated: 2024-11-26T21:56:46.563Z
 tags:
   - windows
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ---
 
 ## Accelerate Your Windows 11 Experience with Essential Keyboard Shortcuts for Swift App Launches
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -49,23 +53,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Creating a shortcut of an app on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/create-shortcut-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Right-click on the newly created shortcut and select "Properties" to open another window.
 
 ![A screenshot of Windows 11 depicting the Properties option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/windows-11-properties-1.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Within the "Shortcut Key" field, press a key. This creates a shortcut using the Ctrl and Alt keys. For example, in the screenshot below, I pressed "A" which created a shortcut of Ctrl + Alt + A. Once done, click "OK".
 
 ![Setting a shortcut key from the Properties window on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/properties-shortcut-key.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To remove a shortcut, press the Delete key within the "Shortcut Key" field.
 
  You can change "Ctrl + Alt" to "Shift + Alt" if you hold those keys while pressing your other desired key. Overall, though, this method is a bit limiting because you don't have complete control over the keys used.
@@ -79,8 +81,9 @@ No advertising on the website.
 ![PowerToys Keyboard Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/powertoys-keyboard-manager.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To create your shortcut, first click "Add Shortcut Remapping." Click the pencil next to "Shortcut" and press the keys for your shortcut, then "OK" when done.
 
  Next, use the "Action" dropdown and click "Run Program", then click "Select Program" and find the program you want your shortcut to open.
@@ -89,18 +92,6 @@ No advertising on the website.
 
 ![Remapping a shortcut in PowerToys.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/remapping-a-shortcut-in-powertoys.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you ever want to delete a shortcut, return to this screen and click the trash can.
 
 ##  How to Use AutoHotkey to Open Apps
@@ -112,15 +103,13 @@ No advertising on the website.
 ![AutoHotkey with the 'New Script' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-new-script.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, give your script a name and select the "Edit" button.
 
 ![A screenshot of AutoHotkey with the Name and Edit options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-name.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Choose Notepad (or a development environment of your choosing, if you're an advanced user) as the code editor and press "OK."
 
 ![A screenshot of AutoHotkey with the Notepad and OK options highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/autohotkey-notepad.jpeg) 
@@ -156,8 +145,6 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +152,22 @@ Run "C:\Program Files (x86)\Steam\steam.exe"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-unraveling-top-hdr-camera-brands-and-features-for-2024/"><u>[New] Unraveling Top HDR Camera Brands and Features for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v27-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V27 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ace-your-gameplay-innovative-tvs-to-boost-your-xbox-series-x-adventure/"><u>Ace Your Gameplay Innovative TVs to Boost Your Xbox Series X Adventure</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/1723009674694-achieve-smooth-gameplay-with-higher-fps-in-ring-of-elysium-strategies-unveiled/"><u>Achieve Smooth Gameplay with Higher FPS in Ring of Elysium - Strategies Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-that-puzzling-display-glitch-eliminate-unwanted-screen-tremors/"><u>Banish That Puzzling Display Glitch: Eliminate Unwanted Screen Tremors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-shadows-in-battle-royale-resolving-windows-black-screen-glitch-in-fortnite/"><u>Banishing Shadows in Battle Royale: Resolving Windows Black Screen Glitch in Fortnite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-unavailable-camera-input-on-snapchat/"><u>Fixing the Issue: Unavailable Camera Input on Snapchat</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-technique-resolve-titanfall-ncrashes-with-ease/"><u>Master the Technique: Resolve Titanfall nCrashes with Ease</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-ai-transformations-in-employment-top-six-methods-to-flourish-and-excel/"><u>Navigating AI Transformations in Employment: Top Six Methods to Flourish and Excel</u></a></li>
+<li><a href="https://win-help.techidaily.com/no-te-rendas-sobre-archivos-borrados-accidentalmente-4-metodos-practicos-y-faciles-de-seguir/"><u>No Te Rendas Sobre Archivos Borrados Accidentalmente: 4 Métodos Prácticos Y Fáciles De Seguir</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-cod-vanguard-hurdles-your-ultimate-guide-to-fixing-error-code-0x00001338/"><u>Overcome CoD Vanguard Hurdles: Your Ultimate Guide to Fixing Error Code 0X00001338</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-windows-compatibility-problems-with-the-ds4-gamepad/"><u>Solution Guide: Overcoming Windows Compatibility Problems with the DS4 Gamepad</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/surpassing-the-maximum-character-allowance-in-gpt/"><u>Surpassing The Maximum Character Allowance in GPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-bumpy-journey-begins-inside-stories-of-startups-like-atomic-heart/"><u>The Bumpy Journey Begins: Inside Stories of Startups Like 'Atomic Heart'</u></a></li>
+</ul></div>
 

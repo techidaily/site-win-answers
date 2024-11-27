@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'Internet Explorer Not Responding' Errors"
-date: 2024-11-12T19:17:50.984Z
-updated: 2024-11-17T03:26:08.994Z
+date: 2024-11-23T00:08:52.111Z
+updated: 2024-11-27T02:49:05.844Z
 tags:
   - win11
   - win10
@@ -58,16 +58,7 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 | **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Close background programs
@@ -81,13 +72,14 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -101,15 +93,12 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -125,6 +114,11 @@ If this doesn’t solve your problem, try the next fix.
 1. Open your Steam library and find Naraka: Bladepoint. Right-click the game then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
 
@@ -147,16 +141,17 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -171,6 +166,10 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
@@ -209,15 +208,12 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
 
@@ -236,16 +232,13 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
@@ -257,13 +250,6 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -278,13 +264,6 @@ If this doesn’t solve your problem, try the last fix.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
@@ -320,18 +299,14 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-bite-sized-content-on-youtube/"><u>[New] 2024 Approved Bite-Sized Content on YouTube</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-dive-into-time-lapse-with-advanced-canon-tactics/"><u>[New] In 2024, Dive Into Time-Lapse with Advanced Canon Tactics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solved-discord-stream-stuck-on-loading/"><u>[SOLVED] Discord Stream Stuck on Loading</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-improve-zoo-audio-integrity-in-online-communication/"><u>[Updated] Improve Zoo Audio Integrity in Online Communication</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-aspect-modification-at-your-fingertips-online/"><u>2024 Approved Aspect Modification at Your Fingertips Online</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>2024 Approved Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-final-cut-pro-x-a-guide-to-instagrams-vertical-preference/"><u>2024 Approved Final Cut Pro X A Guide to Instagram’s Vertical Preference</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comparing-prophecy-powers-how-does-chatgpt-stack-up-against-magazine-astrology/"><u>Comparing Prophecy Powers: How Does ChatGPT Stack Up Against Magazine Astrology?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722986329852-effortlessly-fix-your-fortnite-sign-in-problems-solutions-inside/"><u>Effortlessly Fix Your Fortnite Sign-In Problems - Solutions Inside!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 7? | Stellar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-delays-in-outriders-discover-our-fixes-for-seamless-gaming/"><u>No More Delays in [Outriders]: Discover Our Fixes for Seamless Gaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-fifa-20-directx-compatibility-issue/"><u>Resolved: Fixing the FIFA 20 DirectX Compatibility Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-video-playback-issues-on-youtube/"><u>Ultimate Guide: Resolving Video Playback Issues on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-video-magic-advanced-editing-with-premiere-pro-for-2024/"><u>[Updated] YouTube Video Magic Advanced Editing with Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/age-of-empires-iv-stability-solutions-ending-game-crashes-on-personal-computers/"><u>Age of Empires IV Stability Solutions: Ending Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/clear-screens-enhance-performance-on-windows-11/"><u>Clear Screens, Enhance Performance on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/correcting-life-threatening-coding-issues-within-modern-warfare-and-battle-royale-experience/"><u>Correcting Life-Threatening Coding Issues Within Modern Warfare & Battle Royale Experience</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oneplus-11r-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your OnePlus 11R in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/next-level-shooting-lens-selections-for-online-creators-for-2024/"><u>Next-Level Shooting Lens Selections for Online Creators for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outpost-infincy-siege-how-to-stop-your-game-from-crashing-unexpectedly/"><u>Outpost: Infincy Siege - How to Stop Your Game From Crashing Unexpectedly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-pc-crashes-in-wolcen-lords-of-mayhem/"><u>Troubleshooting Guide: Fixing PC Crashes in Wolcen: Lords of Mayhem</u></a></li>
 </ul></div>
 

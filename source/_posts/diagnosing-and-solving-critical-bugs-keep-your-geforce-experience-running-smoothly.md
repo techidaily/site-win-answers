@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing & Solving Critical Bugs: Keep Your GeForce Experience Running Smoothly"
-date: 2024-08-28T00:00:38.720Z
-updated: 2024-08-29T00:00:38.720Z
+date: 2024-11-24T02:26:36.980Z
+updated: 2024-11-26T17:00:38.027Z
 tags:
   - win11
   - win10
@@ -41,15 +41,6 @@ The outdated or broken graphics driver may also lag the game.
 
  If you don’t remember when was the last time you updated your drivers, definitely do it now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -66,10 +57,6 @@ The outdated or broken graphics driver may also lag the game.
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -86,9 +73,11 @@ The outdated or broken graphics driver may also lag the game.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -100,30 +89,39 @@ The outdated or broken graphics driver may also lag the game.
 
  If the latest graphics driver didn’t fix the game lag issue, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to reduce lags in Dying Light. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Modify the graphics settings in Nvidia Control Panel
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![run dialog control panel](https://images.drivereasy.com/wp-content/uploads/2019/09/run-dialog-control-panel.jpg)
 2. View Control Panel by**Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view control panel bycategory](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel-category.jpg)
 3. Click**NVIDIA Control Panel** to open it.  
-![Nvidia-control-panel](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvidia-control-panel.jpg)
-4. Click**3D Settings** and select**Adjust image settings with preview** . Then select**Use my preference emphasizing** and**drag the slider to the left** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
-![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Nvidia-control-panel](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvidia-control-panel.jpg)
+4. Click**3D Settings** and select**Adjust image settings with preview** . Then select**Use my preference emphasizing** and**drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
+
 ### Lower the in-game graphics settings
 
 1. Launch Dying Light and modify the following in-game video settings:  
@@ -150,8 +148,9 @@ The outdated or broken graphics driver may also lag the game.
 See if the game lag issue persists. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Use Steam launch options for Dying Light
 
  If your PC didn’t meet the recommended system requirements for Dying Light, and you’re suffering from the lag in-game, you can also try using Steam launch options for Dying Light. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -160,14 +159,8 @@ See if the game lag issue persists. If not, try the next fix, below.
 2. **Right-click on Dying Light** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-properties.jpg)
 3. In the window that pops up, click**SET LAUNCH OPTIONS…** under the**GENERAL** tab.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options.jpg)
 4. Copy and paste the commands below and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `-nologos -high -useallavailablecores`  
 ![Steam set launch options 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options-1.jpg)
 5. Save these steam settings and run the game.
@@ -188,6 +181,10 @@ See if the game lag issue persists. If not, try the next fix, below.
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager-1.jpg)
 7. If the Affinity window closes, right-click on**DyingLightGame.exe** and open it again, then re-enable. The game will start running again as before.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the game runs more smoothly than before. If this fix still didn’t work, try reinstalling the game. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
 
 ---
@@ -203,8 +200,6 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +207,22 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-cutting-edge-tech-meets-creativity-top-12-camera-picks-for-vloggers/"><u>[New] 2024 Approved Cutting-Edge Tech Meets Creativity Top 12 Camera Picks for Vloggers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-decoding-kinemaster-complexities-best-practices-and-alternative-digital-tools-for-2024/"><u>[New] Decoding KineMaster Complexities Best Practices & Alternative Digital Tools for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/solved-bcm2045a0-driver-issues-quickly-and-easily/"><u>[SOLVED] BCM2045A0 Driver Issues | Quickly & Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>[Updated] 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-a-roadmap-to-crafting-popular-vlogging-narratives-for-2024/"><u>[Updated] A Roadmap to Crafting Popular Vlogging Narratives for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-skill-up-on-the-fly-with-top-10-freeware-art-apps-for-mac-for-2024/"><u>[Updated] Skill Up on the Fly with Top 10 Freeware Art Apps for Mac for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-game-wont-open-error-on-grand-theft-auto-5/"><u>How to Fix 'Game Won't Open' Error on Grand Theft Auto 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-keep-starfield-running-smoothly-without-crashing-on-your-desktop-system/"><u>How to Keep Starfield Running Smoothly Without Crashing on Your Desktop System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-call-of-duty-black-ops-cold-war-from-freezing-your-pc-in-202n4/"><u>How to Stop Call of Duty Black Ops Cold War From Freezing Your PC in 202N4!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximizing-impact-innovative-fb-strategies-for-handc-marketing/"><u>In 2024, Maximizing Impact Innovative FB Strategies for H&C Marketing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-perfecting-motion-capture-a-guide-to-gopro-time-lapse-photos/"><u>In 2024, Perfecting Motion Capture A Guide to GoPro Time Lapse Photos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stuck-or-errored-minecraft-launcher-update-process/"><u>Resolving Stuck or Errored Minecraft Launcher Update Process</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/smart-security-reimagined-with-the-ring-video-doorbell-pro-a-comprehensive-review/"><u>Smart Security Reimagined with the Ring Video Doorbell Pro – A Comprehensive Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-problems-in-red-dead-redemption-2-solving-errgfxstate/"><u>Troubleshooting Graphics Problems in Red Dead Redemption 2: Solving ERR_GFX_STATE</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-fixing-resident-evil-village-crashes-on-windows-pc/"><u>Troubleshooting Tips for Fixing Resident Evil Village Crashes on Windows PC</u></a></li>
+</ul></div>
 

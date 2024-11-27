@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Continuous Crashes in Immortals of Fenyx Rising"
-date: 2024-08-27T23:59:22.118Z
-updated: 2024-08-28T23:59:22.118Z
+date: 2024-11-21T18:24:24.304Z
+updated: 2024-11-27T00:08:08.132Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/66f3cf36e141a02ee3ef4f8fc90997bfb9adc3902
 Necromunda: Hired Gun
 
  Released on June 1, 2021,**Necromunda: Hired Gun** has attracted a lot of PC gamers. However, there are still some players reporting that**Necromunda: Hired Gun keeps crashing on their PC** . If you’re running into the same issue, don’t worry,**you’ve come to the right place** . After reading this article, you should be able to fix this issue easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The system requirements of Necromunda: Hired Gun
 
@@ -53,8 +57,9 @@ Necromunda: Hired Gun
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -74,9 +79,6 @@ It may take some time to complete the verifying process.
 2. Click on the **three dots** under the **Necromunda: Hired Gun** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
@@ -95,9 +97,6 @@ It may take some time to complete the verifying process.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -118,6 +117,10 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -127,22 +130,17 @@ It may take some time to complete the verifying process.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Necromunda: Hired Gun_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
  Some third-party antivirus software hooks very deep into your system, and it may interfere with the game. If some important game files are blocked by the third-party antivirus software, the game will crash.
@@ -150,6 +148,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  You can try adding both the game and steam (or Epic Games Launcher) as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
 
@@ -170,8 +172,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +179,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-leading-live-streaming-services-a-detailed-comparison/"><u>[New] Leading Live Streaming Services A Detailed Comparison</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-peeking-at-pro-screen-recording-tools-for-2024/"><u>[New] Peeking at Pro Screen Recording Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pro-level-streaming-tech-innovations-you-need/"><u>[Updated] Pro-Level Streaming Tech Innovations You Need</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1725287868277-dvdpc/"><u>「無料でDVDデータをPCに移行する究極ガイド」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-ring-of-elysium-errors-effective-methods-to-ensure-smooth-gameplay/"><u>End Ring of Elysium Errors: Effective Methods to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhancing-iphoneandroid-video-clarity-on-facebook/"><u>Enhancing iPhone/Android Video Clarity on Facebook</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996303606-expert-fix-msi-afterburner-doesnt-detect-graphics-card-on-windows-now-it-will/"><u>Expert Fix: MSI Afterburner Doesn't Detect Graphics Card on Windows - Now It Will!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-high-speed-gaming-overcoming-lag-in-forza-horizon-5/"><u>Fixing High-Speed Gaming: Overcoming Lag in Forza Horizon 5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-the-jscriptdll-not-found-issue-efficiently-and-effectively/"><u>Fixing the Jscript.dll Not Found Issue Efficiently and Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hassle-free-methods-to-resolve-outriders-persistent-crashing-issues/"><u>Hassle-Free Methods to Resolve Outriders' Persistent Crashing Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/immediate-action-required-the-compelling-advantages-of-upgrading-to-ios-153-today/"><u>Immediate Action Required: The Compelling Advantages of Upgrading to iOS 15.3 Today</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/smart-strategies-for-profitable-snapchat-partnerships-for-2024/"><u>Smart Strategies for Profitable Snapchat Partnerships for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-with-palworld-here-are-swift-fixes/"><u>Trouble with Palworld? Here Are Swift Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-solve-everspace-2-stability-issues-on-personal-computers/"><u>Troubleshoot and Solve Everspace 2 Stability Issues on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-successfully-eliminating-common-black-screen-errors/"><u>Troubleshooting Successfully: Eliminating Common Black Screen Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722993015588-why-does-my-pc-keeps-causing-blender-to-fail-find-out-and-fix-the-issue-now/"><u>Why Does My PC Keeps Causing Blender to Fail? Find Out and Fix the Issue Now!</u></a></li>
+</ul></div>
 

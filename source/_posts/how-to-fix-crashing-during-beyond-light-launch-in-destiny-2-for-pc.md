@@ -1,7 +1,7 @@
 ---
 title: How To Fix 'Crashing During Beyond Light Launch in Destiny 2 for PC?
-date: 2024-08-28T00:02:07.221Z
-updated: 2024-08-29T00:02:07.221Z
+date: 2024-11-23T18:44:47.374Z
+updated: 2024-11-26T21:53:29.706Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -83,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 
  If it this issue persists after you install the latest game patch, or if there was no new game patch available, move on to Fix 3, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  In most cases, the broken or outdated graphics driver is the main culprit behind the game crashing issues.
@@ -101,11 +109,16 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
 
@@ -117,16 +130,10 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 #### Steam
 
  1) In Steam, navigate to**the LIBRARY tab** and**right-click** on The Division 2\. Then select**Properties** .
@@ -165,6 +172,10 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
@@ -174,24 +185,25 @@ thumbnail: https://thmb.techidaily.com/0039be476e652be6e9e02b60752db5e1733ea22d9
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Modify the paging file size
 
  If the game crash issues were caused by the insufficient RAM, you can apply this fix to see if it works. Before modifying the paging file, you need to check if The Division 2 crash issue was triggered by the insufficient RAM.
@@ -204,24 +216,18 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
@@ -246,23 +252,14 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
@@ -271,9 +268,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
@@ -283,15 +277,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
@@ -310,8 +302,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -319,4 +309,20 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-visionsnap-tech-your-guide-to-the-best-of-2023/"><u>[New] In 2024, VisionSnap Tech – Your Guide to the Best of 2023</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-lego-star-wars-the-skywalker-saga-crash-on-pc-2024/"><u>[SOLVED] Lego Star Wars The Skywalker Saga Crash on PC 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-applying-luts-for-cinematic-color-grades/"><u>[Updated] Applying Luts for Cinematic Color Grades</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-vivid-visuals-strategies-for-splendid-screen-illumination/"><u>[Updated] In 2024, Vivid Visuals Strategies for Splendid Screen Illumination</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-principles-for-designing-fb-ad-content/"><u>2024 Approved Principles for Designing FB Ad Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discord-display-glitches-heres-how-to-fix-them-quickly/"><u>Discord Display Glitches? Here's How to Fix Them Quickly</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exclusive-insiders-list-of-20-storage-services-unlimited-upload/"><u>Exclusive Insider's List of 20 Storage Services, Unlimited Upload</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-stardew-valley-from-crashing-during-playtime-pc/"><u>How to Stop Stardew Valley From Crashing During Playtime (PC)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-crafting-visual-wonders-in-lightrooms-hdr-workflow/"><u>In 2024, Crafting Visual Wonders in Lightroom's HDR Workflow</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-honor-x50-gt-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Honor X50 GT without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-halo-infinite-connection-issues-what-to-do-when-you-get-a-no-ping-to-our-data-centers-detected-error/"><u>Solving 'Halo Infinite' Connection Issues: What to Do When You Get a 'No Ping To Our Data Centers Detected' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/verification/"><u>Verification</u></a></li>
+</ul></div>
 

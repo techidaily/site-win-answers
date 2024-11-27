@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide for Madden NFL 21 PC Instability Issues
-date: 2024-11-13T23:10:23.517Z
-updated: 2024-11-16T19:10:32.807Z
+date: 2024-11-21T23:49:47.059Z
+updated: 2024-11-26T21:10:20.769Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  If StarCraft 2 keeps giving you a hard time, such as crashing to desktop, crashing with no error, or getting lockups and freezes in-game, you can try the following fixes:
@@ -38,10 +42,7 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 10. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest game patch
@@ -59,14 +60,11 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
 
-5. Wait for the repair to finish.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Wait for the repair to finish.
 
 ### Fix 3: Update your graphics card driver
 
@@ -101,7 +99,15 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 ![update your drivers by clicking Update or Update all](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-9.jpg)  
  _Note: If you experience any problems when using Driver Easy Pro, please contact our support team at_ [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check if**Starcraft 2 crashing issue** s still persist.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -117,13 +123,14 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 ![debug-mode-nvidia](https://images.drivereasy.com/wp-content/uploads/2020/02/Debug-Mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Reset your Starcraft 2 in-game options
@@ -134,26 +141,12 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options-1.png) and select**Game settings** .
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click **Reset** .
 5. Click **Done** , then relaunch the game.
 
  This will revert the game video options to default and allow you to load in.
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
@@ -184,13 +177,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this temporary method works for you, you’ll need to repeat these steps every time you start your game.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Run Starcraft 2 in windowed mode
 
  Switching from the full-screen mode to windowed mode can sometimes work for many gamers.
@@ -201,6 +187,10 @@ _Note: This method applies only to the_ non-reference model cards_._
 4. Type **\-Displaymode 0**
 
  If the Starcraft 2 crashing issue still persists in windowed mode, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10: Perform a clean boot
 
@@ -222,13 +212,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -252,21 +235,21 @@ _Note: This method applies only to the_ non-reference model cards_._
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-penniless-to-partnered-a-small-channels-journey/"><u>[New] 2024 Approved From Penniless to Partnered A Small Channel's Journey</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-stream-to-stardom-mastering-live-with-xsplit-or-obs/"><u>[New] Stream to Stardom Mastering Live with XSplit or OBS?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-power-of-persuasion-hire-success-stories-1-10/"><u>[New] The Power of Persuasion Hire Success Stories #1-10</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/4k-spectacle-top-10-monitors-compatible-with-macs-for-2024/"><u>4K Spectacle Top 10 Monitors Compatible with Macs for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/experience-a-seamless-journey-in-nier-replicant-your-ultimate-guide-to-stop-game-crashes/"><u>Experience a Seamless Journey in NieR: Replicant – Your Ultimate Guide to Stop Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/game-on-overcoming-connectivity-issues-in-mlb-the-show-21/"><u>Game On! Overcoming Connectivity Issues in MLB The Show 21</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/linux-mint-update-essentials-transitioning-smoothly-to-mint-n-version-21-expert-advice-for-users/"><u>Linux Mint Update Essentials: Transitioning Smoothly to Mint N Version 21 | Expert Advice for Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-freezes-ensure-uninterrupted-play-in-your-fnaf-adventure-on-pc/"><u>No More Freezes: Ensure Uninterrupted Play in Your FNAF Adventure on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-pc-battles-resolving-frequent-crashes-in-star-wars-battlefront-ii/"><u>Overcome PC Battles: Resolving Frequent Crashes in Star Wars Battlefront II</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-pc-gaming-hurdles-fixing-persistent-elex-ii-crashes/"><u>Overcome PC Gaming Hurdles: Fixing Persistent Elex II Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-errors-a-guide-to-repair-msedgeexe-issues-in-windows-environment/"><u>Overcoming Errors: A Guide to Repair msedge.exe Issues in Windows Environment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-and-effective-methods-to-stop-wwe-2k20-from-crashing-on-your-windows-machine/"><u>Quick and Effective Methods to Stop WWE 2K20 From Crashing on Your Windows Machine</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-choices-360-video-equipment-for-livestreaming-platforms-for-2024/"><u>Top Choices 360° Video Equipment for Livestreaming Platforms for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/update-diablo-immortal-pc-release-postponed-find-out-why-here/"><u>Update: Diablo Immortal PC Release Postponed, Find Out Why Here</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-shorts-profitability-secrets/"><u>Youtube Shorts Profitability Secrets</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-melodic-mastery-in-social-media-cinema/"><u>[New] Melodic Mastery in Social Media Cinema</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-spinning-stars-olympic-ice-celebrations/"><u>[Updated] 2024 Approved Spinning Stars Olympic Ice Celebrations</u></a></li>
+<li><a href="https://facebook.techidaily.com/connect-more-with-a-click-adding-contacts-in-fb-messenger/"><u>Connect More with a Click: Adding Contacts in FB Messenger</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-ethereum-20-can-this-upgrade-resolve-key-issues-in-digital-currencies/"><u>Exploring Ethereum 2.0 – Can This Upgrade Resolve Key Issues in Digital Currencies?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-silent-blocks-troubleshooting-no-audio-in-minecraft-on-your-computer/"><u>Fixing Silent Blocks: Troubleshooting No Audio in Minecraft on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-changer-hands-on-pdw4-review/"><u>Game-Changer Hands-On PDW4 Review</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-rocket-league-patch-eliminates-freezing-issues-for-players/"><u>Latest Rocket League Patch Eliminates Freezing Issues for Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-persistent-freezes-in-minecraft-dungeons-expert-fixes-for-a-stable-pc-gaming-experience/"><u>Resolve Persistent Freezes in Minecraft Dungeons: Expert Fixes for a Stable PC Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-common-causes-and-fixes-for-call-of-duty-warzone-screen-glitches/"><u>Resolved: Common Causes & Fixes for Call of Duty Warzone Screen Glitches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/taking-advantage-of-vlcs-conversion-features-beyond-mp4/"><u>Taking Advantage of VLC's Conversion Features Beyond MP4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996334433-the-deathloop-glitch-on-desktops-is-now-fixed-what-you-need-to-know/"><u>The Deathloop Glitch on Desktops Is Now Fixed – What You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012504129-trouble-with-black-screens-in-far-cry-6-heres-how-to-fix-it/"><u>Trouble with Black Screens in Far Cry 6? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-audio-troubles-in-halo-infinity-step-by-step/"><u>Ultimate Fixes for Audio Troubles in Halo Infinity - Step by Step</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-tutorial-adding-and-playing-videos-within-google-slide-decks/"><u>Ultimate Tutorial: Adding and Playing Videos Within Google Slide Decks</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-portable-genius-expert-review-of-the-hp-zbook-firefly-15-g8/"><u>Unveiling the Portable Genius: Expert Review of the HP ZBook Firefly 15 G8</u></a></li>
 </ul></div>
 

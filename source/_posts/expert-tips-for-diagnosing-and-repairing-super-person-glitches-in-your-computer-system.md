@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Diagnosing and Repairing 'Super Person' Glitches in Your Computer System
-date: 2024-08-28T00:00:37.532Z
-updated: 2024-08-29T00:00:37.532Z
+date: 2024-11-20T17:00:32.289Z
+updated: 2024-11-26T22:31:47.413Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5c2d24edaaf4b6dd8b5262f3555ac32c929e36e44
 Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on their PC. If you’re running into the exact same issue, don’t worry. Although it’s quite frustrating, the good news is that this issue can be fixed easily!
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,6 +59,10 @@ The outdated or broken graphics driver often crashes the game.
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -62,15 +70,17 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -80,9 +90,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -93,14 +100,11 @@ The outdated or broken graphics driver often crashes the game.
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -113,9 +117,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -137,8 +138,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +145,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-free-skype-recording-made-easy-mp3-edition-for-2024/"><u>[New] Free Skype Recording Made Easy - MP3 Edition for 2024</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/annamasart-academy-access-exclusive-online-art-classes-and-educational-video-content-for-free-download/"><u>AnnamasArt Academy: Access Exclusive Online Art Classes and Educational Video Content for Free Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-prevent-wallpaper-engine-from-freezing-on-windows-10-and-11-platforms/"><u>Effective Solutions To Prevent Wallpaper Engine From Freezing on Windows 10 & 11 Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortlessly-stop-steam-from-keeping-you-waiting-with-crashes/"><u>Effortlessly Stop Steam From Keeping You Waiting with Crashes</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-infinix-smart-8-hd-to-mac-drfone-by-drfone-android/"><u>How to Mirror Infinix Smart 8 HD to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/maximizing-your-monetary-gains-on-social-media-with-snapchat/"><u>Maximizing Your Monetary Gains on Social Media with Snapchat</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-3-0x0001000b-hurdle-in-rainbow-six-siege-proven-solutions-inside/"><u>Overcoming the 3-0X0001000B Hurdle in Rainbow Six Siege - Proven Solutions Inside!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-not-working-on-realme-11x-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Realme 11X 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/reviewing-the-propella-7s-n40-the-ideal-choice-for-savvy-shoppers-seeking-lightness-and-efficiency/"><u>Reviewing the Propella 7S N4.0: The Ideal Choice for Savvy Shoppers Seeking Lightness and Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/start-small-livestreaming-on-youtube-with-fewer-than-1k-followers-for-2024/"><u>Start Small Livestreaming on YouTube with Fewer Than 1K Followers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-playbook-for-fixing-dota-2s-lagging-problem-expert-insights-from-2024/"><u>The Ultimate Playbook for Fixing Dota 2'S Lagging Problem: Expert Insights From 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-freezes-in-the-latest-game-update/"><u>Troubleshooting: Persistent Freezes in the Latest Game Update</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Keep Your Mass Effect Legendary Edition Running Smoothly on PC or Xbox"
-date: 2024-08-27T23:58:23.475Z
-updated: 2024-08-28T23:58:23.475Z
+date: 2024-11-21T21:38:31.845Z
+updated: 2024-11-26T20:00:18.407Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/0825c5cfd1c9f8c60055aa627e174f35756a5c00a
 ## Troubleshooting Your Apex Legends Connections - Expert Fixes
 
 It’s annoying when you can’t connect to the EA server or receive the error message saying**Connection to server timed out** . Is Apex Legends down again? Or it’s something wrong with your PC? Don’t worry, you’re not the only one, the methods below would help you fix the connection issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,26 +59,31 @@ If it’s not the server, please move to the next method.
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
 8. Reboot the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Run as administrator
 
 Some players suggest Run as administrator could fix this issue.
@@ -84,11 +93,12 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Update your drivers
 
@@ -105,15 +115,8 @@ If this method doesn’t help, please move to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Method 5: Clear game cache
 
  Many players have reported their issues were solved after clearing the game cache. If you’re playing Apex Legends on PC with Origin or EA Desktop, follow the steps below to clear the cache.
@@ -154,8 +157,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +164,22 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-generate-interest-making-your-own-youtube-intros/"><u>[New] 2024 Approved Generate Interest Making Your Own YouTube Intros</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-charting-the-evolutionary-trajectory-of-mixed-reality/"><u>[Updated] Charting the Evolutionary Trajectory of Mixed Reality</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-integrating-timestamps-into-your-images-for-2024/"><u>[Updated] Integrating Timestamps Into Your Images for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-top-performance-with-newest-hp-laserjet-pro-m404n-printer-drivers-download-today/"><u>Ensure Top Performance with Newest HP LaserJet Pro M404n Printer Drivers - Download Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-problematic-warnings-on-voice-chats-a-step-by-step-guide/"><u>Fixing Problematic Warnings on Voice Chats: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-rendering-issues-tackling-errgfxd3dinit-in-grand-theft-auto-v/"><u>How to Overcome Graphics Rendering Issues: Tackling ERR_GFX_D3D_INIT in Grand Theft Auto V</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-video-transfer-dvd-making-on-mac/"><u>In 2024, Streamlining Video Transfer DVD Making on Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/is-your-rank-tracker-free-by-link-assistant-rank-tracker-rank-tracker/"><u>Is your Rank Tracker free?</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-recovery-process-for-corrupt-system-files-on-windows-10-11-edition/"><u>Mastering the Recovery Process for Corrupt System Files on Windows 10, 11 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-subnautica-underwater-adventure-crash-problems-on-windows-machines/"><u>Overcoming Subnautica Underwater Adventure Crash Problems on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013442900-quick-solutions-overcome-battlefield-5-not-starting-problem-in-minutes/"><u>Quick Solutions: Overcome 'Battlefield 5 Not Starting' Problem in Minutes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000538597-resolve-ashen-bug-seamlessly-get-back-in-control-fast/"><u>Resolve Ashen Bug Seamlessly – Get Back in Control Fast!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-evolving-landscape-of-tech-hiring-moving-beyond-resumes-expert-perspectives-on-modern-recruiter-strategies/"><u>The Evolving Landscape of Tech Hiring: Moving Beyond Resumes | Expert Perspectives on Modern Recruiter Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-resolving-call-of-duty-vanguards-pc-malfunctions-in-the-2-24-release/"><u>The Ultimate Guide to Resolving Call of Duty: Vanguard's PC Malfunctions in the 2지-24 Release</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-x-fold-2-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo X Fold 2 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

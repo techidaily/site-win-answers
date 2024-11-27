@@ -1,7 +1,7 @@
 ---
 title: Resolve Steam's Error Code 130 with These Proven Solutions!
-date: 2024-11-10T17:18:19.034Z
-updated: 2024-11-17T03:44:12.142Z
+date: 2024-11-23T19:56:52.784Z
+updated: 2024-11-26T17:23:43.964Z
 tags:
   - win11
   - win10
@@ -33,10 +33,7 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Adjust your proxy settings
@@ -47,13 +44,6 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
@@ -62,27 +52,17 @@ thumbnail: https://thmb.techidaily.com/65c45785d0c2f42e9363c89b2d70455197811e675
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -124,6 +104,10 @@ OR
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Reinstall Steam
 
  If none of the fixes worked for you, reinstalling Steam is very likely the solution to your issue. Follow the instructions below:
@@ -132,39 +116,41 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -208,21 +194,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-comprehensive-list-audio-pace-modification-tools/"><u>[New] 2024 Approved Comprehensive List Audio Pace Modification Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-financial-breakdown-of-music-video-production/"><u>[Updated] Financial Breakdown of Music Video Production</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-perfectly-polished-pictures-top-grid-tools-revealed/"><u>2024 Approved Perfectly Polished Pictures Top Grid Tools Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1726029019327-windows-10/"><u>最新Windows 10でのマイクと内部オーディオ使用による録音プロセスガイド</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-samsung-galaxy-a14-4g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Samsung Galaxy A14 4G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/comprehensive-directors-manual-powerdirector-24-for-2024/"><u>Comprehensive Directors' Manual - PowerDirector '24 for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeating-far-cry-5s-load-screen-dilemma-tips-and-tricks/"><u>Defeating Far Cry 5’S Load Screen Dilemma - Tips & Tricks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diy-troubleshooting-for-directx-errors-in-the-latest-fifa-game-fifa-20-edition/"><u>DIY Troubleshooting for DirectX Errors in the Latest FIFA Game: FIFA 20 Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ioss-choice-of-top-ps2-game-simulation-software-for-2024/"><u>IOS's Choice of Top PS2 Game Simulation Software for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-gameplay-delays-in-call-of-duty-vanguard-a-step-by-step-fix-guide/"><u>Overcoming Gameplay Delays in Call of Duty: Vanguard – A Step-by-Step Fix Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/red-dead-redemption-2-on-pc-common-crash-causes-and-effective-resolutions-for-gamers/"><u>Red Dead Redemption 2 on PC - Common Crash Causes & Effective Resolutions for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-and-solutions-for-nba-2k21-crashing-issues-on-personal-computers/"><u>Resolved: Fixes and Solutions for NBA 2K21 Crashing Issues on Personal Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-stop-stardew-valley-from-crashing-on-your-computer/"><u>Step-by-Step Solution: Stop Stardew Valley From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-fortnite-sign-in-errors-fast-and-effective-solutions-inside/"><u>Troubleshoot Fortnite Sign-In Errors: Fast & Effective Solutions Inside</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-gionee-f3-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Gionee F3 Pro</u></a></li>
-<li><a href="https://extra-information.techidaily.com/understanding-livestream-technology-explained/"><u>Understanding Livestream Technology Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-collection-10-excellent-photo-background-alternators/"><u>[New] Ultimate Collection 10 Excellent Photo-Background Alternators</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-initiate-an-impactful-live-stream-on-facebook-today/"><u>[Updated] Initiate an Impactful Live Stream on Facebook Today</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-top-asmr-content-creators-on-youtube/"><u>[Updated] Top ASMR Content Creators on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-who-wins-in-video-quality-comparing-av1-to-vp9/"><u>[Updated] Who Wins in Video Quality? Comparing AV1 to VP9</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-tracking-trends-the-systematic-method-for-assessing-youtube-income-flows/"><u>2024 Approved Tracking Trends The Systematic Method for Assessing YouTube Income Flows</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/aomei-partition-assistant-professional-the-ultimate-freeware-for-windows-data-backup/"><u>AOMEI Partition Assistant Professional: The Ultimate Freeware for Windows Data Backup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solution-for-the-persistent-crashing-troubles-in-kurtzpel-application/"><u>Comprehensive Solution for the Persistent Crashing Troubles in KurtzPel Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-fixes-for-persistent-dread-hunger-stops-during-playtime-on-desktopslaptops/"><u>Effective Fixes for Persistent 'Dread Hunger' Stops During Playtime on Desktops/Laptops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-repair-and-restore-functionality-of-logitech-g-hub-on-your-windows-computer/"><u>How to Repair and Restore Functionality of Logitech G Hub on Your Windows Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-intellieditors-ai-transform-photos-effortlessly/"><u>In 2024, IntelliEditors AI Transform Photos Effortlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-dragon-age-origins-from-crashing-on-your-windows-10-machine-a-step-by-step-guide/"><u>Preventing Dragon Age: Origins From Crashing on Your Windows 10 Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991069716-tf2-constant-crashing-issues-heres-the-solution/"><u>TF2 Constant Crashing Issues? Here's the Solution!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-dev-error-5573-in-call-of-duty-vanguard/"><u>Troubleshooting and Fixing Dev Error 5573 in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-the-newest-dolby-sound-drivers-for-enhanced-audio-on-windows-systems/"><u>Update Your PC with the Newest Dolby Sound Drivers for Enhanced Audio on Windows Systems</u></a></li>
 </ul></div>
 

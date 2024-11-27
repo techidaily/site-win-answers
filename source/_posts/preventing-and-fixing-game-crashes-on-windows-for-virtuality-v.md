@@ -1,7 +1,7 @@
 ---
 title: Preventing and Fixing Game Crashes on Windows for 'Virtuality V'
-date: 2024-08-28T00:00:03.782Z
-updated: 2024-08-29T00:00:03.782Z
+date: 2024-11-24T23:38:02.758Z
+updated: 2024-11-26T17:07:13.711Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ Follow the steps below to fix the crashing issue.
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Step 2: Update your drivers
 
  Make sure your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing or black screen issues.
@@ -59,8 +55,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -74,21 +78,12 @@ Restart your computer for the changes to take effect.
 1. Launch Steam, right-click the game in the LIBRARY, and go to**Properties** .  
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Lower your graphics settings
 
  Some players have reported that dropping their graphics to the lowest as they can go and running the game in windowed mode would fix the issue.
@@ -97,15 +92,25 @@ Restart your computer for the changes to take effect.
 2. In the Compatibility tab, click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Edit Settings
 
@@ -114,28 +119,26 @@ Restart your computer for the changes to take effect.
 1. Press the**Windows logo key + I** together and click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
@@ -151,8 +154,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +161,22 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-apex-thrill-racers-our-favorites-5/"><u>[New] 2024 Approved Apex Thrill Racers Our Favorites (5)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-revolutionize-your-obs-studio-videos-best-practices/"><u>[New] In 2024, Revolutionize Your OBS Studio Videos Best Practices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-foremost-10-video-subtitling-services-online/"><u>[Updated] 2024 Approved Foremost 10 Video Subtitling Services Online</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-maximizing-mobile-video-quality-in-tweets/"><u>[Updated] 2024 Approved Maximizing Mobile Video Quality in Tweets</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-windows-movie-maker-for-efficient-video-projects-in-windows-8/"><u>2024 Approved Navigating Windows Movie Maker for Efficient Video Projects in Windows 8</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquer-the-clutter-learn-bg-erasure-in-figma-designs-for-2024/"><u>Conquer the Clutter Learn BG Erasure in Figma Designs for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-chrome-struggles-with-page-loads-and-how-to-resolve-it/"><u>Fixing the Issue: Why Chrome Struggles with Page Loads and How to Resolve It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-unstartable-pacific-drive-top-solutions-revealed/"><u>Fixing the Unstartable Pacific Drive – Top Solutions Revealed!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expand-your-gameplay-leading-xbox-drives-reviewed/"><u>In 2024, Expand Your Gameplay Leading Xbox Drives Reviewed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-tecno-spark-20c-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Tecno Spark 20C Face Lock?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/modern-warfare-mw3-crash-mystery-solved-overcome-the-dauntinig-error-6068/"><u>Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-resolution-for-graphics-display-issues-in-the-sims-4-game/"><u>Step-by-Step Resolution for Graphics Display Issues in The Sims 4 Game.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-why-is-my-voice-chat-blocked-by-content-warnings/"><u>Step-by-Step Solution: Why Is My Voice Chat Blocked by Content Warnings?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solution-resolve-windows-chrome-screen-trembling-a-complete-walkthrough/"><u>Ultimate Solution: Resolve Window's Chrome Screen Trembling - A Complete Walkthrough</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Cujnv1984George Orwell's 1 984 – An Unflinching Examination of the Dangers Posed by Totalitarianism that Remains Relevant in Light of Contemporary Political Landscapes and Has a Lasting Impact on Societal Discourse.
-date: 2024-08-27T23:59:13.537Z
-updated: 2024-08-28T23:59:13.537Z
+date: 2024-11-20T23:21:20.947Z
+updated: 2024-11-27T03:52:20.568Z
 tags:
   - win11
   - win10
@@ -73,9 +73,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
@@ -88,6 +85,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -97,27 +98,23 @@ Here is how to reset the Microsoft Store cache:
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
@@ -125,8 +122,9 @@ Here is how to reset the Microsoft Store cache:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: **Check for Windows Updates**
 
  The game crash problem may also lie with Windows itself. If this is the case, then you should check Windows to see if there is any updates for the game.
@@ -137,16 +135,14 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In Windows Update, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Wait for the system to check online for available updates for the game.
 
 * **If yes** , it will automatically download the update and install it. Once completed, restart your computer for the changes to take effect. After that, don’t forget to check if the Gears of War 5 PC crash issue is fixed. If yes, then great! If it’s still no joy, please move on to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -166,6 +162,10 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall the game
 
  If the above steps didn’t , then it’s time to reinstall the game to see if it works. To do so, simply uninstall the game from your PC, then head to Microsoft Store, search the game, download and install it.
@@ -173,6 +173,10 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -190,8 +194,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +201,26 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/it-takes-two-from-development-to-premier-its-here/"><u>'It Takes Two': From Development to Premier - It's Here</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-harmonize-your-online-identity-iphoneandroid-music-integration-for-2024/"><u>[New] Harmonize Your Online Identity IPhone/Android Music Integration for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-optimal-gpu-selection-for-4k-titles/"><u>[New] In 2024, Optimal GPU Selection for 4K Titles</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-surviving-youtubes-copyright-enforcement-hurdles/"><u>[New] Surviving YouTube's Copyright Enforcement Hurdles</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-engaging-eyes-most-favored-insta-filters/"><u>[Updated] Engaging Eyes Most Favored Insta Filters</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-irecorder-unleashed-a-review-revealed/"><u>2024 Approved IRecorder Unleashed A Review Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-cod-vanguards-hurdle-deciphering-and-fixing-pc-error-code-0x00001338-now-solved/"><u>Conquering CoD: Vanguard's Hurdle - Deciphering and Fixing PC Error Code '0X00001338' (NOW SOLVED)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-premier-wireless-mice-on-the-market-in-2ebydoeptime2024/"><u>Discover the Premier Wireless Mice on the Market in 2Ebydoeptime2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-optimizing-gameplay-say-goodbye-to-stutter-and-lag-in-fallout-76/"><u>Expert Advice on Optimizing Gameplay - Say Goodbye to Stutter and Lag in Fallout 76</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-final-fantasy-xvs-pc-instability-and-crashing-woes/"><u>Expert Advice: Overcoming Final Fantasy XV's PC Instability and Crashing Woes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-paso-a-paso-para-capturar-la-pantalla-en-mac-usando-recordador-de-pantalla-de-movavi/"><u>Guía Paso a Paso Para Capturar La Pantalla en Mac: Usando Recordador De Pantalla De Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-controller-setup-for-steam-gaming-correcting-detection-errors-on-windows-pcs/"><u>Mastering Controller Setup for Steam Gaming: Correcting Detection Errors on Windows PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-discord-api-a-beginners-approach-to-javascript-problems/"><u>Mastering Discord API: A Beginner's Approach to JavaScript Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-frame-rate-dips-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Resolved: Fixes for Frame Rate Dips & Stutters in Call of Duty: Modern Warfare 2 on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-csgo-solutions-for-the-game-wont-start/"><u>Troubleshooting CS:GO - Solutions for the Game Won't Start</u></a></li>
+<li><a href="https://win-trending.techidaily.com/windowsnas/"><u>WindowsサーバーのデータをNASへ効率良くバックアップする手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/world-of-warcraft-players-rejoice-put-an-end-to-that-dreaded-screen-shimmer/"><u>World of Warcraft Players Rejoice: Put an End to That Dreaded Screen Shimmer</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/1726221876114-aac-movavi/"><u>모바이버에서 원하는 유형으로 오피스 AAC 파일을 자주 사용하여 교체하세요 – Movavi</u></a></li>
+</ul></div>
 

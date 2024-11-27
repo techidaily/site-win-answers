@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-11-12T03:21:20.448Z
-updated: 2024-11-16T16:16:44.855Z
+date: 2024-11-21T16:22:51.627Z
+updated: 2024-11-26T20:14:18.865Z
 tags:
   - win11
   - win10
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -93,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -112,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -128,13 +118,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -146,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -154,7 +141,15 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -169,22 +164,12 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,20 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-experience-the-magic-of-free-voice-change-for-valorant-gaming/"><u>[New] 2024 Approved Experience the Magic of Free Voice Change for Valorant Gaming</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/are-you-willing-to-pay-for-premium-knowledge-on-apple-products-industry-leaders-say-monthly-fees-could-reach-up-to-20-insights-from-zdnet/"><u>Are You Willing to Pay for Premium Knowledge on Apple Products? Industry Leaders Say Monthly Fees Could Reach Up to $20 - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-google-and-apple-a-comprehensive-guide-to-their-new-smartwatches-deciding-which-one-gets-your-attention/"><u>Choosing Between Google and Apple: A Comprehensive Guide to Their New Smartwatches | Deciding Which One Gets Your Attention</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comprehensive-video-restoration-toolkit-by-grau-gmbh-top-tier-tech-services/"><u>Comprehensive Video Restoration Toolkit by Grau GmbH - Top-Tier Tech Services</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/configuring-filter-criteria-step-by-step-tutorial-on-using-the-condition-editor-panel/"><u>Configuring Filter Criteria: Step-by-Step Tutorial on Using the Condition Editor Panel</u></a></li>
-<li><a href="https://win-answers.techidaily.com/download-and-install-logitech-g403-gamepad-drivers-on-windows-free/"><u>Download & Install Logitech G403 Gamepad Drivers on Windows - Free</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-edge-ai-working-principles-explained/"><u>Exploring the World of Edge AI: Working Principles Explained</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723003996672-fix-your-csgo-lag-issues-instantly-simple-solutions/"><u>Fix Your CS:GO Lag Issues Instantly - Simple Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme GT 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723010005868-master-the-steel-city-adventure-no-more-pc-crashes-with-these-detroit-become-human-tweaks/"><u>Master the Steel City Adventure - No More PC Crashes with These Detroit: Become Human Tweaks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007020497-palette-knives-can-be-used-to-scrape-off-excess-underglaze-or-create-textured-effects/"><u>Palette Knives Can Be Used to Scrape Off Excess Underglaze or Create Textured Effects</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successfully-removing-hp-client-security-manager-fixing-error-code-1325-on-windows-7/"><u>Successfully Removing HP Client Security Manager: Fixing Error Code 1325 on Windows 7</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-ultimate-fix-guide-9-reliable-remedies-for-ark-extinction-game-crashes-on-windows/"><u>The Ultimate Fix Guide: 9 Reliable Remedies for ARK: Extinction Game Crashes on Windows</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-11-unbeatable-discounts-on-apple-watches-in-june-july-2-your-ultimate-guide-by-zdnet/"><u>Top 11 Unbeatable Discounts on Apple Watches in June-July 2#: Your Ultimate Guide by ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-palworld-solutions-for-launch-failures-and-load-issues/"><u>Troubleshooting Palworld: Solutions for Launch Failures and Load Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-the-new-era-youtubes-shorts-fund-explained/"><u>[New] 2024 Approved Navigating the New Era YouTube's Shorts Fund Explained</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-top-igtv-gurus-you-cant-miss/"><u>[New] Top IGTV Gurus You Can't Miss</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-unique-thumbnails-for-youtube-content-for-2024/"><u>[Updated] Crafting Unique Thumbnails for YouTube Content for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquering-the-unceasing-cold-of-our-newly-emerged-planetary-domain/"><u>Conquering the Unceasing Cold of Our Newly Emerged Planetary Domain</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/discover-the-best-14-no-cost-pc-logo-creation-programs-for-effective-brand-identity-development/"><u>Discover the Best 14 No-Cost PC Logo Creation Programs for Effective Brand Identity Development</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-and-fixing-assassins-creed-valhalla-crashes-latest-techniques/"><u>Expert Advice on Preventing and Fixing Assassin's Creed Valhalla Crashes - Latest Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-c53-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme C53 Phone | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-lunaclient-from-causing-frequent-system-failures-on-your-desktop/"><u>How to Prevent LunaClient From Causing Frequent System Failures on Your Desktop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-competitive-ar-stickers-outside-google/"><u>In 2024, A Deep Dive Into Competitive AR Stickers Outside Google</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-premium-unmanned-aerial-vehicles-for-gopro-recording/"><u>In 2024, Premium Unmanned Aerial Vehicles for GoPro Recording</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/mastering-data-deletion-a-comprehensive-look-at-bitraser-tools/"><u>Mastering Data Deletion: A Comprehensive Look at BitRaser Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002292210-paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-f1-202n-game-crash-issues-on-windows-pc/"><u>Resolved: Fixes for F1 202N Game Crash Issues on Windows PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/secrets-revealed-achieving-immortal-wealth-with-infinity-cave-on-pc/"><u>Secrets Revealed: Achieving Immortal Wealth with 'Infinity Cave' On PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-excessive-cpu-consumption-in-phasmophobia/"><u>Solving the Issue of Excessive CPU Consumption in Phasmophobia</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-your-windows-11-taskbar-step-by-step-guide-to-changing-colors/"><u>Transforming Your Windows 11 Taskbar: Step-by-Step Guide to Changing Colors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-star-wars-battlefront-2-black-screen-problems/"><u>Troubleshooting Guide: Fixing Star Wars Battlefront 2 Black Screen Problems</u></a></li>
 </ul></div>
 

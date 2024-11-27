@@ -1,7 +1,7 @@
 ---
 title: "Silent Streambar: Expert Fixes to Revive Audio on Your Twitch Broadcasts"
-date: 2024-11-15T16:11:04.277Z
-updated: 2024-11-16T21:02:09.850Z
+date: 2024-11-21T01:37:56.313Z
+updated: 2024-11-26T17:34:27.481Z
 tags:
   - win11
   - win10
@@ -22,9 +22,17 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why am I getting this error message?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
@@ -37,13 +45,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Outdated device drivers
 * Software confliction
 * etc.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
@@ -59,13 +60,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -79,13 +73,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
@@ -97,28 +84,8 @@ If your game isn’t on the list, follow these steps:
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -127,6 +94,10 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
@@ -138,13 +109,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
 
@@ -159,11 +123,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -181,10 +153,18 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -224,21 +204,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-behind-the-scenes-how-to-flip-your-snaps/"><u>[New] Behind-the-Scenes How to Flip Your Snaps</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-gamers-galaxy-100plus-spaces-of-play/"><u>[New] Gamer's Galaxy 100+ Spaces of Play</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-professionally-recording-every-aspect-of-your-ppt-presentations/"><u>[New] Professionally Recording Every Aspect of Your PPT Presentations</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/odays-hot-tickets-top-youtube-tracks-for-the-day-for-2024/"><u>[New] Today’s Hot Tickets Top Youtube Tracks for the Day for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-subtitle-mastery-made-easy-10-free-online-tools/"><u>[Updated] Subtitle Mastery Made Easy - 10 Free Online Tools</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>2024 Approved The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram/"><u>In 2024, Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-se-2020-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone SE (2020) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-trouble-heres-the-ultimate-fix-for-elex-ii-crashes/"><u>PC Gaming Trouble? Here's the Ultimate Fix for Elex II Crashes</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/quick-and-easy-guide-transfer-your-entire-hard-disk-to-a-portable-usb-drive/"><u>Quick and Easy Guide: Transfer Your Entire Hard Disk to a Portable USB Drive</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993070913-say-goodbye-to-game-downtime-stop-dead-by-daylight-from-crashing-this-year/"><u>Say Goodbye to Game Downtime: Stop Dead by Daylight From Crashing This Year</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-roblox-downtime-with-these-swift-pc-fixes-new-guide-for-202n/"><u>Say Goodbye to Roblox Downtime with These Swift PC Fixes (New Guide for 202N)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-launch-issues-fixing-pathfinder-wrath-of-the-righteous/"><u>Solving Launch Issues: Fixing Pathfinder: Wrath of the Righteous</u></a></li>
-<li><a href="https://win-answers.techidaily.com/steam-server-connection-problems-solutions-unveiled/"><u>Steam Server Connection Problems - Solutions Unveiled</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-three-kingdoms-resolving-performance-issues-and-crashes/"><u>Total War: Three Kingdoms - Resolving Performance Issues and Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-windows-pc/"><u>Troubleshooting FPS Drops & Stutters in Call of Duty: Modern Warfare 2 on Windows PC</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher/"><u>[New] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat/"><u>[Updated] Becoming a Snapping Maestro Mastering the Zoom Feature in Snapchat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-feedback-to-fanbase-the-video-journey/"><u>2024 Approved From Feedback to Fanbase The Video Journey</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-your-gaming-ultimate-guide-to-solving-low-fps-issues-in-valorant/"><u>Boosting Your Gaming: Ultimate Guide to Solving Low FPS Issues in Valorant</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-solutions-for-fixing-pacific-drive-not-starting-problem/"><u>Essential Solutions for Fixing Pacific Drive Not Starting Problem</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-tips-for-a-seamless-google-podcast-upload-experience/"><u>Expert Tips for a Seamless Google Podcast Upload Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/free-video-capture-test-apowersoft-and-more-for-2024/"><u>Free Video Capture Test Apowersoft & More for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-i-overcame-the-eternal-launch-loop-in-anthem-a-step-by-step-guide/"><u>How I Overcame The Eternal Launch Loop in Anthem - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-correctly-update-outdated-minecraft-video-card-drivers/"><u>How to Correctly Update Outdated Minecraft Video Card Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011469040-insurgency-sandstorm-update-causes-persistent-game-crashes-solved/"><u>Insurgency: Sandstorm Update Causes Persistent Game Crashes - Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-hurdle-getting-civilization-vi-running-in-windows-11/"><u>Overcoming the Hurdle: Getting Civilization VI Running in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-how-to-fix-ready-or-not-constant-crashes/"><u>PC Gaming Woes: How to Fix 'Ready Or Not' Constant Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-performance-issues-why-is-the-frame-rate-lower-in-farming-simulator-22/"><u>PC Performance Issues: Why Is the Frame Rate Lower in Farming Simulator 22?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/simplified-steps-to-correct-the-windows-update-issue-error-code-0x80070652-explained/"><u>Simplified Steps to Correct the Windows Update Issue: Error Code 0X80070652 Explained</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-linguist-behind-the-reindeer-santas-skills/"><u>The Linguist Behind the Reindeer: Santa's Skills</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-assassins-creed-syndicate-crashes-expert-advice/"><u>Ultimate Fixes for Assassin's Creed Syndicate Crashes - Expert Advice</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-elevate-your-videos-the-top-10-editing-software-options/"><u>Updated In 2024, Elevate Your Videos The Top 10 Editing Software Options</u></a></li>
 </ul></div>
 

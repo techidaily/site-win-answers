@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Resolving Minecraft Performance Issues on Desktop Computers
-date: 2024-08-27T23:59:02.693Z
-updated: 2024-08-28T23:59:02.693Z
+date: 2024-11-23T03:23:39.189Z
+updated: 2024-11-27T03:27:05.988Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ Here’s how you can download and install Windows updates:
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
@@ -61,21 +65,30 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. When you have performance issues on your game, your outdated or faulty graphics driver can be the culprit. To fix it, you need to update your graphics driver. This is pretty necessary, especially if you can’t remember when was the last time you updated it.
@@ -95,17 +108,10 @@ Here’s how you can download and install Windows updates:
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 4\. Switch to DX11
 
  DX12 was designed to bring performance boost, maximize frame rate and minimize latency by optimizing hardware utilization. Having said that, in some circumstances, some titles may not really get along well with DX12 and the truth is, for many games, DX11 is still a great option. Outriders developers also[post](https://steamcommunity.com/app/680420/discussions/2/3075370188227922699/) that switching to DX11 can fix the performance issues.
@@ -121,15 +127,13 @@ Here’s how you can do this:
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Verify integrity of game files
 
  The built-in tool “verify integrity of game files” on Steam should be utilized when you try to troubleshoot any issues you’re having with the game. It helps ensure that your game files are intact and if necessary, repair any bad or corrupted game data.
@@ -139,6 +143,10 @@ To verify the integrity of game files, take these steps:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
@@ -150,10 +158,6 @@ To verify the integrity of game files, take these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 6\. Disable Steam overlay
 
  The Steam overlay allows you to surf the web and message friends while in-game, but can also cause performance issues with some games. To check whether it’s causing your Outriders to stutter, you can turn off Steam overlay:
@@ -162,25 +166,18 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 Now play Outriders to see if you can get better gaming performance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Close unnecessary programs
 
  Performance issues such as the game freezing and stuttering can be caused by your limited system resources or an interference from a program running in the background. To solve your issues, you can close those programs such as web browsers, Adobe apps when playing Outriders. Here’s how you can do this:
@@ -192,8 +189,9 @@ Now play Outriders to see if you can get better gaming performance.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
@@ -210,8 +208,6 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +215,18 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-gaming-evolution-top-7-stardew-valley-enhancements-7/"><u>[Updated] Gaming Evolution Top 7 Stardew Valley Enhancements (#7)</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-visionarys-toolkit-for-personalized-animation-techniques/"><u>2024 Approved The Visionary's Toolkit for Personalized Animation Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-bugs-in-armored-core-6s-fires-of-rubicon-effective-strategies-for-pc-players/"><u>Bypassing Bugs in Armored Core 6'S 'Fires of Rubicon': Effective Strategies for PC Players</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discovering-top-8-android-videomosaic-creators-for-both-free-and-paid-users/"><u>Discovering Top 8 Android Videomosaic Creators for Both Free & Paid Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-resolve-cod-black-ops-cold-war-error-80070057/"><u>Effective Solutions to Resolve Cod: Black Ops Cold War Error 80070057</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-the-black-hurdle-fix-guide-for-nba-2k21-loading-screen-issue/"><u>Eliminate the Black Hurdle: Fix Guide for NBA 2K21 Loading Screen Issue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/installing-your-epson-ds-530-printer-on-windows-10-x64-essential-driver-guide-and-downloads/"><u>Installing Your Epson DS-530 Printer on Windows 10 (X64): Essential Driver Guide & Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-errors-in-call-of-duty-black-ops-4/"><u>Overcoming Startup Errors in Call of Duty Black Ops 4</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/profit-strategies-galore-top-13-income-opportunities-on-reddit/"><u>Profit Strategies Galore Top 13 Income Opportunities on Reddit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-guide-for-fixing-discord-js-errors/"><u>Quick Troubleshooting Guide for Fixing Discord JS Errors</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205054994-trouble-with-win-10s-long-lasting-goodbyes-here-are-the-fixes-you-need/"><u>Trouble with Win 10'S Long-Lasting Goodbyes? Here Are the Fixes You Need</u></a></li>
+</ul></div>
 

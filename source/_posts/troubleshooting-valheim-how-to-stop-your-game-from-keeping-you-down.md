@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Valheim - How to Stop Your Game From Keeping You Down!
-date: 2024-08-28T00:01:39.827Z
-updated: 2024-08-29T00:01:39.827Z
+date: 2024-11-22T03:34:13.452Z
+updated: 2024-11-26T22:34:29.970Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/690b7ff7f1263e02d5cef2b1949fcc420057ec1a3
 _Dota 2_ constantly crashes your computer during the gameplay? You’re not alone! Many players are reporting it. This issue might occur for several reasons, such as incompatible drivers, software conflicts, corrupt game files, improper game installation/update and PC overheating.
 
 But the good news is that you can fix it. Here’re 9 fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Dota 2 crashing issues?
 
@@ -61,9 +65,6 @@ If Dota 2 still crashes randomly, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -82,8 +83,9 @@ If Dota 2 still crashes randomly, try the fix below.
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run the game as an administrator
 
 _Dota 2_ may not be able to access certain game files on your computer under normal user mode, which could lead to the game crash. To fix it, try running the game as an administrator:
@@ -96,9 +98,6 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
@@ -107,9 +106,6 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
  You can hopefully play_Dota 2_ without crashing now. If your issue still exists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Verify the integrity of game files
 
 _Dota 2_ is likely to crash when one or more game files are damaged. So you should verify the game files to make sure any corrupt files fixed and missing files installed. Follow the instructions below:
@@ -124,16 +120,10 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-322.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-323.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Relaunch your game to test your issue.
 
  If_Dota 2_ crashing issues happen again, go ahead with the next fix.
@@ -148,17 +138,14 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
@@ -167,16 +154,14 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
@@ -187,17 +172,22 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-909.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-877.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
  If you still run into the_Dota 2_ crashing issue, don’t fret. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Set game launch options
 
  The_Dota 2_ crashing issue could be caused by incompatible game settings. To see if that’s the problem for you, try[**running the game with minimal video settings**](https://tools.techidaily.com/drivereasy/download/) or **[playing the game with default settings](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -214,6 +204,10 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-320.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Dota 2** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-310.png)
@@ -222,24 +216,18 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-312.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-315.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Type**\-safe** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-316.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Relaunch the game.
 
 If Dota 2 still crashes, check the fix below.
@@ -258,13 +246,14 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-317.png)
@@ -286,8 +275,9 @@ If Dota 2 still crashes, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-612.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-613.png)
@@ -300,9 +290,6 @@ If Dota 2 still crashes, check the fix below.
 
  If_Dota 2_ runs smoothly now, that’s great! If not, check the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall_Dota 2_
 
  If the_Dota 2_ crashing issue persists, reinstalling_Dota 2_ might be the solution for you. Follow the instructions below:
@@ -317,17 +304,10 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-326.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 **6)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar, then hit**Enter** on your keyboard.
@@ -355,8 +335,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -364,4 +342,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-novice-to-master-photographer-with-lunapic/"><u>[New] In 2024, From Novice to Master Photographer with LunaPic</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-subtle-techniques-for-edgenuity-free-study-time/"><u>[New] In 2024, Subtle Techniques for Edgenuity-Free Study Time</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-infinix-note-30-pro-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Infinix Note 30 Pro FRP Bypass Instantly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/beginners-path-to-screen-casting-with-apple-devices-for-2024/"><u>Beginner’s Path to Screen Casting with Apple Devices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-game-time-with-faster-ubisoft-connection-speeds/"><u>Boost Your Game Time with Faster Ubisoft Connection Speeds</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-stars-top-skies-sites-reviewed/"><u>Capture the Stars Top Skies Sites Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/essential-screen-capture-software-top-picks-ranked-for-2024/"><u>Essential Screen Capture Software - Top Picks Ranked for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-eliminate-lag-issues-while-playing-naraka-bladesword-online/"><u>Expert Tips to Eliminate Lag Issues While Playing Naraka Bladesword Online</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-sstem-how-to-prevent-the-game-from-crashing-while-playing-on-a-desktop/"><u>House Flipper ˈsɪstem: How to Prevent the Game From Crashing While Playing on a Desktop</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-cult-of-the-lamb-from-freezing-on-your-computer-quick-fixes/"><u>How to Stop Cult of The Lamb From Freezing on Your Computer - Quick Fixes</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-specialized-compilation-choosing-ringtones-with-ease/"><u>In 2024, Specialized Compilation Choosing Ringtones with Ease</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/nanorecording-app-critique-with-backup-choices-for-2024/"><u>NanoRecording App Critique with Backup Choices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/netflix-back-in-action-for-xbox-one-no-more-playback-errors/"><u>Netflix Back in Action for Xbox One - No More Playback Errors!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pathfinder-wrath-of-the-righteous-fixed-now-running-smoothly-on-your-pc/"><u>Pathfinder: Wrath of the Righteous Fixed - Now Running Smoothly on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005838470-resolve-pc-lag-in-resident-evil-village-with-these-proven-fixes-guide-released/"><u>Resolve PC Lag in Resident Evil Village with These Proven Fixes - Guide Released</u></a></li>
+<li><a href="https://fox-info.techidaily.com/step-by-step-harvesting-hundreds-of-tiktok-videos/"><u>Step-by-Step Harvesting Hundreds of TikTok Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-corsair-hs35-microphone-compatibility-with-windows/"><u>Troubleshooting and Resolving Corsair HS35 Microphone Compatibility with Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-non-responsive-battlenet-launcher-on-windows/"><u>Troubleshooting Guide: Fixing Non-Responsive Battle.net Launcher on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-sims-solved-graphic-hardware-issues-on-pc-and-mac/"><u>Troubleshooting The Sims ([SOLVED]) Graphic Hardware Issues on PC and Mac</u></a></li>
+</ul></div>
 

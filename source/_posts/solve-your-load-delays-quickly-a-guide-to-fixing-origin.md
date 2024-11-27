@@ -1,7 +1,7 @@
 ---
 title: Solve Your Load Delays Quickly – A Guide to Fixing 'Origin'
-date: 2024-08-28T00:00:33.932Z
-updated: 2024-08-29T00:00:33.932Z
+date: 2024-11-19T19:32:47.964Z
+updated: 2024-11-27T03:00:26.514Z
 tags:
   - win11
   - win10
@@ -53,6 +53,11 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 8. Double-click the **Local**  folder to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-folder.png)
 9. Delete the **Origin**  folder in the **Local** folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-Origin-folder.png)
 10. Restart Windows.
 11. **Double-click** the shortcut of Origin on your desktop.
@@ -61,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/d9567f73a6de787d2d45f5ed6e24adff2914444a4
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run Origin as administrator
 
  Origin sometimes may not work properly if it is not granted the administrator privilege. If Origin still keeps crashing after you cleared the Origin cache, you can try running Origin as administrator. Here is how to do it:
@@ -90,10 +92,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
@@ -116,36 +114,36 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Close Origin if it is running. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** . Under the**Process** tab, end the following processes: “Origin”, “OriginWebHelperservice” and “OriginThinSetupInternal”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager-main-screen.png)
 2. Go to your Origin install folder (Normally the path should be**C:\\Program Files (x86)\\Origin** ) and delete the file “**OriginThinSetupInternal** “.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/origin-123.png)
 3. In your Origin install folder,**right-click** the file**Origin** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Orgin-1234.png)
 4. In the**Origin Properties** window, navigate to the**Compatibility** tab and click**Run compatibility troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshoot.png)
 5. Select**Try recommended settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter.png)
 6. Click**Test the program…** to see if the new settings fix the problem.  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-2.png)
 7. If Origin can load normally, then click**Next** and Select**Yes, save these settings for this program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-3.png)
 8. If not, select**No, try again using different settings** . Then follow the on-screen instructions to run Program Compatibility Troubleshooter.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. If it still doesn’t work, then run Program Compatibility Troubleshooter again and **select the second option**   **to choose compatibility settings based on problems you notice** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Program-compatibility-troubleshooter3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Adjust the following settings manually and select **OK** when you’re done.
 
 * **Compatibility mode:**  If Origin won’t open on your current Windows system, click the drop-down list to select a previous version of Windows system to test-run it.
@@ -158,18 +156,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties.png)
 2. **Check the box** next to**Override high DPI scaling behavior** , and set**Scaling performed by:** **System** . Click**OK** to close the Origin Properties window and save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties-2.png)
 
  If Origin still crashes after you tried this fix, try the next one, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 5: Perform a Windows update
 
  The application crash issues may occur if there’s something wrong with your Windows system. Microsoft often releases Windows updates to fix bugs in Windows OS. You can try installing the latest Windows updates to see if you can fix this issue.
@@ -179,21 +171,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
  Launch Origin again to see if it crashes. If not, congratulations! You’ve fixed this issue. If this issue reappears, try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Add Origin as an exception to your third-party antivirus application
 
  The Origin crash issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -205,8 +197,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  You may need to **perform a clean boot**  if The Origin crash issue persists.
@@ -222,14 +215,8 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch Origin to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -237,6 +224,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Origin
 
@@ -250,6 +241,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
@@ -257,6 +252,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -276,8 +275,6 @@ iv. Restart your Windows system when it is completed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -285,4 +282,18 @@ iv. Restart your Windows system when it is completed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2022s-top-figure-skating-performances-for-2024/"><u>[New] 2022'S Top Figure Skating Performances for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-efficiently-handling-youtube-short-issues/"><u>[New] 2024 Approved Efficiently Handling YouTube Short Issues</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-techniques-for-swapping-video-content-in-android/"><u>[Updated] Techniques for Swapping Video Content in Android</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-drones-techniques-in-video-post-production/"><u>Enhancing Drones Techniques in Video Post-Production</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-correcting-problems-with-your-msi-dragon-center-performance/"><u>Expert Advice on Correcting Problems with Your MSI Dragon Center Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-unable-to-access-live-config-servers-error-message/"><u>How to Fix Unable to Access Live Config Servers Error Message</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-formulating-successful-product-sponsorships-in-youtubespace/"><u>In 2024, A Guide to Formulating Successful Product Sponsorships in YouTubespace</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-with-toms-hardware-insights/"><u>Navigating the World of Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/preserving-gifs-from-twitter-for-mobile-devices/"><u>Preserving GIFs From Twitter for Mobile Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-steam-vr-recognition-top-6-effective-methods-explored/"><u>Resolving Steam VR Recognition: Top 6 Effective Methods Explored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sifu-fps-performance-optimized-no-more-lag-or-stutters-on-windows-machines/"><u>Sifu FPS Performance Optimized - No More Lag or Stutters on Windows Machines</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve Your Red Dead Redemption 2 GFX Error with This Guide (ERR_GFX_STATE)
-date: 2024-11-13T05:51:51.590Z
-updated: 2024-11-17T07:02:28.385Z
+date: 2024-11-20T19:32:32.610Z
+updated: 2024-11-27T02:54:24.440Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -51,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
@@ -62,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/a848ca5db9b7c808865a38728eb2f3fa3f3cb8b72
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -103,15 +93,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -125,9 +116,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
@@ -137,6 +136,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -145,29 +148,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -182,10 +165,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -214,24 +194,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-124-smile-inducing-short-videos-on-tiktok/"><u>[New] 124 Smile-Inducing Short Videos on TikTok</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[New] 2024 Approved From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-potential-snapchats-business-toolkit/"><u>[New] 2024 Approved Unlocking Potential Snapchat's Business Toolkit</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-picture-perfection-ranking-of-photo-grid-tools/"><u>[Updated] 2024 Approved Picture Perfection Ranking of Photo Grid Tools</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-elevating-your-workflow-optimizing-googles-podcast-submission-system-for-2024/"><u>[Updated] Elevating Your Workflow Optimizing Google's Podcast Submission System for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-a-course-to-higher-views-with-top-optimization-tactics/"><u>Chart a Course to Higher Views with Top Optimization Tactics</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-effects-does-ai-strengthen-or-weaken-our-mental-health-infrastructure-and-offer-guidance/"><u>Exploring the Effects: Does AI Strengthen or Weaken Our Mental Health Infrastructure & Offer Guidance?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-resolving-warzones-non-gpu-usage-problems-for-enhanced-gaming-in-windows-11/"><u>Guide to Resolving Warzone's Non-GPU Usage Problems for Enhanced Gaming in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-diablo-4-performance-eradicate-pc-ps5-and-xbox-interruptions-once-and-for-all/"><u>Master Diablo 4 Performance: Eradicate PC, PS5 & Xbox Interruptions Once & For All</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-obstacles-patch-update-corrects-destiny-2s-pc-causality-concerns/"><u>Overcoming Obstacles: Patch Update Corrects Destiny 2'S PC Causality Concerns</u></a></li>
-<li><a href="https://win-answers.techidaily.com/persistent-bugs-call-of-duty-vanguard-still-causing-crashes-for-windows-users/"><u>Persistent Bugs: Call of Duty Vanguard Still Causing Crashes for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/six-secrets-to-repairing-random-pc-errors-and-preventing-future-crashes/"><u>Six Secrets to Repairing Random PC Errors and Preventing Future Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-found-for-the-postponed-release-of-immortals-fenyx-rising-game/"><u>Solution Found for the Postponed Release of Immortals: Fenyx Rising Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/success-guide-getting-back-4-blood-running-smoothly-on-various-windows-systems/"><u>Success Guide: Getting 'Back 4 Blood' Running Smoothly on Various Windows Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/the-modern-readers-pathway-to-capturing-internet-television-for-2024/"><u>The Modern Reader's Pathway to Capturing Internet Television for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/total-war-warhammer-pertinent-problems-how-to-prevent-pc-game-crashes-effectively/"><u>Total War: Warhammer Pertinent Problems - How to Prevent PC Game Crashes Effectively</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-common-lag-issues-in-fortnite-for-smoother-gameplay/"><u>Troubleshooting Common Lag Issues In Fortnite For Smoother Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-crashes-in-hell-let-loose-a-guide-for-players/"><u>Troubleshooting Persistent Crashes in 'Hell Let Loose': A Guide for Players</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-razer-keyboard-illumination-issues/"><u>Troubleshooting Your Razer Keyboard Illumination Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-entry-level-sports-cameras-that-dont-break-the-bank/"><u>[New] Entry-Level Sports Cameras that Don't Break the Bank</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earnings-escalation-via-youtube-channel-initiatives/"><u>[New] In 2024, Earnings Escalation via YouTube Channel Initiatives</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellence-written-segmented-by-film-categories/"><u>[Updated] Excellence Written, Segmented by Film Categories</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-pace-control-in-snapchats-video-feature-for-2024/"><u>[Updated] Pace Control in Snapchat's Video Feature for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-key-to-click-through-success-top-thumbnail-size-recommendations/"><u>[Updated] The Key to Click-Through Success Top Thumbnail Size Recommendations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/action-camera-boosters-and-their-buyers-guide-for-2024/"><u>Action Camera Boosters and Their Buyer's Guide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-security-infringement-notice-issue-within-your-favorite-video-game/"><u>Addressing The 'Security Infringement Notice' Issue Within Your Favorite Video Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-in-black-ops-cold-war-solve-your-shader-compiling-glitches-now/"><u>Beat the Lag in Black Ops Cold War - Solve Your Shader Compiling Glitches Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diablo-iii-no-more-crashes-uncover-proven-fixes-to-improve-your-gaming-experience/"><u>Diablo III No More Crashes – Uncover Proven Fixes to Improve Your Gaming Experience</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-2024s-choice-of-12-leading-free-internet-calling-apps/"><u>Discover the 2024'S Choice of 12 Leading Free Internet Calling Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-game-performance-tips-to-fix-frame-drops-and-lagging-in-outriders-on-your-computer/"><u>Enhancing Game Performance: Tips to Fix Frame Drops & Lagging in Outriders on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-starcraft-ii-brood-war-non-launch-problems/"><u>How to Fix Starcraft II: Brood War Non-Launch Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-glitches-a-users-guide-to-repairing-the-clownfish-microphone/"><u>Overcoming Glitches: A User's Guide to Repairing the Clownfish Microphone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-call-of-duty-mobile-lagging-problem-for-playstation-nintendo-switch-and-pc/"><u>Solving Call of Duty: Mobile Lagging Problem for PlayStation, Nintendo Switch & PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-components-your-ultimate-tech-resource/"><u>Tom's Computer Components: Your Ultimate Tech Resource</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-solution-fixing-your-nier-automata-for-a-smooth-play-experience/"><u>Unlock the Solution: Fixing Your NieR: Automata for a Smooth Play Experience</u></a></li>
 </ul></div>
 

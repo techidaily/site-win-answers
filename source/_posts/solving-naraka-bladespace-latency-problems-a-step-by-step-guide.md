@@ -1,7 +1,7 @@
 ---
 title: "Solving Naraka Bladespace Latency Problems: A Step-by-Step Guide"
-date: 2024-08-27T23:58:27.020Z
-updated: 2024-08-28T23:58:27.021Z
+date: 2024-11-23T17:23:09.851Z
+updated: 2024-11-27T01:25:06.647Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 
  There’s one tip before you try the fixes:**keep P5S on Window mode.** This is required, the game won’t run in full screen for some reason.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 2. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Edit P5S file](https://tools.techidaily.com/drivereasy/download/)
 4. [Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Change game properties
 
@@ -40,8 +48,9 @@ Persona 5 Strikers black screen issue is infuriating. Players want to defeat the
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your driver
 
  The black screen issue usually relates to the PC’s graphics card and graphics driver. If the graphics driver on your PC is outdated or corrupted, there might be crashes, black screen, lags and etc.
@@ -60,21 +69,17 @@ There are two ways you can update your graphics drivers:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Edit P5S file
 
  Edit the configure file might be a solution for some players. We highly recommend you**back up the file** you’re about to edit so that you can restore it when there’re certain issues appear.
@@ -86,9 +91,9 @@ There are two ways you can update your graphics drivers:
 5. Save the change.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Change NVIDIA settings
 
  If you have an NVIDIA card on your PC, you can use this fix. Make sure Previously, the game would ONLY work in Windowed mode for me, and I would constantly get the infinite loading black screen. This guide is for those with Nvidia cards only.
@@ -110,8 +115,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +122,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-revamping-subtitles-from-srt-with-ease-for-2024/"><u>[New] Revamping Subtitles From SRT with Ease for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-streamlining-screen-recording-with-nvidia-for-2024/"><u>[New] Streamlining Screen Recording with NVIDIA for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-a18-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-15-plus-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone 15 Plus to iPad | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-mp4-vs-h264-format-guide-understanding-the-key-distinctions/"><u>Comprehensive MP4 vs H.264 Format Guide: Understanding the Key Distinctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficient-tactics-to-solve-your-acrocefexe-malfunction-issues/"><u>Efficient Tactics to Solve Your AcroCEF.exe Malfunction Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-for-players-facing-game-crashes-in-ghost-recon-breakpoint/"><u>Effortless Solutions for Players Facing Game Crashes in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-dragon-age-origins-troubleshooting-crashes-on-windows-11-solutions/"><u>Fixing Dragon Age: Origins - Troubleshooting Crashes on Windows 11 | Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-drone-titans-for-industrial-lifting-challenges/"><u>In 2024, Drone Titans for Industrial Lifting Challenges</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/29859495-in-2024-elevate-your-videos-with-complimentary-banners-here/"><u>In 2024, Elevate Your Videos with Complimentary Banners, Here!</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-legacy-keyboard-triggers-for-narrator/"><u>Mastering Legacy Keyboard Triggers for Narrator</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximize-functionality-invest-in-independent-appliances-a-standard-fridge-and-an-ipad-not-just-a-smart-fridge/"><u>Maximize Functionality: Invest in Independent Appliances - A Standard Fridge & an iPad, Not Just a Smart Fridge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003421091-optimizing-your-experience-with-total-war-warhammer-ii-eliminating-crashing-troubles-once-and-for-all/"><u>Optimizing Your Experience with Total War: WARHAMMER II - Eliminating Crashing Troubles Once & for All!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/total-war-warhammer-ii-troubleshooting-guide-to-overcome-frequent-crashes/"><u>Total War: Warhammer II Troubleshooting Guide to Overcome Frequent Crashes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: War Thunder Crashes Continuously? Top Fixes & Strategies for Stability
-date: 2024-08-28T00:01:17.285Z
-updated: 2024-08-29T00:01:17.285Z
+date: 2024-11-24T17:15:46.844Z
+updated: 2024-11-26T17:06:34.067Z
 tags:
   - win11
   - win10
@@ -68,7 +68,15 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure your computer meets the requirements, then read on and try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -106,23 +114,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Verify the integrity of your game files
 
  Damaged or missing game files might also cause your game to fail. If you’re running the game on Steam, try verifying the integrity of your game files. Here is how to do it:
@@ -141,16 +140,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 5: Change the launch option
 
  Many players report that running the game with**\-dxlevel 85 -console -windowed -noborder** launch option fixed the crashing issue. Follow the instructions below to see how to do it:
@@ -162,12 +155,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
 
@@ -177,14 +174,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -198,9 +196,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
@@ -208,9 +203,9 @@ Follow the instructions below to stop the automatic downloads:
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Steam
 
  If none of the fixes above worked for you, reinstalling Steam is very likely the solution to your issue. Follow the instructions below:
@@ -220,8 +215,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
@@ -230,13 +226,25 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -246,16 +254,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **10)**  Relaunch Steam and your game.
 
 ### Fix 8:**Reseat PC components**
@@ -316,8 +318,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -325,4 +325,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-reel-revolution-enjoying-twitter-videos-at-ultimate-quality/"><u>[New] Reel Revolution Enjoying Twitter Videos at Ultimate Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-winter-vibes-selecting-heated-background-ideas/"><u>[New] Winter Vibes Selecting Heated Background Ideas</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-top-notch-20-anime-opening-songs-for-2024/"><u>[Updated] Top-Notch 20 Anime Opening Songs for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/countering-hp-lcd-backlight-variability/"><u>Countering HP LCD Backlight Variability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-mysterious-black-screen-on-discord-while-you-share-content/"><u>Fixing the Mysterious Black Screen on Discord While You Share Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/flawlessly-merged-the-linkage-of-instagram-and-tiktok-for-2024/"><u>Flawlessly Merged The Linkage of Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/oes-youtube-work-after-a-video-is-uploaded-for-2024/"><u>How Does YouTube Work After a Video Is Uploaded for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-8-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>How to Unlock iPhone 8 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unblock-videos-from-twitter-in-chrome/"><u>In 2024, Unblock Videos From Twitter in Chrome</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-solutions-for-resolving-rust-not-responding-glitch-as-of-2024/"><u>New Solutions for Resolving 'Rust Not Responding' Glitch as of 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pro-tips-for-attaining-rare-equipment-through-fps-drops-in-the-mass-effect-series/"><u>Pro Tips for Attaining Rare Equipment Through FPS Drops in the Mass Effect Series</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tips-and-tricks-to-restore-sound-during-discord-live-presentations-via-screen-share/"><u>Tips & Tricks to Restore Sound During Discord Live Presentations via Screen Share</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-reducing-cyberpunk-2077s-excessive-cpu-consumption/"><u>Troubleshooting Guide: Reducing Cyberpunk 2077'S Excessive CPU Consumption</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-solutions-to-resolve-call-of-duty-warzones-black-screen-issue-updated-for-2n4/"><u>Ultimate Solutions to Resolve Call of Duty Warzone's Black Screen Issue (Updated for 2N4)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010734126-understanding-the-pause-in-ascents-launch-now-solved/"><u>Understanding the Pause in Ascent's Launch - Now Solved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003037437-warzone-disc-reading-troubles-heres-how-to-solve-it-for-versions-50-and-31/"><u>Warzone Disc Reading Troubles? Here's How to Solve It for Versions 5.0 & 3.1!</u></a></li>
+</ul></div>
 

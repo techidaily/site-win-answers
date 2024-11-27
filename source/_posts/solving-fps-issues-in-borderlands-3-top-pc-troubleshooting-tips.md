@@ -1,7 +1,7 @@
 ---
 title: "Solving FPS Issues in Borderlands 3: Top PC Troubleshooting Tips"
-date: 2024-08-27T23:58:49.181Z
-updated: 2024-08-28T23:58:49.181Z
+date: 2024-11-19T18:45:55.607Z
+updated: 2024-11-27T00:30:32.224Z
 tags:
   - win11
   - win10
@@ -60,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -91,17 +88,14 @@ thumbnail: https://thmb.techidaily.com/896a3051dab897fe8d0c2740f6699976d5490b685
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -110,9 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -133,6 +124,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -144,8 +139,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -158,13 +154,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -178,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-level-up-your-farming-life-explore-7-14-mods/"><u>[New] In 2024, Level Up Your Farming Life - Explore #7-14 Mods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-secure-and-upgrade-your-video-conferences-top-10-recorder-choices/"><u>[Updated] 2024 Approved Secure and Upgrade Your Video Conferences - Top 10 Recorder Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-the-art-of-memetic-mastery/"><u>2024 Approved The Art of Memetic Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-the-buffer-effective-fixes-for-hogwarts-legacys-frame-drops-and-hitches-updated-for-2hren/"><u>Bypass the Buffer: Effective Fixes for Hogwarts Legacy's Frame Drops & Hitches, Updated for 2Hren</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-companion-for-online-radio-preservationists/"><u>In 2024, The Ultimate Companion for Online Radio Preservationists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-the-way-in-personal-trail-tracking-drone-innovation/"><u>Leading the Way in Personal Trail-Tracking Drone Innovation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/monsanto-company-nd-glyphosate-general-information-retrieved-from-(httpswwwmonsantocomglyphosate-general-information)/"><u>Monsanto Company (N.d.). Glyphosate: General Information. Retrieved From <https://www.monsanto.com/glyphosate-general-information></u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-complexity-palm-2-versus-gpt-4/"><u>Navigating AI Complexity: PaLM 2 Versus GPT-4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-multiplayer-malfunctions-in-elden-ring-with-these-tips/"><u>Overcome Multiplayer Malfunctions in Elden Ring with These Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-when-your-outlook-application-fails-to-start/"><u>Solution Guide: When Your Outlook Application Fails to Start</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-key-to-conquering-the-new-york-times-puzzle-a-strands-guide/"><u>The Key to Conquering the New York Times Puzzle: A 'Strands' Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
+</ul></div>
 

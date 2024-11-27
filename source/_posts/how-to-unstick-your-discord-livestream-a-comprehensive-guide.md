@@ -1,7 +1,7 @@
 ---
 title: "How to Unstick Your Discord Livestream: A Comprehensive Guide"
-date: 2024-08-27T23:59:01.452Z
-updated: 2024-08-28T23:59:01.452Z
+date: 2024-11-23T20:48:44.130Z
+updated: 2024-11-27T00:01:46.405Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ Minimum system requirements of Teardown
 
  To see if that’s the case,**turn off your overclocking utilities** (if you’re using any like MSI Afterburner) and**set the clock speed back to the default** . If the crashing problem isn’t mitigated, there are more fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Allow Teardown through controlled folder access
 
  If Teardown crashes when you do a quicksave, the game is probably blocked by Windows Security which protects against viruses and malware. To ensure the game gets full access to necessary files and data, you can add it as an allowed app following the steps below:
@@ -61,9 +65,6 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-1.jpg)
@@ -72,20 +73,22 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click**Manage settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-4-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Scroll down and click**Manage Controlled folder access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** When Controlled folder access is enabled, you can click**Allow an app through Controlled folder access** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-7.jpg)
@@ -94,14 +97,12 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Relaunch the game to see if crashing persists. If unluckily yes, then go ahead with next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Temporarily disable the antivirus software
 
  Antivirus aims to prevent potential security threats on computer, but it’s sometimes overprotective and can interfere with your games the wrong way. To see if that’s the cause, turn off your antivirus programs and re-open Teardown.
@@ -109,6 +110,10 @@ Minimum system requirements of Teardown
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
  If the game runs smoothly now, add Teardown to the exception list of your anti-virus programs so you can use both without conflicts. If this method doesn’t work, move towards the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics card driver
 
@@ -135,6 +140,10 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -142,8 +151,9 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -151,9 +161,6 @@ Minimum system requirements of Teardown
 
  Launch Teardown to test the game performance with an updated graphics driver. Still no luck? Then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of game files
 
  Missing or damaged game files are known as the most common cause of PC game crashing. To fix it, you should verify the integrity of your game files on Steam, which just takes a few steps:
@@ -162,16 +169,10 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right-click Teardown and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **3)** Navigate to the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-3.jpg)
@@ -187,8 +188,9 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Right-click**Teardown** from the game list and click**Manage** \>**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-1.jpg)
@@ -210,8 +212,6 @@ Minimum system requirements of Teardown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +219,23 @@ Minimum system requirements of Teardown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhance-every-viewing-moment-with-these-top-6-free-platforms-for-youtube-short-downloads/"><u>[New] 2024 Approved Enhance Every Viewing Moment with These Top 6 Free Platforms for YouTube Short Downloads</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-streaming-through-vlc-a-comprehensive-guide-to-mp4-and-format-switches/"><u>[New] Streaming Through VLC A Comprehensive Guide to MP4 & Format Switches</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-essential-tips-for-crafting-engaging-facebook-reels/"><u>[Updated] Essential Tips for Crafting Engaging Facebook Reels</u></a></li>
+<li><a href="https://win11.techidaily.com/delving-into-windows-memory-management-via-pagefilesys/"><u>Delving Into Windows' Memory Management via Pagefile.sys</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-unlocking-the-potential-of-your-samsung-tv-with-remote-functionality/"><u>Expert Advice: Unlocking the Potential of Your Samsung TV with Remote Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-past-common-loading-problems-in-the-elder-scrolls-online/"><u>Getting Past Common Loading Problems in The Elder Scrolls Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-in-game-recorder-faceoff/"><u>In 2024, In-Game Recorder Faceoff</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oppo-reno-10-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Oppo Reno 10 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-sound-issues-in-dying-light-effective-fixes-and-advice/"><u>Overcoming Sound Issues in Dying Light: Effective Fixes & Advice</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-data-keepers-expert-top-10-selections/"><u>Prime Data Keepers Expert Top 10 Selections</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-woes-solving-the-problem-of-a-game-that-just-wont-start/"><u>Team Fortress 2 Woes: Solving the Problem of a Game That Just Won’t Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-for-counteracting-lag-and-reducing-ping-in-chivalry-ii-latest-insights/"><u>Top Strategies for Counteracting Lag & Reducing Ping in Chivalry II - Latest Insights!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-csgo-startup-issues-quick-solutions/"><u>Troubleshooting CS:GO Startup Issues - Quick Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012283443-ultimate-6-strategies-to-boost-your-frame-rate-in-escape-from-tarkov/"><u>Ultimate 6 Strategies to Boost Your Frame Rate in Escape From Tarkov</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-to-do-if-ghost-recon-breakpoint-fails-to-load-expert-advice-for-gamers/"><u>What to Do If Ghost Recon Breakpoint Fails to Load? Expert Advice for Gamers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-honor-100-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Honor 100 | Dr.fone</u></a></li>
+</ul></div>
 

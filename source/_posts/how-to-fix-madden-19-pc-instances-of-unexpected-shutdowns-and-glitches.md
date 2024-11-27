@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2024-11-13T20:57:05.647Z
-updated: 2024-11-16T17:48:54.797Z
+date: 2024-11-20T01:47:14.571Z
+updated: 2024-11-26T17:13:08.667Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
@@ -99,10 +100,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Once your driver has been updated, restart your computer.
@@ -125,19 +123,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -152,13 +137,6 @@ Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -169,19 +147,24 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
@@ -209,22 +192,24 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-editors-eye-view-visualscape-pro-edition/"><u>[New] Editor's Eye View VisualScape Pro Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-lighting-up-dull-iphone-videos-in-3-ways/"><u>2024 Approved Lighting up Dull iPhone Videos in 3 Ways</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-nows-vr-innovation-snapshot/"><u>2024 Approved Now's VR Innovation Snapshot</u></a></li>
-<li><a href="https://win-answers.techidaily.com/clearing-up-rumors-assassins-creed-valhalla-is-set-to-launch-on-schedule/"><u>Clearing Up Rumors: Assassin's Creed Valhalla Is Set to Launch on Schedule</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortless-solutions-for-when-apex-legends-fails-to-launch-expert-tips-and-tricks/"><u>Effortless Solutions for When Apex Legends Fails to Launch: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixation-guide-eliminating-unwanted-cursor-blink-on-screen/"><u>Fixation Guide: Eliminating Unwanted Cursor Blink on Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-persistent-crashes-of-thunder-tier-one-game-on-pc/"><u>Fixing the Persistent Crashes of Thunder Tier One Game on PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-updates-how-to-install-drivers-for-your-nvidia-gtx-1660-super/"><u>Get the Latest Updates: How to Install Drivers for Your NVIDIA GTX 1660 SUPER</u></a></li>
-<li><a href="https://win-answers.techidaily.com/hitman-3-no-more-black-screens-effective-solutions-and-tips-for-a-seamless-gaming-experience-on-pc/"><u>Hitman 3 No More Black Screens: Effective Solutions and Tips for a Seamless Gaming Experience on PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-common-challenges-with-geforce-experience-a-step-by-nstep-guide/"><u>Overcoming Common Challenges with GeForce Experience: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/phoenixs-fixing-module-corrupt-pdfs/"><u>Phoenix's Fixing Module: Corrupt PDFs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/revamp-your-pc-gaming-experience-by-overcoming-frame-rate-dips-in-games/"><u>Revamp Your PC Gaming Experience by Overcoming Frame Rate Dips in Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005023142-step-by-step-fix-for-acrocefexe-errors-on-windows-expert-tips/"><u>Step-by-Step Fix for AcroCEF.exe Errors on Windows – Expert Tips!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-asus-wifi-routers-in-2/"><u>Top-Rated ASUS WiFi Routers in 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-smooth-play-in-bloodhunt-troubleshooting-pc-crashes-and-lag/"><u>Ultimate Guide to Smooth Play in BloodHunt: Troubleshooting PC Crashes and Lag</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-a15-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy A15 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-ai-techniques-for-bing-android-app-users/"><u>Essential AI Techniques for Bing Android App Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-on-getting-your-msi-graphics-driver-and-center-back-online/"><u>Expert Tips on Getting Your MSI Graphics Driver and Center Back Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exquisite-savings-exceptional-high-end-gadgets-worth-a-spin/"><u>Exquisite Savings: Exceptional High-End Gadgets Worth a Spin</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-smooth-play-in-valheim-essential-tips-for-fixing-high-ping-on-pc/"><u>Get Smooth Play in Valheim: Essential Tips for Fixing High Ping on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-on-pc-step-by-step-solutions-for-uninterrupted-play-and-avoiding-system-failures/"><u>Guilty Gear Strive on PC: Step-by-Step Solutions for Uninterrupted Play and Avoiding System Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-your-account-from-a-vac-error-on-dota-2/"><u>How to Prevent Your Account From a VAC Error on Dota 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-in-your-phasmophobia-vr-experience/"><u>How to Restore Functionality in Your Phasmophobia VR Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord N30 5G</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-sculpt-visual-jokes-adobe-memes-guide/"><u>In 2024, Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/keeping-friends-close-and-strangers-outdoorsy/"><u>Keeping Friends Close and Strangers Outdoorsy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-quiet-zone-heres-how-to-restore-sound-on-your-computer-game/"><u>Minecraft Quiet Zone? Here's How to Restore Sound on Your Computer Game</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-a58-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A58 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-doubts-definitive-edition-of-the-mafia-set-to-drop-soon/"><u>Resolving Doubts: 'Definitive Edition' Of The Mafia Set to Drop Soon</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-errors-and-crashing-in-the-pc-version-of-msfs-2020/"><u>Troubleshooting Continuous Errors and Crashing in the PC Version of MSFS 2020</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-heart-of-iron-iv-glitches-and-bugs-for-smoother-gameplay/"><u>Troubleshooting Heart of Iron IV Glitches and Bugs for Smoother Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-sneaky-savings-score-the-elusive-discounted-ipad-pro-before-prime-day-insights/"><u>Unveiling Apple’s Sneaky Savings: Score the Elusive Discounted iPad Pro Before Prime Day | Insights</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-10-most-popular-minion-memes-that-moms-are-crazy-about/"><u>Updated 2024 Approved 10 Most Popular Minion Memes that Moms Are Crazy About</u></a></li>
 </ul></div>
 

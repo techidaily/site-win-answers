@@ -1,7 +1,7 @@
 ---
 title: Obs Mic Not Working? Discover the Best Solutions to Get It Up & Running Again!
-date: 2024-11-12T12:57:39.603Z
-updated: 2024-11-17T08:30:02.242Z
+date: 2024-11-20T16:00:38.983Z
+updated: 2024-11-26T21:10:17.350Z
 tags:
   - win11
   - win10
@@ -37,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Disable Discord in Task Manager
@@ -51,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 2. Type**taskmgr** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
@@ -79,28 +63,26 @@ thumbnail: https://thmb.techidaily.com/6afde60cdf2c4ed08818a0c3bb279e1893a9ceb46
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
@@ -132,6 +114,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -149,20 +135,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-master-your-stream-best-cameras-to-capture-every-moment-on-twitch/"><u>[Updated] In 2024, Master Your Stream Best Cameras to Capture Every Moment on Twitch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722991984783-battlefield-v-stability-fixes-for-windows-users-no-more-crashes/"><u>Battlefield V Stability Fixes for Windows Users – No More Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boosting-your-ubisoft-connect-speeds-ultimate-tips-and-tricks/"><u>Boosting Your Ubisoft Connect Speeds: Ultimate Tips and Tricks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/converter-de-m2p-online-sem-custo-a-solucao-do-movavi/"><u>Converter De M2P Online Sem Custo: A Solução Do Movavi</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-maplestory-crashing-problems-in-windows-10-expert-advice-and-solutions/"><u>How to Stop MapleStory Crashing Problems in Windows 10: Expert Advice and Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-x100-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo X100 Pattern Lock Screen</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-vive-review-where-real-and-virtual-collide-for-maximum-impact/"><u>In 2024, Vive Review Where Real and Virtual Collide for Maximum Impact</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-fresh-tp-link-ac-wireless-driver-on-your-computer-windows-supported/"><u>Install Fresh TP-Link AC Wireless Driver on Your Computer (Windows Supported)</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-time-lapse-video-editing-top-picks-for-free-and-paid-tools/"><u>New In 2024, Time-Lapse Video Editing Top Picks for Free and Paid Tools</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/newly-updated-windows-11-drivers-for-amd-radeon-hd-ebyss-optimizing-performance-and-stability/"><u>Newly Updated Windows 11 Drivers for AMD Radeon HD Ebyss - Optimizing Performance & Stability</u></a></li>
-<li><a href="https://win-answers.techidaily.com/silence-broken-comprehensive-guide-to-restore-audio-in-skyrim/"><u>Silence Broken: Comprehensive Guide to Restore Audio in Skyrim</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-tricks-to-solve-steams-corrupted-disc-issue/"><u>Simple Tricks to Solve Steam's Corrupted Disc Issue</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-to-lower-discords-high-cpu-usage-updated-guide-for-2nnd4/"><u>Step-by-Step Solutions to Lower Discord's High CPU Usage - Updated Guide for 2Nnd4</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-with-logitech-g-hub-compatibility-on-pc/"><u>Troubleshooting Guide: Fixing Issues with Logitech G Hub Compatibility on PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quickcapture-hd-software/"><u>[Updated] QuickCapture HD Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-chronic-black-screen-glitch-when-playing-fortnite-on-pcs-with-windows-os/"><u>Effective Solutions for the Chronic Black Screen Glitch When Playing Fortnite on PCs with Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fallout-groovy-76-optimization-tips-eliminating-gameplay-hitches-and-hiccups/"><u>Fallout Groovy 76 Optimization Tips: Eliminating Gameplay Hitches and Hiccups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-crashing-problems-within-naraka-bladepoint-gaming-experience/"><u>Fixing the Crashing Problems Within Naraka: Bladepoint Gaming Experience</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-tecno-spark-20-pro-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Tecno Spark 20 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-anthems-never-ending-launch-sequence-challenge/"><u>How to Overcome Anthem's Never-Ending Launch Sequence Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-severe-developer-bugs-in-cods-modern-warfare-and-warzone/"><u>How to Resolve Severe Developer Bugs in CoD's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-video-game-from-freezing-or-crashing-on-windows-11-and-10-systems/"><u>How to Stop Your Video Game From Freezing or Crashing on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-play-in-grand-theft-auto-v-strategies-to-fix-persistent-freezing-and-jittering-issues/"><u>Improving Play in Grand Theft Auto V - Strategies to Fix Persistent Freezing and Jittering Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-poco-f5-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Poco F5 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-make-it-shine-professional-video-editing-techniques-for-home-creators/"><u>In 2024, Make It Shine Professional Video Editing Techniques for Home Creators</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unleash-potential-in-digital-art-top-10-android-drawing-app-reviews/"><u>In 2024, Unleash Potential in Digital Art Top 10 Android Drawing App Reviews</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-detected-from-your-microphone-heres-what-to-do/"><u>No Audio Detected From Your Microphone - Here’s What To Do</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/pictureperfection-fine-tuning-image-sizes-on-insta/"><u>PicturePerfection Fine-Tuning Image Sizes on Insta</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-resolving-frame-rate-issues-within-dying-light-game/"><u>Troubleshooting and Resolving Frame Rate Issues Within Dying Light Game</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/troubleshooting-lag-issues-in-age-of-empires-4-for-smooth-gameplay/"><u>Troubleshooting Lag Issues in Age of Empires 4 for Smooth Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-no-output-from-camera-on-your-snap-device/"><u>Troubleshooting: Fixing 'No Output From Camera' On Your Snap Device</u></a></li>
+<li><a href="https://network-issues.techidaily.com/wow-anomaly-handling-guide-fix-519/"><u>WoW Anomaly Handling Guide: Fix #519</u></a></li>
+<li><a href="https://extra-information.techidaily.com/zero-price-green-screen-resources/"><u>Zero-Price Green Screen Resources</u></a></li>
 </ul></div>
 

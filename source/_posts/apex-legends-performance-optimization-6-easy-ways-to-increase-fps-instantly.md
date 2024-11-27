@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends Performance Optimization: 6 Easy Ways to Increase FPS Instantly"
-date: 2024-11-15T12:38:51.754Z
-updated: 2024-11-16T17:16:09.873Z
+date: 2024-11-21T02:35:04.910Z
+updated: 2024-11-26T17:21:13.463Z
 tags:
   - win11
   - win10
@@ -51,21 +51,7 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 3. It may take a while for Steam to complete the scan. If any game files are found corrupted or missing, Steam will replace or add the new game files for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If verifying and repairing the game files doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Close unnecessary background programs
 
@@ -74,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 1. Press**Ctrl** and**Shift** and**Esc** at the same time to open the Task Manager.
 2. Under the**Processes** tab, look for the processes that are eating up the resources. Right-click the process and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  PS: there are some known**programs that may interfere with Steam games** . If you’re not sure which programs seem to have triggered the crashing issue, feel free to refer to the list below and check your PC.
 
@@ -86,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c
 * IP filtering/blocking programs
 
  Launch Lost Ark to test if the crashing issue is fixed now. If the problem persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -122,13 +105,6 @@ If this doesn’t help, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  It’s important that Lost Ark is not running while Windows is installing the updates in the background. When Windows is writing data into the drive, it could interfere with the gameplay.  
@@ -136,6 +112,10 @@ If this doesn’t help, move on to the next fix.
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check that the Windows Update client is not running while you’re playing Lost Ark.
 
  If this doesn’t help or your system is already up-to-date, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Check your antivirus software
 
@@ -147,9 +127,17 @@ If this doesn’t help, move on to the next fix.
 
 If the crashing issue persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Turn off overlays
 
  Some players found that overlays have caused Lost Ark to crash randomly, and the issue didn’t return when they turned off the overlays. You can give it a try as well to see if it helps with your crashing issue. Here’s how:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steam
 
@@ -167,10 +155,7 @@ If the crashing issue persists, try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Discord
@@ -180,6 +165,10 @@ If the crashing issue persists, try the next fix.
 2. On the left panel, scroll down and find**Game Overlay** . Toggle off**Enable in-game overlay** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
 3. Run Lost Ark and test the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
@@ -200,23 +189,22 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Go to the**Startup** tab, click**Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can now launch Lost Ark to test if you still get errors and crashes. If the issue persists, jump to the[last fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -247,10 +235,7 @@ If the crashing issue persists, try the next fix.
 3. Reboot and try launching Lost Ark.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with Lost Ark.
@@ -274,13 +259,6 @@ If the crashing issue persists, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -309,18 +287,16 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-tube-to-chat-sharing-video-content-from-youtube-and-twitter-directly/"><u>[New] In 2024, From Tube to Chat Sharing Video Content From YouTube & Twitter Directly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-innovative-design-and-graphics-free-and-affordable-sources/"><u>[Updated] Innovative Design and Graphics Free & Affordable Sources</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-iphone-camera-for-nighttime-pics/"><u>[Updated] Navigating iPhone Camera for Nighttime Pics</u></a></li>
-<li><a href="https://win-answers.techidaily.com/beat-ubisoft-connect-glitches-a-step-by-step-guide-to-get-you-back-online/"><u>Beat Ubisoft Connect Glitches - A Step-by-Step Guide to Get You Back Online !</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decode-the-mystery-effective-solutions-for-halinitializationfailed-stop-0x0000005c/"><u>Decode the Mystery: Effective Solutions for HAL_INITIALIZATION_FAILED (STOP 0X0000005C)</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-2024-black-screen-bug-in-call-of-duty-warzone-expert-advice/"><u>How to Fix the 2024 Black Screen Bug in Call of Duty: Warzone - Expert Advice</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-manage-and-resolve-intense-cpu-utilization-issues-on-your-new-world-experience/"><u>How To Manage and Resolve Intense CPU Utilization Issues on Your New World Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-troubleshooting-low-fps-and-stutters-in-splitgate/"><u>Optimizing Your Gameplay: Troubleshooting Low FPS and Stutters in Splitgate</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-bluestacks-freezing-issues-with-these-5-simple-fixes/"><u>Resolve BlueStacks Freezing Issues with These 5 Simple Fixes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/transform-your-vocabulary-with-mondly-top-app-of-2022/"><u>Transform Your Vocabulary with Mondly - Top App of 2022</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009236469-trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/your-personal-dj-for-fitness-discover-the-music-capabilities-of-garmin-vivoactive-3/"><u>Your Personal DJ for Fitness: Discover the Music Capabilities of Garmin Vivoactive 3</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-insiders-guide-to-going-live-on-instagram/"><u>[Updated] 2024 Approved The Insider's Guide to Going Live on Instagram</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-online-accessory-fb-stories-capture-app/"><u>[Updated] In 2024, Online Accessory Fb Stories Capture App</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-the-mechanics-of-instagrams-featured-stories/"><u>2024 Approved The Mechanics of Instagram's Featured Stories</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-a-glitchy-phasmophobia-virtual-reality-experience/"><u>Expert Tips for Fixing a Glitchy Phasmophobia Virtual Reality Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-troubleshooting-fixing-the-missing-game-entry-issue/"><u>Fortnite Troubleshooting: Fixing the Missing Game Entry Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improve-your-deathloop-gameplay-on-pc-by-fixing-stuttering-problems-strategies-revealed/"><u>Improve Your Deathloop Gameplay on PC by Fixing Stuttering Problems - Strategies Revealed</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-g54-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola G54 5G PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-removal-of-peripherals-quick-fixes-for-uninstalling-printers-on-windows/"><u>Master the Removal of Peripherals: Quick Fixes for Uninstalling Printers on Windows</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-future-of-display-technology-how-qdel-screens-surpass-oled-limitations/"><u>The Future of Display Technology: How QDEL Screens Surpass OLED Limitations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-stop-hyper-scape-from-freezing-on-your-computer/"><u>Troubleshooting Guide: How to Stop Hyper Scape From Freezing on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-series-solve-pc-performance-issues-with-our-expert-fixes-for-6-the-life-song/"><u>Yakuza Series: Solve PC Performance Issues with Our Expert Fixes for '6 - The Life Song'</u></a></li>
 </ul></div>
 

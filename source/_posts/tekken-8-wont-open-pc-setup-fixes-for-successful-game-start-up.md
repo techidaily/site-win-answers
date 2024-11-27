@@ -1,7 +1,7 @@
 ---
 title: Tekken 8 Won't Open? PC Setup Fixes for Successful Game Start-Up
-date: 2024-11-16T12:30:46.276Z
-updated: 2024-11-17T06:49:37.049Z
+date: 2024-11-24T22:02:16.063Z
+updated: 2024-11-27T01:03:15.548Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your PC specs
 
  If your game crashes or freezes frequently, the first step is to verify your PC is above the minimum system requirements to run Garry’s Mod. If you’re below the recommended spec, **try lowering your resolution and graphics and in-game video settings** .
@@ -64,19 +68,6 @@ Follow the instructions below to view your computer hardware information:
 **1)**  On your keyboard, press the **Windows logo**  key and type **dxdiag** . Then, press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-46-07.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
@@ -124,13 +115,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
@@ -140,10 +124,7 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
@@ -164,16 +145,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch GMod.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change the launch option
 
@@ -193,9 +171,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
@@ -215,13 +201,6 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
@@ -229,10 +208,7 @@ Follow the instructions below to stop the automatic downloads:
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
@@ -244,34 +220,36 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
 
@@ -354,21 +332,24 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixed-tips-and-solutions-for-continuous-stalling-in-ghostwire-tokyo-pc-version/"><u>[Fixed] Tips and Solutions for Continuous Stalling in Ghostwire: Tokyo PC Version</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-5-best-snipping-tools-for-pc-for-2024/"><u>[New] 5 Best Snipping Tools for Pc for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-efficient-solutions-for-youtube-short-snags/"><u>2024 Approved Efficient Solutions for YouTube Short Snags</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-video-potential-with-top-titler-ai/"><u>2024 Approved Unlock Video Potential with Top Titler AI</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eradicate-halo-infinite-freeze-ups-and-play-smoothly-with-these-essential-pc-tweaks-7-proven-methods/"><u>Eradicate Halo Infinite Freeze-Ups and Play Smoothly with These Essential PC Tweaks (7 Proven Methods)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-step-by-step-method-for-altering-youtube-style-thumbnails-on-twitter/"><u>In 2024, Step-by-Step Method for Altering YouTube-Style Thumbnails on Twitter</u></a></li>
-<li><a href="https://blog-min.techidaily.com/las-mejores-utilidades-sin-costo-para-generar-contenido-de-calidad-sobrenatural-en-tu-canal-de-youtube/"><u>Las Mejores Utilidades Sin Costo Para Generar Contenido De Calidad Sobrenatural en Tu Canal De YouTube</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/masterful-multiplatform-apps-for-dynamic-media-collage/"><u>Masterful Multiplatform Apps for Dynamic Media Collage</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/optimizing-business-efficiency-leveraging-data-driven-insights-from-process-and-task-analysis-join-the-upcoming-abbyy-expert-session/"><u>Optimizing Business Efficiency: Leveraging Data-Driven Insights From Process & Task Analysis - Join the Upcoming ABBYY Expert Session</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-pc-lag-and-crashes-while-playing-resident-evil-village-proven-techniques/"><u>Resolve PC Lag and Crashes While Playing Resident Evil Village - Proven Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-total-war-warhammer-ii-stability-problems-fixes-and-solutions/"><u>Resolving TOTAL WAR: WARHAMMER II Stability Problems - Fixes & Solutions</u></a></li>
-<li><a href="https://fox-search.techidaily.com/solution-detaillee-pour-le-probleme-de-mis-a-jour-de-windows-section-1-advanced-problem-on-antigen-presenting-cells-apcs/"><u>Solution Détaillée Pour Le Problème De Mis À Jour De Windows # Section 1: Advanced Problem on Antigen-Presenting Cells (APCs)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-minecraft-lag-issues-with-these-advanced-tricks-for-windows-and-mac/"><u>Solve Your Minecraft Lag Issues with These Advanced Tricks for Windows and Mac</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-msvcr110dll-file-absent-error-on-helldivers-2-game/"><u>Troubleshooting MSVCR110.dll File Absent Error on Helldivers 2 Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-stop-assassins-creed-odyssey-from-crashing-on-pc-easily/"><u>Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unbeatable-blowout-discounts-on-the-new-2n22-ipad-pro-for-labor-day-get-700-off-now-shop-smart-inside-tips/"><u>Unbeatable Blowout Discounts on the New 2N22 iPad Pro for Labor Day! Get $700 Off Now | Shop Smart Inside Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-avoiding-the-crowd-stand-out-with-unique-youtube-persona/"><u>[Updated] 2024 Approved Avoiding the Crowd Stand Out with Unique YouTube Persona</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-essential-mac-microphone-tools-selecting-leading-recorders/"><u>[Updated] In 2024, Essential Mac Microphone Tools Selecting Leading Recorders</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-top-10-editing-skills-every-new-youtuber-must-know/"><u>2024 Approved Top 10 Editing Skills Every New YouTuber Must Know</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/como-crear-un-video-de-demostracion-atractivo-usando-fotografias-y-canciones-guia-sencilla-con-movavi/"><u>Cómo Crear Un Video De Demostración Atractivo Usando Fotografías Y Canciones: Guía Sencilla Con Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-ghostwire-tokyo-stability-issues-on-pc/"><u>Effective Solutions for Ghostwire: Tokyo Stability Issues on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-seamless-gaming-avoiding-breaks-in-resident-evil-4-remastered/"><u>Expert Advice for Seamless Gaming: Avoiding Breaks in Resident Evil 4 Remastered</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-persistent-crashes-in-alan-wake-2-expert-tips-for-gaming-stability/"><u>Fixing Persistent Crashes in Alan Wake 2: Expert Tips for Gaming Stability</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-rockstar-games-launcher-expert-tips-and-guide-issues/"><u>Fixing the Rockstar Games Launcher: Expert Tips and Guide Issues</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-iphone-12-mini-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on Apple iPhone 12 mini or iPad?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-12-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 12 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-nubia-red-magic-8s-proplus-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Nubia Red Magic 8S Pro+ to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-fun-with-splitgate-a-guide-on-overcoming-performance-hiccups-like-low-fps-and-stutters/"><u>Maximize Your Gaming Fun with Splitgate: A Guide on Overcoming Performance Hiccups Like Low FPS and Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-malfunctions-with-ease-master-the-fix-for-sword-art-online-psp-version-7-crashes/"><u>Overcome PC Malfunctions with Ease - Master the Fix for Sword Art Online PSP Version 7 Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-video-card-problems-in-the-sims-4-expert-solutions/"><u>Resolving Video Card Problems in The Sims 4 - Expert Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003312187-sea-of-thieves-stuck-on-launching-heres-what-you-need-to-do/"><u>Sea of Thieves Stuck on Launching? Here's What You Need to Do!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-long-awaited-fix-for-wolcen-lords-of-mayhem-is-here/"><u>The Long-Awaited Fix for Wolcen - Lords of Mayhem Is Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-launch-failures-in-mass-effect-legendary-edition-expert-advice/"><u>Understanding Launch Failures in Mass Effect Legendary Edition – Expert Advice</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unravel-media-complexity-transforming-xmlttml-into-srt-gold/"><u>Unravel Media Complexity Transforming XML/TTML Into SRT Gold</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-gionee-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Gionee Phones</u></a></li>
 </ul></div>
 

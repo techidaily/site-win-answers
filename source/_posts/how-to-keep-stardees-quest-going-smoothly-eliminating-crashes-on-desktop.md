@@ -1,7 +1,7 @@
 ---
 title: How to Keep Stardee's Quest Going Smoothly - Eliminating Crashes on Desktop
-date: 2024-11-12T21:47:51.074Z
-updated: 2024-11-17T03:55:10.518Z
+date: 2024-11-19T20:45:53.582Z
+updated: 2024-11-27T01:06:47.603Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/a23ef58f3369824904efee9f97817b15b093c9dc4
 5. [**Reset Chrome settings to default**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Disconnect and reconnect your Internet**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Uninstall and reinstall Chrome**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics card driver
 
@@ -53,6 +61,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebea95ea01f.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebeaa6e3f18.jpg)
 4. Restart your computer and check if Chrome now works properly.
 
@@ -60,13 +72,6 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run System File Checker
 
@@ -76,22 +81,23 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf26b5a09e.png)
 2. From the results, right-click**Command Prompt** , and select**Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf2dea44e4.jpg)
 3. At Command Prompt, type **sfc /scannow** and press**Enter** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf301acd5c.jpg)
 4. It should begin running a system scan, and will take some time. When it finishes, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Launch Chrome and check if the freezing issue is solved. If not, try Fix 3, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Clear your browsing data
 
@@ -102,10 +108,7 @@ OR
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
@@ -130,13 +133,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 5: Reset Chrome settings to default
@@ -147,40 +143,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd83fd4eb4.jpg)
 2. At the bottom, click**Advanced** .  
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd88de8b45.png)
 3. Under**Reset and cleanup** , click**Reset settings to their original defaults** \>**Reset Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd8ccdaa7a.jpg)
 4. Relaunch Chrome and check. If the problem still exists, try the next fix.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 6: Disconnect and reconnect your Internet
 
@@ -189,13 +166,6 @@ OR
 1. You can simply click the**Network icon** on the taskbar, then select**Airplane mode** to**turn** it**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Restart Chrome to check the issue.
 
@@ -227,17 +197,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-animator-marketplace-of-custom-creative-stunts-for-2024/"><u>[New] The Animator' Marketplace of Custom Creative Stunts for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-platform-showdown-vimeos-edge-vs-youtube-and-dailymotion/"><u>2024 Approved Platform Showdown Vimeo's Edge vs YouTube & Dailymotion</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-the-darkness-fixing-the-star-wars-battlefront-ii-black-screen-malfunction-once-and-for-all/"><u>Banish the Darkness: Fixing the Star Wars Battlefront II Black Screen Malfunction Once & For All</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-companion-apps-for-androidiphone-slow-motion-shooting-for-2024/"><u>Best Companion Apps for Android/iPhone Slow Motion Shooting for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-realme-note-50-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Realme Note 50.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/complete-guide-steps-to-reboot-your-macs-network-preferences/"><u>Complete Guide: Steps to Reboot Your Mac's Network Preferences</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-implemented-no-more-pc-crashes-in-the-updated-release-of-new-world/"><u>Fixes Implemented – No More PC Crashes in the Updated Release of 'New World'</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-resolve-when-red-dead-redemption-2-fails-to-start/"><u>Fixing the Issue: How to Resolve When Red Dead Redemption 2 Fails to Start</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-your-atomic-heart-application-from-freezing-at-launch/"><u>How to Stop Your Atomic Heart Application From Freezing at Launch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-managing-marvelous-beings-in-your-system/"><u>Mastering the Art of Managing Marvelous Beings in Your System</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/sifting-through-the-advantages-and-disadvantages-of-vr/"><u>Sifting Through the Advantages and Disadvantages of VR</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-in-your-pocket-tecnos-latest-unveiling/"><u>The Future in Your Pocket: Tecno’s Latest Unveiling</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-hot-topic-in-photos-memes-and-their-origin-tales/"><u>[New] Hot Topic in Photos Memes & Their Origin Tales</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-iphone-customization-changing-your-phones-tune-for-2024/"><u>[New] IPhone Customization Changing Your Phone's Tune for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-components-of-podcast-scripting-guide-plus-free-examples/"><u>[Updated] The Essential Components of Podcast Scripting (Guide + Free Examples)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-zero-tolerance-for-background-distractions-editing-tutorial-on-photopea/"><u>2024 Approved Zero Tolerance for Background Distractions Editing Tutorial on Photopea</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/complete-set-of-gigabyte-z370p-motherboard-drivers-download-now/"><u>Complete Set of Gigabyte Z370P Motherboard Drivers – Download Now</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/easy-guide-restoring-lost-changes-in-your-google-documents/"><u>Easy Guide: Restoring Lost Changes in Your Google Documents</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-latest-advancements-in-lgs-all-round-360-camera/"><u>Exploring the Latest Advancements in LG's All-Round 360 Camera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-play-how-to-solve-world-of-warcraft-not-opening-on-windows-or-mac/"><u>Fix and Play: How to Solve World of Warcraft Not Opening on Windows or Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-error-gfx-state-in-red-dead-redemption-nobody-can-solve/"><u>How to Fix ERROR GFX STATE in Red Dead Redemption Nobody Can Solve?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Methods to Change GPS Location On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723008442056-master-the-art-of-preventing-dota-2-crashes-with-these-pro-hacks/"><u>Master the Art of Preventing Dota 2 Crashes with These Pro Hacks!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-hogwarts-legacy-in-2nd4-the-definitive-list-of-6-stutter-fixes/"><u>Mastering Hogwarts Legacy in 2nD4: The Definitive List of 6 Stutter Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-playthroughs-only-fixed-stuttering-in-grand-theft/"><u>Smooth Playthroughs Only: Fixed Stuttering in Grand Theft</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-battlefront-ii-resolved-lagging-issues-and-improved-performance/"><u>Star Wars Battlefront II - Resolved Lagging Issues and Improved Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006857084-the-long-awaited-fix-for-wolcen-lords-of-mayhem-is-here/"><u>The Long-Awaited Fix for Wolcen - Lords of Mayhem Is Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/trouble-starting-valorant-on-your-desktop-computer-uncover-the-latest-solutions/"><u>Trouble Starting Valorant on Your Desktop Computer? Uncover the Latest Solutions!</u></a></li>
 </ul></div>
 

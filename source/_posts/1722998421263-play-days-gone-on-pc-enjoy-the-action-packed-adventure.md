@@ -1,7 +1,7 @@
 ---
 title: "Play Days Gone on PC: Enjoy the Action-Packed Adventure"
-date: 2024-08-27T23:58:57.853Z
-updated: 2024-08-28T23:58:57.853Z
+date: 2024-11-23T02:08:44.393Z
+updated: 2024-11-26T19:25:09.676Z
 tags:
   - win11
   - win10
@@ -48,8 +48,9 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -62,11 +63,17 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 2. Type in**firewall.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -75,9 +82,6 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
@@ -100,14 +104,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
@@ -120,8 +130,9 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4\. Update your device drivers
 
  It’s also recommended by[Activision](https://eu.battle.net/support/en/article/31024) that you should update your device drivers (including your Network adapter driver) to check if the **‘_Connection to the Battle.net game server has been lost_**  ‘ problem is caused by corrupted/outdated drivers.
@@ -137,22 +148,16 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Use a VPN
 
  It has now been confirmed that some ISPs are having trouble routing to Blizzard and Battle.net servers. It’s very unlikely that you will switch to a different ISP, but there’s still a way to change the routing – using a VPN.
@@ -182,8 +187,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +194,24 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-capturing-motion-setting-up-a-timelapse-on-an-ipad/"><u>[New] 2024 Approved Capturing Motion Setting up a Timelapse on an iPad</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-elevating-your-ig-aesthetics-with-top-10-grid-builders/"><u>[New] 2024 Approved Elevating Your IG Aesthetics with Top 10 Grid Builders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-camera-to-feed-instagram-video-upload-on-desktop-for-2024/"><u>[New] From Camera to Feed Instagram Video Upload on Desktop for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-reimagining-game-logging-with-no-fbx-technology-for-2024/"><u>[New] Reimagining Game Logging with No-FBX Technology for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleash-creativity-fast-windows-10-photo-edits-made-simple/"><u>[New] Unleash Creativity Fast Windows 10 Photo Edits Made Simple</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-solutions-for-fixing-chivalry-2s-persistent-crash-issues/"><u>Best Solutions for Fixing Chivalry 2'S Persistent Crash Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723004405247-conquer-the-skies-on-the-ground-advanced-fps-enhancement-methods-for-war-thunder-gamers/"><u>Conquer the Skies, On The Ground: Advanced FPS Enhancement Methods for War Thunder Gamers !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-increased-resource-consumption-in-wsappx-a-comprehensive-guide/"><u>How To Resolve Increased Resource Consumption in Wsappx – A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-discovering-vr-identity-a-hands-on-approach-to-self-representation/"><u>In 2024, Discovering VR Identity - A Hands-On Approach to Self-Representation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insightful-overwatch-evaluation-an-exciting-cooperative-battle-fps-experience/"><u>Insightful Overwatch Evaluation: An Exciting, Cooperative Battle FPS Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hiccups-optimizing-your-fallout-e76-experience/"><u>Overcoming Performance Hiccups: Optimizing Your Fallout E76 Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restoring-your-link-to-battlenet-overcoming-issues-with-losing-connection-to-blizzard-games/"><u>Restoring Your Link to Battle.net: Overcoming Issues with Losing Connection to Blizzard Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-correcting-error-0x80004005/"><u>Step-by-Step Solutions for Correcting Error 0X80004005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-fixing-errors-in-nwstoreexe-application/"><u>Troubleshooting Tips for Fixing Errors in NW_Store.exe Application</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-cant-i-start-modern-warfare-2/"><u>Troubleshooting: Why Can't I Start Modern Warfare 2?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-solving-persistent-crashes-in-final-fantasy-xiv-for-pc-users/"><u>Understanding and Solving Persistent Crashes in Final Fantasy XIV for PC Users</u></a></li>
+</ul></div>
 

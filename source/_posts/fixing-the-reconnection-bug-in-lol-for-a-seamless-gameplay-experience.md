@@ -1,7 +1,7 @@
 ---
 title: Fixing the Reconnection Bug in LoL for a Seamless Gameplay Experience
-date: 2024-08-28T00:00:53.125Z
-updated: 2024-08-29T00:00:53.125Z
+date: 2024-11-26T00:25:31.798Z
+updated: 2024-11-26T23:55:14.167Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -57,8 +61,9 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Reload your private world
 
  Some players have reported that after reloading their private world, they’re able to connect to their friends’ world. Somehow it works for many users on all platforms.  
@@ -69,18 +74,21 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 3. Go to the**Worlds** tab and choose one of your Worlds.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable Windows Firewall
 
  If Minecraft is not allowed in the Firewall, the “Unable to connect to world” issue can happen. You can connect to the internet but can’t join each other’s world. So check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -92,9 +100,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
@@ -102,9 +112,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update the network drivers
 
  Outdated network drivers may cause the “Unable to connect to world” issue. So you can try to update the network driver to fix the problem.
@@ -120,9 +130,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 4. Run Minecraft and check whether you can connect to the world.
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -141,12 +148,12 @@ If this fix can’t help, you can move to the next.
 4. Click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter the “unable to connect to world” issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -168,23 +175,12 @@ The ultimate burning program for all your needs!</a>
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
  If it doesn’t work, you can contact your ISP for more information. Some players reported the ISP would block their ability to use all Minecraft servers. You need to persist and they’ll make a change.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Bonus tips
 
 #### For iPad users
@@ -207,8 +203,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +210,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ilmmaking-mastery-youtube-trailer-design-with-filmora-for-2024/"><u>[New] Filmmaking Mastery YouTube Trailer Design with Filmora for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-bending-words-in-media-landscapes/"><u>2024 Approved Bending Words in Media Landscapes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/bite-into-squid-game-korean-language-basics/"><u>Bite Into Squid Game: Korean Language Basics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-your-gaming-experience-fixing-world-of-tanks-blitzs-persistent-crashes/"><u>Enhance Your Gaming Experience: Fixing World of Tanks Blitz's Persistent Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-persistent-killing-of-pc-gaming-defeating-the-crashes-in-halo-infinite/"><u>Expert Tips to Overcome Persistent Killing of PC Gaming: Defeating the Crashes in Halo Infinite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-discord-overlay-issues-simple-solutions-you-can-apply-today/"><u>Fix Discord Overlay Issues: Simple Solutions You Can Apply Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-ghost-runner-crash-issue-in-windows-11-troubleshooting-guide/"><u>Fixing the 'Ghost Runner' Crash Issue in Windows 11 - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/house-flipper-two-stability-solutions-for-a-smooth-gaming-experience-on-pcs/"><u>House Flipper Two Stability Solutions for a Smooth Gaming Experience on PCs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-capture-chronicles-reviewing-the-best-screencasters/"><u>In 2024, Capture Chronicles Reviewing the Best Screencasters</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-examining-wirecasts-features-against-competitors/"><u>In 2024, Examining WireCast's Features Against Competitors</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/integrating-flipbuilder-with-cli-is-it-compatible/"><u>Integrating FlipBuilder with CLI - Is It Compatible?</u></a></li>
+<li><a href="https://win-premium.techidaily.com/mastering-ntbackup-on-windows-essential-steps-for-windows-10-8-and-7-users/"><u>Mastering NTBackup on Windows: Essential Steps for Windows 10, 8 & 7 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-gaming-performance-in-valorant-proven-fixes-for-resolving-fps-drops-and-achieving-smooth-playback/"><u>Maximize Gaming Performance in Valorant: Proven Fixes for Resolving FPS Drops and Achieving Smooth Playback</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-experience-the-full-storyline-of-the-iconic-superman-movies/"><u>Order Matters: How to Experience the Full Storyline of the Iconic 'Superman' Movies</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-meizu-21-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Meizu 21 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-2022-dota-2-vac-ban-issue-a-comprehensive-guide/"><u>Resolving the 2022 Dota 2 VAC Ban Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stabilize-your-among-us-gameplay-advanced-tips-to-eliminate-crashes-latest-update/"><u>Stabilize Your Among Us Gameplay: Advanced Tips to Eliminate Crashes (Latest Update)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/techniques-to-optimize-your-gaming-session-elevating-fps-while-cutting-down-lag-in-fall-guys/"><u>Techniques To Optimize Your Gaming Session: Elevating FPS While Cutting Down Lag in Fall Guys</u></a></li>
+</ul></div>
 

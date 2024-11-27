@@ -1,7 +1,7 @@
 ---
 title: "Resolving Phasmophobia Software Glitches: Updates & Patches"
-date: 2024-08-27T23:59:43.166Z
-updated: 2024-08-28T23:59:43.166Z
+date: 2024-11-21T00:45:49.673Z
+updated: 2024-11-26T22:45:49.492Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -42,7 +46,15 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -59,9 +71,6 @@ If the problem persists, take a look at the next fix below.
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and test the gameplay in New World.
@@ -77,26 +86,26 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your PC and check if New World crashes again.
 
 If your system is already up to date, you can try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change in-game graphics settings
 
@@ -111,9 +120,6 @@ Now you can play and check if the crash stops.
 
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 5: Increase your virtual memory
 
  New World recommend 16GB RAM so you better check if you meets this requirement. There’re already reports showing that the game might crash if your PC runs out of memory. If that’s your case, you can try to increase your virtual memory:
@@ -121,29 +127,26 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press the **Windows logo key** and type **advanced system settings** . Click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t do the trick for you, take a look at the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Delete specific game files
 
  According to some players, one possible fix to the crash is to delete certain game files. If you have tried all the fixes above and none seemed to work, you can try this method and test the result.
@@ -153,6 +156,11 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
 ![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
 2. Go to**AGS > New World** and delete the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * The**savedata** folder  
    * The**user\_preload\_settings** file
 3. Now you can restart New World and see if the game crashes again.
@@ -167,8 +175,6 @@ Now you can play and check if the crash stops.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +182,24 @@ Now you can play and check if the crash stops.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-howtos.techidaily.com/fixed-no-pen-or-touch-input-is-available-for-this-display/"><u>[Fixed] No Pen or Touch Input Is Available for This Display</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-prime-pixels-selecting-cameras-for-quality-slow-videos/"><u>[New] 2024 Approved Prime Pixels Selecting Cameras for Quality Slow Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-breaking-into-the-elite-6-steps-for-becoming-an-instagram-certified-account/"><u>[New] Breaking Into the Elite 6 Steps for Becoming an Instagram Certified Account</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-lighting-up-dull-iphone-videos-in-3-ways/"><u>[Updated] Lighting up Dull iPhone Videos in 3 Ways</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-instant-insight-snapshots-for-windows-enthusiasts/"><u>2024 Approved Instant Insight Snapshots for Windows Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-with-easy-tricks/"><u>Accelerate Chrome Performance with Easy Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-continuous-crashes-expert-solutions-for-stable-blender-performance-on-your-computer/"><u>Eliminating Continuous Crashes: Expert Solutions for Stable Blender Performance on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-stabilizing-everspace-2-performance-and-avoiding-pc-disruptions/"><u>Expert Tips for Stabilizing Everspace 2 Performance and Avoiding PC Disruptions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-unresponsive-steam-titles-when-starting-them-up-in-windows-10/"><u>How to Fix Unresponsive Steam Titles When Starting Them Up in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-frostpunk-from-crashing-effective-solutions-explored/"><u>How to Stop Frostpunk From Crashing - Effective Solutions Explored</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nubia-red-magic-9-proplus-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nubia Red Magic 9 Pro+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-and-resolving-fatal-issues-within-the-unreal-engine-for-tales-of-arise/"><u>Navigating and Resolving Fatal Issues Within the Unreal Engine for 'Tales of Arise'</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pro-gamers-free-screen-capture-tools-selection-list-for-2024/"><u>Pro Gamers' Free Screen Capture Tools Selection List for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-performance-issues-master-guide-to-preventing-mass-effect-legendary-edition-freezes/"><u>Resolving Performance Issues: Master Guide to Preventing Mass Effect Legendary Edition Freezes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-solutions-unstick-your-shader-tweaks-in-star-wars-battlefront-ii/"><u>Speedy Solutions: Unstick Your Shader Tweaks in Star Wars Battlefront II</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/tricks-for-making-fb-ads-pop-up-on-screen-for-2024/"><u>Tricks for Making FB Ads Pop Up on Screen for 2024</u></a></li>
+</ul></div>
 

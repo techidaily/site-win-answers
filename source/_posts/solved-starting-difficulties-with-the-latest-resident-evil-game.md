@@ -1,7 +1,7 @@
 ---
 title: "Solved: Starting Difficulties with the Latest Resident Evil Game"
-date: 2024-11-13T12:01:31.113Z
-updated: 2024-11-16T16:04:00.933Z
+date: 2024-11-20T20:35:06.935Z
+updated: 2024-11-26T18:19:41.301Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -46,24 +50,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -84,6 +74,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  The Battlefield 5 not launching issue may occur if you’re using a faulty graphics driver or it’s out-of-date. We’d recommend you check for the driver update regularly, which can not only prevent gaming problems but also help you enjoy a smooth playful experience.
@@ -101,26 +95,21 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
 
@@ -135,13 +124,6 @@ To update your graphics driver, here are two safe ways for you:
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
@@ -151,25 +133,20 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -181,26 +158,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -227,18 +188,19 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-breaking-down-the-abcd-a-guide-to-crafting-compelling-fb-text-for-2024/"><u>[New] Breaking Down the ABCD A Guide to Crafting Compelling FB Text for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-mastering-drone-footage-a-step-by-step-guide/"><u>[New] Mastering Drone Footage A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effortlessly-resolve-dayz-fps-crashes-expert-advice-inside/"><u>Effortlessly Resolve DayZ FPS Crashes - Expert Advice Inside!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-a-sluggish-steam-stream-a-comprehensive-guide/"><u>Fixing a Sluggish Steam Stream - A Comprehensive Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/groundbreaking-action-adventure-masterpieces-top-10-for-2024/"><u>Groundbreaking Action-Adventure Masterpieces (Top 10) for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-monster-hunter-rise-installation-errors-and-launch-successfully/"><u>How to Fix Monster Hunter Rise Installation Errors and Launch Successfully</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-get-more-likes-on-your-tiktok-unboxing-video-in-2024/"><u>How to Get More Likes on Your TikTok Unboxing Video, In 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-continuous-gameplay-interruptions-solving-dirt-5s-pc-crashing-problem/"><u>Overcoming Continuous Gameplay Interruptions: Solving Dirt 5'S PC Crashing Problem</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/quick-fix-mp4-unifiers-top-13-picks-for-fast-video-file-integration/"><u>Quick-Fix MP4 Unifiers Top 13 Picks for Fast Video File Integration</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-savings-unveiling-the-economic-benefits-of-online-communities/"><u>Social Savings: Unveiling the Economic Benefits of Online Communities</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamlined-steps-to-record-on-your-ipad-screen-for-2024/"><u>Streamlined Steps to Record on Your iPad Screen for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-pubg-windows-lag-top-fixes-to-keep-you-winning/"><u>Troubleshooting PUBG Windows Lag : Top Fixes to Keep You Winning</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solutions-overcoming-issues-with-call-of-duty-division-2-not-starting/"><u>Ultimate Solutions: Overcoming Issues with Call of Duty Division 2 Not Starting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-complete-guide-to-adding-video-filter-magic-to-zoom-meetings/"><u>[New] 2024 Approved The Complete Guide to Adding Video Filter Magic to Zoom Meetings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-winning-software-to-capture-your-display-on-windows-10/"><u>[New] In 2024, Winning Software to Capture Your Display on Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-no-more-interrupted-instagram-videos-heres-how/"><u>[New] No More Interrupted Instagram Videos - Here's How</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-aligning-zoom-sessions-with-desktop-and-smartphone-calendars/"><u>[Updated] 2024 Approved Aligning Zoom Sessions with Desktop and Smartphone Calendars</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-ultimate-list-of-3d-video-software-you-should-know/"><u>2024 Approved The Ultimate List of 3D Video Software You Should Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-fixes-to-stop-crashes-during-your-battles-in-samurai-warriors-5-on-desktop/"><u>Common Fixes to Stop Crashes During Your Battles in Samurai Warriors #5 on Desktop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-mp250-printer-drivers-step-by-step-guide/"><u>Download and Update Canon MP250 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-warframe-running-smoothly-fixes-for-game-launch-errors/"><u>Get Your Warframe Running Smoothly: Fixes for Game Launch Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007321465-how-to-fix-sims-4-lagging-on-pc-pro-tips-2024/"><u>How to Fix Sims 4 Lagging on PC - Pro Tips 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-assassins-creed-odyssey-game-crashes-in-windows-2024-update/"><u>How to Resolve Assassin's Creed Odyssey Game Crashes in Windows - 2024 Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/new-world-troubleshooting-how-to-fix-persistent-connection-errors-effectively/"><u>New World Troubleshooting: How to Fix Persistent Connection Errors Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-tech-hurdles-easy-steps-for-linking-your-iphone-and-pc-again/"><u>Overcoming Tech Hurdles: Easy Steps for Linking Your iPhone and PC Again</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-wsappx-identifying-the-cause-behind-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Identifying the Cause Behind Excessive Memory & Processor Consumption</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unraveling-the-capabilities-of-linksys-ac1900-a-universal-wireless-router-evaluation-for-tech-enthusiasts-and-casual-users-alike/"><u>Unraveling the Capabilities of Linksys AC1900 – A Universal Wireless Router Evaluation for Tech Enthusiasts & Casual Users Alike</u></a></li>
 </ul></div>
 

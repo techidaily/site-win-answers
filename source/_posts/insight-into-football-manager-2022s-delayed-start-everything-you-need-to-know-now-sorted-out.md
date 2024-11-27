@@ -1,7 +1,7 @@
 ---
 title: "Insight Into Football Manager 2022'S Delayed Start: Everything You Need to Know, Now Sorted Out!"
-date: 2024-08-28T00:00:15.855Z
-updated: 2024-08-29T00:00:15.855Z
+date: 2024-11-21T16:00:35.830Z
+updated: 2024-11-27T00:10:49.529Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -41,14 +45,20 @@ Take Avast as an example:
 4. Click**Exception > Add Exception** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not your antivirus software, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -73,29 +83,11 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
@@ -104,13 +96,16 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
@@ -138,8 +133,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +140,20 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-techniques-efficiently-collecting-photo-and-video-banners/"><u>[New] Expert Techniques Efficiently Collecting Photo and Video Banners</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-streamline-your-youtube-videos-in-windows-movie-maker/"><u>[New] In 2024, Streamline Your YouTube Videos in Windows Movie Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-setup-for-flawless-time-lapses-on-ipad-for-2024/"><u>[New] Quick Setup for Flawless Time-Lapses on iPad for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-go-live-with-recorded-material-on-the-worlds-largest-social-network/"><u>2024 Approved How to Go Live with Recorded Material on the World's Largest Social Network</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-oppo-a78-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Oppo A78 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bloodhunt-troubleshooting-stop-your-game-from-freezing-or-hiccuping/"><u>Bloodhunt Troubleshooting: Stop Your Game From Freezing or Hiccuping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dota-tot-2022-anti-cheat-alert-steps-to-restore-and-recover-your-gaming-status/"><u>Dota ˈToʊt 2022 Anti-Cheat Alert: Steps to Restore and Recover Your Gaming Status</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-cod-black-ops-cold-war-running-on-pc-overcome-common-setbacks/"><u>Getting Cod: Black Ops Cold War Running on PC - Overcome Common Setbacks</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-strategies-pinterest-to-mp3-migration-guide/"><u>In 2024, Ultimate Strategies Pinterest to MP3 Migration Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/league-of-legends-performance-boost-resolving-server-latency-issues-once-and-for-all/"><u>League of Legends Performance Boost: Resolving Server Latency Issues Once & For All</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mobile-users-manual-how-to-run-driver-easy-in-a-portable-format/"><u>Mobile User’s Manual: How to Run Driver Easy in a Portable Format</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-11r-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus 11R Device</u></a></li>
+</ul></div>
 

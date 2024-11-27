@@ -1,7 +1,7 @@
 ---
 title: "Resolve the Critical 'Black Ops Cold War' E_ACCESS Error: Codes Explained and Solutions Provided"
-date: 2024-08-28T00:00:41.688Z
-updated: 2024-08-29T00:00:41.688Z
+date: 2024-11-25T18:34:04.367Z
+updated: 2024-11-26T20:57:22.610Z
 tags:
   - win11
   - win10
@@ -53,11 +53,16 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
  If your Internet connection is solid but you still get the Memory Error 0-1766 on Warzone, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Close running games and apps (Xbox & PC)
 
  If a few games and apps running in the background, your Xbox or PC won’t be able to let Warzone use all the resources and run smoother. Also background programs could interfere with Warzone, causing the Memory Error 0-1766\. Below is how to close the games and apps running in the background:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Xbox
 
@@ -65,17 +70,11 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 2. You’ll see a list of games and apps. If a game or app is running, it’ll be highlighted. Select the games and apps you wish to close, then**press the Menu button** (the three-line button.)
 3. Select**Quit** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### On PC
 
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, you’ll see all the programs/processes that are running in the background. You can look for the processes that are CPU, memory and/or network-hogging, which is most likely to conflict with Warzone.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
@@ -96,9 +95,6 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
  If you still get the Memory Error 0-1766 after adjusting the display settings on your Xbox console, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Clear Mac address (Xbox)
 
  Clearing your Mac address gives a fresh reboot on your Xbox, and it’s likely to resolve the Memory Error 0-1766 on Warzone. The steps are quite easy, below is how:
@@ -108,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 3. Scroll down to find**Network Settings** , and select**Advanced Settings** \>>**Alternate Mac Address** .
 4. **Clear the Alternate Mac Address** . Your Xbox console should restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Verify and repair your game files (PC)
 
  If you’re getting the COD Warzone Memory Error 0-1766 on PC, a quick fix you can try is to verify your game files. Damaged game files could cause the error, but you can do a quick scan and repair within the Battle.net app. Here’s how:
@@ -116,15 +116,18 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 2. Click the**gear-shaped icon** , then click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_10-38-31-1.jpg)
 3. Wait for the scan to complete, then re-launch Warzone to test if the error is resolved.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’ve been accessing Warzone from Modern Warfare, you’ll need to go to the Modern Warfare page and do as Step 2 above instructs.
 
  If verifying and repairing your game files doesn’t solve your problem, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot (PC)
 
@@ -137,20 +140,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Move to the**Startup** tab, and click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  (Windows 7 users: right-click an empty area on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -161,9 +160,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch Warzone. If you get the Memory Error 0-1176 once again, then you know that one of the services you ticked above is conflicting with it. If the error is gone, then the above five services are fine, and you’ll have to keep looking for the offending service.
@@ -178,12 +179,14 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Move to the**Startup** tab, and**enable the first five startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Warzone to test if the error is resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with Warzone and causing Memory Error 0-1766.
 5. Disable the problem program and reboot your PC.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Update the graphics driver on your PC
 
  If you run into other game errors or experiencing game crashes when your play Warzone on PC, you may need to update your graphics driver. A faulty or outdated graphics driver could cause a lot of problems and lead to game errors, so you need to make sure yours is up-to-date and functioning properly.
@@ -224,8 +227,6 @@ Make sure to restart your PC for the new driver to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +234,26 @@ Make sure to restart your PC for the new driver to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-revolutionizing-cinematography-with-advanced-3d-luts/"><u>[New] In 2024, Revolutionizing Cinematography with Advanced 3D LUTs</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-search-comments-on-youtube-quickly/"><u>[Updated] 2024 Approved How to Search Comments on YouTube Quickly?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expertly-choosing-the-best-screen-snipers-on-windows/"><u>[Updated] In 2024, Expertly Choosing The Best Screen Snipers on Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-schedule-meetings-on-zoom-webdesktopmobile/"><u>2024 Approved How to Schedule Meetings on Zoom [Web/Desktop/Mobile]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013928604-arcadegeddon-and-pc-compatibility-improved-say-goodbye-to-crashes/"><u>Arcadegeddon and PC Compatibility Improved - Say Goodbye to Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-repair-tips-for-fixing-the-modern-warfare-3-wont-launch-issue-on-your-gaming-device/"><u>DIY Repair Tips for Fixing the Modern Warfare 3 Won't Launch Issue on Your Gaming Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-free-gaming-verifying-game-assets-to-avoid-unable-to-start-issues/"><u>Error-Free Gaming: Verifying Game Assets to Avoid 'Unable to Start' Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-play-overcoming-the-issues-of-battlefield-amo-not-starting-on-pc/"><u>Fix and Play: Overcoming the Issues of Battlefield Amo Not Starting on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-those-annoying-phoenix-point-errors-a-step-by-step-guide-to-a-smooth-gaming-experience/"><u>Fix Those Annoying Phoenix Point Errors: A Step-by-Step Guide to a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/god-of-war-memory-crash-fixing-the-insufficient-memory-glitch/"><u>God of War Memory Crash: Fixing the 'Insufficient Memory' Glitch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715859845456-in-2024-explore-android-written-by-dr-jane-smith-a-renowned-psychologist-specializing-in-cognitive-development-and-learning-styles/"><u>In 2024, Explore Android' Written By Dr. Jane Smith, a Renowned Psychologist Specializing in Cognitive Development and Learning Styles.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubles-resolve-tower-of-fantasy-continuous-crash-issues-today/"><u>PC Troubles? Resolve Tower of Fantasy Continuous Crash Issues Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-implemented-for-reducing-frame-rate-issues-in-farming-simulator-22-on-pc/"><u>Resolved: Fixes Implemented for Reducing Frame Rate Issues in Farming Simulator 22 on PC</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-techniques-for-batch-installing-windows-11-apps-via-winstall/"><u>Simplified Techniques for Batch Installing Windows 11 Apps via Winstall</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-typing-troubles-how-to-restore-keyboard-functionality/"><u>Solving Typing Troubles: How to Restore Keyboard Functionality</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/step-by-step-instructions-for-seamlessly-syncing-your-smartphone-with-a-laptop-running-windows-or-macos/"><u>Step-by-Step Instructions for Seamlessly Syncing Your Smartphone with a Laptop Running Windows or macOS</u></a></li>
+<li><a href="https://win11.techidaily.com/top-4-windows-compatible-webp-viewer-tools/"><u>Top 4 Windows-Compatible WebP Viewer Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-swtor-fixes-for-not-starting-problems/"><u>Troubleshooting SWTOR: Fixes for 'Not Starting' Problems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Resolve 'Lost Ark' Game Crashes
-date: 2024-08-27T23:58:35.445Z
-updated: 2024-08-28T23:58:35.445Z
+date: 2024-11-25T23:47:47.646Z
+updated: 2024-11-26T17:16:39.022Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6c7b51dcfdae2a8da726c75853a324eb9a3939b33
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 5. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -51,8 +59,9 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -64,23 +73,8 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -93,6 +87,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Once you confirmed the antivirus is the culprit of Football Manager 2021 crashing, you need to add both the game launcher and FM 21 to its exceptions, or completely uninstall the program.
 
 If this method doesn’t help, go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
 
@@ -108,8 +106,9 @@ If this method doesn’t help, go ahead with the next fix below.
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -117,9 +116,6 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
@@ -127,8 +123,9 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
  If all the methods above don’t give you luck, you can reinstall the game, or directly submit a **[support ticket](https://support.sega.co.uk/hc/en-gb/requests/new)**  for further assistance.
@@ -147,8 +144,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +151,24 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-unlock-professional-quality-passport-portraits-with-these-10-apps/"><u>[New] In 2024, Unlock Professional-Quality Passport Portraits with These 10 Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-capture-clarity-top-10-photo-lens-selections/"><u>[Updated] 2024 Approved Capture Clarity Top 10 Photo Lens Selections</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-cool-youtube-video-intro-in-imovie-step-by-step/"><u>[Updated] 2024 Approved How to Make a Cool YouTube Video Intro in iMovie (Step-by-Step)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-flight-tech-best-drone-gimbals/"><u>[Updated] Top Flight Tech Best Drone Gimbals</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-calculating-total-vids-for-high-capacity-hardware-64128gb/"><u>2024 Approved Calculating Total Vids for High-Capacity Hardware (64/128GB)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-locate-lively-video-community-spots/"><u>2024 Approved Locate Lively Video Community Spots</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-screen-woes-solved-effective-troubleshooting-guide/"><u>Black Screen Woes Solved: Effective Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-unbeatable-tech-offers-on-amazon-during-the-2024-prime-day-event/"><u>Discover Unbeatable Tech Offers on Amazon During the 2024 Prime Day Event</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixes-for-cortana-malfunction-how-to-get-it-running-smoothly-again/"><u>Fixes for Cortana Malfunction: How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-registry-mismatch-error-blocking-photo-viewing-on-windows-11/"><u>How to Fix the Registry Mismatch Error Blocking Photo Viewing on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-fix-battlefield-5-from-crashing-on-windows-computers/"><u>How to Prevent and Fix Battlefield 5 From Crashing on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-and-solve-frequent-ark-system-malfunctions/"><u>How to Prevent and Solve Frequent ARK System Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005740495-mastering-dayz-speed-instantly-eliminate-those-frustrating-fps-drops/"><u>Mastering DayZ Speed - Instantly Eliminate Those Frustrating FPS Drops!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-firefox-freezes-discover-why-the-browser-keeps-closing-and-solutions/"><u>No More Firefox Freezes: Discover Why the Browser Keeps Closing & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-fatal-error-solution-manual-installation-of-missing-dll-files/"><u>Steam Fatal Error Solution: Manual Installation of Missing DLL Files</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-correcting-session-search-errors-in-palworld/"><u>Step-by-Step Guide: Correcting Session Search Errors in PalWorld</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tackling-ping-spikes-in-bless-unleashed-a-comprehensive-guide-to-enhancing-pc-performance/"><u>Tackling Ping Spikes in Bless Unleashed: A Comprehensive Guide to Enhancing PC Performance</u></a></li>
+</ul></div>
 

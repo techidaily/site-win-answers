@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Game Crashes in Assassin's Creed: Valhalla on PC - A Guide to Stability and Performance"
-date: 2024-08-28T00:00:30.289Z
-updated: 2024-08-29T00:00:30.289Z
+date: 2024-11-24T20:39:58.411Z
+updated: 2024-11-26T21:53:13.126Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  Just like the notorious Watch Dogs: Legion, Assassin’s Creed Valhalla is one of the best offerings of Ubisoft in 2020\. And when it comes to AAA titles in a Ray Tracing era, having a great gaming setup becomes a must for all the aficionados out there. So before you dive into any advance troubleshooting below, first**make sure your PC specs meets the minimum game requirements** :
@@ -58,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/9083264d1e9ed82c0a8d3858961cbcacf8dd6e0e8
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -84,14 +85,12 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
@@ -99,8 +98,9 @@ You can use these steps to check for Windows updates manually:
 If the crash happens again, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  In most cases, you’ll expect constant crashes with new titles when you’re using**a faulty or outdated graphics driver** . If you can’t remember the last time you updated your GPU driver, definitely do it now as it could be the fix that saves the day.
@@ -126,9 +126,6 @@ If the crash happens again, you can take a look at the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -148,11 +145,16 @@ If the crash happens again, you can take a look at the next fix.
 2. Navigate to the**Graphics** tab. Turn off or set every options to**Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick failed to solve your problem, you can move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
 
@@ -160,12 +162,13 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -181,8 +184,6 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +191,22 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-leading-photo-backdrop-alternatives-list/"><u>[New] Leading Photo Backdrop Alternatives List</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-zoom-setup-playbook/"><u>[New] The Ultimate Zoom Setup Playbook</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-weekly-hits-cant-skip-these-tiktok-tests/"><u>[New] Weekly Hits Can't Skip These TikTok Tests</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-pioneering-creative-expression-through-zero-cost-animation-for-2024/"><u>[Updated] Pioneering Creative Expression Through Zero-Cost Animation for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unleash-creativity-designing-awe-inspiring-covers-for-instagram-highlights-for-2024/"><u>[Updated] Unleash Creativity Designing Awe-Inspiring Covers for Instagram Highlights for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-solutions-for-when-your-windows-10-start-menu-wont-open/"><u>Common Solutions for When Your Windows 10 Start Menu Won't Open</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-crashes-solve-your-video-memory-issues/"><u>Fortnite Crashes? Solve Your Video Memory Issues!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-launch-hurdles-in-biowares-newest-title-pathfinder-wrath-of-the-righteous/"><u>How To Overcome Launch Hurdles in BioWare's Newest Title: Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-players-fixing-constant-warzone-20-collapses-in-windows/"><u>How to Stop Players: Fixing Constant Warzone 2.0 Collapses in Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-poco-c50-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Poco C50 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-unlocking-the-secrets-of-seamless-video-and-picture-upload-w11/"><u>In 2024, Unlocking the Secrets of Seamless Video & Picture Upload W11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tart-your-video-projects-access-free-stunning-banner-templates-for-2024/"><u>Jumpstart Your Video Projects Access Free, Stunning Banner Templates for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-drops-and-hiccups-during-counter-strike-abetes-fbs-)160-mgdl-and-ldl-)130-mgdl-were-found-to-be-abnormal-in-about-28-of-the-participants-and-ast-l569/"><u>Resolving Drops & Hiccups During Counter-Strike Abetes (FBS) >160 Mg/Dl and LDL >130 Mg/Dl Were Found to Be Abnormal in About 28% of the Participants, and AST Level >47 U/L Was Observed in Approximately 22%.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-modern-warfare-3-from-crashing-on-your-pc-effective-solutions-and-tips/"><u>Stop Modern Warfare 3 From Crashing on Your PC: Effective Solutions & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-call-of-duty-black-ops-4-overcoming-latency-spikes-and-decreased-fps/"><u>Troubleshooting Call of Duty: Black Ops 4 - Overcoming Latency Spikes and Decreased FPS</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming FPS Drops in Counter-Strike 2: Essential Tweaks for a Smooth PC Gaming Experience"
-date: 2024-11-09T22:41:34.437Z
-updated: 2024-11-17T12:21:16.315Z
+date: 2024-11-25T23:34:08.514Z
+updated: 2024-11-27T01:48:08.091Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -43,20 +47,21 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -79,13 +84,6 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -95,22 +93,8 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -122,8 +106,16 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
@@ -135,14 +127,15 @@ wireless router
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -153,13 +146,6 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -168,13 +154,6 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -202,18 +181,14 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-comprehensive-instructions-for-disposing-of-video-downloads/"><u>[New] 2024 Approved Comprehensive Instructions for Disposing of Video Downloads</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-from-raw-footage-to-professionals-finest-a-gopro-journey/"><u>[New] From Raw Footage to Professionals' Finest A Gopro Journey</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/evolutionize-your-video-output-top-10-apps-converting-flv-to-youtube-for-2024/"><u>[New] Revolutionize Your Video Output Top 10 Apps Converting FLV to YouTube for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-solutions-to-address-wow-crashing-problems-effectively/"><u>Easy Solutions to Address WoW Crashing Problems Effectively</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-your-brand-with-in-depth-instagram-performance-analyses-for-2024/"><u>Enhancing Your Brand with In-Depth Instagram Performance Analyses for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-persistent-crashes-in-mordhau-effective-solutions-for-smooth-gaming/"><u>Fixing Persistent Crashes in Mordhau - Effective Solutions for Smooth Gaming</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-infinix-note-30-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Infinix Note 30 5G?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-challenges-starting-the-dolby-driver-on-your-pc-running-windows-10/"><u>Overcoming Challenges: Starting the Dolby Driver on Your PC Running Windows 10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722987106962-quick-and-effective-ways-to-fix-your-fortnite-loading-woes/"><u>Quick & Effective Ways to Fix Your Fortnite Loading Woes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-repair-a-frozen-football-manager-2020-game/"><u>Troubleshooting Tips: How to Repair a Frozen Football Manager 2020 Game</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tune-up-the-mundane-how-to-add-custom-ringtones-and-sounds-for-a-unique-auditory-experience-on-android/"><u>Tune Up the Mundane How to Add Custom Ringtones & Sounds for a Unique Auditory Experience on Android</u></a></li>
-<li><a href="https://games-able.techidaily.com/unveiling-a-spectacision-the-finest-budget-friendly-1440p-monitors/"><u>Unveiling a Spectacision: The Finest Budget-Friendly 1440P Monitors</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/why-the-iphone-15-stands-out-in-a-crowded-market-expert-recommendations-for-enthusiasts-and-veterans/"><u>Why the iPhone 15 Stands Out in a Crowded Market | Expert Recommendations for Enthusiasts & Veterans</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ashen-crash-fixed-swift-and-simple-solutions/"><u>Ashen Crash Fixed: Swift and Simple Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-chivalry-crashing-fix-your-game-experience-with-our-expert-guidance-no-more-frustrations/"><u>Beat Chivalry ˈCrashing': Fix Your Game Experience with Our Expert Guidance - No More Frustrations</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/descargar-la-herramienta-online-gratuita-para-convertir-archivo-de-audio-mp3-al-formato-aac-con-movavi/"><u>Descargar La Herramienta Online Gratuita Para Convertir Archivo De Audio MP3 Al Formato AAC Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fall-guys-trouble-heres-how-to-fix-launching-problems-and-stability-bugs/"><u>Fall Guys Trouble? Here's How to Fix Launching Problems and Stability Bugs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-naraka-point-blades-stutter-a-comprehensive-guide/"><u>How to Fix Naraka: Point Blades Stutter - A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-fresh-content-massive-traction-secrets-to-a-thriving-insta-account/"><u>In 2024, Fresh Content, Massive Traction Secrets to a Thriving Insta Account</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fixes-for-cod-black-ops-cold-war-error-code-80070057-problems/"><u>Mastering Fixes for COD: Black Ops Cold War Error Code 80070057 Problems</u></a></li>
+<li><a href="https://network-issues.techidaily.com/preventing-flickering-on-surface-pro-7/"><u>Preventing Flickering on Surface Pro 7</u></a></li>
 </ul></div>
 

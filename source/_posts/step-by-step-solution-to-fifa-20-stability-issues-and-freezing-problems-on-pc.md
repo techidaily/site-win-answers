@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution to FIFA 20 Stability Issues and Freezing Problems on PC
-date: 2024-08-27T23:59:33.583Z
-updated: 2024-08-28T23:59:33.583Z
+date: 2024-11-22T02:29:07.735Z
+updated: 2024-11-27T03:18:20.731Z
 tags:
   - win11
   - win10
@@ -85,19 +85,17 @@ Below are the system requirements for Titanfall 2:
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually.  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Perform a Windows update
 
@@ -106,14 +104,8 @@ Below are the system requirements for Titanfall 2:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
 
 ### Fix 4: Install the latest Titanfall 2 patch
@@ -123,17 +115,9 @@ Below are the system requirements for Titanfall 2:
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Add Titanfall 2 as an exception to your third-party antivirus application
 
  Your third-party antivirus application can also trigger the Titanfall 2 crashing issue. Since the third-party antivirus application hooks very deep into your system, it may interfere with Titanfall 2.
@@ -144,6 +128,10 @@ Below are the system requirements for Titanfall 2:
 
  Launch the game again to see if Titanfall 2 would keep crashing. If not, congratulations! You’ve fixed this issue; if this issue persists, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Repair Titanfall 2
 
  Corrupted games files may also crash Titanfall 2\. In this case, the “Repair Game” feature in Origin may help you resolve the game crashing issues. You can follow the steps below to repair Titanfall 2:
@@ -153,9 +141,6 @@ Below are the system requirements for Titanfall 2:
 3. Select**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When the repairing process completed, launch Titanfall 2 again to see if you can play the game without crashes. If Titanfall 2 still keeps crashing, try the next fix,below.
 
 ### Fix 7: Perform a clean boot
@@ -167,16 +152,20 @@ Below are the system requirements for Titanfall 2:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -184,6 +173,10 @@ Below are the system requirements for Titanfall 2:
 **Restart** your PC and run Titanfall 2 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Titanfall 2
 
@@ -194,9 +187,9 @@ Below are the system requirements for Titanfall 2:
 3. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Uninstall.png)
 4. Download and reinstall Titanfall 2.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Titanfall 2 to see if this issue persists. If not, congratulations! You’ve resolved this issue.
@@ -215,8 +208,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +215,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-finding-your-niche-in-the-snapchat-economy/"><u>[New] 2024 Approved Finding Your Niche in the Snapchat Economy</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-vdx-pro-video-capture-an-in-depth-analysis/"><u>[Updated] 2024 Approved VDX Pro Video Capture An In-Depth Analysis</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/affordable-power-station-a-game-changer-for-budget-travelers-as-revealed-by-zdnet/"><u>Affordable Power Station: A Game Changer for Budget Travelers, as Revealed by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cracking-the-updating-dilemma-in-microsoft-flight-simulator-202n-a-comprehensive-guide-to-fix-and-enjoy/"><u>Cracking the 'Updating' Dilemma in Microsoft Flight Simulator 202N: A Comprehensive Guide to Fix and Enjoy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-launch-labyrinth-in-madden-nfl-22-strategies-to-get-past-the-stalled-screen/"><u>End Launch Labyrinth in Madden NFL 22: Strategies to Get Past the Stalled Screen</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/free-hd-dvd-conversion-transfer-dvds-securely-from-mac-to-ipad-without-loss-of-quality/"><u>Free HD DVD Conversion: Transfer DVDs Securely From Mac to iPad without Loss of Quality</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719579183296-germans-premier-learning-portal-mondly-emerges-victorious/"><u>German's Premier Learning Portal - Mondly Emerges Victorious!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fix-overcoming-fifa-20-pc-stability-problems-comprehensive-instructions/"><u>Master the Fix: Overcoming FIFA 20 PC Stability Problems - Comprehensive Instructions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009725614-quick-solution-guides-stop-origin-from-crashing-now/"><u>Quick Solution Guides - Stop ‘Origin’ From Crashing Now</u></a></li>
+</ul></div>
 

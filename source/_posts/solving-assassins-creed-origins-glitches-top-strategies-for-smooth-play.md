@@ -1,7 +1,7 @@
 ---
 title: "Solving Assassin's Creed Origins Glitches: Top Strategies for Smooth Play"
-date: 2024-08-28T00:00:56.697Z
-updated: 2024-08-29T00:00:56.697Z
+date: 2024-11-22T03:36:34.599Z
+updated: 2024-11-26T23:12:13.336Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/302790bfdd6c387be2ce7104b2f0ec7045e52a09e
 ## Smooth Sailing for Pathfinder Enthusiasts as Game Fixes Major Freezing Glitch on PC
 
 Since the release of Pathfinder: Wrath of the Righteous, you can scroll through hundreds of Reddit threads that are about bug reports on the game. One of the issues plaguing many gamers is that **the game keeps freezing, especially when they click on the two classes – inquisitor and rogue** . For some, they can’t even start the game because it’s stuck at 92% after the character creation. If you’re on the same boat, don’t worry. In this post, we’ve got you covered with some methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,9 +46,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -54,6 +55,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 [Intel](https://www.intel.com/content/www/us/en/download-center/home.html)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically update your graphics driver (recommended)
 
@@ -73,8 +78,9 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
@@ -86,34 +92,32 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Verify on GOG Galaxy
 
 1. Launch GOG Galaxy.
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable overlays
 
  Commonly used in various programs, overlay technology allows you to enjoy some exclusive features, but can also cause performance issues with some games. Therefore, you should disable the Steam overlay and check if it can give you a performance boost. Here’s how you can do this:
@@ -123,9 +127,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
@@ -138,8 +139,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 However, if it doesn’t give you any luck, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Delete the registry key
 
  If your game hangs at 92% or it keeps freezing, especially when you try to pick a class, you can fix it by deleting the registry key. To do this, follow the instructions below.
@@ -150,11 +152,12 @@ However, if it doesn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 Once done, restart your game and test the gameplay.
 
  However, if nothing else has helped, it’s high time to check if you have**corrupted, malfunctioning, and missing Windows software files** , which will cause performance issues.
@@ -167,9 +170,6 @@ Once done, restart your game and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ---
 
  That’s it. Feel free to drop a comment below if any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that worked for you.
@@ -180,8 +180,6 @@ Once done, restart your game and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +187,22 @@ Once done, restart your game and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-revolutionary-marketing-tactics-keyword-essentials/"><u>[New] 2024 Approved Revolutionary Marketing Tactics Keyword Essentials</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-sever-your-discord-connection/"><u>[New] In 2024, Sever Your Discord Connection</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-discover-free-and-paid-luts-for-profound-canon-camera-effects/"><u>[Updated] 2024 Approved Discover Free & Paid LUTs for Profound Canon Camera Effects</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1-unbeatable-audio-experience-top-non-bose-non-sonos-speakers-that-dominate-the-market/"><u>1. Unbeatable Audio Experience: Top Non-Bose, Non-Sonos Speakers That Dominate the Market!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-audio-troubles-in-202c4-the-ultimate-guide-to-repairing-your-obs-microphone/"><u>Beat Audio Troubles in 202C4: The Ultimate Guide to Repairing Your OBS Microphone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/harmonizing-imagery-and-tunes-on-social-media-platforms/"><u>Harmonizing Imagery & Tunes on Social Media Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-infinix-note-30-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Infinix Note 30?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-tech-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Through Tech with Tom - A Trusted Source for Hardware Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-non-launchable-modern-warfare-2-on-pcs/"><u>Overcoming the Challenge of Non-Launchable Modern Warfare 2 on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steps-to-resolve-starfield-game-crashes-on-your-pc-and-xbox-console/"><u>Steps to Resolve Starfield Game Crashes on Your PC and Xbox Console</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-mw3-from-crashing-on-your-pc-a-comprehensive-guide/"><u>Stop MW3 From Crashing on Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-solutions-overcome-forza-horizon-5s-persistent-load-screens/"><u>Top 7 Solutions: Overcome Forza Horizon 5'S Persistent Load Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-prevent-tormented-souls-game-crashes-on-pc/"><u>Ultimate Guide to Prevent Tormented Souls Game Crashes on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unraveling-farming-simulator-22-fps-decrease-on-personal-computers-tips-and-tricks/"><u>Unraveling Farming Simulator 22 FPS Decrease on Personal Computers – Tips & Tricks</u></a></li>
+</ul></div>
 

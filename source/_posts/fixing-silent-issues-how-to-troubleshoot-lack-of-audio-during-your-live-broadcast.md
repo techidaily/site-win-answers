@@ -1,7 +1,7 @@
 ---
 title: "Fixing Silent Issues: How To Troubleshoot Lack of Audio During Your Live Broadcast"
-date: 2024-11-10T05:08:58.722Z
-updated: 2024-11-16T21:24:47.264Z
+date: 2024-11-23T21:12:57.484Z
+updated: 2024-11-26T19:30:16.247Z
 tags:
   - win11
   - win10
@@ -68,13 +68,14 @@ To do so, follow these steps:
    * **Show** **FPS** : On  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
@@ -96,22 +97,12 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
@@ -127,16 +118,13 @@ Still no luck? Okay, there’s something else to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Configure your computer settings
 
@@ -156,18 +144,15 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
@@ -181,10 +166,7 @@ Below lists out some PC settings you can configure:
 3. Click**Advanced system settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
@@ -193,18 +175,15 @@ Below lists out some PC settings you can configure:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch your Fortnite and see if it will load properly.
 
@@ -230,24 +209,18 @@ Launch your Fortnite and see if it will load properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-animals-in-play-essential-android-titles-reviewed/"><u>[Updated] Top Animals in Play Essential Android Titles Reviewed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/breakthrough-backdrop-selection-revolutionize-your-tiktok-videos/"><u>Breakthrough Backdrop Selection Revolutionize Your TikTok Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/complete-guide-for-seamlessly-linking-content-into-your-tiktok-profile/"><u>Complete Guide for Seamlessly Linking Content Into Your TikTok Profile</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cating-youtube-content-in-a-device-friendly-way/"><u>Eradicating YouTube Content in a Device-Friendly Way</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-completed-unstick-your-frozen-discord-game-stream-now/"><u>Fix Completed: Unstick Your Frozen Discord Game Stream Now!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-madden-22-not-working-easily-and-quickly/"><u>How to Fix Madden 22 Not Working [Easily & Quickly]</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-high-quality-8-cam-transformations-for-streaming/"><u>In 2024, High-Quality 8 Cam Transformations for Streaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximize-your-valheim-experience-solutions-to-increase-fps-and-eliminate-lag-issues-2024-update/"><u>Maximize Your Valheim Experience: Solutions to Increase FPS and Eliminate Lag Issues - 2024 Update</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mix-mastery-syncing-audio-to-windows-11-videos-for-2024/"><u>Mix Mastery Syncing Audio to Windows 11 Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launch-problems-in-avatar-how-to-get-the-game-up-and-running-smoothly/"><u>Overcoming Launch Problems in Avatar: How to Get the Game Up and Running Smoothly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-codmw2-performance-problems-with-lagging-frames-and-hitches-on-windows/"><u>Resolved! CoD:MW2 Performance Problems with Lagging Frames & Hitches on Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-latency-woes-optimizing-cyberpunk-aturbish-2077-for-ultimate-performance/"><u>Say Goodbye to Latency Woes: Optimizing Cyberpunk Aturbish 2077 for Ultimate Performance</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solution-guide-for-total-war-warhammer-ii-game-malfunctions/"><u>Solution Guide for TOTAL WAR: WARHAMMER II Game Malfunctions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-operating-the-mobile-app-for-drivereasy/"><u>Step-by-Step Guide: Operating the Mobile App for DriverEasy</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-knack-experience-standout-characters-meet-formulaic-adventure/"><u>The Knack Experience: Standout Characters Meet Formulaic Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-successful-monster-hunter-rise-startup/"><u>Troubleshooting Steps for Successful Monster Hunter Rise Startup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-ultimate-fixes-for-a-frozen-ps4-console/"><u>Troubleshooting the Ultimate Fixes for a Frozen PS4 Console</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/why-cant-i-join-chatgpt-now-exploring-subscription-suspensions-and-reopening-plans/"><u>Why Can't I Join ChatGPT Now? Exploring Subscription Suspensions & Reopening Plans</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-perfecting-switch-pro-techniques-on-steam-platform/"><u>[Updated] Perfecting Switch Pro Techniques on Steam Platform</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-best-ranked-cost-free-video-playing-software-for-pc-users-worldwide/"><u>[Updated] The Best-Ranked, Cost-Free Video Playing Software for PC Users Worldwide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/how-to-archive-video-discussions-with-ease-and-security-for-2024/"><u>How to Archive Video Discussions with Ease & Security for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-essential-video-promo-tips-for-startups-infographic/"><u>In 2024, Essential Video Promo Tips for Startups (Infographic)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-find-n3-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo Find N3 Flip Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-a-detailed-breakdown-cambridge-audios-cxu-system-review-for-2024/"><u>New A Detailed Breakdown Cambridge Audios CXU System Review for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-errors-with-quick-fixes-for-a-malfunctioning-paradox-launcher/"><u>Overcoming Errors with Quick Fixes for a Malfunctioning Paradox Launcher</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-the-ue4-madness-unreal-engine-crash-in-outriders/"><u>Resolved: How to Fix the 'UE4-Madness' Unreal Engine Crash in Outriders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-starfield-games-excessive-cpu-drain-top-strategies/"><u>Resolving the Starfield Game's Excessive CPU Drain : Top Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/saving-big-on-final-cut-pro-without-paying/"><u>Saving Big on Final Cut Pro without Paying</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fixing-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Troubleshooting: Fixing 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
 </ul></div>
 

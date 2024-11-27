@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Resolving Rainbow Six Extraction PC Issues
-date: 2024-08-28T00:00:06.312Z
-updated: 2024-08-29T00:00:06.312Z
+date: 2024-11-21T22:32:08.093Z
+updated: 2024-11-26T22:49:02.639Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -54,6 +58,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 5) Launch Gears of War and check to see if the crash problem is resolved. If yes, then congrats and enjoy the game! If the issue remains, please move on to **Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
 
@@ -65,16 +73,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  3) Click Captures, then toggle **off** the switch for **Record in the background while I’m playing a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
@@ -82,6 +84,10 @@ Here is how to do it:
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Exit the window.
 
@@ -92,8 +98,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -102,14 +109,8 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
@@ -119,8 +120,9 @@ Here is how to reset the Microsoft Store cache:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
@@ -137,13 +139,14 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In Windows Update, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Wait for the system to check online for available updates for the game.
 
 * **If yes** , it will automatically download the update and install it. Once completed, restart your computer for the changes to take effect. After that, don’t forget to check if the Gears of War 5 PC crash issue is fixed. If yes, then great! If it’s still no joy, please move on to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -163,9 +166,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall the game
 
  If the above steps didn’t , then it’s time to reinstall the game to see if it works. To do so, simply uninstall the game from your PC, then head to Microsoft Store, search the game, download and install it.
@@ -173,6 +173,10 @@ Here is how to do it:
  Once you’ve reinstalled Gears of War 5 on your PC, run it to see if it still crashes.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
@@ -190,8 +194,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +201,19 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-6-figure-views-prime-hashtag-strategies-for-success/"><u>[Updated] 2024 Approved 6-Figure Views Prime Hashtag Strategies for Success</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-no-cost-screenshot-masters-the-best-on-windows-1-5-guide/"><u>[Updated] 2024 Approved No-Cost Screenshot Masters – The Best on Windows #1-5 Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-navigating-mac-preview-with-ease-ultimate-guide/"><u>2024 Approved Navigating Mac Preview with Ease Ultimate Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/boosting-webcam-quality-with-ease-and-precision-for-2024/"><u>Boosting WebCam Quality with Ease and Precision for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-continuous-crashes-in-resident-evil-village-on-your-pc-solutions-inside/"><u>Fixing Continuous Crashes in Resident Evil Village on Your PC - Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-smooth-play-advanced-techniques-to-resolve-sims-4-lags-on-pc-2024-insights/"><u>Mastering Smooth Play: Advanced Techniques to Resolve Sims #4 Lags on PC (2024 Insights)</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/realistic-quantum-leaps-a-vfx-perspective/"><u>Realistic Quantum Leaps A VFX Perspective</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speed-up-your-steam-experience-essential-fixes-for-slow-running-issues/"><u>Speed up Your Steam Experience – Essential Fixes for Slow Running Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-picasso-of-the-future-gpt-enhanced-image-generation/"><u>The Picasso of the Future: GPT-Enhanced Image Generation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-fixing-payday-2-pc-launch-problems/"><u>Troubleshooting Steps for Fixing 'Payday 2' PC Launch Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-success-how-to-resolve-maplestory-not-loading-issues/"><u>Troubleshooting Success: How to Resolve Maplestory Not Loading Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/your-phones-call-archive-iphone-2024/"><u>Your Phone's Call Archive - iPhone 2024</u></a></li>
+</ul></div>
 

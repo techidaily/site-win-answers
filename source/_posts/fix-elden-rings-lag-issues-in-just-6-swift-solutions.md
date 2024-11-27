@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2024-11-14T08:02:34.350Z
-updated: 2024-11-16T22:43:07.305Z
+date: 2024-11-22T17:38:40.090Z
+updated: 2024-11-26T16:53:05.863Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -32,6 +36,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -60,10 +68,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -79,23 +84,9 @@ Here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -124,6 +115,10 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
@@ -140,14 +135,11 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -172,18 +164,16 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-socialsnatcher-hd-extractor-for-2024/"><u>[New] SocialSnatcher HD Extractor for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-performance-issues-boosting-fps-in-your-outriders-adventure/"><u>Conquering Performance Issues: Boosting FPS in Your Outriders Adventure</u></a></li>
-<li><a href="https://win-answers.techidaily.com/crack-down-on-lag-spikes-and-optimize-performance-in-cod-black-ops-4/"><u>Crack Down on Lag Spikes and Optimize Performance in Cod: Black Ops 4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-fixing-error-327-for-star-wars-battlefront-ii-enthusiasts/"><u>Expert Tips on Fixing Error 327 for Star Wars: Battlefront II Enthusiasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/iphone-not-showing-up-in-itunes-on-windows-n11-heres-how-to-fix-it/"><u>IPhone Not Showing Up in iTunes on Windows N11? Here's How to Fix It</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/resolving-the-iphone-recovery-mode-glitch-a-step-by-step-guide/"><u>Resolving the iPhone Recovery Mode Glitch: A Step-by-Step Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/screen-grab-king-macos-recorder-free-for-2024/"><u>Screen Grab King MacOS Recorder, Free for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-solution-overcoming-the-tfla00/"><u>Step-by-Step Solution: Overcoming the TFLA00</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/switch-cards-between-apple-iphone-11-pro-max-and-other-iphones-will-move-all-phone-services-drfone-by-drfone-transfer-from-ios/"><u>Switch Cards Between Apple iPhone 11 Pro Max and other iPhones Will Move All Phone Services? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-moto-g-stylus-a-cost-effective-choice-for-touchscreen-enthusiasts/"><u>The Moto G Stylus: A Cost-Effective Choice for Touchscreen Enthusiasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-assassins-creed-origins-freezing-issues-top-advice-2024/"><u>Ultimate Guide: Resolving Assassin's Creed Origins Freezing Issues - Top Advice, 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-xr-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone XR Before the Plan Expires</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updating-your-amd-drivers-guide-for-windows-operating-systems-10-11-and-7/"><u>Updating Your AMD Drivers: Guide for Windows Operating Systems (10, 11, and 7)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-essential-guide-for-cost-free-google-meet-management/"><u>[New] The Essential Guide for Cost-Free Google Meet Management</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-engineering-an-impactful-storyboard-fragment/"><u>[Updated] Engineering an Impactful Storyboard Fragment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-how-to-edit-hauls-a-comprehensive-video-guide/"><u>[Updated] How to Edit Hauls A Comprehensive Video Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860884084-updated-mastering-vrecorder-download-install/"><u>[Updated] Mastering VRecorder Download, Install!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-error-code-0x00001338-on-pc-quick-fixes-and-tips-for-gamers/"><u>Call of Duty Vanguard Error Code 0X00001338 on PC - Quick Fixes and Tips for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deathloop-finally-released-overcoming-the-pre-launch-hurdles/"><u>Deathloop Finally Released: Overcoming the Pre-Launch Hurdles</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-s23plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel S23+ Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-ways-to-eliminate-oxygen-not-included-crash-glitches-a-detailed-guide/"><u>Effective Ways to Eliminate 'Oxygen Not Included' Crash Glitches: A Detailed Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/efficiency-achieved-tackling-and-solving-cyberpunk-cuper-2077s-high-cpu-drain/"><u>Efficiency Achieved: Tackling and Solving Cyberpunk Cuper 2077'S High CPU Drain</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-a-closer-look-at-stale-vr-landscapes-what-changes/"><u>In 2024, A Closer Look at Stale VR Landscapes What Changes?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/timeline-of-groundbreaking-technological-developments-since-1844/"><u>Timeline of Groundbreaking Technological Developments Since 1844</u></a></li>
 </ul></div>
 

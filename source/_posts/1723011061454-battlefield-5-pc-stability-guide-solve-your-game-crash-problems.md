@@ -1,7 +1,7 @@
 ---
 title: Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems
-date: 2024-08-28T00:02:16.419Z
-updated: 2024-08-29T00:02:16.419Z
+date: 2024-11-19T19:11:54.502Z
+updated: 2024-11-26T21:57:19.089Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 **Note:** Don’t use fullscreen (use borderless instead) and don’t**Alt + Tab** your game, for these two things can always cause Battlefield V crashing issues.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change Windows 10 Virtual Memory/Pagefile
 
  If the Windows 10 virtual memory isn’t set right, there is a chance of crashing and freezing issues with Battlefield V. Windows usually manages the Virtual memory automatically, but you can manually change the size of virtual memory if the default size isn’t large enough for your needs.
@@ -45,9 +49,17 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/RAM-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the Advanced tab, click**Setting** s.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Advanced** tab and click**Change** .
 
@@ -65,9 +77,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  6) Launch your Battlefield V again and play for a few hours to check if the crashing issue still persists.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Turn off the in-game overlay
 
 1) Open your Origin.
@@ -112,9 +121,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/driver-easy-update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -131,15 +137,16 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
  4) Launch your Battlefield V again to see if the crashing issue still persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Stop Overclocking
 
  Battlefield V is very sensitive to overclocking, so do NOT overclock your GPU and CPU. Overclocking may cause your Battlefield V to crash or freeze. In that case, we suggest resetting the processor or GPU to the manufacturer’s specifications.
 
  If you don’t want to overclock the CPU at all, you should also turn**XMP (Extreme Memory Profiles)** off. To do it, you need to enter BIOS and disable Extreme Memory Profile.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 6: Turn off DX12
 
  For many Battlefield V players, DX12 runs like a nightmare. Although DICE has spent a lot of time optimizing the game for DX12, BFV is terribly unstable in DX12\. The latest Windows update seems to have got rid of much of DX12 choppiness (so make sure your Windows is up-to-date). However, if your Battlefield 5 keeps crashing, you can switch to DX11 to see if it solves the issue.
@@ -149,9 +156,9 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Battlefield-5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** If you fail to see the**DX12 ENABLED** option in the Advanced Video Settings, you can revert it back to DX11 manually.  
   
  1\. Go to your**Battlefield 5** folder then the**settings** folder, right-click**PROFSAVE\_profile** and select**Edit with Notepad** .  
@@ -163,6 +170,10 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  3) If the crashing issue still persists, try lowering your in-game resolution (adjust the monitor’s and resolution accordingly) and restarting the game again.
 
  4) If neither of those workarounds does the trick, you may need to toggle off DXR for a smoother play experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Run Origin and BFV as admin
 
@@ -180,10 +191,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/origin-run-as-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
 
 ### Fix 8: System File Checker
@@ -211,10 +218,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 #### Option 2 – Manually
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as admin.
@@ -247,29 +250,29 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/perform-a-clean-boot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Select each startup item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/startup-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 4) Restart your PC and launch your Battlefield V again to test the issue.
 
  If you can play Battlefield V without any crashing now, then congrats! To find out the problematic applications or services, you can enable them one by one in System Configuration again.
@@ -289,8 +292,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -298,4 +299,21 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-perfect-playtime-how-to-take-great-xbox-one-shots/"><u>[New] In 2024, A Perfect Playtime How to Take Great Xbox One Shots</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-iphone-image-editing-learn-to-change-resolution/"><u>[New] IPhone Image Editing Learn to Change Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-crusader-kings-2-not-launching/"><u>[Solved] Crusader Kings 2 Not Launching</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-step-by-step-tutorial-to-monetize-product-videography-for-2024/"><u>[Updated] A Step-by-Step Tutorial to Monetize Product Videography for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-straightstreamerw11-ultra-simple-pc-screenshot-software-for-2024/"><u>[Updated] StraightStreamerW11 Ultra-Simple PC Screenshot Software for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-tips-to-eliminate-lag-in-forza-horizon-5-racing-adventure/"><u>Best Tips to Eliminate Lag in Forza Horizon 5 Racing Adventure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/canons-spectral-conversion-paid-and-gratis-lut-tools/"><u>Canon's Spectral Conversion Paid & Gratis LUT Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-t2-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-annoying-black-screen-challenge-for-hitman-3-players-pc-fixes-unveiled/"><u>Defeat the Annoying Black Screen Challenge for Hitman 3 Players - PC Fixes Unveiled</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/"><u>Fixing CoD WWII 'Error 4128' Issue? Here Are the Steps You Need to Know!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-infinix-note-30-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Infinix Note 30? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mordhau-freezing-problems-discover-how-to-fix-them-now/"><u>Mordhau Freezing Problems? Discover How to Fix Them Now!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-stability-hacks-overcoming-frequent-game-crashes/"><u>Rocket League Stability Hacks: Overcoming Frequent Game Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-how-to-for-refreshing-macos-dns-records/"><u>The Ultimate How-To for Refreshing macOS DNS Records</u></a></li>
+</ul></div>
 

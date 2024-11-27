@@ -1,7 +1,7 @@
 ---
 title: "No More Interruptions: Defeating the Crash Cycle in Your State of Decay 2 Experience – Updated Strategies for Gamers"
-date: 2024-08-28T00:00:39.944Z
-updated: 2024-08-29T00:00:39.944Z
+date: 2024-11-23T22:56:10.546Z
+updated: 2024-11-27T00:27:55.379Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056
 3. Click**Uninstall** again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, restart your computer and see if that helps.
 
 If State of Decay 2 still crashes, go ahead with the next fix below.
@@ -73,9 +77,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and check if State of Decay 2 is working properly.
@@ -105,24 +106,24 @@ If this method doesn’t help, check out the next solution.
 2. Under Apps & features, click**State of Decay 2** , then click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
 3. Scroll down the page, then click**Reset** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Move State of Decay 2 to a different drive
 
  Sometimes low disk space may prevent your game from working properly and causes many problems, like the crashing issue in State of Decay 2\. To fix it, you’ll need to free up space by moving the program to another drive. Here’s how:
@@ -132,14 +133,15 @@ If the crashing issue occurs again, continue to the next fix.
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
 
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Set English (United States) as the default language
 
@@ -148,34 +150,26 @@ If this method doesn’t do the trick, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open Windows Settings. Then click**Time & Language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/time-language.jpg)
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Perform a clean boot
 
  Some background applications or services may cause State of Decay 2 crashes on your PC. So you can perform a clean boot to see if there are any conflicts between the game and another program. Here’s how:
@@ -183,29 +177,28 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After rebooting your PC, launch State of Decay 2 to see if it crashes again. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
  Once you find out the problematic program that causes the game to crash, you just need to uninstall it to avoid game crashing issues in the future.
 
  If the game still crashes after you disabled all the programs and services, try the last fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall State of Decay 2
 
@@ -214,16 +207,19 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -237,8 +233,6 @@ If this solution doesn’t work for you, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +240,19 @@ If this solution doesn’t work for you, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>[New] GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-watermark-instagram-photos/"><u>[New] In 2024, How to Watermark Instagram Photos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-upload-gif-to-instagram-in-4-steps/"><u>[Updated] 2024 Approved How To Upload GIF to Instagram in 4 Steps</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-recording-realities-evaluating-the-power-and-precision-of-apeaksoftware-for-2024/"><u>[Updated] Recording Realities – Evaluating the Power and Precision of Apeaksoftware for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alan-wake-2-continuation-crash-fixes-and-techniques-for-a-smoother-game/"><u>Alan Wake 2 Continuation Crash Fixes & Techniques for a Smoother Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-for-pathfinder-enthusiasts-overcoming-launch-glitches-in-wrath-of-the-righteous/"><u>Fix Guide for Pathfinder Enthusiasts – Overcoming Launch Glitches in Wrath of the Righteous</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hp-display-malfunction-heres-how-you-can-get-it-working-again-safely/"><u>HP Display Malfunction? Here's How You Can Get It Working Again Safely!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-androidios-montages-top-8-tools-for-dynamic-media-blends/"><u>In 2024, Android/iOS Montages Top 8 Tools for Dynamic Media Blends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quickly-resolve-the-directx-error-in-warzone-with-these-simple-tips/"><u>Quickly Resolve the 'DirectX Error in Warzone' With These Simple Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/secrets-to-successful-twitpicingvideos-included/"><u>Secrets to Successful Twitpicing—Videos Included</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-shift-from-office-to-remote-hybrid-employees-face-uncertain-futures-zdnet/"><u>The Shift From Office to Remote: Hybrid Employees Face Uncertain Futures | ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-guide-to-overcoming-the-cannot-open-game-error-in-league-of-legends/"><u>The Ultimate Guide to Overcoming the 'Cannot Open Game' Error in League of Legends</u></a></li>
+</ul></div>
 

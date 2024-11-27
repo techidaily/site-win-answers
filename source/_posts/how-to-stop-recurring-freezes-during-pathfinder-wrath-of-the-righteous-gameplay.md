@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Recurring Freezes During Pathfinder: Wrath of the Righteous Gameplay"
-date: 2024-08-27T23:58:34.261Z
-updated: 2024-08-28T23:58:34.261Z
+date: 2024-11-21T02:30:50.454Z
+updated: 2024-11-26T21:10:48.262Z
 tags:
   - win11
   - win10
@@ -63,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/febc5e8eb723097c959ee0c4369a98c541397c828
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
@@ -83,19 +84,17 @@ thumbnail: https://thmb.techidaily.com/febc5e8eb723097c959ee0c4369a98c541397c828
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of Pathfinder: Wrath of the Righteous releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -104,9 +103,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable overlays
 
  Overlays sometimes would interfere with the game and even block the game files. You can try disabling Steam Overlay for Pathfinder: Wrath of the Righteous and see if the game crashes again:
@@ -117,15 +113,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Temporarily disable anti-virus software
 
  Many 3rd party antivirus software often block important game files. Once some important game files are blocked, the game would crash.
@@ -145,26 +139,35 @@ Here’s how to do it:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Restart** your PC and launch Pathfinder: Wrath of the Righteous to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -192,8 +195,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +202,21 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-expert-insights-for-saving-and-curating-insta-stories/"><u>[New] Expert Insights for Saving and Curating Insta Stories</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-innovative-techniques-for-capturing-audio-on-ipad/"><u>[Updated] Innovative Techniques for Capturing Audio on iPad</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-directly-posting-tiktok-videos-onto-your-facebook-timeline/"><u>2024 Approved Directly Posting TikTok Videos Onto Your Facebook Timeline</u></a></li>
+<li><a href="https://win-answers.techidaily.com/breaking-news-pc-gamers-await-further-announcements-on-diablo-immortal-release/"><u>Breaking News: PC Gamers Await Further Announcements on Diablo Immortal Release</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-free-gaming-experience-achieved-with-recent-fixes-for-insurgency-sandstorm/"><u>Crash-Free Gaming Experience Achieved with Recent Fixes for 'Insurgency: Sandstorm'</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/data-rescue-made-simple-with-stellar-ui-on-mac/"><u>Data Rescue Made Simple with Stellar UI on Mac</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/driver-loading-hiccup-for-amd-and-windows-10-fixes-here/"><u>Driver Loading Hiccup for AMD & Windows 10 Fixes Here</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-unstuck-from-the-startup-loop-in-madden-nfl-22-expert-troubleshooting-tips-and-solutions/"><u>Get Unstuck From the Startup Loop in Madden NFL 22: Expert Troubleshooting Tips and Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/how-to-restore-windows-photo-viewer-in-windows-11-2-methods/"><u>How to Restore Windows Photo Viewer in Windows 11 (2 Methods)</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-utility-evaluation-german-vs-french-comparison/"><u>Linguistic Utility Evaluation: German Vs French Comparison</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-vivo-s17e-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Vivo S17e</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-interruptions-repairing-pc-issues-during-sons-of-the-forest-playthroughs/"><u>Overcoming Game Interruptions: Repairing Pc Issues During Sons of the Forest Playthroughs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-constant-pc-crashes-in-arcadegeddon-game/"><u>Resolved: Fixes for Constant PC Crashes in Arcadegeddon Game</u></a></li>
+<li><a href="https://media-tips.techidaily.com/top-3-sound-improvement-programs-unveiled-expert-reviews-and-distinctive-attributes-explained/"><u>Top 3 Sound Improvement Programs Unveiled: Expert Reviews and Distinctive Attributes Explained</u></a></li>
+</ul></div>
 

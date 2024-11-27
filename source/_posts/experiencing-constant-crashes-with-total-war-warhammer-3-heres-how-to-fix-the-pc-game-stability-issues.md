@@ -1,7 +1,7 @@
 ---
 title: "Experiencing Constant Crashes with Total War: Warhammer 3? Here's How to Fix the PC Game Stability Issues"
-date: 2024-08-28T00:00:08.679Z
-updated: 2024-08-29T00:00:08.679Z
+date: 2024-11-22T02:36:17.358Z
+updated: 2024-11-26T17:41:09.693Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 7. **[Change your PC’s Power Settings](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1:**Meet the minimum system requirements**
 
  To run _**War Thunder**_ on your PC, make sure that your computer meets the minimum system requirements; otherwise, you’ll need to play the game on another computer.
@@ -50,6 +54,10 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -65,17 +73,15 @@ _**War Thunder**_ keeps crashing on startup, or it constantly closes to desktop 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: **Restart your computer**
 
  Some programs running on your PC may conflict with **_War Thunder_** , causing it to crash constantly. To see if that’s the problem for you, try restarting your computer to end unwanted programs completely, then relaunch your game to test your issue.
 
  If**_War Thunder_** still crashes your computer, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: **Run your game as an Administrator**
 
 _**War Thunder**_ or Steam sometimes can’t access certain game files on your computer under normal user mode, which could result in the crashing issue. To see if that’s the problem for you, try running Steam as an administrator, then launch your game from Steam. Follow the instructions below:
@@ -87,11 +93,16 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and**War Thunder** to test your issue.
 
@@ -103,9 +114,6 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
  To check if there is any update, go to the **[War Thunder website](https://warthunder.com/en/game/changelog/) [](https://remnant.ghost.io/)**  and search for the latest patch**.**  If a patch is available, install it, then run your game again to check whether the crashing problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Verify the integrity of game files
 
 **_War Thunder_** may crash when a certain game file is damaged or missing. To fix it, try verifying the integrity of your game files on the Steam client. Here is how:
@@ -116,22 +124,22 @@ _**War Thunder**_ or Steam sometimes can’t access certain game files on your c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Right-click **War Thunder** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-79.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Wait for the scans to be complete, then relaunch your game to see if your problem has been resolved. If not, try the next fix.
 
 ### Fix 6: **Update your graphics driver**
@@ -166,14 +174,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -184,9 +193,6 @@ OR
 
 If your issue persists, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Change your PC’s Power Settings
 
  The power plan on all computers is set to Balanced by default to save more energy, so your computer sometimes will slow down to save energy, which could cause War Thunder to crash. Follow the instructions below to see how to fix it:
@@ -195,9 +201,6 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -222,10 +225,6 @@ If your issue persists, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **3)**  Right-click **War Thunder**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-77.png)
@@ -234,13 +233,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-78.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Right-click the**Steam icon** on the taskbar, and select**Exit** to exit Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** On your keyboard, press the **Windows logo**  key and **E**  at the same time to open File Explorer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-3.jpg)
@@ -269,8 +273,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -278,4 +280,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-winning-video-player-list-top-16-freebies/"><u>[Updated] 2024 Approved Winning Video Player List Top 16 Freebies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-convert-with-confidence-best-apps-to-turn-spotify-into-youtube-channels/"><u>[Updated] In 2024, Convert with Confidence Best Apps to Turn Spotify Into YouTube Channels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-tempo-trackers-guide-accessible-free-tools/"><u>[Updated] The Tempo Tracker’s Guide – Accessible, Free Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-exploring-effective-financial-gains-through-youtube-shorts/"><u>2024 Approved Exploring Effective Financial Gains Through YouTube Shorts</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-network-security/"><u>2024 Approved Network Security</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-performance-top-tips-to-eliminate-stuttering-and-optimize-pc-play-in-minecraft/"><u>Improving Performance: Top Tips to Eliminate Stuttering & Optimize PC Play in Minecraft</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-infinix-gt-10-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Infinix GT 10 Pro</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-to-address-lag-and-connection-woes-in-new-worlds-most-recent-update/"><u>Quick Fixes to Address Lag and Connection Woes in New World's Most Recent Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-audio-glitches-in-mass-effects-definitive-edition/"><u>Solved: Overcoming Audio Glitches in Mass Effect's Definitive Edition</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-realme-c51-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Realme C51 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-twitch-viewing-a-guide-with-7-key-fixes-for-loading-problems/"><u>Troubleshoot Your Twitch Viewing: A Guide with 7 Key Fixes for Loading Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/turbocharge-your-escape-from-tarkov-session-with-these-t-pro-level-fps-enhancements/"><u>Turbocharge Your Escape From Tarkov Session with These T Pro-Level FPS Enhancements</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-sea-of-thieves-expert-tips-for-launching-your-pirate-adventure-successfully/"><u>Unlocking Sea of Thieves: Expert Tips for Launching Your Pirate Adventure Successfully</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-fast-forward-best-gif-speed-editors-for-any-device/"><u>Updated In 2024, Fast Forward Best GIF Speed Editors for Any Device</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-14-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 14 Plus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007979739-winwordexe-application-snags-here-are-five-straightforward-fixes/"><u>WINWORD.EXE Application Snags? Here Are Five Straightforward Fixes!</u></a></li>
+</ul></div>
 

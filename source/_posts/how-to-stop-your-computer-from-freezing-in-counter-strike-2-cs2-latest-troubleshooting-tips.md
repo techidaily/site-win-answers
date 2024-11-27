@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Computer From Freezing in Counter-Strike 2 (CS2) - Latest Troubleshooting Tips
-date: 2024-11-15T12:15:39.971Z
-updated: 2024-11-17T03:43:01.230Z
+date: 2024-11-25T21:13:13.095Z
+updated: 2024-11-26T17:53:03.568Z
 tags:
   - win11
   - win10
@@ -40,10 +40,7 @@ Serious Sam 4 is available now! But players have reported some issues like crash
 12. **[Disable overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your PC meets the specs
@@ -96,6 +93,10 @@ Here are the minimum and recommended system requirements for the game:
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) release updates for their drivers regularly. All you need to do is go to the official website of your graphics card manufacturer. Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers. For Nvidia users, you can also use GeForce Experience to check for the driver.
@@ -112,17 +113,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -130,18 +128,15 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest Microsoft Visual C++
 
  To work properly, most newer games need the latest version of Microsoft Visual C++. And there is a possibility that some of your Visual C++ Redistributables files are missing and that causes the crashing issue. So you should[download](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) and install the latest ones, both ×86 and ×64.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Run Steam as an administrator
 
@@ -151,9 +146,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and find the**Steam application** . (It should be highlighted.) Right-click on it and select**Properties** .
 
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .
 
@@ -176,13 +179,6 @@ To do so, you can:
  2) Select**Virus & threat protection** from the left pane. Scroll down and under the**Ransomware protection** section, click**Manage ransomware protection** .
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Switch the**Controlled folder access** setting to**On** . When a window pops up asking “**Do you want to allow this app to make changes to your device** “, click**Yes** .  
  Then click**Allow an app through Controlled folder access** .
@@ -207,6 +203,10 @@ To do so, you can:
 
 ![This image has an empty alt attribute; its file name is steam-select-propertite.jpg](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click on the **LOCAL FILES**  tab and click **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![verify game files serious sam 4 crash or shutter](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-1.png)
@@ -214,13 +214,6 @@ To do so, you can:
  This verification process would take a while to finish. After that, play your game to check if the issue is solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Disable Steam overlay
 
@@ -282,9 +275,17 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**YES** when you’re asked**DO YOU WANT TO KEEP THESE SETTINGS?** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-4-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, close your game and launch it again to check if it fixes the issue.
 
@@ -304,13 +305,6 @@ After you’ve done these, relaunch your game.
 
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/set-priority-as-real-time-2-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
 ---
@@ -325,27 +319,17 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click on the**Services** tab. Check the box**Hide all Microsoft services** and click**Disable all > Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-3-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After restarting your computer, launch your game to see if it fixes the issue. If not, move on to the next method.
 
@@ -378,22 +362,22 @@ Here’s how you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/battlefield-2aturdays-are-here-how-to-prevent-crashes-when-playing-the-game-on-your-pc/"><u>Battlefield 2Aturdays Are Here! How to Prevent Crashes when Playing the Game on Your PC</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/come-effettuare-il-ripristino-di-file-perduti-su-windows-11-con-questi-5-consigli/"><u>Come Effettuare Il Ripristino Di File Perduti Su Windows 11 Con Questi 5 Consigli</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-guide-overcome-pc-crashes-while-playing-warcraft-reforged-top-tips-and-tricks-for-gamers/"><u>Comprehensive Guide: Overcome PC Crashes While Playing Warcraft ^[Reforged] - Top Tips and Tricks for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discord-camera-problems-solved-tips-for-getting-it-working-again/"><u>Discord Camera Problems Solved - Tips for Getting It Working Again</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-logitech-drivers-installed-in-minutes-on-windows-pcs/"><u>Get Logitech Drivers Installed in Minutes on Windows PCs</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-how-to-choose-video-recording-between-30-vs-60-fps/"><u>In 2024, How To Choose Video Recording Between 30 Vs. 60 FPS?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-display-apple-iphone-14-plus-screen-on-pc-easily-drfone-by-drfone-ios/"><u>In 2024, How to Display Apple iPhone 14 Plus Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-stability-in-fifa-20-on-your-computer-the-full-experts-crash-fix-handbook/"><u>Mastering Stability in FIFA 20 on Your Computer: The Full Expert's Crash Fix Handbook</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mongolia/"><u>Mongolia</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-premiere-elements-not-for-you-try-these-10-alternatives-instead/"><u>New Premiere Elements Not for You? Try These 10 Alternatives Instead</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-play-disruptions-fixing-continuous-overwatch-2-pc-crashes/"><u>Overcoming Play Disruptions: Fixing Continuous Overwatch 2 PC Crashes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/premier-videography-devices-reviewed-2024-selection/"><u>Premier Videography Devices Reviewed - 2024 Selection</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-dolby-atmos-playback-problems-in-the-new-windows-environments-a-step-by-step-guide/"><u>Solving Dolby Atmos Playback Problems in the New Windows Environments: A Step-By-Step Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-stardew-valley-what-to-do-if-it-doesnt-load-correctly/"><u>Troubleshooting Stardew Valley: What To Do If It Doesn't Load Correctly</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-awesome-online-destinations-for-advanced-text-customization/"><u>[New] Awesome Online Destinations for Advanced Text Customization</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-latest-on-youtube-income-framework/"><u>[New] Latest on YouTube Income Framework</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-top-10-lightroom-alternatives-free-and-paid-filmora/"><u>[New] Top 10 Lightroom Alternatives [Free & Paid] | Filmora</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-mastering-the-art-of-trailer-sound-design/"><u>[Updated] In 2024, Mastering the Art of Trailer Sound Design</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/como-convertir-archivos-flv-en-formato-mov-sin-coste-con-conversor-online-de-movavi/"><u>Cómo Convertir Archivos FLV en Formato MOV Sin Coste Con Conversor Online De Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/enhancing-visual-appeal-with-instagrams-filters-and-effects/"><u>Enhancing Visual Appeal with Instagram's Filters & Effects</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-guide-overcoming-repeated-shutdowns-on-your-pcs-metro-exodus-enhanced-edition/"><u>Fix & Guide: Overcoming Repeated Shutdowns on Your PC's Metro Exodus (Enhanced Edition)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-remedies-for-when-your-discord-overlay-wont-work-a-comprehensive-fix-guide/"><u>Immediate Remedies for When Your Discord Overlay Won't Work - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pioneers-in-virtual-marvel-storytelling/"><u>Pioneers in Virtual Marvel Storytelling</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-persistent-steam-crashes-with-these-easy-methods/"><u>Resolve Persistent Steam Crashes with These Easy Methods!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-freezes-fixing-warframe-gameplay-issues-completely/"><u>Say Goodbye to Freezes - Fixing Warframe Gameplay Issues Completely</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997677952-sekiro-stability-issues-resolve-them-easily-and-swiftly-here/"><u>Sekiro Stability Issues? Resolve Them Easily & Swiftly Here!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-windows-11-taskbar-problem-today-expert-tips-and-tricks/"><u>Solve Your Windows 11 Taskbar Problem Today - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-overcoming-visual-glitches-in-the-sims-4-with-a-new-video-card-fix/"><u>Solved: Overcoming Visual Glitches in The Sims 4 with a New Video Card Fix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-playing-games-with-your-pc-resolve-ascent-crashing-issues-now/"><u>Stop Playing Games With Your PC: Resolve Ascent Crashing Issues Now!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-funniest-in-the-business-5-reaction-video-makers-youll-love/"><u>Updated The Funniest in the Business 5 Reaction Video Makers Youll Love</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-users-say-goodbye-to-keyboard-latency-issues/"><u>Windows 10 Users, Say Goodbye to Keyboard Latency Issues</u></a></li>
 </ul></div>
 

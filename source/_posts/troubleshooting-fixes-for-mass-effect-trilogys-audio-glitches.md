@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixes for Mass Effect Trilogy's Audio Glitches"
-date: 2024-11-12T11:53:41.786Z
-updated: 2024-11-17T12:50:26.409Z
+date: 2024-11-25T02:14:55.952Z
+updated: 2024-11-26T17:14:09.186Z
 tags:
   - win11
   - win10
@@ -67,22 +67,12 @@ If SWTOR still won’t start, read on and try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Relaunch your game to see if this helped.
 
 If this doesn’t work for you, then go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -100,11 +90,19 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -125,33 +123,17 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-18-57.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **STAR WARS: The Old Republic** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Relaunch the game to test your issue.
 
@@ -166,6 +148,10 @@ If SWTOR is still unplayable, move on to the next fix.
 **2)** Right-click the**SWTOR desktop icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-39-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Delete the**Bitraider folder** .
 
@@ -183,16 +169,13 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
 
@@ -202,6 +185,10 @@ If SWTOR is still unplayable, move on to the next fix.
  **, “bitraider\_disable”: “true”**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
@@ -214,13 +201,6 @@ If SWTOR is still unplayable, move on to the next fix.
 **11)** Type**appwiz.cpl** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-48-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)** Right-click**Bitraider Streaming Client** and select**Uninstall** .
 
@@ -247,22 +227,24 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-10-tv-streaming-platforms-in-depth-comparisons/"><u>2024 Approved Top 10 TV Streaming Platforms In-Depth Comparisons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-methods-for-advancing-your-chatgpt-interactions-learn-the-7-key-techniques/"><u>Effective Methods for Advancing Your ChatGPT Interactions – Learn the 7 Key Techniques</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-common-phasmophobia-vr-problems-for-seamless-playtime/"><u>Fixing Common Phasmophobia VR Problems for Seamless Playtime</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixing-r9-driver-issues-for-enhanced-performance-in-w10/"><u>Fixing R9 Driver Issues for Enhanced Performance in W10</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722993085357-halo-infinite-stuck-on-your-screen-try-these-7-tricks-to-get-it-running-smoothly-again/"><u>Halo Infinite Stuck on Your Screen? Try These 7 Tricks to Get It Running Smoothly Again!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-the-missing-fortnite-startup-access-point-problem/"><u>How to Address the Missing Fortnite Startup Access Point Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-horizon-zero-dawn-from-crashing-on-your-computer-solutions-found/"><u>How to Stop Horizon Zero Dawn From Crashing on Your Computer - Solutions Found</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone XS Max</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/insights-on-asus-rog-rapture-gt-ax11000-the-ultimate-blend-of-speed-efficiency-and-features-for-an-immersive-gaming-experience/"><u>Insights on Asus ROG Rapture GT-AX11000 - The Ultimate Blend of Speed, Efficiency & Features for an Immersive Gaming Experience</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-make-your-own-reaction-videos-with-these-top-rated-apps/"><u>New In 2024, Make Your Own Reaction Videos with These Top-Rated Apps</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-remedies-for-smoothing-out-elden-rings-gameplay-6-methods-to-boost-fps-and-combat-stuttering/"><u>Quick Remedies for Smoothing Out Elden Ring's Gameplay: 6 Methods to Boost FPS and Combat Stuttering</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-logitech-g-hub-connection-problems-under-windows-os/"><u>Resolving Logitech G Hub Connection Problems Under Windows OS</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/setting-up-sports-content-sharing-on-a-mac-device/"><u>Setting Up Sports Content Sharing on a Mac Device</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-palworld-crashes-on-your-computer-a-step-by-step-guide/"><u>Solving the Issue: Palworld Crashes on Your Computer - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723001916025-trouble-with-a-non-reactive-utorrent-here-are-7-effective-remedies/"><u>Trouble with a Non-Reactive Utorrent? Here Are 7 Effective Remedies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/your-ultimate-yt-shorts-companion-for-2024/"><u>Your Ultimate YT Shorts Companion for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-master-strategies-to-stop-windows-10-photos-crashes/"><u>[New] Master Strategies to Stop Windows 10 Photos Crashes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-skyrocket-sales-traffic-with-the-15-cutting-edge-facebook-gadgets-for-2024/"><u>[New] Skyrocket Sales Traffic with the 15 Cutting-Edge Facebook Gadgets for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boosting-fps-in-the-division-2-expert-tips-and-tricks-for-a-smoother-gameplay-in-2/"><u>Boosting FPS in The Division 2 - Expert Tips and Tricks for a Smoother Gameplay in 2#</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-the-notorious-pc-bug-roblox-error-code-277-comprehensive-solutions-for-gamers/"><u>Defeating the Notorious PC Bug: Roblox Error Code 277 - Comprehensive Solutions for Gamers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-xiaomi-redmi-note-12-proplus-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Xiaomi Redmi Note 12 Pro+ 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-cutting-edge-quality-with-the-new-exclusive-premium-addition-on-your-roku-at-no-extra-cost-digitalhome-news/"><u>Experience Cutting-Edge Quality with the New Exclusive Premium Addition on Your Roku - At No Extra Cost | DigitalHome News</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-x8b-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Honor X8b Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-discord-high-cpu-usage-2024-guide/"><u>How to Fix Discord High CPU Usage - 2024 Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iconic-iphone-meme-creations-for-2024/"><u>Iconic iPhone Meme Creations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-sidestep-personalized-podcast-suggestions-in-spotify/"><u>In 2024, Sidestep Personalized Podcast Suggestions in Spotify</u></a></li>
+<li><a href="https://facebook.techidaily.com/increased-sanctions-for-deceptive-content-sharers-by-fb/"><u>Increased Sanctions for Deceptive Content Sharers by FB</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-your-game-how-to-get-diablo-ii-resurrected-running-smoothly/"><u>Mastering Your Game: How to Get Diablo II: Resurrected Running Smoothly</u></a></li>
+<li><a href="https://facebook.techidaily.com/optimize-your-social-media-experience-a-dive-into-facebooks-upgraded-privacy-hub/"><u>Optimize Your Social Media Experience: A Dive Into Facebook’s Upgraded Privacy Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-game-performance-addressing-fps-drops-in-the-2021-formula-one-racing-game/"><u>Optimizing Game Performance: Addressing FPS Drops in the 2021 Formula One Racing Game</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/pro-tips-to-improve-your-snip-and-sketch-screenshot-experience/"><u>Pro Tips to Improve Your Snip & Sketch Screenshot Experience.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-no-more-crashes-expert-advice-on-stability-and-performance/"><u>Rocket League No More Crashes - Expert Advice on Stability and Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-solutions-to-resolve-stuttering-in-counter-strike-global-offensive/"><u>Simple Solutions to Resolve Stuttering in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://win-answers.techidaily.com/smooth-your-ark-gaming-experience-on-pc-solve-crashing-with-9-effective-fixes/"><u>Smooth Your ARK Gaming Experience on PC – Solve Crashing with 9 Effective Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-server-disconnects-for-smoother-gameplay-in-escape-from-tarkov/"><u>Troubleshooting Server Disconnects for Smoother Gameplay in Escape From Tarkov</u></a></li>
 </ul></div>
 

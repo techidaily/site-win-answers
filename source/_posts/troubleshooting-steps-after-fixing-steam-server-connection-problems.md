@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps After Fixing Steam Server Connection Problems
-date: 2024-08-28T00:01:07.114Z
-updated: 2024-08-29T00:01:07.114Z
+date: 2024-11-25T21:34:12.431Z
+updated: 2024-11-26T17:47:49.054Z
 tags:
   - win11
   - win10
@@ -59,11 +59,12 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 2. Type in**firewall.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -82,9 +83,6 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -95,9 +93,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
 
@@ -105,20 +100,23 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -126,6 +124,10 @@ The powerful video editing program for your Windows PC</a>
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -142,16 +144,18 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -183,8 +187,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +194,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-supernatural-time-freeze-manual-for-2024/"><u>[Updated] Supernatural Time-Freeze Manual for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-prime-stabilization-techniques-for-youtubers/"><u>2024 Approved Prime Stabilization Techniques for YouTubers</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-streamlining-your-experience-with-discord-spoiler-tag-usage/"><u>2024 Approved Streamlining Your Experience with Discord Spoiler Tag Usage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elden-ring-initial-boot-problem-solutions-for-clearing-the-darkness/"><u>Elden Ring Initial Boot Problem? Solutions for Clearing the Darkness</u></a></li>
+<li><a href="https://win-answers.techidaily.com/final-fantasy-xiv-pc-stability-enhancement-preventing-unexpected-shutdowns-and-crashes/"><u>Final Fantasy XIV PC Stability Enhancement: Preventing Unexpected Shutdowns and Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-rdr2-memory-crash-error-by-boosting-your-pcs-page-file-capacity/"><u>Fix RDR2 Memory Crash Error by Boosting Your PC's Page File Capacity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-error-code-0xc0000022-how-to-resolve-issues-with-adobe-software/"><u>Fixing Error Code 0xC0000022 - How to Resolve Issues with Adobe Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-14-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 14 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k24-players-companion-overcoming-the-hurdle-of-error-code-727e66ac-with-pro-tips/"><u>NBA 2K24 Player's Companion: Overcoming the Hurdle of Error Code 727E66AC with Pro Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-optimization-how-we-overcame-slow-motion-gameplay-woes/"><u>Outriders Optimization - How We Overcame Slow Motion Gameplay Woes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-a-disconnected-steam-social-circle/"><u>Overcoming the Challenge of a Disconnected Steam Social Circle</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-nokia-c12-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Nokia C12 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-to-launch-resident-evil-7-biohazard-in-202cd-top-tips-and-solutions/"><u>Unlock the Secrets to Launch Resident Evil 7 Biohazard in 202CD: Top Tips & Solutions</u></a></li>
+</ul></div>
 

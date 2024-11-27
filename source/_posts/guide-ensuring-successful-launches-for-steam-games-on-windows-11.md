@@ -1,7 +1,7 @@
 ---
 title: "Guide: Ensuring Successful Launches for Steam Games on Windows 11"
-date: 2024-08-28T00:00:01.257Z
-updated: 2024-08-29T00:00:01.257Z
+date: 2024-11-23T16:53:31.645Z
+updated: 2024-11-26T19:05:13.609Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a3a2d9a996d9eb1a5a7f44f59aadc7d2130837ea4
 ## Expert Tips for Solving Crashes in Yakuza 6 - Seamless Gaming Experience on Windows
 
 It’s annoying to face crashes during the game. Don’t worry, the SEGA team has a confirmed fix to help. If the official solution is not working, others may work for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of contents
 
@@ -42,9 +46,6 @@ Follow the steps below to fix the crashing issue.
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Update your drivers
 
  Make sure your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing or black screen issues.
@@ -61,10 +62,18 @@ Follow the steps below to fix the crashing issue.
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
 
@@ -75,16 +84,14 @@ Restart your computer for the changes to take effect.
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Lower your graphics settings
 
  Some players have reported that dropping their graphics to the lowest as they can go and running the game in windowed mode would fix the issue.
@@ -93,13 +100,14 @@ Restart your computer for the changes to take effect.
 2. In the Compatibility tab, click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -110,36 +118,30 @@ Restart your computer for the changes to take effect.
 1. Press the**Windows logo key + I** together and click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -151,8 +153,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +160,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-easy-steps-for-logging-vimeo-media/"><u>[New] Easy Steps for Logging Vimeo Media</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-direct-dissemination-from-tiktok-to-social-networks/"><u>2024 Approved Direct Dissemination From TikTok to Social Networks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionary-screen-technology-elite-4k-options-for-mac-enthusiasts/"><u>2024 Approved Revolutionary Screen Technology Elite 4K Options for Mac Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-microsoft-edge-stability-issues-on-windows-10-easily/"><u>Fix Your Microsoft Edge Stability Issues on Windows 10 Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-elevated-cpu-consumption-in-cyberpunk-2077-tips-and-tricks/"><u>Fixing Elevated CPU Consumption in Cyberpunk 2077: Tips and Tricks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-samsung-galaxy-s23-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Samsung Galaxy S23 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/kostenlose-video-downloads-aus-twitter-fur-pcs-iphones-and-android-gerate-einfache-anleitung/"><u>Kostenlose Video-Downloads Aus Twitter Für PCs, iPhones & Android Geräte – Einfache Anleitung</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/lift-the-shadow-off-games-tips-for-clear-recordings-without-black-screen-in-obs-for-2024/"><u>Lift the Shadow Off Games Tips for Clear Recordings without Black Screen in OBS for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimize-play-eliminating-forza-horizon-5s-pc-disruption-for-uninterrupted-gaming/"><u>Optimize Play: Eliminating Forza Horizon 5'S PC Disruption for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-to-troubleshoot-and-repair-fortnite-logon-glitches-easily/"><u>Quick Guide to Troubleshoot & Repair Fortnite Logon Glitches Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012626166-unlock-the-mystery-behind-pc-launch-failures-of-resident-evil-5-and-get-playing-asap/"><u>Unlock the Mystery Behind PC Launch Failures of Resident Evil #5 and Get Playing ASAP</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-nokia-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Nokia</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-against-error-84-in-fortnite-strategies-for-rejoining-your-battle-royale-party/"><u>Winning Against Error 84 in Fortnite: Strategies for Rejoining Your Battle Royale Party</u></a></li>
+</ul></div>
 

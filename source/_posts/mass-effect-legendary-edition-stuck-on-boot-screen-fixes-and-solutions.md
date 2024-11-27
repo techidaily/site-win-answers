@@ -1,7 +1,7 @@
 ---
 title: Mass Effect Legendary Edition Stuck on Boot Screen - Fixes & Solutions
-date: 2024-08-28T00:01:53.073Z
-updated: 2024-08-29T00:01:53.073Z
+date: 2024-11-21T03:28:40.383Z
+updated: 2024-11-26T17:30:50.350Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap39-1-1024x532.jpg)
 
  **Get infinite loading circle when you launch Apex Legends? Don’t worry when Apex Legends not loading…** Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,15 +49,16 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  This issue may also be caused by the outdated or missing drivers on your PC. If there is something wrong with your network driver or graphics driver, this issue may occur. In this case, you can try updating the drivers on your PC to the latest version to see if you can resolve this issue.
@@ -74,13 +79,18 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -94,15 +104,13 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
@@ -118,15 +126,17 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Click**Sign in through Steam** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
@@ -148,14 +158,8 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 6: Play with VPN
 
  Some players reported that when they play Apex Legends with VPN, this issue disappears. So before Respawn Entertainment releases game patches to fix this issue, playing with VPN temporarily may also be a good choice if you really want to play the game.
@@ -185,8 +189,9 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Apex Legends
 
  If none of the fixes above works, you may need to try reinstalling Apex Legends. Here is how to do it:
@@ -209,8 +214,6 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +221,24 @@ thumbnail: https://thmb.techidaily.com/d52ef143e5ac406fb5edcd5e28a24a2a1379f299e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-innovative-ideas-to-make-money-from-your-snapchat-community/"><u>[New] In 2024, Innovative Ideas to Make Money From Your Snapchat Community</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-gta-5-freezing/"><u>[SOLVED] How to Fix GTA 5 Freezing?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-itel-a60-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deciphering-fatal-ark-glitches-a-comprehensive-troubleshooting-manual-for-successful-recovery/"><u>Deciphering Fatal ARK Glitches: A Comprehensive Troubleshooting Manual for Successful Recovery</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-strategies-to-get-your-samsung-tv-apps-running-flawlessly/"><u>Effective Strategies to Get Your Samsung TV Apps Running Flawlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-fixes-resolve-your-lol-crashes-in-no-time/"><u>Effortless Fixes: Resolve Your LoL Crashes in No Time</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-fixes-to-get-your-game-of-the-witcher-3-wild-hunt-running-again/"><u>Essential Fixes to Get Your Game of The Witcher 3: Wild Hunt Running Again</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965659216-get-your-behringer-usb-audio-device-ready-secure-instant-downloads/"><u>Get Your Behringer USB Audio Device Ready - Secure Instant Downloads!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-palworld-keeps-crashing-on-pc/"><u>How to Fix Palworld Keeps Crashing on PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210064523-9781071549742-il-potere-della-meditazione/"><u>Il potere della Meditazione | Free Book</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/overcoming-ai-regulatory-challenges-with-chatgpt-enhancements-in-google-news-delivery-and-top-tips-for-reliable-wireless-on-holidays/"><u>Overcoming AI Regulatory Challenges with ChatGPT, Enhancements in Google News Delivery, and Top Tips for Reliable Wireless on Holidays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-discord-connection-problems-with-our-2024-expert-guide/"><u>Resolve Your Discord Connection Problems with Our 2024 Expert Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-stop-devolver-digitals-deathloop-from-crashing-on-pc-and-ps5/"><u>Solving the Issue: Stop Devolver Digital's Deathloop From Crashing on PC and PS5</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-updating-microsofts-sculpt-ergonomic-keyboard-driver-seamlessly/"><u>Step-by-Step Tutorial: Updating Microsoft's Sculpt Ergonomic Keyboard Driver Seamlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-video-issues-on-firefox-ultimate-fix-guide/"><u>Troubleshoot Video Issues on Firefox – Ultimate Fix Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Detroit: Becoming Human - Stability Improved for Windows Gaming Experience"
-date: 2024-08-28T00:00:19.477Z
-updated: 2024-08-29T00:00:19.477Z
+date: 2024-11-24T21:48:52.824Z
+updated: 2024-11-27T00:56:19.885Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/65e1faefe5d8c9d98372975f4c9ce7cc4de93a99d
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -69,26 +73,21 @@ Here’s an example of how to check the game integrity on Steam:
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3:**Close all** background**applications**
 
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  More often than not, the crash of new games tends to be graphics-related. It usually indicates that you’re using**a** **faulty or outdated graphics driver** . Whether you’re using a 1,000 dollars gaming rig or just a five-year-old school laptop, always make sure you make the most out of it, with the latest graphics driver.
@@ -112,11 +111,17 @@ If this fix failed to solve your issue, please move on to the next one.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -136,13 +141,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
  After installing all system updates, restart your computer and check if Detroit: Become Human crashes again.
 
  If this solution doesn’t work for you, simply try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
 
@@ -153,9 +163,6 @@ For example, you can follow these steps to disable Steam overlay:
 1. Open your**Steam client** . In the top left corner, click**Steam** select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
@@ -165,9 +172,6 @@ If the crashing reappears, please check out the next fix.
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Roll back your graphics driver
 
  According to some players, one potential fix is rolling back the graphics driver. If you’re using an NVIDIA GPU,**try version 446.14 or 451.67** . Also don’t forget to check if the driver supports your GPU.
@@ -184,8 +188,6 @@ If the crashing reappears, please check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +195,18 @@ If the crashing reappears, please check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-is-max-360-superior-to-hero-11-in-video-quality/"><u>[Updated] 2024 Approved Is Max 360 Superior to Hero 11 in Video Quality?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leading-10-mobile-apps-for-immediate-sports-action-access/"><u>[Updated] Leading 10 Mobile Apps for Immediate Sports Action Access</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-secrets-to-capturing-flawless-photos-for-nothing/"><u>[Updated] Secrets to Capturing Flawless Photos for Nothing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cities-skylines-crashing-dilemma-discover-the-fixes-you-need/"><u>Cities: Skylines Crashing Dilemma? Discover the Fixes You Need</u></a></li>
+<li><a href="https://win-answers.techidaily.com/experiencing-non-responsive-utorrent-here-are-7-effective-fixes/"><u>Experiencing Non-Responsive Utorrent? Here Are 7 Effective Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-guide-resolving-the-last-epoch-release-issues-on-pc-2024-edition/"><u>Fix Guide: Resolving 'The Last Epoch' Release Issues on PC, 2024 Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-yuva-2-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Yuva 2 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/insurgency-sandstorm-how-to-address-persistent-crash-troubles-successfully/"><u>Insurgency Sandstorm - How to Address Persistent Crash Troubles Successfully</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-11-silencing-explore-tab-clamor/"><u>Mastering Windows 11: Silencing Explore Tab Clamor</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-solo-audio-stardom-stepwise-creation-for-2024/"><u>The Art of Solo Audio Stardom Stepwise Creation for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-handbook-on-preventing-and-repairing-teardown-application-freezes-a-thorough-instructional-guide/"><u>The Definitive Handbook on Preventing and Repairing Teardown Application Freezes: A Thorough Instructional Guide</u></a></li>
+</ul></div>
 

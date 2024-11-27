@@ -1,7 +1,7 @@
 ---
 title: Warcraft 3 Reforged and PC Performance Issues? Master These Fixes !
-date: 2024-08-27T23:58:37.826Z
-updated: 2024-08-28T23:58:37.826Z
+date: 2024-11-22T02:48:56.199Z
+updated: 2024-11-27T00:50:16.703Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 
  So if your computer is overclocking your CPU, try to**set it back to default** and see if it helps with your Final Fantasy crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify the game files
 
  Final Fantasy may crash if there is any corrupted game file, so you can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -46,18 +43,24 @@ The final Fantasy series brings us a lot of fun and excitement until it crashes 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right click on your game (for example, Final Fantasy XV), and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap35.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -91,9 +94,6 @@ This requires time and computer skills.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  4) Select the driver backup you’re going to restore from, then click**Open** (You’ll need to back up your driver before restoring).
 
  5) Select your graphics card driver, and click**Continue** .
@@ -102,9 +102,6 @@ This requires time and computer skills.
 
 Now restart your PC and launch Final Fantasy to see how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Modify your pagefile size
 
  Final Fantasy XV may crash if the pagefile size is set inappropriately. You can modify your pagefile settings to fix your problem.
@@ -115,9 +112,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap41.jpg)
@@ -126,9 +120,17 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) When the**System Properties** pane pops up, click**Settings** under the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap43.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click the**Advanced** tab on**Performance Options** , then click**Change** under the**Virtual memory** section.
 
@@ -138,9 +140,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your PC is set to automatically manage paging file size, you can manually set the pagefile size:
 
  a. Uncheck**Automatically manage paging file size for all drives** ,  
@@ -151,12 +150,13 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Snap50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 7) After changing your pagefile size, restart Windows.
 
  Open Final Fantasy and see if it stops crashing. Still no luck? Don’t give up hope. There are other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable NVIDIA Turf Effects
 
@@ -177,8 +177,9 @@ To resolve Final Fantasy crashing, you can disable NVIDIA Turf Effects.
 Hopefully your game will be running up again properly.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall your game
 
  If, unfortunately, the methods above didn’t help resolve your game crashing issue, try uninstalling it from your computer, then reinstall it.
@@ -194,8 +195,6 @@ Hopefully your game will be running up again properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +202,24 @@ Hopefully your game will be running up again properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-initiate-your-virtual-presence-with-ease-live-streaming-101/"><u>[New] Initiate Your Virtual Presence with Ease Live Streaming 101</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-secrets-to-gaining-traction-for-your-fb-page-for-2024/"><u>[New] Secrets to Gaining Traction for Your FB Page for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-facebook-video-downloader-and-mp3-maker-for-the-modern-age/"><u>[Updated] 2024 Approved Facebook Video Downloader & MP3 Maker for the Modern Age</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-rapid-rendering-sounds-with-visuals/"><u>2024 Approved Rapid Rendering Sounds with Visuals</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-synergy-between-humans-and-computers-through-gestures/"><u>2024 Approved Synergy Between Humans & Computers Through Gestures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-fixes-for-your-xgs-issues-on-cod-modern-warfare-2/"><u>Easy Fixes for Your XGS Issues on COD: Modern Warfare 2</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-tips-for-efficient-ms-work-setup-in-w11/"><u>Essential Tips for Efficient MS Work Setup in W11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-resolving-escape-from-tarkovs-slow-frame-rate-issues/"><u>Expert Advice on Resolving Escape From Tarkov's Slow Frame Rate Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/getting-netflix-functionality-back-after-glitches-on-xbox-platforms/"><u>Getting Netflix Functionality Back After Glitches on Xbox Platforms</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-mojangs-minecraft-crashes-caused-by-outdated-graphics-drivers-in-windows/"><u>How to Fix Mojang's Minecraft Crashes Caused by Outdated Graphics Drivers in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-snowrunner-performance-effective-techniques-to-avoid-frequent-crashes-on-your-computer/"><u>Mastering SnowRunner Performance: Effective Techniques to Avoid Frequent Crashes on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/maximize-your-gameplay-essential-fixes-to-get-forza-horizon-4-up-and-running/"><u>Maximize Your Gameplay: Essential Fixes to Get Forza Horizon 4 Up and Running</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-do-you-want-to-know-which-are-the-best-wondershare-filmora-luts-to-use-there-are-many-luts-that-you-can-download-each-with-a-different-ton/"><u>New 2024 Approved Do You Want to Know Which Are the Best Wondershare Filmora LUTs to Use? There Are Many LUTs that You Can Download, Each with a Different Tone and Style</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mline-content-advanced-youtube-video-editing-strategies-for-2024/"><u>Streamline Content Advanced Youtube Video Editing Strategies for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-how-to-fix-cortana-not-functioning/"><u>Troubleshooting Guide: How to Fix 'Cortana Not Functioning'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-solve-the-fifa-22-freezes-or-crashes-issue-on-desktop-systems/"><u>Troubleshooting Steps - Solve the 'FIFA 22 Freezes or Crashes' Issue on Desktop Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-players-manual-mastering-roller-champions-crossplay/"><u>Ultimate Player's Manual: Mastering Roller Champions Crossplay</u></a></li>
+</ul></div>
 

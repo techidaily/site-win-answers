@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Downloads: Top Tips to Improve Ubisoft Connect's Internet Speed"
-date: 2024-08-27T23:59:16.035Z
-updated: 2024-08-28T23:59:16.035Z
+date: 2024-11-23T01:46:53.515Z
+updated: 2024-11-26T19:53:43.927Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/LostArk_HP_BG_SM.jpeg)
 
  Lost Ark players have been experiencing heavy traffic or constantly getting disconnected from the game since its launch. If you also encounter the “cannot connect to the server” error while playing Lost Ark, this post is for you. Here are some quick fixes you can try while we’re all waiting for an official fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,15 +49,13 @@ thumbnail: https://thmb.techidaily.com/b7fdec82e5e2a50f89b07a18bb64e205705f93d78
 If this doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Restart the game/Steam
 
  Many players have been able to solve the “cannot connect to the server” error by simply**restarting the game or Steam client** . Although it seems like a temporary workaround and you may have to try multiple times, it’s the quickest fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Repair game files
 
  Missing or corrupted game files could also solve the connection issue to the game server. You can verify the integrity of the game files on Steam:
@@ -61,16 +63,10 @@ If this doesn’t help, try the next fix.
 1. Open your Steam library and find Lost Ark. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Click**LOCAL FILES** , then click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
 If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Fix 4: Update the graphics driver
 
  The latest GPU drivers are essential for video games. If your graphics driver is outdated or faulty, game performance could be impacted and you might even get errors and crashes. Although this is not directly related to the connection error, we suggest that you keep your graphics card driver up-to-date for the best gaming experience.
@@ -82,16 +78,13 @@ If this doesn’t solve your problem, move on to the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -110,6 +103,11 @@ No advertising on the website.
 3. Select **View by: small icons** , then click **Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
 
@@ -124,9 +122,6 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Fix 6: Check your DNS settings
 
  Corrupted DNS caches may cause random connection issues. If the fixes above didn’t give you luck, you may want to give this fix a try and configure your DNS settings. There are two things you can do:
@@ -134,6 +129,10 @@ No advertising on the website.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -145,13 +144,19 @@ Here are the steps:
 2. Type **cmd** , then press **Shift** and **Enter** at the same time. If prompted for permission, click **Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -159,24 +164,22 @@ Here are the steps:
 1. On your taskbar, right-click the **network icon** , then click **Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click **Change adapter options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -184,11 +187,9 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Fix 7: Repair corrupted system files
 
  If you’re experiencing performance issues like random crashes in Lost Ark and none of the fixes helped, the chances are you’re looking at a system issue. In addition to game files, corrupted system files may also cause the game to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues first, but most of the time, manual repair is required.
@@ -215,8 +216,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +223,18 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-15-snapshot-strategies-for-social-success-on-snapchat-for-2024/"><u>[Updated] 15 Snapshot Strategies for Social Success on Snapchat for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-art-of-youtube-split-screens-for-2024/"><u>[Updated] Unveiling the Art of YouTube Split-Screens for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/conversione-online-a-wma-da-file-ape-senza-costi-utilizzo-di-servizi-movavi-gratuiti/"><u>Conversione Online a WMA Da File APE Senza Costi: Utilizzo Di Servizi Movavi Gratuiti</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-tecno-spark-20-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Tecno Spark 20</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-downloading-and-installing-of-age-of-empires-iv-via-microsofts-digital-outlet/"><u>How To Ensure Smooth Downloading and Installing of Age of Empires IV via Microsoft's Digital Outlet</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/infuse-style-in-vids-3-proven-methods-for-instagram-borders/"><u>Infuse Style in Vids 3 Proven Methods for Instagram Borders</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210349695-9782226289469-les-sept-cites-de-lamour/"><u>Les Sept cités de l'amour | Free Book</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-add-a-professional-touch-free-video-watermark-software-for-2024/"><u>New Add a Professional Touch Free Video Watermark Software for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stability-problems-how-to-stop-the-king-of-fighters-xv-from-crashing-on-pc-setups/"><u>Resolving Stability Problems: How to Stop The King of Fighters XV From Crashing on PC Setups</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-to-prevent-thaumaturge-from-stopping-unexpectedly-mid-play/"><u>Solutions to Prevent Thaumaturge From Stopping Unexpectedly Mid-Play</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-outlook-refuses-to-start/"><u>Troubleshooting Steps When Outlook Refuses to Start</u></a></li>
+</ul></div>
 

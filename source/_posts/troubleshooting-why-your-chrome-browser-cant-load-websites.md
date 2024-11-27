@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why Your Chrome Browser Can't Load Websites"
-date: 2024-08-27T23:59:12.359Z
-updated: 2024-08-28T23:59:12.359Z
+date: 2024-11-25T23:38:39.833Z
+updated: 2024-11-26T18:30:24.190Z
 tags:
   - win11
   - win10
@@ -30,6 +30,14 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/how-to-fix-error-Unable-to-launch-game-please-verify-your-game-data.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify your game files
 
  Obviously, when this error message pops up, the first thing you would do is to verify the game files. If you’ve done this for multiple times but it still doesn’t work, move to[fix 2](https://tools.techidaily.com/drivereasy/download/) .
@@ -53,10 +61,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
@@ -74,9 +78,17 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -84,8 +96,9 @@ Wondering how you can fix the error “Unable to launch game, please verify your
  After the update is finished, restart your PC. If the error message still occurs, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Disable background applications
 
  If you’re experiencing launching problems when using Rockstar Games Launcher, it could be due to a third-party application running in the background. In this situation, you can disable applications running in the background by following the instructions below.
@@ -95,21 +108,15 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the Processes tab, right-click on the programs that you don’t necessarily use and select **End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  Then relaunch your game. If this doesn’t do the trick, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 5\. Run the launcher as administrator
 
  If your game fails to launch properly, it could be due to the lack of administrative rights. To fix it, try to run the Rockstar Games Launcher as an administrator by following the instructions below.
@@ -118,21 +125,13 @@ No advertising on the website.
 
 ![run Rockstar Games Launcher with compatibility mode with administrator priviledges](https://images.drivereasy.com/wp-content/uploads/2020/12/select-Properties.png)
 2. In the Properties window, select the**Compatibility** tab. Then check the box next to**Run the program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
 ![rockstar games launcher run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/12/run-as-administrator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then click**Apply > OK** to save the changes.
 
  If your problem persists, don’t worry. Below are some other fixes you can try.
@@ -143,9 +142,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher-2.png)
 
  Then try to run your game from the Rockstar Games Launcher. If the error message still pops up, it’s time to delete the Rockstar Games folder from OneDrive.
@@ -164,8 +160,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +167,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-both-webcam-and-monitor-live-feed/"><u>[New] Capturing Both Webcam & Monitor Live Feed</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-fast-lanes-for-jumbled-youtube-playlist-arrangement/"><u>[Updated] In 2024, Fast Lanes for Jumbled YouTube Playlist Arrangement</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723014158219-apex-legends-wont-load-heres-how-to-restart-the-game-swiftly/"><u>Apex Legends Won't Load? Here’s How to Restart the Game Swiftly</u></a></li>
+<li><a href="https://article-files.techidaily.com/apex-of-scripting-soundscapes-for-2024/"><u>Apex of Scripting Soundscapes for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crack-the-final-chapter-pc-launch-problem-up-to-date-solutions-for-a-seamless-2024-experience/"><u>Crack the Final Chapter PC Launch Problem - Up-to-Date Solutions for a Seamless 2024 Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-pc-stuttering-problems-while-playing-sifus-action-packed-fps-mode/"><u>Diagnosing PC Stuttering Problems While Playing Sifu's Action-Packed FPS Mode</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-free-gaming-with-steam-a-complete-breakdown-of-correcting-error-code-n130/"><u>Error-Free Gaming with Steam: A Complete Breakdown of Correcting Error Code N130</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-guide-to-fixing-euro-truck-simulator-2-glitches-and-ensuring-smooth-gameplay/"><u>Expert Guide to Fixing Euro Truck Simulator 2 Glitches and Ensuring Smooth Gameplay</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-download-and-install-updated-hp-network-driver-software-for-your-windows-pc-win11-7-8/"><u>How to Download & Install Updated HP Network Driver Software for Your Windows PC (Win11, 7, 8)</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-the-latest-drivers-for-your-canon-mg2900-printer/"><u>How to Download the Latest Drivers for Your Canon MG2900 Printer</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-addressing-the-myself-glitch-on-social-media-platforms/"><u>In 2024, Addressing the 'Myself' Glitch on Social Media Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sea-of-thieves-now-runs-smoothly-crashing-problems-addressed/"><u>Sea of Thieves Now Runs Smoothly: Crashing Problems Addressed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-solving-launch-problems-in-destiny-2-for-pc-players/"><u>Troubleshooting Guide - Solving Launch Problems in Destiny 2 for PC Players</u></a></li>
+</ul></div>
 

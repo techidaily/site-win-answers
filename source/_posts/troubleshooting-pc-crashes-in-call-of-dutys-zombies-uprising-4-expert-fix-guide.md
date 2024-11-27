@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Crashes in Call of Duty's 'Zombies Uprising 4': Expert Fix Guide"
-date: 2024-08-27T23:59:44.408Z
-updated: 2024-08-28T23:59:44.408Z
+date: 2024-11-24T19:25:50.602Z
+updated: 2024-11-26T22:11:32.862Z
 tags:
   - win11
   - win10
@@ -62,11 +62,12 @@ Here’s how:
 3. Navigate to the**Compatibility** tab. Under the**Settings** section, check the boxes next to**Disable fullscreen optimizations** (if you’re on Windows 10) and**Run this program as an administrator** . Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-admin-3.jpg)
 4. Run Genshin Impact and see if the crash has gone.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If this fix failed to solve the crash, simply**undo these changes** and move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -78,11 +79,17 @@ Here’s how:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,9 +97,6 @@ Here’s how:
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Perform a clean boot
 
  According to some users, conflicted programs could be triggering the constant crashes. You should be extra careful if you have system tuning software on your PC (e.g.**Razer Synapse** or**MSI Afterburner** ). To check if that’s your case, you can do a clean boot:
@@ -100,9 +104,11 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
@@ -111,17 +117,15 @@ Here’s how:
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, restart Genshin and see if it crashes again. If not, repeat these steps but disable half of the services to root out the offenders.
 
 If this trick doesn’t work for you, check out the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Install all Windows updates
 
  Windows updates include system stability improvements, and could very well solve the software conflicts in your system. If the last time you check for system updates feels like ages ago, definitely do it now as it might save you a lot of troubles.
@@ -133,14 +137,8 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click**Check for updates** again.
 
 #### Windows 7
@@ -148,9 +146,6 @@ Here’s how you can install system updates on Windows 10 or 7:
 1. On your keyboard, press the**Windows logo key** . Select**Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates.jpg)
 2. Select**System and Security** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
@@ -162,8 +157,9 @@ Here’s how you can install system updates on Windows 10 or 7:
  If this method doesn’t solve your case, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Change in-game resolution
 
  Some travelers reported that they managed to stop the crash by**changing the game’s resolution to 720p** . This is a reasonable measure that will ease the pressure on your GPU. So you can try the same to see if it helps.
@@ -178,9 +174,6 @@ And here’s how:
 
  If this method doesn’t do the trick for you, simply try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Lower in-game graphics settings
 
  It’s a general principle that new games tend to be buggy, and the developers are still working to improve the graphics compatibility. According to some travelers,**lowering in-game graphics settings** could stop the crash right away. So if you don’t mind playing at low graphics settings, you can go right ahead and tweak them.
@@ -192,8 +185,9 @@ And just for your reference, here’s my graphics settings:
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Run Genshin Impact on another GPU
 
  If your computer has more than one graphics card (e.g. PC/laptops with a built-in CPU graphics plus an additional AMD or NVIDIA graphics card), you can try to**run Genshin Impact on another GPU** .
@@ -209,22 +203,30 @@ And just for your reference, here’s my graphics settings:
 1. At the empty area of your desktop, right-click and select**Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the**Multiple displays** section, click**Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click**Browse** to specify the file location of the Genshin Impact launcher.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now you can launch Genshin Impact and see if it stops crashing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 9: Check for corrupted system files
 
  If none of the fixes work for you, try scanning Windows and see if it’s a system issue.
@@ -235,14 +237,8 @@ Now you can launch Genshin Impact and see if it stops crashing.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -255,8 +251,6 @@ Now you can launch Genshin Impact and see if it stops crashing.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +258,24 @@ Now you can launch Genshin Impact and see if it stops crashing.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-simplifying-video-editing-on-iphone-trim-and-adjust-sizes-for-2024/"><u>[Updated] Simplifying Video Editing on iPhone Trim & Adjust Sizes for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-smart-spending-on-action-cams-find-your-bargains-under-100/"><u>[Updated] Smart Spending on ACTION Cams Find Your Bargains Under $100</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-vaulting-to-victory-with-best-gk-trivia-video-channels-2024/"><u>[Updated] Vaulting to Victory with Best GK Trivia Video Channels, 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-virtual-realms-the-cinematic-revolution/"><u>2024 Approved Virtual Realms The Cinematic Revolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/batman-arkham-knight-rapid-remedies-for-fatal-glitches-and-system-collapses/"><u>Batman: Arkham Knight - Rapid Remedies for Fatal Glitches and System Collapses</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-how-to-stop-battlefield-v-from-crashing-on-pc/"><u>Fixing the Issue: How to Stop Battlefield V From Crashing on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-constant-crashes-while-playing-back-blood-on-your-pc/"><u>How to Prevent Constant Crashes While Playing Back ˋBlood on Your PC?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-scouring-deals-low-priced-gopro-cameras/"><u>In 2024, Scouring Deals Low-Priced GoPro Cameras</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-computer-and-technology-assessments-toms-hardware/"><u>In-Depth Computer & Technology Assessments - Tom's Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003867612-pc-troubles-heres-the-solution-for-dread-hunger-keep-stopping-unexpectedly/"><u>PC Troubles? Here's The Solution For 'Dread Hunger' Keep Stopping Unexpectedly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/phasmophobia-update-fix-overcome-the-persistent-90-load-barrier-solutions/"><u>Phasmophobia Update Fix: Overcome the Persistent 90% Load Barrier – Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ring-of-elysium-upgrades-a-step-by-step-guide-to-achieving-higher-fps-levels-for-smoother-gameplay/"><u>Ring of Elysium Upgrades: A Step-by-Step Guide to Achieving Higher FPS Levels for Smoother Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-fixing-game-crashes-on-your-windows-computer/"><u>Star Wars Jedi: Fallen Order - Fixing Game Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-errgfxstate-error-in-red-dead-redemption-2-step-by-step-guide/"><u>Ultimate Fixes for ERR_GFX_STATE Error in Red Dead Redemption 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-spectacular-features-of-the-sony-xbr49x900f-49-inch-4k-tv-review/"><u>Unveiling the Spectacular Features of the Sony XBR49X900F 49-Inch 4K TV Review</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Evaluation: Lenovo Legion 3 Pro 15 - The Best Value Pick in Budget Gaming Laptops"
-date: 2024-08-27T23:53:55.844Z
-updated: 2024-08-28T23:53:55.844Z
+date: 2024-11-22T23:09:00.660Z
+updated: 2024-11-26T16:54:28.000Z
 tags:
   - windows
 categories:
@@ -43,6 +43,10 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 [$499.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price and Availability** 
 
@@ -104,13 +108,14 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Hardware: Conservative and Heavy** 
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For a gaming laptop, the LOQ 15IAX9I has surprisingly conservative looks. Outside of some dramatic angles on the rear edges of the unit, it could easily pass for your average business laptop.
@@ -121,13 +126,14 @@ Jerome Thomas / How-To Geek
 
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
 
 ![The ports on the rear of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-back-of-the-lenovo-loq-15iax9i_53589810480_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  On the rear of the LOQ 15IAX9I is a USB 3.2 Gen 1 Type-A connector, full-size HDMI 2.0 output, RJ45 Gigabit Ethernet connector, and a Power connector. The power connector works with the included 170W AC adapter.
@@ -142,15 +148,16 @@ Jerome Thomas / How-To Geek
 
 ![Overhead view of the keyboard area of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/top-view-of-the-keyboard-on-the-lenovo-loq-15iax9i_53589683999_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  For gaming purposes, particularly with the use of the classic W, A, S, and D keys for movement, I found the keyboard only OK. It was a little sluggish. It's definitely not a deal-breaker when gaming, but you likely won't be setting any eSports records with the key response times. The touchpad is relatively small and not as smooth as on some other laptops, but it's still perfectly usable and supports touch gestures.
 
  The power button turns on or puts the laptop to sleep, but it also has an LED ring to indicate operating mode. Blue is a low-performance quiet mode, red is performance mode, white is a balance between the two, and purple is for a custom mode should you want to set your own parameters. Naturally, the Red performance mode uses the most power, has the most fan noise, and drains the battery the fastest, so it's best to leave the laptop plugged in when using this more game-centric setting.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## **Sights and Sounds: Optimized for Gaming** 
 
 ![Direct view of the Lenovo LOQ 15IAX9I display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-homescreen-of-the-lenovo-loq-15iax9i-2_53589365651_o.jpg) 
@@ -167,16 +174,14 @@ Jerome Thomas / How-To Geek
 
  The built-in FHD webcam and microphone both do serviceable jobs in terms of clarity. Windows Hello facial recognition is not supported, and there's no fingerprint reader either, so for login and general security purposes, you're left typing in a PIN code.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## **Games, Benchmarks, and Overall Performance: Full HD or Bust** 
 
 ![Angled view of the opened and powered on Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-powered-on-2_53589684004_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  While 1,920 x 1,080 is merely adequate for productivity purposes, it's actually a good resolution for gaming. It's a common gaming resolution that allows for solid frame rates on even modest hardware. Thanks to its reliance on Intel ARC A530M graphics, this "modest hardware" tag also applies to the LOQ 15IAX9I and its relatively pedestrian gaming capabilities.
@@ -199,9 +204,6 @@ Jerome Thomas / How-To Geek
 
 ![Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6573727cv3d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 #####  Lenovo LOQ 15IAX9I 
 
 7/ 10 
@@ -218,8 +220,6 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +227,20 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-prioritize-quality-and-ease-the-top-12-videophones/"><u>[New] Prioritize Quality and Ease The Top 12 Videophones</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Honor 80 Pro Straight Screen Edition to iPhone | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/fy-your-content-best-practices-in-collaborative-youtube-outros-for-2024/"><u>Amplify Your Content Best Practices in Collaborative YouTube Outros for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/can-the-msi-steam-deck-challenge-nintendo-and-sony-in-the-mobile-gaming-arena-a-deep-dive-into-its-prospects-for-triumph-zdnet/"><u>Can the MSI Steam Deck Challenge Nintendo and Sony in the Mobile Gaming Arena? A Deep Dive Into Its Prospects for Triumph | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-edge-therapeutic-technology-the-ultimate-list-of-5-ai-apps-and-bots-for-emotional-support/"><u>Cutting-Edge Therapeutic Technology: The Ultimate List of 5 AI Apps & Bots for Emotional Support</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/decoding-technology-advanced-hardware-reviews-from-toms-perspective/"><u>Decoding Technology: Advanced Hardware Reviews From Tom's Perspective</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discreet-messaging-with-chatgpt-how-to-shield-your-talks-without-deleting/"><u>Discreet Messaging with ChatGPT: How to Shield Your Talks without Deleting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-persistent-freezes-in-call-of-duty-warzone-20-on-windows-computers/"><u>Effective Solutions for Persistent Freezes in Call of Duty: Warzone 2.0 on Windows Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhancing-playability-fixes-for-reduced-frames-per-second-fps-and-irregular-stutter-in-new-world/"><u>Enhancing Playability: Fixes for Reduced Frames Per Second (FPS) & Irregular Stutter in New World</u></a></li>
+<li><a href="https://win-dash.techidaily.com/keep-your-creative-camera-working-on-windows-with-updated-drivers/"><u>Keep Your Creative Camera Working on Windows with Updated Drivers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/lag-free-gameplay-achieved-effective-remedies-for-fortnite-slowdowns/"><u>Lag-Free Gameplay Achieved: Effective Remedies for Fortnite Slowdowns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-problem-fix-for-ue4-madness-error-in-outriders-game/"><u>Solving the Problem: Fix for 'UE4-Madness' Error in Outriders Game</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721459325666-struggling-with-sms-timing-on-your-iphone-here-are-nine-prompt-action-steps-for-improvement/"><u>Struggling with SMS Timing on Your iPhone? Here Are Nine Prompt-Action Steps for Improvement!</u></a></li>
+</ul></div>
 

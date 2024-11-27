@@ -1,7 +1,7 @@
 ---
 title: "Discord CPU Overload Solutions: Effective Fixes for Optimal Performance"
-date: 2024-08-28T00:02:22.047Z
-updated: 2024-08-29T00:02:22.047Z
+date: 2024-11-21T20:42:49.377Z
+updated: 2024-11-27T03:17:31.440Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: **Check your computer specs**
 
  Many players are reporting that_Hearts of Iron 4_ crashes on their PC, and sometimes this problem can be caused by your hardware. Here are the minimum system requirements to run HOI4:
@@ -52,6 +56,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
@@ -59,6 +67,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
@@ -82,6 +94,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -90,9 +106,6 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 If your problem still exists, then move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 4:**Disable fullscreen optimization**
 
  If you’re on Windows 10, disabling fullscreen optimizations might be able to fix_Hearts of Iron IV_ crashing issue. Here is how to do it:
@@ -103,18 +116,16 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: **Update your graphics driver**
 
 _Hearts of Irons IV_ crashing issues might occur if you’re using a faulty graphics driver, or it’s outdated. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
@@ -150,16 +161,14 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  If the crashing issues persist, it’s probable that_Hearts of Irons IV_  is not properly installed on your PC – say, certain game files are missing or damaged.
@@ -177,15 +186,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
 
 ### Fix 7: Change your PC power settings
@@ -197,8 +204,9 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -208,20 +216,15 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: **Check for Windows Updates**
 
  Always ensure that your computer has all of the latest recommended Windows updates to keep your applications running smoothly. Here is how to do it:
@@ -238,9 +241,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall your game and/or Steam
 
  If none of the fixes above worked for you, reinstalling your game and/or Steam is very likely the solution to your problem. Here is how to do it:
@@ -256,9 +256,6 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Right-click **Hearts of Iron IV**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
@@ -287,9 +284,6 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
@@ -299,8 +293,9 @@ Relaunch your game to test your issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon** and select **Open file location** .
@@ -327,8 +322,6 @@ Relaunch your game to test your issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -336,4 +329,22 @@ Relaunch your game to test your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop-for-2024/"><u>[Updated] Master's Tutorial Total Deep Dive Into XMedia Suite Workshop for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-conquer-your-screen-space-integrating-video-within-video/"><u>2024 Approved Conquer Your Screen Space Integrating Video Within Video</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-gameplay-in-valheim-by-solving-lag-and-low-fps-problems-latest-techniques/"><u>Elevate Gameplay in Valheim by Solving Lag and LOW FPS Problems - Latest Techniques</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/embrace-the-future-upgrading-from-32-bit-win10-welcome-64-bit/"><u>Embrace the Future: Upgrading From 32-Bit Win10, Welcome 64-Bit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-for-counter-strike-2-launch-issues-update-guide-2024/"><u>Fixes and Solutions for Counter-Strike 2 Launch Issues: Update Guide 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-google-pixel-7a-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Google Pixel 7a Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/kill-the-glitches-expert-advice-for-a-steady-run-of-halo-infinite-on-windows-machines/"><u>Kill the Glitches: Expert Advice for a Steady Run of Halo Infinite on Windows Machines</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-silent-challenge-effective-fixes-for-dying-lights-sound-issues/"><u>Overcome the Silent Challenge: Effective Fixes for Dying Light's Sound Issues</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nubia-z50-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nubia Z50 Ultra</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-common-causes-and-solutions-for-tales-of-arise-stuttering-problems/"><u>Resolved! Common Causes and Solutions for 'Tales of Arise' Stuttering Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/steam-ui-dll-failure-fixing-the-failed-to-load-steamuidll-critical-steam-issue/"><u>Steam UI DLL Failure: Fixing the 'Failed to Load steamui.dll' Critical Steam Issue</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/transitioning-from-32-bit-to-64-bit-windows-10-edition/"><u>Transitioning From 32-Bit to 64-Bit: Windows 10 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-dark-souls-3-a-comprehensive-guide-to-fixing-game-crashes/"><u>Troubleshooting Dark Souls 3: A Comprehensive Guide to Fixing Game Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719164816351-why-your-gameplay-screams-for-an-oled-display/"><u>Why Your Gameplay Screams for an OLED Display.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-strategies-making-steam-games-work-again-on-windows-10/"><u>Winning Strategies: Making Steam Games Work Again on Windows 10</u></a></li>
+</ul></div>
 

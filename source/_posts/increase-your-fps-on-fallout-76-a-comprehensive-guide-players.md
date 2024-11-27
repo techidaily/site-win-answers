@@ -1,7 +1,7 @@
 ---
 title: "Increase Your FPS on Fallout 76: A Comprehensive Guide Players"
-date: 2024-08-27T23:58:46.245Z
-updated: 2024-08-28T23:58:46.245Z
+date: 2024-11-22T18:46:11.097Z
+updated: 2024-11-26T21:30:48.927Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_11-34-12.png)
 
  Back 4 Blood’s finally here! Players have been enjoying the game during beta, but many also reported some issues causing poor game performance. One of the returning issues in Back 4 Blood seems to be the**high ping and constant lag spikes** . If you also experience similar problems, no worries. We’ve prepared a few fixes for you to try!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -64,15 +65,12 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update network driver
 
  An outdated or faulty network driver may cause connection problems. For example, it could affect the stability of game performance and therefore you may experience extreme lags. It’s important to make sure your network driver is up-to-date and functioning properly. If not, you would need to install the latest version.
@@ -87,17 +85,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Check your DNS settings
 
@@ -108,8 +115,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1: Flush your DNS
 
  The action of flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the address from the DNS server every time it needs to access a new website. This may solve the lagging issue in Back 4 Blood if it’s triggered by invalid or corrupt DNS cache data. Here’s how to do it:
@@ -118,9 +126,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Type **cmd** , then press **Shift** and **Enter** at the same time. If prompted for permission, click **Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -134,9 +139,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click **Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -147,12 +154,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus tip: try with a VPN
 
  If you want to avoid peak time in your region or just want to play on other servers, you can try using a VPN. VPN grants you access to different servers, helps prevent bandwidth throttling, and builds a stable connection. As long as you use a secure and reliable VPN, you shouldn’t get a high ping.
@@ -176,8 +177,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +184,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-engaging-book-video-summaries/"><u>[New] 2024 Approved Engaging Book Video Summaries</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-superior-satire-and-smile-mixer/"><u>[New] Superior Satire & Smile Mixer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024s-guide-to-lowering-starfield-high-system-resource-utilization-pro-tips-and-tricks/"><u>2024'S Guide to Lowering Starfield High System Resource Utilization: Pro Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beating-wrath-of-the-righteous-controller-glitches-expert-tips-and-tricks-to-get-back-in-action-on-pathfinder/"><u>Beating Wrath of the Righteous Controller Glitches: Expert Tips and Tricks to Get Back in Action on Pathfinder</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-in-class-top-10-streamers-with-a-comparative-edge/"><u>Best in Class Top 10 Streamers with a Comparative Edge</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b-for-2024/"><u>Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-dota-2-stability-issues-and-crashing-problems/"><u>Effective Solutions for Dota 2 Stability Issues and Crashing Problems</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-enhance-your-ig-visuals-with-three-effective-video-descriptions/"><u>In 2024, Enhance Your IG Visuals with Three Effective Video Descriptions</u></a></li>
+<li><a href="https://win11.techidaily.com/instructions-for-setting-windows-backups-against-original-standards/"><u>Instructions for Setting Windows Backups Against Original Standards</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-display-responsiveness-restored/"><u>Lenovo Display Responsiveness Restored</u></a></li>
+<li><a href="https://win-answers.techidaily.com/runescape-players-rejoice-overcoming-game-crashes-permanently/"><u>RuneScape Players Rejoice: Overcoming Game Crashes Permanently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-issues-with-amazon-prime-video-streaming/"><u>Troubleshooting Guide: Fixing Issues with Amazon Prime Video Streaming</u></a></li>
+</ul></div>
 

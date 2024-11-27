@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare Continuous Freezing Issues Now Resolved"
-date: 2024-08-27T23:59:41.918Z
-updated: 2024-08-28T23:59:41.918Z
+date: 2024-11-20T21:30:15.950Z
+updated: 2024-11-26T16:28:17.886Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d00d489dab3eb54e89c3ca7ade1be65a3363127e6
 ## Coding Solved: Why Does Call of Duty: Modern Warfare Keep Crashing? Tips to Resolve
 
 Call of Duty: Modern Warfare players are experiencing unbearable random crashes on PC when battling their ways to the top. All kinds of Dev error codes such as**Fatal Error: Dev Error 6178** or no error codes at all. It crashes even in single-player mode. If you’re experiencing Modern Warfare crashing, here’re a few fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why does Modern Warfare crash?
 
@@ -32,6 +36,10 @@ Your Modern Warfare crashing can be caused by the following issues:
 * etc.
 
  It’s hard to locate the exact cause, but you can try the following workarounds to fix it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Modern Warfare Crashing
 
@@ -78,9 +86,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
 
 **OR**
@@ -89,9 +94,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Free-Pro.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your PC for the changes to take full effect.
 
 ### Fix 3: Set texture quality to high or normal
@@ -106,9 +108,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
 
 Play Modern Warfare again to see if the crashing issue persists.
@@ -121,18 +120,12 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If you’re on**Blizzard Battle.net** , you can locate Modern Warfare and click**Options** \>**Scan and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop Overclocking
 
  Overclocking your CPU can improve your gaming performance but may leave your game unstable, which may cause Modern Warfare to crash.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
  The V-Sync in your game is G-Sync/FreeSync and it may interfere with Modern Warfare, so you can try turning it off to see if the crashing issue goes away. If you have in-game V-sync turned on, you can disable it in Modern Warfare graphics settings.
@@ -152,9 +145,9 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/turn-off-vertical-sync.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Try launching your game again to check if Modern Warfare crashes persist. If this doesn’t work, you can try these settings that work fine for other players on[Reddit](https://www.reddit.com/r/modernwarfare/comments/duev1r/crash%5Ffixes%5Ffor%5Fnvidia%5Fusers%5Fon%5Fpc/) .
 
 ### Fix 7: Disable Discord in-game overlay
@@ -169,18 +162,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Change Priority
 
  Setting Call of Duty: Modern Warfare to high priority, according to a few players, reduces the number of crashes a little bit. To do it, you need to open your game first because you’re going to find it in the Task Manager.
@@ -195,10 +176,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  4) When prompted for permission to make changes, select**Change Priority** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 9\. Repair your system files
 
  If the Modern Warfare shares the same system files with your operating system, and the specific file is corrupt or missing, thus causing your game to crash, you may need to restore it with one of the following:
@@ -215,9 +192,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/FORTECTLOG.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Fortect** Windows Repair is tailored to your specific system and is working in a private and automatic way. It will first check hardware-related issues to identify problems, and then security issues (powered by Avira Antivirus), and finally it detects programs that crash, missing system files. Once complete, it will find a solution to your specific problem.
 
  Fortect is a trusted repair tool and it will do no harm to your PC. The best part is that you won’t need to worry about losing any programs and your personal data.
@@ -229,6 +206,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Option 2 – Manually
 
@@ -242,6 +223,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -251,6 +236,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -299,8 +288,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -308,4 +295,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-top-8-metaverse-vr-experiences-and-headsets/"><u>[New] Top 8 Metaverse VR Experiences & Headsets</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-love-the-cut-filmoras-top-10-edits-unveiled/"><u>[Updated] Love the Cut Filmora's Top 10 Edits Unveiled</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-prime-steps-to-modify-playback-rate-of-songs-in-spotify/"><u>[Updated] Prime Steps to Modify Playback Rate of Songs in Spotify</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-common-rust-visual-malfunction/"><u>How to Fix the Common Rust Visual Malfunction</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-the-grounded-pc-crash-of-2024-essential-tips-and-tweaks/"><u>How to Prevent the Grounded PC Crash of 2024 - Essential Tips and Tweaks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nba-2k21-launch-issues-fixing-the-perpetual-black-screen-problem-for-a-smooth-game/"><u>NBA 2K21 Launch Issues: Fixing the Perpetual Black Screen Problem for a Smooth Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-fortnite-opening-errors-with-these-easy-fixes/"><u>Overcome Fortnite Opening Errors with These Easy Fixes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/shopping-highlights-editing-steps-for-hauls-and-collections/"><u>Shopping Highlights Editing Steps for Hauls & Collections</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-guide-removing-cloned-pictures-in-whatsapp-for-iphone-users/"><u>Step-by-Step Guide: Removing Cloned Pictures in WhatsApp for iPhone Users</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-stream-espn-plus-through-lgs-smart-tv-interface/"><u>Step-by-Step Tutorial: Stream ESPN Plus Through LG's Smart TV Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-logitech-options-issues-on-windows/"><u>Troubleshooting Guide: Fixing Logitech Options Issues on Windows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-at-computex-adatas-hybrid-cooling-solution-air-and-water-synergy-for-pc-enthusiasts-plus-a-sneak-peek-into-new-psus-and-pcie-50-flash-storage/"><u>Unveiling at Computex: ADATA's Hybrid Cooling Solution - Air & Water Synergy for PC Enthusiasts; Plus a Sneak Peek Into New PSUs and PCIe 5.0 Flash Storage</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/wiederherstellung-von-beschadigten-datentragern-unter-windows-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Beschädigten Datenträgern Unter Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+</ul></div>
 

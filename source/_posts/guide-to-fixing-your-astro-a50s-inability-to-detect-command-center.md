@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing Your Astro A50's Inability to Detect Command Center
-date: 2024-08-27T23:59:18.455Z
-updated: 2024-08-28T23:59:18.455Z
+date: 2024-11-24T00:03:35.434Z
+updated: 2024-11-26T19:44:45.891Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-legendary-edition-fps-drops.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Origin/ Steam Overlay
 
  The in-game overlay feature allows you to access certain features while playing games. But it is also known to have a negative effect on performance. To alleviate your problem, you’re supposed to disable overlays on[Origin](https://tools.techidaily.com/drivereasy/download/) or[Steam](https://tools.techidaily.com/drivereasy/download/) :
@@ -37,9 +41,17 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/game-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the GENERAL tab, uncheck the box**Enable Origin In Game for Mass Effect Legendary Edition** . Then click**Save** .  
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay-on-Origin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And you’ll need to disable overlay from the Origin client:
 
@@ -47,9 +59,17 @@ And you’ll need to disable overlay from the Origin client:
   
 ![Disable Origin Overlay Mass Effect Legendary Edition FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**ORIGIN IN-GAME** . Down below, find**Enable Origin In-Game** . Click on the button to disable this option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-2-1200x480.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it didn’t help you get a noticeable performance increase, proceed to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -61,6 +81,10 @@ And you’ll need to disable overlay from the Origin client:
   
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**In-Game** . Uncheck the box**Enable the Steam Overlay while in-game** . Then click**OK** to save the changes.  
   
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
@@ -68,6 +92,10 @@ And you’ll need to disable overlay from the Origin client:
 After you save the changes, test your gameplay.
 
  Can’t get a noticeable performance increase? Then proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Verify integrity of game files
 
@@ -91,9 +119,6 @@ After you save the changes, test your gameplay.
 
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
@@ -126,16 +151,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-graphics-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Run your game in high priority
 
  Even though your computer is able to run Mass Effect, you’ll need to set your game’s priority if you need a bit more FPS. This is more necessary when your computer is multitasking.
@@ -150,10 +169,6 @@ To run Mass Effect in high priority, follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
  4) Select the **Details**  tab. Locate **MassEffectLegendaryEdition.exe** . Right-click it and select **Set priority > High** .
 
  5) Click **Change priority** .
@@ -162,9 +177,6 @@ To run Mass Effect in high priority, follow these steps:
 
 If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Enable high-performance power plan
 
  High-performance mode is a particular feature that may give you noticeable improvements during gameplay. To enable this mode, follow the instructions below:
@@ -183,6 +195,10 @@ If this didn’t give you any luck, try the next fix below.
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
@@ -194,41 +210,29 @@ If this didn’t give you any luck, try the next fix below.
  Still can’t fix your issues? No worries! There are other effective methods below.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Turn off hardware acceleration
 
  By default, hardware acceleration is enabled in Chrome and Discord. This feature utilizes your computer’s GPU to tackle graphics-intensive tasks. But it can cause your computer’s battery to drain a lot faster. In order to get the best possible gaming experience, you should disable hardware acceleration, which may also give you a noticeable FPS boost.
 
  Here’s how to turn off hardware acceleration in Chrome and Discord:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### In Chrome
 
  1) At the top right, click on the three lines and then select **Settings** .  
   
 ![disable Chrome hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-hardware-acceleration-Google-Chrome-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Scroll down to the bottom and click on **Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### In Discord
 
  1) Open Discord app. Click on **Settings** (the gear icon beside your avatar).  
@@ -239,14 +243,8 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Disable Windows 10 gaming features
 
  Game Mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to make gaming a much better experience, but it seems the opposite is true. And if you have background recording enabled on your system, it may make your game laggy and even your FPS suffers. To get rid of framerate drops, you need to disable the background recording feature and turn off Game Mode.
@@ -262,6 +260,10 @@ Here’s how to do this:
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
@@ -283,8 +285,6 @@ Here’s how to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -292,4 +292,24 @@ Here’s how to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-avoiding-fakes-instagram-selfie-wisdom-for-2024/"><u>[New] Avoiding Fakes Instagram Selfie Wisdom for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-exclusive-download-hassle-free-video-closures-here/"><u>[New] Exclusive Download Hassle-Free Video Closures Here</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-evolution-of-gaming-logging-beyond-fbx-limits/"><u>[Updated] Evolution of Gaming Logging Beyond FBX Limits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-unlocking-asmrs-hidden-layers/"><u>[Updated] Unlocking ASMR's Hidden Layers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-guide-to-efficient-language-switching-in-windows-11/"><u>A Guide to Efficient Language Switching in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-problems-with-exam-platform-launches-in-202n-a-comprehensive-fix-guide/"><u>Addressing Problems with Exam Platform Launches in 202N: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/can-the-netgear-c3000-keep-up-with-todays-tech-demands-a-critical-review/"><u>Can The Netgear C3000 Keep Up with Today's Tech Demands? A Critical Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-update-or-download-logitechs-prodigy-g4-403-mouse-software-for-windows/"><u>Complete Guide: Update or Download Logitech's Prodigy (G4지터) 403 Mouse Software for Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-your-steam-load-lag-and-blackout-woes-masterful-solutions-and-repairs-you-must-try/"><u>End Your Steam Load Lag & Blackout Woes: Masterful Solutions and Repairs You Must Try</u></a></li>
+<li><a href="https://win-answers.techidaily.com/final-fix-overcoming-continuous-failures-in-pathfinder-wrath-of-the-righteous/"><u>Final Fix: Overcoming Continuous Failures in 'Pathfinder: Wrath of the Righteous'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-obs-buffering-problems-steps-to-resolve-stream-and-record-delays-efficaciously/"><u>Fix OBS Buffering Problems: Steps to Resolve Stream & Record Delays Efficaciously</u></a></li>
+<li><a href="https://win-answers.techidaily.com/geforce-experience-encountered-an-error-and-must-close-solved/"><u>GeForce Experience Encountered an Error and Must Close [Solved]</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/navigating-through-bsod-in-microsofts-latest-os/"><u>Navigating Through BSOD in Microsoft's Latest OS</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/secure-your-forever-ticket-to-coachella-festivals-with-unique-event-themed-nonfungible-tokens/"><u>Secure Your Forever Ticket to Coachella Festivals with Unique Event-Themed Nonfungible Tokens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-repair-continuous-crashes-when-coding-with-rust/"><u>Troubleshoot & Repair Continuous Crashes When Coding with Rust</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-escapades-our-selection-of-best-action-adventures/"><u>Ultimate Escapades Our Selection of Best Action-Adventures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-resolving-nba-2k24-error-727e66ac/"><u>Ultimate Guide to Resolving NBA 2K24 Error 727E66AC</u></a></li>
+</ul></div>
 

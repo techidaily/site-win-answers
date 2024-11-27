@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving NVIDIA Control Panel Malfunctions"
-date: 2024-08-27T23:59:52.196Z
-updated: 2024-08-28T23:59:52.196Z
+date: 2024-11-23T00:59:49.299Z
+updated: 2024-11-26T19:52:30.821Z
 tags:
   - win11
   - win10
@@ -78,6 +78,10 @@ If the issue remains, continue to the next fix below.
 
 If the issue remains, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Install all Windows updates
 
  Windows often releases new updates to fix the latest bugs. Some players reported that they fixed the GeForce overlay not working issue by installing the Windows updates. So we suggest that you give it a try. To do so:
@@ -86,13 +90,16 @@ If the issue remains, try the next fix below.
 2. Click**Windows Updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-windows-update.png)
 3. Under Windows Update, click**check for updates** . It’ll take some time for Windows to search and install system updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
 4. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can check if your GeForce overlay is working.
@@ -108,14 +115,12 @@ If the overlay is still no function, check out the next fix below.
 2. Navigate to the**Compatibility** tab, check the box of**Run this program as an administrator** . Then click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/compatibility.jpg)
 3. Click**OK** to exit the window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ok-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Check if the GeForce overlay not functioning issue still occurs.
 
 If the issue persists, go ahead with the next fix below.
@@ -127,21 +132,21 @@ If the issue persists, go ahead with the next fix below.
 1. Open GeForce Experience, then click the gear icon to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/geforce-setting.jpg)
 2. In the left panel, select**GENERAL** . Under the ABOUT section, tick the box next to “**Enable experimental features** . A GeForce Experience update may be required.”.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/enable-experimental-feature.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/enable-experimental-feature.jpg)
+
 Once done, check if your GeForce overlay is working.
 
 If not, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Disable third-party services
 
  Sometimes the third-party services may prevent GeForce overlay from working properly. Try temporarily disabling them to see if your GeForce overlay works or not. If GeForce overlay starts working again, try to enable third-party services one at a time to figure out the problematic services. Here’s how:
@@ -150,24 +155,20 @@ If not, move on to the next fix below.
 2. Type**msconfig** and click**OK** to open System Configuration.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 3. In System Configuration, navigate to the**Services** tab, check the box of**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 4. **Uncheck** all the services EXCEPT NVIDIA services, then click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uncheck-services.jpg)
 5. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the computer completely reboots, check if your GeForce overlay is working. If it starts working now, you’ll need to re-enable services one by one in System Configuration until you find the problematic one. Then restart your computer to apply the changes.
 
 If this method doesn’t do the trick, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 8: Repair Microsoft Visual C++ Redistributable Package
 
  The Microsoft Visual C++ Redistributable Packages basically make sure some programs work and function properly without experiencing conflicts. If these redistributables are corrupt, it may lead to your GeForce overlay not working. You can follow the steps below to fix this issue:
@@ -198,17 +199,11 @@ Check to see if GeForce overlay now works on your computer.
 3. According to your Windows edition, click**32-bit Download** or**64-bit Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/64-bit-download.jpg)
 4. After downloading the pack, follow the on-screen instructions to install it.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Make sure to restart your computer after installing the media feature Pack, then check if your GeForce overlay is working properly.
 
  If this solution doesn’t work for you, check out the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 10: Reinstall GeForce Experience
 
  If all solutions mentioned above fail to solve the problem of GeForce overlay not working, try reinstalling GeForce Experience as a last resort. To do so:
@@ -217,17 +212,25 @@ Check to see if GeForce overlay now works on your computer.
 2. Type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_-1.jpg)
 3. Right-click**GeForce Experience** and select**Uninstall/Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-change-geforce-experience.jpg)
 4. In the pop-up window, click**UNINSTALL** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-geforce-experience.jpg)
 5. Go to the[GeForce Experience official website](https://www.nvidia.com/en-us/geforce/geforce-experience/) to download the latest version of the program.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/download-geforce-experience.jpg)
 6. After downloading, follow the on-screen instructions to install GeForce Experience.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can check to see if your GeForce overlay is working.
@@ -244,8 +247,6 @@ Now you can check to see if your GeForce overlay is working.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -253,4 +254,26 @@ Now you can check to see if your GeForce overlay is working.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-charting-out-your-audience-youtubes-blueprint-for-2024/"><u>[Updated] Charting Out Your Audience YouTube's Blueprint for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-creating-order-adding-videos-to-personalized-youtube-shelves-for-2024/"><u>[Updated] Creating Order Adding Videos to Personalized YouTube Shelves for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-outstanding-10-screenshot-and-recording-titles-for-gamers/"><u>[Updated] In 2024, Outstanding 10 Screenshot and Recording Titles for Gamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-cutting-edge-captures-top-10-online-video-recorders/"><u>2024 Approved Cutting-Edge Captures Top 10 Online Video Recorders</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-microphones-for-high-resolution-4k-video-shooting/"><u>2024 Approved Prime Microphones for High-Resolution 4K Video Shooting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726027686597-2024dvd/"><u>2024年度用に選ばれた、日本語対応DVDコピー転送プログラムベストセレクション - 無料ダウンロード</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-walkthrough-no-more-crashes-enhancing-performance-of-horizon-zero-dawn-on-windowsmac/"><u>Comprehensive Walkthrough: No More Crashes - Enhancing Performance of Horizon Zero Dawn on Windows/Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-crashing-on-pc-solved/"><u>Cyberpunk 2077 Crashing on PC [SOLVED]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-for-the-notorious-game-crashes-of-lego-star-wars-on-pc-updated-guide/"><u>Effective Solutions for the Notorious Game Crashes of Lego Star Wars on PC - Updated Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensure-uninterrupted-fun-overcome-maplestory-crashing-issues-on-windows-10-comprehensive-guide/"><u>Ensure Uninterrupted Fun: Overcome MapleStory Crashing Issues on Windows 10 - Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-apex-legends-wont-load-issues-fast-effective-solutions/"><u>Fix Apex Legends Won't Load Issues Fast – Effective Solutions!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-mp4-converter-convert-m2p-files-to-mpeg-format-by-movavi/"><u>Free MP4 Converter - Convert M2P Files to MPEG Format by Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/freeze-no-more-overcome-wrath-of-the-righteous-stalling-issues-in-pathfinder-on-pc/"><u>Freeze No More: Overcome 'Wrath of the Righteous' Stalling Issues in Pathfinder on PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-meizu-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Meizu</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jokes-just-a-click-away-iphone/"><u>Jokes Just a Click Away (iPhone)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-players-rejoice-as-deathloops-freezing-issues-get-resolved/"><u>PC Players Rejoice as Deathloop's Freezing Issues Get Resolved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-prevent-game-crashes-in-code-vein/"><u>Troubleshooting Steps to Prevent Game Crashes in Code Vein</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006923829-warzone-game-crash-with-error-0-1766-on-xboxpc-heres-the-fix/"><u>Warzone Game Crash with Error 0-1766 on Xbox/PC? Here's the Fix</u></a></li>
+</ul></div>
 

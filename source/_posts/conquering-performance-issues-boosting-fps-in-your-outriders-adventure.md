@@ -1,7 +1,7 @@
 ---
 title: "Conquering Performance Issues: Boosting FPS in Your Outriders Adventure"
-date: 2024-11-13T09:55:13.759Z
-updated: 2024-11-16T21:42:57.023Z
+date: 2024-11-19T19:39:45.714Z
+updated: 2024-11-26T19:26:37.046Z
 tags:
   - win11
   - win10
@@ -50,23 +50,9 @@ Here’s how you can download and install Windows updates:
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
@@ -80,6 +66,10 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
@@ -88,16 +78,13 @@ Here’s how you can download and install Windows updates:
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -113,6 +100,10 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -121,13 +112,6 @@ Here’s how you can download and install Windows updates:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
 
@@ -139,15 +123,16 @@ Here’s how you can do this:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
@@ -174,13 +159,6 @@ To verify the integrity of game files, take these steps:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 6\. Disable Steam overlay
 
  The Steam overlay allows you to surf the web and message friends while in-game, but can also cause performance issues with some games. To check whether it’s causing your Outriders to stutter, you can turn off Steam overlay:
@@ -189,27 +167,21 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
 
@@ -224,6 +196,10 @@ Now play Outriders to see if you can get better gaming performance.
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -246,24 +222,20 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/solved-ready-or-not-keeps-crashing-on-pc/"><u>[SOLVED] Ready or Not Keeps Crashing on PC</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras-for-2024/"><u>[Updated] Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-disableremove-youtube-shorts-permanently2/"><u>2024 Approved How to Disable/Remove YouTube Shorts Permanently?2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-game-interruptions-curing-diablo-3-continuous-crashes/"><u>Banish Game Interruptions - Curing Diablo 3 Continuous Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bioshock-2-ultimate-fix-complete-remaster-restored/"><u>BioShock 2 Ultimate Fix: Complete Remaster Restored</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cortana-malfunctioning-here-are-the-solutions-you-need/"><u>Cortana Malfunctioning? Here Are the Solutions You Need!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oppo-reno-11f-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Oppo Reno 11F 5G?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m34-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M34 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-installation-of-hyper-v-feature-on-microsofts-latest-os/"><u>Master the Installation of Hyper-V Feature on Microsoft's Latest OS</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-unleash-your-creativity-top-10-2d-animation-tools-for-artists/"><u>New In 2024, Unleash Your Creativity Top 10 2D Animation Tools for Artists</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-your-experience-fix-high-ping-issues-on-pc-with-bless-unleashed/"><u>Optimize Your Experience: Fix High Ping Issues on PC with Bless Unleashed</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/outperforming-chatgpt-top-4-advantages-of-choosing-the-claude-ai-chatbot/"><u>Outperforming ChatGPT: Top 4 Advantages of Choosing the Claude AI Chatbot</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y77t-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y77t Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-football-manager-2023-a-comprehensive-fix/"><u>Resolved: Issues with Launching Football Manager 2023 – A Comprehensive Fix</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-ie-browser-issues-unable-to-view-web-pages/"><u>Resolved: Troubleshooting IE Browser Issues - Unable to View Web Pages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/scriptwriting-mastery-leveraging-chatgpt-for-crafting-video-game-narratives/"><u>Scriptwriting Mastery: Leveraging ChatGPT for Crafting Video Game Narratives</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-frozen-conflict-resolve-cold-war-games-persistent-loading-glitches/"><u>Solving the Frozen Conflict: Resolve Cold War Game's Persistent Loading Glitches</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-to-update-and-download-windows-sata-controller-drivers/"><u>Step-By-Step Tutorial to Update & Download Windows SATA Controller Drivers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/what-should-i-do-if-im-hearing-voices/"><u>What Should I Do if I'm Hearing Voices?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-visual-extremes-enhancer-top-video-quality/"><u>[New] 2024 Approved Visual Extremes Enhancer Top Video Quality</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-etiquette-ceasing-connections-for-2024/"><u>[New] Instagram Etiquette Ceasing Connections for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-any-tiktok-audio-the-ultimate-cellphone-sound/"><u>[Updated] How To Make Any TikTok Audio, the Ultimate Cellphone Sound</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-navigating-advanced-features-in-obs-studio-android/"><u>[Updated] In 2024, Navigating Advanced Features in OBS Studio (Android)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-solutions-to-stop-chrome-from-freezing-on-windows-10-computers/"><u>Easy Solutions to Stop Chrome From Freezing on Windows 10 Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-to-correct-nwstoreexe-application-errors/"><u>Effective Strategies to Correct NW_Store.exe Application Errors</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-top-5-ps1-emulation-software-on-modern-computers/"><u>In 2024, Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-depth-analysis-complete-revamp-of-facetune-app/"><u>In-Depth Analysis Complete Revamp of Facetune App</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-a2plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi A2+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-fix-handling-fifa-20-crashes-on-windows-a-detailed-walkthrough/"><u>Master the Fix: Handling FIFA 20 Crashes on Windows - A Detailed Walkthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-game-disruptions-expert-ways-to-stop-pc-game-crashes/"><u>Overcoming Game Disruptions: Expert Ways to Stop PC Game Crashes</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/perfekt-synchronisieren-dein-pc-automatisch-mit-onedrive-verbinden-und-verwalten-lassen/"><u>Perfekt Synchronisieren: Dein PC Automatisch Mit OneDrive Verbinden Und Verwalten Lassen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-the-dark-problem-fixing-black-screen-in-fallout-4/"><u>Resolve the Dark Problem: Fixing Black Screen in Fallout 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-fixes-to-get-your-division-ticking-expert-tips/"><u>Step-by-Step Fixes to Get Your Division √️Ticking: Expert Tips</u></a></li>
 </ul></div>
 

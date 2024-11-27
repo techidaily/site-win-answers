@@ -1,7 +1,7 @@
 ---
 title: "Solving uTorrent Connection Issues: Steps to Restore Download/Peer Connectivity"
-date: 2024-08-28T00:01:27.383Z
-updated: 2024-08-29T00:01:27.383Z
+date: 2024-11-23T21:55:20.784Z
+updated: 2024-11-26T20:28:52.479Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/LostArk_HP_BG_SM.jpeg)
 
  Lost Ark players have been experiencing heavy traffic or constantly getting disconnected from the game since its launch. If you also encounter the “cannot connect to the server” error while playing Lost Ark, this post is for you. Here are some quick fixes you can try while we’re all waiting for an official fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,12 +48,13 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Restart the game/Steam
 
  Many players have been able to solve the “cannot connect to the server” error by simply**restarting the game or Steam client** . Although it seems like a temporary workaround and you may have to try multiple times, it’s the quickest fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair game files
 
@@ -58,15 +63,13 @@ If this doesn’t help, try the next fix.
 1. Open your Steam library and find Lost Ark. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Click**LOCAL FILES** , then click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update the graphics driver
 
@@ -79,9 +82,6 @@ If this doesn’t solve your problem, move on to the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -91,9 +91,6 @@ If this doesn’t solve your problem, move on to the next fix.
 
  Reboot your PC and launch Lost Ark to see if you can connect to the server now. If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Configure your firewall settings
 
  One possible cause of the “cannot connect to the server error” is that your firewall is blocking your connection to the Lost Ark server. Here’s how to check if Lost Ark is allowed through the firewall, and configture the settings if needed:
@@ -106,8 +103,17 @@ If this doesn’t solve your problem, move on to the next fix.
 3. Select **View by: small icons** , then click **Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Add the game to the exception list
 
@@ -116,9 +122,11 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Click **Browse** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
@@ -131,6 +139,10 @@ If this doesn’t solve your problem, move on to the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. When the DNS cache is deleted, your PC need to obtain the data from the DNS server every time it accesses a new website. This may solve the “cannot connect to the server” error if it’s triggered by invalid DNS cache data.
@@ -141,26 +153,19 @@ Here are the steps:
 2. Type **cmd** , then press **Shift** and **Enter** at the same time. If prompted for permission, click **Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -168,9 +173,6 @@ No advertising on the website.
 1. On your taskbar, right-click the **network icon** , then click **Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click **Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -183,10 +185,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Fix 7: Repair corrupted system files
 
  If you’re experiencing performance issues like random crashes in Lost Ark and none of the fixes helped, the chances are you’re looking at a system issue. In addition to game files, corrupted system files may also cause the game to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues first, but most of the time, manual repair is required.
@@ -197,12 +195,13 @@ The ultimate burning program for all your needs!</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -217,8 +216,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +223,20 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-leveraging-social-integration-auto-play-youtube-videos-on-fb-pages/"><u>[Updated] 2024 Approved Leveraging Social Integration Auto-Play Youtube Videos on FB Pages</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchat-to-device-the-step-by-step-process-explained/"><u>[Updated] 2024 Approved Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-decoding-revenue-how-much-do-creators-earn-on-youtube-for-2024/"><u>[Updated] Decoding Revenue How Much Do Creators Earn on Youtube for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-expert-tips-on-finding-optimal-free-srt-translator-services/"><u>2024 Approved Expert Tips on Finding Optimal Free SRT Translator Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992956935-defeat-the-glitch-mastering-ring-of-elysiums-crash-problems-solutions-inside/"><u>Defeat the Glitch: Mastering Ring of Elysium's Crash Problems – Solutions Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-performance-issues-with-the-2022-spotify-web-platform/"><u>How to Resolve Performance Issues with the 2022 Spotify Web Platform</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-performance-alert-dying-light-2-overcomes-freezing-and-low-fps-problems-in-latest-patch-pc/"><u>Improved Performance Alert! Dying Light 2 Overcomes Freezing and Low FPS Problems in Latest Patch (PC)</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-3-ways-to-export-contacts-from-apple-iphone-14-to-excel-csv-and-vcard-easily-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 3 Ways to Export Contacts from Apple iPhone 14 to Excel CSV & vCard Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-more-economical-to-choose-uber-over-traditional-taxis-for-your-rides/"><u>Is It More Economical to Choose Uber Over Traditional Taxis for Your Rides?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012847712-lost-arc-adventure-stuck-at-the-doorstep-heres-how-to-fix-it/"><u>Lost Arc Adventure Stuck at the Doorstep? Here's How to Fix It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-successfully-establishing-a-link-with-the-game-world-after-connection-failures/"><u>Minecraft: Successfully Establishing a Link with the Game World After Connection Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-resolve-star-wars-jedi-fallen-order-failed-launch-issue/"><u>Troubleshooting Steps to Resolve 'Star Wars Jedi: Fallen Order' Failed Launch Issue</u></a></li>
+</ul></div>
 

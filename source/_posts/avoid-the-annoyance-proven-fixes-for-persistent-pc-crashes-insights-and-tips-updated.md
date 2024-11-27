@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2024-11-10T09:50:01.095Z
-updated: 2024-11-17T05:22:26.429Z
+date: 2024-11-21T17:49:59.747Z
+updated: 2024-11-27T01:19:39.392Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -49,22 +53,12 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
@@ -76,6 +70,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
@@ -85,20 +83,11 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
-7. Reboot your computer can check whether the crash will appear or not.
-
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Reboot your computer can check whether the crash will appear or not.
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -116,6 +105,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -146,13 +139,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
 * [games](https://tools.techidaily.com/drivereasy/download/)
@@ -172,15 +158,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-secrets-unveiled-amplifying-profile-visibility/"><u>[New] Secrets Unveiled Amplifying Profile Visibility</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-fixing-error-code-5573-guide/"><u>Call of Duty: Vanguard - Fixing Error Code 5573 Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722997418239-enhance-counter-strike-global-offensive-gaming-with-these-frame-rate-fixes-no-more-fps-fluctuations/"><u>Enhance Counter-Strike Global Offensive Gaming with These Frame Rate Fixes - No More FPS Fluctuations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-your-mass-effect-legendary-launch-problems-with-these-simple-steps/"><u>Fix Your Mass Effect Legendary Launch Problems with These Simple Steps</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-14-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 14 Pro i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-top-mkv-video-cutting-software-for-mac/"><u>New 2024 Approved The Top MKV Video Cutting Software for Mac</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/offworld-trading-company-game-breakdown-survive-and-thrive-in-the-unforgiving-space-economy/"><u>Offworld Trading Company Game Breakdown: Survive & Thrive in the Unforgiving Space Economy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-getting-call-of-duty-black-ops-4-loaded-and-running-smoothly/"><u>Troubleshooting Guide: Getting Call of Duty Black Ops 4 Loaded & Running Smoothly</u></a></li>
-<li><a href="https://win-dash.techidaily.com/updated-epson-wf-3620-printing-software-compatible-with-windows-os-1087/"><u>Updated Epson WF-3620 Printing Software Compatible With Windows OS (10/8/7)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-nurturing-natural-light-within-domestic-spaces/"><u>[New] Nurturing Natural Light Within Domestic Spaces</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-experts-guide-to-best-terria-mods/"><u>[Updated] Expert's Guide to Best Terria Mods</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximize-youtube-potential-leading-rank-tracker-software-for-2024/"><u>[Updated] Maximize YouTube Potential Leading Rank Tracker Software for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-build-a-custom-vr-device-diy-google-cardboard-guide/"><u>2024 Approved Build a Custom VR Device DIY Google Cardboard Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-game-disruptions-solutions-to-stop-final-fantasy-xv-from-freezing-on-pcs/"><u>Avoid Game Disruptions - Solutions to Stop Final Fantasy XV From Freezing on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-fix-for-msedgeexe-runtime-failures-on-pc/"><u>Comprehensive Fix for Msedge.exe Runtime Failures on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/effortlessly-decrease-video-file-size-with-these-5-vlc-tricks-an-in-depth-tutorial/"><u>Effortlessly Decrease Video File Size with These 5 VLC Tricks - An In-Depth Tutorial</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/extensive-analysis-samsungs-immersive-sphere-technology-for-2024/"><u>Extensive Analysis Samsung's Immersive Sphere Technology for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-freeze-frames-on-call-of-dury-the-cost-free-solution-for-black-ops-cold-war/"><u>Fixing Freeze Frames on Call of Dury: The Cost-Free Solution for Black Ops Cold War</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-streets-of-night-city-how-cyberpunk-2077-eradicated-input-lag/"><u>Mastering the Streets of Night City - How Cyberpunk 2077 Eradicated Input Lag</u></a></li>
+<li><a href="https://win-answers.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health463/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-overwatch-performance-problems-a-2024-how-to-guide/"><u>Overcoming Overwatch Performance Problems: A 2024 How-To Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-mp3-converters-the-ultimate-list-from-youtube/"><u>Prime MP3 Converters The Ultimate List From YouTube</u></a></li>
+<li><a href="https://win-answers.techidaily.com/provide-efficient-and-friendly-communication-to-ensure-the-highest-level-of-client-satisfaction-when-addressing-concerns-or-resolving-issues-related-to-our-583/"><u>Provide Efficient and Friendly Communication to Ensure the Highest Level of Client Satisfaction when Addressing Concerns or Resolving Issues Related to Our Products/Services.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-stuck-characters-a-comprehensive-guide-to-solve-code-vein-freezing-issues/"><u>Resolving Stuck Characters: A Comprehensive Guide to Solve Code Vein Freezing Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-the-dark-display-issue-in-your-android-device/"><u>Step-by-Step Guide: Resolving the Dark Display Issue in Your Android Device</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-gratis-festplattenbilder-programme-fur-windows-10-die-besten-kostenlosen-tools/"><u>Top Gratis Festplattenbilder Programme Für Windows 10 – Die Besten Kostenlosen Tools</u></a></li>
 </ul></div>
 

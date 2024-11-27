@@ -1,7 +1,7 @@
 ---
 title: Resolving Launch Errors for DaVinci Resolve on Windows - Expert Tips & Tricks
-date: 2024-11-11T13:38:32.823Z
-updated: 2024-11-16T16:25:16.504Z
+date: 2024-11-20T22:49:27.831Z
+updated: 2024-11-26T16:45:07.595Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the Roblox server
 
  When you see error code 277 in Roblox, you should first check the game server status to make sure that this is not a problem on your end: more often than not, error code 277 is a problem with the game server, and there’s nothing more for you to do other than wait for the devs to get their server fixed.
@@ -56,25 +49,15 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-12.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re seeing**All Systems Operational** , but you’re still getting error code 277 on your side in Roblox, please move on to other fixes, as it could be a problem with your network.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Revisit your network settings
 
@@ -94,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Delete Roblox logs
 
  Many users reported that deleting the Roblox logs on their computers helps to fix the error 277 for them. To see if this also works for you:
@@ -101,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 1. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste**%LocalAppData%/Roblox** and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-15.png)
 2. Press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all the log files here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste **%USERPROFILE%AppDataLocalLowRbxLogs** and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-16.png)
@@ -118,11 +109,19 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-17.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-18.png)
 
  Now open Roblox again (it should be opened with administrative permission), to see if error code 277 is st. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Try a different DNS server
 
@@ -133,15 +132,12 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
@@ -151,25 +147,11 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -179,16 +161,13 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Then see if the error code 277 is still seen in your Roblox. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair corrupted or damaged system files
 
@@ -202,10 +181,7 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -235,18 +211,19 @@ thumbnail: https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-snappy-film-maker/"><u>[New] Snappy Film Maker</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engineering-engaging-media-excerpts/"><u>[Updated] 2024 Approved Engineering Engaging Media Excerpts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-seamless-story-connectivity-on-facebook-4-tips/"><u>[Updated] 2024 Approved Seamless Story Connectivity on Facebook (4 Tips)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-tunefabs-cutting-edge-approach-to-live-streaming/"><u>[Updated] Tunefab's Cutting-Edge Approach to Live Streaming</u></a></li>
-<li><a href="https://win-answers.techidaily.com/banish-dev-error-6328-from-call-of-duty-warzone-expert-advice-for-gamers/"><u>Banish Dev Error 6328 From Call of Duty Warzone – Expert Advice for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-fixes-for-when-your-system-cant-connect-to-live-config-services/"><u>Expert Fixes for When Your System Can't Connect to Live Config Services</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-lava-blaze-pro-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Lava Blaze Pro 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/say-goodbye-to-rdo-crashes-on-your-computer-effective-solutions-inside/"><u>Say Goodbye to RDO Crashes on Your Computer - Effective Solutions Inside</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-best-way-to-record-a-powerpoint-presentation/"><u>The Best Way to Record a PowerPoint Presentation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-fixing-recurring-issues-with-pathfinder-wrath-of-the-righteous/"><u>Ultimate Guide to Fixing Recurring Issues with Pathfinder: Wrath of the Righteous</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-solving-launch-issues-in-deathloop/"><u>Ultimate Guide: Solving Launch Issues in Deathloop</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-list-of-professional-bodycams-2024-edition/"><u>Ultimate List of Professional Bodycams - 2024 Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-building-trust-key-elements-in-forging-youtube-brand-relationships-for-2024/"><u>[New] Building Trust Key Elements in Forging Youtube Brand Relationships for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pay-attention-focus-fully-on-the-speaker-avoid-distractions-and-show-interest-in-what-theyre-saying-for-2024/"><u>[New] Pay Attention Focus Fully on the Speaker, Avoid Distractions, and Show Interest in What They're Saying for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banish-mortal-kombat-11-crash-problems-with-these-easy-steps/"><u>Banish Mortal Kombat 11 Crash Problems with These Easy Steps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-buffer-ultimate-guide-to-optimize-and-overcome-lag-in-dota-2-for-224-players/"><u>Beat the Buffer: Ultimate Guide to Optimize and Overcome Lag in Dota 2 for 2^24 Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/crash-no-more-destiny-2s-beyond-light-on-pc-now-running-smoothly/"><u>Crash No More: Destiny 2'S Beyond Light on PC Now Running Smoothly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-guide-to-improve-blurry-graphics-for-call-of-duty-warzone-players-pc/"><u>DIY Guide to Improve Blurry Graphics for Call of Duty: Warzone Players (PC)</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-call-history-from-huawei-nova-y71-by-fonelab-android-recover-call-logs/"><u>Easy steps to recover deleted call history from Huawei Nova Y71</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-resolve-your-computers-screen-turning-black-on-zoom-webinars-and-meetings-updated-2e-guide-2024/"><u>Expert Tips to Resolve Your Computer's Screen Turning Black on Zoom Webinars and Meetings (Updated 2E Guide, 2024)</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/humor-hive-undead-jester-creators/"><u>Humor Hive Undead Jester Creators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/se-leaderboard-scrutinizer-tracking-youtube-titans/"><u>Intense Leaderboard Scrutinizer Tracking YouTube Titans</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-from-novice-to-pro-20-adobe-premiere-shortcuts-to-elevate-your-skills/"><u>New In 2024, From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills</u></a></li>
+<li><a href="https://win-answers.techidaily.com/surviving-the-continuum-strategies-for-overcoming-the-black-lives-matter-challenges/"><u>Surviving the Continuum: Strategies for Overcoming the 'Black Lives Matter' Challenges</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-registry-essentials-and-optimization-using-revo-uninstaller/"><u>Windows Registry Essentials and Optimization Using Revo Uninstaller</u></a></li>
 </ul></div>
 
