@@ -1,7 +1,7 @@
 ---
 title: "Avoid the Annoyance: Proven Fixes for Persistent PC Crashes - Insights & Tips (Updated )"
-date: 2024-11-21T17:49:59.747Z
-updated: 2024-11-27T01:19:39.392Z
+date: 2024-12-04T17:12:34.363Z
+updated: 2024-12-06T16:46:58.225Z
 tags:
   - win11
   - win10
@@ -43,7 +43,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -58,7 +58,7 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Manage Virtual Memory
@@ -70,24 +70,24 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -105,10 +105,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -137,6 +133,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -158,22 +158,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-nurturing-natural-light-within-domestic-spaces/"><u>[New] Nurturing Natural Light Within Domestic Spaces</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-experts-guide-to-best-terria-mods/"><u>[Updated] Expert's Guide to Best Terria Mods</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximize-youtube-potential-leading-rank-tracker-software-for-2024/"><u>[Updated] Maximize YouTube Potential Leading Rank Tracker Software for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-build-a-custom-vr-device-diy-google-cardboard-guide/"><u>2024 Approved Build a Custom VR Device DIY Google Cardboard Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-game-disruptions-solutions-to-stop-final-fantasy-xv-from-freezing-on-pcs/"><u>Avoid Game Disruptions - Solutions to Stop Final Fantasy XV From Freezing on PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-fix-for-msedgeexe-runtime-failures-on-pc/"><u>Comprehensive Fix for Msedge.exe Runtime Failures on PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortlessly-decrease-video-file-size-with-these-5-vlc-tricks-an-in-depth-tutorial/"><u>Effortlessly Decrease Video File Size with These 5 VLC Tricks - An In-Depth Tutorial</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/extensive-analysis-samsungs-immersive-sphere-technology-for-2024/"><u>Extensive Analysis Samsung's Immersive Sphere Technology for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-freeze-frames-on-call-of-dury-the-cost-free-solution-for-black-ops-cold-war/"><u>Fixing Freeze Frames on Call of Dury: The Cost-Free Solution for Black Ops Cold War</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-the-streets-of-night-city-how-cyberpunk-2077-eradicated-input-lag/"><u>Mastering the Streets of Night City - How Cyberpunk 2077 Eradicated Input Lag</u></a></li>
-<li><a href="https://win-answers.techidaily.com/microbes-decompose-organic-matter-fix-atmospheric-nitrogen-and-help-suppress-plant-diseases-contributing-to-a-cycle-of-nutrients-and-maintaining-soil-health463/"><u>Microbes Decompose Organic Matter, Fix Atmospheric Nitrogen, and Help Suppress Plant Diseases, Contributing to a Cycle of Nutrients and Maintaining Soil Health.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-overwatch-performance-problems-a-2024-how-to-guide/"><u>Overcoming Overwatch Performance Problems: A 2024 How-To Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-mp3-converters-the-ultimate-list-from-youtube/"><u>Prime MP3 Converters The Ultimate List From YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/provide-efficient-and-friendly-communication-to-ensure-the-highest-level-of-client-satisfaction-when-addressing-concerns-or-resolving-issues-related-to-our-583/"><u>Provide Efficient and Friendly Communication to Ensure the Highest Level of Client Satisfaction when Addressing Concerns or Resolving Issues Related to Our Products/Services.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-stuck-characters-a-comprehensive-guide-to-solve-code-vein-freezing-issues/"><u>Resolving Stuck Characters: A Comprehensive Guide to Solve Code Vein Freezing Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-resolving-the-dark-display-issue-in-your-android-device/"><u>Step-by-Step Guide: Resolving the Dark Display Issue in Your Android Device</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/top-gratis-festplattenbilder-programme-fur-windows-10-die-besten-kostenlosen-tools/"><u>Top Gratis Festplattenbilder Programme Für Windows 10 – Die Besten Kostenlosen Tools</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-screen-mastery-for-premier-pro-users/"><u>[New] Full Screen Mastery for Premier Pro Users</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-the-easy-path-to-cleaning-up-conversations-bulk-deletion-on-discord/"><u>[New] The Easy Path to Cleaning Up Conversations Bulk Deletion on Discord</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-optimal-sustainable-screen-capture-tools-usage-strategies/"><u>[Updated] 2024 Approved Optimal Sustainable Screen Capture Tools Usage Strategies</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-troubleshooting-obs-frame-loss/"><u>2024 Approved Troubleshooting OBS Frame Loss</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-s24-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy S24.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-max-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS Max To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-visual-quality-and-response-time-tips-for-elevating-fps-in-ring-of-elysium/"><u>Improving Visual Quality & Response Time: Tips for Elevating FPS in Ring of Elysium</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-quick-wins-for-shader-optimization-in-star-wars-battlefront-ii/"><u>Master Quick Wins for Shader Optimization in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-answers.techidaily.com/navigating-launch-glitches-in-dead-space-remake-with-easy-fixes-and-expert-advice-for-2n4/"><u>Navigating Launch Glitches in Dead Space Remake with Easy Fixes and Expert Advice for 2N4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/real-time-xbox-live-servers-are-they-operational-now/"><u>Real-Time Xbox Live Servers: Are They Operational Now?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/reviving-your-google-meet-camera-effective-solutions-for-connectivity-issues/"><u>Reviving Your Google Meet Camera: Effective Solutions for Connectivity Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rocket-league-crash-solutions-top-strategies-for-a-stable-game-updated-for-2n-23/"><u>Rocket League Crash Solutions: Top Strategies for a Stable Game (Updated for 2N-23)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-digital-artisans-guide-mastering-screen-recordings-in-macos-for-2024/"><u>The Digital Artisan's Guide Mastering Screen Recordings in macOS for 2024</u></a></li>
 </ul></div>
 

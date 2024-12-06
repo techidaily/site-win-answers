@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Adding, Altering, Viewing & Converting Excel Notebook Entries
-date: 2024-08-27T23:58:01.131Z
-updated: 2024-08-28T23:58:01.131Z
+date: 2024-12-04T18:14:15.173Z
+updated: 2024-12-06T17:46:33.912Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Step-by-Step Instructions for Adding, Altering, Viewing & Converting Excel Notebook Entries
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![New Notes in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NewNote-ExcelNotes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see your name or [Excel username](https://some-approaches.techidaily.com/new-the-anglers-companion-best-action-cams-for-fishing/) followed by a colon in the yellow note box. Simply type your note and then click anywhere in the sheet to close it. The notes you add are saved automatically.
 
 ![New Notes in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NewNote-ExcelNotes.png) 
@@ -48,11 +56,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Note and comment settings in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/NoteSettings-ExcelNotes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Keep in mind that adjusting this setting affects [comments in your sheet](https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-infinix-note-30-vip-drfone-by-drfone-fix-android-problems-fix-android-problems/) as well as notes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Edit a Note
 
  You can add, edit, or remove text you've typed into a note. Select the cell to display the note, go to the Review tab, and select "Edit Note" in the Notes drop-down menu. Alternatively, right-click the cell and pick "Edit Note."
@@ -60,15 +69,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Edit Note in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/EditNote-ExcelNotes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then place your cursor inside it to make your change.
 
 Related: [How to Change Your Microsoft Account Name](https://some-approaches.techidaily.com/new-the-anglers-companion-best-action-cams-for-fishing/) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ##  Show and Hide Notes
 
  There may be a time when you want to display all notes in your sheet if you have more than one. You can enable a setting to keep one or more notes visible.
@@ -78,17 +85,19 @@ Related: [How to Change Your Microsoft Account Name](https://some-approaches.tec
 ![Show/Hide Note in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ShowHideNote-ExcelNotes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To display all notes in your sheet, pick "Show All Notes" in the drop-down menu instead.
 
 ![Show All Notes in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ShowAllNotes-ExcelNotes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To hide your notes again, open the Notes drop-down menu and deselect "Show/Hide Note" or "Show All Notes."
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Move Between Notes
 
  Whether you decide to keep your notes visible or select the cell to view the note, you can move through each note one at a time if needed.
@@ -98,8 +107,9 @@ Related: [How to Change Your Microsoft Account Name](https://some-approaches.tec
 ![Previous Note and Next Note in the Notes menu on the Review tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/PreviousNextNote-ExcelNotes.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Delete a Note
 
  If you finish with a note and no longer need it, you can delete it one of two ways. Select the cell, go to the Review tab, and click "Delete" in the Comments section of the ribbon. Alternatively, right-click the cell containing the note and pick "Delete Note."
@@ -124,10 +134,6 @@ Related: [Everything You Need to Know About Co-Authoring in Excel](https://insta
 
 ![Notes converted to comments in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ConvertedToComments-ExcelNotes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  By using notes in Excel, you can remind yourself to update the data in a cell, include a reference for the original source, or log a specific detail pertaining to the cell. Keep this handy feature in mind!
 
  For more, look at how to [hide comments, formulas, gridlines](https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/), and more in your Excel sheets.
@@ -138,8 +144,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +151,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-sightgallery-review-system/"><u>[New] 2024 Approved SightGallery Review System</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-fusing-genres-a-youtube-music-strategy/"><u>[New] Fusing Genres A YouTube Music Strategy</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-screencast-essentials-the-ultimate-beginners-tutorial/"><u>[New] In 2024, Screencast Essentials The Ultimate Beginner's Tutorial</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-youtube-live-thumbnail-for-2024/"><u>[New] The Ultimate Guide to YouTube Live Thumbnail for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723006462885-solved-obs-crashing-on-windows-1110-2024/"><u>[SOLVED] OBS Crashing on Windows 11/10 - 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comprehensive-snapshot-tool-az-reviews-and-substitutes/"><u>[Updated] In 2024, Comprehensive Snapshot Tool - AZ Reviews & Substitutes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/st-asmr-recorders-for-exceptional-audio-quality/"><u>10 Best ASMR Recorders for Exceptional Audio Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/a-guide-to-unfreezing-swtor-invasion-on-your-desktop-computer/"><u>A Guide to Unfreezing SWTOR Invasion on Your Desktop Computer</u></a></li>
+<li><a href="https://article-tips.techidaily.com/boost-your-auditory-signature-master-sound-modification-for-zero-cost-for-2024/"><u>Boost Your Auditory Signature Master Sound Modification for Zero Cost for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enjoy-a-smooth-gaming-experience-addressing-the-recurring-pc-shutdowns-in-age-of-wonders-planetfall/"><u>Enjoy a Smooth Gaming Experience - Addressing the Recurring PC Shutdowns in Age of Wonders: Planetfall</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-troubleshooting-steps-for-a-non-responsive-keyboard-on-pathfinders-latest-expansion/"><u>Essential Troubleshooting Steps for a Non-Responsive Keyboard on Pathfinder's Latest Expansion</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/from-humble-to-haute-the-art-of-upgraded-animal-accommodations/"><u>From Humble to Haute: The Art of Upgraded Animal Accommodations</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-zoom-meetings-overcoming-stability-problems-in-windows-10-and-11/"><u>How to Ensure Smooth Zoom Meetings: Overcoming Stability Problems in Windows 10 and 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-selective-selection-best-bands-for-ringtones/"><u>In 2024, Selective Selection Best Bands for Ringtones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterclass-resolving-the-ghost-runner-catastrophe-error-in-windows-11-systems/"><u>Masterclass: Resolving the Ghost Runner Catastrophe Error in Windows 11 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-dayz-crashes-solutions-for-a-smooth-gaming-experience/"><u>No More DayZ Crashes - Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-repair-tips-for-a-broken-thaumaturge-on-windowsmacos-systems/"><u>Step-by-Step Repair Tips for a Broken Thaumaturge on Windows/MacOS Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-persistent-crashes-in-horizon-zero-dawn-for-a-seamless-gaming-experience/"><u>Troubleshoot Persistent Crashes in Horizon Zero Dawn for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/tunefabs-top-screen-recorder-picks-for-2024/"><u>Tunefab's Top Screen Recorder Picks for 2024</u></a></li>
+</ul></div>
 

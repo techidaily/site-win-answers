@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: A Step-by-Step Guide to Using the COUNTIF Function"
-date: 2024-08-27T23:57:40.706Z
-updated: 2024-08-28T23:57:40.706Z
+date: 2024-12-03T18:22:13.366Z
+updated: 2024-12-06T18:56:10.880Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
 ---
 
 ## Mastering Excel: A Step-by-Step Guide to Using the COUNTIF Function
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
     
  is one of the most widely used formulas. It counts all cells in a range that matches a single condition or multiple conditions, and it's equally useful in counting cells with numbers and text in them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is the COUNTIF function?
 
         `COUNTIF`
@@ -31,10 +39,9 @@ thumbnail: https://thmb.techidaily.com/a6017269d4c04c5e1e1b5dd34c08e1f92a0a41c1e
  allows users to count the number of cells that meet certain criteria, such as the number of times a part of a word or specific words appears on a list. In the actual formula, you'll tell Excel where it needs to look and what it needs to look for. It counts cells in a range that meets single or multiple conditions, as we'll demonstrate below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use the COUNTIF Formula in Microsoft Excel
 
  For this tutorial, we will use simple two-column inventory chart logging school supplies and their quantities.
@@ -56,20 +63,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![countif formula example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/countif-formula.jpg) 
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also count the number of times a specific number appears by putting the number in the criteria argument without quotes. Or you can use operators with numbers inside of quotes to determine results, like `"<100"` to get a count of all numbers less than 100.
 
 Related: [How to Count Colored Cells in Microsoft Excel](https://facebook-video-recording.techidaily.com/new-2024-approved-the-cryptic-collection-of-2023-auction-for-anonymity-artifacts/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Count the Number of Multiple Values
 
  To count the number of multiple values (e.g. the total of pens and erasers in our inventory chart), you may use the following formula.
@@ -79,13 +79,11 @@ Related: [How to Count Colored Cells in Microsoft Excel](https://facebook-video-
 ![countif multiple example formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/countif-multiple.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This counts the number of erasers and pens. Note, this formula uses COUNTIF twice since there are multiple criteria being used, with one criterion per expression.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  Limitations of the COUNTIF Formula
 
  If your COUNTIF formula uses criteria matched to a string longer than 255 characters, it will return an error. To fix this, use the CONCATENATE function to match strings longer than 255 characters. You can avoid typing out the full function by simply using an ampersand (&), as demonstrated below.
@@ -112,8 +110,6 @@ Related: [How to Use the FREQUENCY Function in Excel](https://digital-screen-rec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +117,20 @@ Related: [How to Use the FREQUENCY Function in Excel](https://digital-screen-rec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-manual-for-minecraft-playbacks-on-mac/"><u>[New] In 2024, The Ultimate Manual for Minecraft Playbacks on Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-civ-6-not-launching-on-windows-10/"><u>[SOLVED] Civ 6 Not Launching on Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-chuckle-away-with-premium-complimentary-meme-templates/"><u>[Updated] In 2024, Chuckle Away with Premium Complimentary Meme Templates</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-14-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 14</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-recurrent-collapses-of-thunder-tier-i-game-on-windows-systems/"><u>Fix Recurrent Collapses of Thunder Tier I Game on Windows Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-challenge-of-lost-arcs-server-connection-error/"><u>Overcoming the Challenge of Lost Arc's Server Connection Error</u></a></li>
+<li><a href="https://win-web3.techidaily.com/resolved-overcoming-the-challenge-with-seagate-discwizard-unreadable-by-drives/"><u>Resolved: Overcoming the Challenge with Seagate DiscWizard - Unreadable by Drives</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-audio-fixes-for-windows-users-overcoming-the-silent-challenge-in-versions-11-and-10/"><u>Roblox Audio Fixes for Windows Users: Overcoming the Silent Challenge in Versions 11 & 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009147445-star-citizen-no-longer-causes-system-crashes-on-windows-fixed/"><u>Star Citizen No Longer Causes System Crashes on Windows - Fixed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/take-preventative-medications-if-you-are-prone-to-recurrent-utis-talk-to-your-doctor-about-the-possibility-of-taking-a-low-dose-of-antibiot5-day-regimen-for447/"><u>Take Preventative Medications: If You Are Prone to Recurrent UTIs, Talk to Your Doctor About the Possibility of Taking a Low Dose of Antibiot#5-Day Regimen for Women with Frequent UTIs and May Be Beneficial in Preventing Future Episodes.</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/technique-to-capture-fb-videos-flawlessly-on-both-systems/"><u>Technique to Capture FB Videos Flawlessly on Both Systems</u></a></li>
+</ul></div>
 

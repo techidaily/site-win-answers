@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Dark Void: Resolving Black Screen Issues in Fortnite on PC"
-date: 2024-11-15T05:32:02.048Z
-updated: 2024-11-16T18:11:46.783Z
+date: 2024-11-29T17:23:03.651Z
+updated: 2024-12-06T18:59:12.353Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -47,30 +51,17 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 2. Scroll through and end each**NVIDIA** task.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4de7be1a0.jpg)
 3. Relaunch Fortnite and see if your Fortnite not loading problem is resolved. If not, try Fix 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
@@ -82,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/79f38eb573cc99e5f54bf7180a8b2f400aa646add
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
@@ -126,6 +114,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea7ba318699.jpg)
 3. Click**Yes** if prompted by User Account Control for confirmation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Test if the problem is resolved. If not, try the next fix.
 
 ---
@@ -163,19 +155,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-applying-luts-in-obs-streaming/"><u>[New] The Ultimate Guide to Applying LUTs in OBS Streaming</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-discovering-the-most-trusted-mac-snipers/"><u>[Updated] 2024 Approved Discovering the Most Trusted Mac Snipers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-recording-made-simple-your-phone-cookbook-for-snapping-stories-for-2024/"><u>[Updated] Recording Made Simple Your Phone' Cookbook for Snapping Stories for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723005130802-destiny-nix-launch-hitches-on-desktops-heres-your-step-by-step-solution/"><u>Destiny Nix Launch Hitches on Desktops? Here's Your Step-by-Step Solution</u></a></li>
-<li><a href="https://win-answers.techidaily.com/end-pc-crashes-in-ark-survival-evolved-with-these-9-proven-remedies-and-adjustments/"><u>End PC Crashes in ARK: Survival Evolved with These 9 Proven Remedies and Adjustments</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-adjust-the-brightness-of-your-xbox-controller-and-console-light/"><u>How to Adjust the Brightness of Your Xbox Controller and Console Light</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-enhance-dota-2-performance-and-prevent-game-crashes-for-a-seamless-experience/"><u>How to Enhance Dota 2 Performance and Prevent Game Crashes for a Seamless Experience</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-realme-11-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Realme 11 5G Phone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-streets-of-horror-fixing-dead-by-daylight-crashes-for-a-smoother-experience/"><u>Master the Streets of Horror: Fixing Dead by Daylight Crashes for a Smoother Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/movavimp3flac/"><u>Movaviで無料オンラインMP3からFLACに変換する手順</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-nvidia-geforce-experience-issue-eliminating-error-0x0003/"><u>Resolving NVIDIA Geforce Experience Issue: Eliminating Error 0X0003</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-synaptic-smbus-driver-problems-in-windows-11-a-step-by-step-guide/"><u>Resolving Synaptic SMBus Driver Problems in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-video-recording-devices-for-professional-streaming-artists-for-2024/"><u>Top 7 Video Recording Devices for Professional Streaming Artists for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-and-restore-your-discord-overlay-in-minutes-learn-how-today/"><u>Troubleshoot and Restore Your Discord Overlay in Minutes - Learn How Today</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-capture-clarity-at-no-cost-top-screen-recorder-for-windows-and-macos/"><u>[New] 2024 Approved Capture Clarity at No Cost - Top Screen Recorder for Windows & MacOS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-essential-info-on-instagrams-video-time-frame-rules/"><u>[New] 2024 Approved Essential Info on Instagram's Video Time Frame Rules</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-your-time-lapse-game-with-essential-gopro-studio-skills/"><u>[New] In 2024, Elevate Your Time-Lapse Game with Essential GoPro Studio Skills</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-path-of-exile-keeps-crashing/"><u>[SOLVED] Path of Exile Keeps Crashing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-benefits-of-tubebuddy-manage-your-youtube-channel-more-easily/"><u>[Updated] The Benefits of TubeBuddy | Manage Your YouTube Channel More Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2022-no-longer-crashing-on-windows-success-stories-and-fixes/"><u>Football Manager 2022 No Longer Crashing on Windows: Success Stories & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-fifa-22-from-crashing-on-pc-solutions-proven-effective/"><u>How to Prevent FIFA 22 From Crashing on PC – Solutions Proven Effective</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-art-of-vintage-video-games-adding-trophies-via-retroarch/"><u>The Art of Vintage Video Games - Adding Trophies via Retroarch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-hitman-3-solutions-for-pc-installation-issues/"><u>Troubleshooting Hitman 3: Solutions for PC Installation Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/turbo-charging-steam-downloads-for-windows-users/"><u>Turbo-Charging Steam Downloads for Windows Users</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-12-miniipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 12 mini/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Overcome Difficulties When Trying To Boot Football Manager 2023"
-date: 2024-11-16T01:59:52.532Z
-updated: 2024-11-16T18:32:57.295Z
+date: 2024-12-01T17:49:35.184Z
+updated: 2024-12-06T16:36:00.817Z
 tags:
   - win11
   - win10
@@ -43,34 +43,21 @@ Take Avast as an example:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not your antivirus software, move to the next fix.
@@ -100,17 +87,14 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -122,14 +106,15 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
 
@@ -166,21 +151,20 @@ If this fix bring no luck, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-reel-in-the-future-top-5-ps-vr-games-on-the-brink-of-launch/"><u>[New] 2024 Approved Reel in the Future Top 5 PS VR Games on The Brink of Launch</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-gifguardian-elite-a-must-have-toolkit-for-twitters-visual-vanguards/"><u>[New] In 2024, GifGuardian Elite A Must-Have Toolkit for Twitter's Visual Vanguards</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-look-at-lg-27uhd68-4k-sync-technology/"><u>[Updated] In-Depth Look at LG 27UHD68, 4K Sync Technology</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-luminouslabs-top-10-free-and-paid-filters-compare/"><u>[Updated] LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/brief-overview-of-the-evolution-of-electric-cars/"><u>Brief Overview of the Evolution of Electric Cars</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-to-ensure-your-overwatch-game-starts-smoothly-every-time/"><u>Expert Advice to Ensure Your Overwatch Game Starts Smoothly Every Time</u></a></li>
-<li><a href="https://win-answers.techidaily.com/grand-theft-auto-v-update-fixes-resolving-the-d3d-graphics-initialization-error-errgfxd3dinit/"><u>Grand Theft Auto V Update Fixes: Resolving the D3D Graphics Initialization Error (ERR_GFX_D3D_INIT)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-error-code-c19001e1-on-windows-10-a-comprehensive-guide/"><u>How to Resolve 'Error Code C19001e1' On Windows 10 - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-dji-airborne-collection-basic-kit-elite-series-4k-masterclass/"><u>In 2024, DJI Airborne Collection Basic Kit, Elite Series, 4K Masterclass</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-data-recovery-without-backup-a-complete-guide/"><u>Iphone Data Recovery Without Backup: A Complete Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/no-more-waiting-solve-the-persistent-loading-issue-on-watch-dogs-legion-today/"><u>No More Waiting: Solve the Persistent Loading Issue on Watch Dogs: Legion Today</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-new-face-of-sony-updates-to-s6500-blu-rayhd-player-for-2024/"><u>The New Face of Sony Updates to S6500 Blu-Ray/HD Player for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-call-of-duty-black-ops-cold-war-pc-stability-for-2cuarters/"><u>Troubleshooting Guide: Call of Duty Black Ops Cold War PC Stability for 2Cuarters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-with-sons-of-the-forest-step-by-step-solutions/"><u>Troubleshooting PC Issues with 'Sons of the Forest' - Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/untangling-steam-freezing-problems-for-smooth-gaming-sessions/"><u>Untangling Steam Freezing Problems for Smooth Gaming Sessions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pure-harmony-for-win-software/"><u>[New] In 2024, Pure Harmony for WIN Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-adding-audio-storytelling-to-video-content/"><u>[New] The Art of Adding Audio Storytelling to Video Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029909586-wav3/"><u>「圧縮技術によるWAVファイルのサイズ削減手順トップ3」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44ot44oh44kq5yaf5a6544gu6zplusz5aow5ps55zae5pa55rov44ks5a2m44g2ic0g44ki44oj44oq44kk44k544ks44kk44oj44cn/"><u>「ビデオ内容の音声改善方法を学ぶ - アドバイスガイド」</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-avatar-assembly-the-no-frills-guide-to-virtual-realms/"><u>2024 Approved Avatar Assembly The No-Frills Guide to Virtual Realms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029752822-mov/"><u>高品質MOV動画で静かに楽しむための音量調整テクニック</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028698222-dvrmp4/"><u>DVRビデオファイルをMP4形式で簡単に変換する手順</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-black-friday-offer-secure-lenovos-top-of-the-line-thinkpad-x1-extreme-gen-4-for-just-half-the-price-shop-smart-with-zdnet/"><u>Exclusive Black Friday Offer: Secure Lenovo's Top-of-the-Line ThinkPad X1 Extreme Gen 4 for Just Half the Price | Shop Smart with ZDNET</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029871244-mp3/"><u>MP3への変換ガイド: ニコニコ動画から高音質オーディオ素材取得</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029591951-pc-iphone-and-android/"><u>PC, iPhone & Androidで動画画像サイズ調整手順</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/the-art-of-audio-conjunction-preparing-sounds-for-video-production-for-2024/"><u>The Art of Audio Conjunction Preparing Sounds for Video Production for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-downside-why-you-should-think-twice-about-adding-generative-ai-to-your-chat-application/"><u>The Downside: Why You Should Think Twice About Adding Generative AI to Your Chat Application</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-path-to-youtube-stardom-utilizing-sony-vegas-for-professional-cuts-for-2024/"><u>The Path to YouTube Stardom Utilizing Sony Vegas for Professional Cuts for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-chatbots-building-with-create-a-gpt-techniques/"><u>Transformative ChatBots: Building with Create a GPT Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030650476-7/"><u>フリーで優れた動画ダウンロードツール!ブラウザから簡単に選ぶべきサイト: おすすめベスト7ピック</u></a></li>
 </ul></div>
 

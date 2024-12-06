@@ -1,7 +1,7 @@
 ---
 title: Efficiently Segment Your Data Into Various Columns Using Microsoft Excel
-date: 2024-08-27T23:56:40.633Z
-updated: 2024-08-28T23:56:40.633Z
+date: 2024-11-30T18:29:09.815Z
+updated: 2024-12-06T16:41:35.587Z
 tags:
   - excel
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ## Efficiently Segment Your Data Into Various Columns Using Microsoft Excel
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Use "Text to Columns" in Excel](https://fox-info.techidaily.com/best-zero-fee-technique-for-pixel-perfection-for-2024/)
 * [How to Use "Flash Fill" in Excel](https://screen-mirroring-recording.techidaily.com/updated-field-fusion-top-10-agrarian-adventure-titles-for-2024/)
 
  If you start an Excel workbook by grouping data into the same cell and later decide to ungroup it, Excel has several easy functions that can split one spreadsheet column into two. Here's how to use both "Text to Columns" and "Flash Fill."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use "Text to Columns" in Excel
 
@@ -51,9 +59,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![destination box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/click-destination.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use "Flash Fill" in Excel
 
  If you only have a few names, and you don't want to mess with the Text to Columns Wizard, you can use Flash Fill instead. This, in essence, is a smarter way to copy and paste the data into new cells.
@@ -63,8 +71,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![add first name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/first-name.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hit "Enter" on the keyboard to move to the next cell down. From the "Home" tab on the ribbon, click "Editing" and then "Flash Fill."
 
  Alternatively, you can press Ctrl+E on your keyboard.
@@ -73,16 +82,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![flash fill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/home-editing-flash.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Second, click inside the first cell of the Last column and type in the last name of the appropriate person, and hit "Enter" on the keyboard.
 
 ![last](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/last.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  From the "Home" tab, click "Editing" and then "Flash Fill." Or, use the Ctrl + E keyboard shortcut.
 
  Once again, Flash Fill will attempt to figure out the data you want to fill into the column.
@@ -90,8 +93,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![flash fill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/home-editing-flash.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If Flash Fill doesn't work properly, there's always Undo (Ctrl+Z).
 
 <ins class="adsbygoogle"
@@ -100,8 +104,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +111,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlocking-the-potential-of-instagrams-filters-a-modern-guide-2e23/"><u>[New] 2024 Approved Unlocking the Potential of Instagram's Filters - A Modern Guide (2E23)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-freeaudvault-review-unveiling-the-full-potential-of-2024/"><u>[New] FreeAudVault Review Unveiling the Full Potential of 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-picks-affordable-high-quality-4k-home-theatres/"><u>2024 Approved Top Picks Affordable, High Quality 4K Home Theatres</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-academics-by-leveraging-chatgpt-as-a-professional-notetaker/"><u>Ace Your Academics by Leveraging ChatGPT as a Professional Notetaker</u></a></li>
+<li><a href="https://win-answers.techidaily.com/common-fixes-for-when-gta-v-just-wont-start/"><u>Common Fixes for When GTA V Just Won’t Start</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-artificial-intelligence-for-beginners/"><u>Decoding Artificial Intelligence for Beginners</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-quickly-fix-directx-problems-in-your-game-of-battlefield-2042/"><u>How to Quickly Fix DirectX Problems in Your Game of Battlefield 2042</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-resolve-your-bluetooth-connectivity-problems-in-windows-10-ultimate-fixes/"><u>How to Resolve Your Bluetooth Connectivity Problems in Windows 10 - Ultimate Fixes</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oppo-a18-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Oppo A18 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-moto-g04-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Moto G04 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improved-gaming-experience-on-cyberpunk-2077-with-higher-fps-fixes/"><u>Improved Gaming Experience on Cyberpunk 2077 with Higher FPS Fixes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-embedded-epicness-galaxy-games-chronicle/"><u>In 2024, Embedded Epicness Galaxy Games Chronicle</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-windows-10-hurdles-with-these-fixes-for-steam-games-that-wont-start/"><u>Overcome Windows 10 Hurdles with These Fixes for Steam Games That Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/recent-updates-overcoming-starting-issues-with-hogwarts-legacy-a-guide-players/"><u>Recent Updates: Overcoming Starting Issues With 'Hogwarts Legacy' - A Guide Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-visual-glitches-updating-your-graphics-driver-for-forza-horizon-5/"><u>Solving Visual Glitches: Updating Your Graphics Driver for Forza Horizon 5</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-crashes-in-necromunda-the-hired-gun-game/"><u>Troubleshooting PC Crashes in Necromunda: The Hired Gun Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-how-to-stop-oxygen-not-included-from-crashing/"><u>Troubleshooting Tips: How to Stop 'Oxygen Not Included' From Crashing</u></a></li>
+</ul></div>
 

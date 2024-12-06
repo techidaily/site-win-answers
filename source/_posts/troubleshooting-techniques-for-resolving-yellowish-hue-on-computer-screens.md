@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for Resolving Yellowish Hue on Computer Screens
-date: 2024-08-27T23:54:30.313Z
-updated: 2024-08-28T23:54:30.313Z
+date: 2024-12-04T18:58:58.812Z
+updated: 2024-12-06T19:03:08.442Z
 tags:
   - windows
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  If your laptop screen has taken on a yellowish tint, the Night Light feature could be enabled. The issue could also stem from a loosely connected display cable, corrupted graphics drivers, or misconfigured monitor settings. Here are some troubleshooting steps you can try to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Disable the Night Light
 
  The [Night Light feature](https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-14-plus-apple-id-on-macbook-by-drfone-ios/) is designed to reduce the blue tone of your monitor, giving the screen a warmer appearance, but it makes the screen appear yellowish. If you've adjusted your display settings and noticed a yellow tint afterward, this feature has likely been enabled. To check if this is the case, right-click on the Start button and select "Settings."
@@ -42,15 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Turning off the night light in Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-turning-off-the-night-light-in-windows-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Ensure the Cable Connection Isn't Loose
 
  The display cable transmits video signals from the video card to the monitor. These signals can be analog or digital, depending on the type of cable and the devices involved. If the cable is not securely plugged in at either end, it can lead to poor connection quality, which might present problems like a yellow tint on the screen.
@@ -62,9 +53,9 @@ No advertising on the website.
 _[Alexander\_Evgenyevich/Shutterstock.com](https://www.shutterstock.com/image-photo/protected-hdmi-cable-connected-monitor-728531827)_
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Reset the Monitor Settings
 
  If you've [manually tweaked the monitor settings](https://win-answers.techidaily.com/effortless-ways-to-stop-your-deathloop-from-freezing-and-crashing-on-your-pc-detailed-steps-inside/) by pressing the monitor buttons, ensure that you haven't misconfigured its display settings. To rule out this possibility, you should reset the monitor settings to their default values. The process for doing this can vary depending on the manufacturer of your monitor.
@@ -72,6 +63,10 @@ _[Alexander\_Evgenyevich/Shutterstock.com](https://www.shutterstock.com/image-ph
  Generally, you'll need to press one of the navigation buttons to open the Settings menu. From there, using the navigation arrows, locate the option to factory reset the monitor. For example, on a Dell monitor, you may find this option under the Others settings menu.
 
  If you can't find it, refer to the manufacturer's website for instructions on resetting your specific monitor model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Make Sure the GPU Is Properly Plugged In
 
@@ -82,6 +77,10 @@ _[Alexander\_Evgenyevich/Shutterstock.com](https://www.shutterstock.com/image-ph
 Justin Duino / How-To Geek
 
  Also, if the power connector supplying power to the GPU is loosely connected, it can lead to inconsistent power output and cause display problems. To rule out this possibility, disconnect the connector from both the GPU and PSU, clean the socket where the power connector goes in, and then reconnect the connector securely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Check for App-Specific Issues
 
@@ -95,36 +94,36 @@ Justin Duino / How-To Geek
 
 ![Opening the advanced display settings in the Windows settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-opening-the-advanced-display-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, click on "Display Adapter Properties for Display 1 (or 2)," go to the "Color Management" tab, and click on the "Color Management" button.
 
 ![Opening the color management settings in the display settings of Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-opening-the-color-management-settings-in-the-display-settings-of-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the next window, select the correct display from the drop-down menu next to Device. Then, click on the "Add" button, choose the "sRGB" profile from the ICC profiles list, and click "OK."
 
 ![Adding a new color profile in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-adding-a-new-color-profile-in-the-color-management-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After that, select the newly added profile and click on the "Set as Default Profile" button. Close all windows, restart your device, and check if the yellow tint issue has been resolved.
 
 ![Making a newly created color profile default in the color management settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-making-a-newly-created-color-profile-default-in-the-color-management-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Calibrate the Display Color
 
  If none of the above-mentioned solutions fix the issue, you may need to calibrate the display color. Calibration fine-tunes your display to known color reference standards, which can help eliminate color irregularities such as the yellow tint. To calibrate the display, type "Color Management" into Windows Search and open the "Color Management" window.
 
 ![Opening the setting to calibrate display settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-opening-the-setting-to-calibrate-display-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  Then, navigate to the "Advanced" tab and click on the "Calibrate Display" button. Follow the on-screen instructions in the Display Color Calibration window to calibrate the display.
 
 ##  Reinstall the Graphics Card Driver
@@ -151,8 +150,6 @@ Justin Duino / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +157,20 @@ Justin Duino / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-freecam-x-live-streaming-software-reviewed/"><u>[New] FreeCam X Live Streaming Software Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-cameras-for-your-first-foray-into-filmmaking/"><u>[Updated] Cutting-Edge Cameras for Your First Foray Into Filmmaking</u></a></li>
+<li><a href="https://media-tips.techidaily.com/get-ready-the-unified-disneyplus-and-hulu-platform-is-nearly-available-for-subscription/"><u>Get Ready! The Unified Disney+ and Hulu Platform Is Nearly Available for Subscription.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-regain-access-when-you-cant-connect-to-blizzard-servers-anymore/"><u>How to Regain Access When You Can't Connect to Blizzard Servers Anymore</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-visionary-to-victory-channel-command-school/"><u>In 2024, From Visionary to Victory Channel Command School</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-smart-8-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Smart 8 Devices</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-master-the-art-of-tiktok-tidying-up-smart-strategies-for-oversized-drafts/"><u>In 2024, Master the Art of TikTok Tidying Up Smart Strategies for Oversized Drafts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-asus-rog-phone-7-ultimate-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Asus ROG Phone 7 Ultimate Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterful-tweaks-to-overcome-low-fps-and-interruptions-in-splitgate/"><u>Masterful Tweaks to Overcome Low FPS & Interruptions in Splitgate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-silence-expert-guide-to-restoring-audio-in-fallout-4/"><u>Solving the Silence: Expert Guide to Restoring Audio in Fallout 4</u></a></li>
+<li><a href="https://win11.techidaily.com/superior-vmms-aligned-with-windows-11-gaming-and-productivity/"><u>Superior VMMs Aligned with Windows 11 Gaming and Productivity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/swtor-launch-woes-heres-how-you-can-easily-solve-them/"><u>SWTOR Launch Woes? Here's How You Can Easily Solve Them!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-for-when-assassins-creed-rogue-wont-start-top-tips-of-2024/"><u>Troubleshooting Guide for When Assassin's Creed Rogue Won't Start - Top Tips of 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Lenovo IdeaPad 3 15-Inch (I7, GTX 1660 Ti) - In-Depth Analysis of an Affordable Powerhouse for Gamers
-date: 2024-08-27T23:55:14.165Z
-updated: 2024-08-28T23:55:14.165Z
+date: 2024-11-30T18:11:41.565Z
+updated: 2024-12-06T17:23:24.458Z
 tags:
   - windows
 categories:
@@ -43,6 +43,10 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 [$499.99 at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price and Availability** 
 
@@ -104,13 +108,14 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Hardware: Conservative and Heavy** 
 
 ![Lenovo LOQ 15IAX9I closed next to its charger on a desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-with-the-charger_53589684049_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  For a gaming laptop, the LOQ 15IAX9I has surprisingly conservative looks. Outside of some dramatic angles on the rear edges of the unit, it could easily pass for your average business laptop.
@@ -120,6 +125,10 @@ Jerome Thomas / How-To Geek
  The 12th Gen Intel Core i5-12450HX processor is an early 2022 part and is a performer for this system class. The 12GB of RAM is an interesting compromise for hitting the laptop's price point, as it's much better than the 8GB minimum you really need for Windows 11 but less than the more ideal 16GB that allows for more robust multitasking.
 
  The 500GB SSD for storage is plenty for a standard productivity machine, but for a modern gaming laptop like this installing major PC releases, it's a bit anemic. If you want to install, say, "Destiny 2" and "Call of Duty: Modern Warfare," you're already talking over 300GB of space gone just for those two games alone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **I/O: Diverse Port Selection and Complete Keyboard** 
 
@@ -131,9 +140,6 @@ Jerome Thomas / How-To Geek
 
 ![The ports on the right side of the Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-ports-on-the-right-side-of-the-lenovo-loq-15iax9i_53589683994_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The right side of the laptop features a multi-purpose USB Type-C connector, a camera switch that can physically disable the built-in webcam, a combo 3.5mm audio jack, and another USB 3.2 Gen 1 Type-A connector. Overall, there are not a lot of ports in comparison to some other laptops of this size, but it does feature just about everything most users would typically need.
@@ -148,16 +154,10 @@ Jerome Thomas / How-To Geek
 
  The power button turns on or puts the laptop to sleep, but it also has an LED ring to indicate operating mode. Blue is a low-performance quiet mode, red is performance mode, white is a balance between the two, and purple is for a custom mode should you want to set your own parameters. Naturally, the Red performance mode uses the most power, has the most fan noise, and drains the battery the fastest, so it's best to leave the laptop plugged in when using this more game-centric setting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## **Sights and Sounds: Optimized for Gaming** 
 
 ![Direct view of the Lenovo LOQ 15IAX9I display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-homescreen-of-the-lenovo-loq-15iax9i-2_53589365651_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  The 15.6-inch 1,920 x 1,080 resolution IPS display has good clarity, brightness (350 nits), and color, with only slight dimming when viewed off-angle. The fast 144Hz refresh rate is a nice bonus for smoother gaming. HDR video streaming is supported, but there's no HDR support for anything else.
@@ -170,13 +170,14 @@ Jerome Thomas / How-To Geek
 
  The built-in FHD webcam and microphone both do serviceable jobs in terms of clarity. Windows Hello facial recognition is not supported, and there's no fingerprint reader either, so for login and general security purposes, you're left typing in a PIN code.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Games, Benchmarks, and Overall Performance: Full HD or Bust** 
 
 ![Angled view of the opened and powered on Lenovo LOQ 15IAX9I](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/06/the-lenovo-loq-15iax9i-powered-on-2_53589684004_o.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 Jerome Thomas / How-To Geek
 
  While 1,920 x 1,080 is merely adequate for productivity purposes, it's actually a good resolution for gaming. It's a common gaming resolution that allows for solid frame rates on even modest hardware. Thanks to its reliance on Intel ARC A530M graphics, this "modest hardware" tag also applies to the LOQ 15IAX9I and its relatively pedestrian gaming capabilities.
@@ -194,8 +195,9 @@ Jerome Thomas / How-To Geek
  Lenovo estimates battery life of up to seven hours using the quiet mode, dimmed screen, and light usage, like simple web browsing or using Microsoft Office apps like Word and Excel. [Procyon](https://benchmarks.ul.com/procyon/office-productivity-benchmark), which is a productivity benchmarking tool, puts the estimated battery life at a more realistic two hours and 50 minutes with a bright screen and balanced performance mode. As expected, this is not the type of laptop you'd get if you want all-day battery life. Fortunately, with such a robust AC adapter included, the LOQ 15IAX9I can charge relatively quickly.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Should You Buy the Lenovo LOQ 15IAX9I?** 
 
  The [Lenovo LOQ 15IAX9I](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Flenovo-loq-15-6-144hz-gaming-laptop-fhd-intel-12th-gen-core-i5-with-12gb-memory-intel-arc-a530m-512gb-ssd-luna-grey%2F6573727.p%3FskuId%3D6573727) gaming laptop is not going to win any awards for its build quality or performance, but considering its sub-$750 retail price, often on sale, it has surprisingly few notable concessions in its overall design. It has a good keyboard, a nice display, and, if you stick to its native HD resolution, enjoyable gaming performance. If you have a limited budget and are looking for a gaming laptop that gets the basics right, it's hard to go wrong with the LOQ 15IAX9I.
@@ -218,8 +220,6 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +227,24 @@ A Windows 11 gaming laptop with a 15.6-inch HD display that prioritizes your bud
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-export-ppt-as-animated-film/"><u>[New] In 2024, Export PPT as Animated Film</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-seamless-tiktok-tweets-the-2023-pathway/"><u>[New] Seamless TikTok Tweets The 2023 Pathway</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-naraka-bladepoint-crashing/"><u>[SOLVED] Naraka: Bladepoint Crashing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-for-the-curious-young-and-novice-pilot-the-10-best-drones/"><u>[Updated] For the Curious Young and Novice Pilot - The 10 Best Drones</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-content-creation-video-and-photo-synergy/"><u>[Updated] Master Content Creation Video & Photo Synergy</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comment-sauvegarder-vos-donnees-lors-du-reformatage-de-windows-10-ou-windows-11/"><u>Comment Sauvegarder Vos Données Lors Du Reformatage De Windows 10 Ou Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977831507-download-the-microsoft-wireless-mouse-5000-driver-easily-today/"><u>Download the Microsoft Wireless Mouse 5000 Driver Easily Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensure-the-anagram-does-not-exceed-12-characters-and-retains-at-least-one-character-from-the-original-proper-noun-in-its-original-position-within-the-word-e563/"><u>Ensure the Anagram Does Not Exceed 12 Characters and Retains at Least One Character From the Original Proper Noun in Its Original Position Within the Word (E.g., 'R' Remains as the Second Letter).</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-and-optimizing-call-of-duty-mw3-when-it-wont-start-a-comprehensive-guide/"><u>Expert Tips for Fixing and Optimizing 'Call of Duty: MW3' When It Won't Start - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-your-game-solving-war-thunders-constant-crashing-issues/"><u>How to Stop Your Game: Solving War Thunder's Constant Crashing Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722986972257-how-to-troubleshoot-when-call-of-duty-black-ops-4-wont-load-solutions-uncovered/"><u>How to Troubleshoot When Call of Duty: Black Ops 4 Won't Load - Solutions Uncovered</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-50-top-tier-virtual-bgms-for-zoomgoogle/"><u>In 2024, 50 Top-Tier Virtual BGMs for Zoom/Google</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-huawei-frp-bypass-by-drfone-android/"><u>In 2024, About Huawei FRP Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-mass-effect-trilogy-crashes-on-pc-and-xbox/"><u>Solving the Mystery of Mass Effect Trilogy Crashes on PC and Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-silent-pc-issues-in-minecraft-a-step-by-step-guide/"><u>Troubleshooting Silent PC Issues in Minecraft: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-to-avoid-interruptions-in-playing-metro-exodus-pc-upgrade/"><u>Troubleshooting Tips to Avoid Interruptions in Playing Metro Exodus PC Upgrade</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unpacking-techniques-for-facebook-live-embedding-for-2024/"><u>Unpacking Techniques for Facebook Live Embedding for 2024</u></a></li>
+</ul></div>
 

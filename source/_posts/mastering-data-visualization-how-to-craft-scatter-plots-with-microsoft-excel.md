@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Visualization: How To Craft Scatter Plots with Microsoft Excel"
-date: 2024-08-27T23:56:52.087Z
-updated: 2024-08-28T23:56:52.087Z
+date: 2024-12-02T17:32:15.104Z
+updated: 2024-12-06T17:11:20.910Z
 tags:
   - excel
 categories:
@@ -22,9 +22,6 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 
  A scatter plot, sometimes referred to as a scatter chart or XY chart, compares the relationship between two different data sets. This makes it easier to visualize two sets of values in your [Excel spreadsheet](https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a54-5g-by-drfone-android/). Here's how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Create a Scatter Plot
 
  To create a scatter plot, [open your Excel spreadsheet](https://ai-vdieo-software.techidaily.com/updated-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/) that contains the two data sets, and then highlight the data you want to add to the scatter plot.
@@ -32,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 ![Highlighted plot data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Highlighted-plot-data..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once highlighted, go to the "Insert" tab and then click the "Insert Scatter (X, Y) or Bubble Chart" in the "Charts" group. A drop-down menu will appear. Here, select the scatter plot style you'd like to use.
 
 ![Select a scatter plot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Select-a-scatter-plot..png) 
@@ -42,9 +40,17 @@ thumbnail: https://thmb.techidaily.com/acf5d83720813eafd1cf11dcdf7186bac5b4ef33c
 
 ![A scatter plot in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/A-scatter-plot-in-Excel..png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The data from our Value 1 column appears on the x-axis, and Value 2 on the y-axis.
 
 Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Format Your Scatter Plot
 
@@ -52,16 +58,14 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 
 ![The Chart Design and Format tabs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/The-Chart-Design-and-Format-tabs..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Chart Design tab, you'll find options to let you change the chart layout and style, switch the row and column of data, and completely change [the chart type](https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-xiaomi-13t-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/) if you happened to choose the wrong one initially. For example, if you want to change the chart style to a predefined style, select a style you like in the "Chart Styles" group.
 
 ![Change the chart style.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Change-the-chart-style..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once selected, the change will happen automatically.
 
 ![The chart after changing the design.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/The-chart-after-changing-the-design..png) 
@@ -74,16 +78,14 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 
 ![Apply a glow effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Apply-a-glow-effect..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The effect will be applied once selected.
 
 ![A chart with the glow effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/A-chart-with-the-glow-effect..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That's all there is to it. Keep tweaking the formatting options until you have a chart that fits your overall style.
 
 Related: [How to Create a Chart Template in Microsoft Excel](https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-itel-p40plus-frp-by-drfone-android/)
@@ -94,8 +96,6 @@ Related: [How to Create a Chart Template in Microsoft Excel](https://bypass-frp.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +103,24 @@ Related: [How to Create a Chart Template in Microsoft Excel](https://bypass-frp.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/avatar-frontiers-of-pandora-wont-open-here-are-proven-fixes/"><u>'Avatar: Frontiers of Pandora' Won't Open? Here Are Proven Fixes!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/outube-tvs-not-to-miss-factors-in-signing-up-for-2024/"><u>[New] YouTube TV's Not-to-Miss Factors in Signing Up for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-excellent-zooid-formats-for-creation/"><u>[Updated] 2024 Approved Excellent Zooid Formats for Creation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-charting-the-evolution-of-windows-movie-maker/"><u>[Updated] Charting the Evolution of Windows Movie Maker</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-determining-vertical-or-horizontal-video-posts-on-fb/"><u>[Updated] Determining Vertical or Horizontal Video Posts on FB</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-8-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 8 screen turns black? | Stellar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diy-repair-guide-resolving-issues-for-a-seamless-mw3-gaming-session/"><u>DIY Repair Guide: Resolving Issues for a Seamless MW3 Gaming Session</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hassle-free-methods-to-correct-discord-installation-errors-on-your-device/"><u>Hassle-Free Methods to Correct Discord Installation Errors on Your Device</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideport0-error-signal-detected/"><u>Ideport0 Error Signal Detected</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ntaneous-video-downloader-selection-guide/"><u>Instantaneous Video Downloader Selection Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-pc-settings-to-eliminate-frame-drops-and-enhance-gameplay-in-sifu/"><u>Mastering PC Settings to Eliminate Frame Drops and Enhance Gameplay in 'Sifu'</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/maximizing-your-creations-uploading-imovie-videos-to-youtube-for-2024/"><u>Maximizing Your Creations Uploading IMovie Videos to YouTube for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-startup-failures-in-stardew-valley-a-complete-fix-tutorial/"><u>Overcoming Startup Failures in Stardew Valley - A Complete Fix Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-addressing-input-delay-in-cyberpunk-2077/"><u>Resolved: Addressing Input Delay in Cyberpunk 2077</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-instagram-stardom-crafting-attractive-unboxing-videos-for-2024/"><u>Unlock Instagram Stardom Crafting Attractive Unboxing Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-behind-the-postponed-launch-of-assassins-creed-valhalla/"><u>Unveiling the Truth Behind the Postponed Launch of Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-11-and-10-troubleshooting-top-tips-for-solving-zoom-crashes/"><u>Windows 11 & 10 Troubleshooting: Top Tips for Solving Zoom Crashes</u></a></li>
+</ul></div>
 

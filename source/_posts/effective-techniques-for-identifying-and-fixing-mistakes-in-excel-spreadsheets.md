@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Identifying and Fixing Mistakes in Excel Spreadsheets
-date: 2024-08-27T23:56:37.516Z
-updated: 2024-08-28T23:56:37.516Z
+date: 2024-11-30T16:12:53.218Z
+updated: 2024-12-06T18:05:33.180Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Effective Techniques for Identifying and Fixing Mistakes in Excel Spreadsheets
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,9 +34,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Click Format Cells That Contain](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatCellsContain-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the bottom, pick "Blanks" in the Format Only Cells With drop-down box. Then, click "Format" to the right of the preview to select how to format the blank cells.
 
 ![Select Blank and click Format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatCellsContainBlanks-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Format Cells window, use the tabs at the top for Font, Border, and Fill to choose your formatting. Click "OK." For our example, we'll use Fill to color our blank cells bright yellow.
 
@@ -46,11 +58,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Conditional formatting for blank cells in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingBlankYellow-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-savvy.techidaily.com/1723808302722-effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ##  How to Automatically Highlight Errors in Excel
 
  Even though Microsoft Excel does a decent job of shouting errors out to you, they might not be noticeable if you have a large sheet to scroll through. To make sure that you see the errors quickly, conditional formatting can save the day.
@@ -64,22 +77,17 @@ Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-sa
 ![Select Errors](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatCellsContainErrors-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, click "Format" to choose the formatting. For this example, adjust the Font options to make the cells with errors bold and red. Click "OK" after you pick the formatting and "OK" again to apply the rule.
 
 ![Confirm and click OK](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/FormatCellsContainErrorsFontApply-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, those errors pop off the screen!
 
 ![Conditional formatting for errors in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/06/ConditionalFormattingErrorRed-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can use this type of formatting in Microsoft Excel to do many other things as well. Check out how to [use conditional formatting to highlight a row](https://facebook-video-share.techidaily.com/updated-in-depth-asmr-video-insights/) based on content or how to [create a progress bar in Excel](https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-saving-instagrams-trending-videos/).
 
 <ins class="adsbygoogle"
@@ -88,8 +96,6 @@ Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-sa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +103,26 @@ Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-sa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-insightful-analysis-the-dji-inspire-2-story/"><u>[New] Insightful Analysis - The DJI Inspire 2 Story</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uick-share-your-youtube-playlist-journey/"><u>[New] Quick Share Your YouTube Playlist Journey</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-complete-scan-of-lg-360-modern-updates-review/"><u>[Updated] The Complete Scan of LG 360 Modern Updates Review</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-renaissance-discover-how-gpts-new-features-elevate-us/"><u>AI Renaissance: Discover How GPT’s New Features Elevate Us</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001874277-chrome-lag-solved-boost-browsing-speeds-in-minutes/"><u>Chrome Lag Solved: Boost Browsing Speeds in Minutes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/euro-truck-simulator-2-essential-fixes-for-preventing-pc-crashes/"><u>Euro Truck Simulator 2 - Essential Fixes for Preventing PC Crashes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-take-on-the-oneplus-8t-swift-execution-overshadowed-by-mediocre-photography-features/"><u>Expert Take on the OnePlus 8T: Swift Execution Overshadowed by Mediocre Photography Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-continuous-minecraft-crashes-in-just-six-easy-steps/"><u>Fix Continuous Minecraft Crashes in Just Six Easy Steps</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-add-music-to-instagram-reel-for-2024/"><u>How to Add Music to Instagram Reel for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-and-prevent-the-errgfxstate-graphic-anomaly-in-your-red-dead-redemption-2-game/"><u>How to Fix and Prevent the ERR_GFX_STATE Graphic Anomaly in Your Red Dead Redemption 2 Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722994137869-how-to-resolve-forza-horizon-4-launch-issues-expert-tips-and-tricks/"><u>How to Resolve Forza Horizon 4 Launch Issues : Expert Tips & Tricks</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-k70e-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi K70E Phone without Any Data Loss</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-instructions-grid-view-activation-in-google-meet/"><u>In 2024, Instructions Grid View Activation in Google Meet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-for-stabilizing-adobe-premiere-pro-on-windows-1110-systems/"><u>Solution Guide for Stabilizing Adobe Premiere Pro on Windows 11/10 Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-handling-the-fatal-error-when-loading-steamuidll-on-steam-platform/"><u>Solution Guide: Handling the Fatal Error When Loading 'steamui.dll' On Steam Platform</u></a></li>
+<li><a href="https://some-skills.techidaily.com/thrifty-shoppers-guide-to-cameras-for-2024/"><u>Thrifty Shopper's Guide to Cameras for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-in-depth-analysis-of-latest-hardware-t17239718757233/"><u>Tom's Tech Review: In-Depth Analysis of Latest Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steams-remote-play-issues-easy-solutions-inside/"><u>Troubleshooting Steam's Remote Play Issues - Easy Solutions Inside</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-correcting-steamvr-hitch-308-issues/"><u>Troubleshooting Techniques for Correcting SteamVR Hitch 308 Issues</u></a></li>
+</ul></div>
 

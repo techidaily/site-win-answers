@@ -1,7 +1,7 @@
 ---
 title: Unlocking Advanced Features with Function Keys in Microsoft Excel - Everything You Need to Know
-date: 2024-08-27T23:58:06.342Z
-updated: 2024-08-28T23:58:06.342Z
+date: 2024-11-29T19:03:16.485Z
+updated: 2024-12-06T17:54:17.810Z
 tags:
   - excel
 categories:
@@ -37,14 +37,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Alt+Shift+F1:** Create a new worksheet.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  F2
 
 * **F2:** Turn on editing in the cell and places your insertion point at the end of the cell's data. If editing is disabled for a cell, this combo moves your insertion point into the formula bar instead.
 * **Ctrl+F2:** Open the Print window, where you can preview and print your document.
 * **Shift+F2:** Allow you to insert or edit comments on selected cells.
 * **Alt+Shift+F2:** Save the current workbook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  F3
 
@@ -53,9 +58,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Shift+F3:** Open function insert dialog box.
 * ****Ctrl+Shift+F3:** Open the Create Names From Selection window, which lets you create new names using selected rows and columns.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ##  F4
 
 * **F4:** Repeat your last action. If you have a cell reference or range selected when you hit F4, Excel cycles through available references.
@@ -64,9 +66,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Ctrl+F4:** Close the current workbook. You'll be asked to save the document if you've made any changes.
 * **Alt+F4:** Quit Microsoft Excel. This closes all open workbooks (giving you the chance to save changes first) and exits the program.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  F5
 
 * **F5:** Open the Go To window where you can jump to a named range or address.
@@ -81,21 +80,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Ctrl+Shift+F6:** Switch to the previous workbook window when you have more than one workbook window open.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  F7
 
 * **F7:** Perform spell check in the selected range.
 * **Shift + F7:** Open the thesaurus. If you have a word selected when you press this combo, Excel opens the thesaurus and looks up the selected word.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  F8
 
 * **F8:** Turn the extend selection mode on and off. While in this mode, you can use your arrow keys to extend or reduce the current selection of cells.
 * **Shift+F8: Turn the** "Add to Selection" mode on and off. While in this mode you can use arrow keys or your mouse to add non-adjacent cells to your currently selected cells.
 * **Alt+F8:** Display the Macros dialog box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  F9
 
@@ -112,21 +113,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 * **Alt+F10:** Maximize the program window.
 * **Alt+Shift+F10:** Display the menu or message for a smart tag. If more than one smart tag is present, this combo switches to the next smart tag and displays its menu or message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ##  F11
 
 * **F11:** Create a chart of selected data in a separate chart sheet.
 * **Shift+F11:** Create a new worksheet.
 * **Alt+F11:** Switch between the Visual Basic Editor and the active workbook.
 * **Alt+Shift+F11:** Open the Microsoft Script Editor.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  F12
 
@@ -141,8 +137,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +144,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-mastering-googles-audio-to-text-translations-a-comprehensible-guide/"><u>[New] In 2024, Mastering Google's Audio to Text Translations A Comprehensible Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-guide-to-screenshot-and-record-mastery-on-mi-11-for-2024/"><u>[Updated] The Ultimate Guide to Screenshot & Record Mastery on Mi 11 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-utilizing-telegram-web-services/"><u>2024 Approved Comprehensive Guide to Utilizing Telegram Web Services</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-novice-to-pro-with-kinemaster-essentials-techniques-and-top-digital-counterparts/"><u>2024 Approved From Novice to Pro with KineMaster Essentials, Techniques & Top Digital Counterparts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ambient-weather-ws-1002-wifi-thermometer-is-top-notch-accuracy-worth-the-price-tag/"><u>Ambient Weather WS-1002 WiFi Thermometer: Is Top-Notch Accuracy Worth the Price Tag?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-remedies-for-continuous-freezing-in-god-of-war-game-on-pc/"><u>Effective Remedies for Continuous Freezing in God of War Game on PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevating-video-marketing-understanding-keywords-on-platforms-like-youtube/"><u>Elevating Video Marketing Understanding Keywords on Platforms Like YouTube</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-c67-4g-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme C67 4G Is Unlocked</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211323124-9798990055957-how-to-feel-like-yourself-again/"><u>How To Feel Like Yourself Again | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-battlefield-5-crash-issues-for-a-seamless-gaming-experience/"><u>How to Fix Battlefield 5 Crash Issues for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-deathloop-crashing-on-pc-easy-steps/"><u>How to Fix Deathloop Crashing on PC [Easy Steps]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mobile-mastery-best-apps-for-photo-enhancing-features-for-2024/"><u>Mobile Mastery Best Apps for Photo-Enhancing Features for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-among-us-persistent-loading-issue/"><u>Resolved: How to Fix 'Among Us' Persistent Loading Issue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-the-dreaded-cod-vanguard-en-error-0x00001338-on-pc/"><u>Resolved! How to Fix the Dreaded COD Vanguard E:N (Error 0X00001338) on PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/step-by-step-process-of-amplifying-your-channel-with-high-impact-placement-for-2024/"><u>Step-by-Step Process of Amplifying Your Channel with High-Impact Placement for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-fixing-mount-and-blade-2-bannerlords-system-errors/"><u>Troubleshooting and Fixing Mount & Blade 2: Bannerlord's System Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-lag-issues-in-avatar-the-game-frontiers-of-pandora/"><u>Troubleshooting Steps for Resolving Lag Issues in 'Avatar: The Game - Frontiers of Pandora'</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985499042-troubleshooting-windows-groggy-performance-with-microsoft-edge-crashes-fixed/"><u>Troubleshooting Windows Groggy Performance with Microsoft Edge Crashes Fixed!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-stop-fortnite-pc-crashes-with-these-tricks/"><u>Ultimate Guide: Stop Fortnite PC Crashes with These Tricks</u></a></li>
+</ul></div>
 

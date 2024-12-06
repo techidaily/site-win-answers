@@ -1,7 +1,7 @@
 ---
 title: "Beyond Windows Backup: Discover My Top Pick for Secure, FREE Data Protection"
-date: 2024-08-27T23:54:43.362Z
-updated: 2024-08-28T23:54:43.362Z
+date: 2024-11-29T18:40:26.887Z
+updated: 2024-12-06T19:04:43.945Z
 tags:
   - windows
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
  After my issues with Windows Backup, I searched for a more reliable and secure backup tool for Windows. That's when I discovered KopiaUI. KopiaUI allows me to create snapshot backups and send them to multiple locations, so I never have to worry about a hard drive failure again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is KopiaUI and Why You Should Use It?
 
  KopiaUI is a fast, secure, open-source backup and restore tool. It creates file-system snapshots in a remote location with built-in client-side encryption, ensuring your files are safe.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
  KopiaUI doesn't limit you to local backups. You can use [a cloud storage provider](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/) like Backblaze or Google Cloud Storage, local directories, network shares (Windows Shares or Linux Server Shares), and even Rclone Remote (allowing you to use services like Dropbox, OneDrive, etc). You can also host your own Kopia repository on a Linux or Windows Server for a more streamlined LAN backup solution.
 
  Why should you care about KopiaUI? It allows you to create incremental snapshots of your files on Windows, which you can roll back to at any time. This makes backups efficient, as only changes since the last backup are saved. Best of all, everything is [encrypted](https://facebook-video-share.techidaily.com/the-essential-guide-to-youtube-video-lighting-tips-for-2024/) and can be stored off-site for safekeeping. It's an incredible tool that will help you keep your files safe on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  KopiaUI vs. Windows Backup
 
@@ -47,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
  KopiaUI is a compelling alternative to Windows Backup, especially for users prioritizing incremental backups, diverse storage options, robust security, and advanced features. While its interface might not be as intuitive as Windows Backup's, its reliability and comprehensive features make it a strong contender for safeguarding your valuable data.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ##  Getting Started With KopiaUI
 
  To use KopiaUI, you'll need to download it and install it on Windows. Head over to the KopiaUI GitHub releases page, and [grab the latest version for Windows.](http://github.com/kopia/kopia/releases/download/v0.17.0/KopiaUI-Setup-0.17.0.exe) 
@@ -60,10 +65,11 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 
 ![Creating a new repository and entering a new password in Kopia.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/kopia-repository-password-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With your storage solution chosen, you'll be asked to finish creating your KopiaUI repository by entering a password. Do so, and then click "Create Repository" to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Using KopiaUI With Cloud storage
 
@@ -81,8 +87,9 @@ choco install rclone
 ![Rclone connecting to Google Drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rclone-connected-to-google-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From here, connect to your favorite Cloud service:
 
 rclone config
@@ -94,8 +101,9 @@ rclone config
 ![Rclone is connected to Google.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rclone-connect-to-google-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Kopia, enter "C:\\programdata\\chocolatey\\bin\\rclone.exe" as the path to Rclone.
 
 **Configuring Dropbox** 
@@ -126,16 +134,10 @@ rclone ls <remote-name>:
 
 ![Rclone is taking a snapshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/rclone-snapshot-in-progress-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  After selecting the "Snapshot Now" button, you can customize the settings for your backup in KopiaUI. However, this is not required. You can just as easily leave everything at default. When you've finished looking over the settings, click "Snapshot Now" again to start the backup process.
 
  When the snapshot is completed, KopiaUI will list this backup in the UI. Select the backup to view the contents. If you want to restore a backup with KopiaUI, select the snapshot, and then select "Restore Files & Directories" to restore it to their original locations, or a location of your choosing. You can also mount your backups directly as a filesystem by selecting the "Mount as Local Filesystem" option.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  Peace of Mind With KopiaUI
 
  Although KopiaUI might look a bit complicated at first, it's worth learning for the peace of mind it offers. With KopiaUI, you can make sure your files are always backed up and safe on your Windows computer. Keep using KopiaUI, and you'll never have to worry about losing your important files again.
@@ -146,8 +148,6 @@ rclone ls <remote-name>:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,19 @@ rclone ls <remote-name>:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-a-comprehensive-tutorial-for-youtube-customization-tools/"><u>[Updated] A Comprehensive Tutorial for YouTube Customization Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-visual-impact-discover-these-essential-font-tools-for-tiktoks-2023/"><u>2024 Approved Visual Impact Discover These Essential Font Tools for TikTok's 2023</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-look-the-operation-of-fps-unlockers-on-roblox/"><u>In-Depth Look: The Operation of FPS Unlockers on Roblox</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-a54-5g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy A54 5G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-file-extraction-from-youtube-browser-os-and-terminal-methods-for-2024/"><u>Navigating File Extraction From Youtube Browser, OS and Terminal Methods for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007785846-outriders-ue4-glitch-solved-stop-unreal-process-has-crashed-errors/"><u>Outriders UE4 Glitch Solved: Stop 'Unreal Process Has Crashed' Errors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/practical-measures-for-capturing-vimeo-videos-for-2024/"><u>Practical Measures for Capturing Vimeo Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/revolutionizing-your-digital-presence-through-strategic-social-media-mastery/"><u>Revolutionizing Your Digital Presence Through Strategic Social Media Mastery</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-common-solutions-for-a-nonfunctional-google-meet-camera/"><u>Solved! Common Solutions for a Nonfunctional Google Meet Camera</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-assassins-creed-mirage-failure-to-start/"><u>Troubleshooting Guide: Resolving Issues with Assassin's Creed Mirage Failure to Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unveiling-the-truth-football-manager-2022-holds-off-onto-the-pitch-problems-fixed/"><u>Unveiling the Truth: Football Manager 2022 Holds Off Onto The Pitch – Problems Fixed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/zoom-room-usage-for-first-time-users/"><u>Zoom Room Usage for First-Time Users</u></a></li>
+</ul></div>
 

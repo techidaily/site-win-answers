@@ -1,7 +1,7 @@
 ---
 title: Calculating Days Remaining Before Your Upcoming Events with Microsoft Excel
-date: 2024-08-27T23:56:29.867Z
-updated: 2024-08-28T23:56:29.867Z
+date: 2024-12-02T17:14:47.399Z
+updated: 2024-12-06T17:20:49.266Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ---
 
 ## Calculating Days Remaining Before Your Upcoming Events with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,8 +35,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
  Result: The current date
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  DATE
 
  Syntax: =DATE(year,month,day)
@@ -45,9 +50,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
  Result: The year of the date entered
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  MONTH
 
  Syntax: =MONTH(date)
@@ -59,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
  Syntax: =DAY(date)
 
  Result: The day of the month of the date entered
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some Example Calculations
 
@@ -92,9 +98,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Entering "=DATE(IF(DATE(YEAR(TODAY()),MONTH(F3),DAY(F3))>=TODAY(),YEAR(TODAY()),YEAR(TODAY())+1),MONTH(F3),DAY(F3))" into cell F3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Excel-Date-02.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Hit Enter to see the result. (This article was written in late January 2019, so the dates will be...well...dated.)
 
  Fill this formula down into the cells below by highlighting the cells and pressing Ctrl+D.
@@ -102,8 +105,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ![Next Occurrence Results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Excel-Date-03.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now we can easily determine the number of days until the next occurrence by subtracting the result of the TODAY() function from the Next\_Occurrence results we just calculated. Enter the following formula into cell H3:
 
 =G3-TODAY()
@@ -114,16 +118,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![Days_Until_Next Results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Excel-Date-05.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  You can save a workbook with the formulas in this example to keep track of whose birthday is coming up next or know how many days you have left to finish your Halloween costume. Each time you use the workbook, it will recalculate the results based on the current date because you've used the `TODAY()` function.
 
 ![Example Results](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Excel-Date-06.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And yes, these are pretty specific examples that might or might not be useful to you. But, they also serve to illustrate the kinds of things you can do with date-related functions in Excel.
 
 <ins class="adsbygoogle"
@@ -132,8 +134,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-comedy-and-emotions-the-cutest-instagram-meme-groups-for-2024/"><u>[New] Comedy & Emotions The Cutest Instagram Meme Groups for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-playlist-passport-traveling-tunes-throughout-platforms/"><u>[New] Playlist Passport Traveling Tunes Throughout Platforms</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-what-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos/"><u>[Updated] 2024 Approved What Are YouTube Tags and How Can You Find Great Tags For Your Videos?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-comprehensive-coverage-coalition-picking-an-mcn-for-2024/"><u>[Updated] Comprehensive Coverage Coalition Picking an MCN for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/become-a-master-of-deduction-with-these-4-engaging-ai-driven-crime-solving-puzzles/"><u>Become a Master of Deduction with These 4 Engaging AI-Driven Crime Solving Puzzles!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/boost-your-iphone-longevity-with-these-6-easy-battery-calibration-steps/"><u>Boost Your iPhone Longevity with These 6 Easy Battery Calibration Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discovering-new-horizons-the-joy-of-language-learning/"><u>Discovering New Horizons: The Joy of Language Learning</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-infamous-indivisible-freezing-problems-a-step-by-step-solution/"><u>Fixing the Infamous Indivisible Freezing Problems - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/football-manager-2021-launch-error-solved-step-by-step-fixes-for-a-seamless-experience/"><u>Football Manager 2021 Launch Error Solved – Step-by-Step Fixes for a Seamless Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-error-code-leaf-in-apex-legends-latest-fix/"><u>How to Overcome Error Code Leaf in Apex Legends (Latest Fix)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-discord-screen-shares-how-to-fix-unexpected-audio-problems-quickly/"><u>Mastering Discord Screen Shares - How To Fix Unexpected Audio Problems Quickly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-d3d-graphics-issues-errgfxd3dinit-for-optimal-performance-in-gta-v/"><u>Overcoming D3D Graphics Issues (ERR_GFX_D3D_INIT) for Optimal Performance in GTA V</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723210361403-troubleshoot-and-fix-apex-legends-basic-anti-hacking-glitch-easily/"><u>Troubleshoot and Fix Apex Legends Basic Anti-Hacking Glitch Easily!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011285888-wolcen-lords-of-mayhem-release-delayed-what-you-need-to-know/"><u>Wolcen: Lords of Mayhem Release Delayed - What You Need to Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/xbox-one-users-no-longer-face-issues-with-netflix-all-systems-go/"><u>Xbox One Users No Longer Face Issues with Netflix - All Systems Go</u></a></li>
+</ul></div>
 

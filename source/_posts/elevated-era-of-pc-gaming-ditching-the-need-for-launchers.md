@@ -1,7 +1,7 @@
 ---
 title: "Elevated Era of PC Gaming: Ditching the Need for Launchers"
-date: 2024-08-27T23:54:52.234Z
-updated: 2024-08-28T23:54:52.234Z
+date: 2024-12-03T16:39:39.828Z
+updated: 2024-12-06T17:42:12.363Z
 tags:
   - windows
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 ## Elevated Era of PC Gaming: Ditching the Need for Launchers
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Having so many game launchers on your PC is a new normal that PC gamers have come to accept but it leads to endless frustrations for gamers.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 * Unfortunately, there's little you can do about the overwhelming amount of game launchers, except restricting your purchases to as few stores as possible.
 
  The PC is the most popular gaming platform in the world, but things are far from perfect. A growing problem that's drawn the ire of many gamers over the past few years is the introduction of launchers which are required to buy, launch, and even update your games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  There Are Too Many Launchers
 
@@ -27,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/2eefe00fc71984145735604d7f6409f58eabe8499
 
 ![Steam store showing a carousel of games including Cocoon and Cyberpunk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/steam-sc.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Valve
 
  Imagine having to use 10 different app stores on your smartphone, or 10 game stores on your PS5, Xbox, or Nintendo Switch because some apps and games are locked to certain stores. There would be riots. But when it comes to PC games, we’ve somehow come to accept that every major publisher using their own game launcher is normal. But it’s not.
@@ -34,8 +46,9 @@ Valve
  Not only is having a dozen game launchers on your PC far from normal, it also comes with a plethora of issues. Aside from Steam, GOG Galaxy, and to an extent the Xbox app (at least when it comes to stability and bugs, the functionality and back-end design of the Xbox app are two cans of worms I won’t open today), most PC game launchers as buggy as a rainforest floor and come with “features” that make using them anything but accessible, straightforward, or user-friendly.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Game Launchers Cause So Many Issues
 
  The reason why I deleted Battle.net was because it didn’t allow me to close it the regular way as long as the Xbox app was open (all the time in my case, since I’m subscribed to PC Game Pass). The cherry on the cake was that the app would show its head every single time I launched the Xbox app. Not only would it launch, but its window would also cover the Xbox app’s window, obscuring my view of the Xbox app and not allowing me to use it until I minimize or force close Battle.net.
@@ -54,9 +67,6 @@ Valve
 
 ![Free games in the Epic Games Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/free-epic-store-games.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As for the Epic Games Store? This launcher is by far the worst-performing of the bunch. In fact, it’s so slow that I stopped opening it to claim free games a while ago and started opening the EGS in my browser instead (which runs radically faster). Epic’s launcher is yet another member of the group that loves logging me off every time I close it. This time, however, it’s even better because EGS constantly forgets my PC and thinks it’s a new machine. So, on top of having to log in, I also have to enter a four-digit code, with the email containing it sometimes taking ages to arrive.
 
  All those issues sometimes amalgamate, resulting in diabolic situations. I had purchased _Prince of Persia_ on EGS, meaning I sometimes have to log in to the EGS, wait for the email containing the [2FA](https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-15-pro-max-by-name-drfone-by-drfone-virtual-ios/) code to arrive, enter the 2FA code, wait for Ubisoft Connect to launch, log into it, allow it to update, and grant it another permission to launch the game. It’s no wonder I haven’t touched the game for weeks despite it hitting all the right buttons and being one of the best Metroidvanias of the last few years.
@@ -65,18 +75,12 @@ Valve
 
 ![Steam Store layout on an ultrawide monitor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/steam-store-layout-on-an-ultrawide-monitor.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 This is what the Steam store looks like when I launch the Steam app in full screen mode on my ultrawide monitor. At least when I open Steam in the browser I can zoom in the web page...
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  So What Can You Do About It?
 
  In a nutshell, there’s little you can do. The best course of action would be limiting yourself to just a few game launchers, but that carries with it the fact that you’ll lock yourself out from tons of cool games.
@@ -97,8 +101,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +108,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-future-proofing-in-the-metaverse-essential-device-lineup-for-2024/"><u>[New] Future-Proofing in the Metaverse Essential Device Lineup for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-smoothly-integrate-linktree-into-your-tiktok-bio-space/"><u>[Updated] How to Smoothly Integrate Linktree Into Your TikTok Bio Space</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-quick-start-how-to-preserve-your-favorite-internet-streams/"><u>[Updated] In 2024, Quick Start How To Preserve Your Favorite Internet Streams</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-thriving-in-the-facebook-ecosystem-money-making-strategies-for-2024/"><u>[Updated] Thriving in the Facebook Ecosystem Money-Making Strategies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/best-practices-recording-on-ios-devices/"><u>Best Practices Recording on iOS Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-the-ultimate-guide-to-shutting-down-a-stale-linkedin-account/"><u>In 2024, The Ultimate Guide to Shutting Down a Stale LinkedIn Account</u></a></li>
+<li><a href="https://win-answers.techidaily.com/latest-league-of-legends-bug-patched-update/"><u>Latest League of Legends Bug Patched Update</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-portable-driver-easy-a-step-by-step-guide/"><u>Mastering Portable Driver Easy: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mordhau-crash-fix-master-the-art-of-a-smooth-uninterrupted-gameplay-journey/"><u>Mordhau Crash Fix - Master the Art of a Smooth, Uninterrupted Gameplay Journey</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimizing-your-chromebooks-zoom-capabilities/"><u>Optimizing Your Chromebook's Zoom Capabilities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-issues-with-launching-resident-evil-village-game/"><u>Resolved: Issues with Launching Resident Evil Village Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-connection-lost-issue-in-escape-from-tarkov-a-step-by-step-guide/"><u>Solving the Connection Lost Issue in Escape From Tarkov: A Step-by-Step Guide</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-guide-to-hardware-solutions-by-toms-hardware/"><u>The Ultimate Guide to Hardware Solutions by Tom's Hardware</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-isnt-the-mass-effect-legendary-edition-starting-up/"><u>Troubleshooting: Why Isn't the Mass Effect Legendary Edition Starting Up?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/sider-tips-from-chroma-keying-to-cinematic-creations/"><u>YT Insider Tips From Chroma Keying to Cinematic Creations</u></a></li>
+</ul></div>
 

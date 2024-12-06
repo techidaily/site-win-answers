@@ -1,7 +1,7 @@
 ---
 title: Build Your Personalized Data Structures with Microsoft Excel - A Comprehensive Tutorial
-date: 2024-08-27T23:56:10.331Z
-updated: 2024-08-28T23:56:10.331Z
+date: 2024-11-29T19:02:31.214Z
+updated: 2024-12-06T16:27:31.699Z
 tags:
   - excel
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  The data type creation feature is only [available to Microsoft 365](https://article-knowledge.techidaily.com/2024-approved-mac-users-guide-to-best-4k-display-technology/) subscribers.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Import the Data
 
  In this tutorial, we'll show you how to create a data type by importing data from a web source. But you can also use data from a text or CSV file or a spreadsheet. For our example, we'll import something fun: a list of [Angry Birds video games from Wikipedia](https://en.wikipedia.org/wiki/Angry%5FBirds).
@@ -36,9 +40,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Enter the URL for your data source](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/EnterURL-ExcelCreateDataType.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  Choose the Data Columns
 
  When the Navigator window opens, you'll see the list of options found from your source on the left. You can click to view each one in the Table View tab on the right. If you would like to use more than one, click the Select Multiple Items checkbox at the top of the list. After selecting the data, click "Transform Data."
@@ -50,27 +51,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Select columns in the Power Query Editor](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/PowerQueryEditor-ExcelCreateDataType.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create the Data Type
 
  When you finish choosing the columns, go to the Transform tab and click the Structured Column drop-down arrow on the right side of the ribbon. Pick "Create Data Type."
 
 ![On the Transform tab, click Structured Column, Create Data Type](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/StructuredColumnCreateDataType-ExcelCreateDataType.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  Now you can choose how you want the data to display. Enter the Data Type Name you want to use. In the "Display Column" drop-down menu, choose which column should display in your sheet for the data type.
 
 ![Choose a name and column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CreateDataTypeWindow-ExcelCreateDataType.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you want to remove columns you selected or arrange them differently, click "Advanced." Move columns you don't want from Selected Columns to Available Columns using the Remove button. To rearrange the order, use the Move Up and Move Down arrows on the right.
 
 ![Arrange the columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CreateDataTypeEdit-ExcelCreateDataType.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you finish, click "OK." The Power Query Editor displays once more with your data in a single column. The other columns you selected are condensed into this one column.
 
@@ -85,28 +85,31 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Data type loaded in Excel sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/DataTypeLoaded-ExcelCreateDataType.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use Your Data Type
 
  You'll notice the data type icons next to each item in the list and you can insert other pieces of data the same way as [Excel's built-in data types](https://desktop-recording.techidaily.com/updated-2024-approved-sign-up-process-for-using-google-meet/). Click the Add Column icon and choose the piece of data to insert. It automatically displays in a column to the right.
 
 ![Click Add Column and pick the data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/AddData-ExcelCreateDataType.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Continue clicking the icon and selecting more data to insert as you wish.
 
 ![Data type data added](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/AddedData-ExcelCreateDataType.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To display the data card, click the icon next to one of the items. You'll then see the data card for that item pop open.
 
 ![Show the data card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ShowDataCard-ExcelCreateDataType.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using data types, you have a convenient way to insert data into your spreadsheet. And if you want to take that data to the next level, check out [how to use data type templates](https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/).
 
 <ins class="adsbygoogle"
@@ -115,8 +118,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +125,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-empower-your-video-creation-blending-youtube-and-imovie-for-impressive-results/"><u>[New] In 2024, Empower Your Video Creation Blending YouTube and iMovie for Impressive Results</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/youtube-3/"><u>「YouTube ダウンサイジングガイド：3ページ目 - コストフリー動画小型化テクニック」</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-premier-gatherings-top-events-beyond-vidcon/"><u>2024 Approved Youtube's Premier Gatherings Top Events Beyond VidCon</u></a></li>
+<li><a href="https://video-capture.techidaily.com/chrome-browserfacebook/"><u>Chrome BrowserによるFacebookビデオのダウンロード手順集</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/deleting-youtube-content-a-step-by-step-guide-for-2024/"><u>Deleting YouTube Content A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992840674-how-i-stopped-my-blender-from-continuously-crashing-on-windowsmac/"><u>How I Stopped My Blender From Continuously Crashing on Windows/Mac</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-elevate-your-drone-experience-with-these-essentials/"><u>In 2024, Elevate Your Drone Experience with These Essentials</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/optimized-techniques-for-capturing-win10-games-for-2024/"><u>Optimized Techniques for Capturing Win10 Games for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-troubleshooting-guide-how-to-stop-ark-survival-evolved-from-crashing/"><u>PC Troubleshooting Guide: How to Stop ARK: Survival Evolved From Crashing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/telnet-configuration-made-simple-for-win11-users/"><u>Telnet Configuration Made Simple: For Win11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-in-a-flash-fast-fixes-for-an-unresponsive-oculus-link/"><u>Troubleshoot in a Flash: Fast Fixes for an Unresponsive Oculus Link</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-stable-play-for-spellbreak-pc-gamers/"><u>Troubleshooting Tips - Stable Play for Spellbreak PC Gamers</u></a></li>
+</ul></div>
 

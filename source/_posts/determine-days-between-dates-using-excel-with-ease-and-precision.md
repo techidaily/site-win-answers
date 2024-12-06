@@ -1,7 +1,7 @@
 ---
 title: Determine Days Between Dates Using Excel with Ease and Precision
-date: 2024-08-27T23:56:32.259Z
-updated: 2024-08-28T23:56:32.259Z
+date: 2024-12-02T16:36:03.483Z
+updated: 2024-12-06T16:25:06.694Z
 tags:
   - excel
 categories:
@@ -34,6 +34,10 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 
 ![Click the cell in which to display the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-select-cell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In your selected cell, type the following formula and press Enter. In this formula, replace `C2` with the cell where you have your end date, and replace `B2` with the cell where you have your start date.
 
 =C2-B2
@@ -44,11 +48,16 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 
 ![The number of days between the specified dates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-days-answer.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You're all set. Did you know that in addition to subtracting dates, you can also [add dates together in Excel](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/)?
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Calculate the Days Between Two Dates With the DAYS Function
 
  Excel's `DAYS` function is dedicated to finding the number of days between two dates. It effectively performs the same calculation that the subtraction method does, so it's up to you which method you use.
@@ -58,8 +67,9 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 ![Click the cell in which to display the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-select-cell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In your selected cell, type the following function and press Enter. In this function, replace `C2` with the cell where you have your end date, and replace `B2` with the cell where your start date is.
 
 =DAYS(C2,B2)
@@ -67,8 +77,9 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 ![Enter the DAYS function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-enter-days-function.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you'd like to use the dates directly in the function, you can do so. In this case, in the above function, replace `C2` with the end date and `B2` with the start date. Make sure to add double quotes around each date.
 
  Like this:
@@ -77,16 +88,10 @@ Related: [How to Count the Days Between Two Dates in Google Sheets](https://phon
 
 ![Enter the DAYS function with direct values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-enter-days-function-with-direct-values.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And immediately, Excel will tell you the number of full days between your specified dates.
 
 ![Days between the two specified dates.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-days-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Now that you know this, you might also want to learn how to [calculate someone's age](https://youtube-data.techidaily.com/n-2024-explore-the-best-historian-content-top-10-youtube-recommendations/) in Excel. It's equally easy to do that.
 
 Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidaily.com/n-2024-explore-the-best-historian-content-top-10-youtube-recommendations/)
@@ -97,8 +102,6 @@ Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidai
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +109,20 @@ Related: [How to Calculate Age in Microsoft Excel](https://youtube-data.techidai
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/tainted-grail-conquest-optimization-tips-for-enhanced-frame-per-seconds-fps/"><u>'Tainted Grail: Conquest' Optimization Tips for Enhanced Frame Per Seconds (FPS)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-essential-tutorial-for-fb-video-production/"><u>[New] 2024 Approved The Essential Tutorial for FB Video Production</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-dirt-5-keeps-crashing-on-pc/"><u>[SOLVED] Dirt 5 Keeps Crashing on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-apk-gaming-revolution-welcome-funimate-pro-android-edition/"><u>[Updated] APK Gaming Revolution Welcome Funimate Pro Android Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-selecting-your-next-travel-cinema-device-for-2024/"><u>[Updated] Selecting Your Next Travel Cinema Device for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/code-vein-freezing-glitches-heres-how-you-can-fix-them/"><u>Code Vein Freezing Glitches? Here's How You Can Fix Them</u></a></li>
+<li><a href="https://win-answers.techidaily.com/god-of-war-not-working-overcome-inadequate-memory-error-here/"><u>God of War Not Working? Overcome 'Inadequate Memory' Error Here!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hdmi-through-usb-failure-heres-how-you-can-resolve-it/"><u>HDMI Through USB Failure? Here’s How You Can Resolve It</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-handle-illegal-game-entry-error-messages-successfully/"><u>How to Handle 'Illegal Game Entry' Error Messages Successfully</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-motorola-moto-e13-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Motorola Moto E13 FRP?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-oppo-a79-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Oppo A79 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mlb-the-show-21-online-experience-improved-no-more-servers-down/"><u>MLB The Show 21 Online Experience Improved - No More Servers Down!</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-11-ghostbox-4/"><u>Windows 11 ホーム画面における GhostBox 誤動作解決法トップ4</u></a></li>
+</ul></div>
 

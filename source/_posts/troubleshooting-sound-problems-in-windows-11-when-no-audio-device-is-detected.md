@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Sound Problems in Windows 11 When No Audio Device Is Detected
-date: 2024-08-27T23:56:04.329Z
-updated: 2024-08-28T23:56:04.329Z
+date: 2024-11-29T17:32:27.756Z
+updated: 2024-12-06T19:00:07.517Z
 tags:
   - windows
 categories:
@@ -31,9 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Have you encountered the "No Audio Output Device Is Installed" error while unmuting audio via the system tray? If so, your audio output device could be unplugged or disabled, the audio drivers could be outdated, or the audio services could be turned off. Here are some solutions you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  1\. Perform Some Preliminary Checks
 
  Start the troubleshooting process by applying some basic fixes. First, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) to fix any minor glitches that may be causing the issue. If you use external speakers or headphones as your primary audio output device, check that they are correctly plugged into your computer. Also, unplug and then plug them back in to your system.
@@ -41,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Ensure you haven't mistakenly plugged your audio output device into the microphone jack. If you have multiple audio output devices connected simultaneously, unplug all except your primary device. Also, carefully clean the headphone jack or speaker port and try connecting your audio device to another port to rule out a problem with the port itself.
 
  Additionally, uninstall any audio customization applications you might be using. If none of these basic checks help resolve the issue, apply the remaining fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Run the Audio Troubleshooter
 
@@ -52,9 +53,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Running the audio troubleshooter on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-running-the-audio-troubleshooter-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the audio troubleshooter fails to detect the problem, try our remaining fixes to manually fix the problem.
 
 ##  3\. Ensure the Audio Output Device Isn't Disabled
@@ -64,15 +62,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Opening the more sound settings from the settings app on windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/opening-the-more-sound-settings-from-the-settings-app-on-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, go to the "Playback" tab. If you find all audio output devices disabled here, you should enable the primary playback device. To do so, right-click on it and select "Enable."
 
 ![Enabling the audio playback device in sound settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-enabling-the-playback-device-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Enable the Audio Output Device From Device Manager
 
  If you don't see any device listed in the playback tab of sound settings, the audio output devices may be disabled in Device Manager. To ensure that's not the case, right-click the Start button and open "Device Manager." Then, expand the "Sound, Video, and Game Controllers" category.
@@ -82,8 +86,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Enabling the audio device in device manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-enabling-the-audio-device-in-device-manager-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  5\. Turn On the Audio Services
 
  If the audio output devices seem enabled in Device Manager but aren't visible in the playback devices, the audio services could be disabled. To rule out this possibility, type **Services** in Windows Search and open the "Services" app. Locate the "Windows Audio" and "Windows Audio Endpoint Builder" services.
@@ -91,13 +96,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Starting a disabled audio service in the services app on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/4-starting-a-disabled-audio-service-in-the-services-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Double-click on each service, one after the other. If you find the Service Status as "Stopped," click the "Start" button to enable them.
 
 ##  6\. Enable or Disable Chipset Audio From BIOS
@@ -106,9 +107,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Opening the advanced startup from Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-opening-the-advanced-startup-in-windows-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Before restarting your computer, you'll be prompted to save your work. Save it, then click the "Restart Now" button in the confirmation popup. Your device will boot directly into the "Choose an Option" screen. From here, go to Troubleshoot > Advanced Options > UEFI Firmware Settings, and click "Restart."
 
  The process to enable or [disable onboard audio](https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/) will vary depending on your laptop or motherboard manufacturer and the model you're using. If you're unable to find it, refer to the manufacturer's documentation. Using that information, locate the onboard audio option; if it's disabled, turn it back on.
@@ -124,8 +122,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  After uninstalling the drivers, restart your computer. Windows will automatically reinstall them from scratch, which may help resolve the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  8\. Install Manufacturer-Specific Audio Drivers
 
  If you're unable to use a specific audio output device on your computer, you may need to install the manufacturer's drivers. To rule out this possibility, go to the manufacturer's website and download the latest audio drivers available. Most manufacturer-specific audio drivers come in an executable format, so you may only need to run the driver file to install it.
@@ -138,9 +137,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Click "Check for updates."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/win11_click_check_for_updates.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Windows will then search for any available updates, download them, and proceed to install them.
 
 ---
@@ -153,8 +149,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +156,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-top-5-best-lightweight-action-cameras-for-backpacking-or-hiking/"><u>[Updated] 2024 Approved Top 5 Best Lightweight Action Cameras For Backpacking Or Hiking</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-spotlight-on-recent-unfollows-on-instagram/"><u>2024 Approved Spotlight on Recent Unfollows on Instagram</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-8-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 8 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypass-the-stuck-start-in-sea-of-thieves-a-step-by-step-solution/"><u>Bypass the Stuck Start in Sea of Thieves: A Step-by-Step Solution</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-oppo-reno-11-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Oppo Reno 11 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-continuous-crashing-of-pacific-drive-software-on-pcs/"><u>Guide to Fixing Continuous Crashing of Pacific Drive Software on PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-audio-during-a-discord-screen-share-session/"><u>How to Restore Audio During a Discord Screen Share Session</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-youtubes-profit-distribution-to-content-makers/"><u>In 2024, YouTube's Profit Distribution to Content Makers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-fortnite-access-denied-issue-with-these-simple-fixes/"><u>Overcome the Fortnite Access Denied Issue with These Simple Fixes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-elgato-driver-setup-for-optimal-performance/"><u>Speedy Elgato Driver Setup for Optimal Performance</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-best-text-animation-software-with-motion-tracking-for-2024/"><u>The Best Text Animation Software with Motion Tracking for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-hunt-for-emotional-throat-clearing-audio-for-2024/"><u>Updated Hunt for Emotional Throat-Clearing Audio for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warzone-troubleshooting-bypassing-xbox-and-pcs-notorious-error-0-1766/"><u>Warzone Troubleshooting: Bypassing Xbox and PC's Notorious Error 0-1766</u></a></li>
+<li><a href="https://win-answers.techidaily.com/why-is-black-desert-online-experiencing-crashes-on-windows-and-how-to-fix-them/"><u>Why Is Black Desert Online Experiencing Crashes on Windows and How to Fix Them?</u></a></li>
+</ul></div>
 

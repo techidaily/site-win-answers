@@ -1,7 +1,7 @@
 ---
 title: "Creating Your Genealogy Chart: A Step-by-Step Guide Using Microsoft Excel"
-date: 2024-08-27T23:58:09.917Z
-updated: 2024-08-28T23:58:09.917Z
+date: 2024-12-02T16:29:35.449Z
+updated: 2024-12-06T18:56:11.157Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 ---
 
 ## Creating Your Genealogy Chart: A Step-by-Step Guide Using Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 ![Microsoft family tree template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/MSFamilyTreeGenerator-ExcelFamilyTree.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Photo Family Tree
 
  This three-generation [family tree template](https://templates.office.com/EN-US/photo-family-tree-TM88904269) allows you to add your own photos. Enter the names and birth years of each family member and use the Remove Ancestors and Add Ancestors buttons for the number of people in your family.
@@ -48,21 +53,12 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 
 ![Microsoft photo family tree template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/MSPhotoFamilyTree-ExcelFamilyTree.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Check Out Third-Party Family Tree Templates
 
  Maybe you need a larger family tree that allows you to go back further than three generations. Or, perhaps you'd like a template that offers room for more details.
 
  Here are a few options you can check out from Vertext42 and Free PowerPoint Templates.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  6-Generation Family Tree Template
 
  This [first template from Vertex42](https://www.vertex42.com/ExcelTemplates/family-tree-template.html) allows you to include multiple generations and photos of your family members.
@@ -71,7 +67,15 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 
 ![Vertex42 6-generation family tree template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Vertex426Generation-ExcelFamilyTree.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can include whatever details you like below each family member's name, such as their birth year and location. To insert a photo, right-click the image placeholder, select "Change Picture," and locate the one you want to use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Family Tree Template with Photos
 
@@ -82,13 +86,15 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 ![Vertex42 photo family tree template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Vertex42WithPhotos-ExcelFamilyTree.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Again, simply right-click the image placeholders and pick "Change Picture" to include your photos.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Family Tree Template for Excel
 
  For a family tree that goes beyond just branches, check out this [Family Tree Template for Excel](https://www.free-power-point-templates.com/articles/family-tree-template-for-excel/) from Free PowerPoint Templates. You'll see a sheet for each set of ancestors including parents, paternal grandparents, maternal grandparents, and so on.
@@ -97,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/280ddac45a43e26292eec3f07f23cb423510585b5
 
 ![FPPT family tree template members sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FPPTMembers-ExcelFamilyTree.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Click the Back to Tree button at the top of that sheet or move to the Family Tree tab to see the finished tree. The family tree also has buttons for Details that open the corresponding sheet for each person.
 
 ![FPPT family tree template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/FPPTFamilyTree-ExcelFamilyTree.png) 
@@ -124,22 +127,20 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
 
 ![SmartArt Graphics window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/SmartArtGraphics-ExcelFamilyTree.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select the one you want, click "OK," and the SmartArt graphic pops into your sheet. From there, you can use the SmartArt Design tab to spruce up the tree, add more shapes for your family members, and change the colors.
 
 ![Picture organizational chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/SmartArtDesignTab-ExcelFamilyTree.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  Pick a text box to get started, such as the one at the top for your photo and details. Click inside the text box and enter the information.
 
  Alternatively, click the arrow on the left side of the chart to open the text entry box and type the details there.
 
 ![Text entry box for a SmartArt graphic in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/TextEntryBox-ExcelFamilyTree.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To add a shape for another family member, select a current text box and open the Add Shape drop-down menu in the ribbon.
 
  You can then [add the shape](https://fox-boxes.techidaily.com/simplified-steps-for-photo-motion-blur-in-photoshop/) after, before, above, or below. You can also use the Add Assistant option for multiple marriages.
@@ -151,8 +152,9 @@ Related: [7 Handy Microsoft Excel Features You May Have Missed](https://screen-v
 ![Photos added to the family tree in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/AddPhotos-ExcelFamilyTree.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also make the family tree more attractive by [removing the gridlines](https://driver-download.techidaily.com/easy-guide-to-installing-amd-radeon-hd-7700-graphics-card-driver-updates/) or [adding a picture background](https://some-skills.techidaily.com/updated-the-sound-savants-playbook-for-efficient-audible-records/). There are plenty of options for customizing your family tree in Excel, so have fun with it!
 
 Related: [How to Remove Gridlines in Microsoft Excel](https://driver-download.techidaily.com/easy-guide-to-installing-amd-radeon-hd-7700-graphics-card-driver-updates/) 
@@ -167,8 +169,6 @@ Related: [How to Remove Gridlines in Microsoft Excel](https://driver-download.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +176,24 @@ Related: [How to Remove Gridlines in Microsoft Excel](https://driver-download.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-dynamic-enhancements-for-your-tiktok-projects/"><u>[New] In 2024, Dynamic Enhancements for Your TikTok Projects</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-game-film-mastery-using-fbx-recorder-for-2024/"><u>[New] In-Game Film Mastery Using FBX Recorder for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagrams-puzzle-posts-for-maximum-engagement/"><u>[Updated] 2024 Approved Mastering Instagram's Puzzle Posts for Maximum Engagement</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-average-gain-for-youtubers-per-ad-exposure/"><u>[Updated] Average Gain for YouTubers per Ad Exposure?</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-honor-90-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Honor 90? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-save-50-explore-webers-premier-electric-grills-highlighted-by-zdnet/"><u>Discover How to Save $50 - Explore Weber's Premier Electric Grills Highlighted by ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/entendiendo-el-formato-de-archivo-webm-guia-completa-para-su-reproduccion/"><u>Entendiendo El Formato De Archivo WebM: Guía Completa Para Su Reproducción</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-steps-to-resolve-sons-of-the-forest-freezes-on-pc-an-in-depth-guide/"><u>Essential Steps to Resolve Sons of the Forest Freezes on PC - An In-Depth Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-with-ghostwire-tokyo-continuous-crashes-on-windows/"><u>Fixing Issues with Ghostwire: Tokyo Continuous Crashes on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-slow-response-time-in-back-4-blood-a-comprehensive-solution/"><u>Fixing Slow Response Time in 'Back 4 Blood': A Comprehensive Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/from-startup-to-success-fixing-the-crash-and-burn-of-your-businesss-core-essence/"><u>From Startup to Success: Fixing the 'Crash and Burn' Of Your Business’s Core Essence</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-the-newest-updates-for-your-logitech-g403-controller-free-driver-software-for-pcs/"><u>Get the Newest Updates for Your Logitech G403 Controller: Free Driver Software for PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-meizu-21-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Meizu 21 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-structuring-stimulating-podcast-sneak-peeks/"><u>In 2024, Structuring Stimulating Podcast Sneak Peeks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991563330-now-rewrite-the-equation-using-these-equivalent-fractions/"><u>Now, Rewrite the Equation Using These Equivalent Fractions:</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-no-more-discords-update-fiasco-corrected-for-optimal-performance/"><u>Troubleshoot No More: Discord's Update Fiasco Corrected for Optimal Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-smooth-playtime-expert-tips-for-preventing-crashes-in-frontier-on-pc/"><u>Unlocking Smooth Playtime: Expert Tips for Preventing Crashes in 'Frontier' On PC</u></a></li>
+</ul></div>
 

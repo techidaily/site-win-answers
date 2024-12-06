@@ -1,7 +1,7 @@
 ---
 title: Admitted Hiding Excel Proficiency in Resume? Here Are 8 Critical Topics You Must Understand Today
-date: 2024-08-27T23:58:08.704Z
-updated: 2024-08-28T23:58:08.704Z
+date: 2024-12-01T16:57:06.622Z
+updated: 2024-12-06T16:14:03.586Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Admitted Hiding Excel Proficiency in Resume? Here Are 8 Critical Topics You Must Understand Today
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,6 +27,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Macros and VBAs](https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-12r-frp-in-3-different-ways-by-drfone-android/)
 
  Can you explain what a ribbon is? Do you know the three types of cell references? Do you know how to convert a number to a currency? If not, then look no further, as we take you through some key Excel features you need to know to show your expertise.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Excel Interface
 
@@ -45,8 +53,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There are other elements in a formula that Excel has to follow (including cell references, percentages, and logical operators), but knowing PEMDAS will be enough to show you understand how Excel's calculation process works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Cell References
 
  A cell reference is the name of a cell or range of cells in your Excel workbook, and you can use these in formulas. For example, if you click cell A1 and type
@@ -64,8 +73,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  A **mixed** reference combines relative and absolute references at the same time. For example, $A1 is a mixed reference that tells Excel to continually refer to column A, but switch the row number relative to where the formula is located.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Data Types
 
  There are many different types of data that can be entered into an Excel cell, and the importance of having the right data type is that it helps Excel to perform the correct operation according to the type of data. Before you enter any data into a cell, the data type is set to General by default—this is Excel's way of telling you it's waiting for something to be entered into the cell so that it can then read what you enter and change the data type accordingly.
@@ -74,10 +84,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel worksheet with the Data Type box highlighted and the drop-down opened, showing the data type options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/data-type-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you were to type **$12** into a cell, Excel would see the dollar symbol and automatically change the data type to Currency. Likewise, if you typed **Apr 14**, Excel would read this as a date. If Excel doesn't identify the correct data type, you can change it manually using this drop-down list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Key Data Analysis Formulas
 
@@ -91,8 +102,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Knowing the [many useful data-entry functions](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) is essential if you want to show off your Excel knowledge.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 
 
 ##  Filtering and Ordering Ranges and Tables
@@ -103,18 +115,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Filter option in Excel is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/filter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This will create a filter button at the top of each column in your data, which you can click to filter or sort your data.
 
  Another way to filter and sort your data is by formatting your data into a table. Select all your data (including the header row), and click "Format As Table" in the Home tab on the ribbon.
 
 ![The Format As Table icon is highlighted in an Excel worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/format-as-table-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, choose an appropriate table style, and make sure you check the "My Table Has Headers" box in the dialog box that appears. When you click "OK," your data will be formatted in a table with a filter button running across the header row of your table.
 
  Finally, you can sort and filter a specific series of data by selecting and right-clicking your data. Then, choose between the Filter and Sort options in the menu that appears.
@@ -152,8 +158,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +165,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-abcd-of-effective-copy-in-facebook-campaigns/"><u>[Updated] 2024 Approved The ABCD of Effective Copy in Facebook Campaigns</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-list-of-top-5-iphone-podcast-software/"><u>2024 Approved The Ultimate List of Top 5 iPhone Podcast Software</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a78-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A78 PC | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/advanced-steps-a-compre-point-of-view-on-screen-record-with-adobe-captivate-for-2024/"><u>Advanced Steps A Compre Point of View on Screen Record with Adobe Captivate for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013257884-grand-theft-auto-v-audio-fix-say-goodbye-to-stutters-and-lags/"><u>Grand Theft Auto V Audio Fix - Say Goodbye to Stutters & Lags</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-screen-capture-problems-with-nvidia-shadowplay-in-windows/"><u>How to Solve Screen Capture Problems with NVIDIA ShadowPlay in Windows</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-se-with-or-without-password-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone SE With or Without Password</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-your-game-sessions-eliminate-the-frustration-of-constant-crashes-in-ready-or-not-on-windows/"><u>Master Your Game Sessions: Eliminate the Frustration of Constant Crashes in 'Ready or Not' On Windows!</u></a></li>
+<li><a href="https://win11.techidaily.com/seven-steps-to-unlocking-windows-11-memory-safety/"><u>Seven Steps to Unlocking Windows 11 Memory Safety</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-7-solutions-to-fix-overwatch-2-failure-to-start/"><u>Top 7 Solutions to Fix Overwatch 2 Failure to Start</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/youtube-studio-editors-pathway-to-professional-filmmaking/"><u>YouTube Studio Editor's Pathway to Professional Filmmaking</u></a></li>
+</ul></div>
 

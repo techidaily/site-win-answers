@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips to Stop Assassin's Creed Odyssey From Crashing on PC Easily
-date: 2024-11-14T06:16:11.853Z
-updated: 2024-11-16T21:30:43.127Z
+date: 2024-12-02T17:30:29.031Z
+updated: 2024-12-06T17:10:21.576Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Although[Assassin’s Creed Valhalla](https://www.epicgames.com/store/en-US/p/as
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -64,15 +68,12 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-3.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -87,34 +88,21 @@ There are mainly two ways to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-3.jpg)
 2. Move your mouse cursor to Assassin’s Creed Valhalla and click the**downward triangle icon** . Then, select**View game details** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-3.jpg)
 3. Select**Properties** on the left pane, and click**Open folder** under Local files.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-2.jpg)
 4. Right-click the**ACValhalla.exe file** and click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-5.jpg)
 5. Navigate to the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-6-1.jpg)
@@ -134,10 +122,7 @@ If the issue persists, head to the fixes below.
 3. Click**Verify files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-2.jpg)
@@ -156,10 +141,7 @@ If the issue persists, head to the fixes below.
 3. Reinstall the game to the same location where your OS and Ubisoft Connect app are installed.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Assassin’s Creed Valhalla not launching issue should be resolved after the fresh reinstallation.
@@ -187,24 +169,24 @@ If the issue persists, head to the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-commence-your-filmmaking-adventure-with-xps-toolkit/"><u>[New] 2024 Approved Commence Your Filmmaking Adventure with XP's Toolkit</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-change-youtube-video-playback-speed-desktopmobile/"><u>[New] 2024 Approved How to Change YouTube Video Playback Speed [Desktop/Mobile]</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-instantaneous-sharability-tweeting-videos-on-snapchat-network/"><u>[Updated] In 2024, Instantaneous Sharability Tweeting Videos on Snapchat Network</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/caf-mp3movavi/"><u>自由下載 CAF到 MP3：Movavi 無限制音訊過渡工具</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992658234-easy-solution-to-tackle-the-origin-crash-bug-swiftly-and-effectively/"><u>Easy Solution to Tackle the 'Origin Crash' Bug Swiftly and Effectively</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/elevating-your-drone-content-post-production-fundamentals/"><u>Elevating Your Drone Content Post-Production Fundamentals</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-addressing-and-resolving-frame-rate-drops-in-age-of-empires-4/"><u>Expert Advice: Addressing & Resolving Frame Rate Drops in Age of Empires 4</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-fatal-error-in-apex-legends-masterclass-guide-for-ue4-users/"><u>Fixing 'Fatal Error' In Apex Legends - Masterclass Guide for UE4 Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-like-a-dragon-infinite-wealth-crashing-on-pc/"><u>How to Fix Like a Dragon: Infinite Wealth Crashing on PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y78-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y78 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/microsoft-surface-go-on-a-budget-can-it-resolve-its-identity-crisis/"><u>Microsoft Surface Go on a Budget - Can It Resolve Its Identity Crisis?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-the-cold-war-error-fixing-freezing-issues-on-pc-and-consoles/"><u>Overcoming the 'Cold War' Error: Fixing Freezing Issues on PC and Consoles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-tips-for-iphone-burst-photo-sequences/"><u>Pro Tips for iPhone Burst Photo Sequences</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-roblox-pc-freezing-issues-top-six-strategies-fast-fixes/"><u>Solve Roblox PC Freezing Issues: Top Six Strategies | Fast Fixes!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-your-issue-getting-the-amd-radeon-driver-to-launch-successfully/"><u>Solving Your Issue: Getting the AMD Radeon Driver to Launch Successfully</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-guide-clearing-windows-11-memory-dump-files/"><u>Step-by-Step Guide: Clearing Windows 11 Memory Dump Files</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-resolving-forza-horizon-5-pc-game-crashes/"><u>Troubleshooting Steps for Resolving Forza Horizon 5 PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-helldivers-second-act-bsod-nightmare/"><u>Ultimate Guide: Resolving the Helldiver's Second Act - BSOD Nightmare</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-interrupting-real-time-recording-on-quicktime/"><u>[New] 2024 Approved Interrupting Real-Time Recording on QuickTime</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-seeing-beyond-our-elite-rankings-of-camera-lenses-1-10/"><u>[New] Seeing Beyond Our Elite Rankings of Camera Lenses #1-10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-a-close-look-at-t-series-revenue-from-online-channels/"><u>[Updated] 2024 Approved A Close Look at T-Series Revenue From Online Channels</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-free-camera-screen-recorders-deep-dive-review-and-top-alternatives-for-2024/"><u>[Updated] Free Camera Screen Recorders Deep Dive Review and Top Alternatives for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>[Updated] In 2024, Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030454879-youtube/"><u>「無料でYouTube音楽コンテンツをダウンロードする専門プラン」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44k544og44od44ox44oq44kk44k544og44od44ox44ks44kk44oj77ya5a625bqt55so44ki44ox44oq44kx44o844k344on44oz44ks5l244gj44gf44ow44or44o844os44kk5yuv55s744gu57ch510/"><u>「ステップバイステップガイド：家庭用アプリケーションを使ったブルーレイ動画の簡単な録画方法」</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-proven-methods-to-eliminate-jpeg-distortions-at-no-cost/"><u>4 Proven Methods to Eliminate JPEG Distortions at No Cost</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028109648-google/"><u>解決策: Googleドライブ上で非対応フォーマットを持つファイルに遭遇した場合</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029478590-youtube/"><u>素早く YouTube チャンネルから複数動画ダウンロードガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-imposter-chatbots-a-guide-to-authenticating-gpt-apps-for-apple-devices/"><u>Avoiding Imposter Chatbots: A Guide to Authenticating GPT Apps for Apple Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xr-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XR</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029607691-mp4/"><u>MP4動画再生に失敗する主な理由と解決策</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/soundscape-symphony-crafting-concert-videos-with-these-15-tutorials/"><u>Soundscape Symphony Crafting Concert Videos with These 15 Tutorials</u></a></li>
+<li><a href="https://win11.techidaily.com/the-ultimate-guide-fixes-for-rediscovered-files-in-windows/"><u>The Ultimate Guide: Fixes for Rediscovered Files in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030503214-vobmp4/"><u>VOBからMP4への変換: 最適な方法とそのアレンジバージョン</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029264023-windowswebm/"><u>Windows上でのWebMビデオファイル統合手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44gk6kal56mn44kk5pmc44gr5l2t6ait54mi44gm5yip55so44gn44gn44kl6ko95zob44gv44gc44kk44gplus44gz44gl77yf/"><u>お見積り時に体験版が利用できる製品はありますか？</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027375030-pc/"><u>ダイナブックノートPCによる高画質映像記録テクニック</u></a></li>
 </ul></div>
 

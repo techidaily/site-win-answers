@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Clean Data: A Step-by-Step Guide to Applying the TRIM Function in MS Excel"
-date: 2024-08-27T23:57:46.103Z
-updated: 2024-08-28T23:57:46.103Z
+date: 2024-12-03T17:02:31.276Z
+updated: 2024-12-06T16:39:48.597Z
 tags:
   - excel
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/e6c6b6e32249dbf76f20abd6c6055b57975d7da74
 
 ## Mastering the Art of Clean Data: A Step-by-Step Guide to Applying the TRIM Function in MS Excel
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is the TRIM Function?](https://screen-mirror.techidaily.com/best-3-vivo-y200e-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/)
 * [How to Use the TRIM Function in Microsoft Excel](https://win-dash.techidaily.com/amd-radeon-rx-470-drivers-upgrade-step-by-step-guide-for-a-smooth-graphics-performance/)
 
  When you copy text into Microsoft Excel, it can occasionally come with characters you'd prefer to see removed, such as unnecessary spaces. Rather than remove these manually, you can use the TRIM function to do it for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is the TRIM Function?
 
@@ -37,8 +45,9 @@ This is a text string.
 Related: [What Are Character Encodings Like ANSI and Unicode, and How Do They Differ?](https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use the TRIM Function in Microsoft Excel
 
  To help you understand how to use the TRIM function in Excel, we'll explore the two main methods for applying it in a new formula using sample data.
@@ -52,8 +61,9 @@ Related: [What Are Character Encodings Like ANSI and Unicode, and How Do They Di
 ![To use the TRIM function in Excel using a cell reference, use the formula =TRIM(A2), replacing A2 with your own cell reference.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/Excel-TRIM-Using-Cell-Reference.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To remove extra spaces from a text string directly, you could use the following formula, replacing the example string with your own text.
 
 =TRIM(" This text string contains unnecessary spaces")
@@ -61,8 +71,9 @@ Related: [What Are Character Encodings Like ANSI and Unicode, and How Do They Di
 ![To use the TRIM function in Excel with a text string, use the formula =TRIM("text"), replacing "text" with your own text string.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/01/Excel-TRIM-Text-String.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As previously mentioned, TRIM is only designed to remove additional ASCII space characters (decimal value 32) from text strings. If you're still seeing unnecessary spaces, this is likely caused by a non-breaking space character (Unicode decimal value 160) in your text.
 
  TRIM doesn't support these, so you'll need to manually check and remove these characters from your text if you'd prefer to use it.
@@ -79,8 +90,6 @@ Related: [What Are Character Encodings Like ANSI and Unicode, and How Do They Di
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +97,22 @@ Related: [What Are Character Encodings Like ANSI and Unicode, and How Do They Di
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-activate-or-deactivate-video-commenting-in-youtube/"><u>[New] How To Activate or Deactivate Video Commenting in YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-step-by-step-on-instagram-filter-usage-2023/"><u>[New] In 2024, The Ultimate Step-by-Step on Instagram Filter Usage 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-comprehensive-analysis-mastering-the-art-of-video-editing-with-vivacut/"><u>2024 Approved Comprehensive Analysis Mastering the Art of Video Editing With VivaCut</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-unlocking-the-magic-advanced-techniques-for-tiktok-videos/"><u>2024 Approved Unlocking the Magic Advanced Techniques for TikTok Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992283854-anthem-startup-stuck-break-free-from-the-infinite-load-screen-error/"><u>Anthem Startup Stuck? Break Free From the Infinite Load Screen Error</u></a></li>
+<li><a href="https://facebook.techidaily.com/breaking-barriers-in-digital-dialogue-with-facebook-sounds/"><u>Breaking Barriers in Digital Dialogue with Facebook Sounds</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/cementing-climactic-conclusions/"><u>Cementing Climactic Conclusions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cortana-malfunction-solutions-restoring-your-digital-assistants-functionality/"><u>Cortana Malfunction Solutions - Restoring Your Digital Assistant's Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-encounters-critical-error-code-2024-what-players-need-to-know/"><u>Cyberpunk 2077 Encounters Critical Error Code 2024: What Players Need To Know</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-your-hunt-on-overcoming-initial-load-problems-with-monster-hunter-rise/"><u>Get Your Hunt On: Overcoming Initial Load Problems with Monster Hunter Rise</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-troubleshooting-discord-not-launching/"><u>Quick Fixes for Troubleshooting 'Discord Not Launching'</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-note-30i-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Note 30i on Windows</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/steps-to-develop-a-charismatic-vlog-script/"><u>Steps to Develop a Charismatic Vlog Script</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-beat-saber-from-crashing-top-solutions-for-stable-gameplay-experience/"><u>Stop Beat Saber From Crashing - Top Solutions for Stable Gameplay Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-your-editing-potential-the-ultimate-guide-to-background-erasure-in-ps/"><u>Unlock Your Editing Potential The Ultimate Guide to Background Erasure in PS</u></a></li>
+</ul></div>
 

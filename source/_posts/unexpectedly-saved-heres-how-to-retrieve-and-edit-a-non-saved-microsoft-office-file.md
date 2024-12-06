@@ -1,7 +1,7 @@
 ---
 title: Unexpectedly Saved? Here's How to Retrieve and Edit a Non-Saved Microsoft Office File
-date: 2024-08-27T23:58:15.969Z
-updated: 2024-08-28T23:58:15.969Z
+date: 2024-12-03T16:17:20.575Z
+updated: 2024-12-06T16:18:03.590Z
 tags:
   - excel
 categories:
@@ -30,16 +30,21 @@ Related: [Why Deleted Files Can Be Recovered, and How You Can Prevent It](https:
 
  There are two easy ways to recover an unsaved file, and we'll outline them both.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ###  Recover a File with the Recover Unsaved Documents Button
 
  Here's the fastest way: Open up Word --- or any other Office program --- then click on the "Open" tab. Click the "Recover Unused Documents" button near the bottom right of the Window.
 
 ![Click &quot;Open,&quot; then click &quot;Recover Unsaved Documents.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/click-open-click-recover-unused-documents.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then all you need to do is select the unsaved file you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Recover a File with the Manage Document Button
 
@@ -48,8 +53,9 @@ Related: [Why Deleted Files Can Be Recovered, and How You Can Prevent It](https:
 ![Click &quot;File&quot; in the top left-hand corner.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/Click-File.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Info" in the File menu.
 
  You might have to hit "New" or "Open" to make the "Info" button clickable.
@@ -57,24 +63,21 @@ Related: [Why Deleted Files Can Be Recovered, and How You Can Prevent It](https:
 ![Click the &quot;Info&quot; tab in the sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/click-info.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the Info page, click "Manage Document" and then, from the drop-down menu, choose "Recover Unsaved Documents." Note also that you have an option for deleting all unsaved documents should you want to do that.
 
 ![Click &quot;Manage Document,&quot; then click &quot;Recover Unsaved Documents.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/click-manage-document.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  The UnsavedFiles folder contains all unsaved files Office has created temporary backups for. Select the file you need and then click Open.
 
 ![Select your unsaved document --- it'll have an &quot;ASD&quot; file format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/selectfile-then-click-opn.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Office applications automatically save temporary backups of files at periodic intervals (every 10 minutes, by default), so your file should contain most of the work you lost.
 
 ##  Change How Office Applications Automatically Save Files
@@ -89,9 +92,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Click on the &quot;Save&quot; tab, then tweak the autosave settings to your liking.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/Word.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If autosaving every 5 or 10 minutes seems like too long an interval (it does to us), bump that setting down to whatever you want. You can set it to autosave anywhere from every one minute to every 120 minutes. We've found that the background saving doesn't really interrupt anything, so usually set it down to around two minutes. We recommend keeping the other two options at their default settings, unless you have a good reason to change them.
 
  And that's about it! The Office recovery feature won't save you from every kind of mishap you might run into with your files, but it can sure come in handy during those occasional moments of panic.
@@ -102,8 +102,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +109,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[Updated] Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-infinix-smart-8-hd-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Infinix Smart 8 HD to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-remedies-for-fixing-the-non-responsive-steelseries-gg-engine-on-windows-systems/"><u>Effective Remedies for Fixing the Non-Responsive SteelSeries GG Engine on Windows Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fixing-persona-nought-failure-to-loadlaunch-in-version-3-reloaded/"><u>Guide to Fixing Persona Nought Failure to Load/Launch in Version 3 Reloaded</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-art-of-saturation-and-contrast-in-gopro-editing/"><u>In 2024, The Art of Saturation and Contrast in GoPro Editing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-honor-70-lite-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Honor 70 Lite 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/professional-grade-grid-tools-for-striking-instagram-posts/"><u>Professional-Grade Grid Tools for Striking Instagram Posts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/sketch-like-a-pro-on-the-huion-kamvas-gt-191-an-extensive-review-of-this-large-canvas-pen-device/"><u>Sketch Like a Pro on the Huion Kamvas GT-191: An Extensive Review of This Large Canvas Pen Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-sea-of-thieves-from-crashing-tips-and-solutions-to-enhance-your-gaming-experience/"><u>Stop Sea of Thieves From Crashing: Tips & Solutions to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-gatekeepers-to-hell-the-devil-and-heaven-michael-both-have-their-own-music-when-they-appear-on-stage-and-michael-is-portrayed-with-a-halo-over-his-head-459/"><u>The Gatekeepers to Hell (the Devil) and Heaven (Michael); Both Have Their Own Music when They Appear on Stage, and Michael Is Portrayed with a Halo over His Head Like an Angelic Figure</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-helldivers-2-a-guide-to-fix-steam-installation-issues/"><u>Troubleshooting Helldivers 2: A Guide to Fix Steam Installation Issues</u></a></li>
+</ul></div>
 

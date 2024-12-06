@@ -1,7 +1,7 @@
 ---
 title: "Easier Reading: 6 Essential Strategies for Organizing Your Excel Data"
-date: 2024-08-27T23:57:27.241Z
-updated: 2024-08-28T23:57:27.241Z
+date: 2024-11-29T16:36:31.736Z
+updated: 2024-12-06T16:32:47.433Z
 tags:
   - excel
 categories:
@@ -26,11 +26,19 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
 ![An unformatted Excel spreadsheet containing several rows and columns of data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/unformatted.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Tip 1: Freeze Your Rows and Columns
 
  Our spreadsheet is very large with lots of rows and columns, which means that when we scroll down or across, we can't see the row or column headers. [Freezing your column and row headers](https://some-guidance.techidaily.com/updated-the-artisan-editor-refining-video-transitions-with-inshot/) will keep them permanently in view, no matter where you are on your sheet. To see your freezing options, open the "View" tab on the ribbon, and click "Freeze Panes" in the Window group.
 
 ![An Excel spreadsheet with the Freeze Panes option selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/freeze-panes.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Freeze Top Row and Freeze First Column:** As their names suggest, these two options let you freeze row 1 or column A. Excel chooses these as quick-access freezing options because this is usually where your row and column headers sit. Note, however, that these options do not allow you to perform both actions—if you click one of these two options and then click the other, only the last option you chose will be performed on your sheet.
 
@@ -46,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/7190f701d24b2bca2702a5bcd803eaeb74415822a
 
  To unfreeze the panes, go back to the "View" tab on the ribbon, click the "Freeze Panes" button, and choose "Unfreeze Panes." Pressing Ctrl+Z (undo) will not work.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ##  Tip 2: Don't Overuse Cell Borders
 
  It's often tempting to [add borders to your cells](https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-on-apple-iphone-14-by-drfone-ios/) to make things clearer, but this can make your spreadsheet look clunky and unprofessional. After all, Excel already has its in-built gridlines to help you differentiate between cells. Instead, color your cells or use horizontal borders only.
@@ -65,22 +66,16 @@ No advertising on the website.
 
 ![An Excel worksheet with the totals row selected, and the border and color icons highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We recommend you apply a top border only, and use a light color fill, such as light blue or gray.
 
 ![An Excel worksheet with a totals row at the foot of a table colored and with a top border.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/totals-row-formatted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For more border or color options, right-click the row number, and click "Format Cells." Whichever color you choose, use variants of that same color throughout your spreadsheet (tip 3). Furthermore, you can let Excel create the table formatting for you (tip 5).
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Tip 3: Use Consistent Formatting
 
  We're making good progress with our spreadsheet, but one thing that still stands out is that we can't see the column headers fully as the text won't fit into our cell width. Follow two steps to achieve this consistently.
@@ -88,6 +83,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  First, if you have lengthy column headers, [wrap the text in the cell](https://screen-video-capture.techidaily.com/in-2024-apex-thrill-racers-our-favorites-5/). This means that the text runs onto the next line to fit into the chosen cell width. To do this, highlight the header row, and open the "Home" tab. Then, in the Alignment group, click "Wrap Text."
 
 ![An Excel worksheet with the header row highlighted and 'Wrap Text' selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/wrap-text.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will see that the text in each cell along this row has now adjusted to fit the cell width.
 
@@ -97,18 +96,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![An Excel worksheet with all cells highlighted and an arrow pointing at the divide between two column headers where it is possible to change the column widths.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/adjust-column-widths.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you've achieved a suitable cell width, click anywhere on your sheet to deselect the cells. You'll notice that doing this makes your spreadsheet far less cramped, which, again, is pleasing on the eye.
 
  We'd also recommend that you center-align your headers vertically and horizontally to add that extra professional quality. Select the header row and click both center alignment icons in the Alignment group on the Home tab.
@@ -123,13 +110,18 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 * Choose a color palette. When choosing cell or font colors, follow the vertical columns in the theme colors to use different shades of the same colors. Not only does this make your spreadsheet more professional, but it also means that if you [use conditional formatting](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/), you can choose a color that will stand out against your chosen color palette.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Tip 4: Use Notes to Avoid Too Much Text
 
  Having too much text in a cell defeats the objective of having an easy-to-read Excel sheet. To get around this, right-click the relevant cell and click "New Note." Then, rather than filling the cell with lots of text, you can add extra information to the note.
 
 ![An Excel worksheet with the 'New Note' option selected after having right-clicked on a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/cell-note.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type the details you want to add to this cell's note, and then click away from the note to save and close it. You'll then see that the cell has a small red marker in the corner to tell you there's a note. Hover over any cells containing this red marker to see the note.
 
@@ -145,6 +137,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Data selected in an Excel worksheet, and the chart options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/insert-chart.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also tell Excel to [format your tables](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/). To do this, highlight all the data in your table, including the header row or column. Then, open the "Home" tab, and click "Format As Table" in the Stypes group, and choose a layout that works with your chosen color palette.
 
 ![The Format As Table option displayed in an Excel worksheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/format-as-table.png) 
@@ -154,8 +150,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Excel's Table Style Options group in the Table Design tab is displayed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/table-style-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Tip 6: Share as a PDF to Lock Your Layout
 
  Now that you have a professionally formatted Excel sheet that is easy to read, it's ready to share and print. Excel's formatting can change if you share the workbook with someone who will open it on their mobile or a computer with an older version of Excel, and all your hard work might be undone. To keep your layout intact, [save your worksheet as a PDF](https://win-able.techidaily.com/how-to-solve-game-lag-and-skipping-frames-in-modern-warfare-ii-cod/).
@@ -164,9 +161,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![The Save As window with 'PDF' selected as the Save As Type option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/save-as-pdf.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  If you know what type of spreadsheet you're creating, whether that be a budget report or calendar, try [using one of Excel's templates](https://ai-video-tools.techidaily.com/updated-in-2024-unlocking-stills-from-videos-top-10-conversion-tools/), which are already set up and formatted to look slick and professional.
@@ -177,8 +171,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +178,19 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-comprehensible-breakdown-for-youtube-annotation-and-card-implementation-for-2024/"><u>[New] A Comprehensible Breakdown for YouTube Annotation and Card Implementation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-download-dos-and-donts-for-vrecorder/"><u>[New] Download Dos & Don’ts for VRecorder</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-best-platforms-for-futuristic-font-designs/"><u>[New] In 2024, Best Platforms for Futuristic Font Designs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-character-voice-modification-techniques-in-free-fire-no-cost-for-2024/"><u>[New] Mastering Character Voice Modification Techniques in Free Fire (No Cost!) For 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-avoiding-common-mistakes-in-screencasting/"><u>[Updated] Avoiding Common Mistakes in Screencasting</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-fix-chromium-and-youtube-streams/"><u>2024 Approved Fix Chromium and YouTube Streams</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-cod-modern-warfare-persistent-crashing-issues/"><u>How To Fix Cod: Modern Warfare Persistent Crashing Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-mp4-video-tag-editors-are-used-to-alter-or-add-general-information-to-a-video-to-help-you-find-the-best-video-tag-editor-weve-compiled-a-list-of/"><u>New In 2024, MP4 Video Tag Editors Are Used to Alter or Add General Information to a Video. To Help You Find the Best Video Tag Editor, Weve Compiled a List of the Top 10 Best MP4 Tag Editors for Windows and Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-black-screen-problems-on-your-persona-5-strikers-gameplay/"><u>Resolving Black Screen Problems on Your Persona 5 Strikers Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-nier-reach-edition-failure-to-boot/"><u>Solving the Issue of NieR Reach Edition Failure to Boot</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-armored-core-eb-fires-of-rubicon-crashes-on-pc/"><u>Troubleshooting Steps for 'Armored Core Eb: Fires of Rubicon' Crashes on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-and-fixing-launch-errors-in-the-pc-version-of-a-total-war-troy/"><u>Understanding and Fixing Launch Errors in the PC Version of 'A Total War: Troy'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: OBS Not Capturing Your Screen Anymore"
-date: 2024-11-13T16:00:29.095Z
-updated: 2024-11-17T11:13:16.920Z
+date: 2024-12-05T18:24:59.284Z
+updated: 2024-12-06T16:39:30.706Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 8. **[Turn VSync off](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Riot Vanguard](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Update your graphics driver
 
  You will get this error message**Graphics driver crashed** if the driver is outdated, corrupted, or incompatible, so you should try updating the graphics driver, especially when you haven’t done so for a while.
@@ -60,10 +53,7 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 **Note:** Please uninstall the graphics driver first to make sure you’re using the right driver when you update a driver manually.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2 – Automatically
@@ -78,7 +68,15 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Roll back the graphics driver
 
@@ -103,6 +101,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
@@ -120,16 +122,7 @@ To fix this, you can try resetting the software to default:
 * Click on **Restore Defaults** .
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### CATALYST Control Center
@@ -145,13 +138,6 @@ To fix this, you can try resetting the software to default:
 1) Launch Valorant.
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -186,10 +172,7 @@ To fix this, you can try resetting the software to default:
 * First Person Shadows: Off
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 9: Reinstall Riot Vanguard
@@ -201,13 +184,6 @@ To fix this, you can try resetting the software to default:
  2) Type**appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/uninstall-app-now.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click Riot Vanguard and select**Uninstall** .
 
@@ -236,18 +212,17 @@ To fix this, you can try resetting the software to default:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-film-like-a-pro-with-macbook-webcam-tutorial/"><u>[New] 2024 Approved Film Like a Pro with MacBook Webcam Tutorial</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-mac-efficiency-for-academics-audio-record-of-classroom-learning-for-2024/"><u>[New] Mac Efficiency for Academics Audio Record of Classroom Learning for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-creation-your-guide-to-googles-audio-upload/"><u>2024 Approved From Creation Your Guide to Google's Audio Upload</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fast-and-effective-ways-to-get-your-madden-22-game-running-smoothly/"><u>Fast & Effective Ways to Get Your Madden 22 Game Running Smoothly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Infinix Smart 7 HD | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-honor-v-purse-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Honor V Purse using Video Repair Utility?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-resolve-the-fatal-developer-glitches-in-call-of-dutys-mw-and-wz-games/"><u>How to Resolve the Fatal Developer Glitches in Call of Duty's MW & WZ Games</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stabilize-and-repair-phoenix-point-performance-glitches/"><u>How to Stabilize and Repair Phoenix Point Performance Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-mordhau-from-crashing-on-your-pc-or-console/"><u>How to Stop Mordhau From Crashing on Your PC or Console</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-and-cons-of-inshot-is-it-the-ultimate-editor-in-2024/"><u>Pros and Cons of InShot Is It the Ultimate Editor, In 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/success-story-fixing-the-graphics-driver-errors-on-your-oculus-device/"><u>Success Story - Fixing The Graphics Driver Errors On Your Oculus Device</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/the-art-of-condensation-editing-youtube-video-durations/"><u>The Art of Condensation Editing YouTube Video Durations</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-low-frames-per-second-fps-in-valheim-effective-tips-for-smoother-gaming-in-202n4/"><u>Troubleshooting Low Frames Per Second (FPS) in Valheim: Effective Tips for Smoother Gaming in 202N4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-editing-made-easy-with-lunapic-for-first-timers-for-2024/"><u>[New] Editing Made Easy with LunaPic For First-Timers for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-a-deep-dive-into-competitive-ar-stickers-outside-google/"><u>[Updated] 2024 Approved A Deep Dive Into Competitive AR Stickers Outside Google</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-best-meme-photo-editor/"><u>[Updated] In 2024, Best Meme Photo Editor</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-cameras-excelling-in-stability-perfect-for-action/"><u>Elite Cameras Excelling in Stability, Perfect for Action</u></a></li>
+<li><a href="https://win-answers.techidaily.com/j-popmp3-2024/"><u>J-POPフリーMP3楽曲にアクセスする究極の方法 2024年版</u></a></li>
+<li><a href="https://win-answers.techidaily.com/leading-free-tools-for-seamless-3d-video-extraction-and-download/"><u>Leading Free Tools for Seamless 3D Video Extraction and Download</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mp4-to-mp3-conversion-guide-free-methods-for-windows-11-users/"><u>MP4 to MP3 Conversion Guide: Free Methods for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mpeg4-to-mp4-conversion-made-simple-a-three-step-guide-for-seamless-editing/"><u>MPEG4 to MP4 Conversion Made Simple - A Three-Step Guide for Seamless Editing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigate-video-trimming-with-ease-on-windows-11-photos/"><u>Navigate Video Trimming with Ease on Windows 11 Photos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/oral-outputs-the-ultimate-list-for-offline-transcription-apps/"><u>Oral Outputs The Ultimate List for Offline Transcription Apps</u></a></li>
+<li><a href="https://win-answers.techidaily.com/powerful-techniques-for-video-compression-on-windows-11s-photo-app-and-alternatives-when-unsuccessful/"><u>Powerful Techniques for Video Compression on Windows 11'S Photo App & Alternatives when Unsuccessful</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/reunite-your-memories-with-datafinder-ai/"><u>Reunite Your Memories with DataFinder AI</u></a></li>
 </ul></div>
 

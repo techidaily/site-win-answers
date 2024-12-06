@@ -1,7 +1,7 @@
 ---
 title: "Essential 12 Spreadsheet Commands: A Must-Know Guide for All Excel Users"
-date: 2024-08-27T23:58:12.386Z
-updated: 2024-08-28T23:58:12.386Z
+date: 2024-12-05T16:39:16.628Z
+updated: 2024-12-06T18:15:20.402Z
 tags:
   - excel
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 * [Count the Number of Characters in a String: LEN](https://games-able.techidaily.com/top-10-choices-expert-reviews-on-xbox-recording-tech/)
 
  Microsoft Excel contains many functions that allow you to perform tasks without a calculator or extra work. But if you're unfamiliar with formulas, it can feel intimidating. Here, we've listed 12 simple but [useful Excel functions](https://some-techniques.techidaily.com/new-exploring-whatsapp-voice-chat-features/) to get you started.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Add Numbers in Cells: SUM
 
@@ -61,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![AVERAGE function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AVERAGE-ExcelBasicFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.techidaily.com/get-1k-followers-every-month-on-instagram-for-2024/) 
 
 ##  3\. Find the High or Low Value: MIN and MAX
@@ -97,6 +102,10 @@ Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.
 
 ![MEDIAN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/MEDIAN-ExcelBasicFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. Count Cells Containing Numbers: COUNT
 
  Maybe you'd like to [count how many cells](https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) in a range contain numbers. For this, you would use the COUNT function.
@@ -111,11 +120,11 @@ Related: [How to Calculate a Weighted Average in Excel](https://instagram-clips.
 
 ![COUNT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/COUNT-ExcelBasicFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Insert the Current Date and Time: NOW
 
@@ -135,9 +144,6 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 
 ![NOW function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/NOW-ExcelBasicFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ##  7\. Round to a Certain Number of Digits: ROUND
 
  If you have decimal numbers in your sheet that you want to round up or down, use the [ROUND function](https://instagram-clips.techidaily.com/2024-approved-snickel-and-wail-instagrams-10-most-hilarious-meme-accounts/) in Excel.
@@ -151,6 +157,10 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
  And you have your results. If you want to round down, simply use a negative number for the digits argument.
 
 ![ROUND function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ROUND-ExcelBasicFunctions.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Truncate a Number by Removing the Fraction: TRUNC
 
@@ -167,15 +177,9 @@ Related: [How to Count Cells in Microsoft Excel](https://howto.techidaily.com/fi
 ![TRUNC function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/TRUNC-ExcelBasicFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
+
 ##  9\. Find the Product by Multiplying Cells: PRODUCT
 
  If you need to [multiply several cells](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/), using the PRODUCT function is more efficient than using the multiplication symbol (\*) in a formula.
@@ -192,9 +196,6 @@ No advertising on the website.
 
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  10\. Use the Reference Number of a Given Cell: COLUMN and ROW
 
  With the COLUMN and ROW functions in Excel, you can return the position number of a cell. These functions are useful for entering a series of reference numbers in your sheet, or [row numbers](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/), for instance.
@@ -214,11 +215,13 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 ![ROW function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ROW-ExcelBasicFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  11\. Eliminate White Space: TRIM
 
  Oftentimes you when you paste or import data, it contains extra spaces. The [TRIM function](https://graphic-issues.techidaily.com/regaining-access-to-nvidia-writable-displays/) eliminates white space.
@@ -233,9 +236,6 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 
 ![TRIM function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/TRIM-ExcelBasicFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  12\. Count the Number of Characters in a String: LEN
 
  Maybe you need to find the number of characters in a string of text. Here, you'd use the [LEN function](https://extra-hints.techidaily.com/scalable-and-stylish-type-in-ae-with-top-choices/) in Excel.
@@ -251,8 +251,9 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 ![LEN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/LEN-ExcelBasicFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are many other useful functions in Excel such as [VLOOKUP for finding a value](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/) and [CONCATENATE for joining strings of text](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/). But this list of the basics should help you with simple tasks while becoming more familiar with using functions.
 
 <ins class="adsbygoogle"
@@ -261,8 +262,6 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +269,24 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-8-tips-on-how-to-vlog-confidently-like-popular-youtubers-for-2024/"><u>[Updated] 8 Tips on How to Vlog Confidently Like Popular YouTubers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-iphones-secret-life-after-the-shot/"><u>[Updated] Unveiling iPhone's Secret Life After the Shot</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-the-shadows-overcome-mouse-troubles-in-resident-evil-village-with-these-proven-techniques/"><u>Conquer the Shadows: Overcome Mouse Troubles in Resident Evil Village with These Proven Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/dialogue-enrichment-system/"><u>Dialogue Enrichment System</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-0x887a0006-dissected-your-blueprint-to-a-rapid-and-straightforward-repair/"><u>Error 0X887A0006 Dissected - Your Blueprint to a Rapid and Straightforward Repair!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-elimination-guide-how-to-successfully-address-the-tarkov-103003-glitch/"><u>Error Elimination Guide: How to Successfully Address the Tarkov 103003 Glitch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/global-gala-top-videos-to-binge-for-2024/"><u>Global Gala Top Videos to Binge for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-remnant-from-the-ashes-from-keep-collapsing-comprehensive-solutions-and-fixes/"><u>How to Stop Remnant: From the Ashes From Keep Collapsing - Comprehensive Solutions & Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-unresponsive-elden-ring-cooperative-gameplay/"><u>How to Troubleshoot Unresponsive Elden Ring Cooperative Gameplay</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-unexpected-shutdowns-in-the-ark-database-best-practices/"><u>Overcoming Unexpected Shutdowns in the ARK Database: Best Practices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984361776-re7s-sequel-plagued-by-black-pixels-heres-how-to-solve-the-re-village-visual-glitch/"><u>RE7's Sequel Plagued by Black Pixels? Here's How to Solve the RE Village Visual Glitch!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/retrieving-missing-video-controls-for-nvidia-devices/"><u>Retrieving Missing Video Controls for NVIDIA Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-d3dx925dll-file-not-detected-issue-a-step-by-step-guide/"><u>Solving the d3dx9_25.dll File Not Detected Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-computing-weighted-averages-using-microsoft-excel/"><u>Step-by-Step Guide: Computing Weighted Averages Using Microsoft Excel</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-heartstone-game-crashes-on-windows/"><u>Troubleshooting Guide: Resolving HeartStone Game Crashes on Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Stop Cod: Modern Warfare From Breaking Down"
-date: 2024-11-24T00:50:13.667Z
-updated: 2024-11-27T01:03:29.691Z
+date: 2024-12-05T17:25:01.627Z
+updated: 2024-12-06T19:20:06.114Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -58,7 +62,15 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -81,15 +93,7 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this method doesn’t do the trick, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Remove Multiplayer game packs
 
@@ -99,24 +103,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this trick doesn’t help you, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
@@ -144,22 +144,16 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/levate-views-with-optimal-youtube-thumbnails-and-ratios/"><u>[New] Elevate Views with Optimal YouTube Thumbnails & Ratios</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-dive-into-filmmaking-the-role-of-lenses-in-videos/"><u>[Updated] Dive Into Filmmaking The Role of Lenses in Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-worth-of-sns-hdr-an-in-depth-comparison-study/"><u>[Updated] The Worth of SNS HDR An In-Depth Comparison Study</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-honor-x50-gt-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Honor X50 GT Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-sony-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Sony</u></a></li>
-<li><a href="https://win-answers.techidaily.com/cyberpunk-2077-optimization-resolving-intense-processor-load-issues/"><u>Cyberpunk 2077 Optimization - Resolving Intense Processor Load Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-effortless-integration-for-windows-11s-touch/"><u>Download & Effortless Integration for Windows 11'S Touch</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-fixes-for-when-manor-lords-stops-responding-during-gameplay-on-your-computer/"><u>Effective Fixes for When Manor Lords Stops Responding During Gameplay on Your Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-black-screen-glitches-for-a-smooth-gameplay-experience-with-far-cry-6/"><u>Eliminate Black Screen Glitches for a Smooth Gameplay Experience with Far Cry 6</u></a></li>
-<li><a href="https://win-answers.techidaily.com/explore-the-seas-uninterrupted-sea-of-thieves-stability-patch/"><u>Explore the Seas Uninterrupted: Sea of Thieves Stability Patch</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-setup-download-and-update-your-scansnap-driver-for-windows-now/"><u>Hassle-Free Setup: Download & Update Your ScanSnap Driver for Windows Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-clear-a-locked-content-error-in-steam-gaming/"><u>How to Clear a Locked Content Error in Steam Gaming</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-6s-without-apple-account-by-drfone-ios/"><u>How to Remove the Activation Lock On your iPad and Apple iPhone 6s without Apple Account</u></a></li>
-<li><a href="https://win-answers.techidaily.com/optimize-playability-resolving-crashes-and-lagging-in-psychonauts-2-for-desktop-gamers/"><u>Optimize Playability: Resolving Crashes and Lagging in Psychonauts 2 for Desktop Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-instructions-overcoming-launch-problems-with-helldivers-2-on-steam/"><u>Step-by-Step Instructions: Overcoming Launch Problems with Helldivers 2 on Steam</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/top-solutions-overcome-error-retrieving-frame-problems-in-adobe-premiere-pro/"><u>Top Solutions: Overcome 'Error Retrieving Frame' Problems in Adobe Premiere Pro</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722998379948-trouble-playing-robocops-latest-installment-rogue-city-solutions-found/"><u>Trouble Playing RoboCop's Latest Installment, 'Rogue City': Solutions Found!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-keeping-your-tiktok-age-up-to-date-a-quick-guide/"><u>[Updated] Keeping Your TikTok Age Up-to-Date A Quick Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premier-20-unrestricted-pubg-montage-samples-for-2024/"><u>[Updated] Premier 20 Unrestricted PUBG Montage Samples for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pinnacle-screenshot-programs/"><u>2024 Approved Pinnacle Screenshot Programs</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-y02t-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snapchat-emojis-explained-more-than-meets-the-eye/"><u>In 2024, Snapchat Emojis Explained More Than Meets the Eye</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2021-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2021 Spreadsheet Disappears after Opening</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-rated-free-dvd-ripper-tools-for-windows-11-users-ultimate-guide-and-downloads/"><u>Top Rated Free DVD Ripper Tools for Windows 11 Users: Ultimate Guide & Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-transforming-your-vhs-collection-into-dvd-format-using-top-rated-software/"><u>Ultimate Guide: Transforming Your VHS Collection Into DVD Format Using Top Rated Software</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-list-of-the-9-greatest-software-screen-capture-solutions-on-windows-vehicle-7/"><u>Ultimate List of the 9 Greatest Software Screen Capture Solutions on Windows Vehicle 7</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-dvd-protection-a-step-by-step-approach-to-mastering-css-cracking-tools/"><u>Unlocking DVD Protection: A Step-by-Step Approach to Mastering CSS Cracking Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tv-stick/"><u>どうやってファイア TV Stickで視聴中のテレビ番組を記録するか？</u></a></li>
 </ul></div>
 

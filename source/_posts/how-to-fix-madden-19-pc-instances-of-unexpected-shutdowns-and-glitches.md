@@ -1,7 +1,7 @@
 ---
 title: How to Fix Madden 19 PC Instances of Unexpected Shutdowns and Glitches
-date: 2024-11-20T01:47:14.571Z
-updated: 2024-11-26T17:13:08.667Z
+date: 2024-12-04T16:39:35.609Z
+updated: 2024-12-06T17:26:59.672Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
@@ -49,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -74,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  5) Save your change and restart your game.
 
  Your problem still persists, don’t worry. There are other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -100,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Once your driver has been updated, restart your computer.
@@ -123,6 +119,10 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -130,6 +130,10 @@ If you can’t access the in-game settings, try this:
  5) Change the game effect settings to Low, especially for**Effects quality** ,**Shadow quality** , and**Light quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Save your file changes and restart your game.
 
@@ -147,16 +151,12 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
@@ -164,7 +164,7 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
@@ -192,24 +192,17 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-samsung-galaxy-a15-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Samsung Galaxy A15 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/essential-ai-techniques-for-bing-android-app-users/"><u>Essential AI Techniques for Bing Android App Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-on-getting-your-msi-graphics-driver-and-center-back-online/"><u>Expert Tips on Getting Your MSI Graphics Driver and Center Back Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exquisite-savings-exceptional-high-end-gadgets-worth-a-spin/"><u>Exquisite Savings: Exceptional High-End Gadgets Worth a Spin</u></a></li>
-<li><a href="https://win-answers.techidaily.com/get-smooth-play-in-valheim-essential-tips-for-fixing-high-ping-on-pc/"><u>Get Smooth Play in Valheim: Essential Tips for Fixing High Ping on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guilty-gear-strive-on-pc-step-by-step-solutions-for-uninterrupted-play-and-avoiding-system-failures/"><u>Guilty Gear Strive on PC: Step-by-Step Solutions for Uninterrupted Play and Avoiding System Failures</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-your-account-from-a-vac-error-on-dota-2/"><u>How to Prevent Your Account From a VAC Error on Dota 2</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-in-your-phasmophobia-vr-experience/"><u>How to Restore Functionality in Your Phasmophobia VR Experience</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-oneplus-ace-2-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your OnePlus Ace 2 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-oneplus-nord-n30-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your OnePlus Nord N30 5G</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-sculpt-visual-jokes-adobe-memes-guide/"><u>In 2024, Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-friends-close-and-strangers-outdoorsy/"><u>Keeping Friends Close and Strangers Outdoorsy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-quiet-zone-heres-how-to-restore-sound-on-your-computer-game/"><u>Minecraft Quiet Zone? Here's How to Restore Sound on Your Computer Game</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-a58-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A58 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-doubts-definitive-edition-of-the-mafia-set-to-drop-soon/"><u>Resolving Doubts: 'Definitive Edition' Of The Mafia Set to Drop Soon</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-continuous-errors-and-crashing-in-the-pc-version-of-msfs-2020/"><u>Troubleshooting Continuous Errors and Crashing in the PC Version of MSFS 2020</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-heart-of-iron-iv-glitches-and-bugs-for-smoother-gameplay/"><u>Troubleshooting Heart of Iron IV Glitches and Bugs for Smoother Gameplay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-apples-sneaky-savings-score-the-elusive-discounted-ipad-pro-before-prime-day-insights/"><u>Unveiling Apple’s Sneaky Savings: Score the Elusive Discounted iPad Pro Before Prime Day | Insights</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-10-most-popular-minion-memes-that-moms-are-crazy-about/"><u>Updated 2024 Approved 10 Most Popular Minion Memes that Moms Are Crazy About</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-reigning-in-your-digital-domain-with-a-precision-plan-for-smm-excellence/"><u>[New] Reigning in Your Digital Domain with a Precision Plan for SMM Excellence</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-next-gen-cinema-at-home-best-3d-blu-ray-devices/"><u>[Updated] 2024 Approved Next-Gen Cinema at Home Best 3D Blu-Ray Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-luts-guide-to-professional-movie-coloring/"><u>[Updated] Luts Guide to Professional Movie Coloring</u></a></li>
+<li><a href="https://games-able.techidaily.com/6-subtle-steps-to-cut-costs-using-xbox/"><u>6 Subtle Steps to Cut Costs Using Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-gameplay-for-call-of-duty-warzone-master-techniques-to-fix-stutter-and-raise-fps/"><u>Enhanced Gameplay for Call of Duty: Warzone – Master Techniques To Fix Stutter & Raise FPS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-correct-directx-errors-in-the-latest-battlefield-2042-game-version/"><u>Expert Tips to Correct DirectX Errors in the Latest Battlefield 2042 Game Version</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-ring-of-elysium-stability-issues-a-comprehensive-guide/"><u>Fixing Ring of Elysium Stability Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://app-tips.techidaily.com/grounding-is-especially-critical-for-transmitting-antennas-due-to-the-high-power-involved-which-increases-the-risk-of-lightning-strikes-and-electrical-hazar80/"><u>Grounding Is Especially Critical for Transmitting Antennas Due to the High Power Involved, Which Increases the Risk of Lightning Strikes and Electrical Hazards.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-download-and-install-age-of-empires-iv-from-the-microsoft-store/"><u>How to Successfully Download and Install Age of Empires IV From the Microsoft Store</u></a></li>
+<li><a href="https://win-latest.techidaily.com/le-choix-des-experts-top-4-solutions-logicielles-de-sauvegarde-ssd/"><u>Le Choix Des Experts : Top 4 Solutions Logicielles De Sauvegarde SSD</u></a></li>
+<li><a href="https://win-answers.techidaily.com/optimizing-your-gameplay-fixing-the-farming-simulator-22-fps-decrease-on-pc/"><u>Optimizing Your Gameplay: Fixing the Farming Simulator 22 FPS Decrease on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speedy-repair-techniques-for-when-the-camera-option-vanishes-from-pcs-device-manager/"><u>Speedy Repair Techniques for When the Camera Option Vanishes From PC's Device Manager</u></a></li>
 </ul></div>
 

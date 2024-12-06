@@ -1,7 +1,7 @@
 ---
 title: "Mastering Image Orientation: Tips for Easy Rotating Photos on Windows 11"
-date: 2024-08-27T23:55:15.332Z
-updated: 2024-08-28T23:55:15.332Z
+date: 2024-11-29T16:45:35.332Z
+updated: 2024-12-06T17:20:06.986Z
 tags:
   - windows
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ## Mastering Image Orientation: Tips for Easy Rotating Photos on Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [From File Explorer](https://tech-recovery.techidaily.com/resolving-mozilla-thunderbirds-inability-to-boot-tips-and-techniques/)
 * [Rotate a Photo With the Photos App](https://screen-mirror.techidaily.com/how-to-do-google-pixel-7a-screen-sharing-drfone-by-drfone-android/)
 * [Using the Paint App](https://extra-information.techidaily.com/fast-track-to-time-lapse-magic-on-samsung-phones/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
  Whether you want to fix your image’s orientation or you think a photo will look better if it’s rotated a specific way, it’s quick and easy to rotate pictures on Windows 11\. We'll show you how to do that with your PC’s built-in apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  From File Explorer
 
  The quickest way to rotate an image to the left or the right is by using File Explorer. You can use this utility to rotate multiple pictures at once as well.
@@ -38,10 +43,11 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 !['Rotate Right' and 'Rotate Left' highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-rotate-image-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you make a mistake rotating the image, right-click the image again and choose the opposite rotation option. This will bring the image back to its default orientation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Rotate a Photo With the Photos App
 
@@ -55,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ![Edit Image highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-photos-edit-image.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’re now ready to edit the image.
 
  To rotate the image 90 degrees clockwise, in the bottom-left corner, click the icon that has an arrow going right. To rotate the image 90 degrees counterclockwise, click the arrow going left.
@@ -74,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-photos-save-image.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And that’s all.
 
 ##  Using the Paint App
@@ -82,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ![Open With > Paint highlighted in a picture's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-open-photo-with-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  In Paint, from the Image section at the top, select Rotate (a right-arrow icon).
 
 ![Rotate highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-paint-rotate-option.jpg) 
@@ -93,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 
 ![Photo rotation options highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-rotate-photo-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  When you’ve finished rotating the image, save it. To overwrite the original image with the rotated one, select File > Save from the menu bar or press Ctrl+S. To create a new copy of the image, select File > Save As and choose the preferred image format.
 
 !['Save' and 'Save As' highlighted in Paint's 'File' menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-save-image-paint.jpg) 
@@ -105,9 +106,9 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
 ![Path bar, 'File Name,' and 'Save' highlighted on the 'Save As' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-save-photo-location-name-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Paint has saved your image.
 
 ---
@@ -120,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +128,22 @@ thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa08
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-pictureweaver-pro-online-illustration-hub/"><u>[Updated] PictureWeaver Pro Online Illustration Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/banishing-shadows-ultimate-guide-to-fixing-cyberpunk-2077-screen-problems/"><u>Banishing Shadows: Ultimate Guide to Fixing Cyberpunk 2077 Screen Problems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creating-a-personalized-chatbot-integrating-your-unique-dataset-with-ai/"><u>Creating a Personalized Chatbot: Integrating Your Unique Dataset with AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-techniques-to-resolve-constant-content-warning-system-failures-in-pcs/"><u>Effective Techniques to Resolve Constant Content Warning System Failures in PCs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-solve-corsair-icue-compatibility-problems-on-windows-11/"><u>How to Solve Corsair iCUE Compatibility Problems on Windows 11</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-easy-routine-reverse-playback-on-vlc-platform/"><u>In 2024, Easy Routine Reverse Playback on VLC Platform</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-androids-picture-in-picture-feature-a-comprehensive-guide/"><u>Mastering Android's Picture-in-Picture Feature: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp3android-202-cufflinks24/"><u>MP3プレイヤーが機能しなくなったら、Android 202 Cufflinks24でこれを行う -対策ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-p3s-pc-game-crashes-no-more/"><u>Resolved: P3S PC Game Crashes No More</u></a></li>
+<li><a href="https://win-answers.techidaily.com/roblox-mute-mystery-unraveled-troubleshooting-no-sound-issues-in-w11w10/"><u>Roblox Mute Mystery Unraveled: Troubleshooting No Sound Issues in W11/W10</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-overcoming-the-nba-2k21-pc-crash-challenge/"><u>Smooth Gaming Experience: Overcoming the NBA 2K21 PC Crash Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-star-wars-jedi-fallen-order-pc-game-freezes-and-crashes/"><u>Solved! How to Fix 'Star Wars Jedi: Fallen Order' PC Game Freezes and Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-contactless-payments-how-to-activate-apple-pay-on-an-apple-watch/"><u>Unlock the Power of Contactless Payments: How to Activate Apple Pay on an Apple Watch</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unmasking-bogus-antivirus-alerts-learn-5-effective-defense-tactics/"><u>Unmasking Bogus Antivirus Alerts - Learn 5 Effective Defense Tactics</u></a></li>
+</ul></div>
 

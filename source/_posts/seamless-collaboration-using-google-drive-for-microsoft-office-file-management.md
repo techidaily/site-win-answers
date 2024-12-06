@@ -1,7 +1,7 @@
 ---
 title: "Seamless Collaboration: Using Google Drive for Microsoft Office File Management"
-date: 2024-08-27T23:57:49.334Z
-updated: 2024-08-28T23:57:49.334Z
+date: 2024-11-29T18:40:59.873Z
+updated: 2024-12-06T18:02:40.379Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
  You can also edit Microsoft Office files using the Google Drive app and the Google Docs, Google Sheets, and Google Slides apps on iOS or Android. We'll show you both methods in the guide below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Work with Microsoft Office Files on Google Drive on a PC or Mac
 
  Let's start with the desktop. If the Office file you want to edit and share is still on your PC’s hard drive, you can easily upload it to Google Drive and open it for editing in Chrome using a Chrome extension. Open Chrome, go to the [Office Editing for Docs, Sheets & Slides extension page](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj), click “Add to Chrome”, and follow the on-screen instructions to install it.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/b65bf539ad3bc7b67798ef76b0171c5880f30454a
 
 ![05_office_editing_popup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/05_office_editing_popup.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](https://vp-tips.techidaily.com/new-integrating-podcast-into-your-instagram-content-strategy/) 
 
  The Office file is uploaded to your Google Drive account and opened on the current tab. There a limited number of features you can use to edit the Office file in your Google Drive account. However, if you convert the document to a Google document, there are more features available, and you can [share the document with others](https://vp-tips.techidaily.com/new-integrating-podcast-into-your-instagram-content-strategy/).
@@ -43,6 +51,10 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
  To convert your Word file to a Google Docs document, select “Save as Google Docs” from the "File" menu. If you uploaded and opened an Excel file (.xlsx or .xls), the option would be “Save as Google Sheets” and if the file is a PowerPoint file (.pptx or .ppt), the option would be “Save as Google Slides”.
 
 ![07_selecting_save_as_google_docs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/07_selecting_save_as_google_docs.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A dialog box displays while the document is converted and saved to your Google Drive account. You can stop the conversion by clicking “Cancel”.
 
@@ -56,6 +68,10 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
 
 ![12_saving_document_as_word_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/12_saving_document_as_word_file.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another way to work with Office files in your Google Drive account is to upload them to your Google Drive account [using the Google app for Windows](https://vp-tips.techidaily.com/new-integrating-podcast-into-your-instagram-content-strategy/), which can be downloaded from [here](https://www.google.com/drive/download/). If you've uploaded your Word file this way, you can [access your Google Drive account from within a browser](http://drive.google.com), and then open the Word file in Google Docs. For my example, I’ll open my Word file by right-clicking on the file in my Google Drive account, selecting “Open with” from the popup menu, and then selecting “Google Docs” from the submenu.
 
 ![14_selecting_open_with_google_docs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/14_selecting_open_with_google_docs.png) 
@@ -67,8 +83,9 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
  At this point, the file is still a Word file and you're working in Office Compatibility Mode (OCM). To convert it to a Google Docs file, select “Save as Google Docs” from the "File" menu, just like you did after dragging the Word file onto the Chrome window.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Work with Microsoft Office Files on Google Drive on a Mobile Device
 
  You can also open and edit Office files using the [Google Docs app for iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-docs/id842842640?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.docs&hl=en) (for Word files), the [Google Sheets app for iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-sheets/id842849113?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.sheets&hl=en) (for Excel files), or the [Google Slides app for iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-slides/id879478102?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs.editors.slides&hl=en) (for PowerPoint files). However, you also need to install the [Google Drive app on iOS](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://itunes.apple.com/us/app/google-drive-free-online-storage/id507874739?mt=8) or [Android](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU218586/https://play.google.com/store/apps/details?id=com.google.android.apps.docs&hl=en). When you select an Office file to open in the Google Drive app, it's automatically opened in the appropriate Google document app.
@@ -77,10 +94,6 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
 
 ![18_google_drive_on_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/18_google_drive_on_ios.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Your Word file is automatically opened in Google Docs. You can edit the Word file as it is by tapping in the document (1) and adding content or changing existing content and formatting the text (2). Additional text and paragraph formatting options are available by clicking the text/paragraph icon on the toolbar at the top (3). When you're done editing the document, tap the check mark in the upper-left corner of the screen (4).
 
 ![18a_tapping_text_formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/18a_tapping_text_formatting.png) 
@@ -93,36 +106,31 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
 
 ![20_ocm_on_menu_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/20_ocm_on_menu_ios.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Notice in the image above that there is a Share & Export option on the menu, but when you tap on the "Share & Export" option, you'll find that there is no Share option available (on the left in the image below). Just like in a browser on the PC, you cannot share Word files in your Google Drive account. You must save a Word file as a Google Docs file if you want to share the file. Conveniently, the Share & Export submenu also allows you to "Save as Google Docs file".
 
  Once you've saved the file as a Google Docs file (which we will do next), the "Share & export" submenu includes a Share option (on the right in the image below), allowing you to share the current document with others. This submenu also includes the Save as Word (.docx) option, allowing you to convert the document back to a Word file.
 
 ![20a_share_and_export_menu_comparison](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/20a_share_and_export_menu_comparison.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  When you tap the "Save as Google Docs file" option on the Share & Export submenu in the Word document, a dialog box displays while the document is being saved as a Google Docs file.
 
 ![22_saving_as_google_docs_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/22_saving_as_google_docs_ios.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the document has been converted, “Office Compatibility Mode” is no longer on the main menu and some of the options are different, such as the Share & Export submenu we discussed above. Now you can edit and share your Google Docs document, and convert it back to a Word document, if you so choose.
 
 ![23_document_in_google_docs_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/23_document_in_google_docs_ios.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Back in the Google Drive app, the Google Docs version of my Word file is now available.
 
 ![24_google_docs_document_in_drive_ios](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/24_google_docs_document_in_drive_ios.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](https://vp-tips.techidaily.com/new-integrating-podcast-into-your-instagram-content-strategy/) 
 
@@ -136,8 +144,6 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +151,24 @@ Related: [How to Sync Your Desktop PC with Google Drive (and Google Photos)](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-digital-portraits-proven-the-science-of-social-snap-validation/"><u>[New] 2024 Approved Digital Portraits Proven The Science of Social Snap Validation</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-dividing-devices-top-cam-rating-review/"><u>[New] Dividing Devices Top Cam Rating Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-talk-turned-type-essential-apps-for-offline-speech-recognition/"><u>[New] Talk Turned Type Essential Apps for Offline Speech Recognition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-apex-legends-not-loading-quickly-and-easily/"><u>[Solved] Apex Legends Not Loading | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-superior-mp4-streamer-to-fb/"><u>[Updated] In 2024, Superior MP4 Streamer to FB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-your-soundtrack-anytime-anywhere-6-top-ranked-free-apps-to-download-youtube-music/"><u>[Updated] Your Soundtrack, Anytime, Anywhere 6 Top-Ranked Free Apps to Download Youtube Music</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-overcoming-fortnites-entry-point-unavailable-challenge/"><u>Comprehensive Guide: Overcoming Fortnite's 'Entry Point Unavailable' Challenge</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722984499328-download-this-flawless-updated-copy-of-football-manager-2020-say-goodbye-to-glitches/"><u>Download This Flawless, Updated Copy of Football Manager 2020 – Say Goodbye to Glitches!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-resolving-an-inaccessible-nvidia-settings-interface/"><u>Effective Strategies for Resolving an Inaccessible NVIDIA Settings Interface</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-addressing-and-repairing-crash-issues-in-the-mass-effect-legendary-edition/"><u>Expert Advice: Addressing and Repairing Crash Issues in the Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-silent-skies-how-to-restore-audio-in-skyrim/"><u>Fixing the Silent Skies: How to Restore Audio in Skyrim</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-infinix-note-30-vip-racing-edition-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Infinix Note 30 VIP Racing Edition to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-moments-access-the-worlds-best-12-livestreams/"><u>In 2024, Capture Moments Access the World's Best 12 Livestreams</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/leveraging-vimeo-resources-add-excellent-video-content-to-your-ppts-for-2024/"><u>Leveraging Vimeo Resources Add Excellent Video Content to Your PPTs for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-launch-difficulties-in-evil-genius-2-effective-solutions-for-a-smooth-start/"><u>Overcoming Launch Difficulties in Evil Genius 2 - Effective Solutions for a Smooth Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722996310362-solve-your-steam-remote-play-problems-with-these-reliable-hacks/"><u>Solve Your Steam Remote Play Problems with These Reliable Hacks</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-video-editing-essentials-freezing-frames-like-a-pro/"><u>Updated In 2024, Video Editing Essentials Freezing Frames Like a Pro</u></a></li>
+</ul></div>
 

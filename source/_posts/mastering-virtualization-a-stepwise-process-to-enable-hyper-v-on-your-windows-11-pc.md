@@ -1,7 +1,7 @@
 ---
 title: "Mastering Virtualization: A Stepwise Process to Enable Hyper-V on Your Windows 11 PC"
-date: 2024-11-11T09:49:50.427Z
-updated: 2024-11-17T05:46:31.301Z
+date: 2024-12-04T18:45:37.615Z
+updated: 2024-12-06T17:25:53.421Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,38 +58,11 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -94,7 +71,16 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
@@ -106,13 +92,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -123,14 +102,11 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -144,6 +120,10 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -175,20 +155,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-iphone-tricks-turn-your-images-upside-down-sideways/"><u>[New] IPhone Tricks Turn Your Images Upside-Down, Sideways</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24847018-new-navigating-the-short-form-space-youtubes-bite-vs-tiktok-written-by-a-marketing-analyst-with-expertise-in-social-media-trends-and-platforms/"><u>[New] Navigating the Short-Form Space YouTube's Bite Vs. TikTok' Written by a Marketing Analyst with Expertise in Social Media Trends and Platforms.</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-in-depth-guide-to-frozen-indulgence-capture-tech/"><u>[Updated] 2024 Approved In-Depth Guide to Frozen Indulgence Capture Tech</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-insider-guide-to-efficient-windows-10-usage-for-2024/"><u>[Updated] The Insider Guide to Efficient Windows 10 Usage for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-nubia-red-magic-9-proplus-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Nubia Red Magic 9 Pro+ Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-tecno-spark-10-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Tecno Spark 10 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bust-through-rdr2s-persistent-loading-screen-dilemma/"><u>Bust Through RDR2's Persistent Loading Screen Dilemma</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-strategies-for-resolving-gtfo-application-crashes/"><u>Effective Strategies for Resolving GTFO Application Crashes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/enhancing-privacy-how-i-customize-roku-settings-for-secure-viewing/"><u>Enhancing Privacy: How I Customize Roku Settings for Secure Viewing</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-to-prevent-gas-station-simulator-from-shutting-down-unexpectedly-on-windows-machines/"><u>Expert Tips to Prevent 'Gas Station Simulator' From Shutting Down Unexpectedly on Windows Machines</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic-6-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Magic 6 Pro FRP Bypass</u></a></li>
-<li><a href="https://win-answers.techidaily.com/master-the-art-of-stable-gameplay-with-these-fixes-to-stop-dirt-5-pc-crashes/"><u>Master the Art of Stable Gameplay with These Fixes to Stop 'Dirt 5' PC Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/reviving-your-clownfish-vocal-effects-unit-when-it-stops-responding/"><u>Reviving Your Clownfish Vocal Effects Unit When It Stops Responding</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-lag-issues-and-optimizing-connection-speed-in-bless-unleashed-for-gaming-rig/"><u>Troubleshooting Lag Issues & Optimizing Connection Speed in Bless Unleashed for Gaming Rig</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-tips-for-solving-sims-4-display-problems/"><u>Ultimate Troubleshooting Tips for Solving Sims #4 Display Problems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-screen-capture-expert-take-on-showmore-software/"><u>[Updated] Mastering Screen Capture Expert Take on ShowMore Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-secrets-revealed-flawless-and-straightforward-ipad-screen-recording/"><u>[Updated] Secrets Revealed Flawless and Straightforward iPad Screen Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagrams-secret-weapon-tailoring-photos-to-standout-highlights/"><u>2024 Approved Instagram's Secret Weapon Tailoring Photos to Standout Highlights</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>2024 Approved Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-functionality-to-your-corsair-icue-hub-when-running-into-problems-on-windows-10-or-11/"><u>How to Restore Functionality to Your Corsair iCUE Hub When Running Into Problems on Windows 10 or 11</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-transition-tactics-for-a-hassle-free-macos-11-big-sur-upgrade/"><u>In 2024, Transition Tactics for a Hassle-Free macOS 11 Big Sur Upgrade</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-the-power-of-images-in-instagram-movies/"><u>In 2024, Unveiling the Power of Images in Instagram Movies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/naraka-bloodlotus-stability-enhanced-fixes-applied-successfully/"><u>Naraka: Bloodlotus - Stability Enhanced | Fixes Applied Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-wont-open-errors-tips-and-fixes-for-league-of-legends-players/"><u>Overcoming 'Won't Open Errors': Tips & Fixes for League of Legends Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-steps-when-google-chrome-wont-start/"><u>Resolved: Troubleshooting Steps When Google Chrome Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992562187-top-arma-3-crash-resolution-techniques-for-gaming-on-stability/"><u>Top Arma 3 Crash Resolution Techniques for Gaming on Stability !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013231247-warcraft-3-reforged-still-crashing-on-pc-discover-proven-solutions-and-tips-for-a-smooth-game/"><u>Warcraft 3 Reforged Still Crashing on PC? Discover Proven Solutions and Tips for a Smooth Game !</u></a></li>
 </ul></div>
 

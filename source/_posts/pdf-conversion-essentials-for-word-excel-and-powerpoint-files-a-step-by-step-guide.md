@@ -1,7 +1,7 @@
 ---
 title: PDF Conversion Essentials for Word, Excel, and PowerPoint Files - A Step-by-Step Guide
-date: 2024-08-27T23:57:01.758Z
-updated: 2024-08-28T23:57:01.758Z
+date: 2024-12-04T16:41:43.143Z
+updated: 2024-12-06T18:14:47.997Z
 tags:
   - excel
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  Until now, you probably took the time to save or [convert the file to a PDF](https://youtube-data.techidaily.com/tep-by-step-process-converting-youtube-clips-into-playful-gifs-for-2024/), opened your email program, wrote your message, and attached the converted file. But you don't have to take a couple of these extra steps. You can send the file as a PDF right from the application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Send an Office File as a PDF on Windows
 
  When you send a file from Word, Excel, or [PowerPoint as a PDF](https://youtube-tips.techidaily.com/n-2024-gaming-channel-evolution-best-14-video-ideas-on-youtube/), you'll see two slightly different windows depending on if you've saved your file to OneDrive or not.
@@ -29,6 +33,10 @@ Related: [How to Save Microsoft PowerPoint Presentations as PDF Files](https://y
  Start by selecting the Share button on the top right of the application window.
 
 ![Share button in PowerPoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/SharePowerPointWindows-SendMSFilesPDF.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you've [saved the file to OneDrive](https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/), you'll see the window below. Select "Send a Copy" at the bottom of the window and pick "PDF" in the tiny pop-up box.
 
@@ -43,8 +51,9 @@ Related: [How to Save Microsoft PowerPoint Presentations as PDF Files](https://y
 ![Outlook email with a PDF attached](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/EmailOutlook-SendMSFilesPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Send an Office File as a PDF on Mac
 
  Like on Windows, when you send an Office file as a [PDF on Mac](https://facebook-video-files.techidaily.com/in-2024-maximizing-viewability-and-engagement-understanding-facebook-video-ratios/), you'll see two slightly different options.
@@ -55,23 +64,22 @@ Related: [How to Encrypt a PDF on a Mac](https://facebook-video-files.techidaily
 
 ![Share button in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ShareExcelMac-SendMSFilesPDF.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you've [saved the file to OneDrive](https://tech-haven.techidaily.com/simplifying-life-comparing-claude-and-chatgpt-skills/), choose "Send a Copy" to display a pop-out menu. Click the drop-down menu next to Send As and pick "PDF." Select "Email as Attachment."
 
 ![PDF in the Send as drop-down menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/InOneDriveSendCopyMacOS-SendMSFilesPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you've only saved your file locally, you'll see a different pop-up window. Choose "Send a Copy" at the bottom of that window.
 
 ![Send a Copy in the Share options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/NotInOneDriveSendCopyMac-SendMSFilesPDF.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the drop-down menu next to Send As and pick "PDF." Select "Email as Attachment."
 
 ![PDF in the Send as drop-down menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/EmailAsAttachmentMac-SendMSFilesPDF.png) 
@@ -80,16 +88,10 @@ Related: [How to Encrypt a PDF on a Mac](https://facebook-video-files.techidaily
 
 ![Apple Mail email with a PDF attached](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/EmailMail-SendMSFilesPDF.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Optionally, you can select the Share button for either of the above options to send the PDF using your [Mac's Share menu](https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-slow-motion-video-editing-with-windows-live-movie-maker/) instead of email.
 
 ![Mac Share Sheet options in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ShareSheetExcelMac-SendMSFilesPDF.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you want to send your Office file as a PDF, there's no need for extra steps to make it happen. Send it directly from Word, Excel, or PowerPoint on Windows or on Mac.
 
 <ins class="adsbygoogle"
@@ -98,8 +100,6 @@ Related: [How to Encrypt a PDF on a Mac](https://facebook-video-files.techidaily
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +107,18 @@ Related: [How to Encrypt a PDF on a Mac](https://facebook-video-files.techidaily
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-download-free-youtube-pics-and-templates-for-2024/"><u>[Updated] Download Free YouTube Pics & Templates for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-full-overview-of-installing-wm6/"><u>[Updated] Full Overview of Installing WM6</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/5-essential-tools-and-platforms-crucial-for-successful-twitch-broadcasting/"><u>5 Essential Tools and Platforms Crucial for Successful Twitch Broadcasting</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-for-cyberpunk-2077-end-of-persistent-lagging-and-hitches/"><u>Fixes for Cyberpunk 2077 - End of Persistent Lagging & Hitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-msi-afterburners-undetected-graphics-card-issue-in-windows-11/"><u>Fixing MSI Afterburner's Undetected Graphics Card Issue in Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-sea-of-thieves-from-crashing-on-your-pc-or-console/"><u>How To Stop Sea of Thieves From Crashing on Your PC or Console</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigate-to-success-with-2024s-ultimate-list-of-online-code-schools/"><u>Navigate to Success with 2024'S Ultimate List of Online Code Schools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-launch-hurdles-the-ultimate-guide-to-enjoying-hitman-3/"><u>Overcome PC Launch Hurdles: The Ultimate Guide to Enjoying Hitman 3</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/seamless-sound-integration-youtube-edition-for-2024/"><u>Seamless Sound Integration YouTube Edition for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-perfect-way-to-consume-the-epic-saga-of-indiana-jones-in-sequential-order/"><u>The Perfect Way to Consume the Epic Saga of Indiana Jones in Sequential Order</u></a></li>
+<li><a href="https://win-answers.techidaily.com/update-brief-how-reconnect-loop-bug-in-lol-was-fixed-in-latest-update/"><u>Update Brief: How 'Reconnect Loop Bug' In LoL Was Fixed in Latest Update</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Transform Your Windows Experience Using Rainmeter: A Step-by-Step Guide"
-date: 2024-08-27T23:55:36.141Z
-updated: 2024-08-28T23:55:36.141Z
+date: 2024-12-05T16:34:20.517Z
+updated: 2024-12-06T18:11:23.207Z
 tags:
   - windows
 categories:
@@ -29,9 +29,6 @@ Close
 
  If this showcase piques your interest, let’s go ahead and give Rainmeter a try on your computer. I’ll walk you through the step-by-step process of setting up a desktop using Rainmeter.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ###  Installing Rainmeter
 
  First, let’s install Rainmeter. You can do that using one of two ways: the command line or the regular executable installer.
@@ -50,7 +47,15 @@ winget install rainmeter
 
 ![Installing Rainmeter using Winget.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-200229.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the installation to finish. Once done, search “rainmeter” in the Start menu to launch the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Creating a Blank Canvas
 
@@ -62,9 +67,6 @@ Close
 
 ![Context menu for hiding desktop icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-203230.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The only thing left to deal with is the Taskbar. You can set the Taskbar to auto-hide, but it will reappear when you hover the cursor near it. To auto-hide it, right-click on the taskbar and click “Taskbar Settings.” On the Settings page, toggle “Automatically Hide Taskbar in Desktop Mode.”
 
 Close 
@@ -72,6 +74,10 @@ Close
  With that, we have a completely blank canvas, ready for our theme.
 
 ![Blank desktop with hidden icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240605-204005.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Set Up a Base Theme
 
@@ -91,22 +97,20 @@ Close
 
 ![Installed skins on Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134717.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
  I didn't like the visualizer skin in Inside Dream. It looked pretty but didn't have any music controls, s I installed a second package called [RetroColor](https://www.deviantart.com/apexxx-sensei/art/RetrOcOlOr-792148096) and loaded the music skin from it.
 
 ![Loading a music widget skin using Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-134400.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The result could look something like this. but feel free to mix and match to create a design that works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ![Custom theme in Rainmeter.](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-135734.png) How to Customize Your Theme
 
  The base theme looks good, but it needs some tweaking to actually make it functional. There are two ways to customize a skin. You can either use the INI file, or you can use the GUI settings menu if the Rainmeter package supports it.
@@ -117,10 +121,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Changing custom skin settings in Rainmeter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ksnip_20240628-140016.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  The Inside Dream skin package doesn’t have a dedicated settings menu. You can only edit it using the INI files. I’m going to edit the dock shortcuts as an example. Right now the Photoshop button says "Photoshop CC" and doesn’t lead anywhere. Here’s how you can fix that shortcut.
 
  Right-click on the dock and click “Edit Skin.” Alternatively, select Dock.ini in the Rainmeter manager and click “Edit.”
@@ -145,8 +145,6 @@ Close
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +152,20 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-experts-insight-downloading-audio-on-apple-gadgets/"><u>[New] 2024 Approved Expert's Insight Downloading Audio on Apple Gadgets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-from-content-creator-to-cash-magnet-instagrams-guide/"><u>[Updated] 2024 Approved From Content Creator to Cash Magnet Instagram's Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-understanding-the-power-shift-from-sdr-to-hdr-in-media/"><u>2024 Approved Understanding the Power Shift From SDR to HDR in Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/early-birds-advantage-on-apple-vision-pro-begin-your-journey-with-testflight-a-step-by-step-tutorial/"><u>Early Bird's Advantage on Apple Vision Pro: Begin Your Journey with TestFlight - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/expand-your-webcam-capabilities-on-yahoo-messenger-with-manycam-features/"><u>Expand Your Webcam Capabilities on Yahoo Messenger with ManyCam Features</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138586036-9781452544724-feng-shui-coaching/"><u>Feng Shui Coaching | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-resolving-discord-delays-and-stutter-tips/"><u>Guide to Resolving Discord Delays & Stutter: Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-common-nwstoreexe-hiccups-a-user-friendly-walkthrough-for-faster-repairs/"><u>Overcoming Common nw_store.exe Hiccups - A User-Friendly Walkthrough for Faster Repairs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-warning-message-hurdle-during-voice-communication-sessions/"><u>Overcoming the 'Warning Message' Hurdle During Voice Communication Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/restore-sounds-to-your-evil-genius-2-adventure-a-comprehensive-guide/"><u>Restore Sounds to Your Evil Genius 2 Adventure - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002902962-tech-troubles-fix-your-game-instant-solutions-to-stop-titanfall-2-from-crashing/"><u>Tech Troubles? Fix Your Game: Instant Solutions to Stop Titanfall 2 From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-resolving-the-tfla0002-issue-in-microsoft-office/"><u>Ultimate Guide: Resolving the TFLA0002 Issue in Microsoft Office</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
+</ul></div>
 

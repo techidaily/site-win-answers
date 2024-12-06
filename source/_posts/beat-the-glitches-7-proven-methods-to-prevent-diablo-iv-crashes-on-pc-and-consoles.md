@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitches: 7 Proven Methods to Prevent Diablo IV Crashes on PC and Consoles"
-date: 2024-11-15T11:51:47.317Z
-updated: 2024-11-17T09:39:54.883Z
+date: 2024-12-02T16:51:35.855Z
+updated: 2024-12-06T18:02:03.955Z
 tags:
   - win11
   - win10
@@ -34,10 +34,7 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify game files
@@ -53,13 +50,6 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Put commands in the launch option
 
  You can fix the Stray crashing issue by putting commands in the Launch option. There are three commands, you can try it one-by-one to see which one fix your problem.
@@ -72,15 +62,16 @@ If it doesn’t work, move to the next fix.
 3. Launch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
@@ -95,16 +86,13 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphic driver
 
@@ -129,14 +117,11 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -154,10 +139,7 @@ If it doesn’t work, move to the next fix.
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
@@ -166,10 +148,7 @@ If it doesn’t work, move to the next fix.
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
@@ -177,6 +156,10 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
 
@@ -203,18 +186,24 @@ If it doesn’t work, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-elevating-your-instagram-highlights-with-exquisite-photography/"><u>[New] Elevating Your Instagram Highlights with Exquisite Photography</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mac-acoustic-arena-deep-dive-for-2024/"><u>[New] Mac Acoustic Arena Deep Dive for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-splitstream-analysis-top-video-camera-champion/"><u>[Updated] 2024 Approved SplitStream Analysis Top Video Camera Champion?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/critical-analysis-the-innovations-in-dji-phantom-3-professional/"><u>Critical Analysis The Innovations in DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/directly-syncing-your-tiktok-videos-with-facebook-for-2024/"><u>Directly Syncing Your TikTok Videos with Facebook for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/dirt-5-crashing-effective-remedies-to-ensure-smooth-gaming-experience-on-pc/"><u>Dirt 5 Crashing: Effective Remedies to Ensure Smooth Gaming Experience on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-getting-past-the-crash-in-persona-5-strikers-for-pc-gamers/"><u>Expert Advice: Getting Past the Crash in Persona 5 Strikers for PC Gamers</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/four-quick-tips-boosting-iphone-video-luminosity-for-2024/"><u>Four Quick Tips Boosting iPhone Video Luminosity for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/grand-theft-auto-v-optimization-complete-no-more-frame-drops-or-lags/"><u>Grand Theft Auto V Optimization Complete: No More Frame Drops or Lags</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-low-fps-problems-while-playing-farming-simulator-22-on-your-computer/"><u>How to Fix Low FPS Problems While Playing Farming Simulator 22 on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/john-deere-secures-new-partnership-bolstering-right-to-repair-advocacy-zdnet/"><u>John Deere Secures New Partnership Bolstering Right to Repair Advocacy | ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1722992578404-no-more-freezes-solve-your-jurasseback-world-evolution-crash-problems-now/"><u>No More Freezes - Solve Your Jurasseback-World Evolution Crash Problems Now</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723011850328-troubleshooting-doom-eternal-no-launch-availability-solutions-inside/"><u>Troubleshooting DOOM Eternal: No Launch Availability, Solutions Inside!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-expert-tips-for-srt-enhanced-mp4-files/"><u>[New] Expert Tips for SRT-Enhanced MP4 Files</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reverse-action-flipping-your-iphone-video-footage/"><u>[Updated] Reverse Action Flipping Your iPhone Video Footage</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm56m25qw144gu44ky44o844of44oz44kw6yyy55s744k944ov44oi44ks6kal44gk44gr44ki44gg77yb6kmz44gx44gp6kej6kqs5luy44gn44ob44ol44o844oi44oq44ki44or44cn/"><u>「究極のゲーミング録画ソフトを見つけよう！詳しく解説付きチュートリアル」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/44cm44ot44oh44kq44g444gu55s75yop44o75yaz55yf57wx5zci44og44kv44ol44od44kv77ya5bcc6zaa5a6244gm5pwz44gi44kl44k544og44o844k644gq57eo6zug5pa55rov44cn/"><u>「ビデオへの画像・写真統合テクニック：専門家が教えるスムーズな編集方法」</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029711682-aviutl/"><u>【AviUtl】手順を簡易化した、音声録音の高速解析: 最新トレーニング動画</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-free-mac-screenshoter-extraordinaire/"><u>2024 Approved Free Mac Screenshoter Extraordinaire</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027051346-windows-11/"><u>最新Windows 11で音声・音楽ファイル編集を習得する - 使えるソフトウェア一覧</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029145172-adobe-premiere-pro/"><u>Adobe Premiere Pro: 効果的にビデオアスペクト比調整ガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028027720-clipchamp/"><u>Clipchampでビデオ圧縮が可能か調べましょう</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/defeating-the-device-doesnt-receive-miracast-advanced-techniques-and-updates/"><u>Defeating the 'Device Doesn't Receive Miracast': Advanced Techniques and Updates</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028264960-dvd/"><u>DVD 地域コード制限解除のための効果的な手順</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-online-presence-discover-the-best-in-live-video-apps-with-manycam-solutions/"><u>Elevate Online Presence: Discover the Best in Live-Video Apps with ManyCam Solutions</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-13-pro-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 13 Pro without Security Questions?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oppo-reno-8t-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Oppo Reno 8T Lock Screen Password?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-short-storyboard-scheme/"><u>In 2024, Short Storyboard Scheme</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ultimate-budget-breakdown-how-much-does-it-cost-to-start-a-podcast/"><u>In 2024, Ultimate Budget Breakdown How Much Does It Cost To Start a Podcast?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028907633-twitter/"><u>Twitter動画ダウンロードの最善策：ストリーミング無しで安全にビデオを保存する方法</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726030026266-tiktok/"><u>ロゴ無しで効果的にTikTok動画をキャプチャ:ステップバイステップガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2023 Installation Issues? Here's How to Fix Them
-date: 2024-08-23T13:25:57.812Z
-updated: 2024-08-24T13:25:57.812Z
+date: 2024-12-02T17:23:37.587Z
+updated: 2024-12-06T16:25:16.690Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -45,6 +49,10 @@ Take Avast as an example:
 6. Relaunch the game to check.
 
 If it’s not your antivirus software, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphic driver
 
@@ -70,14 +78,17 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -89,20 +100,15 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
@@ -113,9 +119,6 @@ If this fix bring no luck, move to the next fix.
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -129,8 +132,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +139,24 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-first-steps-to-picture-perfection-demystifying-pixels/"><u>[Updated] 2024 Approved First Steps to Picture Perfection Demystifying Pixels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-the-art-of-teamsnap-photos-for-business-success/"><u>[Updated] Perfect the Art of TeamSnap Photos for Business Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-360-view-camera-analysis/"><u>2024 Approved Ultimate 360-View Camera Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-wwii-error-code-4128-steps-for-a-smooth-fixing-process/"><u>Call of Duty: WWII Error Code 4128 – Steps for a Smooth Fixing Process</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-correcting-sound-problems-with-your-sennheiser-gamers-mic/"><u>Diagnosing and Correcting Sound Problems with Your Sennheiser Gamer's Mic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elite-dangerous-stability-restored-combat-game-crashes-on-windows-pcs-effectively/"><u>Elite Dangerous Stability Restored: Combat Game Crashes on Windows PCs Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-for-smoother-gameplay-in-serious-sam-4-resolving-pc-lag-freezes-and-hiccups/"><u>Expert Advice for Smoother Gameplay in Serious Sam 4: Resolving PC Lag, Freezes, and Hiccups</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-keep-your-pcs-sound-in-top-shape-updating-usb-drivers-across-windows-operating-systems/"><u>How to Keep Your PC’s Sound in Top Shape: Updating USB Drivers Across Windows Operating Systems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-s17-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo S17 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-bluestacks-crashing-a-user-friendly-guide-for-easy-solutions/"><u>Overcome BlueStacks Crashing: A User-Friendly Guide for Easy Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-stop-fallout-continued-from-hanging-or-faulty-performance-on-pcs/"><u>Resolved: How to Stop Fallout ([Continued) From Hanging or Faulty Performance on PCs</u></a></li>
+<li><a href="https://win11.techidaily.com/reviving-the-vitality-of-your-microsoft-store-experience/"><u>Reviving the Vitality of Your Microsoft Store Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-constant-pc-crashing-discover-proven-solutions-for-a-smoother-run/"><u>Say Goodbye to Constant PC Crashing - Discover Proven Solutions for a Smoother Run</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-black-screen-on-oculum-link-quick-techniques/"><u>Solving the Mystery of Black Screen on Oculum Link - Quick Techniques</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-list-top-2024-pickings-for-supreme-bent-display-gaming-screens/"><u>The Ultimate List: Top 2024 Pickings for Supreme Bent Display Gaming Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnite-entry-point-errors-for-smooth-gameplay/"><u>Troubleshooting Fortnite Entry Point Errors for Smooth Gameplay</u></a></li>
+</ul></div>
 

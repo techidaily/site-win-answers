@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Changing Your Google Doc Into Microsoft Word or Excel File"
-date: 2024-08-27T23:57:10.014Z
-updated: 2024-08-28T23:57:10.014Z
+date: 2024-12-02T18:25:57.871Z
+updated: 2024-12-06T16:56:38.427Z
 tags:
   - excel
 categories:
@@ -33,8 +33,9 @@ Related: [10 Tips and Tricks for Google Docs](https://youtube-tips.techidaily.co
 ![img_57575c5090ecc](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/img_57575c5090ecc.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Download a Document From the Editor
 
  You can also convert a document directly to Microsoft Office format while you're editing it. First, open the document in the appropriate editor. You can do this just by double-clicking the document's .gdoc file on your computer if you've synced it with Google Drive, but that's all those files are good for.
@@ -46,9 +47,9 @@ Related: [How to Convert Google Slides to PowerPoint](https://facebook-video-foo
 ![img_57575beb87b3a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/img_57575beb87b3a.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Download All Your Google Docs Files as Office Documents
 
  To convert all your Google Docs files to Microsoft Office documents at once, head to the [Google Takeout](https://takeout.google.com/settings/takeout) website. Google Takeout normally wants to export all your data from multiple Google services, so just click "Select None" at the top.
@@ -56,23 +57,25 @@ The ultimate burning program for all your needs!</a>
 ![img_57575c957b15a](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/img_57575c957b15a.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Scroll down and enable the "Drive" option. You can click the arrow to see more details--by default, Google Takeout will export every single file in Google Drive and convert all the documents to Microsoft Office format.
 
 ![img_57575ccb4bd5c](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/img_57575ccb4bd5c.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you're ready to continue, click "Next" at the bottom of the page and then click "Create Archive" on the next page. Google will create an archive of all your documents and provide a download link.
 
 ![img_57575d05a9a45](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/img_57575d05a9a45.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Convert to Office Format and Leave the File In Google Drive
 
 Related: [How to Work with Microsoft Office Files in Google Drive](https://some-knowledge.techidaily.com/2024-approved-fusing-images-online-and-desktop-harmoniously/) 
@@ -89,9 +92,6 @@ Related: [How to Work with Microsoft Office Files in Google Drive](https://some-
 
 ![img_57575d76e10a4](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/06/img_57575d76e10a4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ---
 
  If you want to migrate from Google Docs to Microsoft's Office 365 and OneDrive, you can place all the converted documents into your OneDrive folder. They'll be uploaded to your OneDrive account, and you can then edit them via Office Online and easily access them via Microsoft Office's smartphone applications.
@@ -104,8 +104,6 @@ Related: [How to Convert a Google Sheet to Microsoft Excel](https://article-know
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +111,22 @@ Related: [How to Convert a Google Sheet to Microsoft Excel](https://article-know
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-mastering-lol-recording-three-easy-techniques/"><u>[New] In 2024, Mastering LOL Recording Three Easy Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-f04-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy F04 FRP Bypass</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-and-durable-omoton-t1-tablet-support-product-overview/"><u>Affordable and Durable Omoton T1 Tablet Support - Product Overview</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-y200-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/cutting-down-curated-content-how-to-delete-fb-story-pc-and-phone-for-2024/"><u>Cutting Down Curated Content How to Delete FB Story (PC & Phone) for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeat-the-stubborn-start-up-solving-minecraft-loading-issues/"><u>Defeat the Stubborn Start-Up: Solving Minecraft Loading Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-hurdle-stopping-call-of-duty-warzone-pc-crashes-with-easy-fixes-for-gamers/"><u>Overcome the Hurdle: Stopping Call of Duty Warzone PC Crashes with Easy Fixes for Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-the-stuck-loading-screen-in-fifa-soccer-manager-2021-solutions-inside/"><u>Overcome the Stuck Loading Screen in FIFA Soccer Manager 2021 - Solutions Inside</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-guide-to-remedying-post-windows-update-glitches/"><u>Quick Guide to Remedying Post-Windows Update Glitches</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-persistent-lag-and-crashing-problems-for-call-of-duty-black-ops-cold-war-gamers-on-pc-updated-guide-2n4/"><u>Solving Persistent Lag and Crashing Problems for Call of Duty: Black Ops Cold War Gamers on PC (Updated Guide 2N4)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-enhance-your-download-velocity-on-origin/"><u>Top Strategies to Enhance Your Download Velocity on Origin</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-cyberpunk-2077-addressing-the-challenge-of-reduced-frames-per-second-fps/"><u>Troubleshooting Cyberpunk 2077: Addressing the Challenge of Reduced Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-full-farming-experience-resolving-stardew-valley-loading-errors/"><u>Unlock the Full Farming Experience: Resolving Stardew Valley Loading Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wsappx-overview-solutions-for-managing-elevated-memory-cpu-use/"><u>WSAPPX Overview: Solutions for Managing Elevated Memory, CPU Use</u></a></li>
+</ul></div>
 

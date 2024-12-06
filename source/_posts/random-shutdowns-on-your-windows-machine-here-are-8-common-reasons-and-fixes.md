@@ -1,7 +1,7 @@
 ---
 title: Random Shutdowns on Your Windows Machine? Here Are 8 Common Reasons and Fixes
-date: 2024-08-27T23:54:19.667Z
-updated: 2024-08-28T23:54:19.667Z
+date: 2024-12-01T16:21:56.750Z
+updated: 2024-12-06T18:39:30.142Z
 tags:
   - windows
 categories:
@@ -30,9 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Is your Windows laptop or PC shutting down unexpectedly? Issues such as a faulty laptop battery, a loose power cable, overheating, misconfigured power settings, outdated drivers, or faulty PC components could be to blame. If you're frustrated by this problem, try these solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  Using a PC? Perform Some Preliminary Checks
 
  Unlike a laptop, which draws power from its battery, a PC relies on a steady connection to an external power supply to remain on. If the power cable is loosely connected to the computer or the socket, even a slight disturbance can disrupt the power flow, leading to shutdowns. Therefore, check that the power cable is securely plugged in at both ends. 
@@ -40,15 +37,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Also, inspect the power cable for any signs of damage, and plug the power cable into a different socket to eliminate potential socket-related issues. If you use a UPS to manage power outages, ensure it's not faulty and supplies stable power. Also, if you're [overclocking your CPU](https://facebook-video-content.techidaily.com/the-role-and-significance-of-blue-icons-in-fb-chats/), turn off overclocking, as it could lead to similar issues.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Check for Issues With Your Battery
 
 ![Person holding a removable laptop battery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52924050697_319a9e0730_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jordan Gloor / How-To Geek
 
  If you're experiencing this issue with a laptop while using it on battery power, ensure a faulty battery isn't causing it. To check this, remove the battery from your laptop, plug the official charger into an electric socket, and run the laptop directly on the power supply. If the problem doesn't occur when using a direct power supply, the battery is probably faulty.
@@ -71,18 +70,12 @@ Jordan Gloor / How-To Geek
 
  If turning off this feature doesn't resolve the issue, re-enable it and try the remaining troubleshooting steps.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ensure the Power Supply Unit (PSU) Isn't the Culprit
 
  If your PSU isn't powerful enough to meet the demands of your system components, it could also cause random shutdowns. To check this, [calculate the wattage draw of your computer](https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-a2-frp-bypass-by-drfone-android/)based on the specifications of installed components. If this required wattage is less than your PSU's wattage, you're fine. However, if it exceeds your PSU's capacity, you need to [upgrade your PSU](https://extra-guidance.techidaily.com/in-2024-navigating-srt-in-windows-macos-environments/).
 
  If your PSU can theoretically supply the power needed, test it to see if it has no hardware problems. You can do this by [performing a jumper test](https://video-capture.techidaily.com/updated-learn-to-optimize-google-meet-host-plus-participant-without-spending-a-dime-for-2024/). If the PSU isn't working as it should, you'll have to replace it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Ensure the RAM and Storage Drive Isn't Faulty
 
  Like an underpowered or broken PSU, faulty RAM can cause random shutdowns. To check if your RAM is working correctly, you have two choices: you can use the built-in Windows Memory Diagnostic tool or try a simpler tool called MemTest86 that helps [find problems with your RAM](https://hardware-help.techidaily.com/step-by-step-installation-amd-gpio-pin-driver-for-hexagon-devices/) more easily.
@@ -90,6 +83,10 @@ Jordan Gloor / How-To Geek
  Also, if the storage drive housing your operating system is faulty, it could cause the same problem. So, [run a S.M.A.R.T. test](https://data-wizards.techidaily.com/preserve-the-purity-of-your-productions/) to check its health and ensure it's working as it should. 
 
  There isn't a practical way to repair RAM or a storage drive, so if either are faulty, you'll have to replace them. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Update Drivers
 
@@ -99,9 +96,17 @@ Jordan Gloor / How-To Geek
 
 ![Windows 11 Update Drivers window highlighting 'Browse my computer for drivers' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-update-drivers-window-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you update drivers for the GPU, battery, disk drives, processor, USB controllers, and other software components, even if there are no warning signs next to them.
 
  You may also be able to [find an error message in Event Viewer](https://remote-screen-capture.techidaily.com/in-2024-unlocking-the-potential-of-screenshotting-your-android-device/) that will narrow down which driver (or device) is the problem. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Change Advanced Battery Settings
 
@@ -111,9 +116,6 @@ Jordan Gloor / How-To Geek
 
 ![Windows 11 Edit Plan Settings window highlighting 'Change advanced power settings' option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-control-panel-edit-plan-settngs-window.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Navigate to Battery > Low Battery Action and select "Do Nothing" if "Shutdown" or "Hibernate" is currently selected there. Then, click "Apply" and hit "OK."
 
 ![Changing the low battery action in power settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/changing-the-low-battery-action-in-power-settings.jpg) 
@@ -128,8 +130,6 @@ Jordan Gloor / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +137,16 @@ Jordan Gloor / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/2022-fix-spotify-web-player-slow-and-not-working/"><u>[2022 Fix] Spotify Web Player Slow and Not Working</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eamless-video-to-text-best-ones-online-at-your-fingertips/"><u>[New] Seamless Video-to-Text Best Ones Online at Your Fingertips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-decoding-the-new-apeaksoft-screenscape-expert-analysis/"><u>[Updated] Decoding the New Apeaksoft Screenscape Expert Analysis</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/china-tech-enthusiasts-experience-next-level-performance-with-a-full-sized-graphics-card-in-asrocks-deskmate-x600-for-just-1200/"><u>China Tech Enthusiasts: Experience Next-Level Performance With a Full-Sized Graphics Card in ASRock's DeskMate X600 for Just ¥1200</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Mix Fold 3 Phone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-rhythm-route-redistribution-your-playlist-anywhere/"><u>In 2024, Rhythm Route Redistribution Your Playlist, Anywhere</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000918247-troubleshoot-wow-sea-battle-game-pc-issues-with-these-5-quick-fixes/"><u>Troubleshoot WoW Sea Battle Game PC Issues with These 5 Quick Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-overcoming-lag-in-the-elder-scrolls-online-blackwood-edition/"><u>Troubleshooting Tips: Overcoming Lag in 'The Elder Scrolls Online' - Blackwood Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/what-to-do-when-you-cant-play-the-latest-robocop-rogue-city-game-on-your-desktop-computer/"><u>What to Do When You Can't Play the Latest 'RoboCop: Rogue City' Game on Your Desktop Computer</u></a></li>
+</ul></div>
 

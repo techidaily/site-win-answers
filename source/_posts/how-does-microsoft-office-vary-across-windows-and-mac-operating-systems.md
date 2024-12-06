@@ -1,7 +1,7 @@
 ---
 title: How Does Microsoft Office Vary Across Windows and Mac Operating Systems?
-date: 2024-08-27T23:56:18.135Z
-updated: 2024-08-28T23:56:18.135Z
+date: 2024-12-03T19:02:36.174Z
+updated: 2024-12-06T18:32:27.652Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ---
 
 ## How Does Microsoft Office Vary Across Windows and Mac Operating Systems?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,13 +48,14 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  If you really need any of the specific apps we've listed here, you're going to need run Windows and the Windows version of Office.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Features Are Missing from the Mac Versions of Word, Excel, PowerPoint, Outlook, and OneNote?
 
  So what about the core Office apps that are available on the Mac? While there are a number of very small features missing (stuff that affects very few people), most of the features you find in the Windows versions are present in the macOS versions. Here are the main things you'll miss out on, though.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Suite-Wide
 
  There are a couple of fairly big features that, while not missing entirely from the Office suite for Mac, are not quite up to their Windows counterparts:
@@ -61,15 +66,17 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
  There are, of course, some other missing suite-wide features, but they really pertain to installations that are part of a company network. For example, roaming (the ability to use Office on different computers and have your configuration follow you) is not available for macOS. However, if your system is part of a company network, these things have likely been thought out in advance.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Word
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Key features of Word that are missing from the macOS version include:
 
 * **Open and Repair:** While the Mac version of Word can attempt to[automatically repair a corrupted document](https://instagram-video-files.techidaily.com/new-engagement-mastery-how-to-craft-instagrams-best-puzzles/), it doesn't have the specific Open and Repair command featured in the Windows version. This makes it harder to recover files that Word might not recognize as Word documents.
@@ -88,6 +95,10 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  These are some pretty "power user" features, so it's likely you won't miss them much.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  PowerPoint
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_4.png) 
@@ -100,9 +111,6 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Most of the Outlook features missing from the Mac version have to do with advanced features you see when connected to an Exchange server. These include things like access to public calendars, distribution lists, retention and compliance features, receipt tracking, and various social features like voting buttons.
 
  There are also a few other missing features worth noting:
@@ -113,25 +121,10 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
 
  That isn't a lot of missing features (unless you're part of an Exchange-based organization), but how important they are depends on you. And, as we mentioned before, the newest update to Office 2016 for macOS now brings support for Google Calendar and Contacts---a pretty big missing feature for lots of people.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  OneNote
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/01/om_6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  The basic functionality of OneNote is present in both the Windows and Mac versions (and, in the mobile versions, for that matter), but there are still a few differences:
 
 * **Extensible:** The Windows version is extensible, providing an API that allows for add-ins and some advanced features. The Mac version does not include this extensibility.
@@ -151,8 +144,6 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +151,18 @@ Related: [How to Seamlessly Run Windows Programs on Your Mac with Parallels](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secure-quick-and-simple-screenshot-techniques-for-w8-users/"><u>[New] 2024 Approved Secure, Quick & Simple Screenshot Techniques for W8 Users</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-secret-to-an-original-youtube-channel-name-revealed/"><u>[New] The Secret to an Original YouTube Channel Name Revealed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-anno-1800-directx-error/"><u>[SOLVED] Anno 1800 Directx Error</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-7-plus-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-lava-yuva-3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Lava Yuva 3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mbot-build-and-code-adventure-by-makeblock-an-intriguing-robotics-diy-kit-reviewed-for-young-engineers/"><u>MBot Build & Code Adventure by Makeblock – An Intriguing Robotics DIY Kit Reviewed for Young Engineers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-secrets-think-again-before-sharing-with-gpt/"><u>Protecting Secrets? Think Again Before Sharing with GPT</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-troubleshooting-guide-for-fifa-19s-directx-errors/"><u>Quick Troubleshooting Guide for FIFA 19'S DirectX Errors</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stealthy-strategies-for-anonymous-instagram-broadcasts/"><u>Stealthy Strategies for Anonymous Instagram Broadcasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-out-of-video-memory-issue-a-complete-guide/"><u>Troubleshooting Fortnite's 'Out of Video Memory' Issue – A Complete Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-troubleshooting-guide-solving-new-world-connectivity-problems/"><u>Ultimate Troubleshooting Guide: Solving 'New World' Connectivity Problems</u></a></li>
+</ul></div>
 

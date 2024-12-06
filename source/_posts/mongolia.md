@@ -1,7 +1,7 @@
 ---
 title: Mongolia
-date: 2024-11-14T03:03:52.916Z
-updated: 2024-11-17T05:56:40.695Z
+date: 2024-12-03T18:26:00.120Z
+updated: 2024-12-06T18:45:09.080Z
 tags:
   - win11
   - win10
@@ -62,23 +62,24 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
 
 7. Reboot your computer can check whether the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Delete specific files from the save folder
 
@@ -92,31 +93,14 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Reboot your computer and check the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -145,7 +129,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -166,22 +158,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fix-complete-overcoming-start-up-problems-with-back-4-blood-across-windows-platforms/"><u>[Fix Complete] Overcoming Start-Up Problems with Back 4 Blood Across Windows Platforms</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-droning-made-simple-top-picks-for-kids-and-newbies/"><u>[New] In 2024, Droning Made Simple Top Picks for Kids & Newbies</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-chord-of-clicks-infusing-music-into-ig-story-posts-for-2024/"><u>[Updated] The Chord of Clicks Infusing Music Into IG Story Posts for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-impressive-3d-beginnings-on-youtube/"><u>2024 Approved Creating Impressive 3D Beginnings on YouTube</u></a></li>
-<li><a href="https://win-answers.techidaily.com/busting-through-the-barrier-fix-high-cpu-usage-on-zoom-in-just-6-steps/"><u>Busting Through the Barrier: Fix High CPU Usage on Zoom in Just 6 Steps!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/elevate-your-gaming-session-strategies-for-fps-boost-and-smooth-playing-in-the-ascent/"><u>Elevate Your Gaming Session: Strategies for FPS Boost & Smooth Playing in The Ascent.</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-seamless-gameplay-in-call-of-duty-warzone-without-pc-glitches-tips-for-2n24/"><u>How To Ensure Seamless Gameplay in Call of Duty: Warzone Without PC Glitches - Tips for 2N24</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-resolve-cyclic-redundancy-check-failures-in-your-system/"><u>How to Resolve Cyclic Redundancy Check Failures in Your System</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-stop-the-ascent-from-crashing-on-your-windows-computer/"><u>How to Stop 'The Ascent' From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-s-most-popular-free-m4a-editor-programs/"><u>In 2024, S Most Popular Free M4A Editor Programs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-the-cod-vanguard-error-code-0x00001338-on-pc-with-easy-fixes-solved/"><u>Overcome the CoD Vanguard 'Error Code 0X00001338' On PC with Easy Fixes [SOLVED]</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/peervid-grabber-fb-live/"><u>PeerVid Grabber FB Live</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolve-escape-from-tarkovs-persistent-pc-game-crashes/"><u>Step-by-Step Guide to Resolve Escape From Tarkov's Persistent PC Game Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-guide-overcoming-lan-and-network-issues-in-anarchy-legends/"><u>Step-by-Step Guide: Overcoming LAN and Network Issues in Anarchy Legends</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-ultimate-platform-showdown-twitch-meets-youtube-for-2024/"><u>The Ultimate Platform Showdown Twitch Meets YouTube for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/e-tactic-for-tracking-youtube-income-a-step-by-step-approach/"><u>Triple Tactic for Tracking YouTube Income A Step-by-Step Approach</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-effortless-audiobook-production-the-ultimate-instruction-manual-for-aspiring-authors-for-2024/"><u>Updated Effortless Audiobook Production The Ultimate Instruction Manual for Aspiring Authors for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-pages-with-premieres-fade-techniques/"><u>[New] Perfect Pages with Premiere's Fade Techniques</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/assembling-an-elite-home-studio-pc-for-cutting-edge-edits/"><u>Assembling an Elite Home Studio PC for Cutting-Edge Edits</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-5-most-important-considerations-when-picking-out-your-perfect-stereo-speakers/"><u>Discover the 5 Most Important Considerations When Picking Out Your Perfect Stereo Speakers</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-capture-the-love-a-simple-guide-to-creating-a-valentines-day-video-montage-for-2024/"><u>New Capture the Love A Simple Guide to Creating a Valentines Day Video Montage for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-osr-files-into-video-format-with-mp4/"><u>Step-by-Step Guide: Transforming OSR Files Into Video Format with MP4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-comprehensive-guide-to-decluttering-and-deleting-apps-on-your-samsung-smarttv/"><u>The Comprehensive Guide to Decluttering and Deleting Apps on Your Samsung SmartTV</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-ultimate-list-top-10-excellent-screencasting-tools-as-substitutes-for-bandicam/"><u>The Ultimate List: Top 10 Excellent Screencasting Tools as Substitutes for Bandicam</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-38-unbeatable-cyber-week-and-costco-deals-exclusive-discounts-on-tvs-laptops-and-tablets-find-them-before-theyre-gone/"><u>Top 38 Unbeatable Cyber Week & Costco Deals: Exclusive Discounts on TVs, Laptops, and Tablets - Find Them Before They're Gone!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-watching-mp4-videos-on-google-drive-without-issues/"><u>Troubleshooting Guide: Watching MP4 Videos on Google Drive Without Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-discover-the-6-premier-online-and-desktop-mp4-to-gif-conversion-solutions/"><u>Ultimate Guide: Discover the 6 Premier Online & Desktop MP4 to GIF Conversion Solutions!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-discover-the-top-10-free-game-emulators-for-classic-consoles-on-any-device/"><u>Ultimate Guide: Discover the Top 10 FREE Game Emulators for Classic Consoles on Any Device!</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/understanding-component-features-and-attributes/"><u>Understanding Component Features and Attributes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Command-Line Tricks for Windows Power Users
-date: 2024-08-27T23:54:25.436Z
-updated: 2024-08-28T23:54:25.436Z
+date: 2024-11-29T17:45:53.756Z
+updated: 2024-12-06T19:02:57.133Z
 tags:
   - windows
 categories:
@@ -46,12 +46,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The msconfig window open on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msconfig-system-configuration-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ##  Run msinfo32 to Get Your System Specs
 
  Curious about your [system's specs](https://tech-haven.techidaily.com/has-chatgpt-simplified-or-compromised-academic-writings/)? Just type **msinfo32** in the Run dialog box, and you’ll see everything from your processor type to the amount of RAM installed. You can access detailed system summaries, including hardware resources, software environments, and components.
@@ -61,8 +55,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The example PC's information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msinfo32-system-infomation.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Manage Your Installed Apps With appwiz.cpl
 
  If you're looking to manage your installed applications, appwiz.cpl is the command for you. This command brings up the Programs and Features window, giving you a complete list of installed applications on your PC. With a few clicks, you can [quickly uninstall programs](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/), change installed programs, or repair programs that aren't working properly.
@@ -70,6 +69,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Type **appwiz.cpl** in the Run dialog box and quickly access the Programs and Features control panel.
 
 ![A list of installed programs showing in Programs and Features window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/appwiz-programs-and-features-window.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customize Your Display With desk.cpl
 
@@ -80,11 +83,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Display settings menu of the system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/desk-display-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Adjust Your Mouse Settings With main.cpl
 
  Running **main.cpl** in the Run dialog box launches the Mouse Properties window, where you can [adjust mouse settings](https://vimeo-videos.techidaily.com/new-2024-approved-how-to-maximize-your-content-impact-with-imovie-on-vimeo/), such as [pointer speed](https://extra-hints.techidaily.com/updated-crafting-compelling-docu-scripts-a-step-by-step-guide/), [sensitivity](https://youtube-tips.techidaily.com/024-approved-disabling-youtube-shorts-for-good-a-simple-approach/), and button configuration. You can also configure double-clicking behavior, wheel setting, trackpoint, and trackpad settings of your mouse.
@@ -94,8 +95,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Showing properties and other options for mouse and trackpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/main-mouse-properties.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Establish a Remote Connection Using mstsc
 
  mstsc refers to Microsoft Terminal Services Client, which is usually known as Remote Desktop Connection. Simply type **mstsc** in the Run window and [establish a remote desktop connection](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). You can also customize your remote desktop settings by changing its size, color, audio, and others.
@@ -104,9 +106,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The remote desktop connections window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mstsc-remote-desktop-connection.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Calibrate Your Screen With dccw
 
  Want to calibrate your monitor for accurate colors? Try dccw. Running this command will open the Display Color Calibration tool, which guides you through [adjusting your monitor’s color settings](https://games-able.techidaily.com/catch-up-on-classic-gaming-with-iphone-and-psp-fusion/). Poor color accuracy can be frustrating, especially for graphic designers or photographers.
@@ -122,8 +121,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Removing unwanted files with the Disk Cleanup utility.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cleanmgr-clean-disk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Monitor Your PC's Performance With resmon
 
  Want to keep a watchful eye on your PC's performance? Try resmon command. This command opens the Resource Monitor, which displays real-time data on system resources, such as memory, disk, CPU, and network usage.
@@ -133,8 +133,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Viewing real time data of system resources in Resource Monitor window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/resmon-resource-tool.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Navigate Efficiently With "." and ".."
 
  Finally, we have the single dot **.** and the double dot **..** commands. You might use these **.** and **..** commands with cd in the command prompt or PowerShell or any other [terminal for changing directories](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). The **.** and **..** commands may seem simple, but they're incredibly useful for navigating the Windows file system.
@@ -153,8 +154,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +161,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-perfectly-merged-clips-the-power-of-blending-modes/"><u>[New] 2024 Approved Perfectly Merged Clips The Power of Blending Modes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-audio-visual-converters-forum/"><u>[Updated] In 2024, Audio Visual Converters Forum</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-lightroom-for-android-unveiled-detailed-assessment/"><u>2024 Approved Lightroom for Android Unveiled Detailed Assessment</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210056697-9781999597276-the-stairway-to-happiness/"><u>通向幸福的阶梯 - The Stairway to Happiness | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypass-incompatible-system-mark-on-windows-11/"><u>Bypass Incompatible System Mark on Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-icloud-hurdles-effective-techniques-for-reliable-cloud-sync-maintenance/"><u>Bypassing iCloud Hurdles: Effective Techniques for Reliable Cloud Sync Maintenance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-eradicating-ps4-halted-operations-with-simple-fixes/"><u>Expert Advice: Eradicating PS4 Halted Operations with Simple Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-infinite-audio-fixes-tips-and-tricks-to-improve-your-gaming-experience/"><u>Halo Infinite Audio Fixes: Tips and Tricks to Improve Your Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-mystic-light-feature-issues-on-your-msi-laptop-with-windows/"><u>How to Fix the 'Mystic Light' Feature Issues on Your MSi Laptop with Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-graphics-glitches-in-rust-a-step-by-step-guide/"><u>How to Overcome Graphics Glitches in Rust: A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-c210-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia C210? Try These Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/in-depth-troubleshooting-for-the-2024-finals-not-opening-helpful-hints/"><u>In-Depth Troubleshooting for The 2024 Finals Not Opening: Helpful Hints!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-acceleration-trendsetting-with-likes-and-videos-for-2024/"><u>Instagram Acceleration Trendsetting with Likes & Videos for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-and-easy-fixes-to-stop-graphics-driver-crash-in-valorant-gaming/"><u>Quick and Easy Fixes to Stop 'Graphics Driver Crash' In Valorant Gaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-note-30i-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Note 30i with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-techniques-to-prevent-maplestory-from-crashing-in-the-new-windows-11-environment/"><u>Top Techniques to Prevent MapleStory From Crashing in the New Windows 11 Environment</u></a></li>
+</ul></div>
 

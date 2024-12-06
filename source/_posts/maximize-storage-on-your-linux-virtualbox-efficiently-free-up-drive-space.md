@@ -1,7 +1,7 @@
 ---
 title: "Maximize Storage on Your Linux VirtualBox: Efficiently Free Up Drive Space"
-date: 2024-08-27T23:55:17.677Z
-updated: 2024-08-28T23:55:17.677Z
+date: 2024-11-29T18:59:58.166Z
+updated: 2024-12-06T18:57:36.448Z
 tags:
   - windows
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 ---
 
 ## Maximize Storage on Your Linux VirtualBox: Efficiently Free Up Drive Space
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
  You can solve this issue by zeroing that data yourself, and telling VirtualBox to compact the volume, bringing it back down to its actual size. Here's how it's done.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Reclaim Disk Space From a Linux Virtual Machine in VirtualBox
 
  The first thing you need to do to reclaim disk space from your Linux guests' virtual disks is ensure that dynamic allocation is enabled. If it is not, you will need to [convert your disk to a dynamically allocated disk](https://fox-info.techidaily.com/new-visualize-verve-vocalize-laughter-kapwings-toolkit/).
@@ -39,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/71f97dd9274703edf2e1d5e61f1afdbaca75ab6c6
 ![How to find out whether 'Dynamically allocated storage' is enabled for your virtual disk.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/vbox-dynamic-disk-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, [back up your virtual disk](https://extra-information.techidaily.com/mac-and-pcs-top-10-supercharged-srt-systems-unveiled/). If something goes wrong (like a mistyped command, or your power going out part way through the process), you risk losing all the data in your Linux guest.
 
  Next, on your Linux guest [run the following command in the terminal](https://vimeo-videos.techidaily.com/updated-boost-your-income-with-effective-vimeo-monetization-techniques-for-2024/):
@@ -68,9 +74,6 @@ VBoxManage.exe modifymedium disk /path/to/image.vdi -compact
 
  If VBoxManage.exe is not available from the command line on your Windows system, read on for instructions on how to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Did the dd Linux Command Do?
 
  This method for compacting a VirtualBox Linux guest utilizes the dd command to write an empty file to disk so that empty space can be identified by VirtualBox.
@@ -78,8 +81,9 @@ VBoxManage.exe modifymedium disk /path/to/image.vdi -compact
  The [dd](https://ss64.com/bash/dd.html) (data duplicator) command converts and copies files, and can also be used to write data. The "if" option passed to it supplies the input file (in this case /dev/zero supplies a constant stream of zero-value data or null data). The "of" option specifies the output file, and this stream of zero data is written to it. This will continue until the disk is full as /dev/zero never stops providing null data.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Using VboxManage.exe in Windows
 
  By default, VBoxManage.exe isn't available on the Windows command line. You can add it by [updating your Windows system path](https://screen-mirroring-recording.techidaily.com/updated-ideal-systems-for-recording-and-streaming-athletic-competitions-for-2024/) to include the VirtualBox installation directory, or calling the full path to the executable when using it:
@@ -89,9 +93,9 @@ VBoxManage.exe modifymedium disk /path/to/image.vdi -compact
  The "&" symbol, called the call operator, that executes the quoted command. This lets you use spaces in path to the executable.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  More About Managing VirtualBox Guests
 
  As your guests grow, you can [increase the size](https://tech-recovery.techidaily.com/the-ultimate-guide-16-best-free-sources-for-learning-american-sign-language/) of their virtual disks as well as [reduce them](https://screen-video-capture.techidaily.com/new-vocalvoyage-listening-and-recording-expedition-for-2024/). [Snapshotting](https://facebook-video-recording.techidaily.com/updated-fb-video-downloader-extraordinaire-mp4-transformation-for-2024/) lets you take the state of your virtual machine at a certain point in time and save it; if you later want to go back to how things were at that exact moment (for example after testing a configuration change), you can simply roll back and everything will be as it was.
@@ -104,8 +108,6 @@ VBoxManage.exe modifymedium disk /path/to/image.vdi -compact
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +115,20 @@ VBoxManage.exe modifymedium disk /path/to/image.vdi -compact
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-choosing-frame-rate-wisely-is-30-or-60-fps-better-for-2024/"><u>[New] Choosing Frame Rate Wisely Is 30 or 60 FPS Better for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-platform-pair-comparison-twitch-and-youtube/"><u>[New] The Ultimate Platform Pair Comparison Twitch and YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-vision-unclouded-mastery-of-gopro-haze-prevention/"><u>[Updated] 2024 Approved Vision Unclouded Mastery of GoPro Haze Prevention</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-toonworld-complete-insight-2024-guide/"><u>[Updated] ToonWorld Complete Insight 2024 Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722864248777-easy-ways-to-navigate-zoom-features-for-ios-devices/"><u>Easy Ways to Navigate Zoom Features for iOS Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-getting-past-the-resident-evil-village-not-loading-error/"><u>Expert Tips for Getting Past the 'Resident Evil Village Not Loading' Error</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-issues-with-launching-tiny-tinas-wonderlands-on-windows-for-optimal-gaming-experience/"><u>How to Fix Issues with Launching Tiny Tina's Wonderlands on Windows for Optimal Gaming Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-magic-5-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Magic 5 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/level-up-your-experience-how-to-stop-diablo-4-from-crashing-on-pc-ps5-and-xbox-systems/"><u>Level Up Your Experience: How to Stop Diablo 4 From Crashing on PC, PS5 & Xbox Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-found-overcoming-initial-issues-with-call-of-duty-black-ops-4-activation/"><u>Solution Found! Overcoming Initial Issues with Call of Duty: Black Ops 4 Activation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-your-steam-game-lag-ultimate-faster-performance-tips/"><u>Solve Your Steam Game Lag: Ultimate Faster Performance Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stability-issues-in-battlefield-v-on-pc-top-reasons-and-fixes-to-eliminate-crashes/"><u>Stability Issues in Battlefield V on PC? Top Reasons and Fixes to Eliminate Crashes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-samsung-960-evo-solid-state-drive-on-windows-how-to/"><u>Update Your Samsung 960 EVO Solid State Drive on Windows - How To?</u></a></li>
+</ul></div>
 

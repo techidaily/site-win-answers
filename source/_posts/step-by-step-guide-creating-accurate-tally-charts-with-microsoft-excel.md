@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating Accurate Tally Charts with Microsoft Excel"
-date: 2024-08-27T23:57:54.094Z
-updated: 2024-08-28T23:57:54.094Z
+date: 2024-12-04T17:49:48.359Z
+updated: 2024-12-06T17:12:12.251Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 ---
 
 ## Step-by-Step Guide: Creating Accurate Tally Charts with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![tally marks in a cell for formula referencing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/tally-marks.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We will create the tally graph using formulas and reference these two cells to display the correct tally marks.
 
 ##  Total the Groups of Five
@@ -55,16 +63,8 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 
 ![Total the groups of five](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/floor.math_-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  This rounds the value in C3 (23) down to the nearest multiple of 5 (20) and then divides that result by 5, giving the answer 4.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Total the Leftover Singles
 
  We now need to calculate what is left over after the groups of five. For this, we can use the MOD function. This function returns the remainder after two numbers are divided.
@@ -76,9 +76,9 @@ The powerful video editing program for your Windows PC</a>
 ![Calculate the remainder with MOD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/singles.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make the Tally Graph with a Formula
 
  We now know the number of groups of five and also the number of singles to display in the tally graph. We just need to combine them into one row of tally marks.
@@ -92,13 +92,11 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Create a tally graph with REPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/tally-graph-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The REPT function repeats text a specified number of times. We used the function to repeat the tally characters the number of times specified by the groups and singles formulas. We also used the ampersand (&) to concatenate them together.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Hide the Helper Columns
 
  To finish the tally graph, we will hide the helper columns D and E.
@@ -112,15 +110,14 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![Completed tally graph in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/completed-tally-graph.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +126,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/solution-guide-defeat-dev-error-6068-mastering-the-fix-for-microsoft-wow64-issue-on-fortnite-battle-royale-2024-techniques/"><u>[Solution Guide] Defeat Dev Error #6068: Mastering the Fix for Microsoft WOW64 Issue on Fortnite Battle Royale - 2024 Techniques</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-social-stream-top-8-viral-videos/"><u>[Updated] 2024 Approved Social Stream Top 8 Viral Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-step-by-step-guide-iphone-picture-perfection/"><u>[Updated] 2024 Approved Step-by-Step Guide IPhone Picture Perfection</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>2024 Approved Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-metodos-efectivos-para-comprimir-un-archivo-de-video-mov-y-minimizar-su-tamano/"><u>5 Métodos Efectivos Para Comprimir Un Archivo De Video MOV Y Minimizar Su Tamaño</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarifying-the-turing-test-concepts-and-future-contenders/"><u>Clarifying the Turing Test Concepts and Future Contenders</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-teardown-troubleshooting-end-crash-issues-forever/"><u>Comprehensive Teardown Troubleshooting: End Crash Issues Forever!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/experience-the-ultimate-bargain-get-apple-airtags-for-24-less-per-pack-during-walmarts-labor-day-sale-featured-by-zdnet/"><u>Experience the Ultimate Bargain: Get Apple AirTags for $24 Less per Pack During Walmart’s Labor Day Sale, Featured by ZDNET!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-restarting-and-repairing-intel-graphics-assistant-functionality/"><u>Expert Advice on Restarting and Repairing Intel Graphics Assistant Functionality</u></a></li>
+<li><a href="https://fox-that.techidaily.com/expert-tips-on-accessing-technical-support-for-your-iphone-via-apple-support-tool/"><u>Expert Tips on Accessing Technical Support for Your iPhone via Apple Support Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebooks-prime-video-hits-the-best-of-five/"><u>Facebook's Prime Video Hits - The Best of Five</u></a></li>
+<li><a href="https://win-answers.techidaily.com/instant-fix-for-your-sekiro-crashing-woes-a-user-friendly-guide/"><u>Instant Fix for Your Sekiro Crashing Woes - A User-Friendly Guide</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-from-snapshots-to-blockbusters-the-ultimate-video-enhancement-tool/"><u>New From Snapshots to Blockbusters The Ultimate Video Enhancement Tool</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000200757-no-more-lags-resolving-fps-drops-eradicating-gameplay-hiccups-and-boosting-performance/"><u>No More Lags: Resolving FPS Drops, Eradicating Gameplay Hiccups & Boosting Performance.</u></a></li>
+<li><a href="https://article-tips.techidaily.com/painting-with-light-an-experts-guide-to-color-grading/"><u>Painting with Light An Expert's Guide to Color Grading</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-cod-trailer-gone-wrong-fixing-modern-warfare-3-app-errors/"><u>Resolved: Cod Trailer Gone Wrong - Fixing 'Modern Warfare 3' App Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-division-2-enhancing-gameplay-by-tackling-low-fps-and-smoothing-out-stutters/"><u>The Division 2: Enhancing Gameplay by Tackling LOW FPS and Smoothing Out Stutters</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-why-fifa-21-wont-start-up/"><u>Troubleshooting: Why FIFA 21 Won't Start Up</u></a></li>
+<li><a href="https://win-answers.techidaily.com/understanding-wsappx-solutions-to-address-excessive-disk-and-cpu-consumption/"><u>Understanding WSAPPX: Solutions to Address Excessive Disk & CPU Consumption</u></a></li>
+</ul></div>
 

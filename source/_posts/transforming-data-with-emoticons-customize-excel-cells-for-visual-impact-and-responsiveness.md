@@ -1,7 +1,7 @@
 ---
 title: "Transforming Data with Emoticons: Customize Excel Cells for Visual Impact and Responsiveness"
-date: 2024-08-27T23:58:03.984Z
-updated: 2024-08-28T23:58:03.984Z
+date: 2024-11-29T16:21:30.701Z
+updated: 2024-12-06T16:54:42.496Z
 tags:
   - excel
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 * [Know the IF Function](https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-affordable-free-screen-capture/)
 * [How to Use Emojis With the IF Function](https://vp-tips.techidaily.com/new-2024-approved-5-prized-mac-compatible-live-streamers/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Use IF function to add emojis based on logical tests in Excel formulas for a lighthearted twist.
@@ -26,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
  You can [use Conditional Formatting in Excel](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) to add symbols or colors based on a cell's value, but, unfortunately, this doesn't offer the use of emojis. So, to get around this rather annoying shortcoming, let's look at [how to use the IF function](https://android-unlock.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-huawei-phone-by-drfone-android/) to do just that.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ##  Know the IF Function
 
  First, let's briefly explore Excel's IF function, which performs a logical test on a cell value to result in an outcome, and has the following syntax:
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
  In the example below, we want to find out whether the employees have achieved their target of $10,000.
 
 ![Table in Excel containing three columns. The first is employee names, the second is their profit, and the third is blank.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/employee-table-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To do this for Peter, we would type
 
@@ -54,14 +58,8 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
 ![A table in Excel displaying Yes or No depending on the outcome of the IF logical test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/if-with-yes-or-no.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  But instead of the result being a word like Yes or No, you might want to use an emoji.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use Emojis With the IF Function
 
  To produce emojis as the result of your logical test, we use the same IF function:
@@ -79,15 +77,13 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 ![An Excel spreadsheet with a formula half-typed and the Symbol icon grayed out.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/if-function-start-with-symbols-greyed-out.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  So, we need to use an alternative way to bring up the emoji that we want to add to our formula. If you're using a Windows computer, press Windows+. (the Windows key and the period key). If you're using a Mac, press Ctrl+Cmd+Space. This will bring up a list of emojis you can use within your formula.
 
 ![Emoji keyboard in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/emoji-keyboard.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Search for and single-click the emoji you want to show if the logical test is true, close the quotation marks, add a comma, and open the next quotation marks.
 
 =if(B2>=$C$1,"😁","
@@ -100,13 +96,18 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
 
 ![An Excel worksheet containing an emoji based on a logical IF-function test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/emoji-in-cell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, use the AutoFill function to complete the rest of your results.
 
 ![A table in Excel with the rightmost column containing emojis based on the logical IF test.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/completed-emoji-table.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What's more, if your data changes, the emojis will automatically update to reflect whether the logical test has been met.
 
 ---
@@ -119,8 +120,6 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +127,19 @@ thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-dictate-your-destiny-free-logo-creation-from-template-files/"><u>[New] 2024 Approved Dictate Your Destiny - Free Logo Creation From Template Files</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-face-the-future-with-elite-iphone-and-android-modifiers/"><u>[New] Face the Future with Elite iPhone & Android Modifiers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-the-youtube-view-number-for-profitability/"><u>[Updated] In 2024, Decoding the YouTube View Number for Profitability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revival-artisan-selection/"><u>[Updated] Revival Artisan Selection</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/distinguishing-between-powerful-ai-and-basic-ai-technologies/"><u>Distinguishing Between Powerful AI and Basic AI Technologies</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-translate-live-videos-with-the-best-video-translator/"><u>New Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashing-a-players-handbook-to-a-smooth-minecraft-experience/"><u>No More Crashing - A Player's Handbook to a Smooth Minecraft Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-smoothing-out-gameplay-in-avatar-frontiers-of-pandora-combatting-lags-and-frame-rate-drops/"><u>Quick Fixes for Smoothing Out Gameplay in Avatar: Frontiers of Pandora - Combatting Lags and Frame Rate Drops</u></a></li>
+<li><a href="https://win-answers.techidaily.com/say-goodbye-to-fifa-19-lag-on-pc-expert-fixing-strategies-revealed/"><u>Say Goodbye to FIFA 19 Lag on PC: Expert Fixing Strategies Revealed</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-eliminate-the-roblox-must-close-warning-in-windows/"><u>Steps to Eliminate the 'Roblox Must Close' Warning in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-with-content-warning-on-voice-chats/"><u>Troubleshooting Steps: Resolving Issues with Content Warning on Voice Chats</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/your-one-stop-destination-for-in-depth-pc-analysis-toms-hardware-insights/"><u>Your One-Stop Destination for In-Depth PC Analysis: Tom's Hardware Insights</u></a></li>
+</ul></div>
 

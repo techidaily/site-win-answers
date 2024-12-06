@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Office 2011: Revolutionizing Mac Users' Approach to the Classic TPS Report"
-date: 2024-08-27T23:56:59.411Z
-updated: 2024-08-28T23:56:59.411Z
+date: 2024-12-01T17:36:22.845Z
+updated: 2024-12-06T18:31:01.345Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 ---
 
 ## Microsoft Office 2011: Revolutionizing Mac Users' Approach to the Classic TPS Report
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image297.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here's the full Ribbon for Word, Excel, Powerpoint, and Outlook---click through to show the full-sized view for each one. [](https://www.howtogeek.com/wp-content/uploads/2010/10/18.png)
 
 [![/wordpress/wp-content/uploads/2010/10/1-copy.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/1-copy.png)](https://www.howtogeek.com/wp-content/uploads/2010/10/18.png)
@@ -37,13 +45,25 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 [![/wordpress/wp-content/uploads/2010/10/2-copy.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/2-copy.png)](https://www.howtogeek.com/wp-content/uploads/2010/10/21.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [](https://www.howtogeek.com/wp-content/uploads/2010/10/21.png) [](https://www.howtogeek.com/wp-content/uploads/2010/10/31.png)
 
 [![/wordpress/wp-content/uploads/2010/10/3-copy.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/3-copy.png)](https://www.howtogeek.com/wp-content/uploads/2010/10/31.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [](https://www.howtogeek.com/wp-content/uploads/2010/10/31.png) [](https://www.howtogeek.com/wp-content/uploads/2010/10/41.png)
 
 [![/wordpress/wp-content/uploads/2010/10/4-copy.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/4-copy.png)](https://www.howtogeek.com/wp-content/uploads/2010/10/41.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [](https://www.howtogeek.com/wp-content/uploads/2010/10/41.png) You'll also notice that the "Save As" key command of Command + Shift + S has been brought back to the suite, allowing cross-platform users to have the ease of use they may have missed in Office for Mac 2008\. 
 
@@ -55,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![/wordpress/wp-content/uploads/2010/10/6.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/6.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To save to your SkyDrive, you will enter your live account information. 
 
 ![/wordpress/wp-content/uploads/2010/10/7.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/7.png) 
@@ -66,19 +83,14 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 ![/wordpress/wp-content/uploads/2010/10/81.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/81.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Now you can view the file just like any other [Office Web App](https://facebook.techidaily.com/the-structure-and-public-accessibility-of-facebook-local-groups/) document. 
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image298.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Word 2011 Is a More Fluid Experience
 
  If you are using Office, more than likely you will use Word. The popular word processing application has some noticeable enhancements, the most noticeable of which is the quickness of launching the app---compared to Word 2008, the new version opens in a snap. [](https://www.howtogeek.com/wp-content/uploads/2010/10/101.png)
@@ -91,15 +103,19 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
 
 [](https://www.howtogeek.com/wp-content/uploads/2010/10/111.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Excel 2011 Has Sparklines
 
  One of the features to find its way to Excel is Sparklines, which let you graphically show off data within a cell. 
 
 ![image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/image300.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  PowerPoint 2011 Has a Rearrange Tool
 
@@ -115,14 +131,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 [![/wordpress/wp-content/uploads/2010/10/141.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/10/141.png)](https://www.howtogeek.com/wp-content/uploads/2010/10/141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [](https://www.howtogeek.com/wp-content/uploads/2010/10/141.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Conclusion
 
  With Office:mac 2011 due to be release later in October, the Mac Business Unit of Microsoft boasts their best version of the popular productivity suite. With just a taste of the new features shown here, the new version will be a great tool for Mac users who appreciate the MBU's outlook on making Office:mac a more OS X aimed experience. [Read More About Office for Mac 2011 at microsoft.com](http://www.microsoft.com/mac/office2011features/office2011.mspx)
@@ -133,8 +143,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +150,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-groundbreaking-open-source-software-for-modern-video-conferencing/"><u>[New] 2024 Approved Groundbreaking Open Source Software for Modern Video Conferencing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capture-the-internets-attention-craft-with-kapwing/"><u>[Updated] Capture the Internet’s Attention – Craft with Kapwing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-computational-photography-what-are-auto-hdr-smart-hdr-3-and-4-shooting-modes/"><u>[Updated] Computational Photography What Are Auto HDR, Smart HDR 3 & 4 Shooting Modes?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/"><u>[Updated] Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-13-pro-max-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Max Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easing-overuse-signal-fixing-chatgpt-on-windowed-systems/"><u>Easing Overuse Signal: Fixing ChatGPT on Windowed Systems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/forza-horizon-5-stability-issues-heres-how-to-stop-it-from-freezing/"><u>Forza Horizon 5 Stability Issues? Here's How to Stop It From Freezing!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/halo-3-no-longer-crashes-a-comprehensive-fix-guide/"><u>Halo 3 No Longer Crashes: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-crashing-glitch-in-total-war-three-kingdoms/"><u>How to Fix the Crashing Glitch in Total War: Three Kingdoms?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-simplify-your-workflow-top-timecode-conversion-tools-for-video-pros/"><u>New 2024 Approved Simplify Your Workflow Top Timecode Conversion Tools for Video Pros</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-issues-with-fixes-how-to-stop-grounded-from-crashing/"><u>Overcome PC Issues with Fixes: How to Stop Grounded From Crashing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722989594351-solving-lost-ark-server-connection-issues-effective-strategies-inside/"><u>Solving 'Lost Ark' Server Connection Issues - Effective Strategies Inside</u></a></li>
+</ul></div>
 

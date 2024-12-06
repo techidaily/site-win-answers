@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability in FIFA 20 on Your Computer: The Full Expert's Crash Fix Handbook"
-date: 2024-11-12T17:52:38.886Z
-updated: 2024-11-17T12:36:12.105Z
+date: 2024-12-02T16:04:26.129Z
+updated: 2024-12-06T16:03:39.770Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 4. [**Close in-game overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  At some point, 2K21 will crash if you have important game files missing or corrupted. To verify the integrity of your game files, simply follow these steps:
@@ -60,17 +64,14 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
 3. Launch NBA 2K21 and check if it crashes again.
 
  If this method doesn’t give you any luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -82,7 +83,15 @@ You can follow these steps to install all Windows updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It’s going to take a while for Windows to search and install available updates. Once completed, restart your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -104,27 +113,21 @@ If 2K21 crashes again, simply move on to the next method.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and check if the crash with 2K21 has been fixed.
 
  If this fix doesn’t solve your problem, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Close in-game overlay
 
@@ -135,13 +138,6 @@ For example, you can use these steps to disable Steam overlay:
 1. Open your Steam client. On the top left corner, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Select**In-Game** from the left menu. Under the**Steam Overlay** section,**uncheck** these three boxes and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch NBA 2K21 and see if the issue persists.
@@ -159,22 +155,8 @@ For example, you can use these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Second, you need to disable VSync in NBA 2K21\. Launch 2K21 and go to FEATURES > VIDEO SETTINGS. Then set**Vertical Sync** to**off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
 4. Restart NBA 2K21 and check if your problem has gone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -195,20 +177,20 @@ For example, you can use these steps to disable Steam overlay:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-understanding-the-dynamics-of-night-portraits/"><u>[New] In 2024, Understanding the Dynamics of Night Portraits</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtube-gurus-summit-expedition/"><u>[Updated] In 2024, YouTube Gurus Summit Expedition</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-looms-legacy-unveiling-the-art-of-capturing-life/"><u>[Updated] Loom's Legacy Unveiling the Art of Capturing Life</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-spy-on-fb-chronicles-unseen-for-2024/"><u>[Updated] Spy on FB Chronicles, Unseen for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002249780-age-of-empires-ii-troubleshooting-for-windows-11-users-solved/"><u>Age of Empires II Troubleshooting for Windows 11 Users - Solved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/flicker-no-more-your-complete-fix-manual-for-persistent-display-glitches/"><u>Flicker No More! Your Complete Fix Manual for Persistent Display Glitches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-ensure-smooth-performance-of-thaumaturge-game-on-pc-setup/"><u>How to Ensure Smooth Performance of Thaumaturge Game on PC Setup</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-gt-neo-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-red-magic-9-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Red Magic 9 Pro Unlock Without Password</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-launching-hurdles-in-grand-theft-auto-5-experience/"><u>Overcoming Launching Hurdles in Grand Theft Auto 5 Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-enjoyment-upgraded-resolving-fps-dips-in-the-latest-formula-one-video-game/"><u>PC Gaming Enjoyment Upgraded: Resolving FPS Dips in the Latest Formula One Video Game</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-publishing-with-ipublish-streamlined-online-publication-solutions/"><u>Revolutionize Your Publishing with IPublish: Streamlined Online Publication Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steam-how-to-speed-up-your-game-launches/"><u>Troubleshooting Steam: How to Speed Up Your Game Launches</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-for-dota-2-when-it-wont-start-or-gets-frozen-at-the-bootup-screen/"><u>Troubleshooting Steps for Dota 2 When It Won't Start or Gets Frozen at the Bootup Screen</u></a></li>
-<li><a href="https://win-docs.techidaily.com/wiederherstellung-von-daten-aus-einem-bootfahigen-usb-auf-windows-11-schritt-fur-schritt-anleitung/"><u>Wiederherstellung Von Daten Aus Einem Bootfähigen USB Auf Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-what-everyone-should-know-about-youtube-tv-before-you-stream/"><u>[New] 2024 Approved What Everyone Should Know About YouTube TV Before You Stream</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-snapchat-enhancement-the-power-of-spotlight-feature/"><u>[New] In 2024, Snapchat Enhancement The Power of Spotlight Feature</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-gopro-chrono-photography/"><u>[Updated] 2024 Approved Unveiling the Secrets of GoPro Chrono Photography</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-redmi-a2-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi Redmi A2? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-pop-7-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Pop 7 Pro to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-creative-visual-effects-harnessing-the-power-of-free-luts/"><u>In 2024, Creative Visual Effects Harnessing the Power of FREE LUTS</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-phantom-v-flip-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Phantom V Flip and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-conversion-techniques-to-transform-visitors-into-customers/"><u>Mastering the Art of Conversion: Techniques to Transform Visitors Into Customers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-video-watermarks-4-simple-methods-to-insert-images-with-ease/"><u>Mastering the Art of Video Watermarks: 4 Simple Methods to Insert Images with Ease</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mp4aviutl/"><u>MP4ファイルを正常に再生するためのAviUtlソリューション</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-transforming-iso-images-into-wmv-video-with-simple-techniques/"><u>Quick Guide: Transforming ISO Images Into WMV Video with Simple Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/reduce-delay-in-windows-11-keys-7-proven-methods/"><u>Reduce Delay in Windows 11 Keys: 7 Proven Methods</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/snap-it-all-navigating-the-world-of-free-tiktok-bgs-for-2024/"><u>Snap It All Navigating the World of Free TikTok BGs for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-resolving-problems-with-onlinevideoconvertercom-accessibility/"><u>Step-by-Step Guide to Resolving Problems with OnlineVideoConverter.com Accessibility</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-transforming-gameplay-recordings-into-mp4-videos/"><u>Step-by-Step Guide: Transforming Gameplay Recordings Into MP4 Videos</u></a></li>
 </ul></div>
 

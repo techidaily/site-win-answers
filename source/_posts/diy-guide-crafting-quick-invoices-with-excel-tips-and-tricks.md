@@ -1,7 +1,7 @@
 ---
 title: "DIY Guide: Crafting Quick Invoices with Excel Tips and Tricks"
-date: 2024-08-27T23:57:24.313Z
-updated: 2024-08-28T23:57:24.313Z
+date: 2024-11-29T16:42:12.224Z
+updated: 2024-12-06T18:17:01.821Z
 tags:
   - excel
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 * [Creating a Simple Invoice in Excel from Scratch](https://screen-activity-recording.techidaily.com/is-integrating-itop-into-your-toolkit-advisable-for-2024/)
 
  Whether you’re a freelancer doing work for multiple companies, or a business that plans on extending a credit line to its customers, you’re going to need an invoice. Creating a custom invoice in Excel isn’t difficult. You’ll be ready to submit your invoice and receive payments in no time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using an Invoice Template
 
@@ -61,9 +65,9 @@ thumbnail: https://thmb.techidaily.com/f96105d1405f7c845f75622429456df69e9791ebe
 ![hide gridlines](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/hide-gridlines.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now let’s resize some of the columns and rows. This will give us extra room for some of the lengthier information like item descriptions. To resize a row or column, click and drag.
 
 ![Resize gif](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/Resize-gif.gif) 
@@ -91,19 +95,17 @@ The ultimate burning program for all your needs!</a>
 ![enter name in invoice](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/enter-name-in-invoice.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In column B, row 1, type “Invoice” to make it immediately clear what the document is. We recommend a 28pt font using all caps. Feel free to give it a lighter color if you’d like.
 
 ![enter invoice in invoice](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/enter-invoice-in-invoice.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In Column A, Rows 4, 5, and 6, we will input our address and phone number.
 
 ![enter address in invoice](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/enter-address-in-invoice.png) 
@@ -113,16 +115,17 @@ No advertising on the website.
 ![enter date and invoice number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/enter-date-and-invoice-number.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Finally, for the last part of the basic information, we’ll enter the text “Bill To:” (in bold) in column A, row 8\. Below that in rows 9, 10, and 11, we’ll enter the recipient information.
 
 ![enter recipient information](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/enter-recipient-information.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now we need to make a table to list our items, fulfillment dates, and specific amounts. Here’s how we’ll set it up:
 
  First, we’ll merge column A and B in row 14\. This will act as the header for our listed items (column A, rows 15-30) and our fulfillment dates (column B, rows 15-30). After you’ve merged column A and B in row 14, give the cell a border. You can do so by going to the “Font” section of the “Home” tab, selecting the border icon, and choosing your desired border type. For now, we’ll use “All Borders.”
@@ -130,15 +133,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![give cells borders 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/give-cells-borders-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Do the same for cell C14\. Feel free to shade your cells if you like. We’ll do a light gray. To fill your cells with a color, select the cells, select the arrow next to the “Fill Color” icon in the “Font section of the “Home” tab, and select your color from the drop-down menu.
 
 ![fill cells with color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/fill-cells-with-color.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the first highlighted cell, type “DESCRIPTION” and align the text in the center. For C14, type “AMOUNT” with center alignment. Bold the text for both. Now you’ll have your table header.
 
 ![enter table header](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/enter-table-header.png) 
@@ -149,9 +150,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![give bottom row cells bottom border](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/give-bottom-row-cells-bottom-border.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now highlight cells C15-29 and give them all left and right borders.
 
 ![left right borders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/left-right-borders.png) 
@@ -174,27 +172,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![currency gif](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/currency-gif.gif) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To automatically add all of the individual amounts and have it reflected in the “Sum” cell we created, select the cell (C31 in this example) and enter the following formula:
 
 =SUM(C15:C30)
 
 ![formula total](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/formula-total.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Now if you enter (or remove) any number in the individual amount cells, it will automatically reflect in the sum cell.
 
 ![SUM gif](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/SUM-gif.gif) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will make things more efficient for you in the long run.
 
  Moving on, enter the text “Method of Payment:” in A34.
 
 ![method of payment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/method-of-payment.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The information you put next to that is between you and the recipient. The most common forms of payment are cash, check, and wire. Sometimes you may be asked to accept a money order. Some companies even prefer to make a direct deposit or use PayPal.
 
@@ -210,8 +210,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +217,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/complete-guide-no-more-cyberpunk-2077-download-troubles-on-steam/"><u>Complete Guide: No More Cyberpunk 2077 Download Troubles on Steam!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-the-world-of-playful-input-gadgets-a-journey-through-charm-to-convenience-as-featured-on-zdnet/"><u>Exploring the World of Playful Input Gadgets: A Journey Through Charm to Convenience, as Featured on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-the-latest-patch-makes-lost-ark-pc-gaming-smooth-and-uninterrupted/"><u>How the Latest Patch Makes Lost Ark PC Gaming Smooth and Uninterrupted</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-master-the-art-of-youtube-video-sizing-shape-and-clarity/"><u>In 2024, Master the Art of YouTube Video Sizing, Shape & Clarity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-performance-hiccups-fixing-lag-in-naraka-bladestorm-battles/"><u>Overcoming Performance Hiccups: Fixing Lag in Naraka Bladestorm Battles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/scaling-video-size-without-quality-loss-on-youtube/"><u>Scaling Video Size Without Quality Loss on YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-4-advantages-why-choose-microsoft-copilot-over-chatgpt/"><u>Top 4 Advantages: Why Choose Microsoft Copilot Over ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-affordable-gaming-notebooks-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Affordable Gaming Notebooks: Comprehensive Reviews by Professionals | TechRadar</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-to-stop-repeated-freezing-of-fuser-software-on-pc/"><u>Troubleshooting Steps to Stop Repeated Freezing of Fuser Software on PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transforming Your Excel Spreadsheet Into a Dynamic PowerPoint Organizational Structure"
-date: 2024-08-27T23:57:13.541Z
-updated: 2024-08-28T23:57:13.541Z
+date: 2024-12-02T17:08:24.011Z
+updated: 2024-12-06T16:34:34.022Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7b
 ---
 
 ## Step-by-Step Guide: Transforming Your Excel Spreadsheet Into a Dynamic PowerPoint Organizational Structure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7b
 
 ![Insert SmartArt in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Insert-SmartArt-in-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The “Choose a SmartArt Graphic” window will appear. In the pane on the left-hand side, select “Hierarchy.” You'll see several different chart styles appear on the right. Choose the one that suits your needs best. In this example, we’ll choose the “Name and Title Organizational Chart” option.
 
 ![Heirarchy Art](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Heirarchy-Art.png) 
@@ -36,11 +44,12 @@ thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7b
 
 ![organization chart - excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/organization-chart-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Our chart includes team members and their respective positions. Double-check to make sure the information is correct, save the Excel file, then exit out.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Inserting Your Organizational Chart in PowerPoint
 
  Now it’s time to work in PowerPoint. Open up your presentation and move to the slide where you want the organizational chart. Go to the “Insert” tab and select “Object."
@@ -51,17 +60,14 @@ thumbnail: https://thmb.techidaily.com/b00ef75a586fb477d808aa5f3851d99d406553f7b
 
 ![create from file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/create-from-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Go to the location of the Excel file containing the organizational chart, select it, and then click “OK.”
 
 ![Browse PC for excel file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Browse-PC-for-excel-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Make sure the file path is correct and then click “OK.”
 
 ![insert excel file in powerpoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/insert-excel-file-in-powerpoint.png) 
@@ -71,32 +77,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Gif-1.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Merging the cells in the background may also be a good idea, as they can be quite distracting. To do so, double click the chart and then select all of the cells that appear.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Gif-2.gif) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  O the “Home” tab, select “Merge & Center.”
 
 ![merge and center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/merge-and-center.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Now you’ll have a nice, clean organizational chart in your PowerPoint presentation. Good luck!
 
 <ins class="adsbygoogle"
@@ -105,8 +96,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +103,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-the-financial-floor-and-ceiling-in-podcasting-world/"><u>[New] In 2024, The Financial Floor and Ceiling in Podcasting World</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-guide-to-lenovos-screen-recording-process/"><u>[Updated] Guide to Lenovo's Screen Recording Process</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unveiling-vr-inventory-and-imagination-deficit/"><u>[Updated] Unveiling VR Inventory and Imagination Deficit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/conquer-game-glitches-how-to-correctly-address-bsod-errors-in-helldivers-2/"><u>Conquer Game Glitches: How to Correctly Address BSOD Errors in Helldivers 2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-troubleshooting-steps-to-get-hogwarts-legacy-running/"><u>Effective Troubleshooting Steps to Get Hogwarts Legacy Running</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/everlasting-impressions-save-instagram-stories-endlessly/"><u>Everlasting Impressions Save Instagram Stories Endlessly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-your-football-manager-2023-boot-problems-effective-strategies-and-tips/"><u>Fix Your Football Manager 2023 Boot Problems: Effective Strategies and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009983106-football-manager-2021-stuttering-and-hanging-discover-fixes-to-enhance-your-gaming-experience/"><u>Football Manager 2021 Stuttering & Hanging? Discover Fixes to Enhance Your Gaming Experience!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-smooth-playback-of-baldurs-gate-with-these-6-essential-fixes-for-lag-and-freeze-issues/"><u>Get Smooth Playback of Baldur's Gate with These 6 Essential Fixes for Lag & Freeze Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-reduce-high-resource-usage-in-cyberpunk-2077-gameplay/"><u>How to Reduce High Resource Usage in Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-troubleshoot-and-repair-zooms-pre-video-launch-problem-top-5-tips/"><u>How to Troubleshoot and Repair Zoom's Pre-Video Launch Problem – Top 5 Tips</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Honor Play 40C? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50i-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Honor X50i Phone without Google Account?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-delays-how-guilty-gear-strives-latest-patch-improves-performance/"><u>No More Delays: How Guilty Gear Strive's Latest Patch Improves Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-window-lockups-in-google-chrome-on-your-windows-11-pc-with-simple-tricks/"><u>Solving Window Lockups in Google Chrome on Your Windows 11 PC with Simple Tricks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-discounted-ssds-and-hdds-of-2024-best-offers/"><u>Top Discounted SSDs & HDDs of 2024 - Best Offers!</u></a></li>
+</ul></div>
 

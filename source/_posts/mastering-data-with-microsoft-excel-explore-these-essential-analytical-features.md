@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data with Microsoft Excel: Explore These Essential Analytical Features"
-date: 2024-08-27T23:57:39.507Z
-updated: 2024-08-28T23:57:39.507Z
+date: 2024-12-01T17:56:08.091Z
+updated: 2024-12-06T18:16:27.330Z
 tags:
   - excel
 categories:
@@ -41,11 +41,12 @@ Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube
 
 ![Quick Analysis tool preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/QuickAnalysisPreview-ExcelDataAnalysisFeatures.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Simply choose the tool you want and you're in business.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ##  Analyze Data for Asking Questions
 
  Another helpful built-in feature in Excel is [the Analyze Data tool](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/). With it, you can ask questions about your data and see suggested questions and answers. You can also quickly insert items like charts and tables.
@@ -54,23 +55,22 @@ Related: [How to Use Excel's "Quick Analysis" to Visualize Data](https://youtube
 
 ![Analyze Data on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/AnalyzeDataButton-ExcelDataAnalysisFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll see a sidebar open on the right. At the top, pop a question into the search box. Alternatively, you can choose a question in the Not Sure What to Ask section or scroll through the sidebar for recommendations.
 
 ![Analyze Data sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/AnalyzeDataSidebar-ExcelDataAnalysisFeatures.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see a table or chart in the list you want to use, select "Insert Chart" or "Insert PivotTable" to add it to your sheet with a click.
 
 ![Analyze Data sidebar with insert options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/AnalyzeDataInsert-ExcelDataAnalysisFeatures.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
+
 ##  Charts and Graphs for Visual Analysis
 
  As mentioned above, charts make great visual analysis tools. Luckily, Excel offers many types of graphs and charts, each with robust customization options.
@@ -81,18 +81,23 @@ Related: [How to Choose a Chart to Fit Your Data in Microsoft Excel](https://and
 
 ![Recommended Charts on the Insert tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ChartsRecommended-ExcelDataAnalysisFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  You can also pick "All Charts" in the Recommended Charts window or choose a specific chart type in that same section of the ribbon if you know which kind of visual you want.
 
 ![All Charts in the Recommended Charts window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ChartsRecommendedAll-ExcelDataAnalysisFeatures.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you pick a chart type, you'll see it appear in your sheet with your data already inserted. From there, you can select the graph and use the Chart Design tab, Format Chart Area sidebar, and chart buttons (Windows only) to customize the chart and the data in it.
 
 ![Chart Design tab and customization buttons on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ChartsCustomize-ExcelDataAnalysisFeatures.png) 
 
  For more, check out our how-tos for [making graphs in Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/). We can help you create a [pie chart](https://some-techniques.techidaily.com/2024-approved-how-to-download-process-and-save-youtube-hosted-tweet-videos-as-mp3s/), [waterfall chart](https://youtube-docs.techidaily.com/approved-strategies-for-effective-youtube-playlist-distribution/), [funnel chart](https://buynow-help.techidaily.com/detailed-insight-into-the-campfire-chronicles-character-customization-collection/), [combo chart](https://hardware-tips.techidaily.com/unveiling-the-secrets-of-pc-components-a-deep-dive-by-toms-hardware/), and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Sort and Filter for Easier Viewing
 
@@ -105,8 +110,9 @@ Related: [How to Choose a Chart to Fit Your Data in Microsoft Excel](https://and
 ![Sort options in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Sort-ExcelDataAnalysisFeatures.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Along with sorting the data, you can use filters to see only the data you need at the time. Select the data, open the same Sort & Filter menu, and pick "Filter."
 
 ![Filter in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/Filter-ExcelDataAnalysisFeatures.png) 
@@ -117,9 +123,6 @@ Related: [How to Choose a Chart to Fit Your Data in Microsoft Excel](https://and
 
  To clear a filter when you finish, select the filter button and choose "Clear Filter." To turn off filtering altogether, return to the Sort & Filter menu on the Home tab and deselect "Filter."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Functions for Creating Formulas
 
 [Excel's functions](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) are fantastic tools for creating formulas to manipulate, change, convert, combine, split, and perform many more actions with your data. When it comes to analyzing data, here are just a handful of functions that can come in handy.
@@ -136,16 +139,25 @@ Related: [How to Choose a Chart to Fit Your Data in Microsoft Excel](https://and
 
  The [SUMIF](https://on-screen-recording.techidaily.com/pinnacle-platforms-transforming-online-interaction/) and SUMIFS math functions add values in cells based on criteria. SUMIFS lets you use multiple conditions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  XLOOKUP, VLOOKUP, and HLOOKUP
 
  The [XLOOKUP](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/), [VLOOKUP](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/), and HLOOKUP functions help you locate specific data in your sheet. Use XLOOKUP to find data in any direction, VLOOKUP to find data vertically, or HLOOKUP to find data horizontally. XLOOKUP is the most versatile of the three and is an extremely helpful function.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  UNIQUE
 
  With the [UNIQUE](https://vimeo-videos.techidaily.com/simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways/) lookup function, you can obtain a list of only the unique values from your data set.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Conditional Formatting for Spotting Data Fast
 
@@ -155,16 +167,10 @@ Related: [How to Choose a Chart to Fit Your Data in Microsoft Excel](https://and
 
 ![Conditional Formatting highlight options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ConditionalFormattingHighlighting-ExcelDataAnalysisFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can also use conditional formatting to [find duplicate data](https://instagram-clips.techidaily.com/how-to-share-igtv-videos-to-facebook-3-ways-for-2024/), insert color scales for things like heat maps, [create data bars](https://instagram-clips.techidaily.com/updated-the-ultimate-guide-to-saving-instagrams-trending-videos/) for color indicators, and use icon sets for handy visuals like shapes and arrows.
 
 ![Conditional Formatting icon sets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ConditionalFormattingIcons-ExcelDataAnalysisFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Additionally, you can create a custom rule, [apply more than one rule](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) at a time, and clear rules you no longer want.
 
 ##  Pivot Tables for Complex Data
@@ -177,15 +183,15 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
 
 ![Insert pivot table options in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PivotTable-ExcelDataAnalysisFeatures.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
  You'll then see a placeholder added to your workbook for the pivot table. On the right, use the PivotTable Fields sidebar to customize the contents of the table.
 
  Use the checkboxes to choose which data to include and then the areas below to apply filters and designate the rows and columns. You can also use the PivotTable Analyze tab.
 
 ![Pivot table customization sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/PivotTableCustomize-ExcelDataAnalysisFeatures.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Because pivot tables can be a little intimidating when you get started, check out our complete tutorial for [creating a pivot table in Excel](https://desktop-recording.techidaily.com/new-apex-10-royale-showdowns-for-2024/).
 
@@ -197,8 +203,6 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +210,26 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/updated-learn-to-initiate-harmonious-group-conversations-on-skype-for-both-pc-and-mac-users-for-2024/"><u>[Updated] Learn to Initiate Harmonious Group Conversations on Skype for Both PC & Mac Users for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bend-the-rules-of-livestreaming-on-youtube-without-a-subscriber-hurdle/"><u>2024 Approved Bend the Rules of Livestreaming on YouTube, Without a Subscriber Hurdle</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-list-to-remember-reddits-highly-endorsed-top-threads-for-2024/"><u>A List to Remember Reddit’s Highly Endorsed Top Threads for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-we-witnessing-the-rise-of-generative-ai-as-a-facilitator-of-misleading-information/"><u>Are We Witnessing the Rise of Generative AI as a Facilitator of Misleading Information?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blank-screen-effective-solutions-for-fixing-fm2k19-shutdown-errors/"><u>Beat the Blank Screen: Effective Solutions for Fixing FM2K19 Shutdown Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/chortlechamps-excellent-platforms-for-hilarious-tones/"><u>ChortleChamps Excellent Platforms for Hilarious Tones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722991074306-diagnose-and-fix-your-diablo-ii-resurrected-not-launching-problem-today/"><u>Diagnose and Fix Your Diablo II Resurrected Not Launching Problem Today</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-ways-to-repair-and-resume-using-the-paradox-launcher/"><u>Effective Ways to Repair and Resume Using the Paradox Launcher</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-smooth-out-freezing-frames-and-hiccups-in-pc-fortnite-battles/"><u>How to Smooth Out Freezing Frames and Hiccups in PC Fortnite Battles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-giggle-galaxy-most-shared-content-on-both-platforms/"><u>In 2024, Giggle Galaxy Most Shared Content on Both Platforms</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/luminous-clips-discover-5-apps-that-shine-online-for-2024/"><u>Luminous Clips Discover 5 Apps That Shine Online for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-your-league-of-legends-network-problems/"><u>Resolved: Troubleshooting Your League of Legends Network Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-hitman-3-from-freezing-or-crashing-proven-techniques/"><u>Stop Hitman 3 From Freezing or Crashing: Proven Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-the-ue4-gobi-crash-issue-for-back-4-blood-enthusiasts/"><u>Troubleshooting and Solving the 'UE4 - Gobi' Crash Issue for Back 4 Blood Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-solving-issues-with-utorrents-download-and-connection-problems/"><u>Troubleshooting: Solving Issues with uTorrent's Download and Connection Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-a-frozen-qbittorent-session/"><u>Troubleshooting: Steps to Resolve a Frozen qBittorent Session</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-magic-of-apples-ar-glasses-enthusiastic-insights-into-a-future-of-wearable-tech/"><u>Unveiling the Magic of Apple's AR Glasses: Enthusiastic Insights Into a Future of Wearable Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-over-overwatch-lags-and-hitches-effective-methods-for-a-smooth-playthrough/"><u>Winning Over Overwatch Lags & Hitches: Effective Methods for a Smooth Playthrough</u></a></li>
+</ul></div>
 

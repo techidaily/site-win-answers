@@ -1,7 +1,7 @@
 ---
 title: "Get Back Into the Action: Essential Fixes for Starting Fallout 3"
-date: 2024-11-19T20:55:46.890Z
-updated: 2024-11-26T18:15:25.719Z
+date: 2024-11-29T16:52:13.457Z
+updated: 2024-12-06T18:58:38.359Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -46,11 +42,19 @@ thumbnail: https://thmb.techidaily.com/c097d4cbd7f38690c40368b7c00be742b01b3a584
 
  Before we jump into anything advanced,[check the Roblox server status](https://status.roblox.com/) first. If the server is down, then you’ll have to wait until it’s fixed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Restart your PC
 
  The first and easiest thing you should try is a restart of your PC. Many players are able to launch Roblox after they restart their computers, so it’s definitely worth trying.
 
 If rebooting your PC doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Check your browser
 
@@ -77,15 +81,11 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 4. Check the option of**Delete personal settings** , then click**Reset** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/delete-personal-settings.png)
 5. Restart your PC to let the changes take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now you can continue to use the browser of your choice and test the issue. If this doesn’t solve your problem, try the next fix.
 
@@ -101,6 +101,10 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-proxy.png)
 2. Make sure that**User setup script** and**Use a proxy server** are set to**off** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/proxy-settings.png)  
 
  For Windows 11 users, your screen will look slightly different.  
@@ -108,6 +112,10 @@ If rebooting your PC doesn’t solve your problem, try the next fix.
 ![Windows 11 configure proxy settings](https://images.drivereasy.com/wp-content/uploads/2021/06/win11-proxy-off.jpg)
 
 If this fix doesn’t help, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Reinstall Roblox desktop app
 
@@ -121,16 +129,8 @@ If this fix doesn’t help, there’s one more fix you can try.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 4. Switch to**View by: Small icons** , then click**Programs & Features** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/programs-and-features.png)
 5. Find Roblox, right-click it then click**Uninstall** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **To remove the Roblox folder:**
 
@@ -161,14 +161,14 @@ If this fix doesn’t help, there’s one more fix you can try.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) For example, I want to update my graphics and network adapter driver here. Click the **Update**  button next to the flagged drivers to automatically download the correct version of them. Then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg) **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -192,18 +192,14 @@ If this fix doesn’t help, there’s one more fix you can try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-sharing-tunes-instagram-copyright-edicts/"><u>[New] In 2024, Sharing Tunes Instagram Copyright Edicts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-your-first-step-to-a-profitable-youtube-experience/"><u>[Updated] 2024 Approved Your First Step to a Profitable Youtube Experience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-maximize-youtube-potential-leading-rank-tracker-software-for-2024/"><u>[Updated] Maximize YouTube Potential Leading Rank Tracker Software for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-ultimate-7-dslr-picks-to-upgrade-your-vlog-production/"><u>2024 Approved Ultimate 7 DSLR Picks to Upgrade Your Vlog Production</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-troubleshooting-steps-to-overcome-fortnite-loading-issues/"><u>Easy Troubleshooting Steps To Overcome Fortnite Loading Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/error-free-gaming-experience-correcting-call-of-duty-warzones-disc-read-mistakes-with-50-31/"><u>Error-Free Gaming Experience - Correcting Call of Duty Warzone's Disc Read Mistakes with [5.0, 3.1]</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/gamers-lucky-day-top-discounted-powerhouse-laptops-of-2024-revealed/"><u>Gamers' Lucky Day: Top Discounted Powerhouse Laptops of 2024 Revealed</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 80 Pro Straight Screen Edition to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-prime-explorations-in-top-livestream-websites/"><u>In 2024, Prime Explorations in Top Livestream Websites</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/mastering-dvd-duplication-with-leawo-prof-media-a-complete-tutorial-on-copying-embedding-and-compressed-extracts/"><u>Mastering DVD Duplication with Leawo Prof. Media: A Complete Tutorial on Copying, Embedding & Compressed Extracts</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/pixma-mp620-drivers-lost-on-win11-systems/"><u>Pixma MP620 Drivers Lost on Win11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-pc-issues-for-a-seamless-destiny-2-playthrough/"><u>Resolved PC Issues for a Seamless Destiny 2 Playthrough</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-high-latency-issues-ultimate-guide-to-improve-your-ping-in-back-4-blood/"><u>Resolving High Latency Issues: Ultimate Guide to Improve Your Ping in Back 4 Blood</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-definitive-guide-to-appending-srt-track-in-videos/"><u>[New] 2024 Approved The Definitive Guide to Appending SRT Track in Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-text-overlays-for-engaging-visual-posts/"><u>[New] Leveraging Text Overlays for Engaging Visual Posts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/groundbreaking-photo-editor-photonshift-tech/"><u>Groundbreaking Photo Editor PhotonShift Tech</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005960968-hensbergen-j-et-al-2016a-risk-assessment-for-glyphosate-in-groundwater-pest-manag-sci-7210-2135-45/"><u>Hensbergen, J., Et Al (2016a). Risk Assessment for Glyphosate in Groundwater. Pest Manag Sci, 72(10), 2135-45.</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-c50-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Poco C50 Phone without PIN</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-remedies-when-you-cant-open-palworld-guide-and-tips/"><u>Quick Remedies When You Can't Open Palworld – Guide & Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-pc-issues-stop-minecraft-dungeon-from-crashing-now/"><u>Resolving PC Issues: Stop Minecraft Dungeon From Crashing Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-slowdowns-and-stutters-in-your-naraka-battle-experience/"><u>Troubleshooting Slowdowns and Stutters in Your Naraka Battle Experience</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-rated-free-mpeg-video-concatenators/"><u>Updated In 2024, Top-Rated Free MPEG Video Concatenators</u></a></li>
 </ul></div>
 

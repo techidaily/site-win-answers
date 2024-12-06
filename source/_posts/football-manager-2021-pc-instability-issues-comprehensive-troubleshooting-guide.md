@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021 PC Instability Issues: Comprehensive Troubleshooting Guide"
-date: 2024-11-24T19:24:57.710Z
-updated: 2024-11-26T17:46:35.890Z
+date: 2024-12-02T17:51:52.477Z
+updated: 2024-12-06T16:27:05.194Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -60,7 +56,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
@@ -71,19 +67,23 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
@@ -100,7 +100,7 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 If this method doesn’t help, go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
@@ -117,10 +117,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -131,6 +127,10 @@ So does the crash go away now? If not, there is the last fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
@@ -164,21 +164,22 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unleash-speed-prime-biking-games-list/"><u>[New] Unleash Speed Prime Biking Games List</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-11-best-color-correction-and-color-grading-tutorial/"><u>[Updated] 11 Best Color Correction and Color Grading Tutorial</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-premier-iphone-gif-application-compendium-for-2024/"><u>[Updated] The Premier iPhone GIF Application Compendium for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-exhaustive-overview-insights-into-googles-podcast-application/"><u>2024 Approved Exhaustive Overview Insights Into Google's Podcast Application</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-itel-a70-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Itel A70 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/easy-solutions-to-get-your-madden-22-running-smoothly-again/"><u>Easy Solutions to Get Your Madden 22 Running Smoothly Again</u></a></li>
-<li><a href="https://win-unique.techidaily.com/easy-techniques-to-enter-safe-mode-on-windows-10-and-perform-a-system-restore/"><u>Easy Techniques to Enter Safe Mode on Windows 10 and Perform a System Restore</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminate-lag-and-crashes-in-fifa-20-for-pc-a-detailed-guide-to-ensuring-smooth-gameplay/"><u>Eliminate Lag & Crashes in FIFA 20 for PC: A Detailed Guide to Ensuring Smooth Gameplay</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-converting-vids-on-pinterest-into-audible-format/"><u>Mastering the Art of Converting Vids on Pinterest Into Audible Format</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721466674331-one-airpod-loud-and-proud-the-other-quiet-unravel-this-mystery-and-learn-the-four-solutions/"><u>One AirPod Loud and Proud, The Other Quiet – Unravel This Mystery & Learn the Four Solutions</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/perfecting-slide-deck-sharing-how-to-use-your-webcam/"><u>Perfecting Slide Deck Sharing How to Use Your Webcam</u></a></li>
-<li><a href="https://win-answers.techidaily.com/smooth-gaming-strategies-eliminating-stutter-and-lag-in-call-of-duteball-vanguard/"><u>Smooth Gaming Strategies: Eliminating Stutter and Lag in Call of Duteball: Vanguard</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-common-problems-with-the-battlenet-launcher-for-windows-users/"><u>Solving Common Problems with the Battle.net Launcher for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-instructions-updatingdownloading-logitech-g4ncee-403-drivers/"><u>Step-by-Step Instructions: Updating/Downloading Logitech G4ncee 403 Drivers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-like-a-pro-end-fifa-21-gameplay-interruptions-and-pc-crashes/"><u>Troubleshoot Like a Pro: End FIFA 21 Gameplay Interruptions & PC Crashes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-pc-crashes-due-to-grounding-expert-tips-and-tricks/"><u>Troubleshoot Your PC Crashes Due to Grounding - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-virtual-reality-showdown-ranking-the-top-10-pc-streamers-for-360-videos/"><u>[New] 2024 Approved Virtual Reality Showdown Ranking the Top 10 PC Streamers for 360 Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-balance-quality-and-quickness-with-netflix-speed-modification-tips/"><u>[New] Balance Quality & Quickness with Netflix Speed Modification Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-integrating-ai-assistants-into-slides-with-s2t/"><u>[New] Integrating AI Assistants Into Slides with S2T</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>[Updated] Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
+<li><a href="https://win-answers.techidaily.com/usb/"><u>「車内でUSBから音楽が流せませんか？」 - 車用音楽プレイヤーのセットアップガイド</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726027775220-mp4/"><u>【ダウンロードせずに使える】オンラインMP4動画編集ツール一覧</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-speeding-up-video-conversion-harnessing-the-power-of-gpus/"><u>1. Speeding Up Video Conversion: Harnessing the Power of GPUs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1-step-by-step-guide-transforming-audio-and-video-interchange-file-format-avi/"><u>1. Step-by-Step Guide: Transforming Audio and Video Interchange File Format (AVI)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/wavmp3mp4/"><u>音楽を分離してWAVやMP3に変換する：MP4から始める手順</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028036275-web/"><u>専用ソフトで簡単にWeb動画をダウンロード・保存 - 最高の無料サイト一覧表示</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/mac-gaming-enhanced-counter-strike-2-basics/"><u>Mac Gaming Enhanced: Counter-Strike 2 Basics</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211424318-9781964744254-the-covenant-between-the-king-of-devils-and-death-and-victory-over-death/"><u>The Covenant Between the King of Devils and Death and Victory Over Death | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-a-symphony-in-one-merging-audio-files-for-a-unified-videography-narrative/"><u>Updated In 2024, A Symphony in One Merging Audio Files for a Unified Videography Narrative</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028074709-wav/"><u>WAV形式音声ファイルを簡単に作成する方法：ウィンドウズマニュアル</u></a></li>
+<li><a href="https://win-answers.techidaily.com/windows-1111/"><u>スチームゲームをWindows 11/11で記録・動画撮影する詳細ガイド</u></a></li>
 </ul></div>
 

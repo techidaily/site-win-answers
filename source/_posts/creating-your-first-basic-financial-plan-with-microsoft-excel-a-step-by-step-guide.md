@@ -1,7 +1,7 @@
 ---
 title: "Creating Your First Basic Financial Plan with Microsoft Excel: A Step-by-Step Guide"
-date: 2024-08-27T23:57:21.857Z
-updated: 2024-08-28T23:57:21.857Z
+date: 2024-12-03T18:07:50.663Z
+updated: 2024-12-06T16:30:17.020Z
 tags:
   - excel
 categories:
@@ -33,6 +33,10 @@ Related: [How To Create Custom Templates in Excel](https://iphone-unlock.techida
 
 ![Excel budget templates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/ExcelTemplatesSelect-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose the template you want to use to see more details and click "Create" to open the template.
 
 ![Create a budget with the template](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/MoreTemplatesCreate-ExcelCreateBudget.png) 
@@ -41,10 +45,6 @@ Related: [How To Create Custom Templates in Excel](https://iphone-unlock.techida
 
 ![Office budget templates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/OfficeTemplates-ExcelCreateBudget.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ##  Use a Third-Party Budget Template
 
  If you've browsed Microsoft's budget templates and don't see one you like, you can choose a third-party template. Sites like [Vertext42](https://www.vertex42.com/) and [Spreadsheet123](https://www.spreadsheet123.com/) offer nice collections of budget templates.
@@ -70,22 +70,21 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 ![Title and labels for a budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Titles-ExcelCreateBudget.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have more than one source of income such as more than one earner, multiple jobs, or dividends from investments, you can list those separately in your income section.
 
 ![Income in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Income-ExcelCreateBudget.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, list all of your expenses. Be sure to include all bills, loans, and miscellaneous expenses.
 
 ![Expenses in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Expenses-ExcelCreateBudget.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  Next, head back to the top and enter the months across the second row, starting in the second column. If you prefer a weekly budget, you can enter the week numbers or for a daily budget, enter the days of the week.
 
 ![Months in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Months-ExcelCreateBudget.png) 
@@ -98,18 +97,23 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![Format as currency in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormatCurrency-ExcelCreateBudget.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Because you want a clear picture of money coming in and going out, you should add totals to your income and expense sections. This will also let you easily see how much money you have remaining at the end of the month.
 
  Go to the first cell below all income for the first month. Select the Sum button in the Editing section of the Home tab and pick "Sum" from the list. Confirm the cell range and press Enter or Return. Then, do the same for your expenses.
 
 ![Income in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/Income-ExcelCreateBudget.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can then copy both total formulas across the rows for the remaining months. Select the cell with the formula, use the fill handle to drag to the remaining columns, and release. Although some months display $0, you'll have the formulas ready to go when you add the amounts later.
 
 ![Use Fill for the SUM formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FillSum-ExcelCreateBudget.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, you can include a money remaining section at the bottom as mentioned above. You can do this easily by subtracting the cell containing your total expenses from the one containing your total income.
 
@@ -120,15 +124,17 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 ![Subtraction formula for remaining money](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormulaRemaining-ExcelCreateBudget.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Press Enter or Return and you'll see your remaining money at the end of the month. Remember, you can use the fill feature to copy the formula to the rest of the months. Optionally, you can label this amount in the first column as well as the income and expense totals if you like.
 
 ![Labels for totals and remaining money](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/TotalRemainingLabels-ExcelCreateBudget.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you have this basic budget built, you can use Excel's formatting features to spruce up the sheet if you like. Here, we simply increased the font size for the title and added font colors and bold for income expenses, totals, and months. Visit the Font section of the Home tab for options like these.
 
 ![Font formatted in the budget](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/FormattedFont-ExcelCreateBudget.png) 
@@ -151,8 +157,6 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +164,24 @@ Related: [7 Essential Microsoft Excel Functions for Budgeting](https://easy-unlo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-simplifying-macs-screen-recording-a-shortcut-hack-manual/"><u>[New] 2024 Approved Simplifying Mac's Screen Recording A Shortcut Hack Manual</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-subtracting-text-srt-to-sub-transformation-tips/"><u>[New] Subtracting Text SRT to SUB Transformation Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-how-to-fix-mordhau-crashing-issue/"><u>[Solved] How to Fix Mordhau Crashing Issue?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-microsoft-flight-simulator-2020-keeps-crashing-on-pc/"><u>[Solved] Microsoft Flight Simulator 2020 Keeps Crashing on PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-2023s-facebook-video-grabber-windowsmacosandroid/"><u>[Updated] In 2024, 2023'S Facebook Video Grabber Windows/macOS/Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screenmasters-unite/"><u>[Updated] ScreenMasters Unite</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-supreme-display-quality-top-10-ranking-of-4k-screens-for-2024/"><u>[Updated] Supreme Display Quality #Top 10 Ranking of 4K Screens for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-power-of-the-participant-grids-in-google-meet-for-2024/"><u>[Updated] Unveiling the Power of the Participant Grids in Google Meet for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dealing-with-a-blank-screen-resolve-your-xbox-one-no-signal-problem-today/"><u>Dealing with a Blank Screen? Resolve Your Xbox One 'No Signal' Problem Today!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-challenges-with-starting-discord-correctly/"><u>Expert Tips: Overcoming Challenges with Starting Discord Correctly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-pitch-black-expert-solutions-for-your-2024-minecraft-display-problem/"><u>Fixing the Pitch Black: Expert Solutions for Your 2024 Minecraft Display Problem</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-world-of-warcraft-crashing-glitches-with-simple-troubleshooting-techniques/"><u>How to Fix World of Warcraft Crashing Glitches with Simple Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-troubleshooting-causes-of-after-effects-crashing-on-windows-11-and-10/"><u>Resolved: Troubleshooting Causes of After Effects Crashing on Windows 11 and 10</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-huawei-p60-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Huawei P60 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998454977-smooth-sailing-for-pathfinder-enthusiasts-as-game-fixes-major-freezing-glitch-on-pc/"><u>Smooth Sailing for Pathfinder Enthusiasts as Game Fixes Major Freezing Glitch on PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ultimatereclamationtool-fix-vids-on-the-go/"><u>UltimateReclamationTool: Fix Vids on the Go</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005790791-win-the-fight-against-battlefield-5-starting-difficulties-with-this-2024-hack/"><u>Win the Fight Against Battlefield 5 Starting Difficulties with This 2024 Hack</u></a></li>
+</ul></div>
 

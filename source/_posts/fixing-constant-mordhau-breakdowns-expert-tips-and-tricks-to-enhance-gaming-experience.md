@@ -1,7 +1,7 @@
 ---
 title: "Fixing Constant Mordhau Breakdowns: Expert Tips and Tricks to Enhance Gaming Experience"
-date: 2024-11-22T21:13:35.746Z
-updated: 2024-11-26T21:07:37.862Z
+date: 2024-12-02T18:47:11.729Z
+updated: 2024-12-06T16:15:36.455Z
 tags:
   - win11
   - win10
@@ -45,7 +45,7 @@ Here is how to reset Winsock data:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -54,19 +54,11 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -100,9 +92,17 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -123,12 +123,16 @@ Here is how to restart your network:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -151,7 +155,7 @@ _wireless router_
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -159,10 +163,6 @@ _wireless router_
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### To renew your IP
 
@@ -178,25 +178,21 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -228,6 +224,10 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7) Restart your computer for the changes to take effect.
 
 8) Launch Fallout 76 to see if it connects to game server properly.
@@ -237,7 +237,7 @@ Here is how to switch the DNS server to Google Public DNS:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
@@ -267,22 +267,18 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nhancing-your-youtube-reach-with-famebit-ad-sponsorships/"><u>[New] Enhancing Your YouTube Reach with FameBit Ad Sponsorships</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-top-15-funny-youtube-channels-to-watch-when-youre-bored/"><u>[Updated] 2024 Approved Top 15 Funny YouTube Channels to Watch When You're Bored</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-motorola-moto-e13-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Motorola Moto E13 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/bring-life-into-your-photos-with-these-top-11-tutorials-for-2024/"><u>Bring Life Into Your Photos with These Top 11 Tutorials for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/directdraw-malfunction-effective-strategies-and-fixes-to-try-out/"><u>DirectDraw Malfunction: Effective Strategies and Fixes to Try Out</u></a></li>
-<li><a href="https://win-answers.techidaily.com/eliminating-latency-in-splitgate-a-step-by-step-guide-to-improve-frame-rate-and-reduce-stutters/"><u>Eliminating Latency in Splitgate: A Step-by-Step Guide to Improve Frame Rate and Reduce Stutters</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixes-and-tips-resolving-constant-crashes-in-valheim-pc-edition/"><u>Fixes and Tips: Resolving Constant Crashes in Valheim PC Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-spatial-audio-issues-in-windows-11-and-10-a-comprehensive-guide/"><u>Fixing Spatial Audio Issues in Windows 11 & 10: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-htc-u23-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from HTC U23 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus without Passcode or Face ID</u></a></li>
-<li><a href="https://driver-download.techidaily.com/improve-your-recordings-with-up-to-date-focusrite-scarlett-2i4-windows-drivers-free-download/"><u>Improve Your Recordings with Up-to-Date Focusrite Scarlett 2I4 Windows Drivers – Free Download!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-removing-device-from-apple-id-for-your-iphone-13-by-drfone-ios/"><u>In 2024, Removing Device From Apple ID For your iPhone 13</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-how-to-prevent-halo-infinite-gameplay-disruptions-on-windows/"><u>Resolved! How to Prevent Halo Infinite Gameplay Disruptions on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/simple-solutions-to-resolve-your-csgo-game-lagging-problems/"><u>Simple Solutions to Resolve Your CS:GO Game Lagging Problems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-robocop-rogue-city-glitches-a-guide-to-stable-play-on-your-computer/"><u>Solving RoboCop: Rogue City Glitches – A Guide to Stable Play on Your Computer</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-garmin-forerunner-745-a-complete-look-at-this-elite-fitness-gadget/"><u>The Ultimate Guide to the Garmin Forerunner 745: A Complete Look at This Elite Fitness Gadget</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-repairing-game-crashes-for-forza-horizon-4-on-pc/"><u>Troubleshooting and Repairing Game Crashes for Forza Horizon 4 on PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-elevating-movie-experience-adding-subtitles-to-windows-media-player/"><u>[New] 2024 Approved Elevating Movie Experience Adding Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-audio-alchemy-instagram-video-to-mp3-a-compreayers-guide/"><u>[New] Audio Alchemy Instagram Video to Mp3 - A Compreayer's Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-capturing-clarity-best-practices-for-iphone-photo-cropping/"><u>[Updated] Capturing Clarity Best Practices for iPhone Photo Cropping</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-exploring-the-extensive-features-of-logitechs-4k-cam/"><u>[Updated] Exploring the Extensive Features of Logitech's 4K Cam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/20247/"><u>2024年の最新オーディオビジュアルエンコード方法トップ7セレクション</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2eighty-four/"><u>人気動画プレイヤー『2eighty-Four』 - 快適な軽量再生ソフトウェア</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/building-an-ai-conversationalist-from-scratch-with-your-organizations-data/"><u>Building an AI Conversationalist From Scratch with Your Organization's Data</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029611318-google-chrome/"><u>Google Chrome録画技術：最新スクリーンキャストソフト使用方法</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-vivo-v27-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Vivo V27 Without PUK Codes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-format-transformation-how-to-seamlessly-change-your-videos-and-audios-into-any-desired-type/"><u>Mastering Format Transformation: How to Seamlessly Change Your Videos and Audios Into Any Desired Type</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-for-microsoft-directx-and-directinput-dll-file-errors/"><u>Step-by-Step Solution for Microsoft DirectX and DirectInput .dll File Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028753315-tiktok/"><u>TikTokの音楽編曲テクニック：シェアしてください！</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/unveiling-top-9-webcam-filters-for-professional-streamers/"><u>Unveiling Top 9 Webcam Filters for Professional Streamers</u></a></li>
 </ul></div>
 

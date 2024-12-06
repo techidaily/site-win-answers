@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Stuttering Issues in Age of Empires IV
-date: 2024-11-22T23:25:53.340Z
-updated: 2024-11-27T00:30:57.263Z
+date: 2024-12-05T17:41:38.754Z
+updated: 2024-12-06T19:01:52.642Z
 tags:
   - win11
   - win10
@@ -50,9 +50,17 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
@@ -77,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -88,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Flush your DNS
 
  Flushing your DNS is another fix that may help you resolve this issue. If you don’t know how to do it, you can follow the steps below:
@@ -100,19 +104,11 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
 
@@ -126,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click**Sign in through Steam** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
@@ -142,7 +134,7 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Repair Apex Legends in Origin
@@ -160,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
 
@@ -182,19 +178,23 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
@@ -228,24 +228,18 @@ thumbnail: https://thmb.techidaily.com/6cebc56dc292975b98a5a871193af627ed43dff47
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/fixed-6-fixes-for-modern-warfare-2-crashing-on-pc/"><u>[Fixed] 6 Fixes for Modern Warfare 2 Crashing on PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-androidios-users-guide-to-facebook-live-broadcasting/"><u>[New] Android/iOS Users' Guide to Facebook Live Broadcasting</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-join-in-fun-this-weeks-top-10-challenges/"><u>[Updated] In 2024, Join in Fun This Week's Top 10 Challenges</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-honor-play-7t-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Honor Play 7T to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquer-discord-delays-with-this-step-by-step-solution/"><u>Conquer Discord Delays with This Step-by-Step Solution !</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-visual-magic-the-power-of-luts-in-ar-environments/"><u>Crafting Visual Magic The Power of LUTs in AR Environments</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/efficient-dvd-ripping-with-macx-imkvmaker-convert-protected-dvds-into-secure-mkv-files/"><u>Efficient DVD Ripping with MacX iMKVmaker: Convert Protected DVDs Into Secure MKV Files</u></a></li>
-<li><a href="https://win-web3.techidaily.com/enregistrer-sur-un-disque-ssd-a-laide-dun-hdd-sous-windows-111087-guide-detaille/"><u>Enregistrer Sur Un Disque SSD À L'aide D'un HDD Sous Windows 11/10/8/7 : Guide Détaillé</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-elden-rings-black-screen-issue-at-launch-a-comprehensive-guide/"><u>Fixing Elden Ring's Black Screen Issue at Launch: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-error-3-0x0001000b-effective-strategies-for-rainbow-six-siege-gamers/"><u>Fixing Error 3-0X0001000B: Effective Strategies for Rainbow Six Siege Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-lag-challenges-while-playing-naraka-bladepoint/"><u>Overcoming Lag Challenges While Playing Naraka Bladepoint</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/playstation-portable-info-guide-release-schedule-price-points-hardware-specs-and-buying-options/"><u>PlayStation Portable Info Guide: Release Schedule, Price Points, Hardware Specs & Buying Options</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/proven-ways-for-a-boom-in-youtube-viewership-top-12-methods-for-2024/"><u>Proven Ways for a Boom in YouTube Viewership (Top 12 Methods) for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-overcome-constant-nox-player-collapses-during-gaming-sessions/"><u>Resolved: Overcome Constant Nox Player Collapses During Gaming Sessions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-sony-vegas-stability-issues-no-more-unwanted-shutdowns/"><u>Solving Sony Vegas Stability Issues - No More Unwanted Shutdowns!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-truth-about-the-asus-rt-ac88u-a-comprehensive-product-review-for-gamers/"><u>The Truth About the Asus RT-AC88U - A Comprehensive Product Review for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-apex-legends-network-issues-effective-solutions-revealed/"><u>Troubleshoot Your Apex Legends Network Issues - Effective Solutions Revealed!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-warcraft-e3-reforged-pc-issues-ultimate-fixes/"><u>Troubleshooting Warcraft E3 Reforged PC Issues – Ultimate Fixes !</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlocking-access-steps-to-get-age-of-empires-iv-up-and-running/"><u>Unlocking Access: Steps to Get Age of Empires IV Up and Running</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-key-lights-and-soft-shadows-for-vloggers/"><u>[Updated] 2024 Approved Key Lights and Soft Shadows for Vloggers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enhancing-video-discoverability-with-smart-thumbnails-for-2024/"><u>[Updated] Enhancing Video Discoverability with Smart Thumbnails for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-composers-craft-crossfade-in-logic-pro-x/"><u>[Updated] In 2024, The Composer's Craft - Crossfade in Logic Pro X</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002054972-expert-advice-on-speeding-up-your-steam-gameplay-experience/"><u>Expert Advice on Speeding Up Your Steam Gameplay Experience!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-far-cry-6-pc-stability-issues-a-step-by-step-guide/"><u>How to Fix Far Cry 6 PC Stability Issues – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-fortnite-crashes-on-pc-troubleshooting-guide-for-players/"><u>How To Stop Fortnite Crashes on PC - Troubleshooting Guide for Players</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-gpeditmsc-missing-on-windows-home-systems/"><u>Resolving 'gpedit.msc' Missing on Windows Home Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/step-by-step-guide-pcmobile-save-meetings/"><u>Step-by-Step Guide PC/Mobile Save Meetings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-necessary-tech-stack-components-with-their-roles-in-the-ecosystem-of-this-educational-environment-using-metaphors-related-to-a-natural-setting/"><u>The Necessary Tech Stack Components with Their Roles in the Ecosystem of This Educational Environment, Using Metaphors Related to a Natural Setting?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-to-troubleshooting-ac6-rubicon-pc-crashes/"><u>Ultimate Guide to Troubleshooting AC6: Rubicon PC Crashes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-guide-to-extracting-and-refining-your-audacity-recordings-as-mp3s/"><u>Updated Guide to Extracting and Refining Your Audacity Recordings as MP3s</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-tips-of-playing-m4a-audio-files-on-android-devices/"><u>Updated In 2024, Tips of Playing M4A Audio Files on Android Devices</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/vimeo-vs-youtube-the-differentiators-analysis-for-2024/"><u>Vimeo V/S YouTube The Differentiator's Analysis for 2024</u></a></li>
 </ul></div>
 

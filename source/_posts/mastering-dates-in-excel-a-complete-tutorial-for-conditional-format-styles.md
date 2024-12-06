@@ -1,7 +1,7 @@
 ---
 title: "Mastering Dates in Excel: A Complete Tutorial for Conditional Format Styles"
-date: 2024-08-27T23:56:19.332Z
-updated: 2024-08-28T23:56:19.332Z
+date: 2024-11-30T16:56:42.127Z
+updated: 2024-12-06T16:13:47.749Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 
  Whether you want to format past due dates for household bills or upcoming dates for a project plan, conditional formatting has you covered with both simple and custom options. Just set up the rule and watch your dates pop off of the sheet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Apply a Quick Conditional Formatting Date Rule
 
  If you want to create a quick and easy [conditional formatting rule](https://instagram-clips.techidaily.com/how-to-share-igtv-videos-to-facebook-3-ways-for-2024/), this is a convenient way to go. Open the sheet, select the cells you want to format, and head to the Home tab.
@@ -35,17 +39,26 @@ Related: [How to Use Conditional Formatting to Find Duplicate Data in Excel](htt
 
 ![Select the timing for the date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DateOccurringWhen-ExcelConditionalFormattingDates.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the drop-down list on the right, pick the formatting you'd like to use. You can select from formats like a light red fill, yellow fill with dark yellow text, and a red border.
 
 ![Select the format for the date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/DateOccurringFormat-ExcelConditionalFormattingDates.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you finish, click "OK" to apply the conditional formatting rule to the selected cells.
 
 ![Apply the conditional formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/QuickRule-ExcelConditionalFormattingDates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create a Custom Conditional Formatting Date Rule
 
  Maybe you're not fond of the formatting choices available when creating the quick rule above. You can set up custom formatting instead. This allows you to [format the cells](https://hardware-updates.techidaily.com/1722966983711-ultimate-solution-to-get-your-epson-et-4550-up-and-running-on-windows-with-proven-techniques/) most any way you like, including using more than one format for the cells like a specific font, border, and fill color.
@@ -65,16 +78,13 @@ Related: [How to Highlight Top- or Bottom-Ranked Values in Microsoft Excel](http
 ![Choose Font, Border, and Fill for the custom format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/CustomFormatFill-ExcelConditionalFormattingDates.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll see the custom format applied to the cells. Click "OK" in the small window to save the change.
 
 ![Apply a custom format rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/CustomFormatFillFont-ExcelConditionalFormattingDates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ###  Custom Format Method Two
 
  The second way to [create a custom conditional formatting rule](https://youtube-help.techidaily.com/manipulate-sound-rate-in-youtube-playback-for-2024/) is to use the New Formatting Rule feature.
@@ -87,13 +97,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Select Format Only Cells That Contain](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/NewRuleCellsContain-ExcelConditionalFormattingDates.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the bottom of the window, select "Dates Occurring" in the drop-down box on the left and choose the [timeframe for the date](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) to the right. Then, click "Format."
 
 ![Choose the timing for the date and click Format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/NewRuleCellsContainFormat-ExcelConditionalFormattingDates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You'll see the same Format Cells box as above where you can use the Font, Border, and Fill tabs to create the custom format. When you finish, click "OK."
 
 ![Choose Font, Border, and Fill for the custom format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/CustomFormatBorder-ExcelConditionalFormattingDates.png) 
@@ -102,27 +113,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Review the new custom format rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/NewRulePreview-ExcelConditionalFormattingDates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  You'll then see your cells updated with your custom format.
 
 ![Apply the new custom format rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/NewRuleApplied-ExcelConditionalFormattingDates.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Notes on Conditional Formatting Based on Date in Excel
 
  With a conditional formatting rule in place, it applies to any edits you make to the dates in the cells. For example, say you formatted dates for next week. If you change any of the dates to yesterday, the formatting automatically disappears.
 
 ![Formatting changes when dates are edited](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/EditDates-ExcelConditionalFormattingDates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  You can set up more than one rule for the same cells. Maybe you want to see all dates this month with a red font and all those next month with a green font. You would simply follow the same steps to create each rule and adjust the formatting accordingly.
 
 ![Create more than one rule for the same set of cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ThisNextMonth-ExcelConditionalFormattingDates.png) 
@@ -135,8 +141,6 @@ Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-locati
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +148,24 @@ Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-locati
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-retrospective-facebook-viewing-techniques-for-laptops-and-phones-for-2024/"><u>[Updated] Retrospective Facebook Viewing Techniques for Laptops and Phones for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-visual-vanguard-cutting-edge-cinematographic-insights-year-of-24/"><u>2024 Approved Visual Vanguard Cutting-Edge Cinematographic Insights - Year of '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/abbyy-flexicapture-cloud-terms-and-conditions-us-based-api-services/"><u>ABBYY FlexiCapture Cloud Terms and Conditions - US-Based API Services</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-to-mastering-social-media-links-facebook-linkedin-and-youtube-navigation/"><u>Complete Guide to Mastering Social Media Links: Facebook, LinkedIn & YouTube Navigation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/easily-edit-avi-files-on-your-windows-8-pc-a-beginners-guide-for-2024/"><u>Easily Edit AVI Files on Your Windows 8 PC A Beginners Guide for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-site-navigation-enhance-user-experience-with-easy-access-to-top-and-social-media-platforms/"><u>Effortless Site Navigation: Enhance User Experience with Easy Access to Top and Social Media Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminating-game-crashes-in-rainbow-six-extraction-on-your-computer-with-simple-fixes/"><u>Eliminating Game Crashes in Rainbow Six Extraction on Your Computer with Simple Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/finding-files-by-content-on-windows-10-a-step-by-step-guide-using-copernic/"><u>Finding Files by Content on Windows 10: A Step-by-Step Guide Using Copernic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/finding-files-on-windows-11-mastering-content-search-using-copernic/"><u>Finding Files on Windows 11: Mastering Content Search Using Copernic</u></a></li>
+<li><a href="https://win-answers.techidaily.com/helldivers-2-launch-problems-on-steam-heres-how-you-can-resolve-them/"><u>Helldivers 2 Launch Problems on Steam? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-copernic-makes-remote-working-simpler-a-look-at-five-key-benefits/"><u>How Copernic Makes Remote Working Simpler: A Look at Five Key Benefits</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-improving-zoom-video-fidelity-easy-steps/"><u>In 2024, Improving Zoom Video Fidelity Easy Steps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/initial-recording-analysis-a-critique-for-2024/"><u>Initial Recording Analysis A Critique for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-email-retrieval-leveraging-copernic-desktop-search-for-microsoft-outlook-efficiency/"><u>Mastering Email Retrieval: Leveraging Copernic Desktop Search for Microsoft Outlook Efficiency</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-a58-4g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on A58 4G</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2209725-9780007383689-the-mystery-of-the-crystal-skulls/"><u>The Mystery of the Crystal Skulls | Free Book</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-13-must-have-gratis-audio-recording-programs-for-windowsmac-users-the-current-selection-for-2024/"><u>Updated 13 Must-Have Gratis Audio Recording Programs for Windows/Mac Users - The Current Selection for 2024</u></a></li>
+</ul></div>
 

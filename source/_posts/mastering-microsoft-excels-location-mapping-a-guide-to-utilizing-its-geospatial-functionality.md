@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel's Location Mapping: A Guide to Utilizing Its Geospatial Functionality"
-date: 2024-08-27T23:57:42.033Z
-updated: 2024-08-28T23:57:42.033Z
+date: 2024-12-03T16:29:48.285Z
+updated: 2024-12-06T18:40:44.694Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  With the Geography data type, you can retrieve details like population, time zone, area leaders, gasoline prices, language, and much more. The information comes from an online source that you can refresh, as needed. So, if you need this type of data for your spreadsheet, as long as you’re connected to the internet, you can drop it in!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Add Geography Data to Your Sheet
 
  To check out the Geography data type in Microsoft Excel, simply select and add what you need. Then, if you want to expand it, you can create a table or [use formulas](https://win-solutions.techidaily.com/solving-the-d3d-initialization-error-fixing-errgfxd3dinit-on-gta-v/).
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
  Select a cell in your spreadsheet and type a location. This can be a city, state, region, territory, or country. With the cell selected, click "Data," and then click "Geography" in the "Data Types" section of the ribbon.
 
 ![Click Geography in the Data Types section of the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/ClickGeographyDataType-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Within a few seconds, you might see a question mark appear next to the location name in the cell and the "Data Selector" sidebar will open. This occurs if a location cannot be found, or if more than one location with the same name is available.
 
@@ -53,35 +61,27 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 ![Formula Bar with Data Type for cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/CellDataDetail-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  View the Data Type
 
  Along with the data in the list, you can view what’s called a Data Type Card for your location. This gives you a snapshot of the data with the labels. To see it, just right-click the cell containing your location, and then select "Show Data Type Card."
 
 ![Select Show Data Type Card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/ShowDataTypeCard-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’ll then see an easy-to-read card containing all the details. You can drag the bottom-right corner to enlarge it.
 
 ![Data Type Card for Canada](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/DataTypeCard-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  To add a piece of data from the Data Type Card to your spreadsheet, hover your cursor over it, and then click the Extract to Grid icon that appears.
 
 ![Click Extract to Grid](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/DataTypeCardAddToGrid-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Refresh the Geography Data
 
  Since the Geography data comes from an online source, it's updated regularly. This means you’ll want to update your spreadsheet so it contains the most current data.
@@ -91,8 +91,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 ![Refresh the Data for Geography](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/RefreshDataType-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don’t See the Geography Feature?
 
  If you don’t see the Geography Data Type in Microsoft Excel, please make sure your device meets the following requirements:
@@ -111,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +119,26 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-steps-to-prevent-youtube-channels-mobile-and-desktop-methods/"><u>[New] 2024 Approved Steps to Prevent Youtube Channels Mobile and Desktop Methods</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/econstructing-the-legal-framework-of-youtube-and-cc-licenses-for-2024/"><u>[New] Deconstructing the Legal Framework of Youtube & CC Licenses for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-integrating-twitter-promotions-into-your-digital-strategy/"><u>[New] In 2024, Integrating Twitter Promotions Into Your Digital Strategy</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-10-plugins-to-enhance-fcp/"><u>[New] Ultimate 10 Plugins to Enhance FCP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mov-saving-on-the-go-top-six-tips-to-improve-your-workflow-in-windows-11-for-2024/"><u>[Updated] .MOV Saving on the Go - Top Six Tips to Improve Your Workflow in Windows 11 for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mapping-media-memorable-ends/"><u>2024 Approved Mapping Media Memorable Ends</u></a></li>
+<li><a href="https://win-answers.techidaily.com/alan-wake-sequel-stuck-fixing-release-issues/"><u>Alan Wake Sequel Stuck: Fixing Release Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-the-issue-compatibility-and-fixes-for-pc-gamers-struggling-with-robocop-rogue-city/"><u>Diagnosing the Issue: Compatibility and Fixes for PC Gamers Struggling with RoboCop: Rogue City</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficiently-harvest-content-a-guide-to-image-text-and-file-extraction-in-microsoft-suite/"><u>Efficiently Harvest Content: A Guide to Image, Text, and File Extraction in Microsoft Suite</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-nier-replicant-re-master-failure-to-launch-problems/"><u>How to Overcome the NieR Replicant Re-Master Failure to Launch Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/improving-visual-clarity-tips-to-reduce-blurriness-in-outriders-gaming-experience/"><u>Improving Visual Clarity: Tips to Reduce Blurriness in Outriders Gaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/inside-the-troubled-world-of-halo-infinite-diagnosing-and-fixing-black-screens/"><u>Inside the Troubled World of Halo Infinite: Diagnosing & Fixing Black Screens</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-windows-spotlight-failures-a-comprehensive-guide-for-windows-11-users/"><u>Overcoming Windows Spotlight Failures: A Comprehensive Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/persona-nigma-ultimate-guide-to-solving-the-black-screen-glitch-in-persona-5-strikers/"><u>Persona Nigma: Ultimate Guide to Solving the Black Screen Glitch in Persona 5 Strikers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/reducing-recording-ambiance-free-methods-and-pros-for-2024/"><u>Reducing Recording Ambiance Free Methods and Pros for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-best-and-affordable-apples-latest-8th-gen-ipad-102/"><u>The Ultimate Guide to the Best and Affordable: Apple's Latest 8Th Gen iPad 10.2</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-the-dark-screen-glitch-for-a-smooth-fortnite-experience-on-pc/"><u>Troubleshooting the Dark Screen Glitch for a Smooth Fortnite Experience on PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-tackling-msedgeexe-application-issues-in-windows-1011/"><u>Ultimate Guide: Tackling msedge.exe Application Issues in Windows 10/11</u></a></li>
+</ul></div>
 

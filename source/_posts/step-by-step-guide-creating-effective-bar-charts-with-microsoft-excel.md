@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating Effective Bar Charts with Microsoft Excel"
-date: 2024-08-27T23:57:55.233Z
-updated: 2024-08-28T23:57:55.233Z
+date: 2024-12-03T17:47:29.200Z
+updated: 2024-12-06T16:20:45.745Z
 tags:
   - excel
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 * [Formatting Bar Charts in Microsoft Excel](https://common-error.techidaily.com/solving-your-airpods-connection-issues-on-pc-a-2024-guide/)
 
  A bar chart (or a bar graph) is one of the easiest ways to present your data in Excel, where horizontal bars are used to compare data values. Here's how to make and format bar charts in Microsoft Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Inserting Bar Charts in Microsoft Excel
 
@@ -36,17 +40,26 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 
 ![Press Insert &gt; Insert Column or Bar Chart &gt; Clustered Chart to insert a standard bar chart into Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Insert-Bar-Chart-Options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Excel will automatically take the data from your data set to create the chart on the same worksheet, using your column labels to set axis and chart titles. You can move or resize the chart to another position on the same worksheet, or cut or copy the chart to another worksheet or workbook file.
 
  For our example, the sales data has been converted into a bar chart showing a comparison of the number of sales for each electronic product.
 
 ![A sample bar chart in Microsoft Excel, showing the number of sales for a number of electronic products, with the data range beside it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Inserted-Bar-Chart.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For this set of data, mice were bought the least with 9 sales, while headphones were bought the most with 55 sales. This comparison is visually obvious from the chart as presented.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Formatting Bar Charts in Microsoft Excel
 
  By default, a bar chart in Excel is created using a set style, with a title for the chart extrapolated from one of the column labels (if available).
@@ -58,9 +71,9 @@ Related: [How to Create a Combo Chart in Excel](https://hardware-tips.techidaily
 Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-screen-capture.techidaily.com/2024-approved-udemy-alternatives-10-best-online-learning-sites-like-udemy/) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Changing Chart Title Text
 
  To change the title text for a bar chart, double-click the title text box above the chart itself. You'll then be able to edit or format the text as required.
@@ -89,9 +102,6 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![Axis labels shown on an example Excel bar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Editing-Chart-Axis-Labels.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  If you want to remove the labels, follow the same steps to remove the checkbox from the "Chart Elements" menu by pressing the green, "+” icon. Removing the checkbox next to the "Axis Titles" option will immediately remove the labels from view.
 
 ###  Changing Chart Style and Colors
@@ -100,9 +110,6 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![To change the chart styles for an Excel bar chart, select the chart, then press the "Chart Styles" icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Styles-Icon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  A list of style options will become visible in a drop-down menu under the "Style" section.
 
  Select one of these styles to change the visual appearance of your chart, including changing the bar layout and background.
@@ -110,17 +117,15 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 ![Under the &quot;Style&quot; section of the &quot;Chart Styles&quot; menu, select one of the visual chart style options to apply it to your chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Style-Options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can access the same chart styles by clicking the "Design" tab, under the "Chart Tools" section on the ribbon bar.
 
  The same chart styles will be visible under the "Chart Styles" section---clicking any of the options shown will change your chart style in the same way as the method above.
 
 ![Excel chart styles are also visible by clicking the &quot;Design&quot; tab on the ribbon bar, with styles visible under the &quot;Chart Styles&quot; section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Design-Ribbon-Tab.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also make changes to the colors used in your chart in the "Color" section of the Chart Styles menu.
 
  Color options are grouped, so select one of the color palette groupings to apply those colors to your chart.
@@ -129,14 +134,15 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
  You can test each color style by hovering over them with your mouse first. Your chart will change to show how the chart will look with those colors applied.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Further Bar Chart Formatting Options
 
  You can make further formatting changes to your bar chart by right-clicking the chart and selecting the "Format Chart Area" option.
 
 ![You can make further formatting changes to an Excel bar chart by right-clicking the chart and clicking the &quot;Format Chart Area&quot; option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Format-Chart-Area-Button-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will bring up the "Format Chart Area" menu on the right. From here, you can change the fill, border, and other chart formatting options for your chart under the "Chart Options" section.
 
@@ -147,8 +153,9 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 ![The &quot;Text Options&quot; section of the &quot;Format Chart Area&quot; menu, allowing you to make further text formatting changes to an Excel chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Chart-Text-Options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to make further text formatting changes, you can do this using the standard text formatting options under the "Home" tab while you're editing a label.
 
 ![The &quot;Home&quot; tab on the Excel ribbon bar, with various text formatting options available](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Home-Ribbon-Tab.png) 
@@ -157,16 +164,11 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
 
 ![The pop-up text box formatting menu in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Text-Box-Formatting-Options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -175,4 +177,23 @@ Related: [How to Work with Trendlines in Microsoft Excel Charts](https://remote-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-obsudios-ultimate-guide-to-video-recording-with-obs/"><u>[New] In 2024, Obsudio's Ultimate Guide to Video Recording with OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigate-must-try-world-building-games-for-2024/"><u>[New] Navigate Must-Try World Building Games for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-audio-recording-solutions-for-educators-using-apple-products/"><u>[Updated] 2024 Approved Audio Recording Solutions for Educators Using Apple Products</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-get-more-viewers-with-social-media-marketing-for-youtube-for-2024/"><u>[Updated] Get More Viewers with Social Media Marketing for YouTube for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-master-the-art-of-video-sending-from-youtube-to-dailymotion/"><u>[Updated] Master the Art of Video Sending From YouTube to Dailymotion</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-blizzard-expert-fixes-to-stop-warcraft-3-reforged-crashing-on-your-pc-2024-edition/"><u>Beat the Blizzard: Expert Fixes to Stop Warcraft 3 Reforged Crashing on Your PC - 2024 Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/call-of-duty-how-to-fix-the-game-crashing-error-5573-on-your-consolepc/"><u>Call of Duty: How to Fix the Game-Crashing Error 5573 on Your Console/PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-troubleshooting-getting-your-starfield-experience-stable-on-pc/"><u>Comprehensive Troubleshooting: Getting Your Starfield Experience Stable on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/eliminate-game-disruptions-solve-ready-or-not-stability-issues-on-pc/"><u>Eliminate Game Disruptions: Solve 'Ready or Not' Stability Issues on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-of-troubleshooting-guide-for-obs-streamrecord-lags/"><u>End of Troubleshooting Guide for OBS Stream/Record Lags</u></a></li>
+<li><a href="https://techidaily.com/galaxy-watch-ultra-vs-apple-watch-ultra-comparing-unique-styles-with-identical-functionality/"><u>Galaxy Watch Ultra Vs. Apple Watch Ultra: Comparing Unique Styles with Identical Functionality</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-unlocking-success-with-youtube-on-facebook/"><u>In 2024, Unlocking Success with YouTube on Facebook</u></a></li>
+<li><a href="https://blog-min.techidaily.com/iphone-8pc/"><u>IPhone 8で最適なオーディオ設定とPCからの曲移行・同期・インポートプログラムガイド</u></a></li>
+<li><a href="https://fox-where.techidaily.com/lost-administrator-password-restart-and-recover-in-windows-11-easily/"><u>Lost Administrator Password? Restart & Recover in Windows 11 Easily</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003863488-troubleshoot-and-fix-call-of-duty-wwiis-black-screen-trouble-in-windows-with-this-easy-solution/"><u>Troubleshoot and Fix Call of Duty: WWII's Black Screen Trouble in Windows with This Easy Solution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solutions-for-naraka-bladepoint-game-crash-incidents/"><u>Troubleshooting and Solutions for Naraka: Bladepoint Game Crash Incidents</u></a></li>
+</ul></div>
 

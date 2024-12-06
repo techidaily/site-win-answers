@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Correcting the Infamous BSOD Glitch on Helldivers ➡️"
-date: 2024-11-10T00:52:29.414Z
-updated: 2024-11-17T07:45:50.950Z
+date: 2024-12-02T18:57:05.566Z
+updated: 2024-12-06T17:50:06.443Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
 
  Before we dive into anything advanced, please try to restart the game and your PC to see if it’s a random one-time error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check Destiny 2 server status
 
  Since the Error Centipede is a general networking error, the first thing you can do is to check if the server is down. If Destiny 2 is undergoing maintenance, you won’t be able to connect to the server and thus may get the Centipede Error.
@@ -49,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/4ef2c771bab22f6200bc44d813f92a02921f5f21b
  If Destiny 2 servers are working as intended, then the problem may be with your Internet connection. Read on for some fixes to configure your Internet settings and resolve the Error Centipede on Destiny 2.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Check your Internet connection
@@ -84,18 +89,15 @@ If you still get the Error Centipede, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig-1.jpg)
 4. Now open your browser,**paste the default gateway address** you copied before into the address bar, and press**Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. You’ll need to enter credentials (username and password) to log into your router’s control panel.
 6. Once you’re logged in, look for UPnP settings. The location may differ on different brands, you can refer to user manuals or turn to specialists for help.
 7. **Enable UPnP** , and save the changes.
 
 You can now test a game to see if you still get the Centipede Error.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Port Forwarding
 
@@ -117,27 +119,21 @@ You can now test a game to see if you still get the Centipede Error.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-npca.cpl-.jpg)
 3. Click on the**Ethernet icon** , right-click it then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ethernet-properties-1.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv4-properties.jpg)
 5. Select**Use the following IP address** and**Use the following DNS server addresses** . Fill in the information you recorded in Step 1:**IP address, Subnet mask, Default gateway, DNS servers** . Once complete, click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/assign-static-ip.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3: Set up Port Forwarding
 
@@ -174,13 +170,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  If setting up the NAT type doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Update your network adapter driver
 
  If you’ve tried the above fixes but nothing worked, then it’s likely that you would need to check your driver. An outdated or faulty network adapter driver could lead to random networking problems, so you may want to make sure yours is up-to-date and functioning properly.
@@ -199,13 +188,6 @@ You can now test a game to see if you still get the Centipede Error.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. Here for example, I can update the graphics driver on my PC as well. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -247,16 +229,15 @@ You can now test a game to see if you still get the Centipede Error.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/apid-redefinition-adjusting-youtube-on-mac-pixels-for-2024/"><u>[New] Rapid Redefinition Adjusting YouTube on Mac Pixels for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/fx-artisan-suite-for-2024/"><u>[New] VFX Artisan Suite for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-the-ultimate-guide-to-fb-video-calls-best-practices/"><u>[Updated] In 2024, The Ultimate Guide to FB Video Calls Best Practices</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/celestial-backup-and-retrieval-portal/"><u>Celestial Backup & Retrieval Portal</u></a></li>
-<li><a href="https://win-answers.techidaily.com/discover-the-saga-of-perseverance-in-black-endurance-echoes-of-an-unending-loop/"><u>Discover the Saga of Perseverance in 'Black Endurance: Echoes of an Unending Loop'</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/essential-twitter-utilities-for-streamlined-social-interaction/"><u>Essential Twitter Utilities for Streamlined Social Interaction</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723004543196-fifa-19-troubleshooting-no-more-pc-freezes-or-crashes/"><u>FIFA 19 Troubleshooting: No More PC Freezes or Crashes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-easily-get-and-update-your-mbox2-drivers-on-windows-computers-today/"><u>How To Easily Get And Update Your MBox2 Drivers On Windows Computers Today!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-dark-display-problem-in-halo-infinite/"><u>Resolved: Fixing the Dark Display Problem in Halo Infinite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-the-blackout-solutions-for-fortnites-screen-fault-on-windows-machines/"><u>Troubleshooting the Blackout: Solutions for Fortnite's Screen Fault on Windows Machines</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-the-secrets-how-to-bypass-the-windows-10-lock-screen-with-ease/"><u>Unlocking the Secrets: How to Bypass the Windows 10 Lock Screen with Ease</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-understanding-igtv-shutdown/"><u>[New] 2024 Approved Understanding IGTV Shutdown</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-gain-1000-followers-on-youtube-with-agile-strategies/"><u>[New] In 2024, Gain 1,000 Followers on YouTube with Agile Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/black-friday-shockwave-how-virtual-reality-headsets-beat-apples-airpods-in-sales/"><u>Black Friday Shockwave: How Virtual Reality Headsets Beat Apple's AirPods in Sales!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approaches-to-flawlessly-insert-chapters-into-your-youtube-content/"><u>In 2024, Innovative Approaches to Flawlessly Insert Chapters Into Your YouTube Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/most-effective-videots-to-mpeg-conversion-tools-for-windows-11-top-picks-of-20232024/"><u>Most Effective VIDEO_TS to MPEG Conversion Tools for Windows 11 - Top Picks of 2023/2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pulling-apart-what-sets-nlp-from-ml/"><u>Pulling Apart: What Sets NLP From ML?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/raspberry-pi-enhancement-alert-seamless-connection-for-32-bit-devices-achieved/"><u>Raspberry Pi Enhancement Alert: Seamless Connection for 32-Bit Devices Achieved!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-converting-mts-files-into-videos-online-or-on-windowsmac-os/"><u>Step-by-Step Guide to Converting MTS Files Into Videos Online or on Windows/Mac OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-adult-content-streaming-with-fantasticc-add-on-in-kodi-19-matrix/"><u>Step-by-Step Guide: Adult Content Streaming with FantastiCC Add-On in Kodi 19 Matrix</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-converting-interstellar-dvd-2014-for-viewing-on-your-iphoneipad/"><u>Step-by-Step Guide: Converting Interstellar (DVD, 2014) for Viewing on Your iPhone/iPad</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Fix Issues When Cortana Is Unresponsive"
-date: 2024-08-23T13:22:14.588Z
-updated: 2024-08-24T13:22:14.588Z
+date: 2024-12-04T17:43:04.009Z
+updated: 2024-12-06T17:19:04.624Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Minimum system requirements of Teardown
 
  If Teardown still crashes even though your components are more than enough, check out the methods below to fix the issue right away.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -53,6 +57,10 @@ Minimum system requirements of Teardown
 
  To see if that’s the case,**turn off your overclocking utilities** (if you’re using any like MSI Afterburner) and**set the clock speed back to the default** . If the crashing problem isn’t mitigated, there are more fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Allow Teardown through controlled folder access
 
  If Teardown crashes when you do a quicksave, the game is probably blocked by Windows Security which protects against viruses and malware. To ensure the game gets full access to necessary files and data, you can add it as an allowed app following the steps below:
@@ -62,15 +70,17 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**Windows Security** \>**Virus & threat protection** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-1.jpg)
@@ -78,6 +88,10 @@ Minimum system requirements of Teardown
 **4)** Click**Manage settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-4-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Scroll down and click**Manage Controlled folder access** .
 
@@ -88,20 +102,15 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **7)** Click**Add an allowed app** \>**Browse all apps** , and choose Teardown as a trusted app.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Relaunch the game to see if crashing persists. If unluckily yes, then go ahead with next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Temporarily disable the antivirus software
 
  Antivirus aims to prevent potential security threats on computer, but it’s sometimes overprotective and can interfere with your games the wrong way. To see if that’s the cause, turn off your antivirus programs and re-open Teardown.
@@ -135,9 +144,6 @@ Minimum system requirements of Teardown
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -164,20 +170,15 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Navigate to the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Wait for Steam to detect and repair the corrupted game files, and then you can check whether Teardown stops crashing or not. If not, have a look at the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall Teardown
 
  If none of the fixes above helps your case, try reinstallation as the last resort, as there may be stubborn issues with your previous installation.
@@ -187,8 +188,9 @@ Minimum system requirements of Teardown
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Right-click**Teardown** from the game list and click**Manage** \>**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-1.jpg)
@@ -210,8 +212,6 @@ Minimum system requirements of Teardown
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +219,21 @@ Minimum system requirements of Teardown
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-from-thread-to-thrill-sewing-secrets-on-tiktok-for-2024/"><u>[New] From Thread to Thrill Sewing Secrets on TikTok for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-critical-asmr-video-elements-to-note/"><u>[Updated] In 2024, Critical ASMR Video Elements to Note</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-mastering-adsense-on-youtube-a-beginners-guide/"><u>2024 Approved Mastering AdSense on YouTube A Beginner's Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-prime-free-enhancement-tool-for-pics-onlineapp/"><u>2024 Approved Prime Free Enhancement Tool for Pics Online/App</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dive-into-action-footage-selecting-top-notch-cams-addons/"><u>Dive Into Action Footage Selecting Top-Notch Cams Addons</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-solutions-to-fix-call-of-duty-warzones-dev-error-e-on-various-platforms/"><u>Effective Solutions to Fix Call of Duty: Warzone's Dev Error E on Various Platforms</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-apple-pay-10-user-friendly-strategies-for-smooth-transactions/"><u>Mastering Apple Pay: 10 User-Friendly Strategies for Smooth Transactions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-start-up-effective-solutions-for-launch-issues-in-the-witcher-3-wild-hunt/"><u>Mastering the Start-Up: Effective Solutions for Launch Issues in The Witcher 3: Wild Hunt</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-gaming-overlay-not-responding-quick-fixes-and-solutions/"><u>NVIDIA Gaming Overlay Not Responding - Quick Fixes and Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-scavengers-pc-game-issues-a-comprehensive-guide/"><u>Resolving Scavengers PC Game Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007893950-solution-guide-why-cyberpunk-2077-ignores-gpus-on-windows-10-systems-fixed/"><u>Solution Guide: Why Cyberpunk 2077 Ignores GPUs on Windows 10 Systems - Fixed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/stay-cool-with-this-guide-troubleshooting-iphoneipad-overheat-concerns/"><u>Stay Cool with This Guide: Troubleshooting iPhone/iPad Overheat Concerns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ark-survival-evolved-pc-crashes-with-top-9-solutions/"><u>Troubleshooting ARK: Survival Evolved PC Crashes with Top 9 Solutions</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ultimate-tutorial-effortless-m4v-media-playback-optimization-for-android-users/"><u>Ultimate Tutorial: Effortless M4V Media Playback Optimization for Android Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Game Glitch: Unraveling the Mystery of Consecutive System Failures"
-date: 2024-11-23T22:41:42.170Z
-updated: 2024-11-26T22:45:04.661Z
+date: 2024-12-03T19:05:37.601Z
+updated: 2024-12-06T16:33:21.395Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -48,7 +44,7 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Edit username
@@ -58,6 +54,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
  That means, if your platform language is English, you can’t use not-standard-English characters in your username. After removing these marks or characters, the problem is solved.
 
 If this fix doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
 
@@ -69,6 +69,10 @@ If this fix doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
@@ -84,15 +88,7 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this fix doesn’t bring luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -119,6 +115,10 @@ There are mainly two ways you can update the graphics driver:
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your antivirus software
 
  It’s possible that your anti-virus/Windows Security is interfering with NieR Replicant. When they block part of game files, there’ll be crashes. Therefore, disable real-time protection temporarily or make an exception for the game in the antivirus software would fix the issue.
@@ -129,19 +129,19 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -168,22 +168,22 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-communicating-with-authority-power-words-in-marketing/"><u>[New] Communicating with Authority Power Words in Marketing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-visual-unity-ai-driven-instavideo-compilation/"><u>[New] In 2024, Visual Unity AI-Driven InstaVideo Compilation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-lava-yuva-2-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Lava Yuva 2 Pro Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/battle-the-bugs-in-dragons-dogma-2-for-pc-tactics-to-avoid-system-freezes-and-crashes/"><u>Battle the Bugs in Dragon's Dogma 2 for PC: Tactics To Avoid System Freezes & Crashes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/chromecast-vs-roku-which-streaming-device-is-better/"><u>Chromecast Vs. Roku: Which Streaming Device Is Better?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/complete-guide-solving-nioh-2-game-crashes-on-any-platform/"><u>Complete Guide: Solving 'Nioh 2' Game Crashes on Any Platform</u></a></li>
-<li><a href="https://win-answers.techidaily.com/enhanced-gaming-experience-fixing-battlefield-2042s-lag-issues-and-frame-rate-drop-for-pc-players/"><u>Enhanced Gaming Experience - Fixing Battlefield 2042'S Lag Issues & Frame Rate Drop for PC Players</u></a></li>
-<li><a href="https://win-answers.techidaily.com/helldivers-ii-not-loading-on-steam-discover-quick-solutions/"><u>Helldivers II Not Loading on Steam - Discover Quick Solutions!</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/how-can-i-verify-if-my-data-backup-was-successfully-completed/"><u>How Can I Verify if My Data Backup Was Successfully Completed?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-enable-detection-of-your-gpu-by-msi-afterburner-on-new-windows-11-systems/"><u>How to Enable Detection of Your GPU by MSI Afterburner on New Windows 11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013926175-maplestory-startup-troubles-heres-how-you-can-fix-it/"><u>MapleStory Startup Troubles? Here’s How You Can Fix It</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/real-time-broadcasting-pro-manycam-ultimate-webcam-and-recording-suite/"><u>Real-Time Broadcasting Pro: ManyCam Ultimate Webcam and Recording Suite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-strategies-for-nwstoreexe-error-rectification/"><u>Step-by-Step Strategies for nw_store.exe Error Rectification</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-cyberpunk-2027-disconnecting-on-pc-top-troubleshooting-steps-revealed/"><u>Stop Cyberpunk 2027 Disconnecting on PC - Top Troubleshooting Steps Revealed</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ealities-of-youtube-view-calculation-for-2024/"><u>The Realities of YouTube View Calculation for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-ultimate-metaverse-advertising-playbook/"><u>The Ultimate Metaverse Advertising Playbook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/voice-your-thoughts-on-android-with-chatgpt/"><u>Voice Your Thoughts on Android, With ChatGPT</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-broadcasters-blueprint-step-by-step-windows-pc-guide-to-live-capture/"><u>[New] In 2024, The Broadcaster's Blueprint Step-by-Step Windows PC Guide to Live Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ideal-mac-voice-storage-tools-the-most-reliable-5/"><u>[Updated] 2024 Approved Ideal Mac Voice Storage Tools The Most Reliable 5</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cut-to-the-chase-techniques-for-tightening-youtube-content/"><u>[Updated] In 2024, Cut to the Chase Techniques for Tightening YouTube Content</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-and-fixing-ark-system-failure-problems/"><u>Addressing and Fixing ARK System Failure Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-fixing-gtfo-program-malfunctions/"><u>Comprehensive Guide: Fixing GTFO Program Malfunctions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-strategies-for-resolving-the-final-exams-failure-to-start-guide/"><u>Effective Strategies for Resolving the Final Exams Failure to Start - Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevate-your-profile-expertise-in-fb-video-coverage-creation-for-2024/"><u>Elevate Your Profile Expertise in FB Video Coverage Creation for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-using-manycams-ultimate-live-cam-and-broadcast-tools/"><u>Enhance Your Online Presence Using ManyCam's Ultimate Live Cam and Broadcast Tools</u></a></li>
+<li><a href="https://win-answers.techidaily.com/essential-troubleshooting-steps-resolving-last-epoch-errors-in-windowslinux-systems/"><u>Essential Troubleshooting Steps: Resolving 'Last Epoch' Errors in Windows/Linux Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-vivo-x100-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Vivo X100 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-get-rainbow-six-siege-running-smoothly-after-fixing-launch-issues/"><u>How to Get Rainbow Six Siege Running Smoothly After Fixing Launch Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-optimizing-viewing-distance-youtube-tips/"><u>In 2024, Optimizing Viewing Distance YouTube Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-photo-retouching/"><u>Mastering the Art of Photo Retouching</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-the-best-of-the-best-top-8-video-metadata-editors-for-mac/"><u>New The Best of the Best Top 8 Video Metadata Editors for Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-amazon-prime-video-malfunction-for-seamless-viewing/"><u>Overcoming Amazon Prime Video Malfunction for Seamless Viewing</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-oculus-link-screen-problem-fast-top-six-fixes/"><u>Resolve Your Oculus Link Screen Problem Fast - Top Six Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-graphic-issues-within-rust-environments-a-complete-guide/"><u>Resolving Graphic Issues Within Rust Environments - A Complete Guide</u></a></li>
 </ul></div>
 

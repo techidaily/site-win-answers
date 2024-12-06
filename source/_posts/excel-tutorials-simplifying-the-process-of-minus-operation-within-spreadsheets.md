@@ -1,7 +1,7 @@
 ---
 title: "Excel Tutorials: Simplifying the Process of Minus Operation Within Spreadsheets"
-date: 2024-08-27T23:56:42.914Z
-updated: 2024-08-28T23:56:42.914Z
+date: 2024-12-01T18:29:07.156Z
+updated: 2024-12-06T16:19:15.277Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a63a5a9ae6eb1efed5733d165b83ad90e6d4d9274
 ---
 
 ## Excel Tutorials: Simplifying the Process of Minus Operation Within Spreadsheets
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -42,15 +46,13 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 ![Type the subtraction formula in the cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/14-type-subtraction-formula.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Press Enter and Excel will instantly display the answer in the cell.
 
 ![The answer for a simple subtraction in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-simple-subtraction-answer1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  For most calculations in Excel, however, you'll end up using cell references rather than actual numbers. Instead of directly typing numbers in the formula, you can ask the formula to look at a particular cell for a number.
 
  We'll use the following spreadsheet for this calculation. We'll subtract the C column's values from the B column, then display the answer in the D column.
@@ -58,8 +60,9 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 ![A spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/1-subtraction-spreadsheet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To start, we'll click the D2 cell in the spreadsheet where we want to display the answer.
 
 ![Click the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2-select-d2-cell.png) 
@@ -70,9 +73,6 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 
 ![Enter the subtraction formula in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/3-enter-subtraction-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  And instantly, you will see the subtraction answer in the D2 cell.
 
 ![Subtraction answer in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/4-subtraction-answer.png) 
@@ -85,10 +85,6 @@ Related: [How to Add or Subtract Times in Microsoft Excel](https://android-frp.t
 
 ![Subtraction answer for all values in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/5-all-subtraction-answer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  And you're all set.
 
  You may want to check out how to [add or subtract dates in Excel](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/). It's equally easy to do that.
@@ -99,9 +95,6 @@ Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-locati
 
  To subtract multiple values from a single number, you have a couple of options.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Use the Minus Sign
 
  You can use the standard minus (-) sign for multiple subtractions, too.
@@ -114,22 +107,20 @@ Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-locati
 
 ![Click the E2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/7-select-e2-cell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the E2 cell, we'll enter the following formula. As you can notice, the formula contains multiple subtractions.
 
 =B2-C2-D2
 
 ![Enter the multiple subtraction formula in the E2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-multiple-subtraction-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press Enter and you will get the answer in the E2 cell.
 
 ![Multiple subtraction answer in the E2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/9-multiple-subtraction-answer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To perform this calculation for the remaining values, click the bottom-right corner of the E2 cell and drag it downwards.
 
  You will see the subtraction answer for each row in the E column.
@@ -137,13 +128,13 @@ Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-locati
 ![Multiple subtraction answers for all values in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/10-all-multiple-subtraction-answer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use the SUM Function
 
  Another way to subtract multiple values from a single number is to add all the values you want to subtract and then subtract the sum of those values from your number. We'll [use the SUM function](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/) to perform the addition.
@@ -151,6 +142,10 @@ Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-locati
  For this example, we'll again use the same spreadsheet that looks like this:
 
 ![A marks spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/6-multiple-subtraction-spreadsheet.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the spreadsheet, we'll click the E2 cell where we want to get the answer. In this cell, we'll type the following formula and press Enter. As you can see, the formula first adds the values of C2 and D2, and then subtracts the sum of these values from B2.
 
@@ -163,9 +158,9 @@ Related: [How to Add or Subtract Dates in Microsoft Excel](https://change-locati
 ![Drag the E2 cell downwards in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/12-all-subtract-sum-answer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that's how you subtract both simple and complex numbers in Microsoft Excel. Very easy!
 
  You can perform the standard math operations even quicker by [using Excel's paste special feature](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/). Check it out if you often need to do these calculations.
@@ -178,8 +173,6 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +180,18 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-next-gen-psvr-experience-essential-upcoming-games-to-watch/"><u>[New] Next Gen PSVR Experience Essential Upcoming Games to Watch</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-transform-your-digital-portfolio-with-onscreen-cropping-for-2024/"><u>[New] Transform Your Digital Portfolio with Onscreen Cropping for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boost-your-channels-crafting-captivating-yt-descriptions-using-custom-templates-for-2024/"><u>[Updated] Boost Your Channels Crafting Captivating YT Descriptions Using Custom Templates for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/coffee-stain-solution-on-iphone-fast-free-and-effective/"><u>Coffee Stain Solution on iPhone - Fast, Free, and Effective</u></a></li>
+<li><a href="https://article-helps.techidaily.com/excellent-extra-storage-for-sony-a7s-ii/"><u>Excellent Extra Storage for Sony A7S II</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-snapchats-spotlight-feature-deeply/"><u>Exploring Snapchat's Spotlight Feature Deeply</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-thaumaturge-loading-errors-in-your-browser-on-windows-os/"><u>Overcoming Thaumaturge Loading Errors in Your Browser on Windows OS</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-solve-acrocefexe-program-malfunctioning-issues/"><u>Step-by-Step Guide to Solve 'acrocef.exe' Program Malfunctioning Issues</u></a></li>
+<li><a href="https://win-answers.techidaily.com/twofold-catastrophe-navigating-through-it-takes-two-crashes-phenomenon-on-your-computer/"><u>Twofold Catastrophe: Navigating Through 'It Takes Two Crashes' Phenomenon on Your Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-resolving-dota-2-vac-bans/"><u>Ultimate Fix Guide: Resolving Dota 2 VAC Bans</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007509474-warno-game-continuously-crashing-heres-how-to-stabilize-it-on-your-computer/"><u>Warno Game Continuously Crashing? Here’s How to Stabilize It on Your Computer</u></a></li>
+</ul></div>
 

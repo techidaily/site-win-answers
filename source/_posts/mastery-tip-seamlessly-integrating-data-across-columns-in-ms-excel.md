@@ -1,7 +1,7 @@
 ---
 title: "Mastery Tip: Seamlessly Integrating Data Across Columns in MS Excel"
-date: 2024-08-27T23:57:47.191Z
-updated: 2024-08-28T23:57:47.191Z
+date: 2024-12-03T16:22:08.349Z
+updated: 2024-12-06T17:01:46.898Z
 tags:
   - excel
 categories:
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 
  You have two ways to initially merge cells before copying their contents: using an ampersand operator or using the `CONCAT` function. We'll cover both.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Method 1: Using the Ampersand Operator
 
  The ampersand symbol (&) has more uses than a shorter way to type the word "and." You can use the ampersand operator in [a formula](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) to combine data in cells.
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 
 ![Combined cells using the ampersand](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/Ampersand-ExcelMergeColumns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To merge the cells A2 and B2 with a space in the middle, you would use the following formula:
 
 =A2&" "&B2
@@ -60,14 +68,6 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
 
 ![Combined cells using the ampersand and space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/AmpersandSpace-ExcelMergeColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  To merge the cells in A2 and B2 with a hyphen in the middle, you would use this formula:
 
 =A2&"-"&B2
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/b891766f2e74dbdf20c5f444f013e0eb25d6a2a5d
  This is convenient for merging phone numbers or product identifiers.
 
 ![Combined cells using the ampersand and hyphen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/AmpersandHyphen-ExcelMergeColumns.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After this, you can move on to the [next step](https://some-guidance.techidaily.com/the-battle-of-broadcasting-is-xsplit-better-than-obs-for-livestreams-in-2024/), copying the formula.
 
@@ -95,8 +99,9 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
 ![Combined cells using CONCAT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/CONCAT-ExcelMergeColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To merge the cells A2 and B2 with a space in the middle, you would use the following formula:
 
 =CONCAT(A2," ",B2)
@@ -115,9 +120,6 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
 
  Now that you've merged two cells in a row of your two columns, it's time to copy the formula.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copy the Formula
 
  Once you have the first formula inserted, you don't have to enter it manually for each row in your column. Simply copy the formula down.
@@ -126,19 +128,14 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
 
 ![Copied formula by double-clicking the Fill Handle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/CopyDoubleClick-ExcelMergeColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Alternatively, you can drag the plus sign as far as you need to, rather than double-clicking it. You might use this option if you want to stop at a certain point in the column.
 
 ![Copied formula by dragging the Fill Handle](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/CopyDrag-ExcelMergeColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Optional: Convert the Formulas
 
  One final step you may want to take is to convert the formulas to static values. If you plan to delete the original columns and keep only the merged column, you must convert the data first. This is because the formulas use the cell references in those columns to combine the data. So, if those cell references no longer contain the data, you won't have the merged data.
@@ -151,8 +148,6 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +155,26 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-step-by-step-webcam-recording-on-macbook/"><u>[New] In 2024, Step-by-Step Webcam Recording on MacBook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-transforming-ideas-into-engaging-captivate-content/"><u>[New] Transforming Ideas Into Engaging Captivate Content</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-guide-to-store-instagram-photosvideos-on-iphones/"><u>[Updated] 2024 Approved Step-by-Step Guide to Store Instagram Photos/Videos on iPhones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-revisiting-sonys-s6700-blu-ray/"><u>2024 Approved Revisiting Sony's S6700 Blu-Ray</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefield-2042-pc-stability-problems-solutions-and-troubleshooting-tips/"><u>Battlefield 2042 PC Stability Problems - Solutions and Troubleshooting Tips</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/come-ottimizzare-la-risoluzione-dei-tuoi-video-hd-e-4k-su-pc-e-mac/"><u>Come Ottimizzare La Risoluzione Dei Tuoi Video HD E 4K Su PC E Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-solution-to-counteract-warzone-version-5031-disc-read-failures-on-your-gaming-rig/"><u>Comprehensive Solution to Counteract Warzone [Version 5.0/3.1] Disc Read Failures on Your Gaming Rig</u></a></li>
+<li><a href="https://win-answers.techidaily.com/cure-marvels-guardians-of-the-galaxy-pc-glitches-with-these-8-essential-fixes/"><u>Cure Marvel's Guardians of the Galaxy PC Glitches with These 8 Essential Fixes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-and-review-overcoming-the-launch-hurdles-for-robocop-rogue-city-on-personal-computers/"><u>Fix and Review: Overcoming the Launch Hurdles for 'RoboCop: Rogue City' On Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-discord-overlay-not-working-swift-solutions-for-a-smooth-streaming-experience/"><u>Fix Discord Overlay Not Working: Swift Solutions for a Smooth Streaming Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723001615081-how-to-fix-microsoft-edge-suddenly-closing-issue-in-windows-11-solution-found/"><u>How to Fix Microsoft Edge Suddenly Closing Issue in Windows 11 - Solution Found!</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-se-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone SE Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-bring-your-spotify-mixes-online-5-top-playlist-conversion-apps-for-youtube/"><u>In 2024, Bring Your Spotify Mixes Online 5 Top Playlist Conversion Apps for YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Vivo Y36i? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-god-of-war-memory-errors-tips-and-solutions-for-optimal-performance/"><u>Resolving God of War Memory Errors: Tips and Solutions for Optimal Performance</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-cs2-frame-rate-issues-a-guide-to-boosting-your-pcs-performance/"><u>Solving CS2 Frame Rate Issues: A Guide to Boosting Your PC's Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-understanding-the-stanley-j5cu9-a-review-of-its-abilities-and-dimensions/"><u>The Ultimate Guide to Understanding the Stanley J5cu9 - A Review of Its Abilities and Dimensions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-freezing-issues-for-madden-21-pc-users/"><u>Troubleshooting Persistent Freezing Issues for Madden '21 PC Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/turn-off-unwanted-rings-staying-silent-on-your-ipad-when-your-iphone-is-active/"><u>Turn Off Unwanted Rings: Staying Silent on Your iPad When Your iPhone Is Active</u></a></li>
+</ul></div>
 

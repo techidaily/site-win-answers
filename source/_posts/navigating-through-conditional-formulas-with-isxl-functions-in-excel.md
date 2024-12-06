@@ -1,7 +1,7 @@
 ---
 title: Navigating Through Conditional Formulas with ISXL Functions in Excel
-date: 2024-08-27T23:57:48.193Z
-updated: 2024-08-28T23:57:48.193Z
+date: 2024-12-05T17:26:00.157Z
+updated: 2024-12-06T18:00:46.871Z
 tags:
   - excel
 categories:
@@ -27,8 +27,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  When you use these functions in conjunction with others, like [the IF function](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), you can put parameters around your true/false statements. But, you can also use the IS functions on their own if it's beneficial. Let's take a look at how they work.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The IS Functions in Excel
 
  The syntax for each function's formula is the same with just one argument: 
@@ -66,8 +67,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
  As you review the above list, you can see where some of the IS functions can come in handy. At the same time, you may see a couple that you'll probably rarely use. So, let's look at common uses for a few of the functions.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  ISBLANK
 
 [The ISBLANK function](https://tech-savvy.techidaily.com/1723808302722-effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/) is one you can use to [locate empty cells](https://fox-blue.techidaily.com/2024-approved-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/) where you expect data. You can use this with the IF function to display a particular value for blank and non-blank cells.
@@ -81,8 +83,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now we'll include the IF function to display a question mark (?) for a blank cell and a hyphen (-) for a cell containing data.
 
 =IF(ISBLANK(A1),"?","-")
@@ -91,9 +94,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![ISBLANK function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISBLANK-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ###  ISERROR
 
  The ISERROR function is ideal if you want to locate [errors in your sheet](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) for constantly changing data. It works well with the IF function in the same way that IFERROR works on its own.
@@ -114,6 +114,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![ISERROR function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISERROR-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Again, you can use the newer IFERROR function instead of the IF and ISERROR combination in most cases. But you can also use IF and ISERROR with other functions like VLOOKUP to display certain results for both errors and non-errors, whereas IFERROR displays only the value for the error.
 
  For more on this specific topic, take a look at our guide on [using the IFERROR function to hide errors](https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/) in your sheet.
@@ -132,9 +136,6 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
 
 ![ISNUMBER function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISNUMBER-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Now, we'll add the IF function to display nothing if the cell contains a number but "Please enter a number" if the cell doesn't contain a number.
 
 =IF(ISNUMBER(A1)," ","Please enter a number")
@@ -149,16 +150,16 @@ Related: [How to Hide Error Values and Indicators in Microsoft Excel](https://in
 
 ![ISTEXT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISTEXT-ExcelISFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And with the IF function, we can display "Please enter text" if the value is something other than text.
 
 =IF(ISTEXT(A1)," ","Please enter text")
 
 ![ISTEXT function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/ISTEXT-ExcelISFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  These are basic examples of how to use the IS functions in Excel. They are available for simple checks of data on their own or more complex tests when combined with other functions.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -173,8 +174,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +181,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-remedying-no-audio-in-obs-sessions/"><u>[New] Remedying No Audio in OBS Sessions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-uncovering-quantum-hdrs-core-principles/"><u>2024 Approved Uncovering Quantum HDR's Core Principles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-solved-successful-steps-for-connecting-to-live-configuration-servers/"><u>Error Solved: Successful Steps for Connecting to Live Configuration Servers</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/esl-learning-english-for-non-native-speakers/"><u>ESL: Learning English for Non-Native Speakers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-restoring-among-us-voice-communication-on-your-pc/"><u>Guide to Restoring Among Us Voice Communication on Your PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-optimize-your-gameplay-banishing-rainbow-six-siege-delays/"><u>How to Optimize Your Gameplay - Banishing Rainbow Six Siege Delays</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-swtor-game-start-up-errors-solutions-included/"><u>How to Overcome SWTOR Game Start-Up Errors - Solutions Included</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>In 2024, From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a05-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A05 Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-energy-kits-for-gopro-hero5-genuine-and-third-party-brands/"><u>Optimal Energy Kits for GoPro Hero5 – Genuine and Third-Party Brands</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-your-lag-advanced-fps-optimization-tricks-for-war-thunder-players-on/"><u>Resolve Your Lag: Advanced FPS Optimization Tricks for War Thunder Players On</u></a></li>
+<li><a href="https://win-answers.techidaily.com/star-wars-jedi-fallen-order-pc-version-repaired-and-optimized/"><u>Star Wars Jedi: Fallen Order - PC Version Repaired and Optimized</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-oppo-a78-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo A78 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-and-restore-your-hp-screen-expert-solutions-to-common-display-problems/"><u>Troubleshoot and Restore Your HP Screen - Expert Solutions to Common Display Problems</u></a></li>
+</ul></div>
 

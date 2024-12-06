@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Preventing Persistent Breakdowns in the Latest Formula 1 Racing Title on Desktop Systems"
-date: 2024-11-24T23:16:09.744Z
-updated: 2024-11-26T21:17:53.741Z
+date: 2024-12-04T17:52:32.622Z
+updated: 2024-12-06T16:14:51.808Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -62,10 +62,6 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
@@ -76,12 +72,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -102,10 +102,6 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
@@ -117,12 +113,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -155,21 +155,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/k-fans-on-yt-your-strategic-playbook-for-success-for-2024/"><u>[New] 1K Fans on YT Your Strategic Playbook for Success for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/boost-your-gaming-experience-solve-avatar-frontiers-of-pandora-latency-problems/"><u>Boost Your Gaming Experience – Solve 'Avatar: Frontiers of Pandora' Latency Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-simplified-shopping-top-5-latest-upgrades-on-amazon-enhancing-product-search-for-users/"><u>Discover Simplified Shopping: Top 5 Latest Upgrades on Amazon Enhancing Product Search for Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-print-quality-with-the-latest-hp-laserjet-p1007-driver-software-free-access/"><u>Enhance Print Quality with the Latest HP LaserJet P1^007 Driver Software - Free Access</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-solving-msi-mystic-light-issues-in-a-windows-environment/"><u>Expert Advice: Solving MSI Mystic Light Issues in a Windows Environment</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-tips-overcoming-frequent-freezes-and-crashes-in-valorant-while-playing-on-desktop-pcs/"><u>Expert Tips: Overcoming Frequent Freezes and Crashes in Valorant While Playing on Desktop PCs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-guide-dealing-with-data-center-connection-errors-in-halo-infinite/"><u>Fix Guide: Dealing with 'Data Center Connection Errors' In Halo Infinite</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009953890-fixing-hell-let-loose-pc-stability-issues-resolved/"><u>Fixing Hell Let Loose PC Stability Issues: Resolved</u></a></li>
-<li><a href="https://win-answers.techidaily.com/football-manager-2020-update-fixes-previous-bug-causing-crashes-play-smoothly-now/"><u>Football Manager 2020 Update Fixes Previous Bug Causing Crashes – Play Smoothly Now!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/googles-gemini-ai-is-here-but-is-it-better-than-chatgpt/"><u>Google's Gemini AI Is Here, but Is It Better Than ChatGPT?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-oppo-reno-11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo Reno 11 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-srt-to-xml-ssa-and-ttml-transformations/"><u>In 2024, Expert Tips for SRT-to-XML, SSA, and TTML Transformations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-diablo-2-resurrected-expert-tips-to-overcome-sudden-game-crashes/"><u>Mastering Diablo 2 Resurrected: Expert Tips to Overcome Sudden Game Crashes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/netflixs-secret-ally-your-mac-for-recording-entertainment-for-2024/"><u>Netflix's Secret Ally Your Mac for Recording Entertainment for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/stepping-up-advanced-techniques-for-w11-gamers-for-2024/"><u>Stepping Up Advanced Techniques for W11 Gamers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-subscriber-led-achievement-awards-in-content-space/"><u>[New] In 2024, Subscriber-Led Achievement Awards in Content Space</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-demystifying-macos-capture-feature-for-professional-use-for-2024/"><u>[Updated] Demystifying macOS Capture Feature for Professional Use for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-fix-guide-for-windows-users-with-broken-cddvd-drive-functionality/"><u>DIY Fix Guide for Windows Users With Broken CD/DVD Drive Functionality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-apex-legends-wont-load-issue-simple-solutions-inside/"><u>Fixing Apex Legends Won't Load Issue - Simple Solutions Inside!</u></a></li>
+<li><a href="https://tools.techidaily.com/gumcuisine/products/"><u>Gumcuisine's Products</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro System Issues? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-manual-for-background-banishment-in-figma/"><u>In 2024, The Complete Manual for Background Banishment in Figma</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-stability-issues-with-total-war-three-kingdoms/"><u>Overcoming Stability Issues with Total War: Three Kingdoms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-apex-legends-launch-problems-troubleshoot-now/"><u>Quick Fixes for Apex Legends Launch Problems - Troubleshoot Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-fixes-for-resolving-the-end-of-term-troublecode-tfla0002/"><u>Quick Fixes for Resolving the End-of-Term Troublecode 'TFLA0002'</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/recon-70-beats-ear-force-fuel-optimized-how-to-repair-non-functioning-microphone/"><u>Recon 70 Beats Ear Force Fuel Optimized: How to Repair Non-Functioning Microphone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamped-bioshock-2-remaster-version-resolved-issues-and-optimized-gameplay/"><u>Revamped Bioshock 2 Remaster Version – Resolved Issues and Optimized Gameplay</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-guide-overcoming-the-connection-failed-in-minecraft-dilemam/"><u>Solution Guide: Overcoming the 'Connection Failed in Minecraft' Dilemam</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solutions-for-the-persistent-not-launching-error-in-swtor/"><u>Solutions for the Persistent 'Not Launching' Error in SWTOR</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-role-of-multiple-ai-systems-in-business-success-understanding-the-trends-with-zdnets-analysis/"><u>The Role of Multiple AI Systems in Business Success: Understanding the Trends with ZDNET's Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-ffxiv-resolving-incomplete-version-verification-issues/"><u>Troubleshooting FFXIV: Resolving Incomplete Version Verification Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-ripper-and-video-converter-software-comprehensive-online-help-center/"><u>WinX DVD Ripper & Video Converter Software - Comprehensive Online Help Center</u></a></li>
 </ul></div>
 

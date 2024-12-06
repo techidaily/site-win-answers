@@ -1,7 +1,7 @@
 ---
 title: "Winning the Battle Againnst Lag: Proven Strategies for Optimizing Your Chivalry 2 Connection"
-date: 2024-11-11T01:23:18.072Z
-updated: 2024-11-16T20:20:37.237Z
+date: 2024-12-04T16:50:12.744Z
+updated: 2024-12-06T19:07:55.658Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -72,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
  After updating your drivers, restart your PC and start a game in The Ascent.
 
  If the latest driver doesn’t give you luck, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Make sure Windows is up to date
 
@@ -88,25 +74,11 @@ thumbnail: https://thmb.techidaily.com/af0b3f2dd83523f585e0d44be63e4dc2ee76a71ef
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
 
  If this doesn’t give you any improvements, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Run The Ascent on DirectX 11
 
@@ -119,13 +91,14 @@ If you don’t know how to switch, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-dx11.jpg)
 3. Now you can start The Ascent and test the gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable Control Flow Guard
@@ -137,10 +110,7 @@ If you don’t know how to switch, follow these steps:
 2. Navigate to the Program settings tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
@@ -149,11 +119,23 @@ If you don’t know how to switch, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -174,20 +156,21 @@ If you don’t know how to switch, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-windows-10-syncing-guide-effortless-mov-file-management/"><u>[New] Windows 10 Syncing Guide Effortless .mov File Management</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-inside-the-worlds-most-successful-business-youtube-sites/"><u>[Updated] Inside the World's Most Successful Business YouTube Sites</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-interactive-dimensions-understanding-ar-mr-and-vr/"><u>[Updated] Interactive Dimensions Understanding AR, MR & VR</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-game-crashes-speedy-tips-for-roboix-continuous-play-on-personal-computers-insights-for-2ergy/"><u>Avoid Game Crashes: Speedy Tips for Roboix Continuous Play on Personal Computers - Insights for 2Ergy</u></a></li>
-<li><a href="https://win-answers.techidaily.com/avoid-startup-crashes-in-hogwarts-legacy-discover-the-8-key-methods/"><u>Avoid Startup Crashes in Hogwarts Legacy – Discover the 8 Key Methods</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-error-code-4201-in-genshin-impact-a-step-by-step-guide/"><u>Fixing Error Code 4201 in Genshin Impact: A Step-by-Step Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-13-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 13? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/in-depth-solution-steps-to-overcome-minecraft-not-starting-up/"><u>In-Depth Solution Steps to Overcome Minecraft Not Starting Up</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-the-frame-rate-drop-in-dying-light-expert-solutions/"><u>Resolving the Frame Rate Drop in Dying Light: Expert Solutions</u></a></li>
-<li><a href="https://win-forum.techidaily.com/tackling-complete-disk-use-in-windows-11-expert-solutions-and-tips/"><u>Tackling Complete Disk Use in Windows 11: Expert Solutions and Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-way-through-the-persistent-launch-loop-in-madden-22-expert-tips-inside/"><u>Troubleshoot Your Way Through the Persistent Launch Loop in Madden 22 - Expert Tips Inside</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-review-boosting-productivity-with-the-innovative-onetastic-add-in-for-onenote/"><u>Ultimate Review: Boosting Productivity with the Innovative Onetastic Add-In for OneNote</u></a></li>
-<li><a href="https://win-answers.techidaily.com/unlock-the-secrets-fixing-the-non-launch-of-alan-wake-part-ii/"><u>Unlock the Secrets: Fixing the Non-Launch of Alan Wake Part II</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/xbox-one-streamers-rejoice-fixes-and-advice-for-restoring-netflix-functionality/"><u>Xbox One Streamers Rejoice: Fixes and Advice for Restoring Netflix Functionality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-route-to-collecting-pictorial-frame-downloads/"><u>[Updated] The Route to Collecting Pictorial Frame Downloads</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-choices-for-microsoft-based-video-editors-complete-tutorial-and-review/"><u>Best Choices for Microsoft-Based Video Editors - Complete Tutorial and Review</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-places-to-access-free-kannada-cinema-watch-and-save-your-favorite-movies/"><u>Best Places to Access FREE Kannada Cinema: Watch & Save Your Favorite Movies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-bulk-transformation-of-mov-files-into-high-quality-mp4-videos/"><u>Effortless Bulk Transformation of MOV Files Into High-Quality MP4 Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-conversion-of-wav-files-to-mp3-format-without-compromising-sound-integrity/"><u>Effortless Conversion of WAV Files to MP3 Format Without Compromising Sound Integrity</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-methods-how-to-quickly-save-your-favorite-content-from-bitchute/"><u>Effortless Methods: How To Quickly Save Your Favorite Content From BitChute</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-way-to-watch-wmv-files-on-your-iphone-conversion-guide/"><u>Effortless Way to Watch WMV Files on Your iPhone - Conversion Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-disconnection-problem-with-microsofts-email-client-a-step-by-step-approach/"><u>Fixing the Disconnection Problem with Microsoft's Email Client: A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-infinix-smart-8-hd-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Infinix Smart 8 HD via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-realme-gt-neo-5-se-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Realme GT Neo 5 SE Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-try-these-free-online-tempo-trackers-today/"><u>In 2024, Try These FREE Online Tempo Trackers Today</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-chrome-written-by-dinesh-menon-2013/"><u>Navigate Chrome' Written By Dinesh Menon (2013)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ranking-the-best-budget-friendly-live-streaming-options-today/"><u>Ranking the Best Budget-Friendly Live Streaming Options Today</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-duckduckgo-the-reliable-safe-search-option-for-internet-users/"><u>Unveiling DuckDuckGo: The Reliable, Safe Search Option for Internet Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/8avi2024/"><u>トップ8の無料AVIファイル変換ツール：2024年版専用最新リスト</u></a></li>
 </ul></div>
 

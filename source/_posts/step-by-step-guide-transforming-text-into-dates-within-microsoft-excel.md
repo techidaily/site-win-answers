@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Transforming Text Into Dates Within Microsoft Excel"
-date: 2024-08-27T23:57:59.953Z
-updated: 2024-08-28T23:57:59.953Z
+date: 2024-12-03T18:20:04.336Z
+updated: 2024-12-06T18:35:24.137Z
 tags:
   - excel
 categories:
@@ -45,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![Dates with a full stop separator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/full-stop-dates.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your spreadsheet data is regularly changing, and you want an automated solution for this scenario, you could use [the SUBSTITUTE function](https://support.office.com/en-us/article/substitute-function-6434944e-a904-4336-a9b0-1e58df3bc332).
 
 =VALUE(SUBSTITUTE(A2,".","/"))
@@ -59,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![Formatting number as a date](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/number-format-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The example here of a full stop delimiter is typical. But you can use the same technique to replace or substitute any delimiter character.
 
 ##  Converting the yyyymmdd Format
@@ -66,6 +74,10 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
  If you receive dates in the format shown below, it will require a different approach.
 
 ![Dates in the yyyymmdd format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/yyyymmdd-format.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This format is quite standard in technology as it removes any ambiguity about how different countries store their date values. However, Excel will not initially understand it.
 
@@ -80,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![Text to Columns to convert 8 digit numbers to dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/text-to-columns-date-format-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you would like a formula solution, then you could use the Date function to construct the date.
 
  This would be used alongside the text functions Left, Mid and Right to extract the three parts of a date (day, month, year) from the cell contents.
@@ -92,14 +105,12 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![Using the DATE formula with 8 digit numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/date-formula-resized.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Using either of these techniques, you can convert any eight-digit number value. For example, you might receive the date in a ddmmyyyy format or a mmddyyyy format.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  DATEVALUE and VALUE Functions
 
  Sometimes the problem is not caused by a delimiter character but has an awkward date structure simply because it is stored as text.
@@ -108,18 +119,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![Dates stored as text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/text-dates.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For these scenarios, it is easy to convert using a variety of techniques.
 
  For this article, I wanted to mention two functions to handle these scenarios. They are DATEVALUE and VALUE.
@@ -134,9 +133,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 
 ![DATEVALUE function to convert to date values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/datevalue-resized.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  Notice how the time was removed from the result in row 4\. This formula strictly returns just the date value. The result will still need to be formatted as a date.
 
  The following formula uses the VALUE function.
@@ -146,8 +142,9 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
 ![VALUE function to convert text to numeric values](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/05/value-resized.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This formula will produce the same results except for in row 4, where the time value is also maintained.
 
  The results can then be formatted as date and time, or as a date to hide the time value (but not remove).
@@ -158,8 +155,6 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +162,24 @@ thumbnail: https://thmb.techidaily.com/197c2ed369e4a9919f13d946f77f5157856e3dbfa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-state-of-the-art-methods-for-documenting-digital-education/"><u>[New] In 2024, State-of-the-Art Methods for Documenting Digital Education</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-jest-juggler-mummified-memers-for-2024/"><u>[New] Jest Juggler Mummified Memers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-resident-evil-village-mouse-issues/"><u>[SOLVED] Resident Evil Village Mouse Issues</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-edit-photos-on-snapchat/"><u>[Updated] In 2024, How to Edit Photos on Snapchat</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-utilizing-zoom-to-upgrade-tiktok-video-aesthetics/"><u>[Updated] Utilizing Zoom to Upgrade TikTok Video Aesthetics</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-and-resolving-pc-instability-with-nba-2k21/"><u>Bypassing and Resolving PC Instability with NBA 2K21</u></a></li>
+<li><a href="https://win-answers.techidaily.com/chrome-browser-issues-how-to-load-stuck-pages-effectively/"><u>Chrome Browser Issues: How to Load Stuck Pages Effectively</u></a></li>
+<li><a href="https://windows11.techidaily.com/direct-access-linux-forget-wsl/"><u>Direct Access: Linux, Forget WSL</u></a></li>
+<li><a href="https://windows11.techidaily.com/embracing-linguistic-diversity-with-windows-fonts/"><u>Embracing Linguistic Diversity with Windows Fonts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/guide-to-fix-downloadinstall-problems-for-age-of-empires-iv-on-microsofts-platform/"><u>Guide to Fix Download/Install Problems for Age of Empires IV on Microsoft's Platform</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/leading-laptop-and-desktop-monitor-choices-for-2er4-tech-enthusiasts/"><u>Leading Laptop and Desktop Monitor Choices for 2Er4 Tech Enthusiasts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-crashes-in-chivalry-2-with-these-proven-tips-and-strategies/"><u>Overcoming Crashes in Chivalry 2 with These Proven Tips & Strategies</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-missing-audio-in-discord-screen-shares-step-by-step-solutions/"><u>Resolving Missing Audio in Discord Screen Shares - Step-by-Step Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/silent-sync-a-users-manual-for-pairing-airpods-to-quest-3-headphones-discreetly-digitallife/"><u>Silent Sync: A User's Manual for Pairing AirPods to Quest 3 Headphones Discreetly | DigitalLife</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-troubleshooting-for-high-fps-on-splitgate/"><u>Step-by-Step Troubleshooting for High FPS on Splitgate</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-oppo-find-n3-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Oppo Find N3 Location | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/winning-the-showdown-with-confidence-your-ultimate-guide-to-correcting-tfla0002/"><u>Winning the Showdown with Confidence: Your Ultimate Guide to Correcting TFLA0002</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Excel Tips: Adjusting Headers/Footers for Unique First-Page Designs"
-date: 2024-08-27T23:56:41.775Z
-updated: 2024-08-28T23:56:41.775Z
+date: 2024-12-03T17:37:09.573Z
+updated: 2024-12-06T16:52:43.047Z
 tags:
   - excel
 categories:
@@ -61,8 +61,6 @@ You can add text, such as page numbers, filename, worksheet name, and date, to t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -70,8 +68,23 @@ You can add text, such as page numbers, filename, worksheet name, and date, to t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-achieving-professional-results-video-recordingediting-on-adobe-connect/"><u>[New] In 2024, Achieving Professional Results Video Recording/Editing on Adobe Connect</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-the-art-of-managing-discord-spoilers/"><u>[New] In 2024, The Art of Managing Discord Spoilers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amd-ryzen-7-7800x3d-with-zen-5-architecture-smashes-benchmark-records-leading-past-zen-4-gaming-flagship-by-over-23/"><u>AMD Ryzen 7 7800X3D With Zen 5 Architecture Smashes Benchmark Records, Leading Past Zen 4 Gaming Flagship By Over 23%</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-newly-released-optimized-wireless-network-driver/"><u>Download Your Newly Released, Optimized Wireless Network Driver</u></a></li>
+<li><a href="https://article-tips.techidaily.com/easy-downloads-of-youtube-srt-subtitles-explained/"><u>Easy Downloads of YouTube SRT Subtitles Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ensuring-fluid-gaming-experience-how-to-fix-frame-rate-problems-in-assassins-creed-valhalla-for-pc-users/"><u>Ensuring Fluid Gaming Experience - How to Fix Frame Rate Problems in Assassin's Creed Valhalla for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/geforce-experience-crash-woes-heres-how-to-identify-diagnose-and-correct-common-issues/"><u>GeForce Experience Crash Woes? Here's How to Identify, Diagnose, and Correct Common Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-lava-yuva-3-drfone-by-drfone-android/"><u>How to Screen Mirroring Lava Yuva 3? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/inside-the-story-behind-guilty-gear-strives-postponement-and-what-fans-can-expect-now/"><u>Inside the Story Behind Guilty Gear Strive's Postponement and What Fans Can Expect Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-rust-from-crashing-forever-debugging-techniques-that-work/"><u>Stop Rust From Crashing Forever: Debugging Techniques That Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/synchronized-streaming-overcoming-av-discrepancies-in-youtube-for-chrome-and-firefox-users/"><u>Synchronized Streaming: Overcoming A/V Discrepancies in YouTube for Chrome & Firefox Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-techniques-to-ensure-smooth-play-in-red-dead-online-without-pc-interruptions/"><u>Top Techniques to Ensure Smooth Play in Red Dead Online Without PC Interruptions</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

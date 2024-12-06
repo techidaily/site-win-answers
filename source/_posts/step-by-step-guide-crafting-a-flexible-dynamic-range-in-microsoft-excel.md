@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting a Flexible Dynamic Range in Microsoft Excel"
-date: 2024-08-27T23:57:52.933Z
-updated: 2024-08-28T23:57:52.933Z
+date: 2024-12-05T17:26:56.785Z
+updated: 2024-12-06T17:35:22.927Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 ---
 
 ## Step-by-Step Guide: Crafting a Flexible Dynamic Range in Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
  By using a dynamic defined range, you will not need to manually edit the ranges of your formulas, charts, and PivotTables when data changes. This will happen automatically.
 
  Two formulas are used to create dynamic ranges: OFFSET and INDEX. This article will focus on using the INDEX function as it is a more efficient approach. OFFSET is a volatile function and can slow down large spreadsheets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create a Dynamic Defined Range in Excel
 
@@ -34,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![Create a defined name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/define-name-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type "countries" in the "Name" box and then enter the formula below in the "Refers to" box.
 
 =$A$2:INDEX($A:$A,COUNTA($A:$A))
@@ -42,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/94794ad0266b38c29cc913b5310b6833aba7a42cc
 
 ![Using a formula in a defined name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/define-name-details.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ###  How Does This Work?
 
  The first part of the formula specifies the start cell of the range (A2 in our case) and then the range operator (:) follows.
@@ -60,8 +69,9 @@ INDEX($A:$A,COUNTA($A:$A))
  The final result is $A$2:$A$6, and because of the COUNTA function, it is dynamic, as it will find the last row. You can now use this "countries" defined name inside a Data Validation rule, formula, chart, or wherever we need to reference the names of all the countries.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Create a Two Way Dynamic Defined Range
 
  The first example was only dynamic in height. However, with a slight modification and another COUNTA function, you can create a range that is dynamic by both height and width.
@@ -71,25 +81,19 @@ INDEX($A:$A,COUNTA($A:$A))
 ![Data for a two way dynamic range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/data-for-two-way-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This time, we will create a dynamic defined range, which includes the headers. Click Formulas > Define Name.
 
 ![Create a defined name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/define-name-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type '"sales" in the "Name" box and enter the formula below in the "Refers To" box.
 
 =$A$1:INDEX($1:$1048576,COUNTA($A:$A),COUNTA($1:$1))
 
 ![Two way dynamic defined range formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/01/second-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  This formula uses $A$1 as the start cell. The INDEX function then uses a range of the entire worksheet ($1:$1048576) to look in and return from.
 
  One of the COUNTA functions is used to count the non-blank rows, and another is used for the non-blank columns making it dynamic in both directions. Although this formula started from A1, you could have specified any start cell.
@@ -102,8 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +113,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-youtube-channel-removal-pcphone/"><u>[New] The Ultimate Guide to Youtube Channel Removal (PC/Phone)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/beat-the-lag-proven-fixes-for-high-network-delay-in-valheim-for-windows-users/"><u>Beat the Lag: Proven Fixes for High Network Delay in Valheim for Windows Users</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-updated-epson-xp-420-drivers-on-your-device/"><u>Easy Guide: Installing Updated Epson XP 420 Drivers on Your Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009673356-effortless-solutions-for-nonfunctional-discord-overlays-fix-them-now/"><u>Effortless Solutions for Nonfunctional Discord Overlays: Fix Them Now</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-harmonizing-your-calendar-with-zoom-appointments-on-all-screens/"><u>In 2024, Harmonizing Your Calendar With Zoom Appointments on All Screens</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g-5g-2023-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G 5G (2023) to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/june-showcase-apples-worldwide-developers-conference-slated/"><u>June Showcase: Apple's Worldwide Developers Conference Slated</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/reefire-compiling-premier-gaming-vids-and-hashtags-for-2024/"><u>Pro-FreeFire Compiling Premier Gaming Vids and Hashtags for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essence-of-video-editing-filmoras-ten-wonders-for-2024/"><u>The Essence of Video Editing Filmora's Ten Wonders for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-gpu-support-for-enhanced-graphics-in-call-of-duty-warzone-on-windows-10/"><u>Troubleshooting GPU Support for Enhanced Graphics in Call of Duty: Warzone on Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-slow-startup-issues-in-star-wars-battlefront-ii-for-pc-players/"><u>Troubleshooting Slow Startup Issues in Star Wars: Battlefront II for PC Players</u></a></li>
+</ul></div>
 

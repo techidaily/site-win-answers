@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial on Building Histograms with Microsoft Excel
-date: 2024-08-27T23:57:29.599Z
-updated: 2024-08-28T23:57:29.599Z
+date: 2024-11-29T18:11:35.743Z
+updated: 2024-12-06T17:56:18.283Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ---
 
 ## Easy Tutorial on Building Histograms with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,11 +36,19 @@ Related: [How to Find Out Which Version of Microsoft Office You're Using (and Wh
 
 ![A selected data range in Microsoft Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Data-Selected.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With your data selected, choose the "Insert" tab on the ribbon bar. The various chart options available to you will be listed under the "Charts" section in the middle.
 
  Click the "Insert Statistic Chart" button to view a list of available charts.
 
 ![Tap Insert > Insert Statistic Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Insert-Static-Chart-Button.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the "Histogram" section of the drop-down menu, tap the first chart option on the left.
 
@@ -45,8 +57,9 @@ Related: [How to Find Out Which Version of Microsoft Office You're Using (and Wh
  This will insert a histogram chart into your Excel spreadsheet. Excel will attempt to determine how to format your chart automatically, but you might need to make changes manually after the chart is inserted.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Formatting a Histogram Chart
 
  Once you've inserted a histogram into your Microsoft Excel worksheet, you can make changes to it by right-clicking your chart axis labels and pressing the "Format Axis" option.
@@ -62,17 +75,15 @@ Related: [How to Find Out Which Version of Microsoft Office You're Using (and Wh
 ![A histogram with bins grouped by category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Histogram-By-Category.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using the "Bin Width" option, you can combine your data into different groups.
 
  Referring to our example of student test results, you could group these into groups of 10 by setting the "Bin Width" value to 10.
 
 ![An Excel histogram with bin groupings grouped by bin width](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Histogram-By-Bin-Width.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  The bottom axis ranges start with the lowest number. The first bin grouping, for instance, is displayed as "\[27, 37\]" while the largest range ends with "\[97, 107\]," despite the maximum test result figure remaining 100.
 
  The "Number Of Bins" option can work in a similar way by setting a firm number of bins to show on your chart. Setting 10 bins here, for instance, would also group results into groups of 10.
@@ -81,10 +92,6 @@ Related: [How to Find Out Which Version of Microsoft Office You're Using (and Wh
 
 ![An Excel histogram, with bin groupings grouped by number of bins](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Histogram-By-Number-of-Bins.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  For the student results example, this may not be the best option. If you want to ensure that a set number of bin groupings are always displayed, however, this is the option you'd need to use.
 
  You can also split data into two with overflow and underflow bins. For instance, if you wanted to carefully analyze data under or above a certain number, you could tick to enable the "Overflow Bin" option and set a figure accordingly.
@@ -101,16 +108,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![An Excel histogram with an underflow bin grouping](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Histogram-Set-Underflow-bin.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can also make cosmetic changes to your histogram chart, including replacing the title and axis labels, by double-clicking those areas. Further changes to the text and bar colors and options can be made by right-clicking the chart itself and selecting the "Format Chart Area" option.
 
 ![To make cosmetic changes to an Excel histogram, right-click and press the Format Chart Area button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Format-Chart-Area-Button.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Standard options for formatting your chart, including changing the border and bar fill options, will appear in the "Format Chart Area" menu on the right.
 
 <ins class="adsbygoogle"
@@ -119,8 +120,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +127,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-discovering-expert-seed-selection-for-valheimers/"><u>[New] Discovering Expert Seed Selection for Valheimers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-the-content-creators-companion-to-commercial-success-on-vimeo-for-2024/"><u>[Updated] The Content Creator's Companion to Commercial Success on Vimeo for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-realme-c33-2023-frp-bypass-by-drfone-android/"><u>About Realme C33 2023 FRP Bypass</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deciphering-cod-warzone-pacific-chaos-resolution/"><u>Deciphering COD: Warzone Pacific Chaos Resolution</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixes-and-solutions-how-to-resolve-heartcrash-issues-in-hearthstone-on-pc/"><u>Fixes and Solutions: How to Resolve Heartcrash Issues in Hearthstone on PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-camera-to-feed-iphone-and-android-broadcast-guide-for-facebook-for-2024/"><u>From Camera to Feed IPhone & Android Broadcast Guide for Facebook for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/hensbergen-j-et-al-2016a-risk-assessment-for-glyphosate-in-groundwater-pest-manag-sci-7210-2135-45/"><u>Hensbergen, J., Et Al (2016a). Risk Assessment for Glyphosate in Groundwater. Pest Manag Sci, 72(10), 2135-45</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-lost-or-stolen-iphone-se-2020-in-easy-steps-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How To Recover Data From Lost or Stolen iPhone SE (2020) In Easy Steps | Stellar</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-se-2020-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) with/without SIM Card</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamped-realm-unraveling-the-mystery-of-constant-frost/"><u>Revamped Realm: Unraveling the Mystery of Constant Frost</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210926288-9781903353615-the-planets-and-awakening/"><u>The Planets and Awakening | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-fortnites-sudden-pc-malfunctions-expert-solutions/"><u>Troubleshooting Fortnite's Sudden PC Malfunctions - Expert Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722997359370-winwordexe-gone-wrong-heres-5-simple-repairs/"><u>WINWORD.EXE Gone Wrong? Here's 5 Simple Repairs</u></a></li>
+</ul></div>
 

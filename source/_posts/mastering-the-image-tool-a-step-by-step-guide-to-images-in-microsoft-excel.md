@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Image Tool: A Step-by-Step Guide to Images in Microsoft Excel"
-date: 2024-08-27T23:56:58.232Z
-updated: 2024-08-28T23:56:58.232Z
+date: 2024-12-02T18:57:51.446Z
+updated: 2024-12-06T18:11:17.116Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
  As of October 2022, the IMAGE function is available to [Office Insiders](https://tech-haven.techidaily.com/rethinking-ai-why-claude-3-surpasses-chatgpt-in-4-ways/) and will then roll out over time to Microsoft 365 subscribers on Windows, Mac, Android, iPhone, and the web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  About the IMAGE Function
 
  The syntax for the function is 
@@ -37,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
  You can insert BMP, GIF, ICO, JPG, PNG, TIFF, and WEBP image formats.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use the IMAGE Function in Excel
 
  Now that you know how to build the formula and understand the supported image file formats, let's look at some examples using the IMAGE function with the picture below.
@@ -49,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 ![Image example for the IMAGE function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Image-ExcelIMAGEFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In this first example, we'll insert the image without alt text or optional sizing using this formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png")
@@ -60,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 ![IMAGE function in Excel with no optional arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Default-ExcelIMAGEFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, we'll include the alt text "dog" and use the sizing option 1 to keep the image in the cell but ignore the aspect ratio with this formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","dog",1)
@@ -70,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 
 ![IMAGE function with alt text and sizing option 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing1AltText-ExcelIMAGEFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now, we'll use the following formula with the alt text and sizing option 2 to keep the image's original size:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","dog",2)
@@ -82,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 ![IMAGE function with alt text and sizing option 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing2AltText-ExcelIMAGEFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Finally, we'll remove the alt text leaving empty quotation marks for the argument. And we'll use a custom size for our image with 3 for the sizing, 280 pixels for the height, and 500 pixels for the width. Here's the formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","",3,280,500)
@@ -93,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
 ![IMAGE function without alt text and sizing option 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing3NoAltText-ExcelIMAGEFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Adding an image in Excel was never difficult; however, the [introduction of the IMAGE function](https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-se-2020-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/) means you can place a picture within a cell and keep it there in whatever size you want.
 
  For more on images in Excel, check out how to [quickly remove all pictures](https://fox-helps.techidaily.com/2024-approved-your-guide-to-the-top-8-tablets-for-next-level-photo-enhancements/) in your sheet or how to [get rid of the background in a picture](https://win-dash.techidaily.com/efficient-printing-with-toshiba-free-driver-downloads-for-windows-users/).
@@ -111,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +120,24 @@ thumbnail: https://thmb.techidaily.com/ff2e2b344a8396c6bab8264d1025798025a6c7a29
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/solved-satisfactory-fps-drops/"><u>[Solved] Satisfactory FPS Drops</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-10-top-must-have-gear-items-for-youtubers/"><u>[Updated] 10 Top Must-Have Gear Items for YouTubers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosis-and-repair-tips-for-grand-theft-auto-online-malfunctions/"><u>Diagnosis & Repair Tips for Grand Theft Auto Online Malfunctions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-official-dell-g15-graphics-drivers-for-windows/"><u>Download & Install Official Dell G15 Graphics Drivers for Windows</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/guide-simple-et-facile-pour-transferer-des-fichiers-dvd-en-haute-definition-sur-mac/"><u>Guide Simple Et Facile Pour Transférer Des Fichiers DVD en Haute Définition Sur Mac</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-address-missing-textures-in-the-popular-battle-royale-warzone/"><u>How to Address Missing Textures in the Popular Battle Royale: Warzone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722992717217-how-to-enjoy-the-classic-gaming-experience-with-la-noire-for-pc-now-available/"><u>How to Enjoy the Classic Gaming Experience with L.A. Noire for PC – Now Available</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-c50-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-meizu-21-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Meizu 21 Phone Screen?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/have-filmmaking-tools-for-aspiring-youtubers-for-2024/"><u>Must-Have Filmmaking Tools for Aspiring YouTubers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-signal-detected-from-finger-id-device/"><u>No Signal Detected From Finger ID Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-fixing-startup-failures-for-starfield-on-steam-and-xbox/"><u>Step-by-Step Guide: Fixing Startup Failures for Starfield on Steam and Xbox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/tamper-proof-strategies-to-overcome-cod-warzone-error-6328-updates/"><u>Tamper-Proof Strategies to Overcome COD Warzone Error 6328 Updates</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-smooth-video-extraction-via-funimate-for-2024/"><u>The Ultimate Guide to Smooth Video Extraction via Funimate for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-oppo-a79-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Oppo A79 5G Phone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-the-crash-error-in-mount-and-blade-bannerlord-game/"><u>Troubleshooting Guide - Fixing the Crash Error in Mount & Blade ˈBannerlord Game</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-unstick-your-discord-stream-for-smooth-viewing/"><u>Troubleshooting Guide: Unstick Your Discord Stream for Smooth Viewing</u></a></li>
+</ul></div>
 

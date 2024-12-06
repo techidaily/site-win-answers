@@ -1,7 +1,7 @@
 ---
 title: "Efficient Excel Techniques: How to Locate and Update Textual Content and Numerical Values Instantly"
-date: 2024-08-27T23:57:32.096Z
-updated: 2024-08-28T23:57:32.096Z
+date: 2024-12-04T18:20:12.833Z
+updated: 2024-12-06T16:28:12.359Z
 tags:
   - excel
 categories:
@@ -60,18 +60,20 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 
 ![Search the entire workbook for a value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/workbook.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Other useful options include the "Match Case" and "Match Entire Cell Contents" checkboxes.
 
 ![Match case and entire cell contents options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/match-case.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  These options can help narrow down your search criteria, ensuring you find and replace the correct occurrences of the values you're looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Change the Formatting of Values
 
  You can also find and replace the formatting of values.
@@ -83,8 +85,9 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 ![Opening the Find and Replace window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/find-and-replace.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the "Options" button to expand the Find and Replace options.
 
 ![Find and replace options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/options.png) 
@@ -95,20 +98,22 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 
 ![Set formatting to find and replace](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/set-formatting.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Specify the formatting you want to find or replace.
 
 ![Format Cells window to specify the formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/format-cells.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  A preview of the formatting is shown in the Find and Replace window.
 
 ![Preview of the formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/preview.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Continue with any other options you want to set and then click "Replace All" to change all occurrences of the formatting.
 
 ##  Using Wildcard Characters
@@ -130,8 +135,9 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 ![Using wildcards in Find and Replace](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/wildcards.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Replace All" to modify your spreadsheet.
 
 <ins class="adsbygoogle"
@@ -140,8 +146,6 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +153,24 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-previewed-fb-activity-is-it-safe-or-not/"><u>[Updated] Navigating Previewed FB Activity Is It Safe or Not?</u></a></li>
+<li><a href="https://windows11.techidaily.com/deciphering-x80070091-error-in-windows-steps-for-empty-directory-problem-solving/"><u>Deciphering X80070091 Error in Windows - Steps for 'Empty Directory' Problem Solving</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dia-a-dia-en-espanol-entender-la-secuencia-semanal/"><u>Dia a Dia, En Español: Entender La Secuencia Semanal</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enshrouded-crashes-repair-guide-for-windows-pcs/"><u>Enshrouded Crashes Repair Guide for Windows PCs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-why-altered-chatgpt-is-impractical/"><u>Exploring Why Altered ChatGPT Is Impractical</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-madden-22-stalling-issue-at-launch-proven-methods-to-get-playing-asap/"><u>Fixing Madden 22 Stalling Issue at Launch - Proven Methods to Get Playing ASAP</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-infamous-black-screen-of-death-in-cyberpunk-2077-solutions-that-work/"><u>Fixing the Infamous Black Screen of Death in Cyberpunk 2077: Solutions That Work</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-resolve-problems-when-your-camera-doesnt-work-on-discord/"><u>How to Resolve Problems When Your Camera Doesn't Work on Discord</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-mastering-youtube-clips-beginnings-and-conclusions-on-a-budget/"><u>In 2024, Mastering YouTube Clips Beginnings & Conclusions on a Budget</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-play-7t-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor Play 7T Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-free-update-available-winx-dvd-ripper-pro-4dvd-ultra-mac-edition/"><u>Latest Free Update Available: WinX DVD Ripper Pro 4DVD Ultra Mac Edition</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-the-battlenet-wont-open-challenge-a-comprehensive-guide/"><u>Overcoming the Battle.net Won't Open Challenge: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719353940627-resolve-icloud-install-issues-on-windows-quickly/"><u>Resolve iCloud Install Issues on Windows Quickly!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-troubleshooting-and-fixing-apex-legends-persistent-engine-errors-for-smoother-gaming/"><u>Solved! Troubleshooting and Fixing Apex Legends' Persistent Engine Errors for Smoother Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-to-overcome-launching-challenges-expert-advice-for-finals/"><u>Step-by-Step Guide to Overcome Launching Challenges: Expert Advice for Finals</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-strategies-to-stop-your-pc-from-crashing-during-warzone-battles/"><u>Top Strategies to Stop Your PC From Crashing During Warzone Battles</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-panasonic-mdt-file-restoration-top-methods-for-data-recovery/"><u>Ultimate Guide to Panasonic MDT File Restoration - Top Methods for Data Recovery</u></a></li>
+</ul></div>
 

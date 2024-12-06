@@ -1,7 +1,7 @@
 ---
 title: Fix Elden Ring's Lag Issues in Just 6 Swift Solutions
-date: 2024-11-22T17:38:40.090Z
-updated: 2024-11-26T16:53:05.863Z
+date: 2024-12-04T18:47:07.075Z
+updated: 2024-12-06T17:34:43.270Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -38,7 +34,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
@@ -68,7 +64,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -81,6 +77,10 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
@@ -115,15 +115,15 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -135,11 +135,11 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -164,16 +164,21 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-essential-guide-for-cost-free-google-meet-management/"><u>[New] The Essential Guide for Cost-Free Google Meet Management</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-engineering-an-impactful-storyboard-fragment/"><u>[Updated] Engineering an Impactful Storyboard Fragment</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-how-to-edit-hauls-a-comprehensive-video-guide/"><u>[Updated] How to Edit Hauls A Comprehensive Video Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860884084-updated-mastering-vrecorder-download-install/"><u>[Updated] Mastering VRecorder Download, Install!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/call-of-duty-vanguard-error-code-0x00001338-on-pc-quick-fixes-and-tips-for-gamers/"><u>Call of Duty Vanguard Error Code 0X00001338 on PC - Quick Fixes and Tips for Gamers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/deathloop-finally-released-overcoming-the-pre-launch-hurdles/"><u>Deathloop Finally Released: Overcoming the Pre-Launch Hurdles</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-itel-s23plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Itel S23+ Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-ways-to-eliminate-oxygen-not-included-crash-glitches-a-detailed-guide/"><u>Effective Ways to Eliminate 'Oxygen Not Included' Crash Glitches: A Detailed Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/efficiency-achieved-tackling-and-solving-cyberpunk-cuper-2077s-high-cpu-drain/"><u>Efficiency Achieved: Tackling and Solving Cyberpunk Cuper 2077'S High CPU Drain</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-a-closer-look-at-stale-vr-landscapes-what-changes/"><u>In 2024, A Closer Look at Stale VR Landscapes What Changes?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/timeline-of-groundbreaking-technological-developments-since-1844/"><u>Timeline of Groundbreaking Technological Developments Since 1844</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-pioneering-tools-for-the-future-of-3d-model-and-animation-artistry/"><u>[New] 2024 Approved Pioneering Tools for the Future of 3D Model & Animation Artistry</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unleash-growth-potential-simple-strategies-for-video-success/"><u>[New] 2024 Approved Unleash Growth Potential Simple Strategies for Video Success</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-performance-mobile-and-desktop-strategies/"><u>[Updated] Instagram Video Performance Mobile & Desktop Strategies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-recommendations-best-iphone-tones-designers/"><u>[Updated] Premier Recommendations Best iPhone Tones Designers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/8-crucial-fixes-to-avoid-marvels-guardians-of-the-galaxy-game-crashing-on-pc-platforms/"><u>8 Crucial Fixes to Avoid Marvel's 'Guardians of the Galaxy' Game Crashing on PC Platforms</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bypassing-error-code-130-on-your-steam-installation-made-easy/"><u>Bypassing Error Code 130 on Your Steam Installation Made Easy</u></a></li>
+<li><a href="https://win-answers.techidaily.com/high-cpu-use-by-chrome-heres-the-solution/"><u>High CPU Use by Chrome? Here's the Solution!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-successfully-start-your-mass-effect-legendary-journey-tips-and-solutions/"><u>How to Successfully Start Your Mass Effect Legendary Journey - Tips & Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nt-subscriber-growth-trackers/"><u>Instant Subscriber Growth Trackers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-the-seas-without-interruption-fixing-assassins-creed-odyssey-pc-problems/"><u>Master the Seas Without Interruption - Fixing Assassin's Creed Odyssey PC Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722998487396-pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/"><u>PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-htc-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on HTC , is it possible?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-the-dreaded-steam-error-code-130-a-step-by-step-guide/"><u>Resolving the Dreaded Steam Error Code 130: A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-modern-readers-pathway-to-capturing-internet-television/"><u>The Modern Reader's Pathway to Capturing Internet Television</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-10-ingenious-ae-techniques-for-headline-hype/"><u>Top 10 Ingenious AE Techniques for Headline Hype</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
 

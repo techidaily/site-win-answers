@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Building Excel Budget Templates for Tracking Revenue and Costs
-date: 2024-08-27T23:57:58.808Z
-updated: 2024-08-28T23:57:58.808Z
+date: 2024-11-30T16:41:57.636Z
+updated: 2024-12-06T18:57:43.001Z
 tags:
   - excel
 categories:
@@ -28,13 +28,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Sample expense and income spreadsheet data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/sample-data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Enter column headers for the information you want to store about each expense and form of income along with several lines of data as shown above. Think about how you want to track this data and how you would refer to it.
 
  This sample data is a guide. Enter the information in a way that is meaningful to you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Format the List as a Table
 
  Formatting the range as a table will make it easier to perform calculations and control the formatting.
@@ -42,6 +43,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
  Click anywhere within your list of data and then select Insert > Table.
 
 ![Insert a table in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/insert-table.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Highlight the range of data in your list that you want to use. Ensure that the range is correct in the "Create Table" window and that the "My Table Has Headers" box is checked. Click the "OK" button to create your table.
 
@@ -57,6 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![The table styles gallery on the Ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/table-styles-gallery.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will expand the gallery with a list of styles to choose from.
 
  You can also create your own style or clear the current style by clicking the "Clear" button.
@@ -64,8 +73,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Clear a table style](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/clear-table-style-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Name the Table
 
  We will give the table a name to make it easier to refer to in formulas and other Excel features.
@@ -75,11 +85,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Naming an Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/table-name.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Add Totals for the Income and Expenses
 
  Having your data formatted as a table makes it simple to add total rows for your income and expenses.
@@ -104,13 +112,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Expand the table quickly](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/expand-table.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Enter the new data in the blank rows above the total row. The totals will automatically update.
 
 ![Row for new expense and income data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/new-row-for-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Summarize the Income and Expenses by Month
 
  It is important to keep totals of how much money is coming into your account and how much you are spending. However, it is more useful to see these totals grouped by month and to see how much you spend in different expense categories or on different types of expenses.
@@ -125,9 +134,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Create a PivotTable in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/create-pivottable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  The PivotTable appears on the left, and a Field List appears on the right.
 
  This is a quick demo to summarise your expense and income easily with a PivotTable. If you are new to PivotTables, check out [this in-depth article](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-huawei-nova-y71-drfone-by-drfone-virtual-android/).
@@ -138,16 +144,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Dragging fields to create a PivotTable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/first-pivottable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  The "Date" field is automatically grouped into months. The "In" and "Out" fields are summed.
 
 ![Income and expenses grouped by month](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/by-month.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In a second PivotTable, you can view a summary of your expenses by category.
 
  Click and drag the "Category" field into "Rows" and the "Out" field into "Values".
@@ -159,25 +163,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![second PivotTable summarising expenses by category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/second-pivottable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
+
 ##  Update the Income and Expenses PivotTables
 
  When new rows are added to the income and expenses table, select the "Data" tab, click the "Refresh All" arrow, and then choose "Refresh All" to update both PivotTables.
 
 ![Refresh all PivotTables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/refresh.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +189,18 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unlock-earnings-the-guide-to-successful-vimeo-monetization/"><u>[Updated] 2024 Approved Unlock Earnings The Guide to Successful Vimeo Monetization</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-enhance-engagement-sharing-videos-on-instagram-for-2024/"><u>[Updated] Enhance Engagement Sharing Videos on Instagram for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-begin-your-journey-into-xps-video-editing-world/"><u>2024 Approved Begin Your Journey Into Xp's Video Editing World</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-real-time-skype-monitoring-with-live-obs-integration/"><u>2024 Approved Real-Time Skype Monitoring with Live OBS Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/activating-the-virtual-keyboard-on-your-pc-guidelines-for-windows-11-8-and-7/"><u>Activating the Virtual Keyboard on Your PC: Guidelines for Windows 11, 8 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-repair-a-nonfunctional-chatgpt-app-on-your-iphone-using-these-9-fixes/"><u>How to Successfully Repair a Nonfunctional ChatGPT App on Your iPhone Using These 9 Fixes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/immediate-fixes-for-the-batman-arkham-knight-fatal-error-and-hardware-conflicts/"><u>Immediate Fixes for the Batman: Arkham Knight Fatal Error & Hardware Conflicts</u></a></li>
+<li><a href="https://win-answers.techidaily.com/rapid-resolve-cutting-down-prolonged-prep-times-in-fallout-4/"><u>Rapid Resolve: Cutting Down Prolonged Prep Times in Fallout 4</u></a></li>
+<li><a href="https://win-answers.techidaily.com/sharpen-your-gameplay-tips-and-tricks-to-correct-unclear-graphics-in-cod-warzone-on-windows/"><u>Sharpen Your Gameplay: Tips & Tricks to Correct Unclear Graphics in COD: Warzone on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723005966475-why-isnt-my-graphics-card-active-during-cyberpunk-2077-playback-on-windows-11-solutions-inside/"><u>Why Isn't My Graphics Card Active During Cyberpunk 2077 Playback on Windows 11? Solutions Inside</u></a></li>
+</ul></div>
 

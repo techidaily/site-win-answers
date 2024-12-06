@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques for Increasing Padding Between Text & Border Lines in Microsoft Excel
-date: 2024-08-27T23:56:12.758Z
-updated: 2024-08-28T23:56:12.758Z
+date: 2024-11-30T17:39:34.040Z
+updated: 2024-12-06T18:39:28.429Z
 tags:
   - excel
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  Adding a bit of extra padding to your cell boundaries can make it easier for you to read through data in a Microsoft Excel spreadsheet. If you want to add extra white space between text and cell borders, here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Adding Extra Spacing Between Left and Right Cell Borders
 
  To add the extra space you need between the borders of a cell and the data held within it, you'll need to align your text or numbers using an indent. Formatting your cells to do this will give you an extra gap between your cell border and the start of your data.
@@ -32,6 +36,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![In the Format Cells dialog box in Excel, click on the Alignment tab and click on the "Horizontal" dropdown menu, underneath the Text Alignment section](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/Excel-Cell-Border-Indent-Options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Indent" box, select the size of your additional spacing. Click the up and down arrows or type a number in the box.
 
  Once you're ready, click the "OK" button to save any changes.
@@ -44,11 +52,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![A table in Microsoft Excel with indented cell borders](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/Excel-Indented-Border-Cells.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With this cell formatting applied, the cell values keep the extra padded boundaries against the cell borders, even if you change the width of the column manually.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Adding Extra Spacing Between Top and Bottom Cell Borders
 
  If you want to add extra spacing between your text and the top and bottom cell borders, you can also do this from within the "Format Cells" options box. As before, select your cell range within the spreadsheet, right-click on the selection, and then click "Format Cells." In the "Alignment" tab, click on the "Vertical" drop-down menu.
@@ -59,10 +72,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Select your top or bottom text indent options from the vertical dropdown menu in the format cells box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/Excel-Vertical-Indent-Edit.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  Depending on the option you've chosen, your cell data will now be aligned to your chosen option. If you've chosen to use the "Center" option, this will align your text to the middle of the cell. You can see this in action by [changing the row height](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/) to allow for a "taller" row.
 
 Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/) 
@@ -72,8 +81,9 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
 ![A table of cells in Google Excel with cell formatting for top, bottom or center text indenting applied](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/Excel-Top-Bottom-Indented-Cells.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can combine horizontal and vertical text alignment for your cells if you'd prefer. This allows you to apply additional spacing between your cell data and each of your cell borders.
 
 <ins class="adsbygoogle"
@@ -82,8 +92,6 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +99,24 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-combining-youtube-videos-for-seamless-playback-for-2024/"><u>[New] Combining YouTube Videos for Seamless Playback for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-from-devices-to-desktops-proven-file-transfer-ways-for-2024/"><u>[New] From Devices to Desktops Proven File Transfer Ways for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>[New] In 2024, Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/approach-define-bisphosphonates-and-explain-their-mechanism-of-action-in-relation-to-bone-turnover/"><u>Approach: Define Bisphosphonates and Explain Their Mechanism of Action in Relation to Bone Turnover</u></a></li>
+<li><a href="https://win-answers.techidaily.com/baldurs-gate-ultimate-guide-resolve-your-frustrating-lags/"><u>Baldur's Gate: Ultimate Guide - Resolve Your Frustrating Lags!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/bid-farewell-to-devoltage-loop-crashes-on-pc-with-these-easy-fix-techniques/"><u>Bid Farewell To DeVoltage Loop Crashes on PC With These Easy Fix Techniques!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-the-launch-blockade-effective-fixes-for-fallout-cuing/"><u>Defeating the Launch Blockade: Effective Fixes for Fallout Cuing</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-insignia-wireless-headset-bluetooth-drivers-for-pc/"><u>Download & Update Insignia Wireless Headset Bluetooth Drivers for PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-computer-gadgets-with-toms-hardware-hub/"><u>Exploring Computer Gadgets with Tom's Hardware Hub</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On OnePlus Nord N30 SE? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-game-fixes-for-robocop-franchise-installments-including-rogue-city/"><u>PC Game Fixes for 'RoboCop' Franchise Installments, Including Rogue City</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolve-league-of-legends-crashes-swiftly-a-step-by-step-guide/"><u>Resolve League of Legends Crashes Swiftly: A Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-connection-errors-in-terraria-proven-strategies-to-follow/"><u>Resolving Connection Errors in Terraria: Proven Strategies to Follow</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-baldurs-gate-performance-problems-top-six-solutions-for-smooth-gaming/"><u>Solve Baldur's Gate Performance Problems: Top Six Solutions for Smooth Gaming</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-performance-problems-with-smoother-playback-of-v-rising-on-pcs/"><u>Solving Performance Problems with Smoother Playback of V-Rising on PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-divx-video-editors-with-cutting-features/"><u>Top-Rated Free Divx Video Editors with Cutting Features</u></a></li>
+</ul></div>
 

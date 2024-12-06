@@ -1,7 +1,7 @@
 ---
 title: "Resolve Fortnite's Video Memory Issues: A Step-by-Step Guide"
-date: 2024-11-21T16:22:51.627Z
-updated: 2024-11-26T20:14:18.865Z
+date: 2024-11-30T17:19:23.114Z
+updated: 2024-12-06T16:04:22.160Z
 tags:
   - win11
   - win10
@@ -66,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
@@ -97,9 +97,17 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -108,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -129,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -141,15 +149,7 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -163,13 +163,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,22 +193,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-the-new-era-youtubes-shorts-fund-explained/"><u>[New] 2024 Approved Navigating the New Era YouTube's Shorts Fund Explained</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-top-igtv-gurus-you-cant-miss/"><u>[New] Top IGTV Gurus You Can't Miss</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-unique-thumbnails-for-youtube-content-for-2024/"><u>[Updated] Crafting Unique Thumbnails for YouTube Content for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/conquering-the-unceasing-cold-of-our-newly-emerged-planetary-domain/"><u>Conquering the Unceasing Cold of Our Newly Emerged Planetary Domain</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/discover-the-best-14-no-cost-pc-logo-creation-programs-for-effective-brand-identity-development/"><u>Discover the Best 14 No-Cost PC Logo Creation Programs for Effective Brand Identity Development</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-preventing-and-fixing-assassins-creed-valhalla-crashes-latest-techniques/"><u>Expert Advice on Preventing and Fixing Assassin's Creed Valhalla Crashes - Latest Techniques</u></a></li>
-<li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-realme-c53-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Realme C53 Phone | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-prevent-lunaclient-from-causing-frequent-system-failures-on-your-desktop/"><u>How to Prevent LunaClient From Causing Frequent System Failures on Your Desktop</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-a-deep-dive-into-competitive-ar-stickers-outside-google/"><u>In 2024, A Deep Dive Into Competitive AR Stickers Outside Google</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-premium-unmanned-aerial-vehicles-for-gopro-recording/"><u>In 2024, Premium Unmanned Aerial Vehicles for GoPro Recording</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/mastering-data-deletion-a-comprehensive-look-at-bitraser-tools/"><u>Mastering Data Deletion: A Comprehensive Look at BitRaser Tools</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723002292210-paradox-launcher-trouble-heres-how-you-can-make-it-work-again/"><u>Paradox Launcher Trouble? Here's How You Can Make It Work Again</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolved-fixes-for-f1-202n-game-crash-issues-on-windows-pc/"><u>Resolved: Fixes for F1 202N Game Crash Issues on Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/secrets-revealed-achieving-immortal-wealth-with-infinity-cave-on-pc/"><u>Secrets Revealed: Achieving Immortal Wealth with 'Infinity Cave' On PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-the-issue-of-excessive-cpu-consumption-in-phasmophobia/"><u>Solving the Issue of Excessive CPU Consumption in Phasmophobia</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/transforming-your-windows-11-taskbar-step-by-step-guide-to-changing-colors/"><u>Transforming Your Windows 11 Taskbar: Step-by-Step Guide to Changing Colors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-fixing-star-wars-battlefront-2-black-screen-problems/"><u>Troubleshooting Guide: Fixing Star Wars Battlefront 2 Black Screen Problems</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-revolutionize-your-editing-with-fcps-premier-tools/"><u>[New] In 2024, Revolutionize Your Editing with FCP's Premier Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-laughburst-app-for-all-humor-needs/"><u>[Updated] 2024 Approved LaughBurst App for All Humor Needs</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-bandicam-in-depth-review-for-the-modern-user-for-2024/"><u>[Updated] Bandicam In Depth Review for the Modern User for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-ultimate-compilation-ringtone-renaissance-sites/"><u>[Updated] Ultimate Compilation Ringtone Renaissance Sites</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-scrutinizing-the-core-functions-of-recordcast/"><u>2024 Approved Scrutinizing the Core Functions of RecordCast</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-gaming-smoothness-on-avatar-overcoming-low-frames-per-second-hurdles/"><u>Boost Gaming Smoothness on Avatar: Overcoming Low Frames Per Second Hurdles</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effective-methods-for-troubleshooting-acrocefexe-application-malfunctions/"><u>Effective Methods for Troubleshooting acroCEF.exe Application Malfunctions</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-your-file-handling-in-win-11-by-adding-movecopy-menus/"><u>Elevate Your File Handling in Win 11 by Adding Move/Copy Menus</u></a></li>
+<li><a href="https://win-answers.techidaily.com/error-resolved-what-to-do-when-the-mass-effect-legendary-edition-wont-start/"><u>Error Resolved? What To Do When The Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-biomutant-pc-crashing-ultimate-guide-with-solutions/"><u>How to Prevent Biomutant PC Crashing - Ultimate Guide with Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-a1x-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo A1x 5G</u></a></li>
+<li><a href="https://win-answers.techidaily.com/masterful-solutions-to-address-adobes-start-up-issue-handling-error-code-0xc0000022-effectively/"><u>Masterful Solutions to Address Adobe's Start Up Issue: Handling Error Code 0xC0000022 Effectively</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-load-issues-discover-proven-fixes-for-an-instant-startup-rescue/"><u>Minecraft Load Issues? Discover Proven Fixes for an Instant Startup Rescue</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-stutter-and-freeze-no-more-pc-optimization-tips-and-fixes-for-2amoonfall/"><u>Minecraft Stutter & Freeze No More! PC Optimization Tips and Fixes for 2Amoonfall</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-the-best-boxing-streaming-websites-for-the-latest-match-coverage/"><u>Updated The Best Boxing Streaming Websites for the Latest Match Coverage</u></a></li>
 </ul></div>
 

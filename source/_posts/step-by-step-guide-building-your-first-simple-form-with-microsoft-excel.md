@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Building Your First Simple Form with Microsoft Excel"
-date: 2024-08-27T23:57:08.854Z
-updated: 2024-08-28T23:57:08.854Z
+date: 2024-12-05T18:42:48.843Z
+updated: 2024-12-06T18:40:31.534Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 
 ## Step-by-Step Guide: Building Your First Simple Form with Microsoft Excel
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Enable the Developer Tab in Excel](https://extra-tips.techidaily.com/updated-a-professionals-secret-efficiently-incorporating-luts-into-premiere-pro/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 * [Protect Your Form](https://fox-links.techidaily.com/in-2024-stepwise-approach-to-exceptional-gopro-footage/)
 
  You have used tools like Microsoft Forms, Google Forms, or even [Microsoft Word](https://visual-screen-recording.techidaily.com/2024-approved-professional-screen-capture-tools-reviewed-bandicam-and-camtasia/) to create forms. But if you're most comfortable using Excel, why not use it to create the form you need? Here's how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Enable the Developer Tab in Excel
 
@@ -39,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 
 ![On the Developer tab, click Insert for the form controls](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/DeveloperInsertFormControls-ExcelBasicForm.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As an example, we'll insert a drop-down list using a form control.
 
  You can also [add a drop-down list in Excel](https://hardware-updates.techidaily.com/download-and-install-the-newest-version-of-corsair-k55-drivers-today/) using the Data Validation feature as well as a [dependent drop-down list](https://change-location.techidaily.com/in-2024-11-best-location-changers-for-vivo-y100-drfone-by-drfone-virtual-android/).
@@ -51,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 ![Draw a combo box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/DrawComboBox-ExcelBasicForm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select the Combo Box and click "Properties" in the Controls section of the ribbon.
 
 ![On the Developer tab, click Properties](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FormControlProperties-ExcelBasicForm.jpg) 
@@ -61,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 
 ![Add the combo box Input Range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ComboBoxInputRange-ExcelBasicForm.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You then have a nice and neat selectable list.
 
 ![Combo box in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/UseComboBox-ExcelBasicForm.jpg) 
@@ -76,13 +79,18 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 
 ![Right-click and pick Edit Text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/EditCheckboxText-ExcelBasicForm.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To adjust additional options for the form control, such as displaying the box as unchecked, select the control and click "Properties" in the ribbon. Make your adjustments and click "OK."
 
 ![Edit the checkbox properties](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/CheckboxProperties-ExcelBasicForm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We then follow the same process to create our next checkbox. Now our form is really taking shape!
 
 ![Checkboxes in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/UseCheckboxes-ExcelBasicForm.jpg) 
@@ -97,29 +105,18 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
 
 ![On the Review tab, click Protect Sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ReviewProtectSheet-ExcelBasicForm.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Select all of the options you want and optionally include a password. Note that if you don't require a password, another user can unprotect the sheet. Click "OK."
 
 ![Choose the items to protect and click OK](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ProtectSheet-ExcelBasicForm.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you share the spreadsheet, others will be able to use the form controls but not edit them or other items in the sheet you protect. If they try, they'll receive an error message letting them know the sheet is protected.
 
 ![Protected sheet error in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ProtectedSheetError-ExcelBasicForm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to make additional changes to your form, click "Unprotect Sheet" on the Review tab.
 
  For more help with locking specific cells to protect them from editing, check out our how-to for [locking cells in Excel](https://video-screen-grab.techidaily.com/new-savor-playtime-the-essential-guide-to-high-quality-offline-ios-games-for-2024/).
@@ -130,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +134,20 @@ thumbnail: https://thmb.techidaily.com/f1c57303ea622caa2e3702d3e2a77e00493f995e7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-apple-podcast-submission-process/"><u>[New] Navigating Apple Podcast Submission Process</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723012846327-solved-mortal-kombat-11-crash-quickly-and-easily/"><u>[SOLVED] Mortal Kombat 11 Crash | Quickly & Easily!</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-optimal-strategies-for-enhancing-vhs-photos-digitally/"><u>[Updated] 2024 Approved Optimal Strategies for Enhancing VHS Photos Digitally</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-auto-play-on-fb-video-streams-for-2024/"><u>[Updated] Mastering Auto-Play on FB Video Streams for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/defeating-warzones-challenge-a-step-by-step-guide-to-fixing-dev-error-6634/"><u>Defeating Warzone's Challenge : A Step-by-Step Guide to Fixing Dev Error 6634</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-se-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/digitales-spiegelbild-fur-unternehmensablaufe-einfuhrungsbuch-abbey-linie/"><u>Digitales Spiegelbild Für Unternehmensabläufe: Einführungsbuch – ABBEY-Linie</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-vivo-x-flip-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Vivo X Flip FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-performance-alert-detroit-become-human-now-bug-free-on-personal-computers/"><u>Enhanced Performance Alert: Detroit: Become Human Now Bug-Free on Personal Computers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-on-overcoming-fifa-21-failure-to-load/"><u>Expert Advice on Overcoming FIFA 21 Failure to Load</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-for-fixing-the-problem-of-humankind-not-leaving-earth/"><u>Expert Tips for Fixing the Problem of Humankind Not Leaving Earth</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-definitive-bioshock-2-experience-freshly-patched-and-ready-for-action/"><u>The Definitive BioShock 2 Experience - Freshly Patched and Ready for Action!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-dangers-in-automated-psychological-assistance/"><u>Understanding Dangers in Automated Psychological Assistance</u></a></li>
+</ul></div>
 

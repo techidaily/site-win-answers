@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Constructing a Radar Plot in Microsoft Excel"
-date: 2024-08-27T23:57:12.342Z
-updated: 2024-08-28T23:57:12.342Z
+date: 2024-12-01T17:07:43.066Z
+updated: 2024-12-06T17:31:03.373Z
 tags:
   - excel
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 ![Radar Chart with one data series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/radar-chart-one-series.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Sample Data
 
  Let's first take a look at the sample data we'll be using for our examples.
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
  We have three trainers: Graham, Barbara, and Keith. We've assessed them in five different categories (Knowledge, Delivery, and so on) and our Excel table contains those ratings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ##  Create a Radar Chart in Excel
 
  In this first example, we will create a Radar Chart that shows the assessment of all three trainers.
@@ -53,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 ![First Radar chart example](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/first-radar-chart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Enter a Chart Title
 
  Select the chart title and then type a new title. As you type, the text will appear in the Formula Bar.
@@ -62,24 +64,13 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 ![Entering a chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/chart-title.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you press Enter, your chart will have a new title.
 
 ![Entering a chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/chart-title.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ###  Move the Legend
 
  For another change, we could move the legend from above the chart to the right.
@@ -89,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 ![2019-01-28 (1)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/2019-01-28-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Modify the Radar Chart Axis
 
  To give our Radar chart a greater impact, and more data clarity, we will modify the axis to begin at three instead of zero.
@@ -100,15 +92,24 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 ![Accessing the axis options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/axis-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Format Axis pane appears on the right. We want to edit the "Minimum" setting under the "Bounds" section, so click that field and type "3" there.
 
 ![Setting the minimum bound for the axis](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/setting-minimum-bound-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The radar chart updates immediately and now that we've increased the minimum Bounds value, you can more clearly see the differences in the assessments of the three trainers.
 
 ![Completed Radar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/completed-radar-chart.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This example gives us a nice view of which trainers excel at which qualities, and also how rounded their skill sets are.
 
@@ -128,17 +129,10 @@ thumbnail: https://thmb.techidaily.com/c18d888464621b9b20ff1e9897c3e6fc08590ad72
 
 ![Selecting ranges for a filled Radar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/selecting-cell-ranges.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Now head to Insert > Waterfall Chart > Filled Radar.
 
 ![Create a filled Radar chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/filled-radar.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  When you create a radar chart using only one data series, the axis does not start from zero the way it did in our previous example. Instead, the minimum bound will be the lowest number in the range of cells you selected. In our case, the minimum bound is 4.4---one tick below Keith's minimum score.
 
 ![Radar Chart with one data series](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/radar-chart-one-series.png) 
@@ -157,8 +151,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +158,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-developing-mastery-in-professional-interview-processes/"><u>[Updated] In 2024, Developing Mastery in Professional Interview Processes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-premier-ai-for-stunning-photo-creation/"><u>[Updated] Premier AI for Stunning Photo Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nine-must-have-technologies-for-online-privacy-protection/"><u>2024 Approved Nine Must-Have Technologies for Online Privacy Protection</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cheap-sky-expeditions-under-500-drone-highlights/"><u>Cheap Sky Expeditions Under $500 Drone Highlights</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-restore-key-usage-on-computers-and-phones/"><u>Comprehensive Guide to Restore @ Key Usage on Computers and Phones</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-steps-to-resolve-persistent-google-chrome-breakdowns/"><u>Easy Steps to Resolve Persistent Google Chrome Breakdowns</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-disco-elysium-stability-problems-for-pc-gamers/"><u>Expert Advice: Resolving 'Disco Elysium' Stability Problems for PC Gamers</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-blurry-graphics-in-cod-warzone-on-pc/"><u>How to Fix Blurry Graphics in COD: Warzone on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-black-screen-troubles-in-zoom-on-your-computer-comprehensive-2024-instructions/"><u>Resolving Black Screen Troubles in Zoom on Your Computer - Comprehensive 2024 Instructions</u></a></li>
+<li><a href="https://solve-info.techidaily.com/titre-seo-sauvegarder-sous-windows-11-ne-fonctionne-plus-solutions-rapides-pour-regler-ce-bug/"><u>Titre SEO: Sauvegarder Sous Windows 11 Ne Fonctionne Plus, Solutions Rapides Pour Régler Ce Bug !</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-amd-radeon-utility-fails-to-launch/"><u>Troubleshooting Steps When AMD Radeon Utility Fails to Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-when-cant-launch-assassins-creed-mirage/"><u>Troubleshooting Steps: When Can't Launch Assassin's Creed Mirage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limits-wording-and-size-restrictions-of-chatgpt-responses/"><u>Understanding the Limits: Wording and Size Restrictions of ChatGPT Responses</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-11-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 11 Pro Max</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/your-essential-guide-to-unmissable-gaming-adventures/"><u>Your Essential Guide to Unmissable Gaming Adventures</u></a></li>
+</ul></div>
 

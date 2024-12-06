@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficiency: The Ultimate Guide to Date & Time in MS Excel with 13 Key Functions"
-date: 2024-08-27T23:57:19.484Z
-updated: 2024-08-28T23:57:19.484Z
+date: 2024-12-04T17:13:05.996Z
+updated: 2024-12-06T17:29:42.872Z
 tags:
   - excel
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/9cbb22dcf88bcb4ceb0ab602c498731d7fd924c3e
 
  You might already be familiar with some date and time functions in Excel. So let's look at essential functions for common tasks as well as more advanced functions you may not know exist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  View the Current Date or Time: TODAY and NOW
 
  Probably the handiest of all date and time functions in Excel are TODAY and NOW. TODAY provides [the current date](https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-redmi-note-12-5g-by-stellar-photo-recovery-android-mobile-photo-recover/) and NOW provides the current date and time.
@@ -40,9 +44,6 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 
 ![TODAY and NOW functions in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TodayNow-ExcelDataEntryFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Create a Full Date: DATE
 
  Not all dates in your sheet may be in a single cell. Maybe you have the day, month, and year in separate columns and want to combine them for a complete date. You can use the [DATE function](https://youtube-web.techidaily.com/ed-2024-approved-ultimate-guide-to-the-best-10-video-saving-devices/) in Excel.
@@ -77,9 +78,6 @@ Related: [How to Use the YEAR Function in Microsoft Excel](https://facebook-reco
 
 ![DAY function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DAY-ExcelDateTimeFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  See a Portion of the Day: TIME
 
  The TIME function in Excel provides you with the decimal portion of a day based on hours, minutes, and seconds in your sheet.
@@ -92,14 +90,12 @@ Related: [How to Use the YEAR Function in Microsoft Excel](https://facebook-reco
 
 ![TIME function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/TIME-ExcelDateTimeFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If the result displays a time rather than a decimal, format the cell as a number by selecting "Number" in the Number drop-down box on the Home tab.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Get Parts of a Time: HOUR, MINUTE, SECOND
 
  Similar to DAY, MONTH, and YEAR, the HOUR, MINUTE, and SECOND functions give you parts of a [time entry](https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-f54-5g-by-drfone-android/).
@@ -121,8 +117,9 @@ Related: [How to Use the YEAR Function in Microsoft Excel](https://facebook-reco
 ![HOUR function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/HOUR-ExcelDateTimeFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Calculate Days, Months, or Years Between Dates: DATEDIF
 
  You can use the [DAYS function](https://some-approaches.techidaily.com/new-top-10-hidden-gems-for-enhancing-canva-images/) to find the number of days between two dates. But the DATEDIF function goes a step further by allowing you to find the number of days, months, or years.
@@ -143,10 +140,6 @@ Related: [How to Find the Number of Days Between Two Dates in Microsoft Excel](h
 
 ![DATEIF function for months](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DATEDIFMonths-ExcelDateTimeFunctions.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  To find the number of days between the same start and end dates in the same cells you would use this formula:
 
 =DATEDIF(H2,I2,"D")
@@ -154,8 +147,13 @@ Related: [How to Find the Number of Days Between Two Dates in Microsoft Excel](h
 ![DATEIF function for days](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/DATEDIFDays-ExcelDateTimeFunctions.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Find the Number of Workdays: NETWORKDAYS
 
  Maybe you want to find the number of workdays between two dates. With NETWORKDAYS, you can get this number and optionally reference holidays in a different cell range.
@@ -174,11 +172,16 @@ Related: [How to Find the Number of Days Between Two Dates in Microsoft Excel](h
 
 ![NETWORKDAYS function with holidays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/NETWORKDAYSHolidays-ExcelDateTimeFunctions.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Even though we have three holidays listed, they do not all fall on workdays. So, the difference in the above is only one day.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  See the Week Number: WEEKNUM
 
  You don't have to count weeks manually if you use the WEEKNUM function. With it, you can find the week number in a year for any date.
@@ -207,8 +210,6 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +217,18 @@ Related: [Functions vs. Formulas in Microsoft Excel: What's the Difference?](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-google-meet-creation-and-scheduling-guide/"><u>[Updated] In 2024, Mastering Google Meet Creation & Scheduling Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-quietude-creation-garageband-volume-control-methods/"><u>2024 Approved Quietude Creation Garageband Volume Control Methods</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-tips-to-overcome-launch-errors-in-payday-2-on-your-windows-machine/"><u>Expert Tips to Overcome Launch Errors in Payday 2 on Your Windows Machine</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-it-fast-common-hurdles-to-getting-genshin-impact-up-and-running/"><u>Fix It Fast: Common Hurdles to Getting Genshin Impact Up and Running</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-microsoft-edge-crashes-in-windows-11-effective-solutions-discovered/"><u>Fixing Microsoft Edge Crashes in Windows 11: Effective Solutions Discovered</u></a></li>
+<li><a href="https://win-answers.techidaily.com/genshin-game-launch-fixes-simple-techniques-to-get-you-playing-faster/"><u>Genshin Game-Launch Fixes - Simple Techniques to Get You Playing Faster</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-poco-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Poco FRP</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-maze-to-find-your-ideal-4k-screen/"><u>Navigating the Maze to Find Your Ideal 4K Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-when-elden-rings-cooperative-mode-fails/"><u>Troubleshooting Guide: When Elden Ring's Cooperative Mode Fails</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-to-image-easily-separate-and-save-pics-from-movies-windows-10/"><u>Video to Image Easily Separate and Save Pics From Movies (Windows 10)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-wins-in-ai-battle-the-gpt-showdown-with-bing-and-bard/"><u>Who Wins in AI Battle? The GPT Showdown with Bing and Bard</u></a></li>
+</ul></div>
 

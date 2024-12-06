@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing The Elder Scrolls Online Loading Errors Quickly
-date: 2024-11-16T06:38:50.107Z
-updated: 2024-11-16T17:00:47.822Z
+date: 2024-12-01T18:22:21.982Z
+updated: 2024-12-06T16:10:18.525Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,13 +34,6 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 2. [Delete the program data](https://tools.techidaily.com/drivereasy/download/)
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Add ESO into exception
 
@@ -50,33 +47,21 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Change settings** button and check both **Private**  and **Public** options for items related to ESO or ESO launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
@@ -102,16 +87,7 @@ Here’s how to allow the ESO launcher through the firewall.
 5. Relaunch the game and check to see if the issue persists.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
@@ -142,6 +118,10 @@ OR
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -164,22 +144,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-discover-the-leading-5-ps2-android-game-emulators/"><u>[Updated] In 2024, Discover The Leading 5 PS2 Android Game Emulators</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypassing-issues-how-to-get-your-computer-to-see-the-steam-virtual-reality-setup/"><u>Bypassing Issues - How To Get Your Computer To See The Steam Virtual Reality Setup</u></a></li>
-<li><a href="https://win-answers.techidaily.com/defeat-steam-lag-tackle-frozen-screens-and-zero-responses-effectively-in/"><u>Defeat Steam Lag: Tackle Frozen Screens & Zero Responses Effectively In</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-video-memory-problem-now-fixed/"><u>Fortnite Video Memory Problem - Now Fixed!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/free-convert-any-audio-into-custom-ringtones-for-ios-devices-web-and-app/"><u>Free Convert Any Audio Into Custom Ringtones for iOS Devices - Web & App</u></a></li>
-<li><a href="https://win-answers.techidaily.com/getting-your-discord-up-and-running-solutions-to-the-common-application-errors/"><u>Getting Your Discord Up and Running: Solutions to the Common Application Errors</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-preventing-and-solving-assassins-creed-odyssey-pc-freezing-issues/"><u>Guide to Preventing and Solving Assassin's Creed Odyssey PC Freezing Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-the-black-screen-issue-in-fortnite-a-guide-for-windows-users/"><u>How to Fix the Black Screen Issue in Fortnite: A Guide for Windows Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-se-2020-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover iPhone SE (2020) Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-c22-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Nokia C22 Phone without Any Data Loss</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-tecno-camon-30-pro-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Tecno Camon 30 Pro 5G Phone Network-Ready</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/memory-mine-for-moments/"><u>Memory Mine for Moments</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/mfc-9330-cdw-driver-installation-guide/"><u>MFC-9330 CDW Driver Installation Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pro-level-windows-photos-shortcut-guide/"><u>Pro-Level Windows Photos Shortcut Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-minecraft-performance-issues-on-windows-pcs-ultimate-guide-for-smooth-gameplay/"><u>Resolving Minecraft Performance Issues on Windows PCs - Ultimate Guide for Smooth Gameplay</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-guilty-gear-strive-from-crashing-on-your-pc-essential-fixes-revealed/"><u>Stop Guilty Gear Strive From Crashing on Your PC - Essential Fixes Revealed!</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-auto-translate-youtube-videos-into-different-languages-for-2024/"><u>Updated Auto Translate YouTube Videos Into Different Languages for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ource-unlimited-stock-media-from-top-tier-4-youtube-channels/"><u>[New] Source Unlimited Stock Media From Top-Tier 4 YouTube Channels</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-secrets-to-successful-youtube-filmmaking-with-pc-editing-software/"><u>[Updated] 2024 Approved Secrets to Successful YouTube Filmmaking with PC Editing Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-skyrocket-to-your-youtube-audience-goal-1kplus/"><u>[Updated] 2024 Approved Skyrocket to Your YouTube Audience Goal 1K+</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-srs-adjustment-guide-boosting-performance-on-both-platforms/"><u>2024 Approved SRS Adjustment Guide Boosting Performance on Both Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-guide-to-podcast-post-production-in-garageband/"><u>In 2024, The Ultimate Guide to Podcast Post-Production in GarageBand</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/master-your-data-with-winx-mediatrans-the-premier-iphone-ipad-file-transfer-solution-between-mac-or-windows-systems/"><u>Master Your Data with WinX MediaTrans™: The Premier iPhone iPad File Transfer Solution Between Mac or Windows Systems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-attraction-how-to-secure-more-matches-in-bumble/"><u>Mastering the Art of Attraction: How to Secure More Matches in Bumble</u></a></li>
+<li><a href="https://win-answers.techidaily.com/plex-versus-kodi-showdown-which-is-the-superior-media-streaming-platform/"><u>Plex Versus Kodi Showdown: Which Is the Superior Media Streaming Platform?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/premier-video-transcoding-software-mp4-480p-edition-compatible-with-windows-11/"><u>Premier Video Transcoding Software: MP4 480P Edition Compatible with Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-merging-of-avi-video-clips-without-compromising-quality/"><u>Seamless Merging of AVI Video Clips Without Compromising Quality</u></a></li>
+<li><a href="https://win-answers.techidaily.com/simple-guide-to-capturing-screenshots-and-recording-audio-using-a-microphone-on-windows-8/"><u>Simple Guide to Capturing Screenshots and Recording Audio Using a Microphone on Windows 8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-mystery-of-silent-videos-a-guide-to-restoring-audio/"><u>Solving the Mystery of Silent Videos: A Guide to Restoring Audio</u></a></li>
 </ul></div>
 

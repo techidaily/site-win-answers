@@ -1,7 +1,7 @@
 ---
 title: Mastering Cell Referencing Techniques in Microsoft Excel
-date: 2024-08-27T23:56:50.790Z
-updated: 2024-08-28T23:56:50.790Z
+date: 2024-12-01T16:36:30.442Z
+updated: 2024-12-06T16:05:36.217Z
 tags:
   - excel
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Use Mixed References in Excel](https://screen-mirror.techidaily.com/how-realme-note-50-mirror-screen-to-pc-drfone-by-drfone-android/)
 * [How to Switch Between Different Types of Cell References in Excel](https://visual-screen-recording.techidaily.com/in-2024-capturing-clarity-a-look-at-screensnapelite/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Excel cell references can be relative, absolute, or mixed to achieve specific outcomes in formulas.
@@ -27,9 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  When dealing with lots of data in Excel, you can use relative, absolute, or mixed references to save repetitive manual work, ensure your formulas work correctly, and capture large volumes of data in just a few quick actions. Let's explore how to use these Excel reference types.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Are Excel Cell References?
 
  You use a cell reference when you want to capture information that is contained within another cell or range of cells. For example, the following formula references cells A1 and A2, and will add their contents together to produce a result.
@@ -45,8 +46,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Let's look into these in more detail.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use Relative References in Excel
 
  In the example shown here, you can see how much the person has spent on each item in each month. What they now want to do is work out the total spend for each month.
@@ -59,14 +61,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Microsoft Excel sheet showing the formula and results when the January spending totals are added together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/relative-first-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  This has now referenced cells E2, E12, and E22 within the calculation, adding them together. This is a relative reference—the formula in cell H2 has referenced the cells that are three columns to the left (E2), three columns to the left and ten rows down (E12), and three columns to the left and twenty rows down (E22), respectively.
 
  Now, if you were to copy and paste that same formula elsewhere, it would pick up the values that are in the same relative positions to where you paste it. You can also [use Excel's AutoFill function](https://tech-haven.techidaily.com/top-5-ai-generated-text-prompts-that-could-lead-to-fraud/) to complete the rest of your data with the same relative reference.
 
 ![Microsoft Excel sheet containing all results for each month after using relative referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/relative-autofilled.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see here, the formula in cell H11 is:
 
@@ -88,6 +91,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Microsoft Excel sheet showing what happens when absolute referencing is not used when it should be.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/absolute-not-working.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So, we need to make sure that Excel continues to refer to the correct cell, which, in this case, is A2\. To do this, you need to insert the dollar symbol before each part of your reference:
 
 =SUM($A$2
@@ -108,17 +115,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Microsoft Excel sheet containing all results for each employee after using absolute referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/absolute-autofilled.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ##  How to Use Mixed References in Excel
 
  There may be occasions when you need to lock the row but not the column within your formula, or vice versa. For example, in this case, the accountant wants to work out how much tax each employee has to pay based on their individual tax rates.
 
 ![Microsoft Excel sheet showing data relating to several employees and blank 'tax payable' tables where their total tax bill will be calculated using mixed references.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-blank-results.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Therefore, we need to lock the values in column E (the tax rates), but not the rows, as they are different for each employee, and not the references to the years, as they need to be adaptable.
 
@@ -134,9 +139,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Microsoft Excel sheet showing the formula and result after mixed referencing has been applied.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-first-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We can now use the AutoFill function to complete Arjun's tax payable totals, knowing that column E will remain locked in our calculations, whilst the totals for each year will move relative to where the formula is placed.
 
 ![Microsoft Excel sheet containing all results for Arjun after using mixed referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-autofilled-1.png) 
@@ -146,8 +148,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Microsoft Excel sheet containing all results for all employees after using mixed referencing and AutoFill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/mixed-autofilled-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Switch Between Different Types of Cell References in Excel
 
  If you want to easily toggle between relative, absolute, and mixed references in your Excel sheet, you don't need to type the dollar symbol each time. Instead, click the cell you want to amend and then, in the formula bar, click the part of the formula you want to switch (clicking directly before the reference, in the middle of the reference, or directly after the reference will work).
@@ -156,18 +163,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Excel workbook showing the formula bar and the reference to cell G11 highlighted with an arrow.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/switching.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, press F4 and you will see the cell reference type change.
 
  It will first switch to an absolute reference:
@@ -198,8 +193,6 @@ G11
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +200,19 @@ G11
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>2024 Approved Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-14-plus-passcode-not-working-by-drfone-ios/"><u>How to Fix iPhone 14 Plus Passcode not Working?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-15-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 15?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723007151760-pc-gaming-troubles-heres-how-to-fix-fortnites-performance-hiccups/"><u>PC Gaming Troubles? Here's How to Fix Fortnite's Performance Hiccups!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/pixel-9xl-vs-iphone-15-pro-photography-face-off-reveals-unexpected-victor-insights-and-analysis/"><u>Pixel 9XL vs iPhone 15 Pro Photography Face-Off Reveals Unexpected Victor – Insights & Analysis</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-error-4201-in-genshin-impact-a-step-by-step-guide/"><u>Resolving Error 4201 in Genshin Impact: A Step-by-Step Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-for-no-touch-or-pen-support-message-on-display-devices/"><u>Solution for 'No Touch or Pen Support' Message on Display Devices</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-league-of-legends-crashing-effortless-troubleshooting-steps-inside/"><u>Stop League of Legends Crashing - Effortless Troubleshooting Steps Inside!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-modern-warfare-3s-12707-memoryexceded-issue-solved/"><u>Troubleshooting Guide: Modern Warfare 3'S 12707 MEMORY_EXCEDED Issue Solved</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-persistent-loading-issues-on-fortnite-solutions-for-seamless-gaming/"><u>Troubleshooting Persistent Loading Issues on Fortnite – Solutions for Seamless Gaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Itel P55 | Dr.fone</u></a></li>
+</ul></div>
 

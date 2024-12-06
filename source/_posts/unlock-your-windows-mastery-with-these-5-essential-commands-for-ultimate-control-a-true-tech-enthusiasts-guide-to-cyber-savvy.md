@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Windows Mastery with These 5 Essential Commands for Ultimate Control - A True Tech Enthusiast's Guide to Cyber Savvy!
-date: 2024-08-27T23:54:32.706Z
-updated: 2024-08-28T23:54:32.706Z
+date: 2024-12-02T18:30:23.572Z
+updated: 2024-12-06T16:48:02.360Z
 tags:
   - windows
 categories:
@@ -44,6 +44,10 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -53,8 +57,9 @@ color
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use dir /s Command to Create a Lot of Scrolling Text
 
  The first command we'll look at is:
@@ -83,11 +88,9 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
+
 ##  Use the ping-t Command to Ping a Website Continuously
 
  Next up is the ping command with the -t option:
@@ -105,8 +108,9 @@ Your browser does not support the video tag.
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -122,8 +126,9 @@ Your browser does not support the video tag.
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
 
  This is another fun Linux command that generates fake but realistic-looking activity in your terminal—perfect for when you want to look busy or just enjoy some tech-themed eye candy. Same as before, you’ll first need to install genact on your system. To do this, make sure you have Rust installed in your WSL environment by entering the following command in your WSL-backed Ubuntu terminal:
@@ -154,9 +159,6 @@ genact -m cryptomining
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
  For our final command, let’s pull out all the stops and go full overboard with “hollywood”. This is another Linux command that creates a split-screen terminal that looks like something straight out of a Hollywood movie—the stereotypical mainstream hacker visuals.
@@ -185,8 +187,6 @@ sudo apt-get install byobu hollywood`
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,19 @@ sudo apt-get install byobu hollywood`
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-high-quality-win11-screen-capture-pro-for-2024/"><u>[New] High-Quality Win11 Screen Capture Pro for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-key-role-of-image-quality-in-generating-clicks-on-youtube-videos/"><u>[Updated] In 2024, The Key Role of Image Quality in Generating Clicks on YouTube Videos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/2024-updates-for-phasmophobia-crash-issues-a-comprehensive-guide/"><u>2024 Updates for Phasmophobia Crash Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/battlefront-ii-pc-issues-how-to-prevent-game-crashes/"><u>Battlefront II PC Issues - How to Prevent Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-a-malfunctioning-windows-11-taskbar-step-by-step-guide/"><u>Fixing a Malfunctioning Windows 11 Taskbar - Step-by-Step Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/mind-the-murders-4-interactive-ai-experiences/"><u>Mind the Murders: 4 Interactive AI Experiences</u></a></li>
+<li><a href="https://fox-access.techidaily.com/prime-choices-of-affordable-cameras-with-full-hd/"><u>Prime Choices of Affordable Cameras with Full HD</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solve-game-loading-failures-by-verifying-integrity-of-game-data/"><u>Solve Game Loading Failures by Verifying Integrity of Game Data</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-walkthrough-on-how-to-erase-your-chatgpt-profile/"><u>The Ultimate Walkthrough on How To Erase Your ChatGPT Profile</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-new-worlds-persistent-freeze-up-problem/"><u>Troubleshooting Tips for New World's Persistent Freeze-Up Problem</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/yl-software-tutorial-navigating-the-sound-configuration-options-for-optimal-listening-experience/"><u>YL Software Tutorial: Navigating the Sound Configuration Options for Optimal Listening Experience</u></a></li>
+</ul></div>
 

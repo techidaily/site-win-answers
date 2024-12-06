@@ -1,7 +1,7 @@
 ---
 title: "Mastering Structure: Fundamental Tips on Crafting Formulas in Excel"
-date: 2024-08-27T23:56:55.795Z
-updated: 2024-08-28T23:56:55.795Z
+date: 2024-11-30T16:02:39.317Z
+updated: 2024-12-06T18:35:40.087Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 
 ## Mastering Structure: Fundamental Tips on Crafting Formulas in Excel
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Parts of a Formula](https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-s18-pro-drfone-by-drfone-virtual-android/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/704c497d76ce3443a342fa34e8883ce74ed2e3eea
 * [Get Help From Excel](https://activate-lock.techidaily.com/in-2024-unlocking-an-icloud-locked-ipad-and-iphone-6s-plus-by-drfone-ios/)
 
  We're not all mathematicians, but some tasks in Microsoft Excel are best done using formulas. Maybe you're new to writing formulas or are trying but keep [getting confusing errors](https://instagram-videos.techidaily.com/updated-cut-and-paste-success-enhancing-videos-for-instagram-shares/). Here, we'll cover the basics of structuring formulas in Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Parts of a Formula
 
@@ -59,9 +67,6 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 
 **Function**: A common but not required [part of a formula is a function](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/). As with our above example the TODAY function provides today's date. Excel supports many, many functions for working with numbers, text, lookups, information, and much more.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Formula Examples
 
  Now that you know the basic parts of a formula, let's look at the syntaxes for some examples.
@@ -79,8 +84,9 @@ Related: [How to Insert Today's Date in Microsoft Excel](https://blog-min.techid
 ![Formula to add numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/AddNumbers-ExcelStructureFormulas.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For a function example, you can add the values in a cell range. Start with the equal sign, enter the function followed by an opening parenthesis, insert the first cell in the range, a colon (reference operator), last cell in the range, and finish with the closing parenthesis.
 
 =SUM(A1:A5)
@@ -100,17 +106,15 @@ Related: [9 Useful Microsoft Excel Functions for Working With Text](https://vide
 ![Formula to substitute text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SubstituteFormula-ExcelStructureFormulas.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Get Help From Excel
 
  It can take time and practice to get the hang of writing formulas. Luckily, Excel does offer some [help when you're using functions](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) in your formulas.
 
 Related: [How to Find the Function You Need in Microsoft Excel](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  Start Your Formula
 
  If you plan to use a function, you can get a jumpstart on the formula.
@@ -123,22 +127,14 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![Formula for SUM in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SumSyntax-ExcelStructureFormulas.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can then click an argument in the formula and enter or select what you want to use. Follow the formula you see by entering commas or other expected operators until you complete the formula.
 
 ![Using the formula for SUM in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/SumFormula-ExcelStructureFormulas.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  View the Function Library
 
  Even if you know the function you want, you can take a look at the syntax for the formula ahead of time. This helps you prepare the data if it's not ready.
@@ -147,20 +143,18 @@ Related: [How to Find the Function You Need in Microsoft Excel](https://win11.te
 
 ![Insert Function on the Formulas tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/InsertFunctionRibbon-ExcelStructureFormulas.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Enter the function into the Search box at the top, hit "Go," and then select it from the results.
 
 ![Find a function box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/InsertFunctionSearch-ExcelStructureFormulas.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll then see the expected syntax for the function near the bottom of the window. Plus, you get a description of the function for additional help. Below, you can see what you need for the [COUNT function](https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12t-pro-for-free-drfone-by-drfone-virtual-android/).
 
 ![COUNT function syntax and description in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/InsertFunctionSyntax-ExcelStructureFormulas.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully these explanations and tips help you create the formulas you need in Microsoft Excel!
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/)
@@ -171,8 +165,6 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +172,18 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-tiktok-content-creation-navigating-copyright-rules/"><u>[New] TikTok Content Creation Navigating Copyright Rules</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-top-10-cost-free-screen-capture-apps-for-mac-users/"><u>2024 Approved Top 10 Cost-Free Screen Capture Apps for Mac Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-resolve-logitech-g-hub-connectivity-problems-on-windows/"><u>Comprehensive Guide: Resolve Logitech G Hub Connectivity Problems on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000700193-cyberpunk-2077-encounters-fatal-error-2amf5-update-now/"><u>Cyberpunk 2077 Encounters Fatal Error 2Amf5 - Update Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/dealing-with-normalizdll-not-found-effective-solutions-and-tips/"><u>Dealing with 'Normaliz.dll Not Found': Effective Solutions and Tips</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-slow-gameplay-and-enhance-fps-on-watch-dogs-legion-expert-techniques/"><u>Fix Slow Gameplay & Enhance FPS on Watch Dogs: Legion – Expert Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-precision-best-keyboard-cars-for-windows/"><u>Quick Precision: Best Keyboard Cars for Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-installed-eac-required-message-during-game-bootup/"><u>Troubleshooting Guide: Installed EAC Required Message During Game Bootup</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-walkthrough-for-turning-on-administrator-account-in-windows-1178-easy-steps-inside/"><u>Ultimate Walkthrough for Turning On Administrator Account in Windows 11/7/8 - Easy Steps Inside!</u></a></li>
+<li><a href="https://article-files.techidaily.com/unlock-the-secrets-to-enthralling-unboxing-content-on-insta-for-2024/"><u>Unlock the Secrets to Enthralling Unboxing Content on Insta for 2024</u></a></li>
+</ul></div>
 
